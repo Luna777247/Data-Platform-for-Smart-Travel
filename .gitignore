@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# Storage - Optional: exclude data if it gets too large
+# storage/data/*.json
+storage/metadata/*.json
+
+# Node/Frontend
+node_modules/
+dist/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db

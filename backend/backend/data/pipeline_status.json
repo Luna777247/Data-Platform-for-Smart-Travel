@@ -1,0 +1,650 @@
+[
+  {
+    "city": "hanoi",
+    "type": "attraction",
+    "status": "done",
+    "collected": 135,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:01.353604",
+    "end_time": "2026-04-25T07:46:01.353579"
+  },
+  {
+    "city": "hanoi",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 1005,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:05.754888",
+    "end_time": "2026-04-25T07:46:05.754862"
+  },
+  {
+    "city": "hanoi",
+    "type": "hotel",
+    "status": "done",
+    "collected": 649,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:11.086785",
+    "end_time": "2026-04-25T07:46:11.086760"
+  },
+  {
+    "city": "hanoi",
+    "type": "cafe",
+    "status": "done",
+    "collected": 1006,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:18.102261",
+    "end_time": "2026-04-25T07:46:18.102238"
+  },
+  {
+    "city": "hanoi",
+    "type": "mall",
+    "status": "done",
+    "collected": 13,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:21.498395",
+    "end_time": "2026-04-25T07:46:21.498360"
+  },
+  {
+    "city": "hanoi",
+    "type": "park",
+    "status": "done",
+    "collected": 8,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:22.723194",
+    "end_time": "2026-04-25T07:46:22.723169"
+  },
+  {
+    "city": "hanoi",
+    "type": "cinema",
+    "status": "done",
+    "collected": 23,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:25.165431",
+    "end_time": "2026-04-25T07:46:25.165397"
+  },
+  {
+    "city": "hanoi",
+    "type": "museum",
+    "status": "done",
+    "collected": 13,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:28.037213",
+    "end_time": "2026-04-25T07:46:28.037192"
+  },
+  {
+    "city": "hcm",
+    "type": "attraction",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:46:30.430711",
+    "end_time": "2026-04-25T07:46:30.430687"
+  },
+  {
+    "city": "hcm",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:46:31.311440",
+    "end_time": "2026-04-25T07:46:31.311415"
+  },
+  {
+    "city": "hcm",
+    "type": "hotel",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:46:33.501708",
+    "end_time": "2026-04-25T07:46:33.501688"
+  },
+  {
+    "city": "hcm",
+    "type": "cafe",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:46:34.528711",
+    "end_time": "2026-04-25T07:46:34.528691"
+  },
+  {
+    "city": "hcm",
+    "type": "mall",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:46:36.299959",
+    "end_time": "2026-04-25T07:46:36.299935"
+  },
+  {
+    "city": "hcm",
+    "type": "park",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:46:40.518758",
+    "end_time": "2026-04-25T07:46:40.518733"
+  },
+  {
+    "city": "hcm",
+    "type": "cinema",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:46:45.365638",
+    "end_time": "2026-04-25T07:46:45.365607"
+  },
+  {
+    "city": "hcm",
+    "type": "museum",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:46:49.364465",
+    "end_time": "2026-04-25T07:46:49.364440"
+  },
+  {
+    "city": "danang",
+    "type": "attraction",
+    "status": "done",
+    "collected": 108,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:56.287098",
+    "end_time": "2026-04-25T07:46:56.287078"
+  },
+  {
+    "city": "danang",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 206,
+    "target": 100,
+    "start_time": "2026-04-25T07:46:59.874022",
+    "end_time": "2026-04-25T07:46:59.873995"
+  },
+  {
+    "city": "danang",
+    "type": "hotel",
+    "status": "done",
+    "collected": 209,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:03.900580",
+    "end_time": "2026-04-25T07:47:03.900558"
+  },
+  {
+    "city": "danang",
+    "type": "cafe",
+    "status": "done",
+    "collected": 200,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:09.890364",
+    "end_time": "2026-04-25T07:47:09.890342"
+  },
+  {
+    "city": "danang",
+    "type": "mall",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:47:12.465254",
+    "end_time": "2026-04-25T07:47:12.465221"
+  },
+  {
+    "city": "danang",
+    "type": "park",
+    "status": "done",
+    "collected": 12,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:19.123686",
+    "end_time": "2026-04-25T07:47:19.123659"
+  },
+  {
+    "city": "danang",
+    "type": "cinema",
+    "status": "done",
+    "collected": 5,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:21.699345",
+    "end_time": "2026-04-25T07:47:21.699325"
+  },
+  {
+    "city": "danang",
+    "type": "museum",
+    "status": "done",
+    "collected": 20,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:26.012867",
+    "end_time": "2026-04-25T07:47:26.012841"
+  },
+  {
+    "city": "cantho",
+    "type": "attraction",
+    "status": "done",
+    "collected": 35,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:31.416274",
+    "end_time": "2026-04-25T07:47:31.416247"
+  },
+  {
+    "city": "cantho",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 207,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:35.264419",
+    "end_time": "2026-04-25T07:47:35.264390"
+  },
+  {
+    "city": "cantho",
+    "type": "hotel",
+    "status": "done",
+    "collected": 208,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:38.977648",
+    "end_time": "2026-04-25T07:47:38.977620"
+  },
+  {
+    "city": "cantho",
+    "type": "cafe",
+    "status": "done",
+    "collected": 203,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:44.551119",
+    "end_time": "2026-04-25T07:47:44.551100"
+  },
+  {
+    "city": "cantho",
+    "type": "mall",
+    "status": "done",
+    "collected": 4,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:45.752677",
+    "end_time": "2026-04-25T07:47:45.752657"
+  },
+  {
+    "city": "cantho",
+    "type": "park",
+    "status": "done",
+    "collected": 9,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:48.842977",
+    "end_time": "2026-04-25T07:47:48.842953"
+  },
+  {
+    "city": "cantho",
+    "type": "cinema",
+    "status": "done",
+    "collected": 5,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:53.002333",
+    "end_time": "2026-04-25T07:47:53.002298"
+  },
+  {
+    "city": "cantho",
+    "type": "museum",
+    "status": "done",
+    "collected": 2,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:54.872397",
+    "end_time": "2026-04-25T07:47:54.872369"
+  },
+  {
+    "city": "haiphong",
+    "type": "attraction",
+    "status": "done",
+    "collected": 61,
+    "target": 100,
+    "start_time": "2026-04-25T07:47:58.306982",
+    "end_time": "2026-04-25T07:47:58.306963"
+  },
+  {
+    "city": "haiphong",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 208,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:02.112633",
+    "end_time": "2026-04-25T07:48:02.112609"
+  },
+  {
+    "city": "haiphong",
+    "type": "hotel",
+    "status": "done",
+    "collected": 203,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:04.852299",
+    "end_time": "2026-04-25T07:48:04.852276"
+  },
+  {
+    "city": "haiphong",
+    "type": "cafe",
+    "status": "done",
+    "collected": 178,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:07.647726",
+    "end_time": "2026-04-25T07:48:07.647707"
+  },
+  {
+    "city": "haiphong",
+    "type": "mall",
+    "status": "done",
+    "collected": 2,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:08.875953",
+    "end_time": "2026-04-25T07:48:08.875931"
+  },
+  {
+    "city": "haiphong",
+    "type": "park",
+    "status": "done",
+    "collected": 19,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:13.819449",
+    "end_time": "2026-04-25T07:48:13.819418"
+  },
+  {
+    "city": "haiphong",
+    "type": "cinema",
+    "status": "done",
+    "collected": 7,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:21.204968",
+    "end_time": "2026-04-25T07:48:21.204939"
+  },
+  {
+    "city": "haiphong",
+    "type": "museum",
+    "status": "done",
+    "collected": 1,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:23.563921",
+    "end_time": "2026-04-25T07:48:23.563878"
+  },
+  {
+    "city": "hue",
+    "type": "attraction",
+    "status": "done",
+    "collected": 97,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:28.947224",
+    "end_time": "2026-04-25T07:48:28.947200"
+  },
+  {
+    "city": "hue",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 215,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:32.083219",
+    "end_time": "2026-04-25T07:48:32.083199"
+  },
+  {
+    "city": "hue",
+    "type": "hotel",
+    "status": "done",
+    "collected": 157,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:35.343805",
+    "end_time": "2026-04-25T07:48:35.343762"
+  },
+  {
+    "city": "hue",
+    "type": "cafe",
+    "status": "done",
+    "collected": 214,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:38.288574",
+    "end_time": "2026-04-25T07:48:38.288547"
+  },
+  {
+    "city": "hue",
+    "type": "mall",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:48:39.517797",
+    "end_time": "2026-04-25T07:48:39.517762"
+  },
+  {
+    "city": "hue",
+    "type": "park",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:48:42.377759",
+    "end_time": "2026-04-25T07:48:42.377737"
+  },
+  {
+    "city": "hue",
+    "type": "cinema",
+    "status": "done",
+    "collected": 3,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:45.768767",
+    "end_time": "2026-04-25T07:48:45.768741"
+  },
+  {
+    "city": "hue",
+    "type": "museum",
+    "status": "done",
+    "collected": 10,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:49.737751",
+    "end_time": "2026-04-25T07:48:49.737727"
+  },
+  {
+    "city": "dalat",
+    "type": "attraction",
+    "status": "done",
+    "collected": 32,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:54.161161",
+    "end_time": "2026-04-25T07:48:54.161134"
+  },
+  {
+    "city": "dalat",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 209,
+    "target": 100,
+    "start_time": "2026-04-25T07:48:57.161337",
+    "end_time": "2026-04-25T07:48:57.161314"
+  },
+  {
+    "city": "dalat",
+    "type": "hotel",
+    "status": "done",
+    "collected": 205,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:00.389089",
+    "end_time": "2026-04-25T07:49:00.389056"
+  },
+  {
+    "city": "dalat",
+    "type": "cafe",
+    "status": "done",
+    "collected": 214,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:03.375263",
+    "end_time": "2026-04-25T07:49:03.375239"
+  },
+  {
+    "city": "dalat",
+    "type": "mall",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:49:04.302394",
+    "end_time": "2026-04-25T07:49:04.302367"
+  },
+  {
+    "city": "dalat",
+    "type": "park",
+    "status": "done",
+    "collected": 11,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:07.685200",
+    "end_time": "2026-04-25T07:49:07.685169"
+  },
+  {
+    "city": "dalat",
+    "type": "cinema",
+    "status": "done",
+    "collected": 1,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:16.457011",
+    "end_time": "2026-04-25T07:49:16.456991"
+  },
+  {
+    "city": "dalat",
+    "type": "museum",
+    "status": "done",
+    "collected": 12,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:18.686801",
+    "end_time": "2026-04-25T07:49:18.686771"
+  },
+  {
+    "city": "vungtau",
+    "type": "attraction",
+    "status": "done",
+    "collected": 14,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:24.039470",
+    "end_time": "2026-04-25T07:49:24.039442"
+  },
+  {
+    "city": "vungtau",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 208,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:27.339447",
+    "end_time": "2026-04-25T07:49:27.339423"
+  },
+  {
+    "city": "vungtau",
+    "type": "hotel",
+    "status": "done",
+    "collected": 159,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:31.384328",
+    "end_time": "2026-04-25T07:49:31.384296"
+  },
+  {
+    "city": "vungtau",
+    "type": "cafe",
+    "status": "done",
+    "collected": 156,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:34.296486",
+    "end_time": "2026-04-25T07:49:34.296450"
+  },
+  {
+    "city": "vungtau",
+    "type": "mall",
+    "status": "done",
+    "collected": 1,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:35.733462",
+    "end_time": "2026-04-25T07:49:35.733439"
+  },
+  {
+    "city": "vungtau",
+    "type": "park",
+    "status": "done",
+    "collected": 2,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:39.700415",
+    "end_time": "2026-04-25T07:49:39.700386"
+  },
+  {
+    "city": "vungtau",
+    "type": "cinema",
+    "status": "done",
+    "collected": 3,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:43.592784",
+    "end_time": "2026-04-25T07:49:43.592754"
+  },
+  {
+    "city": "vungtau",
+    "type": "museum",
+    "status": "done",
+    "collected": 1,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:48.739256",
+    "end_time": "2026-04-25T07:49:48.739223"
+  },
+  {
+    "city": "nhatrang",
+    "type": "attraction",
+    "status": "done",
+    "collected": 14,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:54.185025",
+    "end_time": "2026-04-25T07:49:54.184989"
+  },
+  {
+    "city": "nhatrang",
+    "type": "restaurant",
+    "status": "done",
+    "collected": 209,
+    "target": 100,
+    "start_time": "2026-04-25T07:49:57.290417",
+    "end_time": "2026-04-25T07:49:57.290379"
+  },
+  {
+    "city": "nhatrang",
+    "type": "hotel",
+    "status": "done",
+    "collected": 205,
+    "target": 100,
+    "start_time": "2026-04-25T07:50:00.154494",
+    "end_time": "2026-04-25T07:50:00.154457"
+  },
+  {
+    "city": "nhatrang",
+    "type": "cafe",
+    "status": "done",
+    "collected": 212,
+    "target": 100,
+    "start_time": "2026-04-25T07:50:03.315070",
+    "end_time": "2026-04-25T07:50:03.315030"
+  },
+  {
+    "city": "nhatrang",
+    "type": "mall",
+    "status": "done",
+    "collected": 0,
+    "target": 150,
+    "start_time": "2026-04-25T07:50:04.188000",
+    "end_time": "2026-04-25T07:50:04.187979"
+  },
+  {
+    "city": "nhatrang",
+    "type": "park",
+    "status": "done",
+    "collected": 3,
+    "target": 100,
+    "start_time": "2026-04-25T07:50:05.256105",
+    "end_time": "2026-04-25T07:50:05.256061"
+  },
+  {
+    "city": "nhatrang",
+    "type": "cinema",
+    "status": "done",
+    "collected": 3,
+    "target": 100,
+    "start_time": "2026-04-25T07:50:06.767343",
+    "end_time": "2026-04-25T07:50:06.767307"
+  },
+  {
+    "city": "nhatrang",
+    "type": "museum",
+    "status": "done",
+    "collected": 5,
+    "target": 100,
+    "start_time": "2026-04-25T07:50:09.945861",
+    "end_time": "2026-04-25T07:50:09.945839"
+  }
+]
