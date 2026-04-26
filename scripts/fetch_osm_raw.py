@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(BASE_DIR)
 
-from collectors.osm_collector import OSMCollector
+from src.collectors.osm_collector import OSMCollector
 
 async def fetch_all_osm_raw():
     osm = OSMCollector()

@@ -6,8 +6,8 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 
 # Mocked imports for the example
-from collectors.osm_collector import OSMCollector
-from collectors.google_enrichor import GoogleEnrichor
+from src.collectors.osm_collector import OSMCollector
+from src.collectors.google_enrichor import GoogleEnrichor
 # Assuming repository is available in python path
 from app.db.repository import PlaceRepository
 from app.models.place import PipelineStatus

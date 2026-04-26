@@ -9,15 +9,17 @@ from typing import List, Dict, Any
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(BASE_DIR)
-sys.path.append(os.path.join(BASE_DIR, 'backend'))
+# Định tuyến Module chuẩn
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(ROOT_DIR)
+sys.path.append(os.path.join(ROOT_DIR, 'backend'))
 
-from collectors.osm_collector import OSMCollector
-from collectors.google_enrichor import GoogleEnrichor
+from src.collectors.osm_collector import OSMCollector
+from src.collectors.google_enrichor import GoogleEnrichor
 from app.db.repository import PlaceRepository
 from app.db.client import MongoClient
 from app.models.place import PipelineStatus
+from src.shared.data_utils import make_ukey, find_existing_fuzzy, compute_poi_hash
 
 class IncrementalPipeline:
     def __init__(self, use_mongodb: bool):
@@ -67,15 +69,41 @@ class IncrementalPipeline:
 
                     to_enrich = []
                     for poi in raw_pois:
-                        if self.existing_data.get(poi["u_key"], {}).get("source") == "google":
-                            continue
+                        # Use fuzzy matching to skip already enriched places
+                        matched_key = find_existing_fuzzy(
+                            poi["location"]["lat"], 
+                            poi["location"]["lon"], 
+                            poi["name"], 
+                            self.existing_data,
+                            radius_m=30
+                        )
+                        
+                        # SMART CHANGE DETECTION / AGING RULES:
+                        existing_poi = self.existing_data.get(matched_key or poi["u_key"])
+                        if existing_poi and existing_poi.get("source") == "google":
+                            last_updated_str = existing_poi.get("last_enriched")
+                            if last_updated_str:
+                                try:
+                                    last_updated = datetime.fromisoformat(last_updated_str)
+                                    days_old = (datetime.utcnow() - last_updated).days
+                                    if days_old < 30: # Only skip if data is fresh (< 30 days)
+                                        continue
+                                except: pass
+                        
+                        # Use the matched key if found, otherwise keep original
+                        if matched_key: poi["u_key"] = matched_key
                         to_enrich.append(poi)
 
-                    logger.info(f"To Enrich: {len(to_enrich)}")
+                    logger.info(f"To Enrich/Refresh: {len(to_enrich)}")
                     if to_enrich:
                         # 2. ENRICHING
                         enriched = await self.enrichor.enrich_batch(to_enrich, city)
                         for p in enriched:
+                            # Add enrichment timestamp
+                            p["last_enriched"] = datetime.utcnow().isoformat()
+                            # Compute business content hash
+                            p["poi_hash"] = compute_poi_hash(p)
+                            
                             if self.use_mongodb:
                                 await self.repo.upsert_place(p)
                             else:

@@ -7,20 +7,21 @@ from typing import List, Dict, Any
 import time
 
 # Workaround to import utils if running from different dirs
-try:
-    from shared.data_utils import generate_unique_key
-except ImportError:
-    # Handle cases where shared is not in path yet
-    import sys
-    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    from shared.data_utils import generate_unique_key
+from src.shared.data_utils import make_ukey
+from src.shared.path_manager import ROOT_DIR
 
 logger = logging.getLogger(__name__)
 
 class OSMCollector:
     def __init__(self):
-        self.overpass_urls = ["https://lz4.overpass-api.de/api/interpreter", "https://z.overpass-api.de/api/interpreter"]
-        self.base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        self.overpass_urls = [
+            "https://lz4.overpass-api.de/api/interpreter", 
+            "https://z.overpass-api.de/api/interpreter",
+            "https://overpass.osm.ch/api/interpreter",
+            "https://overpass.kumi.systems/api/interpreter",
+            "https://overpass.nchc.org.tw/api/interpreter"
+        ]
+        self.base_path = ROOT_DIR
         self.load_config()
 
     def load_config(self):
@@ -41,6 +42,14 @@ class OSMCollector:
             self.type_query_map = {"attraction": 'node["tourism"="attraction"](area.searchArea);'}
 
     def fetch_data(self, city: str, category: str, limit: int = 150) -> List[Dict[str, Any]]:
+        import random
+        user_agents = [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "SmartTourismProject/1.0 (Research Purpose; contact@smarttravel.vn)"
+        ]
+
         city_info = self.city_config.get(city.lower())
         if not city_info: 
             logger.warning(f"City '{city}' not found in config.")
@@ -55,12 +64,19 @@ class OSMCollector:
 
         for url in self.overpass_urls:
             try:
-                logger.info(f"[INFO] Fetching {category} for {city} from {url}")
-                headers = {"User-Agent": "SmartTourismProject/1.0"}
+                # 1. ADAPTIVE JITTER (Nghỉ ngẫu nhiên để tránh pattern cố định)
+                sleep_time = random.uniform(1.5, 3.5)
+                time.sleep(sleep_time)
+
+                logger.info(f"[INFO] Fetching {category} for {city} from {url} (Wait: {sleep_time:.2f}s)")
+                
+                # 2. ROTATE USER-AGENT
+                headers = {"User-Agent": random.choice(user_agents)}
                 response = requests.post(url, data={"data": query}, headers=headers, timeout=60)
+                
                 if response.status_code == 429:
-                    logger.warning(f"[WARN] Rate limited by {url}. Retrying...")
-                    time.sleep(5)
+                    logger.warning(f"[WARN] Rate limited by {url}. Backing off for 10s...")
+                    time.sleep(10)
                     continue
                 
                 response.raise_for_status()
@@ -76,7 +92,7 @@ class OSMCollector:
                     if not lat or not lon: continue
                     
                     results.append({
-                        "u_key": generate_unique_key(name, lat, lon),
+                        "u_key": make_ukey(name, lat, lon),
                         "name": name,
                         "type": category,
                         "city": city,

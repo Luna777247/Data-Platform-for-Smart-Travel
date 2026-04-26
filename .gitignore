@@ -11,9 +11,12 @@ env/
 # Environment variables
 .env
 
-# Storage - Optional: exclude data if it gets too large
-# storage/data/*.json
-storage/metadata/*.json
+# Storage - Data Lakehouse (Exclude large datasets)
+storage/bronze/
+storage/silver/
+storage/gold/
+storage/logs/
+!storage/configs/
 
 # Node/Frontend
 node_modules/

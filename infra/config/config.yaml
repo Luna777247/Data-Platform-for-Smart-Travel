@@ -1,0 +1,29 @@
+# SMART TOURISM DATA PLATFORM CONFIGURATION
+
+storage:
+  minio:
+    endpoint: "localhost:9000"
+    access_key: "minioadmin"
+    secret_key: "minioadminpassword"
+    secure: false
+    buckets:
+      lakehouse: "lakehouse"
+      checkpoints: "checkpoints"
+
+database:
+  postgres:
+    host: "localhost"
+    port: 5432
+    user: "admin"
+    password: "secret_password"
+    db_name: "smart_tourism"
+
+pipeline:
+  bronze_path: "bronze"
+  silver_path: "silver"
+  gold_path: "gold"
+  
+  # Business Rules
+  batch_limit: 100
+  near_match_radius_m: 30
+  aging_threshold_days: 30

@@ -6,5 +6,9 @@
     "mall": "node[\"shop\"=\"mall\"](area.searchArea);",
     "park": "node[\"leisure\"=\"park\"](area.searchArea);",
     "cinema": "node[\"amenity\"=\"cinema\"](area.searchArea);",
-    "museum": "node[\"tourism\"=\"museum\"](area.searchArea);"
+    "museum": "node[\"tourism\"=\"museum\"](area.searchArea);",
+    "viewpoint": "node[\"tourism\"=\"viewpoint\"](area.searchArea);",
+    "gallery": "node[\"tourism\"=\"gallery\"](area.searchArea);",
+    "hostel": "node[\"tourism\"=\"hostel\"](area.searchArea);",
+    "bar": "node[\"amenity\"=\"bar\"](area.searchArea);"
 }
