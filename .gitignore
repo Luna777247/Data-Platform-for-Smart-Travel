@@ -18,10 +18,19 @@ storage/gold/
 storage/logs/
 !storage/configs/
 
+# Airflow runtime logs
+infra/logs/
+
 # Node/Frontend
 node_modules/
 dist/
 .next/
+
+# Local artifacts
+*.log
+*_out.txt
+*_err.txt
+tmp_*.py
 
 # OS
 .DS_Store

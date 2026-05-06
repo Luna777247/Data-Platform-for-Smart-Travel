@@ -39,8 +39,8 @@ COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./package.json
 COPY --from=builder /app/pnpm-lock.yaml ./pnpm-lock.yaml
 
-# Create .env.local for production
-RUN echo "NEXT_PUBLIC_API_BASE_URL=http://backend:80" > .env.local
+# Create .env.local for production (Docker network service name)
+RUN echo "NEXT_PUBLIC_API_BASE_URL=http://backend:8000" > .env.local
 
 # Switch to non-root user
 USER nextjs

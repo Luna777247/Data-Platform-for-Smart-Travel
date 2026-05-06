@@ -9,13 +9,17 @@ MONGODB_URI = os.getenv("MONGODB_URI", "mongodb://localhost:27017")
 DB_NAME = os.getenv("DB_NAME", "smart_travel")
 
 class MongoClient:
-    client: AsyncIOMotorClient = AsyncIOMotorClient(MONGODB_URI)
-    db = client[DB_NAME]
+    client: AsyncIOMotorClient | None = None
+    db = None
     is_connected = False
 
     @classmethod
     async def connect(cls):
         try:
+            # Create client inside the running event loop to avoid "Event loop is closed"
+            if cls.client is None:
+                cls.client = AsyncIOMotorClient(MONGODB_URI)
+                cls.db = cls.client[DB_NAME]
             # Ping to verify connection
             await cls.db.command("ping")
             cls.is_connected = True
@@ -30,6 +34,8 @@ class MongoClient:
         if cls.client:
             cls.client.close()
             cls.client = None
+            cls.db = None
+            cls.is_connected = False
             print("Disconnected from MongoDB")
 
     @classmethod

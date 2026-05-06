@@ -1,5 +1,5 @@
 # airflow/dag.py
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import asyncio
 import logging
 from airflow import DAG
@@ -38,14 +38,14 @@ async def run_pipeline_async(city: str, place_type: str, target: int = 150):
         await repo.update_pipeline_status(PipelineStatus(
             city=city, type=place_type, status="done", 
             collected=collected_count, target=target, 
-            end_time=datetime.utcnow()
+            end_time=datetime.now(timezone.utc)
         ))
         
     except Exception as e:
         logging.error(f"[ERROR] Pipeline failed for {city}-{place_type}: {e}")
         await repo.update_pipeline_status(PipelineStatus(
             city=city, type=place_type, status="failed", 
-            error_message=str(e), end_time=datetime.utcnow()
+            error_message=str(e), end_time=datetime.now(timezone.utc)
         ))
 
 def run_pipeline_wrapper(city: str, place_type: str):

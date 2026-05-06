@@ -1,7 +1,7 @@
 import json
 import os
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 from minio import Minio
 from io import BytesIO
 from src.shared.data_utils import make_ukey
@@ -11,17 +11,31 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(me
 logger = logging.getLogger(__name__)
 
 class BronzeWriter:
-    def __init__(self, endpoint, access_key, secret_key, secure=False):
+    def __init__(self, endpoint=None, access_key=None, secret_key=None, secure=False):
+        endpoint = endpoint or os.getenv("MINIO_ENDPOINT", "localhost:9000")
+        access_key = access_key or os.getenv("MINIO_ACCESS_KEY") or os.getenv("MINIO_ROOT_USER", "minioadmin")
+        secret_key = secret_key or os.getenv("MINIO_SECRET_KEY") or os.getenv("MINIO_ROOT_PASSWORD", "minioadminpassword")
         try:
+            # Enterprise-grade: use short timeout and no retries for initial check
+            from urllib3 import PoolManager, Timeout, Retry
+            http_client = PoolManager(
+                timeout=Timeout(connect=1.0, read=2.0),
+                retries=Retry(total=0)
+            )
+            
             self.client = Minio(
                 endpoint,
                 access_key=access_key,
                 secret_key=secret_key,
-                secure=secure
+                secure=secure,
+                http_client=http_client
             )
             self.bucket = "lakehouse"
+            self.minio_active = False 
+            
             self._ensure_bucket()
             self.minio_active = True
+
         except Exception as e:
             logger.error(f"❌ MinIO connection failed: {e}. Switching to LOCAL ONLY mode.")
             self.minio_active = False
@@ -35,12 +49,18 @@ class BronzeWriter:
         """
         Ghi dữ liệu thô vào Bronze Layer. Tự động Fallback về Local nếu MinIO offline.
         """
-        now = datetime.utcnow()
+        now = datetime.now(timezone.utc)
         timestamp = now.strftime("%Y%m%d_%H%M%S")
         
         # 1. ÁP DỤNG CHUẨN ĐỊNH DANH (u_key)
         for item in data:
-            item["u_key"] = make_ukey(item.get("name"), item.get("location", {}).get("lat"), item.get("location", {}).get("lon"))
+            # Linh hoạt trích xuất tọa độ (hỗ trợ cả lon/lng và nested)
+            lat = item.get("lat") or item.get("location", {}).get("lat")
+            lon = item.get("lon") or item.get("lng") or item.get("location", {}).get("lon") or item.get("location", {}).get("lng")
+            
+            # Chỉ tạo u_key nếu có đủ tọa độ
+            if item.get("name") and lat is not None and lon is not None:
+                item["u_key"] = make_ukey(item.get("name"), lat, lon)
             item["ingestion_at"] = now.isoformat()
 
         file_name = f"bronze/{source}/{city}/{timestamp}.json"

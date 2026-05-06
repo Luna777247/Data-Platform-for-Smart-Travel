@@ -3,7 +3,7 @@ import os
 import sys
 import logging
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import List, Dict, Any
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
@@ -56,14 +56,14 @@ class IncrementalPipeline:
                 # 1. SET STATUS TO RUNNING
                 await self.repo.update_pipeline_status(PipelineStatus(
                     city=city, type=p_type, status="running", 
-                    collected=0, target=limit_per_job, start_time=datetime.utcnow()
+                    collected=0, target=limit_per_job, start_time=datetime.now(timezone.utc)
                 ))
 
                 try:
                     raw_pois = self.osm.fetch_data(city, p_type, limit=limit_per_job)
                     if not raw_pois:
                         await self.repo.update_pipeline_status(PipelineStatus(
-                            city=city, type=p_type, status="done", collected=0, end_time=datetime.utcnow()
+                            city=city, type=p_type, status="done", collected=0, end_time=datetime.now(timezone.utc)
                         ))
                         continue
 
@@ -85,7 +85,9 @@ class IncrementalPipeline:
                             if last_updated_str:
                                 try:
                                     last_updated = datetime.fromisoformat(last_updated_str)
-                                    days_old = (datetime.utcnow() - last_updated).days
+                                    if last_updated.tzinfo is None:
+                                        last_updated = last_updated.replace(tzinfo=timezone.utc)
+                                    days_old = (datetime.now(timezone.utc) - last_updated).days
                                     if days_old < 30: # Only skip if data is fresh (< 30 days)
                                         continue
                                 except: pass
@@ -100,7 +102,7 @@ class IncrementalPipeline:
                         enriched = await self.enrichor.enrich_batch(to_enrich, city)
                         for p in enriched:
                             # Add enrichment timestamp
-                            p["last_enriched"] = datetime.utcnow().isoformat()
+                            p["last_enriched"] = datetime.now(timezone.utc).isoformat()
                             # Compute business content hash
                             p["poi_hash"] = compute_poi_hash(p)
                             
@@ -113,14 +115,14 @@ class IncrementalPipeline:
                     collected_count = len([p for p in self.existing_data.values() if p.get("city") == city and p.get("type") == p_type])
                     await self.repo.update_pipeline_status(PipelineStatus(
                         city=city, type=p_type, status="done", 
-                        collected=collected_count, target=limit_per_job, end_time=datetime.utcnow()
+                        collected=collected_count, target=limit_per_job, end_time=datetime.now(timezone.utc)
                     ))
 
                 except Exception as e:
                     logger.error(f"Failed for {city}-{p_type}: {e}")
                     await self.repo.update_pipeline_status(PipelineStatus(
                         city=city, type=p_type, status="failed", 
-                        error_message=str(e), end_time=datetime.utcnow()
+                        error_message=str(e), end_time=datetime.now(timezone.utc)
                     ))
 
         if not self.use_mongodb:

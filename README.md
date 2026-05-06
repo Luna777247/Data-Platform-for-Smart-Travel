@@ -1,15 +1,15 @@
-# No-Code API Connector Platform
+# Smart Travel Data Platform
 
-A powerful microservices-based platform for managing, scheduling, and analyzing APIs without writing code. Built with modern technologies including PHP, Next.js, MongoDB, and Apache Airflow.
+A comprehensive data platform for collecting, processing, and analyzing travel destination information (POI - Points of Interest) across Vietnam and Southeast Asia. Built with modern microservices architecture using FastAPI, Next.js, MongoDB, and Apache Airflow.
 
 ## 🎯 Project Overview
 
-**No-Code API Connector** is an enterprise-grade platform that enables users to:
-- 🔌 **Connect** to any REST API without coding
-- ⏰ **Schedule** automated API executions with cron expressions
-- 📊 **Analyze** API data with rich dashboards and visualizations
-- 💾 **Store** API responses in MongoDB Atlas
-- 🔄 **Transform** and map API data into structured formats
+**Smart Travel Data Platform** is an enterprise-grade solution that enables travel companies to:
+- 🗺️ **Collect** POI data from multiple sources (OSM, Google Places API)
+- 🔄 **Process** data through Bronze → Silver → Gold layer pipeline
+- 📊 **Analyze** travel data with advanced dashboards and visualizations
+- 🤖 **Enrich** data using AI-powered deduplication and categorization
+- 🚀 **Serve** real-time APIs for travel applications and services
 
 ### Architecture
 
@@ -20,8 +20,8 @@ A powerful microservices-based platform for managing, scheduling, and analyzing 
 └──────────────┬────────────────────────────────────┬─────────┘
                │                                    │
 ┌──────────────▼────────────────┐    ┌─────────────▼──────────┐
-│   Backend (PHP 8.3 REST API)  │    │  Airflow (Scheduler)   │
-│      Port 8000 - Apache       │    │   Port 8080            │
+│   Backend (FastAPI Python)    │    │  Airflow (Scheduler)   │
+│      Port 8000 - REST API     │    │   Port 8080            │
 │   Controller → Service →      │    │ - Task scheduling      │
 │   Repository Pattern          │    │ - DAG management       │
 └──────────────┬────────────────┘    └─────────────┬──────────┘
@@ -30,10 +30,10 @@ A powerful microservices-based platform for managing, scheduling, and analyzing 
 │                                │                             │
 │   ┌─────────────────────────────┴──────────┐                 │
 │   │   MongoDB Atlas (Cloud Database)       │                 │
-│   │   - api_connections                   │                 │
-│   │   - api_schedules                     │                 │
-│   │   - api_runs                          │                 │
-│   │   - smart_travel.places (4,972+ docs)│                 │
+│   │   - smart_travel.places (4,972+ docs) │                 │
+│   │   - api_connections                    │                 │
+│   │   - api_schedules                      │                 │
+│   │   - api_runs                           │                 │
 │   └────────────────────────────────────────┘                 │
 │                                                              │
 │   ┌─────────────────────────────┬──────────┐                 │
@@ -44,104 +44,92 @@ A powerful microservices-based platform for managing, scheduling, and analyzing 
 └──────────────────────────────────────────────────────────────┘
 ```
 
+## 📚 Documentation
+
+### 📋 Project Documentation
+- **[Thiết kế Hệ thống Chi tiết](docs/system_design_detailed.md)** - ERD, System Architecture, Data Flow Diagrams
+- **[Hướng dẫn Cài đặt & Code](docs/installation_guide.md)** - Setup guide với FastAPI code samples, API testing
+- **[Kết quả Thực nghiệm](docs/experiment_results.md)** - Hanoi data validation, KPI measurements, performance analysis
+- **[So sánh Giải pháp Tương tự](docs/related_work.md)** - Competitive analysis với Google Places, OSM, Foursquare, etc.
+- **[Hạn chế & Hướng Phát triển](docs/limitation_future_work.md)** - Limitations assessment và 4-phase roadmap
+
+### 🔧 Development Resources
+- **[AI Coding Instructions](.github/copilot-instructions.md)** - 730+ lines of patterns, best practices, debugging guides
+- **[Backend README](apps/backend/README.md)** - FastAPI development guide
+- **[Frontend README](frontendphp/README.md)** - Next.js development guide
+
 ## 🚀 Quick Start
 
 ### Prerequisites
 - Docker & Docker Compose
 - Node.js 18+ (for local development)
 - Git
+- Google Places API Key
+- MongoDB Atlas account
 
 ### Setup & Running
 
 #### 1. Clone and Setup (Windows PowerShell)
 ```powershell
 # Clone the repository
-git clone https://github.com/Luna777247/no-code-api-connector.git
-cd no-code-api-connector
+git clone https://github.com/your-org/smart-travel-data-platform.git
+cd smart-travel-data-platform
 
+# Configure environment variables
+# Copy .env.example to .env and fill in your API keys
+
+# Start all services
+.\setup.ps1
 ```
 
 #### 2. Access the Platform
-- **Frontend**: http://localhost:3000
+- **Frontend Dashboard**: http://localhost:3000
 - **Backend API**: http://localhost:8000
-- **Airflow UI**: http://localhost:8080
+- **Airflow Scheduler**: http://localhost:8080
 - **API Health Check**: GET http://localhost:8000/api/admin/health
 
-#### 3. Backend Development
-[Backend](backendphp/README.md)
-
-#### 4. Frontend Development
-[Frontend](frontendphp/README.md)
-
-## 📚 Core Features
-
-### 1. API Connection Management
-- **Create connections** to any REST API with custom headers, authentication
-- **Test connections** before saving
-- **Connection templates** for popular services
-- **Secure credential storage** in MongoDB
-
-**Endpoints**:
-```
-GET    /api/connections              # List all connections
-POST   /api/connections              # Create new connection
-GET    /api/connections/{id}         # Get connection details
-PUT    /api/connections/{id}         # Update connection
-DELETE /api/connections/{id}         # Delete connection
+#### 3. Load Sample Data
+```powershell
+# Run initial data pipeline for Hanoi
+.\scripts\run_pipeline.py --city hanoi --source osm,google
 ```
 
-### 2. Smart Scheduling
-- **Cron expression support** for flexible scheduling
-- **Automatic DAG generation** in Apache Airflow
-- **Pause/resume** schedules on demand
-- **Execution history** tracking with MongoDB
+## � Core Features
 
-**Endpoints**:
+### 1. Multi-Source Data Collection
+- **OSM Integration**: Collect POI data from OpenStreetMap
+- **Google Places API**: Enrich with ratings, reviews, photos
+- **Hybrid Processing**: Intelligent deduplication across sources
+- **Real-time Updates**: Incremental data synchronization
+
+**Data Sources**:
+- OpenStreetMap (Overpass API)
+- Google Places API (Places Details, Photos, Reviews)
+- Future: Foursquare, Yelp, local tourism APIs
+
+### 2. Advanced Data Pipeline
+- **Bronze Layer**: Raw data ingestion and storage
+- **Silver Layer**: Data cleaning, normalization, deduplication
+- **Gold Layer**: AI-enriched analytics-ready data
+- **Automated Scheduling**: Airflow-based orchestration
+
+**Pipeline Stages**:
 ```
-GET    /api/schedules                # List all schedules
-POST   /api/schedules                # Create schedule (triggers Airflow sync)
-GET    /api/schedules/{id}           # Get schedule details
-PUT    /api/schedules/{id}           # Update schedule
-DELETE /api/schedules/{id}           # Delete schedule
-```
-
-**Airflow Integration Flow**:
-1. POST to `/api/schedules` → Creates MongoDB record
-2. Backend triggers `AirflowService::syncDagFiles()`
-3. Dynamic DAG generated: `api_execute_{schedule_id}`
-4. Airflow scheduler picks up and executes on cron trigger
-
-### 3. API Execution & Monitoring
-- **Manual execution** of API calls
-- **Automatic execution** via Airflow schedules
-- **Run history** with request/response data
-- **Error tracking** and retry logic
-
-**Endpoints**:
-```
-GET    /api/runs                     # Get execution history
-POST   /api/runs                     # Execute API manually
-GET    /api/runs/{id}                # Get run details
+Raw Data → Deduplication → Normalization → AI Enrichment → Analytics
 ```
 
-### 4. Data Mapping & Transformation
-- **Automatic field extraction** from API responses
-- **JSON to MongoDB mapping** with type inference
-- **Custom field renaming** and transformation
-- **Array normalization** (handles nested data structures)
-
-### 5. Smart Travel Dashboard (Analytics)
-Advanced analytics dashboard showcasing data visualization capabilities:
+### 3. Smart Travel Analytics Dashboard
+Comprehensive analytics with 9+ visualization types:
 
 **Key Metrics**:
-- 📊 **Place Categories Distribution** - Bar chart of top 20 categories
-- 🎯 **City Rankings** - Top 20 cities by average rating with medal badges
-- 📈 **Rating Distribution** - Pie chart of places by rating ranges
-- 🗺️ **Geographic Distribution** - Heatmap of cities vs categories
-- ⭐ **Top Rated Places** - Top 10 highest-rated places table
-- 🔥 **City-Category Heatmap** - 5-level intensity visualization
+- 📊 **Category Distribution** - Top 20 POI categories
+- 🏆 **City Rankings** - Top cities by average rating
+- 📈 **Rating Analysis** - Rating distribution and trends
+- 🔥 **Heatmap Matrix** - City vs Category intensity visualization
+- ⭐ **Top Places** - Highest-rated destinations table
+- 🗺️ **Geographic Coverage** - Interactive map with clustering
 
-**Endpoints**:
+**Analytics Endpoints**:
 ```
 GET /api/smart-travel/dashboard/overview
 GET /api/smart-travel/dashboard/city-ranking
@@ -154,50 +142,65 @@ GET /api/smart-travel/dashboard/top-places
 GET /api/smart-travel/dashboard/map-data
 ```
 
+### 4. RESTful API Services
+- **POI Search API**: Location-based POI queries
+- **Analytics API**: Real-time dashboard data
+- **Pipeline API**: Manual execution and monitoring
+- **Admin API**: System health and configuration
+
+### 5. AI-Powered Data Processing
+- **Smart Deduplication**: ML-based entity resolution
+- **Category Classification**: Automated POI categorization
+- **Quality Scoring**: Data accuracy assessment
+- **Sentiment Analysis**: Review text processing
+
 ## 📊 Database Schema
 
 ### MongoDB Collections
 
-#### `api_connections`
+#### `smart_travel.places` (Primary Data)
+```javascript
+{
+  "_id": ObjectId,
+  "name": "Ho Chi Minh Mausoleum",
+  "city": "Hanoi",
+  "province": "Hanoi",
+  "latitude": 21.0367,
+  "longitude": 105.8342,
+  "rating": 4.5,
+  "types": ["tourist_attraction", "historical_site"],
+  "address": "2 Hùng Vương, Điện Bàn, Ba Đình District",
+  "reviews": [...],
+  "photos": [...],
+  "u_key": "ho_chi_minh_mausoleum|21.0367|105.8342",
+  "created_at": ISODate,
+  "updated_at": ISODate
+}
+```
+
+#### `api_connections` (API Management)
 ```javascript
 {
   "_id": ObjectId,
   "name": "Google Places API",
   "baseUrl": "https://maps.googleapis.com/maps/api/place",
-  "headers": {
-    "Authorization": "Bearer token..."
-  },
-  "authentication": {
-    "type": "bearer|basic|api_key",
-    "credentials": {...}
-  },
-  "created_at": ISODate,
-  "updated_at": ISODate
+  "headers": { "Authorization": "Bearer ..." },
+  "rateLimit": 100,
+  "isActive": true
 }
 ```
 
-#### `api_schedules`
+#### `api_schedules` (Pipeline Scheduling)
 ```javascript
 {
   "_id": ObjectId,
-  "connectionId": ObjectId,
-  "name": "Daily Place Updates",
-  "cronExpression": "0 0 * * *",
-  "isActive": true,
-  "created_at": ISODate,
-  "updated_at": ISODate
+  "name": "Daily Hanoi Updates",
+  "cronExpression": "0 2 * * *",
+  "city": "Hanoi",
+  "sources": ["osm", "google"],
+  "isActive": true
 }
 ```
-
-#### `api_runs`
-```javascript
-{
-  "_id": ObjectId,
-  "scheduleId": ObjectId,
-  "connectionId": ObjectId,
-  "status": "success|failure|pending",
-  "requestData": {...},
-  "responseData": {...},
   "startTime": ISODate,
   "endTime": ISODate,
   "duration": 1234,  // milliseconds
@@ -242,51 +245,54 @@ Documents: **4,972 tourist places** across multiple countries with ratings, cate
 
 ## 🔧 Development Patterns
 
-### Backend: Controller → Service → Repository
+### Backend: FastAPI with Pydantic Models
 
-```php
-// 1. Controller handles HTTP request/response
-class ConnectionController {
-    public function create(): array {
-        $input = ValidationHelper::getJsonInput();
-        $input = ValidationHelper::sanitizeInput($input);
-        ValidationHelper::validateRequest($this->validator, $input);
-        
-        $saved = $this->service->create($input);
-        if (!$saved) {
-            http_response_code(400);
-            return ['error' => 'Failed to create'];
-        }
-        return $saved;  // Auto-converted to JSON
-    }
-}
+```python
+# 1. Pydantic Models for Data Validation
+from pydantic import BaseModel
+from typing import List, Optional
 
-// 2. Service contains business logic
-class ConnectionService {
-    public function create(array $data): ?array {
-        return $this->repository->save($data);
-    }
-}
+class Place(BaseModel):
+    name: str
+    city: str
+    province: str
+    latitude: float
+    longitude: float
+    rating: Optional[float] = None
+    types: List[str] = []
+    address: Optional[str] = None
 
-// 3. Repository handles database operations
-class ConnectionRepository {
-    public function save(array $data): ?array {
-        $result = $this->connections->insertOne($data);
-        return $this->findById((string)$result->getInsertedId());
-    }
-}
+# 2. FastAPI Router with Async Operations
+from fastapi import APIRouter, HTTPException
+from motor.motor_asyncio import AsyncIOMotorClient
+
+router = APIRouter()
+client = AsyncIOMotorClient("mongodb://localhost:27017")
+db = client.smart_travel
+
+@router.get("/places/{city}")
+async def get_places_by_city(city: str, limit: int = 100):
+    places = await db.places.find({"city": city}).limit(limit).to_list(length=None)
+    return {"places": places, "count": len(places)}
+
+@router.post("/places")
+async def create_place(place: Place):
+    result = await db.places.insert_one(place.dict())
+    return {"id": str(result.inserted_id), **place.dict()}
 ```
 
-### Frontend: API Client with Caching & Timeouts
+### Frontend: Next.js with TypeScript & Axios
 
-```javascript
-// services/apiClient.js
+```typescript
+// services/apiClient.ts
+import axios from 'axios';
+
 const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:8000';
 
 export const apiClient = {
   timeout: 120000,  // 120s for large datasets
   
-  async get(endpoint, timeoutMs = 15000) {
+  async get(endpoint: string, timeoutMs: number = 15000) {
     return Promise.race([
       axios.get(`${API_BASE}${endpoint}`),
       new Promise((_, reject) =>
@@ -294,42 +300,72 @@ export const apiClient = {
       ),
     ]);
   },
-  // POST, PUT, DELETE methods...
+};
+
+// components/Dashboard.tsx
+import { useEffect, useState } from 'react';
+import { apiClient } from '../services/apiClient';
+
+export default function Dashboard() {
+  const [data, setData] = useState(null);
+  
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await apiClient.get('/api/smart-travel/dashboard/overview');
+        setData(response.data);
+      } catch (error) {
+        console.error('Failed to fetch dashboard data:', error);
+      }
+    };
+    fetchData();
+  }, []);
+  
+  return (
+    <div className="p-6">
+      <h1 className="text-2xl font-bold mb-4">Smart Travel Dashboard</h1>
+      {/* Dashboard content */}
+    </div>
+  );
+}
+```
 };
 ```
 
 ### MongoDB Aggregation Pipeline Pattern
 
-```php
-// ✅ CORRECT: Single pipeline (1 database call, fast)
-public function getCityRanking(): array {
-    $pipeline = [
-        ['$group' => [
-            '_id' => '$city',
-            'count' => ['$sum' => 1],
-            'avgRating' => ['$avg' => '$rating']
-        ]],
-        ['$sort' => ['avgRating' => -1]],
-        ['$limit' => 20]
-    ];
-    $result = $this->placesCollection->aggregate($pipeline);
-    return array_map(fn($doc) => [
-        'city' => $doc['_id'],
-        'count' => (int)$doc['count'],
-        'avgRating' => round($doc['avgRating'], 2)
-    ], iterator_to_array($result));
-}
+```python
+# ✅ CORRECT: Single pipeline (1 database call, fast)
+async def get_city_ranking(limit: int = 20):
+    pipeline = [
+        {"$group": {
+            "_id": "$city",
+            "count": {"$sum": 1},
+            "avgRating": {"$avg": "$rating"}
+        }},
+        {"$sort": {"avgRating": -1}},
+        {"$limit": limit}
+    ]
+    
+    cursor = db.places.aggregate(pipeline)
+    results = []
+    async for doc in cursor:
+        results.append({
+            "city": doc["_id"],
+            "count": doc["count"],
+            "avgRating": round(doc["avgRating"], 2)
+        })
+    return results
 
-// ❌ SLOW: Nested loops (400+ database calls, timeout)
-public function getCityRanking_SLOW(): array {
-    $cities = $this->getUniqueCities();
-    $matrix = [];
-    foreach ($cities as $city) {  // N iterations
-        $count = $this->placesCollection->countDocuments(['city' => $city]);
-        // More queries...
-    }
-    return $matrix;
-}
+# ❌ SLOW: Nested loops (400+ database calls, timeout)
+async def get_city_ranking_slow():
+    cities = await db.places.distinct("city")
+    results = []
+    for city in cities:  # N iterations
+        count = await db.places.count_documents({"city": city})
+        # More queries for each city...
+        results.append({"city": city, "count": count})
+    return results
 ```
 
 **Performance**: 400+ queries → 1 pipeline = **120s+ timeout → <5s response (400× faster)**
@@ -339,7 +375,7 @@ public function getCityRanking_SLOW(): array {
 ### Frontend Timeout Strategy
 Different endpoints require different timeouts based on query complexity:
 
-```javascript
+```typescript
 // Critical endpoints (fast aggregations)
 const fetchCritical = () => Promise.all([
   fetchWithTimeout('/api/smart-travel/dashboard/overview', 15000),
@@ -364,22 +400,87 @@ Promise.all([...fetchCritical()]).then(() => Promise.all([...fetchHeavy()]));
 3. **Proper MongoDB indexes** on frequently aggregated fields
 4. **Connection initialization** before aggregation (`connectToMongoDB()`)
 
+## 🚀 Quick Start
+
+### Prerequisites
+- Docker & Docker Compose
+- Python 3.11+
+- Node.js 18+
+- MongoDB Atlas account (or local MongoDB)
+- Google Places API key
+- OpenStreetMap access (free)
+
+### 1. Clone & Setup
+```bash
+git clone <repository-url>
+cd data-platform-for-smart-travel
+
+# Copy environment files
+cp backend/.env.example backend/.env
+cp frontend/.env.local.example frontend/.env.local
+```
+
+### 2. Configure Environment
+```bash
+# backend/.env
+MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/smart_travel
+GOOGLE_PLACES_API_KEY=your_google_api_key
+OSM_API_URL=https://overpass-api.de/api/interpreter
+
+# frontend/.env.local
+NEXT_PUBLIC_API_BASE_URL=http://localhost:8000
+```
+
+### 3. Start Services
+```bash
+# Start all services (MongoDB, Backend, Frontend, Airflow)
+docker-compose up -d
+
+# Or start development mode
+./scripts/start-dev.sh
+```
+
+### 4. Access Applications
+- **Frontend Dashboard**: http://localhost:3000
+- **Backend API**: http://localhost:8000
+- **API Documentation**: http://localhost:8000/docs
+- **Airflow UI**: http://localhost:8080
+
+### 5. Run Initial Pipeline
+```bash
+# Execute Hanoi data collection pipeline
+curl -X POST http://localhost:8000/api/pipeline/run \
+  -H "Content-Type: application/json" \
+  -d '{"city": "Hanoi", "sources": ["osm", "google"]}'
+
+# Check pipeline status
+curl http://localhost:8000/api/pipeline/status
+```
+
+### 6. View Dashboard
+Navigate to http://localhost:3000/dashboards/smart-travel to see:
+- City rankings by average rating
+- Category distribution charts
+- Interactive heatmaps
+- Top-rated places tables
+
 ## 🎓 Learning Resources
 
 ### Key Documentation
-- **AI Coding Instructions**: `.github/copilot-instructions.md` (730+ lines of patterns, best practices, debugging guides)
-- **Architecture Patterns**: See "Development Patterns" section above
-- **Database Schema**: MongoDB collections documented above
-- **API Endpoints**: Full list in "Core Features" section
+- **System Design**: `docs/system_design_detailed.md` - ERD, architecture diagrams, data flow
+- **Installation Guide**: `docs/installation_guide.md` - FastAPI code samples, API testing
+- **Experiment Results**: `docs/experiment_results.md` - Hanoi data KPIs, performance metrics
+- **Related Work**: `docs/related_work.md` - Competitive analysis, SWOT comparison
+- **Limitations & Future**: `docs/limitation_future_work.md` - Roadmap, risk assessment
 
 ### Example Use Cases
-1. **Weather API Integration**: Fetch daily weather → Store in MongoDB → Display on dashboard
-2. **E-commerce Data Sync**: Pull product data from Shopify → Map to custom schema → Run analytics
-3. **Social Media Analytics**: Collect posts from Twitter/Instagram → Aggregate metrics → Visualize trends
-4. **IoT Data Pipeline**: Stream sensor data → API endpoint → Aggregate by location → Real-time dashboard
+1. **Tourism Analytics**: Analyze POI data for travel recommendations
+2. **City Planning**: Use heatmap data for urban development insights
+3. **Business Intelligence**: Track tourism trends and ratings
+4. **Data Enrichment**: Combine OSM + Google data for comprehensive POI database
 
 ---
 
-**Built with ❤️ using PHP, Next.js, MongoDB, and Apache Airflow**
+**Built with ❤️ using FastAPI, Next.js, MongoDB, and Apache Airflow**
 
 Last Updated: November 11, 2025

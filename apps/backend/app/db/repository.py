@@ -3,7 +3,7 @@ import json
 import os
 from typing import List, Optional
 from bson import ObjectId
-from datetime import datetime
+from datetime import datetime, timezone
 from app.db.client import MongoClient
 from app.models.place import PlaceModel, PipelineStatus
 
@@ -11,17 +11,51 @@ class PlaceRepository:
     def __init__(self):
         self.db = MongoClient.get_db()
         # COMPACT STORAGE ARCHITECTURE (Corrected path to project root)
-        self.project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+        self.project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
         storage_dir = os.path.join(self.project_root, "storage")
         
         self.local_data_path = os.path.join(storage_dir, "data", "pois.json")
         self.local_status_path = os.path.join(storage_dir, "metadata", "pipeline_status.json")
         
         # Check connectivity
-        if MongoClient.is_connected:
+        if MongoClient.is_connected and self.db is not None:
             self.places = self.db["places"]
             self.pipeline_status = self.db["pipeline_status"]
+            self.users = self.db["users"]
+            self.roles = self.db["roles"]
+            self.api_keys = self.db["api_keys"]
+            self.backups = self.db["backups"]
+            self.settings = self.db["settings"]
             self.is_offline = False
+
+            # Bootstrap default RBAC roles (business baseline)
+            try:
+                # Fire-and-forget is OK for init; tests only require roles exist eventually.
+                import asyncio
+                default_roles = [
+                    {
+                        "name": "Administrator",
+                        "description": "Full access to all system features and management",
+                        "permissions": ["all", "manage_users", "manage_keys", "system_config"],
+                    },
+                    {
+                        "name": "Operator",
+                        "description": "Can manage pipelines and view all data",
+                        "permissions": ["read_data", "trigger_pipelines", "manage_schedules"],
+                    },
+                ]
+
+                async def _ensure_roles():
+                    for role in default_roles:
+                        await self.roles.update_one({"name": role["name"]}, {"$set": role}, upsert=True)
+
+                loop = asyncio.get_event_loop()
+                if loop.is_running():
+                    asyncio.ensure_future(_ensure_roles())
+                else:
+                    loop.run_until_complete(_ensure_roles())
+            except Exception:
+                pass
         else:
             self.is_offline = True
             os.makedirs(os.path.dirname(self.local_data_path), exist_ok=True)
@@ -34,9 +68,75 @@ class PlaceRepository:
             await self.places.create_index([("u_key", 1)], unique=True)
             await self.places.create_index([("location", "2dsphere")])
             await self.places.create_index([("rating", -1)])
+            
+            # Admin indexes
+            await self.users.create_index([("email", 1)], unique=True)
+            await self.api_keys.create_index([("short_key", 1)], unique=True)
+            
             print("Indexes initialized")
         except Exception as e:
             print(f"Index initialization failed: {e}")
+
+    # --- USER MANAGEMENT ---
+    async def get_users(self):
+        cursor = self.db["users"].find({})
+        users = []
+        async for doc in cursor:
+            if "_id" in doc:
+                doc["id"] = doc.get("id") or str(doc["_id"])
+                doc["_id"] = str(doc["_id"])
+            users.append(doc)
+        return users
+
+    async def delete_user(self, user_id: str):
+        if self.is_offline: return
+        await self.users.delete_one({"_id": ObjectId(user_id) if ObjectId.is_valid(user_id) else user_id})
+
+    async def upsert_user(self, user_data: dict):
+        if self.is_offline: return
+        email = user_data.get("email")
+        await self.users.update_one({"email": email}, {"$set": user_data}, upsert=True)
+
+    # --- ROLE MANAGEMENT ---
+    async def get_roles(self) -> List[dict]:
+        if self.is_offline: return []
+        cursor = self.roles.find({})
+        return [self._format_doc(doc) async for doc in cursor]
+
+    # --- API KEY MANAGEMENT ---
+    async def get_api_keys(self) -> List[dict]:
+        if self.is_offline: return []
+        cursor = self.api_keys.find({})
+        return [self._format_doc(doc) async for doc in cursor]
+
+    async def delete_api_key(self, key_id: str):
+        if self.is_offline: return
+        await self.api_keys.delete_one({"_id": ObjectId(key_id) if ObjectId.is_valid(key_id) else key_id})
+
+    async def upsert_api_key(self, key_data: dict):
+        if self.is_offline: return
+        short_key = key_data.get("short_key")
+        await self.api_keys.update_one({"short_key": short_key}, {"$set": key_data}, upsert=True)
+
+    # --- BACKUP MANAGEMENT ---
+    async def get_backups(self) -> List[dict]:
+        if self.is_offline: return []
+        cursor = self.backups.find({}).sort("createdAt", -1)
+        return [self._format_doc(doc) async for doc in cursor]
+
+    async def create_backup_record(self, backup_data: dict):
+        if self.is_offline: return
+        await self.backups.insert_one(backup_data)
+
+    # --- SETTINGS MANAGEMENT ---
+    async def get_settings(self) -> dict:
+        if self.is_offline: return {}
+        settings = await self.settings.find_one({"_id": "system_config"})
+        return self._format_doc(settings) if settings else {}
+
+    async def update_settings(self, settings_data: dict):
+        if self.is_offline: return
+        await self.settings.update_one({"_id": "system_config"}, {"$set": settings_data}, upsert=True)
 
     async def get_all(self, city: Optional[str] = None, place_type: Optional[str] = None, 
                       rating_min: Optional[float] = None, limit: int = 50, offset: int = 0) -> List[dict]:
@@ -64,6 +164,14 @@ class PlaceRepository:
         
         return filtered[offset : offset + limit]
 
+    async def get_by_ukey(self, u_key: str):
+        if self.is_offline:
+            data = await self._get_from_json(limit=10000)
+            return next((p for p in data if p.get("u_key") == u_key), None)
+        
+        doc = await self.db["places"].find_one({"u_key": u_key})
+        return self._format_doc(doc)
+
     async def upsert_place(self, place_data: dict):
         if self.is_offline:
             # Offline upsert is handled by the pipeline script directly to avoid file IO overhead in a loop
@@ -78,11 +186,11 @@ class PlaceRepository:
                 return "SKIPPED"
             await self.places.update_one(
                 {"u_key": u_key},
-                {"$set": {**place_data, "last_updated": datetime.utcnow()}}
+                {"$set": {**place_data, "last_updated": datetime.now(timezone.utc)}}
             )
             return "UPDATED"
         
-        await self.places.insert_one({**place_data, "last_updated": datetime.utcnow()})
+        await self.places.insert_one({**place_data, "last_updated": datetime.now(timezone.utc)})
         return "CREATED"
 
     async def update_pipeline_status(self, status: PipelineStatus):
@@ -178,9 +286,10 @@ class PlaceRepository:
         stats = await self.places.aggregate(pipeline).to_list(1)
         city_stats = await self.places.aggregate([{"$group": {"_id": "$city", "count": {"$sum": 1}}}]).to_list(None)
         type_stats = await self.places.aggregate([{"$group": {"_id": "$type", "count": {"$sum": 1}}}]).to_list(None)
+        stats_result = stats[0] if stats else {"total": 0, "avg_rating": 0}
         return {
-            "total_places": stats[0]["total"] if stats else 0,
-            "avg_rating": round(stats[0]["avg_rating"], 2) if stats else 0,
+            "total_places": stats_result["total"],
+            "avg_rating": round(stats_result["avg_rating"] or 0, 2),
             "by_city": {s["_id"]: s["count"] for s in city_stats if s["_id"]},
             "by_type": {s["_id"]: s["count"] for s in type_stats if s["_id"]}
         }
