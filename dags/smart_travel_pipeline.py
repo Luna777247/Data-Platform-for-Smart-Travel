@@ -62,12 +62,18 @@ def bronze_osm_collector(city: str, **context) -> Dict[str, Any]:
     try:
         # Lazy imports to avoid dependency issues
         from src.collectors.osm_collector import OSMCollector
-        from src.shared.db_client import get_mongo_client
 
         logger.info(f"🔵 Bronze: Collecting OSM data for {city}...")
 
         collector = OSMCollector(city)
-        places = asyncio.run(collector.collect())
+        # Create new event loop for async call in sync context
+        import asyncio
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        try:
+            places = loop.run_until_complete(collector.collect())
+        finally:
+            loop.close()
 
         # Store count in XCom for downstream tasks
         count = len(places)
@@ -89,12 +95,23 @@ def bronze_google_enrichment(city: str, **context) -> Dict[str, Any]:
     """
     try:
         from src.collectors.google_enricher import GoogleEnricher
-        from src.shared.db_client import get_mongo_client
+        import os
+
+        api_key = os.getenv("GOOGLE_PLACES_API_KEY")
+        if not api_key:
+            raise AirflowException("GOOGLE_PLACES_API_KEY not set")
 
         logger.info(f"🔵 Bronze: Enriching with Google Places data for {city}...")
 
-        enricher = GoogleEnricher(city)
-        places = asyncio.run(enricher.enrich())
+        enricher = GoogleEnricher(city, api_key)
+        # Create new event loop for async call in sync context
+        import asyncio
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        try:
+            places = loop.run_until_complete(enricher.enrich())
+        finally:
+            loop.close()
 
         count = len(places)
         context["ti"].xcom_push(key="bronze_google_count", value=count)
@@ -121,7 +138,7 @@ def silver_transform(city: str, **context) -> Dict[str, Any]:
         logger.info(f"🟩 Silver: Processing data for {city}...")
 
         processor = SilverProcessor()
-        asyncio.run(processor.process_city(city))
+        processor.process_city(city)
 
         count = context["ti"].xcom_pull(
             task_ids="bronze_osm", key="bronze_osm_count"
@@ -144,11 +161,20 @@ def gold_analytics(city: str, **context) -> Dict[str, Any]:
     """
     try:
         from src.analytics.gold_generator import GoldGenerator
+        from src.shared.minio_client import get_minio_client
 
         logger.info(f"🟨 Gold: Generating analytics for {city}...")
 
-        generator = GoldGenerator()
-        result = asyncio.run(generator.generate_for_city(city))
+        minio_client = get_minio_client()
+        generator = GoldGenerator(minio_client)
+        # Create new event loop for async call in sync context
+        import asyncio
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        try:
+            result = loop.run_until_complete(generator.generate_for_city(city))
+        finally:
+            loop.close()
 
         context["ti"].xcom_push(key="gold_result", value=result)
 

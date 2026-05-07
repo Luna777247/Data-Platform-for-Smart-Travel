@@ -27,19 +27,25 @@ apiClient.interceptors.request.use(
       const cached = responseCache.get(cacheKey)
       if (cached && Date.now() - cached.timestamp < CACHE_DURATION) {
         console.log('[API Cache Hit]', config.url)
-        return Promise.reject({
-          __fromCache: true,
-          data: cached.response
-        })
+        // Return cached response directly
+        return {
+          ...config,
+          __cachedResponse: cached.response,
+          adapter: () => Promise.resolve({
+            data: cached.response,
+            status: 200,
+            statusText: 'OK (from cache)',
+            headers: { 'x-cache': 'HIT' },
+            config,
+            cached: true
+          })
+        }
       }
     }
     console.log('[API Request]', config.method?.toUpperCase(), config.baseURL + config.url)
     return config
   },
   (error) => {
-    if (error.__fromCache) {
-      return error
-    }
     console.error('[API Request Error]', error.message)
     return Promise.reject(error)
   }
@@ -50,8 +56,8 @@ apiClient.interceptors.response.use(
   (response) => {
     console.log('[API Response]', response.status, response.config.url, '- Response time:', response.headers['x-response-time'] || 'N/A')
     
-    // Cache successful GET responses
-    if (response.config.method === 'get') {
+    // Cache successful GET responses (skip cached responses)
+    if (response.config.method === 'get' && !response.cached) {
       const cacheKey = `${response.config.baseURL}${response.config.url}`
       responseCache.set(cacheKey, {
         response: response.data,
@@ -62,18 +68,6 @@ apiClient.interceptors.response.use(
     return response
   },
   (error) => {
-    // Handle cache hit errors
-    if (error.__fromCache) {
-      return Promise.resolve({
-        data: error.data,
-        status: 200,
-        statusText: 'OK (from cache)',
-        headers: {},
-        config: {},
-        cached: true
-      })
-    }
-
     if (error.response) {
       // Server responded with error status
       console.error('[API Error Response]', error.response.status, error.response.statusText)

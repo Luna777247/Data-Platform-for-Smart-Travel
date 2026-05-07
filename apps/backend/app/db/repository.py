@@ -4,12 +4,16 @@ import os
 from typing import List, Optional
 from bson import ObjectId
 from datetime import datetime, timezone
-from app.db.client import MongoClient
+from app.api.dependencies.database import mongo_client
+from app.core.config import settings
 from app.models.place import PlaceModel, PipelineStatus
+import logging
+
+logger = logging.getLogger(__name__)
 
 class PlaceRepository:
     def __init__(self):
-        self.db = MongoClient.get_db()
+        self.db = mongo_client[settings.mongodb_database]
         # COMPACT STORAGE ARCHITECTURE (Corrected path to project root)
         self.project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
         storage_dir = os.path.join(self.project_root, "storage")
@@ -18,51 +22,14 @@ class PlaceRepository:
         self.local_status_path = os.path.join(storage_dir, "metadata", "pipeline_status.json")
         
         # Check connectivity
-        if MongoClient.is_connected and self.db is not None:
-            self.places = self.db["places"]
-            self.pipeline_status = self.db["pipeline_status"]
-            self.users = self.db["users"]
-            self.roles = self.db["roles"]
-            self.api_keys = self.db["api_keys"]
-            self.backups = self.db["backups"]
-            self.settings = self.db["settings"]
-            self.is_offline = False
-
-            # Bootstrap default RBAC roles (business baseline)
-            try:
-                # Fire-and-forget is OK for init; tests only require roles exist eventually.
-                import asyncio
-                default_roles = [
-                    {
-                        "name": "Administrator",
-                        "description": "Full access to all system features and management",
-                        "permissions": ["all", "manage_users", "manage_keys", "system_config"],
-                    },
-                    {
-                        "name": "Operator",
-                        "description": "Can manage pipelines and view all data",
-                        "permissions": ["read_data", "trigger_pipelines", "manage_schedules"],
-                    },
-                ]
-
-                async def _ensure_roles():
-                    for role in default_roles:
-                        await self.roles.update_one({"name": role["name"]}, {"$set": role}, upsert=True)
-
-                try:
-                    loop = asyncio.get_event_loop()
-                    if loop.is_running():
-                        asyncio.create_task(_ensure_roles())
-                    else:
-                        loop.run_until_complete(_ensure_roles())
-                except RuntimeError as e:
-                    logger.warning(f"Could not initialize default roles: {e}")
-            except Exception as e:
-                logger.warning(f"RBAC initialization error: {e}", exc_info=True)
-        else:
-            self.is_offline = True
-            os.makedirs(os.path.dirname(self.local_data_path), exist_ok=True)
-            logger.warning("⚠️  PlaceRepository running in OFFLINE mode (using JSON fallback)")
+        self.is_offline = False  # Always online now
+        self.places = self.db["places"]
+        self.pipeline_status = self.db["pipeline_status"]
+        self.users = self.db["users"]
+        self.roles = self.db["roles"]
+        self.api_keys = self.db["api_keys"]
+        self.backups = self.db["backups"]
+        self.settings = self.db["settings"]
 
     async def init_indexes(self):
         if self.is_offline: return
