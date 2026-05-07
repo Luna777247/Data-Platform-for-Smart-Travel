@@ -49,33 +49,45 @@ class PlaceRepository:
                     for role in default_roles:
                         await self.roles.update_one({"name": role["name"]}, {"$set": role}, upsert=True)
 
-                loop = asyncio.get_event_loop()
-                if loop.is_running():
-                    asyncio.ensure_future(_ensure_roles())
-                else:
-                    loop.run_until_complete(_ensure_roles())
-            except Exception:
-                pass
+                try:
+                    loop = asyncio.get_event_loop()
+                    if loop.is_running():
+                        asyncio.create_task(_ensure_roles())
+                    else:
+                        loop.run_until_complete(_ensure_roles())
+                except RuntimeError as e:
+                    logger.warning(f"Could not initialize default roles: {e}")
+            except Exception as e:
+                logger.warning(f"RBAC initialization error: {e}", exc_info=True)
         else:
             self.is_offline = True
             os.makedirs(os.path.dirname(self.local_data_path), exist_ok=True)
-            print("[WARN] PlaceRepository running in OFFLINE mode (using JSON fallback)")
+            logger.warning("⚠️  PlaceRepository running in OFFLINE mode (using JSON fallback)")
 
     async def init_indexes(self):
         if self.is_offline: return
         try:
-            await self.places.create_index([("city", 1), ("type", 1)])
+            await self.places.create_index([("city", 1)])
+            await self.places.create_index([("categories", 1)])
+            await self.places.create_index([("city", 1), ("categories", 1)])
+            await self.places.create_index([("type", 1)])
             await self.places.create_index([("u_key", 1)], unique=True)
             await self.places.create_index([("location", "2dsphere")])
             await self.places.create_index([("rating", -1)])
+            
+            # TTL index for automatic cleanup (90 days)
+            await self.places.create_index(
+                [("created_at", 1)],
+                expireAfterSeconds=7776000
+            )
             
             # Admin indexes
             await self.users.create_index([("email", 1)], unique=True)
             await self.api_keys.create_index([("short_key", 1)], unique=True)
             
-            print("Indexes initialized")
+            logger.info("✅ All MongoDB indexes initialized successfully")
         except Exception as e:
-            print(f"Index initialization failed: {e}")
+            logger.error(f"❌ Index initialization failed: {e}", exc_info=True)
 
     # --- USER MANAGEMENT ---
     async def get_users(self):
@@ -153,10 +165,12 @@ class PlaceRepository:
 
     async def _get_from_json(self, city=None, p_type=None, limit=50, offset=0):
         if not os.path.exists(self.local_data_path): return []
-        with open(self.local_data_path, "r", encoding="utf-8") as f:
-            try:
+        try:
+            with open(self.local_data_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            except: return []
+        except Exception as e:
+            logger.error(f"Failed to read local JSON data: {e}", exc_info=True)
+            return []
         
         filtered = data
         if city: filtered = [p for p in filtered if p.get("city") == city.lower()]
@@ -226,7 +240,9 @@ class PlaceRepository:
         try:
             with open(self.local_status_path, "r", encoding="utf-8") as f:
                 return json.load(f)
-        except: return []
+        except Exception as e:
+            logger.error(f"Failed to read local pipeline status: {e}", exc_info=True)
+            return []
 
     async def get_pipeline_status(self, city: str = None, place_type: str = None):
         if self.is_offline:

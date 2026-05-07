@@ -15,6 +15,8 @@ class MongoClient:
 
     @classmethod
     async def connect(cls):
+        import logging
+        logger = logging.getLogger(__name__)
         try:
             # Create client inside the running event loop to avoid "Event loop is closed"
             if cls.client is None:
@@ -23,20 +25,25 @@ class MongoClient:
             # Ping to verify connection
             await cls.db.command("ping")
             cls.is_connected = True
-            print(f"Connected to MongoDB: {DB_NAME}")
+            logger.info(f"✅ Connected to MongoDB: {DB_NAME}")
         except Exception as e:
             cls.is_connected = False
-            print(f"MongoDB Connection Failed: {e}")
+            logger.error(f"❌ MongoDB Connection Failed: {e}", exc_info=True)
 
 
     @classmethod
     async def disconnect(cls):
-        if cls.client:
-            cls.client.close()
-            cls.client = None
-            cls.db = None
-            cls.is_connected = False
-            print("Disconnected from MongoDB")
+        import logging
+        logger = logging.getLogger(__name__)
+        try:
+            if cls.client:
+                cls.client.close()
+                cls.client = None
+                cls.db = None
+                cls.is_connected = False
+                logger.info("✅ Disconnected from MongoDB")
+        except Exception as e:
+            logger.error(f"Error during MongoDB disconnect: {e}", exc_info=True)
 
     @classmethod
     def get_db(cls):
