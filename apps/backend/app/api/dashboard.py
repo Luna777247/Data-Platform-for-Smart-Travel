@@ -9,15 +9,33 @@ repo = PlaceRepository()
 
 @router.get("/overview")
 async def get_overview():
-    stats = await repo.get_stats()
-    all_places = await repo.get_all(limit=10000)
-    ratings = [get_rating(p) for p in all_places if get_rating(p) > 0]
-    
+    # Use MongoDB aggregation instead of loading all data
+    pipeline = [
+        {
+            "$group": {
+                "_id": None,
+                "totalPlaces": {"$sum": 1},
+                "avgRating": {"$avg": "$rating"},
+                "minRating": {"$min": "$rating"},
+                "maxRating": {"$max": "$rating"}
+            }
+        }
+    ]
+    result = await repo.collection.aggregate(pipeline).to_list(length=1)
+    if result:
+        data = result[0]
+        return {
+            "totalPlaces": data["totalPlaces"],
+            "averageRating": round(data["avgRating"], 2) if data["avgRating"] else 0,
+            "minRating": data["minRating"] or 0,
+            "maxRating": data["maxRating"] or 0,
+            "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+        }
     return {
-        "totalPlaces": stats["total_places"],
-        "averageRating": stats["avg_rating"],
-        "minRating": min(ratings) if ratings else 0,
-        "maxRating": max(ratings) if ratings else 0,
+        "totalPlaces": 0,
+        "averageRating": 0,
+        "minRating": 0,
+        "maxRating": 0,
         "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
     }
 

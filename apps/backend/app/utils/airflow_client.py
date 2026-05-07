@@ -44,7 +44,8 @@ class AirflowClient:
             try:
                 response = await client.get(url, auth=self.auth)
                 return response.json() if response.status_code == 200 else {}
-            except:
+            except Exception as e:
+                logger.error(f"Failed to fetch Airflow DAGs: {e}", exc_info=True)
                 return {}
 
     async def get_dag_status(self, dag_id: str) -> Dict[str, Any]:
@@ -54,6 +55,7 @@ class AirflowClient:
             try:
                 response = await client.get(url, auth=self.auth)
                 return response.json() if response.status_code == 200 else {}
-            except:
+            except Exception as e:
+                logger.error(f"Failed to fetch DAG status for {dag_id}: {e}", exc_info=True)
                 return {}
 

@@ -12,6 +12,7 @@ Features:
 
 import logging
 from contextlib import asynccontextmanager
+import asyncio
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -20,8 +21,9 @@ from prometheus_fastapi_instrumentator import Instrumentator
 from app.api.routes import places, pipeline, health
 from app.core.config import settings
 from app.core.logging_config import setup_logging
+from app.core.background_tasks import wait_for_pending_tasks
 from app.db.client import MongoClient
-from app.api.dependencies.database import engine, redis_client
+from app.api.dependencies.database import engine, redis_client, mongo_client
 from app.core.security_middleware import (
     SecurityHeadersMiddleware,
     RateLimitMiddleware,
@@ -57,11 +59,8 @@ async def lifespan(app: FastAPI):
     try:
         # 1. MongoDB
         logger.info("Connecting to MongoDB...")
-        await MongoClient.connect()
-        if MongoClient.is_connected:
-            logger.info("✅ MongoDB connected")
-        else:
-            logger.warning("⚠️  MongoDB NOT connected – running with fallback")
+        await mongo_client.admin.command("ping")
+        logger.info("✅ MongoDB connected")
 
         # 2. PostgreSQL (async engine)
         logger.info("Connecting to PostgreSQL...")
@@ -92,7 +91,10 @@ async def lifespan(app: FastAPI):
     logger.info("🛑 Shutting down Smart Travel API...")
 
     try:
-        await MongoClient.disconnect()
+        # 1. Wait for in-flight background tasks (max 30 seconds)
+        await wait_for_pending_tasks(timeout=30.0)
+
+        # 2. Close database connections
         await engine.dispose()
         await redis_client.aclose()
         logger.info("✅ All connections closed")

@@ -36,8 +36,8 @@ async def get_places(
         cached_result = await redis_client.get(cache_key)
         if cached_result:
             return json.loads(cached_result)
-    except Exception:
-        pass  # Redis down — skip cache
+    except Exception as e:
+        logger.warning(f"Redis cache read failed: {e}")
 
     # Get from database
     places = await service.get_places(filter_params)
@@ -45,8 +45,8 @@ async def get_places(
     # Cache result for 5 minutes
     try:
         await redis_client.setex(cache_key, 300, json.dumps(places, default=str))
-    except Exception:
-        pass  # Redis down — skip cache
+    except Exception as e:
+        logger.warning(f"Redis cache write failed: {e}")
 
     return places
 

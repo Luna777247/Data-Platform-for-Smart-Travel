@@ -11,6 +11,8 @@ client = AirflowClient()
 
 @router.get("/stats")
 async def get_airflow_stats():
+    import logging
+    logger = logging.getLogger(__name__)
     # Attempt to fetch real stats from Airflow
     try:
         # In real Airflow, we might need to aggregate from Multiple endpoints
@@ -23,11 +25,14 @@ async def get_airflow_stats():
             "failedRuns": 0,
             "lastRun": datetime.now(timezone.utc).isoformat()
         }
-    except:
+    except Exception as e:
+        logger.error(f"Failed to fetch Airflow stats: {e}", exc_info=True)
         return {"error": "Could not connect to Airflow"}
 
 @router.get("/dags")
 async def get_airflow_dags():
+    import logging
+    logger = logging.getLogger(__name__)
     url = f"{client.base_url}/dags"
     async with httpx.AsyncClient() as h_client:
         try:
@@ -44,7 +49,8 @@ async def get_airflow_dags():
                     "successRate": 100
                 } for d in data.get("dags", [])]
             return []
-        except:
+        except Exception as e:
+            logger.error(f"Failed to fetch Airflow DAGs: {e}", exc_info=True)
             return []
 
 @router.post("/dags/{dag_id}/trigger")
@@ -70,6 +76,8 @@ async def resume_dag(dag_id: str):
 
 @router.get("/runs")
 async def get_runs_history():
+    import logging
+    logger = logging.getLogger(__name__)
     # Fetch from /dagRuns across all DAGs
     url = f"{client.base_url}/dags/~/dagRuns"
     async with httpx.AsyncClient() as h_client:
@@ -85,6 +93,7 @@ async def get_runs_history():
                     "duration": 0 # Needs calculation
                 } for r in data.get("dag_runs", [])]
             return []
-        except:
+        except Exception as e:
+            logger.error(f"Failed to fetch Airflow runs history: {e}", exc_info=True)
             return []
 

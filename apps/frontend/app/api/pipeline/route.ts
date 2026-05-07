@@ -6,7 +6,7 @@ export async function POST(request: NextRequest) {
     const body = await request.json()
     const response = await axios.post('http://backend:8000/api/pipeline/run', body)
     return NextResponse.json(response.data)
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: 'Failed to run pipeline' }, { status: 500 })
   }
 }
@@ -15,7 +15,7 @@ export async function GET() {
   try {
     const response = await axios.get('http://backend:8000/api/pipeline/runs')
     return NextResponse.json(response.data)
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: 'Failed to fetch pipeline runs' }, { status: 500 })
   }
 }

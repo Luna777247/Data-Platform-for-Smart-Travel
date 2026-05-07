@@ -4,12 +4,16 @@ import os
 from typing import List, Optional
 from bson import ObjectId
 from datetime import datetime, timezone
-from app.db.client import MongoClient
+from app.api.dependencies.database import mongo_client
+from app.core.config import settings
 from app.models.place import PlaceModel, PipelineStatus
+import logging
+
+logger = logging.getLogger(__name__)
 
 class PlaceRepository:
     def __init__(self):
-        self.db = MongoClient.get_db()
+        self.db = mongo_client[settings.mongodb_database]
         # COMPACT STORAGE ARCHITECTURE (Corrected path to project root)
         self.project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))))
         storage_dir = os.path.join(self.project_root, "storage")
@@ -18,64 +22,39 @@ class PlaceRepository:
         self.local_status_path = os.path.join(storage_dir, "metadata", "pipeline_status.json")
         
         # Check connectivity
-        if MongoClient.is_connected and self.db is not None:
-            self.places = self.db["places"]
-            self.pipeline_status = self.db["pipeline_status"]
-            self.users = self.db["users"]
-            self.roles = self.db["roles"]
-            self.api_keys = self.db["api_keys"]
-            self.backups = self.db["backups"]
-            self.settings = self.db["settings"]
-            self.is_offline = False
-
-            # Bootstrap default RBAC roles (business baseline)
-            try:
-                # Fire-and-forget is OK for init; tests only require roles exist eventually.
-                import asyncio
-                default_roles = [
-                    {
-                        "name": "Administrator",
-                        "description": "Full access to all system features and management",
-                        "permissions": ["all", "manage_users", "manage_keys", "system_config"],
-                    },
-                    {
-                        "name": "Operator",
-                        "description": "Can manage pipelines and view all data",
-                        "permissions": ["read_data", "trigger_pipelines", "manage_schedules"],
-                    },
-                ]
-
-                async def _ensure_roles():
-                    for role in default_roles:
-                        await self.roles.update_one({"name": role["name"]}, {"$set": role}, upsert=True)
-
-                loop = asyncio.get_event_loop()
-                if loop.is_running():
-                    asyncio.ensure_future(_ensure_roles())
-                else:
-                    loop.run_until_complete(_ensure_roles())
-            except Exception:
-                pass
-        else:
-            self.is_offline = True
-            os.makedirs(os.path.dirname(self.local_data_path), exist_ok=True)
-            print("[WARN] PlaceRepository running in OFFLINE mode (using JSON fallback)")
+        self.is_offline = False  # Always online now
+        self.places = self.db["places"]
+        self.pipeline_status = self.db["pipeline_status"]
+        self.users = self.db["users"]
+        self.roles = self.db["roles"]
+        self.api_keys = self.db["api_keys"]
+        self.backups = self.db["backups"]
+        self.settings = self.db["settings"]
 
     async def init_indexes(self):
         if self.is_offline: return
         try:
-            await self.places.create_index([("city", 1), ("type", 1)])
+            await self.places.create_index([("city", 1)])
+            await self.places.create_index([("categories", 1)])
+            await self.places.create_index([("city", 1), ("categories", 1)])
+            await self.places.create_index([("type", 1)])
             await self.places.create_index([("u_key", 1)], unique=True)
             await self.places.create_index([("location", "2dsphere")])
             await self.places.create_index([("rating", -1)])
+            
+            # TTL index for automatic cleanup (90 days)
+            await self.places.create_index(
+                [("created_at", 1)],
+                expireAfterSeconds=7776000
+            )
             
             # Admin indexes
             await self.users.create_index([("email", 1)], unique=True)
             await self.api_keys.create_index([("short_key", 1)], unique=True)
             
-            print("Indexes initialized")
+            logger.info("✅ All MongoDB indexes initialized successfully")
         except Exception as e:
-            print(f"Index initialization failed: {e}")
+            logger.error(f"❌ Index initialization failed: {e}", exc_info=True)
 
     # --- USER MANAGEMENT ---
     async def get_users(self):
@@ -153,10 +132,12 @@ class PlaceRepository:
 
     async def _get_from_json(self, city=None, p_type=None, limit=50, offset=0):
         if not os.path.exists(self.local_data_path): return []
-        with open(self.local_data_path, "r", encoding="utf-8") as f:
-            try:
+        try:
+            with open(self.local_data_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            except: return []
+        except Exception as e:
+            logger.error(f"Failed to read local JSON data: {e}", exc_info=True)
+            return []
         
         filtered = data
         if city: filtered = [p for p in filtered if p.get("city") == city.lower()]
@@ -226,7 +207,9 @@ class PlaceRepository:
         try:
             with open(self.local_status_path, "r", encoding="utf-8") as f:
                 return json.load(f)
-        except: return []
+        except Exception as e:
+            logger.error(f"Failed to read local pipeline status: {e}", exc_info=True)
+            return []
 
     async def get_pipeline_status(self, city: str = None, place_type: str = None):
         if self.is_offline:
