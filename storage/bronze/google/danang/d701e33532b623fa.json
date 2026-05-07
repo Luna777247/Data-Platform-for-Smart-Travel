@@ -1,0 +1,164 @@
+{
+  "u_key": "d701e33532b623fa",
+  "original_osm_name": "Happy Buffalo",
+  "google_raw": {
+    "formatted_phone_number": "0978 229 890",
+    "geometry": {
+      "location": {
+        "lat": 15.8820503,
+        "lng": 108.3532912
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8834766802915,
+          "lng": 108.3546444302915
+        },
+        "southwest": {
+          "lat": 15.8807787197085,
+          "lng": 108.3519464697085
+        }
+      }
+    },
+    "name": "The Happy Buffalo Restaurant & Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:00–22:00",
+        "Thứ Ba: 16:00–22:00",
+        "Thứ Tư: 16:00–22:00",
+        "Thứ Năm: 16:00–22:00",
+        "Thứ Sáu: 16:00–22:00",
+        "Thứ Bảy: 16:00–22:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Thu Uyên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116408249761284838390/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9mQAHupc8snGjtNcItqLFnLDW-AtXsUXKsbvyZXvtegRvUVs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn siêuu ngon, nhân viên quán siêu nhiệt tình. Nhất định sẽ quay lại quán khi vào Hội An ạ 😍😍",
+        "time": 1768404884,
+        "translated": false
+      },
+      {
+        "author_name": "HAY TV",
+        "author_url": "https://www.google.com/maps/contrib/107162824365250866227/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwu4Bbk33VBiXOkHKzU6a11pEHlTTwTQynCGCwFYESOFW9DiA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "View đẹp, món ăn ngon",
+        "time": 1762994477,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Trong Tung",
+        "author_url": "https://www.google.com/maps/contrib/107734465630581047141/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIe9yNi3EssqFOFN5EKrMMj3fgjHHoz0Y6Ly-FfB_LOp6mncQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "quán cho khách Tây rất ok, chủ là 2 vợ chồng NZ rất thân thiện. Giá cả phải chăng",
+        "time": 1570551878,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Tiến",
+        "author_url": "https://www.google.com/maps/contrib/111094874044683956092/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSeVvjrS8cYqdvOhPklfLFgOTzP1iD7t0YsWI3BxeudfjhQOYzdg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Đồ ăn ngon. Giá theo mặt bằng chung điểm du lịch.",
+        "time": 1566048057,
+        "translated": false
+      },
+      {
+        "author_name": "duyqnam duy",
+        "author_url": "https://www.google.com/maps/contrib/118348275882277070200/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPbDgwGZR9Sfm5Tggw8IMEUtmwqtS7Pc2rxFIJVKUkBvuXrg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán rất đón giản, chủ quán người Úc, mở nhạc Âu, món ăn Bình thường",
+        "time": 1544752900,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 314
+  },
+  "harvested_at": "2026-04-28T16:41:05.655833"
+}

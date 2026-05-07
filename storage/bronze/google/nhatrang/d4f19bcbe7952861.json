@@ -1,0 +1,174 @@
+{
+  "u_key": "d4f19bcbe7952861",
+  "original_osm_name": "Trung Nguyen Legend",
+  "google_raw": {
+    "formatted_phone_number": "0914 153 138",
+    "geometry": {
+      "location": {
+        "lat": 12.243223,
+        "lng": 109.1934039
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2446129802915,
+          "lng": 109.1947906302915
+        },
+        "southwest": {
+          "lat": 12.24191501970849,
+          "lng": 109.1920926697085
+        }
+      }
+    },
+    "name": "Thế Giới Cà Phê Trung Nguyên Legend",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:00",
+        "Thứ Ba: 06:30–22:00",
+        "Thứ Tư: 06:30–22:00",
+        "Thứ Năm: 06:30–22:00",
+        "Thứ Sáu: 06:30–22:00",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Anh Khong",
+        "author_url": "https://www.google.com/maps/contrib/100766483741937238743/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLkB2CWAgh7G9zNbxU8QWixoKjjhJtlpkaovsWqE1-z3VIog=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cà phê ở đây khá ngon, đặc biệt cà phê dừa khá nhẹ nhàng, khách nước ngoài rất thích.\nAi không uống được cà phê nặng thì uống ở đây sẽ phù hợp hơn, chỉ có giá thì hơi cao thôi.",
+        "time": 1768895374,
+        "translated": false
+      },
+      {
+        "author_name": "Yến Trần Hải",
+        "author_url": "https://www.google.com/maps/contrib/111385501381430267919/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo5IUeOD2HIIgqUbW7N8MfpY_cxkKBlFMM0Rraw-gzC0kUrK7h=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Trang trí đẹp, Ko gian dễ chịu, đổi uống ổn giá cao nhưng mặt bằng như vậy là hợp lý. Bất tiện chỗ gửi xe, nếu muốn ghé uống thì phải gửi xe ở hầm tòa nhà, Ko có wc tại quán mà phải đi qua lầu 2 Vin khá bất tiện cho hd có trẻ con",
+        "time": 1748513196,
+        "translated": false
+      },
+      {
+        "author_name": "Bingg Bongg",
+        "author_url": "https://www.google.com/maps/contrib/116485741657207820111/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-y6LKuwFtZ9iJ0zXCgACZK6Y82UTIcUgep1DViRvhZJ3bXotb=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình tới đây mình nghĩ món bạc xĩu sẽ là món an toàn dễ làm dễ ngon cho dễ uống nhưng không, nó QUÁ DỞ QUÁ TỆ uống cà phê đừng ghé quán này mng ơi",
+        "time": 1771559838,
+        "translated": false
+      },
+      {
+        "author_name": "鳳鴛",
+        "author_url": "https://www.google.com/maps/contrib/109269182583685021892/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9uSK2MnwgNx_E2JSbJd0HJwmfGZucH3ODO9moptI7UZAtpFRs=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "khoảng 20:45 khi chuẩn bị đẩy cửa vô quầy thì mình thấy một bạn nam đang bê khay nước đi ra, mình tiện đứng giữ cửa luôn, xong bạn đi cái vèo qua không một lời, làm mình ngộ nhận trách nhiệm giữ cửa là của khách. Rồi tiếp, gia đình mình ngồi bên ngoài, có Ba mình lớn tuổi nữa, mà tầm hơn 21h là thấy mí bạn nv dọn bàn ghế trống vào trong, uh ghì không còn khách ngồi thì tranh thủ dọn, cái đến tầm 21:30 bạn tới bàn mình thu cái ghế trống mang đi. Cảm giác như đuổi khách về đi trễ rồi ấy. Trong khi anh bạn hàng xóm thì khách còn đông tây hihihaha ngồi chill. Quản lý cần tham khảo cách đào tạo nhân viên ở Sài Gòn và Bình Dương.  Trung Nguyên Cafe đối với mìn mà nói thì là một nơi thanh tao lịch sự, rất thích hợp để thư giãn và thưởng thức cafe. Nhưng, nơi đây cần đào tạo lại nhân viên, không thì sẽ khách sẽ chạy ngay qua anh bạn hàng xóm Highlands coffee thôi.",
+        "time": 1772527461,
+        "translated": false
+      },
+      {
+        "author_name": "T M T",
+        "author_url": "https://www.google.com/maps/contrib/111108344492905803971/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF_SEjCdS31cXp71nEqdLUN4kuwxiHr7Xd7PAOpFY-WmC3AdnXAA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Ngồi trong thì rộng rãi. Ngồi ngoài thì thoáng mát.\nNhà mình ngồi chill đợi xe cảm thấy rất thoải mái. Nước uống ngon...\nGia đình nào cần điểm trung chuyển để chờ xe khách có thể ghé làm ly cafe nhé.",
+        "time": 1738476250,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 298
+  },
+  "harvested_at": "2026-05-02T15:31:15.673946"
+}

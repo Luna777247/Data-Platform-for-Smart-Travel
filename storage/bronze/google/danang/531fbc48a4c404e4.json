@@ -1,0 +1,173 @@
+{
+  "u_key": "531fbc48a4c404e4",
+  "original_osm_name": "Ba Ghiền",
+  "google_raw": {
+    "formatted_phone_number": "0947 559 547",
+    "geometry": {
+      "location": {
+        "lat": 15.8844947,
+        "lng": 108.3285575
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8858852802915,
+          "lng": 108.3299245802915
+        },
+        "southwest": {
+          "lat": 15.8831873197085,
+          "lng": 108.3272266197085
+        }
+      }
+    },
+    "name": "Quán Cơm Bà Ghiền.",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–14:00",
+        "Thứ Ba: 07:00–14:00",
+        "Thứ Tư: 07:00–14:00",
+        "Thứ Năm: 07:00–14:00",
+        "Thứ Sáu: 07:00–14:00",
+        "Thứ Bảy: 07:00–14:00",
+        "Chủ Nhật: 07:00–14:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Thắng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102890676962603460032/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4iM53F5XTgnQAoKuB1ov9oCPNvGZiFRZelfWuK1bFMwzfkMsJ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán nhìn cũng sạch sẽ,cơm,sườn ngon so với giá phù hợp.\nNhưng chủ quán và nhân viên nói chuyện to,ồn ào như cải nhau ngồi ăn cũng k được thoải mái.",
+        "time": 1760690587,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100128153358463023799/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOtR1ZKHy5TbHfdfZkIkCtmWblkFK92Qj4gusoFFmCmJebfj_E=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán cơm tấm bình dân nhưng rất đông khách,  người dân địa phương ăn rất đông. Suất cơm sườn trứng như hình là 35k. Hôm đó mình đến thì mới hơn 11h đã hết canh khổ qua. Sườn ướp vị vừa ăn, ko bị khô. Phục vụ dễ chịu, tận tình. Chỗ ngồi rộng rãi, thoáng mát.",
+        "time": 1760239537,
+        "translated": false
+      },
+      {
+        "author_name": "Ny Trần Tiểu",
+        "author_url": "https://www.google.com/maps/contrib/109761133721935022394/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3qNx1pCAIelI2tappYno5KTuQzQ0NaEPweXriPZQF94ghxk2A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một phần cơm sườn là 30.000, sườn trứng là ba mươi lăm thì giá cả rất là phải chăng quán rộng rãi sạch sẽ thoáng mát cơm tắm thì rất ngon nước mắm thì đậm đặc, mọi người đến thử nhé",
+        "time": 1726365775,
+        "translated": false
+      },
+      {
+        "author_name": "Vi Thai",
+        "author_url": "https://www.google.com/maps/contrib/108578513792033626044/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxwMD3fkn2SY9GOAdJY2xRM8ZFg0EupsMMVcSvgTdQQOq7jMXhjA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán cơm tấm này siêu ngon, chỉ bán bửa trưa thôi. Thịt nướng mềm thấm, 1 đĩa 40 ngàn. Quán vệ sinh lắm, đông khách nhưng phục vụ nhanh",
+        "time": 1737439468,
+        "translated": false
+      },
+      {
+        "author_name": "Thuận Travel",
+        "author_url": "https://www.google.com/maps/contrib/115746975948649900618/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1v-sDMgmPjGhfvlLChJ0SsceOLhR1nNhjJJ7cxlQ2ohIZjKle=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cơm sường nướng ngon\nKhông gian thoáng mát rộng\nGiá cả công khai\nQuán rất sạch phục vụ cũng rất nhanh\nTôi đã thử món cơm sường nướng với trứng giá 35k\nCó điều nướng mắm bỏ đường vào nên hơi ngọt!",
+        "time": 1734152336,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 105
+  },
+  "harvested_at": "2026-04-28T16:41:21.701880"
+}

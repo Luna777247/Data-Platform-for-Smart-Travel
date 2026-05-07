@@ -1,0 +1,173 @@
+{
+  "u_key": "a063f2930ebc63bc",
+  "original_osm_name": "Bumbi",
+  "google_raw": {
+    "formatted_phone_number": "0937 264 411",
+    "geometry": {
+      "location": {
+        "lat": 11.9443339,
+        "lng": 108.4348689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9456483302915,
+          "lng": 108.4362118802915
+        },
+        "southwest": {
+          "lat": 11.9429503697085,
+          "lng": 108.4335139197085
+        }
+      }
+    },
+    "name": "Nối mi Bumbi Huynh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–19:00",
+        "Thứ Ba: 08:30–19:00",
+        "Thứ Tư: 08:30–19:00",
+        "Thứ Năm: 08:30–19:00",
+        "Thứ Sáu: 08:00–19:00",
+        "Thứ Bảy: 08:30–19:00",
+        "Chủ Nhật: 08:30–19:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "ly Su",
+        "author_url": "https://www.google.com/maps/contrib/116211866422865320994/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyso_ZVrL-dgOAHyc-oBh3K1DlgKH7wl8qvdtlODDz-sy2G1hRsg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Chị chủ vui tính dễ thương . Nối nhanh . Bền . Ai cũng khen đẹp . Sẽ giới thiệu khách . Mọi ng nên thử . Hứa ko làm mọi ng thất vọng đâu ạ  😘😘😘😘",
+        "time": 1750049402,
+        "translated": false
+      },
+      {
+        "author_name": "Joanne Huynh",
+        "author_url": "https://www.google.com/maps/contrib/104773165142804172354/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCOaPkRCI5Jow8xULeLlHlKMeY3BnzWzyZvzh8gnuCfvVt7A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nối mi siêu đẹp, tự nhiên, không cộm, chủ tiệm siêu cute nhe mọi người, sẽ quay lại ủng hộ tiêp.",
+        "time": 1690300093,
+        "translated": false
+      },
+      {
+        "author_name": "Phi Vân Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/108564204479353353008/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyYkS_9MpQHeWcFa_avz_1xZMLEOnMCzLVngmb_R5ZxwVCsow=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nên đến trải nghiệm nha mọi người. Nhân viên dễ thương, nhiệt tình mà tay nghề ok lắm luôn. Sẽ quay lại nhiều lần nữa.",
+        "time": 1699952704,
+        "translated": false
+      },
+      {
+        "author_name": "Trâm Nguyễn Thị Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/115850107005645649087/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzlZOa1E1k2PbrWAUir3kiUVs4ZxUo_Jj9DfCHSJQSwA_zGpw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Tiệm mở bao lâu ,tui nối ở đây bấy lâu ,bao xịn luôn ☺️",
+        "time": 1722573496,
+        "translated": false
+      },
+      {
+        "author_name": "thao dang",
+        "author_url": "https://www.google.com/maps/contrib/109954759351234100029/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjes4gPwrBSJjSnK_VO8PSQonDwOMVNGVgYXicYZiST2SyRw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Nối mi đẹp siêu tự nhiên, ko cộm, bền .",
+        "time": 1661562625,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 8
+  },
+  "harvested_at": "2026-04-30T15:12:01.106033"
+}

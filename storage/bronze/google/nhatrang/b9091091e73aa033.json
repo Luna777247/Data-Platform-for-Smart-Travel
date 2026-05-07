@@ -1,0 +1,174 @@
+{
+  "u_key": "b9091091e73aa033",
+  "original_osm_name": "Latimo restaraunt",
+  "google_raw": {
+    "formatted_phone_number": "0898 868 386",
+    "geometry": {
+      "location": {
+        "lat": 12.2418747,
+        "lng": 109.1921177
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2431804802915,
+          "lng": 109.1935363802915
+        },
+        "southwest": {
+          "lat": 12.2404825197085,
+          "lng": 109.1908384197085
+        }
+      }
+    },
+    "name": "An Lam Bistro",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:00",
+        "Thứ Ba: 09:00–21:00",
+        "Thứ Tư: 09:00–21:00",
+        "Thứ Năm: 09:00–21:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–21:00",
+        "Chủ Nhật: 09:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Ngô Nguyên",
+        "author_url": "https://www.google.com/maps/contrib/117707269390221967384/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkAEA_N5AEmymByjcf54809XogXbfMIzqiIPtfX8QW4SXWK1Nm=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đã từng ăn rất nhiều lần tại quán có thể nói là khách hàng thân thiết của quán, nhưng ko biết là quán có hr hay ko, có training cho nhân viên hay là ko làm nhà hàng mà thái độ phục vụ như ở chợ, bàn khách vẫn còn đang ăn thì tự động ngang nhiên mang đồ trên bàn khách mang sang cho khách ngồi kế bên ko xin phép khách  ở bàn hiện tại, trong khi bàn trống còn rất nhiều, khách mới vừa ăn xong có thể xin phép khách dọn dĩa để gọn gàng, ấy thế bạn đó qua tự động ko xin phép tự đẹp dĩa, tự báo nhân viên khác qua tính tiền cho khách luôn, như kiểu đuổi khéo khách ra ngoài.\nĐây là lần cuối cùng tôi ghé lại quán này, thái độ phục vụ với khách hàng. Trãi nghiệm quá tệ khi lúc nào cũng ủng hộ, có thể là nhân viên mới nhưng chả ai đi thái độ vs khách hàng như thế.",
+        "time": 1765848259,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Kien Duong (Cuộc Sống Vui)",
+        "author_url": "https://www.google.com/maps/contrib/107059691486348740996/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNDJUtNWcYaAkLPgmhsbArjSGSk44zHBYdzfZjbDIJSU3d2v_u=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn khá ổn nha, giá vậy là oki nè. Nói chung ở Nha Trang thì củng top 5 rồi.\nThích cái không khí & thiết kế không gian lạ, tuy nhiên củng khá ồn á!\n* dịch vụ của nhân viên là rất tốt.\nQuán ngay trung tâm nên tiện đi bộ",
+        "time": 1755522178,
+        "translated": false
+      },
+      {
+        "author_name": "Mén Trâm",
+        "author_url": "https://www.google.com/maps/contrib/108715684774778302358/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDKkcR5nXfmsT1fWb5c-GIxLLQpGfcMyaLeLCPNPFeQX3w7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Một nơi để các bạn tụ họp gia đình ăn uống sum vầy bên nhau.để lưu giữ những kỉ niệm đẹp.\nKhông gian thoải mái có thể sống ảo như đang ở phương trời Tây",
+        "time": 1765883390,
+        "translated": false
+      },
+      {
+        "author_name": "hien Hien",
+        "author_url": "https://www.google.com/maps/contrib/115003802149604116558/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqHH3ODa_5z_akmKwtSHuHlFXZsW03qNgV4hVfK5mgZKGqcOg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Một nhà hàng tử tế, trong từng món ăn và cách đối xử với khách hàng. Cực kì ngon, giá rẻ, nhân viên lễ phép. Tôi rất hài lòng và các bạn tôi cũng là khách hàng thường xuyên của An Lam.",
+        "time": 1759715754,
+        "translated": false
+      },
+      {
+        "author_name": "Hùng Chí",
+        "author_url": "https://www.google.com/maps/contrib/112603774983672212165/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_JsuAePcEatk32z3LwL7mVT8BaquN2fqaDFuK9_S4fe0uGYUHsQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Không gian hiện đại, đẹp, sạch sẽ, nhân viên take care khách tốt, vị trí đắc địa,...\nMình ghé An Lam cũng nhiều lần rồi, tuy mình không rành lắm về đồ Âu nhưng mình thấy ngon miệng.  :v\nĐáng trải nghiệm nha.",
+        "time": 1755932760,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 496
+  },
+  "harvested_at": "2026-05-02T15:13:09.362940"
+}

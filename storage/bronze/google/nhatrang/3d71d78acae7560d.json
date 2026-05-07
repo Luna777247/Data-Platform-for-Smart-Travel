@@ -1,0 +1,84 @@
+{
+  "u_key": "3d71d78acae7560d",
+  "original_osm_name": "Cô tiên lữ quán",
+  "google_raw": {
+    "formatted_phone_number": "0854 841 872",
+    "geometry": {
+      "location": {
+        "lat": 12.2918849,
+        "lng": 109.1954725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2932202302915,
+          "lng": 109.1968181802915
+        },
+        "southwest": {
+          "lat": 12.2905222697085,
+          "lng": 109.1941202197085
+        }
+      }
+    },
+    "name": "Cô tiên lữ quán - ăn uống đặt chòi riêng",
+    "price_level": 1,
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Dang Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109018109473697317643/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbwUTE9DACBGhBuy_f_9y5KJRV9vvCvt9yoOUXjOQV0ZSDWA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Tuyệt vời, giá khỏi bàn, chỗ chơi lý tưởng lắm , ăn nhậu hát karaoke nhức cái nách",
+        "time": 1699253213,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Vinh Thái",
+        "author_url": "https://www.google.com/maps/contrib/115512377896045199204/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1A7rJNmqnwFbCM9aEwoJMCccbNxpe_LtcbfnjC0SgjLcM1rM2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Thuê chòi ăn uống hát karaoke từ 200k cho đến 400k\nFree karaoke, setup ly chén, dụng cụ lò than, quạt máy, thùng đá.",
+        "time": 1773665761,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Thanh Tùng - P. Tùng Khởi - DTL NT",
+        "author_url": "https://www.google.com/maps/contrib/109151921857944970017/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMkJSAStR6hW2J98hlFQwFVBfo1jZ_OQrPCfoka-TEoWmgud-C=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1678928074,
+        "translated": false
+      },
+      {
+        "author_name": "Dự Thái",
+        "author_url": "https://www.google.com/maps/contrib/103523693789083840797/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw_dPXAC6P-npx6zcwxXzBQy1l8GRX0m-C7-ziWVmbUCvoxujD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1664502627,
+        "translated": false
+      },
+      {
+        "author_name": "Tuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112300153098491279350/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRl6o4F0yXdvGOzNlQDFVfLrgOZ79Rhota8Y0MlnEYCxclFg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1663340385,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-05-02T15:38:51.354960"
+}

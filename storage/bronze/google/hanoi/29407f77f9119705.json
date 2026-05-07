@@ -1,0 +1,173 @@
+{
+  "u_key": "29407f77f9119705",
+  "original_osm_name": "Tuên an",
+  "google_raw": {
+    "formatted_phone_number": "024 3871 3838",
+    "geometry": {
+      "location": {
+        "lat": 21.0157806,
+        "lng": 105.8577028
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0171735802915,
+          "lng": 105.8591414802915
+        },
+        "southwest": {
+          "lat": 21.0144756197085,
+          "lng": 105.8564435197085
+        }
+      }
+    },
+    "name": "Khách sạn The Ann Hà nội",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 01:00–23:00",
+        "Thứ Ba: 01:00–23:00",
+        "Thứ Tư: 01:00–23:00",
+        "Thứ Năm: 01:00–23:00",
+        "Thứ Sáu: 01:00–23:00",
+        "Thứ Bảy: 01:00–23:00",
+        "Chủ Nhật: 01:00–23:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Trung Kien Ha Son",
+        "author_url": "https://www.google.com/maps/contrib/110469608309107953064/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4BbB6T7uoyJsnPUiX5PUMglOXUot_sv2WxsL-ejF9jh5ACFg=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "Sạch đẹp, sang trọng, nhân viên nhiệt tình.\n(WC ko có vòi xịt thì ko thể quá 2 sao)",
+        "time": 1770963899,
+        "translated": false
+      },
+      {
+        "author_name": "phi lee",
+        "author_url": "https://www.google.com/maps/contrib/111672224006927496328/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfrKuHnwaubq5DzyIuzmmm7yg6tEh5qONfacvYXhN-QvdcOUo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Vị trí khách sạn nằm ngay trung tâm thành phố. Dịch vụ rất tốt,nhân viên thì thân thiện và vui vẻ .\nBữa sáng rất ngon. Trang trí đẹp mắt. Bể bơi sạch sẽ.\nCảm ơn và gia đình tôi sẽ quay trở lại.",
+        "time": 1757482473,
+        "translated": false
+      },
+      {
+        "author_name": "Jennifer Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101770870484911258483/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_KBrrqZNHCMkxGFz9duNycK4HdOrfQf9-OqJbm9wJC_TUkA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Phòng đẹp và sạch sẽ. Nhân viên thân thiện. Tôi sẽ quay trở lại.",
+        "time": 1765277793,
+        "translated": false
+      },
+      {
+        "author_name": "Thùy Nhiên Nguyễn Phan",
+        "author_url": "https://www.google.com/maps/contrib/106837542967940934450/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFIJYwkfNXBzsit73pGH0GeYHDcFEjhWdoWaV6duwcExCWPhRq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Khách sạn trang bị cơ sở vật chất đầy đủ, tiện nghi. Đồ ăn sáng ngon. Nhân viên thân thiện, rất support.",
+        "time": 1748152908,
+        "translated": false
+      },
+      {
+        "author_name": "Hung Toquoc",
+        "author_url": "https://www.google.com/maps/contrib/116452806026767639941/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR6re9RRTFc-MED_EDtqVwH7r8d-M3TCDpqnq-HjSPZcFn8Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Rất sang trọng, ấm cúng, phục vụ tốt.",
+        "time": 1767154890,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1087
+  },
+  "harvested_at": "2026-04-28T16:29:08.876187"
+}

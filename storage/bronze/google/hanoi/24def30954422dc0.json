@@ -1,0 +1,173 @@
+{
+  "u_key": "24def30954422dc0",
+  "original_osm_name": "VNUA restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0961 188 846",
+    "geometry": {
+      "location": {
+        "lat": 21.0173222,
+        "lng": 105.9304316
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0187295302915,
+          "lng": 105.9317731302915
+        },
+        "southwest": {
+          "lat": 21.0160315697085,
+          "lng": 105.9290751697085
+        }
+      }
+    },
+    "name": "VNUA Café",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "河木炭",
+        "author_url": "https://www.google.com/maps/contrib/110415455798284254115/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWN64Mb8rpEvRl5-Wwuut7-y_Im7c3sGP1Y_fon4n110sc5vky=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ uống ở đây ngon lắm ,mấy chị nhân viên xinh lắm",
+        "time": 1766716698,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Phạm",
+        "author_url": "https://www.google.com/maps/contrib/111658188865559810963/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0UW36xFl4JZUJQjLMsrc0IQJ7NTH6TTQEYKs7RGmBlIDHBQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhân viên phục vụ tốt ổn đinh\nĐồ uống ngon",
+        "time": 1766719265,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Long",
+        "author_url": "https://www.google.com/maps/contrib/102579901756576214266/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLF1fIIUYLkuyazpIYfpkhlj-YDHS4aUXj4qShnCdOluB3IKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ uống ngon, giá cả hợp ví, sẽ quay lại thường xuyên!",
+        "time": 1763545953,
+        "translated": false
+      },
+      {
+        "author_name": "Klupj Lavigne",
+        "author_url": "https://www.google.com/maps/contrib/106343525103548905007/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV94ydzFZFKrTfNJKLlmhxbRGBvNB1wDaPwpKK4c7zuk0Wzvnuu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ uống ngon, nhân viên nhiệt tình",
+        "time": 1765685392,
+        "translated": false
+      },
+      {
+        "author_name": "Áo Dài Hồng Thanh",
+        "author_url": "https://www.google.com/maps/contrib/111465975638892910676/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmwdHActFqUiP44BgT4Ll0ZcNtNIfun2SJJVS2hqBOXtyjRQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Trải nghiệm ở đây rất tốt. Nhân viên tư vấn rất nhật tình và dễ hiểu.",
+        "time": 1765631103,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 250
+  },
+  "harvested_at": "2026-04-28T16:22:47.617323"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "527416356019c880",
+  "original_osm_name": "Quán Chay A Di Đà Phật",
+  "google_raw": {
+    "formatted_phone_number": "0963 231 367",
+    "geometry": {
+      "location": {
+        "lat": 12.2859918,
+        "lng": 109.1909722
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2873712302915,
+          "lng": 109.1923746802915
+        },
+        "southwest": {
+          "lat": 12.2846732697085,
+          "lng": 109.1896767197085
+        }
+      }
+    },
+    "name": "Quán Chay A Di Đà Phật",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–20:00",
+        "Thứ Ba: 06:30–20:00",
+        "Thứ Tư: 06:30–20:00",
+        "Thứ Năm: 06:30–20:00",
+        "Thứ Sáu: 06:30–20:00",
+        "Thứ Bảy: 06:30–20:00",
+        "Chủ Nhật: 06:30–20:00"
+      ]
+    },
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Moony Artsy",
+        "author_url": "https://www.google.com/maps/contrib/106107668037366669252/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj19I0m05ykwBl9jKUltQx307c6HYii8wJ43fSeUIPmjUsStPR=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn ngon , nhiều món phong phú, nhưng mà cái bạn nam bỏ đồ ăn vô dĩa cho khách nói chuyện cọc thực sự, mình chọn đồ ăn mà thấy bạn phục vụ khó tính dễ sợ. Thấy quán bán chay mà bạn đó kiểu OMG lun á :(((",
+        "time": 1754638777,
+        "translated": false
+      },
+      {
+        "author_name": "Le Bao Ngan",
+        "author_url": "https://www.google.com/maps/contrib/111768937528177584477/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3YpNzCYtpxL1xVvMRQTxEJVMeKV-hDxiZO-D0jTD_WaOVoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "thấy mn đánh giá tệ hôm nay trải nghiệm thì tệ thật sự , nhân viên thì thái độ cọc cằn , kiểu mua không mua thì thôi , mong quán khắc phục tình trạng này",
+        "time": 1768822794,
+        "translated": false
+      },
+      {
+        "author_name": "Bất Động Sản Hoàng Hưng Đà Lạt",
+        "author_url": "https://www.google.com/maps/contrib/112368022020060054305/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL32ZctPg4yhruWapfkqoT2p4dIVstidDXd44IPsRJ0WMdn3U=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán chay mà buôn bán mất dạy, coi thường khách hàng, ăn nói cọc cằn vô văn hóa.\nKhông bao giờ nghĩ sẽ ghé đến lần hai.",
+        "time": 1756617578,
+        "translated": false
+      },
+      {
+        "author_name": "Đông Phong",
+        "author_url": "https://www.google.com/maps/contrib/100890420335628053730/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUua6I3eQL5M9jsAnxbsWQoB08UHhi-5pqjdg95xvWA8Q7Ntrlc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Quán sạch sẽ , giá thành rẻ , món ăn  phong Phú",
+        "time": 1746359817,
+        "translated": false
+      },
+      {
+        "author_name": "Thuận Nguyễn Đức",
+        "author_url": "https://www.google.com/maps/contrib/116017975987670065124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSNoMQX00lDzW72tnJw5MgdWOZ0dkOiBHZzkHx465xBjvx4wYr=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn được, vị ngon. Điểm yếu cần khắc phục nhân viên quán không ghi nhớ order. Điểm kém nhất của quán: khách vừa buông đũa đã mời khách đứng dậy nhường chỗ khách khác.",
+        "time": 1744515105,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 15
+  },
+  "harvested_at": "2026-05-02T15:21:33.952025"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "95dde15317b38c5b",
+  "original_osm_name": "Cà Phê Vân",
+  "google_raw": {
+    "formatted_phone_number": "0985 050 616",
+    "geometry": {
+      "location": {
+        "lat": 21.0359217,
+        "lng": 105.8521767
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0373066302915,
+          "lng": 105.8535135802915
+        },
+        "southwest": {
+          "lat": 21.0346086697085,
+          "lng": 105.8508156197085
+        }
+      }
+    },
+    "name": "Cà Phê Vân",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–23:30",
+        "Thứ Ba: 06:30–23:30",
+        "Thứ Tư: 06:30–23:30",
+        "Thứ Năm: 06:30–23:30",
+        "Thứ Sáu: 06:30–23:30",
+        "Thứ Bảy: 06:30–23:30",
+        "Chủ Nhật: 06:30–23:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Duc Bui",
+        "author_url": "https://www.google.com/maps/contrib/117503428700849663610/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5Q0uRtC9cD5qTZm8rwl_wFcBheskB3OKsnPjcygluuzEFMKA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Đồ uống khá ngon.. Giá cả bình thường k rẻ k đắt. Quán cafe phong cách đơn giản, bình dân. Nhưng cafe lại được pha chế rất ngon, đậm đà, hương vị thơm đặc trưng và đúng chất cafe truyền thống. Không gian hiện đại hơn. Đẹp hơn, làm việc khá là ok. Phục vụ tốt nhiệt tình. Thuê xe Hoa Mai - thuexehoamai .vn sẽ ủng hộ quán hết mình, chúc quán đông khách !",
+        "time": 1561688535,
+        "translated": false
+      },
+      {
+        "author_name": "Le Chau Thao Ngoc",
+        "author_url": "https://www.google.com/maps/contrib/106767679646888078265/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjTsACxLIk-QZd5fKubWJ0Ds9h2neCMDMl99VGbWT2DKH7mGj6tw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cà phê trứng rất ngon.",
+        "time": 1739260680,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Ngoc Le",
+        "author_url": "https://www.google.com/maps/contrib/114567700581632152460/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-Rjd-U9e3PXsO7shPOWmEBT-VfFx68vjRyWW3hRtGTQ4huA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 năm trước",
+        "text": "Cafe của các em rất ngon",
+        "time": 1409326291,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Phạm",
+        "author_url": "https://www.google.com/maps/contrib/114215724486433439363/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR_C6uEHN15EO2t-KLFEz5O6xTE2yT91yCovhvWHMWzmSrkjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "Tốt",
+        "time": 1465191214,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Đạo Hà",
+        "author_url": "https://www.google.com/maps/contrib/103609610094784041404/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdAPPFTR1oOLDvWnGi6QrTfk9C6ZR-rzQCM-Ua6aEBJH-BZG5s=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "Tốt",
+        "time": 1471759134,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 50
+  },
+  "harvested_at": "2026-04-26T12:45:14.246932"
+}

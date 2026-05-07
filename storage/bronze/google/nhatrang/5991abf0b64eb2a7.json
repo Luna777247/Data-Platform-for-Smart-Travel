@@ -1,0 +1,75 @@
+{
+  "u_key": "5991abf0b64eb2a7",
+  "original_osm_name": "Com-pho Ha Noi",
+  "google_raw": {
+    "formatted_phone_number": "0935 944 033",
+    "geometry": {
+      "location": {
+        "lat": 12.2190722,
+        "lng": 109.1978575
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2204192802915,
+          "lng": 109.1991478802915
+        },
+        "southwest": {
+          "lat": 12.2177213197085,
+          "lng": 109.1964499197085
+        }
+      }
+    },
+    "name": "Quán Cơm Phở Hà Nội",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "hoa le xuan",
+        "author_url": "https://www.google.com/maps/contrib/116220452633974982745/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAvNrHeJwb18E9OgYG7oLiWPNoJwaj60OzfrjK1Jnzkof7Y7ZV=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quá tuyệt vời,vừa hợp khẩu vị với mọi người",
+        "time": 1687457372,
+        "translated": false
+      },
+      {
+        "author_name": "sem gun",
+        "author_url": "https://www.google.com/maps/contrib/107845182523344365985/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnM5X5UaOkuqY8KNKAw0pYXCBKdxxNVcCqbaYkAjHVtykcA2Kdpw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "phở ngon nhất ở khu phố này!",
+        "time": 1735964269,
+        "translated": true
+      },
+      {
+        "author_name": "Dmitry Ch",
+        "author_url": "https://www.google.com/maps/contrib/117344955276600622296/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKzafsdGutAAUUEQkySwOjE1WfVraDZHmBfwlUZrn5b-W4Tw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cơm ngon với nhiều loại topping chỉ 35 đồng. Cá thì tuyệt vời.",
+        "time": 1699696172,
+        "translated": true
+      },
+      {
+        "author_name": "Lan Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104087412935423040213/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2TGO_KY_tR9vQ0dybS6MTrVgMHNO-6eOD336GESmjSlcOpg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1739718422,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-05-02T15:16:21.369958"
+}

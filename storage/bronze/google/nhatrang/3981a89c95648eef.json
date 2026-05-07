@@ -1,0 +1,89 @@
+{
+  "u_key": "3981a89c95648eef",
+  "original_osm_name": "Bar OZ",
+  "google_raw": {
+    "formatted_phone_number": "0258 6252 046",
+    "geometry": {
+      "location": {
+        "lat": 12.2334044,
+        "lng": 109.1954723
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2346480302915,
+          "lng": 109.1968476302915
+        },
+        "southwest": {
+          "lat": 12.2319500697085,
+          "lng": 109.1941496697085
+        }
+      }
+    },
+    "name": "Quán Bar Oz",
+    "rating": 3.3,
+    "reviews": [
+      {
+        "author_name": "Anh Tú Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112866729059811626749/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-k6Z67SebhQPMJUBuvRdIa9r3kZtQtjel4QFhjluAUvZAeVq_=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "12 năm trước",
+        "text": "cho em hoi cho nay con tuyen nhan.vien hok zay",
+        "time": 1395151376,
+        "translated": false
+      },
+      {
+        "author_name": "Vanphuoc Van",
+        "author_url": "https://www.google.com/maps/contrib/103793045398548592353/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvIwtzJywPpNyRSNy9E5tz6kzIeMBimSUfA5urSgxW9ItlBw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "12 năm trước",
+        "text": "Choi xa lan sag ze som",
+        "time": 1389799317,
+        "translated": false
+      },
+      {
+        "author_name": "dinh vi",
+        "author_url": "https://www.google.com/maps/contrib/105120306393688543039/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7QOnjqheutB27yumoCmKadw1xQGkLP7NZe4ta6TPAXIw5gqHz=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "11 năm trước",
+        "text": "phuc vu nhu cac",
+        "time": 1422705285,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Thi",
+        "author_url": "https://www.google.com/maps/contrib/101304187281605700161/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOQDIQBCQL9DqdQRGJLDNakQmJTta3M1JeQg8K7eZD23wLHQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "11 năm trước",
+        "text": "như cc",
+        "time": 1421168157,
+        "translated": false
+      },
+      {
+        "author_name": "hong son nguyen hong",
+        "author_url": "https://www.google.com/maps/contrib/104723017603513897219/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0Re5_KEa0X45OcFvJkY3JWhmkWYAW8o5jTLoUE__5vl5zvjk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 năm trước",
+        "text": "1000000",
+        "time": 1375271361,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 11
+  },
+  "harvested_at": "2026-05-03T19:39:44.746660"
+}

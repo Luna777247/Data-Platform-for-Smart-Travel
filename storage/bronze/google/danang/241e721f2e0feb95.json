@@ -1,0 +1,174 @@
+{
+  "u_key": "241e721f2e0feb95",
+  "original_osm_name": "Hai San",
+  "google_raw": {
+    "formatted_phone_number": "0946 495 571",
+    "geometry": {
+      "location": {
+        "lat": 16.0570832,
+        "lng": 108.245463
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0584123302915,
+          "lng": 108.2467483802915
+        },
+        "southwest": {
+          "lat": 16.0557143697085,
+          "lng": 108.2440504197085
+        }
+      }
+    },
+    "name": "Thèm Hải Sản",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–00:00",
+        "Thứ Ba: 11:00–00:00",
+        "Thứ Tư: 11:00–00:00",
+        "Thứ Năm: 11:00–00:00",
+        "Thứ Sáu: 11:00–00:00",
+        "Thứ Bảy: 11:00–00:00",
+        "Chủ Nhật: 11:00–00:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Lananh",
+        "author_url": "https://www.google.com/maps/contrib/103804202337430955306/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGjELnchWhR9naM-Ys-bhP1ShDIlyRf3LS19XmTU9SgYMW00Y5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian rất bắt mắt, nhiều nhân viên, đĩa đồ ăn tuy trang trí khá đẹp nhưng trá hình toàn hành phi, hải sản bé xíu",
+        "time": 1773075150,
+        "translated": false
+      },
+      {
+        "author_name": "kim vanh",
+        "author_url": "https://www.google.com/maps/contrib/103568543954388865823/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX6W8WDxMrR8kcV5iiTlqX9yxbRVhc0LlUX12NtgbkP-x5NBFS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình đi 2 người gọi 4 món mà món nào cũng ngon ❤️",
+        "time": 1772626773,
+        "translated": false
+      },
+      {
+        "author_name": "Henry Swp",
+        "author_url": "https://www.google.com/maps/contrib/115479818890221160885/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTUL81HdBmQ1f5ZSftS1ptR7kHGy2W5rKjWowBRI4OAqGtfOciKQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán không gian rộng, đồ ăn ngon hợp khẩu vị , không gian rộng thoáng , nhân viên phục vụ dễ thương. Lần sau ra Đà Nẵng  mình sẽ quay quán",
+        "time": 1771933091,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Linh",
+        "author_url": "https://www.google.com/maps/contrib/107125174789326097899/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmncU51owYPxQ6l4v_607cg52JyLBgj8Qhr6XDh6R9krhDOzh_1A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "9 tháng trước",
+        "text": "- ốc móng tay xào rau muống: mặn, ốc giòn, k sạn\n- cơm rang hải sản: hạt cơm tơi nhưng ăn rất nhiều mỡ, mình k đánh giá cao lắm\n- hàu phô mai: siêuuu nhỏ? lại còn đắt, ăn k ngon tí nào, hàu bở\n- tôm nướng: ok, tôm giòn\n- các loại sốt chấm cũng k đánh giá cao, ăn bthg so với mức giá",
+        "time": 1753507599,
+        "translated": false
+      },
+      {
+        "author_name": "nhu quynh",
+        "author_url": "https://www.google.com/maps/contrib/116814036334919903933/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0fp71fH2dZKre34XbVdV6QfjsdW7fbhJBu-2z9Ezo28WEof8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "đồ ăn ngon nhân viên nhiệt tình dễ thương",
+        "time": 1772631099,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 8519
+  },
+  "harvested_at": "2026-04-29T09:31:00.133643"
+}

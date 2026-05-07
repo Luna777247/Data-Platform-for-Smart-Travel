@@ -1,0 +1,174 @@
+{
+  "u_key": "f9d7b125028f7393",
+  "original_osm_name": "Vườn sinh thái Ngọc Linh",
+  "google_raw": {
+    "formatted_phone_number": "0989 303 799",
+    "geometry": {
+      "location": {
+        "lat": 21.2744827,
+        "lng": 105.8157043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2757169802915,
+          "lng": 105.8170963802915
+        },
+        "southwest": {
+          "lat": 21.2730190197085,
+          "lng": 105.8143984197085
+        }
+      }
+    },
+    "name": "Ngoc Linh Eco Garden Resort",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "TỔNG KHO XE TẢI GIÁ TỐT",
+        "author_url": "https://www.google.com/maps/contrib/109406003853776443110/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXk_G3suQW3Rk1rsP3KE3bW6gW0xr4n76wX3Ptefo7V0rI68uw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nằm bên bờ hồ Đồng Quan 1 bên là rừng thông mát mẻ. Không gian sạch sẽ, xanh mát, rất đẹp và quy củ. Nơi có thể tụ tập, ăn uống nghỉ ngơi cũng rất tốt",
+        "time": 1768661561,
+        "translated": false
+      },
+      {
+        "author_name": "Nhat Teddy",
+        "author_url": "https://www.google.com/maps/contrib/101982002393509609579/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQOAJ03Lgt8xrrdstM7o03c5_ROwrInXoTYFCGOFbIugZmBA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn ok, cảnh quan thì lâu k chăm sóc đã xuống cấp. Lần đầu mình cùng gia đình được trải nghiệm nhân viên phục vụ bể bơi cãi nhau tay đôi với khách và giặt giẻ lau luôn tại bể :))) . Hy vọng ban lãnh đạo nhà hàng đọc được review này. Cảm ơn và không hẹn gặp lại!",
+        "time": 1756795335,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Hiếu",
+        "author_url": "https://www.google.com/maps/contrib/110671671924068807593/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxoWFRC6BVJtWaDNlDbjrMCWa7OeP18iUpfa-pAvSFQBZ4fA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Không gian nhà hàng rộng, nhiều cây xanh và hồ nước, tạo cảm giác thư giãn, rất thích hợp để nghỉ ngơi cuối tuần. Gia đình tôi đi đông người, nhà hàng có không gian thoáng, chỗ ngồi riêng tư nên rất thoải mái.",
+        "time": 1750212786,
+        "translated": false
+      },
+      {
+        "author_name": "Kẻ lang thang rỗi việc",
+        "author_url": "https://www.google.com/maps/contrib/101929712854308004169/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNSJclAUJ5N3nfIVcvKYoux6lv8VEQZfcMyFG8jzUROCap030=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "12 tháng trước",
+        "text": "Nhà hàng siêu rộng, cảnh quan như một khu sinh thái thu nhỏ. Có nhiều phòng ăn nhưng phần lớn là phòng ăn không có máy lạnh.\nĐồ ăn và tài nghệ đầu bếp ở mức trung bình khá, không có món nào thấy ấn tượng.\nPhục vụ tạm ổn, lên món chưa nhanh nhưng là ổn so với số lượng khách đông vào ngày lễ.\nChỗ đậu xe rất nhiều, đậu được cả xe 40 chỗ",
+        "time": 1746165010,
+        "translated": false
+      },
+      {
+        "author_name": "Huyền Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/114018765303050784799/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOWGbZ8e5FjB5TdDe7GqJbLWb_8z4o00-tUIorci6rZ8QMHBEP=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Địa điểm ở vùng Sóc Sơn địa hình cao hơn, nhiều cây cối mát mẻ. Không gian rộng, có các khoảng sân cỏ để teambuilding. Có ao cá koi đẹp. Có nhà hàng phục vụ nhiều món trong resort. Vé vào bể bơi 50k/ng.",
+        "time": 1663310438,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 815
+  },
+  "harvested_at": "2026-04-28T16:21:12.768567"
+}

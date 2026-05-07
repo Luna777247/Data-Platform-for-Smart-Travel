@@ -1,0 +1,109 @@
+{
+  "u_key": "696a88276a6b7071",
+  "original_osm_name": "Cà Phê 68",
+  "google_raw": {
+    "formatted_phone_number": "0981 123 468",
+    "geometry": {
+      "location": {
+        "lat": 21.131521,
+        "lng": 105.6123706
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.1328228302915,
+          "lng": 105.6137024802915
+        },
+        "southwest": {
+          "lat": 21.1301248697085,
+          "lng": 105.6110045197085
+        }
+      }
+    },
+    "name": "68 coffee & tea",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "An My",
+        "author_url": "https://www.google.com/maps/contrib/112338774403432511432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzjsmscvVoxY47O8AKp6-poTXyjEpgcN9E2kj2ZYy4Ud5FFqk=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "68 Coffee & Tea là một điểm đến tuyệt vời để thư giãn và thưởng thức đồ uống. Không gian quán được thiết kế ấm cúng, tạo cảm giác thoải mái ngay khi bước vào. Đồ uống ở đây rất đa dạng, từ cà phê truyền thống đến các loại trà và đồ uống đá xay sáng tạo, tất cả đều được pha chế tỉ mỉ và có hương vị thơm ngon. Đặc biệt, quán còn có những góc nhỏ yên tĩnh rất phù hợp cho những ai muốn làm việc hoặc đọc sách. Dịch vụ nhanh nhẹn và nhân viên thân thiện cũng là một điểm cộng lớn. Để nâng tầm trải nghiệm âm nhạc cho khách hàng, quán có thể cân nhắc sử dụng Tuneast. Với Tuneast, khách hàng có thể tự chọn bài hát yêu thích và gửi lời nhắn, tạo nên không gian âm nhạc tương tác và cá nhân hóa hơn.",
+        "time": 1770338822,
+        "translated": false
+      },
+      {
+        "author_name": "Quý Hải",
+        "author_url": "https://www.google.com/maps/contrib/116303761354379236277/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhUzm9ZuxcKd0p3BZOOA9-eSzG7IR3SMITfYXsVLiPHM9IOg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán coffee nằm trong khu dân cư. Đi từ tam thuấn tới bờ đê cũng chỉ có quán này\nKhông giam rộng dãi, khá là chill\nĐồ uống tạm được, phục vụ nhanh và nhiệt tình",
+        "time": 1751516312,
+        "translated": false
+      },
+      {
+        "author_name": "NGUYỄN HỮU MINH",
+        "author_url": "https://www.google.com/maps/contrib/113168798001184100268/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvCwTdVL6X4pz4Prl7iqoVCEb7b5btgVb9QHHEIHkJIkzMkqWovQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quan nằm trong khu làng quê yên ả\nKhông gian thoáng mát\nBan ngày vắng vẻ.\nChất lượng đồ uống ổn\nGiá hợp lý",
+        "time": 1740638441,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Ánh (Smile Life)",
+        "author_url": "https://www.google.com/maps/contrib/100488440011657368957/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgRoKlB0RobNl9xcct-nGgk2FXbNkMrTZgOKYonjwiv_PBVr0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ uống ngon,khuôn viên đẹp,yên tĩnh,phù hợp cả gia đình,hội họp,nhân viên văn phòng làm việc",
+        "time": 1671598504,
+        "translated": false
+      },
+      {
+        "author_name": "Phụ Kiện Bếp Cộng KIT PLUS",
+        "author_url": "https://www.google.com/maps/contrib/104463645239526263145/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1lNF33wq45t1EGQJ7hrXK0geyEtiX2sjvW3pMvXASJIOdEGc1=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán có không gian đẹp và đồ uống ngon. Đáng để trải nghiệm mọi người ơi 👍",
+        "time": 1677904450,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 41
+  },
+  "harvested_at": "2026-04-26T16:52:38.531240"
+}

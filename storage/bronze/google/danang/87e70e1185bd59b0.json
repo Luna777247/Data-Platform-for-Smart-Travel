@@ -1,0 +1,173 @@
+{
+  "u_key": "87e70e1185bd59b0",
+  "original_osm_name": "Chefhung's Home Kitchen",
+  "google_raw": {
+    "formatted_phone_number": "0911 929 522",
+    "geometry": {
+      "location": {
+        "lat": 16.0669036,
+        "lng": 108.2442227
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.06825713029151,
+          "lng": 108.2456392802915
+        },
+        "southwest": {
+          "lat": 16.0655591697085,
+          "lng": 108.2429413197085
+        }
+      }
+    },
+    "name": "Hoang’s Kitchen Đà Nẵng- Vietnamese & Vegan Food",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:30",
+        "Thứ Ba: 10:00–23:30",
+        "Thứ Tư: 10:00–23:30",
+        "Thứ Năm: 10:00–23:30",
+        "Thứ Sáu: 10:00–23:30",
+        "Thứ Bảy: 10:00–23:30",
+        "Chủ Nhật: 10:00–23:30"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Thanh Việt",
+        "author_url": "https://www.google.com/maps/contrib/107847282262879262907/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVh0bMdIeBA0Qlrz_SlZj0kywJSsqdamSj_Uqv_ML3kIXifQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon, nhân viên vui vẻ nhiệt tình😍 lần sau sẽ quay lại",
+        "time": 1772963281,
+        "translated": false
+      },
+      {
+        "author_name": "Vi Vi",
+        "author_url": "https://www.google.com/maps/contrib/101871065802395967869/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHyoc0hfl7pO6TkC3ariDqQog2THgbUUcU2yf0wucB9PwhRw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhà hàng đẹp, rộng rãi, phù hợp cho nhóm đông người và gia đình. Đồ ăn ngon, phục vụ chuyên nghiệp, rất đáng để ủng hộ",
+        "time": 1771427513,
+        "translated": false
+      },
+      {
+        "author_name": "Khiêm Lê",
+        "author_url": "https://www.google.com/maps/contrib/100975965479062698262/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-MpKY7KwXwuDSSO9phE-Mcxf8aTgwSWFrIMJ2PpwBovkw5w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Menu đa dạng,chay mặn đều có\nNhân viên phục vụ tận tâm,chu đáo",
+        "time": 1773068174,
+        "translated": false
+      },
+      {
+        "author_name": "Sang Thanh",
+        "author_url": "https://www.google.com/maps/contrib/114364787907220050660/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXezW-N6XEkbpeYifiu3UzRo_h54d4aDNxoMBTwrkW20QyFK6u0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Món ăn ngon, hợp khẩu vị. Sẽ quay trở lại nhiều lần nữa☺️",
+        "time": 1771409519,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Lê Thị Cẩm",
+        "author_url": "https://www.google.com/maps/contrib/102369697479577660800/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt04hNpXZonzBigPvn5ehgR698QOJ4g05VWR1QHm_gBSSfDmw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn xuất sắc nhân viên vui vẻ",
+        "time": 1772974954,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 851
+  },
+  "harvested_at": "2026-04-29T09:41:12.745819"
+}

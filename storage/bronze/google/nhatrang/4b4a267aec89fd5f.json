@@ -1,0 +1,173 @@
+{
+  "u_key": "4b4a267aec89fd5f",
+  "original_osm_name": "Cyclo Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0904 118 605",
+    "geometry": {
+      "location": {
+        "lat": 12.2400149,
+        "lng": 109.1921561
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2413631802915,
+          "lng": 109.1935531302915
+        },
+        "southwest": {
+          "lat": 12.2386652197085,
+          "lng": 109.1908551697085
+        }
+      }
+    },
+    "name": "CCCP Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–23:00",
+        "Thứ Ba: 06:00–23:00",
+        "Thứ Tư: 06:00–23:00",
+        "Thứ Năm: 06:00–23:00",
+        "Thứ Sáu: 06:00–23:00",
+        "Thứ Bảy: 06:00–23:00",
+        "Chủ Nhật: 06:00–23:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Hieu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/116566521848214647170/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkjPesYgneIsoP3fsVagLk_xrFvPPvP2zdOag7k6SZTOio1bY2tw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Vị trí trung tâm, thuận tiện khách du lịch, giá đồ uống ổn, có không gian ngoài trời ngay góc đường ngồi khá thoáng, ngắm đường phố đi lại. Phong cách quán \"hơi giống\" Cộng ;))",
+        "time": 1754703601,
+        "translated": false
+      },
+      {
+        "author_name": "Tumi",
+        "author_url": "https://www.google.com/maps/contrib/107396896837461627295/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJe4gUWFLI3jo7tvVVbGwV3ohZ2Hrd4Lxj8nUVwVbbWSOGh3w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình đi giờ không cao điểm nên quán yên tĩnh, đồ uống ngon, gợi ý món trái cây dầm sữa chua.\nNhân viên thân thiện\nVị trí ngay trung tâm thuận lợi di chuyển\nQuán này có khá nhiều khách Hàn Quốc.",
+        "time": 1741411359,
+        "translated": false
+      },
+      {
+        "author_name": "Anthony Anh",
+        "author_url": "https://www.google.com/maps/contrib/106573160746603002435/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjWCaNxTSmMYRaSnkVXt2nwgsISTHF4UdUbBSahDpR1h5Kie1U=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ uống cũng ổn\nQuán khá đông và ồn ào.\nPhục vụ cũng nhanh so với lượng khách.\nAi thích yên tĩnh hay phong cách Việt hãy tìm quán khác sẽ Ok hơn.",
+        "time": 1752214759,
+        "translated": false
+      },
+      {
+        "author_name": "BTS Jimin",
+        "author_url": "https://www.google.com/maps/contrib/114241564323014537871/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7myYqXiAfZYThMOXIc6XzSygjroLHjLb-78OKeIS-2paHx0Ik=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ uống tạm ổn. Riêng ly trái cây dầm sữa chua mình thực sự k biết để trái cây full ly như vậy thì cho đá vào dầm kiểu gì :))) mình phải đổ 1 nửa ra ly khác rồi mới dầm được.\n\nNhưng riêng phần phục vụ và quy cách thanh toán thì quán nên xem lại ha. Thường là kêu nước tại quầy rồi thanh toán luôn. Hoặc kêu nước tại bàn rồi thanh toán trước.\nCòn k thì lên đủ món rồi thanh toán hoặc khi nào khách về rồi thanh toán\nMà quán này thì nước chưa lên đủ, quán đông mình chấp nhận đợi vậy mà món chưa lên đủ nhân viên đã cầm bill ra kêu mình thanh toán. Mình hỏi ly còn lại khi nào mới có thì nhân viên k trả lời được mà cứ khăn khăn yêu cầu mình thanh toán. Rồi mình đưa tiền thì nhân viên cũng chịu cầm nhưng vẫn cố cãi lại với khách.\nMình yêu cầu người có thể giải quyết được vấn đề đến làm rõ với mình thì nhân viên chỉ biết cầm tiền đi vào và 1 nhân viên khác cầm tiền thối đi ra :)))",
+        "time": 1738157195,
+        "translated": false
+      },
+      {
+        "author_name": "Thai Cao Hoang",
+        "author_url": "https://www.google.com/maps/contrib/111677459898430364151/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-XAOE3A8yGtow-_wVMYbxbBkC3sB9XF8qVlxKenMR8mVXHHqX=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Coffee pha máy chuẩn GU việt, đặc biệt rất đông Du Khách Hàn Quốc yêu thích, … !",
+        "time": 1748494625,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4154
+  },
+  "harvested_at": "2026-04-30T16:15:14.471242"
+}

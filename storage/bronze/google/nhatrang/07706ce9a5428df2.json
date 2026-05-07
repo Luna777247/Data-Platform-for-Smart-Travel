@@ -1,0 +1,173 @@
+{
+  "u_key": "07706ce9a5428df2",
+  "original_osm_name": "Pho 65",
+  "google_raw": {
+    "formatted_phone_number": "0987 256 785",
+    "geometry": {
+      "location": {
+        "lat": 12.2744843,
+        "lng": 109.2001562
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2757909802915,
+          "lng": 109.2015102802915
+        },
+        "southwest": {
+          "lat": 12.2730930197085,
+          "lng": 109.1988123197085
+        }
+      }
+    },
+    "name": "Phở 65",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Mã Minh Chí",
+        "author_url": "https://www.google.com/maps/contrib/110463645282816286283/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqMIGvNC-6dXLK9yL_1HRoM06OZTNKrAfvr9ZZIQzHdq-LkdY=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ăn sạch sẽ, dịch vụ tốt, đồ ăn ngon.\n- Gà hơi bở, tốt hơn nếu đổi được nguồn cung cấp \"xịn\" hơn tí.\n- Bò tươi.",
+        "time": 1770251636,
+        "translated": false
+      },
+      {
+        "author_name": "tona van",
+        "author_url": "https://www.google.com/maps/contrib/106515479099129934990/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX83H_naHTER9PaPuSEHOfH4lddLV0mebuYwJ16X233SyK6Itb_jA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Do ngày tết lượng khách đông, nhà hàng quá tải nên đồ ăn ra chậm hơn mọi ngày, chất lượng đồ ăn tươi ngon👍",
+        "time": 1771644322,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Hà",
+        "author_url": "https://www.google.com/maps/contrib/113087055403241148999/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjpAFCM6o0dr3_KFHBMQm9bjKuJGx6K7Yg2htbMx67KrAJZzM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán sạch sẽ, phở ăn ngon, cho quán 5 sao.",
+        "time": 1766119183,
+        "translated": false
+      },
+      {
+        "author_name": "Văn Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107014924227975317589/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxw0bWeSmuu0IskEr4HaQtW64ffAAGhRvIUf7tpD0tXAe_e6PZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian sạch sẽ thoáng mát\nPhở siêu ngon\nNhân viên nhiệt tình lễ phép",
+        "time": 1766119181,
+        "translated": false
+      },
+      {
+        "author_name": "HOÀNG ANH Remix",
+        "author_url": "https://www.google.com/maps/contrib/106056072974600072114/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVz6F_PTOGIB5MuTS3xB5UAy-Ks7HFt8McLemROBkc9SzP9gtQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán sạch sẽ, phở ăn ngon,",
+        "time": 1766120771,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 44
+  },
+  "harvested_at": "2026-05-02T15:23:02.482530"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "e24405559283bfdf",
+  "original_osm_name": "Mango Mango",
+  "google_raw": {
+    "formatted_phone_number": "0378 256 445",
+    "geometry": {
+      "location": {
+        "lat": 16.039878,
+        "lng": 108.2492444
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0412645302915,
+          "lng": 108.2506724802915
+        },
+        "southwest": {
+          "lat": 16.0385665697085,
+          "lng": 108.2479745197085
+        }
+      }
+    },
+    "name": "Pink Mango",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Hoa Phạm thị",
+        "author_url": "https://www.google.com/maps/contrib/105264854544496945754/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnF_MoMECYdVVYcbLknj291JJXamyy0tSHQZOFsoTj9jYxYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn nước uống sạch sẽ Lễ tân quản lý.rất gần gũi.nhiêt tình.phong cảnh rộng rãi thoáng mát.cảnh đẹp.",
+        "time": 1761813151,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Phạm Hương",
+        "author_url": "https://www.google.com/maps/contrib/114593431667868518673/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK73DLYIgjeOmLBqpYLgeSxp0F8Ak32mmxOTzQEoS9Q6-MbMw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình đi cùng bạn thân, gọi hai phần bingsu xoài, thật sự ngon, đá tuyết mịn, xoài ngọt. Cả hai đứa đều siêu mê 😍.",
+        "time": 1762818246,
+        "translated": false
+      },
+      {
+        "author_name": "nhi uyển",
+        "author_url": "https://www.google.com/maps/contrib/114676980527462567512/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8AhzCe2AFPBjV0dMJGdsJe08MrULeb8v117tCLIrjYf8KpA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Giá hơi cao xíu nhưng chất lượng thì quá ổn. Mình thấy đáng tiền nha!",
+        "time": 1763226522,
+        "translated": false
+      },
+      {
+        "author_name": "Liana Lee",
+        "author_url": "https://www.google.com/maps/contrib/101165924260144017702/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtrHcL70lKBM9X4ZKiPXukVVSO6oL0IvwwLX590rB-B9qYkQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Tất cả đều tuyệt vời. Chắc chắn người chủ rất tỷ mỹ từng chi tiết về bàn ghế setup cũng như món ăn.. xoài mềm và ngọt . Nhân viên thân thiện.",
+        "time": 1719493328,
+        "translated": false
+      },
+      {
+        "author_name": "Tú Phạm Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/109639786696366575376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuJKKNeDYdWVuzI5KdIhbYA9rv1_H5Gk7ZvVECPM0c-CfVKiA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Là dân du lịch từ Hà Nội, mình được bạn giới thiệu Pink Mango. Quán có không gian xinh kiểu Hàn, mọi thứ gọn gàng, sạch sẽ. Ly smoothie xoài được trang trí bằng lát xoài tươi, vị vừa béo vừa thanh. Giá hơi nhỉnh chút nhưng rất đáng tiền 💕.",
+        "time": 1764588045,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1294
+  },
+  "harvested_at": "2026-04-29T09:38:11.577866"
+}

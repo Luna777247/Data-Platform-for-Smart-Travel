@@ -1,0 +1,174 @@
+{
+  "u_key": "ae8338a10954ac98",
+  "original_osm_name": "Binh MI",
+  "google_raw": {
+    "formatted_phone_number": "0947 275 486",
+    "geometry": {
+      "location": {
+        "lat": 16.0696404,
+        "lng": 108.223545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0709768802915,
+          "lng": 108.2251210302915
+        },
+        "southwest": {
+          "lat": 16.0682789197085,
+          "lng": 108.2224230697085
+        }
+      }
+    },
+    "name": "Bánh mì Cô Tiên",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–20:00",
+        "Thứ Ba: 08:00–20:00",
+        "Thứ Tư: 08:00–20:00",
+        "Thứ Năm: 08:00–20:00",
+        "Thứ Sáu: 08:00–20:00",
+        "Thứ Bảy: 08:00–20:00",
+        "Chủ Nhật: 08:00–20:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Ngoc Anh Dao",
+        "author_url": "https://www.google.com/maps/contrib/103115928802520109652/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVjj1h8Uqu2J87kqayqknOK8xQQKcM8DiUblCXoaxjFp6ExA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đông khách du lịch thật sự\nĐến quán toàn thấy bọn Hàn hỏi chủ quán discount mà thấy cười ứ chịu được\nGiá đắt mà ăn cũng ngon nhưng chưa phải xuất sắc. Trứng thì đúng must try ở quán.\n\nQuán bé bé xinh trong con ngõ sâu và đủ xe máy tránh, nằm trên tuyến phố du lịch\n\nChờ hơi lâu nha, tầm 20p thì mới có đồ nhé",
+        "time": 1754255831,
+        "translated": false
+      },
+      {
+        "author_name": "Mr BanhMi",
+        "author_url": "https://www.google.com/maps/contrib/110057642709742150091/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9UibdCcUQp7U2LHJYbdicuE_s67COfuNFTDfRHHgGwBf1cI0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Bành mì thịt chả như hình 29k khá ổn, ngon xuất sắc. Điểm trừ là chờ lâu quá, tầm gần 10p mới có bánh mang đi.",
+        "time": 1753160181,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Vân Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100692740560422010760/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnV-CnZoGPSrbxk2rNt6BC-azFQihIfkcI5bOsICy-ZOTO3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "có rất nhiều ng hàn quốc ở đây. quán rất đông khách. nhân viên thân thiện",
+        "time": 1765185444,
+        "translated": false
+      },
+      {
+        "author_name": "박소정",
+        "author_url": "https://www.google.com/maps/contrib/109578733108513404130/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7UdBSTkBdivPxnUuvmlEsGh_JWoD-CnoXwA_vfdJFPnycJilB=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "친구의 맛집소개로 온 식당입니다. 정말 맛있네요. 다낭 최고의 반미입니다.\n\nĐây là nhà hàng mà bạn tôi đã giới thiệu về quán ăn ngon của mình. Ngon thật đấy. Bánh mì ngon nhất Đà Nẵng.\n\nI came here to introduce my friend to this restaurant. It's really good. Da Nang's best banh mi.",
+        "time": 1730516138,
+        "translated": false
+      },
+      {
+        "author_name": "Tanh HA",
+        "author_url": "https://www.google.com/maps/contrib/104059851644583804378/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKKoM8dAX2ZDddf-4aLK40uMwNRGr30TGCBUimkqLRMmXDxyzT=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nằm trong kiệt khoảng 50m, đồ ăn khá ngon, giá cả ở mức chấp nhận được, điểm trừ là không thanh toán bằng thẻ, không gian còn hơi hạn chế nhưng vẫn sạch sẽ, còn lại đều rất ok.",
+        "time": 1736668403,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6020
+  },
+  "harvested_at": "2026-04-29T09:31:37.376764"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "6dde38166acb341d",
+  "original_osm_name": "Trà Xuân Tửu",
+  "google_raw": {
+    "formatted_phone_number": "024 3911 0104",
+    "geometry": {
+      "location": {
+        "lat": 20.9945438,
+        "lng": 105.8677181
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9958931302915,
+          "lng": 105.8689818302915
+        },
+        "southwest": {
+          "lat": 20.9931951697085,
+          "lng": 105.8662838697085
+        }
+      }
+    },
+    "name": "Trà đạo Trường Xuân",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–18:00",
+        "Thứ Ba: 08:00–18:00",
+        "Thứ Tư: 08:00–18:00",
+        "Thứ Năm: 08:00–18:00",
+        "Thứ Sáu: 08:00–18:00",
+        "Thứ Bảy: 08:00–18:00",
+        "Chủ Nhật: 08:00–18:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Thuỷ Vũ",
+        "author_url": "https://www.google.com/maps/contrib/100127536315242252332/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZrv-wglIbePlrssTgiGWGOhKr-tIFpbwpYf_jZXb54f5Ddkdcqw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một không gian trà tuyệt vời với thầy giáo Hoàng Anh Sướng. Cuộc sống sẽ bớt bộn bề và bình an hơn nếu bạn biết và đến được nơi này được tham gia lớp học Trà đạo, thiền và phương pháp chế tác tâm bình an, hạnh phúc. Tại Hiên trà Trường Xuân bạn sẽ được quay lại một thời của một Việt Nam văn hiến cùng văn hoá thưởng trà rất Việt Nam và dân dã, dưới một mái hiên",
+        "time": 1718075412,
+        "translated": false
+      },
+      {
+        "author_name": "Vanderlust",
+        "author_url": "https://www.google.com/maps/contrib/100832203102238348895/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUekt7KdfLHAtdHH8HVloDsKOEM6WYEI2xQLpg1HL6R1GQUkCbr=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán nằm trên nột con đường yên tĩnh giữa trung tâm Hà Nội, khá ấm cúng và dễ chịu. Đi Hà Nội đúng dịp mùa sen, gọi ấm trà sen thơm giữa một đêm mưa. Cảm giác khá thú vị.",
+        "time": 1532096483,
+        "translated": false
+      },
+      {
+        "author_name": "Đặng Thị Ngọc Mai",
+        "author_url": "https://www.google.com/maps/contrib/117448794188972792282/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLxVaQxC4dcdPSQCLlcE6dGDUiVFLQtf_MV1v7xnESGXU_Q54=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Tinh tế, yên bình, đúng phong cách Nhật truyền thống.",
+        "time": 1762569900,
+        "translated": false
+      },
+      {
+        "author_name": "ND D (11 hoa chân)",
+        "author_url": "https://www.google.com/maps/contrib/113311493519676584908/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpiCpqQ3w5L4X70PIgtBKSEou_ORc84Kpxxdr9YUHVTP8pwyWc=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Tinh hoa trà đạo truyền thống Đài loan.",
+        "time": 1563553007,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Chương Phạm",
+        "author_url": "https://www.google.com/maps/contrib/102341435658885946477/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZg6BPUIEqWM5dxg_WaW4VJCCp6Wkd_p96gZDzcAWOxfdleQ4=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Một nơi vừa cổ kính và hiện đại không nơi đâu chính là Hiên Trà Trường Xuân toạ lạc tại 13 Ngô Tất Tố, Văn Miếu, Đống Đa, Hà Nội. Ở đây nghệ nhân nhà báo Hoàng Anh Sướng là chủ hiên trà này đã dày công nghiên cứu ra hơn 40 loại trà Việt Nam. Nổi bật là trường xuân linh dược trà gồm có 8 vin thuốc bắc kết hợp có tác dụng mượt tóc, da dẻ hồng hào, an thần giấc ngủ. Với sự kết hợp của shan tuyết, long nhãn, đường phèn, bạch cúc, đại táo, dĩ tử, đẳng sâm và nước mưa. Tạo nên một tách trà có vị nhận đắng của trà vị ngọt thanh của đường phèn vị chua của dĩ tử. Đây cũng là món trà chủ đạo của quán này. Đặc biệt vị trí của quán cũng nằm cạnh Văn Miếu khuê các quốc tử giám là trường đại học đầu tiên tại hà nội",
+        "time": 1575506891,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 100
+  },
+  "harvested_at": "2026-04-28T16:19:10.108512"
+}

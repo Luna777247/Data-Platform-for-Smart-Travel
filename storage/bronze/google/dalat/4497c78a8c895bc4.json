@@ -1,0 +1,173 @@
+{
+  "u_key": "4497c78a8c895bc4",
+  "original_osm_name": "Em Ơi Cà Phê",
+  "google_raw": {
+    "formatted_phone_number": "0368 874 040",
+    "geometry": {
+      "location": {
+        "lat": 12.0091369,
+        "lng": 108.4197318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.0104606802915,
+          "lng": 108.4211635302915
+        },
+        "southwest": {
+          "lat": 12.0077627197085,
+          "lng": 108.4184655697085
+        }
+      }
+    },
+    "name": "Em ơi cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–21:00",
+        "Thứ Ba: 06:00–21:00",
+        "Thứ Tư: 06:00–21:00",
+        "Thứ Năm: 06:00–21:00",
+        "Thứ Sáu: 06:00–21:00",
+        "Thứ Bảy: 06:00–21:00",
+        "Chủ Nhật: 06:00–21:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Minh Trí Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116689661579430411872/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDmvr7Z_p22OLMgTG2GlUN9Lj1ItCmjqGXG-j41pDaPVxSEQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Chị chủ & nhân viên dễ thương. Món nước ngon, pha vừa phải không quá ngọt. Đặc biệt cà phê rất thơm. Không gian thoáng đãng, dễ chịu.",
+        "time": 1756171506,
+        "translated": false
+      },
+      {
+        "author_name": "Kent Tran",
+        "author_url": "https://www.google.com/maps/contrib/107780184103592445209/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVX4J0zqi2FGx4ZFeYk0YEuqTPZa10q_4p9CL5w91eE9-NjUyfK=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quá cà phê nhỏ, yên tĩnh, nơi các bạn môi giới đất khu vực này hay nghồi.",
+        "time": 1768569042,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật t Ng thị",
+        "author_url": "https://www.google.com/maps/contrib/102771189433033589855/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWa4uEHvWdKQ5OaHxALBZe4UNqBn3GgcMDXlmD8-6srpd36A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn ngon rẻ phục vụ thân thiện",
+        "time": 1762592296,
+        "translated": false
+      },
+      {
+        "author_name": "Phạm Tiến Đạt",
+        "author_url": "https://www.google.com/maps/contrib/112774386106681048703/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2yBOyQqV8ryI9_xIfJ7Vjrnmn9_t1g9iuz5WCRi4jEbpJ1NskcA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Oke Quán tốt yên tĩnh giá nước rẻ",
+        "time": 1748171199,
+        "translated": false
+      },
+      {
+        "author_name": "Dinh Cil",
+        "author_url": "https://www.google.com/maps/contrib/111235066630494561067/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8M8f__3Hm7iyU7LpOMdZo4WLoHX_bfa31QuJU6Q10eQAf5uk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "đồ uống ngon, chủ dễ thương và niềm nở với khách hàng, nên ghé nha:))",
+        "time": 1762878678,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 30
+  },
+  "harvested_at": "2026-04-30T15:07:25.743385"
+}

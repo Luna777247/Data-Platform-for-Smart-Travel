@@ -1,0 +1,173 @@
+{
+  "u_key": "6f7c2354bd951ad1",
+  "original_osm_name": "SV cafe",
+  "google_raw": {
+    "formatted_phone_number": "0769 572 075",
+    "geometry": {
+      "location": {
+        "lat": 12.2130336,
+        "lng": 109.1952732
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2143694802915,
+          "lng": 109.1965842802915
+        },
+        "southwest": {
+          "lat": 12.2116715197085,
+          "lng": 109.1938863197085
+        }
+      }
+    },
+    "name": "Seeya Cafe & Cake",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:00",
+        "Thứ Ba: 06:30–22:00",
+        "Thứ Tư: 06:30–22:00",
+        "Thứ Năm: 06:30–22:00",
+        "Thứ Sáu: 06:30–22:00",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Giao Linh",
+        "author_url": "https://www.google.com/maps/contrib/101969456947770372922/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGbFeLA8p1F_Cnd7mTO5XfTPbXMp7f5xG3ZwHzQOVvbKm5e3qe=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "mình ghé quán thử món chocobomb với matchabomb, sữa k ngọt, đúng gu mình luôn. các bạn nhân viên takecare kĩ và anh chủ cũng nhiệt tình nữa. lúc mình đi có ctrinh tặng quà nên được tặng móc khoá noel siêu xinh ❤️",
+        "time": 1766581277,
+        "translated": false
+      },
+      {
+        "author_name": "quynh quynh",
+        "author_url": "https://www.google.com/maps/contrib/102134024299016568142/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJa4crEj7lT___R726h1XWVUsUMsqr47-SIFWB501rCbpCobg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán có không gian tinh tế và ấm cúng. Mình ghé quán rất nhiều, món nào cũng ngon, và điều mình ấn tượng khi trải nghiệm ở quán là quán rất chỉnh chu và tỉ mỉ trong từng món khi đem đến cho khách hàng dù quán có đông đi chăng nữa. Nhân viên để ý và chăm sóc khách hàng rất tốt. Nói chung rất đáng để trải nghiệm",
+        "time": 1765522438,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Bùi",
+        "author_url": "https://www.google.com/maps/contrib/114862573843364569020/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK4zVJyMBBsU2wb_cYXe8icc1K0vPOX0THNKTTQEwI94AmSJo-=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mọi thứ đều ok trừ đồ uống. M gọi 1 ly late nóng nhưng có vẻ như quán không chuyên về cf máy. Sữa đánh quá nóng làm mất vị béo sữa và bọt sữa dày. Hạt cf có lẽ cũng ko phù hợp để làm latte",
+        "time": 1770548633,
+        "translated": false
+      },
+      {
+        "author_name": "Thủy Đặng",
+        "author_url": "https://www.google.com/maps/contrib/111030889509843825771/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHVHrTpKz46J9rGdj7F_CL4Ea_1UByiTEGhPDLhEJPCCUbOooPJg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán xinh xinh, sạch sẽ, vibe dễ chịu.\nCó khu vực trong nhà với điều hòa và khu vực ngoài trời dành cho ai hút thuốc.\nMình thích việc mặc dù không gian không lớn quán vẫn có những góc xanh xanh.\nĐồ uống chưa thực sự xuất sắc nhưng ổn, trình bày đẹp mắt.\nNhân viên cũng dễ thương, chiều khách nhé các bạn.",
+        "time": 1754740645,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Cẩm Tú Lý",
+        "author_url": "https://www.google.com/maps/contrib/104920610802182853675/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXbB7FCgkBIE_EpduBzocPHZF24b0v_9T_AaK3rW2_YbEXxD9Vzg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "quán mới mở rất xinh ạ 🫧 có sân vườn nhỏ phía sau rất chill. tông chủ đạo màu nâu chuẩn gu mình 🥹🫶🏻 mình gọi bạc xỉu và trà sữa oolong rang 10 điểm 🥴 trà sữa thơm đậm vị kèm foam siêu ngon luôn 🫰🏻",
+        "time": 1744599937,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 80
+  },
+  "harvested_at": "2026-05-02T15:23:44.007662"
+}

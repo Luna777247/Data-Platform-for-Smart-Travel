@@ -1,0 +1,41 @@
+{
+  "u_key": "872ed1eb73195d15",
+  "original_osm_name": "Khách Sạn Hanoi Orchid",
+  "google_raw": {
+    "formatted_phone_number": "024 3828 1711",
+    "geometry": {
+      "location": {
+        "lat": 21.0327225,
+        "lng": 105.853863
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0340711302915,
+          "lng": 105.8551981302915
+        },
+        "southwest": {
+          "lat": 21.03137316970849,
+          "lng": 105.8525001697085
+        }
+      }
+    },
+    "name": "Khách Sạn Hanoi Orchid",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Hồng Phạm",
+        "author_url": "https://www.google.com/maps/contrib/102288900554844476864/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsfyXAnml7t3vk_gPXj35la_0IFV2tea0VYfby42Wow-8XYeg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Cách phục vụ",
+        "time": 1602456180,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-27T19:58:56.436386"
+}

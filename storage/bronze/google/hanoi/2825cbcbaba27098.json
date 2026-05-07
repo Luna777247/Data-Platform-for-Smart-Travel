@@ -1,0 +1,174 @@
+{
+  "u_key": "2825cbcbaba27098",
+  "original_osm_name": "Kafa Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0706 385 385",
+    "geometry": {
+      "location": {
+        "lat": 21.0374717,
+        "lng": 105.845984
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03878138029151,
+          "lng": 105.8473224302915
+        },
+        "southwest": {
+          "lat": 21.0360834197085,
+          "lng": 105.8446244697085
+        }
+      }
+    },
+    "name": "KAFA Café",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:00",
+        "Thứ Ba: 07:00–21:00",
+        "Thứ Tư: 07:00–21:00",
+        "Thứ Năm: 07:00–21:00",
+        "Thứ Sáu: 07:00–21:00",
+        "Thứ Bảy: 07:00–21:00",
+        "Chủ Nhật: 07:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Ngọc Bảo Châu Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108002539744410877505/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvF2KNQsJA9Vi-42y-dsguTAY_J1D24eSxfpb29rJ4H-cMn8uL=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cà phê nằm ngay mặt tiền đường với không gian khá thoáng. Cũng như nhiều quá, ở đây có không gian phía bên ngoài và bên trong, phía bên ngoài thì để cho những người hút thuốc sẽ thoáng hơn.\nHương vị cà phê ngon đậm đà, phục vụ nhanh chóng.",
+        "time": 1768644018,
+        "translated": false
+      },
+      {
+        "author_name": "Dũng Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/107237178045347119147/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8-GuOsDay0XUWtLQk8SEqsUimlY-WM6kUtks6cPeXRdls-vD4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "một tháng trước",
+        "text": "Cá nhân tôi có trải nghiệm tệ , ngồi đợi 25p mới có đồ uống , trong khi bàn bên cạnh vào chỉ ngổi đợi 5-7p là có đồ uống , ra hỏi nhân viên pha chế đã có đồ uống chưa , sao lâu vậy thì trả lời với thái độ hơi khó chịu …. Tôi ngồi Tầng 2 , đến quán lúc 21h35 mà tận 22h mới có đồ uống, quá là lâu , trong khi ngồi thì bị hẳn 2 con muỗi đốt 2 bên chân . Chán hẳn",
+        "time": 1772983849,
+        "translated": false
+      },
+      {
+        "author_name": "Du Uyên",
+        "author_url": "https://www.google.com/maps/contrib/116958461825547979779/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNyaWnp_ZitzUSqoRTyfQBlXDCD_QwFxpvpWTFCRW03rbaCFU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "4 tháng trước",
+        "text": "Lần đầu đến quán thì nhân viên quên bill của mình nên đợi 1 tiếng đồng hồ k có nước, lần 2 quay lại vào buổi tối thì phục vụ nhanh nhẹn hơn. Nước uống tạm ổn, view thoáng ngắm được tàu",
+        "time": 1764841795,
+        "translated": false
+      },
+      {
+        "author_name": "Uyen Nhi Tran Vu",
+        "author_url": "https://www.google.com/maps/contrib/111503172912664089820/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWn3wKwCnFSOMTQ0WGdOCmQ8uJyB_BfU--rSVlSSDvJ-xWC2_DD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán view đường tàu, rộng rãi, đồ uống cũng được, nhân viên rất nhiệt tình ( đặc biệt có a quản lý rất tốt bụng tặng bọn mình kẹo trong lúc chờ đồ ) ncl ưngggg",
+        "time": 1757605180,
+        "translated": false
+      },
+      {
+        "author_name": "Bùi Tạ Ngọc Anh",
+        "author_url": "https://www.google.com/maps/contrib/118338828444866901168/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUh5mrygxrVb54fgm8-f_EqB2KQNiKG6iC_fo7yaxJ1WbCqnle4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán thiết kế chỗ ngồi kiểu gì, quầy pha chế ngay cạnh, máy xay kêu to như công nông, nhân viên thì thái độ, khách đến hỏi để xe đâu thì quay phắt đi?\nNgồi tầng 2 được nghe nhạc máy xay chilling\nĐồ uống siêu chán đi đông gọi nhiều vị vị nào cũng tệ🌝",
+        "time": 1757171837,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 347
+  },
+  "harvested_at": "2026-04-27T19:57:52.385957"
+}

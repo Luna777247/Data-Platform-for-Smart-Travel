@@ -1,0 +1,173 @@
+{
+  "u_key": "e660ffb5c5211884",
+  "original_osm_name": "Always (Harry Potter Cafe)",
+  "google_raw": {
+    "formatted_phone_number": "0867 084 985",
+    "geometry": {
+      "location": {
+        "lat": 21.0335357,
+        "lng": 105.8548009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03491358029151,
+          "lng": 105.8561933302915
+        },
+        "southwest": {
+          "lat": 21.0322156197085,
+          "lng": 105.8534953697085
+        }
+      }
+    },
+    "name": "Always’",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "LE Ngoc",
+        "author_url": "https://www.google.com/maps/contrib/100961798283868220442/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpxInV7Kfo5leyJs95zLKnIpEMu5azQTqt2DC1zjm_UlL6AdTD=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán khá bé so với tưởng tượng của mình qua ảnh trên review, đồ uống giá cao so với mặt bằng chung trên phố, trang trí để chụp ảnh thì ok, để ngồi cảm nhận và trò chuyện về Harry Potter thì mình thấy hơi gượng.",
+        "time": 1768538625,
+        "translated": false
+      },
+      {
+        "author_name": "Gia Nhi Hồ",
+        "author_url": "https://www.google.com/maps/contrib/114677853414519842096/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGPTRgDG4cNYCpTw4E2TEkRAsfWbXLhKGHeSw4a2mOVrPfgqmc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán tuỵt vời, không gian ấm cúng như bước thẳng vào thế giới phép thuật Harry Potter. Từng góc trang trí đều đẹp, ánh đèn vàng nhìn chill chill ấm cúng. Nhân viên nhiệt tình, dễ thưn. Đồ uống ngon, độc lạ, trình bày cũng rất hợp concept. Nch là vào rồi ko mún ra lun ý❤️‍🔥",
+        "time": 1769308355,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Phương Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/103447503129661082679/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVawwkjKoIvDsNxSNsjaQjjS87H0uVvJ9rupJ2Fda0ojKYfgl3r=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán nhỏ và ít bàn, phù hợp đi một mình hoặc nhóm hai người. Đồ uống không quá ấn tượng với khẩu vị của mình. Nhưng, nếu bạn muốn đắm chìm trong một không gian đậm chất \"Harry Potter\" thì quán là lựa chọn rất ổn.",
+        "time": 1770960860,
+        "translated": false
+      },
+      {
+        "author_name": "phun chin",
+        "author_url": "https://www.google.com/maps/contrib/104106155528453728661/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUQ_U_iHtvxZ3el9zjO99pCFtpjGwXTdBJw8KawIQbjipf-BiR6A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mom nào là Potterhead thì nhất định phải đến quán nì nhen!!!! Quán vibe ấm áp, châu âu. Nước khá ok, vị trí đắt địa trên phố cổ. Các bạn nhân viên rất nhiệt tình, ở đây còn có chụp polaroid 30k/tấm xinh lắm luôn. Yêu cầu quán mở chi nhánh HCM để mình có thể đến nhiều hơn",
+        "time": 1766317105,
+        "translated": false
+      },
+      {
+        "author_name": "Chau Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100308668152851874415/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAO_4Y9D8lbFd2M3X4hGAB5yWb4CiOYMKtg_ie3Pv21ON9kvKG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Always Café giống như một khe cửa nhỏ dẫn thẳng vào thế giới Harry Potter giữa lòng Việt Nam. Không gian quán được chăm chút tỉ mỉ với ánh đèn vàng ấm, những kệ sách phép thuật, bản đồ Marauder và góc tường gợi nhớ đến Đại Sảnh Đường Hogwarts. Mỗi ly nước không chỉ là cà phê hay trà, mà là một “bình dược” mang màu sắc riêng, khiến trải nghiệm trở nên vừa thú vị vừa rất điện ảnh. Quán yên tĩnh, hoài niệm, hợp để ngồi đọc sách, viết vài dòng nhật ký hay đơn giản là trốn khỏi nhịp sống vội vã ngoài kia. Nếu bạn từng mơ được sống trong thế giới phù thủy, thì Always Café là nơi giấc mơ ấy được chạm khẽ vào đời thực. ✨🪄",
+        "time": 1768225066,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9817
+  },
+  "harvested_at": "2026-04-26T12:45:31.605449"
+}

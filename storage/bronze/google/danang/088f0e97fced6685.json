@@ -1,0 +1,173 @@
+{
+  "u_key": "088f0e97fced6685",
+  "original_osm_name": "Hoi Bahn My Chay",
+  "google_raw": {
+    "formatted_phone_number": "0782 682 972",
+    "geometry": {
+      "location": {
+        "lat": 16.0660091,
+        "lng": 108.2405594
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0673582802915,
+          "lng": 108.2418576802915
+        },
+        "southwest": {
+          "lat": 16.0646603197085,
+          "lng": 108.2391597197085
+        }
+      }
+    },
+    "name": "Bánh Mì Chay Lê Hội - Vegan Bread",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0615"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:15–18:00",
+        "Thứ Ba: 06:15–18:00",
+        "Thứ Tư: 06:15–18:00",
+        "Thứ Năm: 06:15–18:00",
+        "Thứ Sáu: 06:15–18:00",
+        "Thứ Bảy: 06:15–18:00",
+        "Chủ Nhật: 06:15–18:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Vinh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101213952294576392421/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpbf2fPGERsRWenAOTxPEV89ELZpq7cRfEsZP7dSvIj3RqYPsU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Bánh mì ngon, làm rất tươm tất, sạch sẽ.\nGiá cả hợp lý cho một buổi sáng.\nKhông khí quán nhẹ nhàng, lịch sự.",
+        "time": 1762563387,
+        "translated": false
+      },
+      {
+        "author_name": "lien do",
+        "author_url": "https://www.google.com/maps/contrib/103257081070117435705/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjlEPudBClz7iodF8FKLti3hHM-RKbo5mHGkbhvSk7Hj4_gkgt=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Bánh mì chay15k ,thật sự quá ngon. Sạch sẽ, nguyên liệu tươi ngon, rất năng lượng",
+        "time": 1762054537,
+        "translated": false
+      },
+      {
+        "author_name": "Mun Mun",
+        "author_url": "https://www.google.com/maps/contrib/104979468811688147120/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJhwHS-pLZmOFzex6oS6KwNQjYOe3eGELk5IUobDbanbyrnTH5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "15k/ổ bánh mỳ chay ngon và đầy đủ nguyên liệu nha. Cảm giác rất sạch sẽ và tươi.\nChị chủ thân thiện dễ thương.\n\nPhố xá dễ tìm. Ngay mặt đường nè. Có nhận ủng hộ/từ thiện bánh mỳ cho người qua đường. Thông tin ở bảng “Bánh mỳ “Treo”",
+        "time": 1748958804,
+        "translated": false
+      },
+      {
+        "author_name": "Tomseoby",
+        "author_url": "https://www.google.com/maps/contrib/116733328614221878834/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGTL6AyUQSXB9o6BzgzntvcX0wTYH5wkOFlfDPf8MA6pnVbWI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bánh mì ngon, làm rất tươm tất, sạch sẽ.\nGiá cả hợp lý cho một buổi sáng.\nKhông khí quán nhẹ nhàng, lịch sự.",
+        "time": 1766800562,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Phan",
+        "author_url": "https://www.google.com/maps/contrib/118231366122827088622/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5ZZoZvUcMflL5jZmzLLZiv41zLK94Om86oeXpx2Ww7u1UQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "M từng ăn bánh mì chay  nhiều nơi nhưng đây là nơi có hương vị đặc biệt nhất, ăn ở đây xong ko muốn ăn thêm bánh mì chay chỗ khác. M là người chay trường nên tìm được nơi bán bánh mì ngon có tâm lại gặp cô chủ nhiệt tình như này thật tuyệt. Lại còn có thêm các em cún hay đón khách đến mua. Perfect! ❤️❤️❤️",
+        "time": 1760415966,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 450
+  },
+  "harvested_at": "2026-04-28T16:42:19.051938"
+}

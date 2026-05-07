@@ -1,0 +1,109 @@
+{
+  "u_key": "809e13b8de35057a",
+  "original_osm_name": "Nhà Khách Nexy",
+  "google_raw": {
+    "formatted_phone_number": "024 7300 6399",
+    "geometry": {
+      "location": {
+        "lat": 21.0326406,
+        "lng": 105.850014
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0340269302915,
+          "lng": 105.8514211802915
+        },
+        "southwest": {
+          "lat": 21.0313289697085,
+          "lng": 105.8487232197085
+        }
+      }
+    },
+    "name": "Nexy Hostel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "hà ma thị",
+        "author_url": "https://www.google.com/maps/contrib/109549197719024655501/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUyjZOJnVU6lefQauheZTdC_OOJdf-owzRbi32IqKgmQz60Cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Mình rất thích Nexy Hostel. Không gian ấm cúng, phòng sạch và được trang bị đầy đủ tiện nghi. Nhân viên nhiệt tình, dễ thương, hỗ trợ khách rất chu đáo. Vị trí ngay trung tâm nên dễ dàng đi lại và khám phá thành phố",
+        "time": 1758535559,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100186934277797167591/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrfZ68kVwCAIc5b5Yq7s21qvETaCbbw-bBEOZdag_oTCMH0h81=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vào mùa đông kê đệm là không có thanh chắn ở giường tầng trên, khá nguy hiểm khi ngủ. Bậc leo lên giường tầng khá là khó leo lên, khó leo xuống.",
+        "time": 1770096083,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Chu",
+        "author_url": "https://www.google.com/maps/contrib/100532900876797514859/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-3J3T25Nv_aSufKKd8HR8Yy8bRjUZWjs-J-x9zTPzEk3HYA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình đã có trải nghiệm tuyệt vời ở đây. Có dịp ra Hà Nội mình sẽ ưu tiên chọn Nexy ạ 😍",
+        "time": 1766132249,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng lonh",
+        "author_url": "https://www.google.com/maps/contrib/109244273672051168448/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMDelAOQByuju0bt5kMga95N2RCUOaEvhJhpzeTEhiHpEiPvED=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình và gia đình đi ctac 2n1d ở qua ks qua lời người địa phương giới thiệu, ks tốt dịch vụ tốt nhân viên dễ thương sẽ tiếp tục ghé qua",
+        "time": 1760501183,
+        "translated": false
+      },
+      {
+        "author_name": "hà Dương",
+        "author_url": "https://www.google.com/maps/contrib/114499996134617064184/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURis_gcnjU9y_IHKcY1wfD33kr491JEP7KfUNt5gNkEtQFLi4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Khách sạn sạch sẽ, phục vụ nhiệt tình thoáng mát . Quá đẹp",
+        "time": 1763523045,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 907
+  },
+  "harvested_at": "2026-04-26T12:44:55.233642"
+}

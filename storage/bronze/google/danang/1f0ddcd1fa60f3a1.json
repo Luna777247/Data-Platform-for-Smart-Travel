@@ -1,0 +1,173 @@
+{
+  "u_key": "1f0ddcd1fa60f3a1",
+  "original_osm_name": "Bun thịt nướng",
+  "google_raw": {
+    "formatted_phone_number": "0365 505 294",
+    "geometry": {
+      "location": {
+        "lat": 16.0727906,
+        "lng": 108.2096388
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0740923302915,
+          "lng": 108.2109976302915
+        },
+        "southwest": {
+          "lat": 16.0713943697085,
+          "lng": 108.2082996697085
+        }
+      }
+    },
+    "name": "Bún Thịt Nướng Út Quân",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Thao Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111666100264669211516/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX363PXRHsH-ANB0-C0-jpVIkKl6tyoDup96rb71N4JXMX5AwVd=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, sạch sẽ, nhân viên nhiệt tình dễ thương, mình sẽ quay lại",
+        "time": 1772025118,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Yến Trương",
+        "author_url": "https://www.google.com/maps/contrib/100096943580550922172/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr9HK9fkrAaiSyE-hReYb3iDDo6wOUqqFez5fBAzi4o_wd3Cun=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "mình vô tình ghé quán trong lúc đi tìm quán ăn tối, giá cả oke, thịt nướng khá nhiều, vị nước mắm ko quá mặn, hợp khẩu vị mình",
+        "time": 1772885743,
+        "translated": false
+      },
+      {
+        "author_name": "Bao Tran Hoang",
+        "author_url": "https://www.google.com/maps/contrib/102716026275262031756/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUew8RtOgzPke-xCCEqc7gXrFF3QZZaRtr2lHnx4G-FW7csjktg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Bún thịt nướng ngon, chưa thử những món khác, lần sau sẽ thử\nKhông gian quán rộng rãi thoải mái\nChỗ bếp theo cảm nhận thì sạch sẽ\nChưa có chỗ đậu xe cho khách",
+        "time": 1772676913,
+        "translated": false
+      },
+      {
+        "author_name": "Giahan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107880445755038578449/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI674W8myfawtNhOk-VCb9eSuAYRidgbKEGsGyNu5-sY1wJLA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán sạch sẽ, thịt tươi nên ăn ngon hẳn, nướng ko quá khô ăn ngọt thịt. Lần đầu ăn cùng mắm chua ngọt lạ miệng nhưng ngon\nSẽ quay lại, chủ quán dth nhiệt tình👍",
+        "time": 1771165860,
+        "translated": false
+      },
+      {
+        "author_name": "Trịnh Lê Trâm Uyên",
+        "author_url": "https://www.google.com/maps/contrib/108489936737624786853/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzDIwAkSqcMS6SgfgX2dVzV4jr-rel22e_eQOFherY-VY5NA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, nhiều, rẻ và phục vụ nhiệt tình. Ăn ở quán nhiều lần rồi, từ khi khai trương tới giờ\nĐặc biệt nem nướng và chả giò rất ngon và chất lượng",
+        "time": 1771136283,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 192
+  },
+  "harvested_at": "2026-04-28T16:43:34.113572"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "a936aea8b13af379",
+  "original_osm_name": "Chopsticks",
+  "google_raw": {
+    "formatted_phone_number": "0905 103 861",
+    "geometry": {
+      "location": {
+        "lat": 12.2682428,
+        "lng": 109.1529127
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2695969802915,
+          "lng": 109.1543256802915
+        },
+        "southwest": {
+          "lat": 12.2668990197085,
+          "lng": 109.1516277197085
+        }
+      }
+    },
+    "name": "Chopsticks Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1600"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–16:00",
+        "Thứ Ba: 09:00–16:00",
+        "Thứ Tư: 09:00–16:00",
+        "Thứ Năm: 09:00–16:00",
+        "Thứ Sáu: 09:00–16:00",
+        "Thứ Bảy: 09:00–16:00",
+        "Chủ Nhật: 09:00–16:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "thong buihuy",
+        "author_url": "https://www.google.com/maps/contrib/110954894358824343225/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8F2wEKHvSUEOO-cdhUwKrevUOZxI7Rfdv5-EaE-A_LiD5Eg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn rất ngon, view đẹp, thoáng. Không gian thoải mái. Phục vụ nhiệt tình 😎🍾🥃",
+        "time": 1744963176,
+        "translated": false
+      },
+      {
+        "author_name": "thinh hoang chinh",
+        "author_url": "https://www.google.com/maps/contrib/104368758938051456810/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGVrVuDvFHHHk4UUoXRH-ZDy1S-lSLFa0xVpI212NhwUt5MUxm=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Trải nghiệm tuyệt vời ạ!",
+        "time": 1746253980,
+        "translated": false
+      },
+      {
+        "author_name": "Hong Giang Dao",
+        "author_url": "https://www.google.com/maps/contrib/117991769543466644967/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBzy0Pyq1LSMTw-ESsiAoxsdKrEcalGDt_uaha7I4waVrkcHOr9Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Service của quán cực kỳ tốt, ông chủ rất thân thiện",
+        "time": 1752279609,
+        "translated": false
+      },
+      {
+        "author_name": "Cung Quynh",
+        "author_url": "https://www.google.com/maps/contrib/101059305272328959166/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6F0Kw07mxmZLzV2mLPFjwDVAO2z2aL1TB3zhsaSocrbzZS_uwSA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Địa điểm phù hợp để tránh cái nóng oi bức, ngột ngạt thành phố. Đặc biệt quán không sử dụng bột ngọt, món ăn đạt chất lượng, thẩm mỹ.",
+        "time": 1556460505,
+        "translated": false
+      },
+      {
+        "author_name": "Thoại Trường",
+        "author_url": "https://www.google.com/maps/contrib/116417220394577247621/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6n51z-okd-sCXrTPcPqZc2yX8aOSYv8xzbD2PvYwXmEwg-w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nhà hàng rát tốt đáng để đến",
+        "time": 1698313456,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 61
+  },
+  "harvested_at": "2026-05-02T15:08:48.198525"
+}

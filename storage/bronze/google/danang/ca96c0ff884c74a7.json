@@ -1,0 +1,173 @@
+{
+  "u_key": "ca96c0ff884c74a7",
+  "original_osm_name": "I Love Coffee Xinh Lee Coffee & Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0961 488 284",
+    "geometry": {
+      "location": {
+        "lat": 16.0670297,
+        "lng": 108.2444593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0683749802915,
+          "lng": 108.2457535302915
+        },
+        "southwest": {
+          "lat": 16.0656770197085,
+          "lng": 108.2430555697085
+        }
+      }
+    },
+    "name": "Lee Coffee & Tea",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:30",
+        "Thứ Ba: 07:00–21:30",
+        "Thứ Tư: 07:00–21:30",
+        "Thứ Năm: 07:00–21:30",
+        "Thứ Sáu: 07:00–21:30",
+        "Thứ Bảy: 07:00–21:30",
+        "Chủ Nhật: 07:00–21:30"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Thắng Đức",
+        "author_url": "https://www.google.com/maps/contrib/108494113241520724186/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB5JfdWLf7rASf7uUHrTcezIsUE80Izt6bAzTJhxHWuiILnm0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "chè ngon",
+        "time": 1765477365,
+        "translated": false
+      },
+      {
+        "author_name": "Huệ Trần",
+        "author_url": "https://www.google.com/maps/contrib/101946525625101464392/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKC_w8lEO8gcNWhPoYlxC58zOFdKGGbxaXIsbbHa5odTiMW9Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Menu đa dạng và ngon tuyệt , giá rất tốt so với con đường phố tây",
+        "time": 1762708667,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cà phê bạc xỉu muối pha ngon.\nMình mua mang về.",
+        "time": 1693585348,
+        "translated": false
+      },
+      {
+        "author_name": "BIN MOTORBIKE RENTAL",
+        "author_url": "https://www.google.com/maps/contrib/114465459015216527804/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6Zpk7ZuJGEiNIOOyyAoAmeaIDJip5yKxDR0y1ciGc4F__36c=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cà phê muối ở đây khá ngon.",
+        "time": 1712972028,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Nguyen xuan",
+        "author_url": "https://www.google.com/maps/contrib/102811511278699487383/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQLfRtNXm5U3j_rbyzjuEiozJUeR_8Vr7ivvXvdCtyb4VEew=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cà phê ngon mọi người nên thử",
+        "time": 1764823006,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 166
+  },
+  "harvested_at": "2026-04-29T09:55:11.258422"
+}

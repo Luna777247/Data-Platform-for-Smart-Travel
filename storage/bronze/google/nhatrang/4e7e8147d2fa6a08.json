@@ -1,0 +1,174 @@
+{
+  "u_key": "4e7e8147d2fa6a08",
+  "original_osm_name": "Cafe Ánh Dương",
+  "google_raw": {
+    "formatted_phone_number": "0909 171 611",
+    "geometry": {
+      "location": {
+        "lat": 12.2427516,
+        "lng": 109.1849755
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2440654802915,
+          "lng": 109.1863638302915
+        },
+        "southwest": {
+          "lat": 12.2413675197085,
+          "lng": 109.1836658697085
+        }
+      }
+    },
+    "name": "Cà Phê Ánh Dương",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–12:00",
+        "Thứ Ba: 06:00–12:00",
+        "Thứ Tư: 06:00–12:00",
+        "Thứ Năm: 06:00–12:00",
+        "Thứ Sáu: 06:00–12:00",
+        "Thứ Bảy: 06:00–12:00",
+        "Chủ Nhật: 06:00–12:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Tu Bat",
+        "author_url": "https://www.google.com/maps/contrib/100207185259349497475/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW332B2cdE73Z_R9YEWN7BhaQcizpNg5XjJLvqcrLqRAufS81YV=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Đây là quán cà phê ở 22 lê chân p. Phước tân .tp nha trang .khánh hòa! Yên tĩnh phù hợp cho những buổi nói chuyện . Bạn bè công việc và cho cả những người đang yêu 😉 ! Giao lộ âu cơ và lê chân!",
+        "time": 1549775232,
+        "translated": false
+      },
+      {
+        "author_name": "quang nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107705010951497679494/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDKUONxtNqzMtutLVgLQ7_Q_HKEE4Duz4mYWL-i2eMlyp6kP4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ uống ngon, đặc biệt là cà phê phin. Quán đẹp, sân vườn nhỏ thoáng mát giữa trung tâm. Giá rẻ, nhân viên thân thiện. Là quán cà phê uống hàng ngày của mình và gia đình",
+        "time": 1682995216,
+        "translated": false
+      },
+      {
+        "author_name": "Syar Sai",
+        "author_url": "https://www.google.com/maps/contrib/100428802347232747548/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrj7G7GT8Soj66-2TyCAj1EI57mGUTwWj0VuBO6IFGyQrc8vld=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Không gian yên tĩnh, thoáng mát, thích hợp làm việc, thư giãn nhẹ nhàng. Mấy bạn nhân viên cũng rất nhiệt tình và dễ thương.",
+        "time": 1550043826,
+        "translated": false
+      },
+      {
+        "author_name": "Ai Thi TruonG",
+        "author_url": "https://www.google.com/maps/contrib/114743479306193464446/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJ7VuQFUp7A94gx0NT2IqokdNaiQl8n52crKGkJk0FJq48hw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Cafe sạch, chất lượng cao, giá lại rẻ, Mn ghé uống thử nhaz",
+        "time": 1558349733,
+        "translated": false
+      },
+      {
+        "author_name": "Vỹ Phạm",
+        "author_url": "https://www.google.com/maps/contrib/105576502915306328837/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFaXHBJNbGmQiKaQz14c4jfj0NvUcz37Mu1H_D60Gwi5VDJQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Wán cafe uốg ngon,ngồi hưởng thụ gió mát mẻ..^^",
+        "time": 1506398168,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 39
+  },
+  "harvested_at": "2026-05-02T15:31:07.572846"
+}

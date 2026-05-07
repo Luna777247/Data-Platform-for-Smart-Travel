@@ -1,0 +1,244 @@
+{
+  "u_key": "71088a4714939a62",
+  "original_osm_name": "Vegetarian mini-restaurant Co Tam",
+  "google_raw": {
+    "formatted_phone_number": "0907 596 122",
+    "geometry": {
+      "location": {
+        "lat": 12.2435354,
+        "lng": 109.1861145
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2449292302915,
+          "lng": 109.1874665802915
+        },
+        "southwest": {
+          "lat": 12.2422312697085,
+          "lng": 109.1847686197085
+        }
+      }
+    },
+    "name": "QUÁN CHAY CÔ TẤM",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–13:00, 16:00–20:00",
+        "Thứ Ba: 06:30–13:00, 16:00–20:00",
+        "Thứ Tư: 06:30–13:00, 16:00–20:00",
+        "Thứ Năm: 06:30–13:00, 16:00–20:00",
+        "Thứ Sáu: 06:30–13:00, 16:00–20:00",
+        "Thứ Bảy: 06:30–13:00, 16:00–20:00",
+        "Chủ Nhật: 06:30–13:00, 16:00–20:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Linh Trần",
+        "author_url": "https://www.google.com/maps/contrib/114427961988459317862/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1Nr3oEVWWH9kWiXsvgz0WkZqFM-8gWTH0QCDNq3XfL5-qOQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ở mức tạm ổn, quán đông nhưng pv rất nhanh, sạch sẽ",
+        "time": 1770028244,
+        "translated": false
+      },
+      {
+        "author_name": "Le Huy Son",
+        "author_url": "https://www.google.com/maps/contrib/106507095313180030801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUD3PK1KNopnKA3eAQYCzyLmoHu2hD4UFIgDSDMFRp9RuiF84Am2Q=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán chay Cô Tấm là một trong những quán ăn chay được yêu thích tại Nha Trang, nổi bật với không gian giản dị, ấm cúng và thực đơn đa dạng. Quán chuyên phục vụ các món ăn thuần chay, từ cơm phần, bún, phở đến các món đặc sản như lẩu chay, chả giò, gỏi cuốn. Đặc biệt, các món ăn ở đây đều mang những cái tên quen thuộc của món mặn, nhưng thực chất hoàn toàn được chế biến từ nguyên liệu chay. Nhờ cách nêm nếm khéo léo, hương vị của các món ăn rất giống món mặn, đến mức nếu không nói trước là món chay thì nhiều người có thể lầm tưởng. Chính sự tinh tế trong chế biến cùng mức giá phải chăng đã giúp quán trở thành điểm đến quen thuộc của nhiều thực khách, dù ăn chay trường hay chỉ muốn đổi vị với ẩm thực chay.",
+        "time": 1743757976,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Anh Trần",
+        "author_url": "https://www.google.com/maps/contrib/115642094150110610701/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6uwt-x6Gfhm11XHxUclPrfpaygWuiaDldbkl37MCmJUJHDOw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán sạch sẽ, ra món nhanh, chất lượng món ăn cũng okie lắm!",
+        "time": 1756126332,
+        "translated": false
+      },
+      {
+        "author_name": "Davide santamaria",
+        "author_url": "https://www.google.com/maps/contrib/112749828137104533362/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2pMyjZjMVJqAbjj_iPOhWbiE5W6gIYvj6iYLvO6e16ut_LzBA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "11 tháng trước",
+        "text": "Tôi gọi cơm với nhiều loại rau trộn. Yêu cầu duy nhất của tôi là không thêm đậu phụ vào món ăn.\nTôi được phục vụ một món ăn buồn tẻ hoàn toàn có màu xanh lá cây!\nKhông có dấu vết của màu sắc khác, có lẽ là cà rốt; ớt chuông; nấm hoặc bất cứ thứ gì làm cho món ăn đó trông ngon miệng hơn.\nTôi không cho điểm thấp nhất vì ít nhất nhà hàng cũng sạch sẽ và gọn gàng.\n\nI ordered rice with assorted mixed vegetables. The only request I had was to not add any tofu to my dish.\nI was served a sad dish completely green!\nNo traces of other colours, perhaps carrots; bell peppers; mushroom or anything that would make that dish looking more appetizing.\nI don't give the lowest score as the restaurant is at least clean and tidy.",
+        "time": 1747201338,
+        "translated": false
+      },
+      {
+        "author_name": "DiamondTran",
+        "author_url": "https://www.google.com/maps/contrib/110554052027244351335/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkhubI5tC0wdwqKIOF1d7SDk5Q64BLMRMBXqhbzJjC62QkqoOq=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng chay giá phù hợp, mình qua ăn sáng tôi mỳ quảng giá 30k, có menu nhiều loại đồ ăn cho mn lựa chọn. Ăn ngon nhé các bạn",
+        "time": 1725934240,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 273
+  },
+  "harvested_at": "2026-05-02T15:18:21.495946"
+}

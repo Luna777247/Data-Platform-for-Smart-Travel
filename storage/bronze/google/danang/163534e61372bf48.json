@@ -1,0 +1,137 @@
+{
+  "u_key": "163534e61372bf48",
+  "original_osm_name": "Quan Chay Sen Trang",
+  "google_raw": {
+    "formatted_phone_number": "0935 904 944",
+    "geometry": {
+      "location": {
+        "lat": 15.9974132,
+        "lng": 108.1982948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9987936302915,
+          "lng": 108.1996419302915
+        },
+        "southwest": {
+          "lat": 15.9960956697085,
+          "lng": 108.1969439697085
+        }
+      }
+    },
+    "name": "Quán chay sen trắng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1950"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1950"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1950"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1950"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1950"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1950"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1950"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–19:50",
+        "Thứ Ba: 08:00–19:50",
+        "Thứ Tư: 08:00–19:50",
+        "Thứ Năm: 08:00–19:50",
+        "Thứ Sáu: 08:00–19:50",
+        "Thứ Bảy: 08:00–19:50",
+        "Chủ Nhật: 08:00–19:50"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Tâm Trần Minh",
+        "author_url": "https://www.google.com/maps/contrib/110526123460081452921/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPaU7p8ql5vjISAUUvmPrqmJhovzLL1bj0DN4nmYVIYgzeFwo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Sạch sẽ, thanh tịnh",
+        "time": 1743383256,
+        "translated": false
+      },
+      {
+        "author_name": "Takani Dillon",
+        "author_url": "https://www.google.com/maps/contrib/118186493503014083920/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_9bM9mV_DH-X4LGdR1wJsFvW1g857oecfxQS5b_U1xFYohw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán chay địa phương ngon nhất mà tôi từng đến ở Việt Nam! Quán rất địa phương và xa trung tâm, nhưng tiêu chuẩn vệ sinh khá tốt và đồ ăn thì tuyệt vời. Tôi đã nói chuyện với bà lão tốt bụng chủ quán (trong khả năng tiếng Việt hạn chế của tôi) và phát hiện ra rằng bà và chồng bà đều là người ăn chay, đó là lý do tại sao tôi cho rằng bà biết cách làm đồ ăn ngon như vậy. Hiện tại, bà bán một ổ bánh mì với giá 10.000, Mì Quảng với giá 15.000 và Cơm Chay lớn với giá 20.000, luôn có nhiều loại topping tuyệt vời. Tuyệt nhất là thịt giả mà họ sử dụng thực sự không có vị thịt chút nào, đây là trường hợp đáng thất vọng ở nhiều quán chay khác mà tôi từng đến. Bà lão cũng nói với tôi rằng bà sẽ bắt đầu làm Phở khi quán đông khách và tôi thực sự mong chờ điều đó. Hãy nhớ ghé qua nếu bạn muốn thưởng thức những món ăn Việt Nam ngon nhất của vùng nông thôn địa phương. Bạn sẽ không thất vọng đâu.",
+        "time": 1734779469,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-29T09:42:37.052850"
+}

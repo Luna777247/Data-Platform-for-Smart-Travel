@@ -1,0 +1,93 @@
+{
+  "u_key": "8b6eced9b7989e08",
+  "original_osm_name": "Cà Phê Anh Hoàng",
+  "google_raw": {
+    "formatted_phone_number": "0982 433 819",
+    "geometry": {
+      "location": {
+        "lat": 19.9783597,
+        "lng": 105.6441629
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.9797322302915,
+          "lng": 105.6455379302915
+        },
+        "southwest": {
+          "lat": 19.9770342697085,
+          "lng": 105.6428399697085
+        }
+      }
+    },
+    "name": "Hoàng Anh coffee (café)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Sự Ngô văn",
+        "author_url": "https://www.google.com/maps/contrib/109425530031497806719/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLL1ZZPGdcWTAXlN4Gvk1EK_gJPv2YYz13vvBIxyaQ5C0aork2=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Rất tuyệt",
+        "time": 1686222326,
+        "translated": false
+      },
+      {
+        "author_name": "Milan Hudy",
+        "author_url": "https://www.google.com/maps/contrib/103875833781350333747/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8g4LpqA72TxOv931UX6gEPe2zfBvJhECKbdhinVgU0WCCGsXc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "cà phê tuyệt vời",
+        "time": 1695195729,
+        "translated": true
+      },
+      {
+        "author_name": "PHUONG TRỊNH",
+        "author_url": "https://www.google.com/maps/contrib/105079864395006050008/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV95Lk9hIcyABAH7rNOeotXvZaKCUzsmR04x2x2ItWmpGCKLSU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "",
+        "time": 1751428249,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàn Lê",
+        "author_url": "https://www.google.com/maps/contrib/107455009801325019218/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWk9m9RFMnGPlrUKkgB02aJhGjiJtuLzxni4phLz5uvXWyDHaw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1664703226,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-26T12:45:20.831905"
+}

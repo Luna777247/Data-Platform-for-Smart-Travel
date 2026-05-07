@@ -1,0 +1,173 @@
+{
+  "u_key": "7215f64c8634d0cd",
+  "original_osm_name": "Double Dragon",
+  "google_raw": {
+    "formatted_phone_number": "0906 540 007",
+    "geometry": {
+      "location": {
+        "lat": 12.2711006,
+        "lng": 109.200905
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2724660802915,
+          "lng": 109.2022540802915
+        },
+        "southwest": {
+          "lat": 12.2697681197085,
+          "lng": 109.1995561197085
+        }
+      }
+    },
+    "name": "Dragon Arena Gaming Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–23:00",
+        "Thứ Ba: 07:30–23:00",
+        "Thứ Tư: 07:30–23:00",
+        "Thứ Năm: 07:30–23:00",
+        "Thứ Sáu: 07:30–23:00",
+        "Thứ Bảy: 07:30–23:00",
+        "Chủ Nhật: 07:30–23:00"
+      ]
+    },
+    "rating": 3.1,
+    "reviews": [
+      {
+        "author_name": "Tuấn Minh Lê",
+        "author_url": "https://www.google.com/maps/contrib/106057332759673333692/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwKsQdfUaR_aqz1pbFsglKdKB_A0iSmKEajSoXwnuagduuKQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Chưa thấy quán net nào có cả màn hình cuver 144hz như quán này. cấu hình max ngon, chiến mọi loại game. nhân viên nhiệt tình vui vẻ. phục vụ rất tốt. còn xinh nữa. không gian quán rộng rãi thoáng, máy lạnh mát rượi. không bị nóng nhé mọi người. Lúc nào mình cũng rũ bạn bè đến đây chơi.\ncó khu vực thi đấu esport. với máy cấu hình i5 8400, gtx 1060. chơi game gì cũng sướng.",
+        "time": 1537672144,
+        "translated": false
+      },
+      {
+        "author_name": "Huyền Trân",
+        "author_url": "https://www.google.com/maps/contrib/116263782244758509666/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyIhOBCmwt0U8RAL50eDHJuc8yTHU_zrM1uhySOxmABvjjwJEp=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "nhân viên bất lịch sự , thái độ với khách đúng kiểu bọn nghiện game cư xử với khách",
+        "time": 1757044060,
+        "translated": false
+      },
+      {
+        "author_name": "An Võ Tiến",
+        "author_url": "https://www.google.com/maps/contrib/113168850749126780139/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMmtrCdLGuRvF4S6ijBbMBV0kj4iK4JWUus2DdadK3ys378Vlq=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "T tưởng chỉ có miền núi mới có quán nét thế này chứ, máy hư cũng không ghi chú cho người chơi biết, mà hư cũng một đống, mở máy lên 70% tai nghe không nghe đc, mới mở lên thông báo hiện cả đống, phòng net thì nóng vãi ò, cổng usb thì không có cái nào không truyền đc file, quán được cái chỗ đổ xe rộng rãi, còn lại thì....",
+        "time": 1744446535,
+        "translated": false
+      },
+      {
+        "author_name": "Gia Hồng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102442919540564025050/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYYb4plnhoX5l74yX95DhmT7H-9AuUGO1jvnHILc84YMeeCQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Quán quá tệ từ máy móc đến nhân viên và bảo vệ , xe của khách bị hút hết xăng , mất đồ bảo vệ cũng k bt kêu check cam thì quản lí k chịu check còn đổ lỗi cho khách hàng.Mọi người nên né quán này nha",
+        "time": 1737562498,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Đại (nguyndai)",
+        "author_url": "https://www.google.com/maps/contrib/112499599538577266631/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeAKafWc7ORuSoHMXH8Yr-Wc1OwSqyEe9BwWH1_jlz4ZpJz-oJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "quán không biết nghe góp ý, giá net cao nhưng chất lượng rất kém, nhân viên xử lí vấn đề rất tệ cần train lại. Mong chủ quán hãy lắng nghe ý kiến",
+        "time": 1735117779,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 52
+  },
+  "harvested_at": "2026-05-02T15:08:19.329968"
+}

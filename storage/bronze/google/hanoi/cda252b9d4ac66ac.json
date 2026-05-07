@@ -1,0 +1,24 @@
+{
+  "u_key": "cda252b9d4ac66ac",
+  "original_osm_name": "340-342 Trần Khát Chân",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0094591,
+        "lng": 105.8582105
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0106758802915,
+          "lng": 105.8595489802915
+        },
+        "southwest": {
+          "lat": 21.0079779197085,
+          "lng": 105.8568510197085
+        }
+      }
+    },
+    "name": "City"
+  },
+  "harvested_at": "2026-04-28T16:11:12.652856"
+}

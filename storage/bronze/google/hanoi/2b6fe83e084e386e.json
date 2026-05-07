@@ -1,0 +1,173 @@
+{
+  "u_key": "2b6fe83e084e386e",
+  "original_osm_name": "Pho Vui",
+  "google_raw": {
+    "formatted_phone_number": "0916 596 126",
+    "geometry": {
+      "location": {
+        "lat": 21.035243,
+        "lng": 105.8512159
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0365199302915,
+          "lng": 105.8525554802915
+        },
+        "southwest": {
+          "lat": 21.0338219697085,
+          "lng": 105.8498575197085
+        }
+      }
+    },
+    "name": "Phở Ông Vui - Hàng Giầy",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–01:00",
+        "Thứ Ba: 06:00–01:00",
+        "Thứ Tư: 06:00–01:00",
+        "Thứ Năm: 06:00–01:00",
+        "Thứ Sáu: 06:00–01:00",
+        "Thứ Bảy: 06:00–01:00",
+        "Chủ Nhật: 06:00–01:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Trần Thắng",
+        "author_url": "https://www.google.com/maps/contrib/114786094756499801424/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRkdTyf-WFCWkekhx_K-zcZkWsql35Rx7VxNeV4ixBcHjzjpDo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Một bát phở gầu sốt vang rất đầy đặn , hương vị chưa quá đậm đà so với khẩu vị cá nhân , quẩy ngon nhiệt tình\nĐi ăn cuối tuần vướng phố đi bộ đi hơi khó chút\nGiá mức hơi cao nhưng so vị trí của quán thì bình thường",
+        "time": 1762946013,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102120424963794073531/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeiY5oHNsm187oAb_sS5-EvMXyR8l2wPrww1tuOP87dSJ0WTx86w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình ăn phở thấy bình thường, giá cao so với chất lượng và giá trị nhận lại. Bánh phở lèo tèo, nước dùng ko đậm đà. Cá nhân mình thấy ko hợp gu ở đây, ăn thử cho biết và sẽ ko quay lại",
+        "time": 1764473010,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110372384859642263098/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm6IU4JfoUAhAHl7ebfBy51gGzrHdU7EIMUP2GKP9UVnalco9b=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Hàng phở rất lâu nằm giữa phố cổ. Mình ăn lâu năm rồi, trước ăn ngon. Giờ ăn nước thấy cũng ngon mà sao cái thịt tái lại đc băm cùng gừng như phở Nam định :(\nMọi ng có vẻ thích sốt vang. Mình lại thích phở nước ăn cùng quẩy",
+        "time": 1767545458,
+        "translated": false
+      },
+      {
+        "author_name": "Thinh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110783373288509725368/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEYGqiU9b5cCk8dmn4jgRO1hwukv6OW8qilVSKx96ChlwHUmJz=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phở bò nhiều topping, nước lèo vừa khẩu vị. Tuy nhiên, nên cân nhắc khi đi theo nhóm vì không gian nhỏ hẹp",
+        "time": 1769133070,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Long",
+        "author_url": "https://www.google.com/maps/contrib/115731527959881003034/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaLnqmnO-8RrV6ozhc3N4ASxOD0Yctt3lk6q9SWmXvT9aD9Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ăn theo video review của đạo diễn Nguyễn Quang Dũng và nhạc sĩ Huy Tuấn. Phở ngon và người bán cũng nhiệt tình không vấn đề gì nhưng do ngay trong khu phố Tây nên chỗ ngồi chật chội làm trải nghiệm món không được tốt và thoải mái.",
+        "time": 1769490844,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 525
+  },
+  "harvested_at": "2026-04-28T16:15:05.312199"
+}

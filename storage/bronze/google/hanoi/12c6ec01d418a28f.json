@@ -1,0 +1,173 @@
+{
+  "u_key": "12c6ec01d418a28f",
+  "original_osm_name": "501 Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0559 021 501",
+    "geometry": {
+      "location": {
+        "lat": 21.0390807,
+        "lng": 105.8456729
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0404174802915,
+          "lng": 105.8470904802915
+        },
+        "southwest": {
+          "lat": 21.0377195197085,
+          "lng": 105.8443925197085
+        }
+      }
+    },
+    "name": "Room501 coffee roasters",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–19:00",
+        "Thứ Ba: 08:00–19:00",
+        "Thứ Tư: 08:00–19:00",
+        "Thứ Năm: 08:00–19:00",
+        "Thứ Sáu: 08:00–19:00",
+        "Thứ Bảy: 08:00–19:00",
+        "Chủ Nhật: 08:00–19:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "T.ùng Lâm Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100069274800427189329/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV71Mj1MojmpDzYBOCytoscgPOAG5KHZmhoz2EED3Vxrxsnebgi=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán nằm trên mặt đường nhưng dường như muốn ẩn mình nên biển quán hơi bị khó nhìn nếu không để ý.\nQuán theo phong cách tối giản với decor đẹp.\nMình thử signature của quán: California. Cũng khá thú vị với topping lạ, tuy nhiên hương vị chưa đủ làm mình ấn tượng cho lắm. Dù sao cũng ở mức good ạ\nDịch vụ của quán okela, các bạn nhân viên pha chế nhiệt tình ạ.\nHôm mình trải nghiệm là 1 ngày nắng đẹp nên không khí xung quanh mọi thứ đều ổn ha.",
+        "time": 1770045050,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Ánh Vũ",
+        "author_url": "https://www.google.com/maps/contrib/117853901939543261566/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEFLk4stDHw6ksZ-9tLHR2_IJt691P6GwX_gThji202ON2YhHx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Cafe khá đắng mình lần đầu uống thử , gọi 2 cốc giống nhau là cafe có whipping cream , uống k quá ngậy , cá nhân mình uống ngọt nên là có gọi thêm sữa đặc mới đỡ , mấy bạn ở đây rất cute . Chắc lần tới đến sẽ thử thêm cafe có mascarpone xem saooo",
+        "time": 1772419550,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Thị Thúy",
+        "author_url": "https://www.google.com/maps/contrib/101232602496635107292/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHZtjnaKZv--6d4XN84mYeG9KD0E0UPkl4P6KbNR_zBa2j6Z8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Chời ơi đây là quán cafe có đồ uống và dịch vụ phải top 1 HN không ngoa. Đồ uống rất rất là ngon, bọn mình đã uống Matcha, Dirty Dark, Dirty Original và tất cả đều xuất sắc.\nView hướng ra đường Lý Nam Đế, hàng cây ngày nắng chill vô cùng tận\n2 chị chủ siêu siêu cute, nhiệt tình. Nay mình đi uống làm đổ một cốc dirty dark, quán tặng cho mình một cốc nước luôn đỉnh nóc kịch trần 🥹🥹 tất cả những người mê cafe phải đến đây và khennn",
+        "time": 1768106223,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Phương Hiếu",
+        "author_url": "https://www.google.com/maps/contrib/103642569246399580938/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGA7PGRUKsnv9Dsl6l3Q1XSYkxTsoVMmURsB_TiiD29Q6A75i3=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quản nhỏ xinh, không gian thân thiện phù hợp cho thưởng thức và suy ngẫm chậm rãi giữa phố thị ồn ào trốn đô thi.",
+        "time": 1768139901,
+        "translated": false
+      },
+      {
+        "author_name": "011_Nguyễn Hồ Bằng",
+        "author_url": "https://www.google.com/maps/contrib/112484782080048053958/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4HqgeAOXVlCbL7l8p4YSsfBscJu6sKd7ccPhpP716vFcXPILk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "đồ uống chỉnh chu, sáng tạo và rất ngon. Highly rcm mng uống thử mango lacto của quán nhé",
+        "time": 1763171205,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 183
+  },
+  "harvested_at": "2026-04-27T19:57:58.813417"
+}

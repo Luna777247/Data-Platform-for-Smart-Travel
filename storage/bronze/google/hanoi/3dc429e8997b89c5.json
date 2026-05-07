@@ -1,0 +1,173 @@
+{
+  "u_key": "3dc429e8997b89c5",
+  "original_osm_name": "JASPAS",
+  "google_raw": {
+    "formatted_phone_number": "024 3934 8325",
+    "geometry": {
+      "location": {
+        "lat": 21.0257026,
+        "lng": 105.846185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0272661302915,
+          "lng": 105.8473939302915
+        },
+        "southwest": {
+          "lat": 21.0245681697085,
+          "lng": 105.8446959697085
+        }
+      }
+    },
+    "name": "Miss Qs",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:00",
+        "Thứ Ba: 06:30–22:00",
+        "Thứ Tư: 06:30–22:00",
+        "Thứ Năm: 06:30–22:00",
+        "Thứ Sáu: 06:30–22:00",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Xuân Nguyễn Trường",
+        "author_url": "https://www.google.com/maps/contrib/116045066172476069725/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBQzxtSn5C8ZfO8unCSlvQnv_e4EwqoWatNNSTZBL6MeIVX_Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một nhà hàng phù hợp với các buổi hẹn ít người hoặc nhóm nhỏ. Không gian ấm cúng, yên tĩnh. Nhân viên phục vụ nhiệt tình. Đồ ăn hợp khẩu vị. Thu phí gửi xe ơt tầng 1 ngoài sân.\nCông ty mình có tổ chức YEP ở đây. Tuy nhiên do ko chuyên làm sự kiện nên loa đài chưa ổn lắm. Còn lại cơ bản rất ok.",
+        "time": 1769658579,
+        "translated": false
+      },
+      {
+        "author_name": "Ngo Diep",
+        "author_url": "https://www.google.com/maps/contrib/116018353437141232118/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGBSDiGMjTrEMjTN4wUHPi1vC_vmNOoVvPP1VCXzCcZllHhfdS=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Vị trí quán thì ok rồi ở trong toà Hà Nội Tower có chiếc view nhìn ra bên ngoài cũng xinh nhé, tuy bàn không có quá nhiều nhưng cũng được sắp xếp khá là hợp lí. Với cá nhân mình đánh giá thì đồ ăn cũng bình thường và chưa đa dạng món lắm nhưng được cái là giá thành ở đây cũng khá ổn không bị cao nha.",
+        "time": 1761496006,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Do",
+        "author_url": "https://www.google.com/maps/contrib/110878757485082264732/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuiGir1dEDTemDggWB4py4A2S6e_-3e7ETXBc7IBEoAoM32g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán ăn sang trọng trong view phố. Đồ ăn uống ngon, tuy không nhiều nhưng cũng rất đầy đù. Tuy nhiên có lẽ thiên về đồ Tây hơn là món Việt nhé",
+        "time": 1765436606,
+        "translated": false
+      },
+      {
+        "author_name": "Đăng Triệu",
+        "author_url": "https://www.google.com/maps/contrib/104400402534673669293/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSmkqTccAljWR0XFntU3_RDOy0d6huNqyqCT3SPvl-X7-R-w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Tôi dùng bữa ăn nhẹ buổi chiều tại quầy bar của nhà hàng Miss Q. Không gian quầy Bar rất đẹp, concept quán rất mới lạ. Tôi gọi một phần pizza margherita, thật sự rất hợp khẩu vị của tôi. Tại quầy bar tôi được trò chuyện với các bạn nhân viên rất đáng yêu là Hạ Vân và Sơn JB, hộ cũng phục vụ tôi vô cùng chu đáo. Một trải nghiệm tuyệt vời tại nhà hàng.",
+        "time": 1755484245,
+        "translated": false
+      },
+      {
+        "author_name": "Duong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102507622327558053480/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULL88AOWEue7QZEbtaCgaiHfg7qhVmQ99kXWaUMXuOzWhpDqdX9Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn ngon. Good vibe and good service. Bill hợp lý. Không gian đẹp, rộng. Mình đã ăn vài lần dù mỗi lần cách nhau vài tháng, nhưng lần nào cũng hài lòng",
+        "time": 1753541333,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1190
+  },
+  "harvested_at": "2026-04-28T16:28:37.188179"
+}

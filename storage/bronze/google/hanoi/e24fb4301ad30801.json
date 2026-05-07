@@ -1,0 +1,45 @@
+{
+  "u_key": "e24fb4301ad30801",
+  "original_osm_name": "Subin",
+  "google_raw": {
+    "formatted_phone_number": "0988 238 018",
+    "geometry": {
+      "location": {
+        "lat": 21.0630769,
+        "lng": 105.794207
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.06439123029151,
+          "lng": 105.7955502802915
+        },
+        "southwest": {
+          "lat": 21.0616932697085,
+          "lng": 105.7928523197085
+        }
+      }
+    },
+    "name": "Công ty cổ phần Subin Vina (SUBIN VINA JSC)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    }
+  },
+  "harvested_at": "2026-04-28T16:32:43.781538"
+}

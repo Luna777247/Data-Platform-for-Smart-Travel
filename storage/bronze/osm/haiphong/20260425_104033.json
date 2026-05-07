@@ -1,0 +1,249 @@
+[
+  {
+    "u_key": "80a9433b491bd50d",
+    "name": "Cat Ba National Park",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7944857,
+      "lon": 106.995403
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "b87ef3a3ffc33163",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7526269,
+      "lon": 106.6731448
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "ea8fc5bdf148d9fe",
+    "name": "công viên Kim Đồng",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8463134,
+      "lon": 106.6937359
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "ad2ed6e99c3b9d1c",
+    "name": "vườn hoa An Biên",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8457244,
+      "lon": 106.6952701
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "1079d4041e878514",
+    "name": "Quảng trường Thống nhất",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.9329623,
+      "lon": 106.3271796
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "cc4bfc38a777cbf3",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8445057,
+      "lon": 106.6761614
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "e2e25a74d22d12be",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8458679,
+      "lon": 106.6941853
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "ebe076a3a1746da9",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8461928,
+      "lon": 106.694167
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "196727d70a18af94",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.846112,
+      "lon": 106.6939192
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "f3cfc2fcb28e7a27",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8465425,
+      "lon": 106.6939577
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "db0aae45edcf3230",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8452066,
+      "lon": 106.6931976
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "68ff3aca934e7022",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8554136,
+      "lon": 106.6700239
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "2f10d0203f4f59ec",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.900061,
+      "lon": 106.6979156
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "acca4794339e0799",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8994195,
+      "lon": 106.6977949
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "c13ed8b7d2782575",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8989835,
+      "lon": 106.698047
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "35b8e669b4a56335",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8989735,
+      "lon": 106.6988624
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "4e87bfe75e095c31",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8987154,
+      "lon": 106.6979692
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "d629f0a82e652363",
+    "name": "Bông Kids",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.871242,
+      "lon": 106.1980558
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  },
+  {
+    "u_key": "faaa7a298877e011",
+    "name": "Sân Bóng PVA",
+    "type": "park",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.9449202,
+      "lon": 106.3354702
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:33.278954"
+  }
+]

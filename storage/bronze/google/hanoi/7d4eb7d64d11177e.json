@@ -1,0 +1,109 @@
+{
+  "u_key": "7d4eb7d64d11177e",
+  "original_osm_name": "Golden Rooster Hotel",
+  "google_raw": {
+    "formatted_phone_number": "0889 859 559",
+    "geometry": {
+      "location": {
+        "lat": 21.035923,
+        "lng": 105.8472619
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0372761802915,
+          "lng": 105.8485155302915
+        },
+        "southwest": {
+          "lat": 21.0345782197085,
+          "lng": 105.8458175697085
+        }
+      }
+    },
+    "name": "Golden Rooster Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "hlv mobile",
+        "author_url": "https://www.google.com/maps/contrib/107323669056674928117/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsHh63lskOwDrugrrzdXeIvcAv9EDPBQ9iUAADENVgCeZJl24=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Dịch vụ tốt, nhân viên thân thiện, đồ ăn sáng ngon có nhiều lựa chọn có cả menu gọi thêm đồ. So good!!",
+        "time": 1762950478,
+        "translated": false
+      },
+      {
+        "author_name": "trung hoàng",
+        "author_url": "https://www.google.com/maps/contrib/113567105782982004338/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeU55__K7EEGMGUnYkzt8cFDvXaOFj2He_UVOFiaaGXPSyUA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nhân viên rất nhiệt tình . phòng hơi nhỏ nhưng ở khu vực phố cổ thì điều đó là bình thường",
+        "time": 1762924335,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Ngọc Phóng - Gốm Sứ",
+        "author_url": "https://www.google.com/maps/contrib/109700771664424829679/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYFKt4r-6Js80Kbic8S7U0GiAHMdGIdSare_wBlnC_5GQCuA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "khách sạn đẹp, sạch sẽ, a e nhân viên lễ tân rất chu đáo nhiệt tình ! mặc dù khạch không ở đây, xin đi nhờ vệ sinh, nhưng không hề khó chịu, mà rất chu đáo và tận tâm !",
+        "time": 1754718346,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Như",
+        "author_url": "https://www.google.com/maps/contrib/100321175881569922182/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdqKuMUrtpqWYtEDK12cAcjHVCdnxuDde2XIDvqkJqapzMr4rf=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Mình và bạn của mình thực sự rất ưng đội ngũ nhân viên ở đây. Tất cả mọi người cực kì vui vẻ và trò chuyện cùng khách rất thoải mái. Lần sau quay lại mình sẽ ở đây tiếp. Rất tốt ! 💯💯💯",
+        "time": 1748930309,
+        "translated": false
+      },
+      {
+        "author_name": "Daisy",
+        "author_url": "https://www.google.com/maps/contrib/101769270022249978393/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIFOiPult-h1CnPCZlKe2bFifXQwae3ZdmrhqWOlU4wqz3vQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Khách sạn đầu tiên tôi cho vào blacklist ở Hà Nội.",
+        "time": 1762857755,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 901
+  },
+  "harvested_at": "2026-04-27T19:59:17.106845"
+}

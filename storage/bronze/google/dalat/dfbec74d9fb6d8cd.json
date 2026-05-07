@@ -1,0 +1,41 @@
+{
+  "u_key": "dfbec74d9fb6d8cd",
+  "original_osm_name": "Một Nhánh Thông",
+  "google_raw": {
+    "formatted_phone_number": "0931 422 480",
+    "geometry": {
+      "location": {
+        "lat": 11.9427166,
+        "lng": 108.4350877
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9441071802915,
+          "lng": 108.4364182802915
+        },
+        "southwest": {
+          "lat": 11.9414092197085,
+          "lng": 108.4337203197085
+        }
+      }
+    },
+    "name": "Quả Thông Nhỏ Homestay",
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Hai Nguyen Thanh",
+        "author_url": "https://www.google.com/maps/contrib/115919274213833429893/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVrmfsvgx3fi6igzzAnjnddxJcHYIiTuwoqcThP8R0-GIdCg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Đặt booking nhưng không thấy mở cửa hoạt động 22/12/23",
+        "time": 1703907071,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-30T15:09:43.287271"
+}

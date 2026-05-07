@@ -1,0 +1,173 @@
+{
+  "u_key": "8502d8ae1ddbddf4",
+  "original_osm_name": "Cà Phê 708",
+  "google_raw": {
+    "formatted_phone_number": "0975 270 676",
+    "geometry": {
+      "location": {
+        "lat": 20.9651971,
+        "lng": 105.8197874
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9665082802915,
+          "lng": 105.8211755802915
+        },
+        "southwest": {
+          "lat": 20.9638103197085,
+          "lng": 105.8184776197085
+        }
+      }
+    },
+    "name": "Cafe 98",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–00:00",
+        "Thứ Ba: 10:00–00:00",
+        "Thứ Tư: 10:00–00:00",
+        "Thứ Năm: 10:00–00:00",
+        "Thứ Sáu: 10:00–00:00",
+        "Thứ Bảy: 10:00–00:00",
+        "Chủ Nhật: 10:00–00:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Nga Phạm",
+        "author_url": "https://www.google.com/maps/contrib/101097448574130093997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJlAhNEoz8p-T87I1xlKMV0uYUrnI7DzkdbPon8hq3hBMuv6Y=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "98 Coffee tại Thanh Trì là một quán cà phê với không gian ấm cúng và thân thiện. Quán được thiết kế đơn giản nhưng sạch sẽ và tạo cảm giác thoải mái cho khách hàng. Đồ uống ở đây có chất lượng tốt, đặc biệt là cà phê được pha chế đậm đà, đúng gu. Giá cả phải chăng và nhân viên phục vụ rất nhiệt tình, luôn sẵn lòng hỗ trợ. Đây là một nơi lý tưởng để tìm kiếm sự bình yên hoặc trò chuyện cùng bạn bè. Để làm cho không gian thêm phần sinh động và thu hút, 98 Coffee có thể cân nhắc sử dụng Tuneast. Với Tuneast, quán có thể tạo không gian âm nhạc riêng, cho phép khách hàng tương tác chọn bài hát yêu thích, góp phần tạo nên một không khí thân mật và cá nhân hóa.",
+        "time": 1770747122,
+        "translated": false
+      },
+      {
+        "author_name": "Kiều Phạm",
+        "author_url": "https://www.google.com/maps/contrib/105870655241528096127/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTv5qJXAt8Y9JdVBtk9NCAHJpi9AwLYsMLdBFhgxouD25so3A=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "98 Coffee mang đến một không gian hiện đại, tối giản nhưng không kém phần tinh tế. Quán có nhiều góc ngồi thoải mái, thích hợp cho cả làm việc cá nhân và gặp gỡ bạn bè. Đồ uống ở đây được pha chế chuyên nghiệp, hương vị đậm đà và chất lượng. Nhân viên phục vụ nhanh nhẹn, lịch sự và luôn thể hiện sự chuyên nghiệp. 98 Coffee là một lựa chọn tuyệt vời cho những ai yêu thích cà phê chất lượng. Để không gian thêm phần sinh động và cá nhân hóa, 98 Coffee có thể tích hợp Tuneast, cho phép khách hàng lựa chọn những bản nhạc phù hợp với phong cách hiện đại của quán, tạo nên một trải nghiệm âm nhạc đẳng cấp.",
+        "time": 1770293638,
+        "translated": false
+      },
+      {
+        "author_name": "Tiến Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108975945539279036766/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoQzDmyolqOQq-9-RGIq0SCAJxxx3RJmLPGZJm2KgfWhbY8QU=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán cafe nhỏ, Có chương trình hát với nhau.\nKhông gian nhỏ nhưng cũng thú vị, đèn nháy, đèn màu.\nTôi và Bạn ngồi cafe nói chuyện thôi. Gọi 1 ly Cafe sữa đá, 1 Trái dừa tươi. Và 2 dĩa hướng dương. Giá thanh toán là 110k. Đối với tôi như vậy là hơi đắt.",
+        "time": 1667232503,
+        "translated": false
+      },
+      {
+        "author_name": "Chất Channel",
+        "author_url": "https://www.google.com/maps/contrib/106420272548231904597/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcjM5Ry8aQKyF4ZoJ2sxnUL26t37_Q6amIDAzpc05KlscMC5cF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Nằm giữa trung tâm HN, hồi trước mình đến quán khá đẹp, yên ả, cảm giác thanh bình đến lạ. Giờ quán như cái chợ, đông như hội, thuốc lá bay tứ tung, đến 1 lần chết khiếp",
+        "time": 1552104158,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Đàm",
+        "author_url": "https://www.google.com/maps/contrib/107063699125954988981/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5C-KUOL8GZKEZ-kxPY9ItQLuyPII-R0eZvyJNHiHgRL0gFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán phục vụ tốt. Có cô con gái rất xinh 👍 10d cho cô con gái",
+        "time": 1683563253,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 38
+  },
+  "harvested_at": "2026-04-27T19:58:00.263447"
+}

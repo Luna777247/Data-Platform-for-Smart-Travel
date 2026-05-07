@@ -1,0 +1,173 @@
+{
+  "u_key": "4e473a2d5f1eeaf7",
+  "original_osm_name": "Nhà Hàng Mì Vịt Tiềm A Cường",
+  "google_raw": {
+    "formatted_phone_number": "0904 693 209",
+    "geometry": {
+      "location": {
+        "lat": 21.0031002,
+        "lng": 105.8646189
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0043982302915,
+          "lng": 105.8659676802915
+        },
+        "southwest": {
+          "lat": 21.0017002697085,
+          "lng": 105.8632697197085
+        }
+      }
+    },
+    "name": "Tiệm mỳ A Cường",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:30",
+        "Thứ Ba: 07:00–22:30",
+        "Thứ Tư: 07:00–22:30",
+        "Thứ Năm: 07:00–22:30",
+        "Thứ Sáu: 07:00–22:30",
+        "Thứ Bảy: 07:00–22:30",
+        "Chủ Nhật: 07:00–22:30"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "C.K Mr",
+        "author_url": "https://www.google.com/maps/contrib/100101200281843426049/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh8cIyd-2NVtzl0tYVzXlpWnUIDRhFzyVS8d6LOrlFoNMvVQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mỳ vằn thắn rất đậm đà thơm đượm mùi vị tôm, mỳ vịt cũng ngon mình ăn 4 người húp hết sạch nước cả vịt quay cũng ngon ạ thịt mềm thơm chuẩn vị TQ .",
+        "time": 1770650258,
+        "translated": false
+      },
+      {
+        "author_name": "qi qi",
+        "author_url": "https://www.google.com/maps/contrib/111921536219868927787/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4920pX71fHLjBCbWGr6bHVeJ7LSsqH4WfP6ceUS0oOP7HhUECCA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "[MÌ A CƯỜNG - SỐ 148 LẠC TRUNG]\n\nỞ đây có rất nhiều loại mì từ mì vịt tiềm, vằn thắn, miến gà tần... Tô đầy đặn nhân thơm, há cảo chiên ngon lắm. Mà nước hơi đục ha\n\nGiá từ 35k-70k/tô. Bán cả ngày ạ.",
+        "time": 1667832762,
+        "translated": false
+      },
+      {
+        "author_name": "Duc Anh Duong",
+        "author_url": "https://www.google.com/maps/contrib/107960398872127395064/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhxgq-7UD9JqmF3cBrjDdkw85kkGcQtdqRBhqP8GZi_Gwma41j=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Món ăn phong phú, đa dạng, anh chủ quán thân thiện",
+        "time": 1765118559,
+        "translated": false
+      },
+      {
+        "author_name": "Chi chi",
+        "author_url": "https://www.google.com/maps/contrib/100176372134460729942/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN60EL_ntp_t0hUwc9sEJ7Ha5dHUoKCem5-SsiuJSdRR72mJe8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "5 tháng trước",
+        "text": "Hôm ghé quán tụi mình gọi 1 mỳ vịt tiềm đùi nhỏ và 1 mỳ gà tần. Đầu tiên là mỳ vịt tiềm nước dùng rất ngon, sợi mỳ dai nhưng vịt ăn hơi rời rạc nhưng tổng quan bát mỳ là vừa miệng. Còn bát mỳ gà tần thì rất thơm mùi thuốc bắc ngải cứu, rau ngải cứu ăn nhạt nhạt không đắng, nước mỳ thơm, ngọt rất ngon và gà thì cũng bình thường, sợi mỳ nhỏ dai dai và tổng quan thì bát mỳ gà tần cũng vẫn là ăn oklah.\n\nQuán tuy hơi cũ nhưng mình thấy món trình bày gọn gàng, sạch sẽ, với mình thì thế là đủ để quay lại tiếp thử các món mỳ khác hoặc là cứ mỳ vịt tiềm, gà tần mà choén thôi.\n\nĐánh giá: nước dùng ngon ngọt/ sợi mỳ dai mượt\n\nUpdate gần đây mình có qua quán thấy không khí, cách phục vụ và đồ ăn đều không còn như trc đặc biệt là đồ ăn, không rõ có gì thay đổi trong quán không nhưng từ lần đó mình chưa lấy lại được động lực quay lại quán",
+        "time": 1762529602,
+        "translated": false
+      },
+      {
+        "author_name": "Yến Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107607851668668499139/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXaQ63frTg4GgQBapbPxh0psRDqoQQ9Q_JeB1hQulNoDxxs2P8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán có hơi nhỏ chút nhưng sạch sẽ, thoáng mát. Mình gọi 1 mỳ vằn thắn trộn và 1 mỳ nước, ăn ngon và thơm nha 🤌",
+        "time": 1722485572,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23
+  },
+  "harvested_at": "2026-04-28T16:27:42.644384"
+}

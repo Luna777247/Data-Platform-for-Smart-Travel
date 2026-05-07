@@ -1,0 +1,1588 @@
+[
+  {
+    "u_key": "ced0bf0c1fd610e4",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8812927,
+      "lon": 108.3255955
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "582f81836a7eba4a",
+    "name": "Funtastic Danang Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.071774,
+      "lon": 108.214645
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "3d019ebcdd564eb7",
+    "name": "Nhà trọ Nguyễn Thị Nga",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đường Lưu Quang Vũ",
+    "location": {
+      "lat": 15.972693,
+      "lon": 108.2417865
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "8b1bd286b48df61c",
+    "name": "Nhà trọ Huỳnh Định",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9713255,
+      "lon": 108.2439001
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "3fdb2795c530abf9",
+    "name": "Nhà trọ Nguyễn Thị Minh",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9717087,
+      "lon": 108.2382033
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "5b14f40135b5ecb8",
+    "name": "Nhà trọ DƯơng Thị Tánh",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9671967,
+      "lon": 108.2382552
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "84713b0da4ac3f79",
+    "name": "Nhà trọ Tán Thanh Huyền",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9700413,
+      "lon": 108.2442529
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "0a426604ab277483",
+    "name": "Nhà trọ Hoàng Văn Sinh",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.970688,
+      "lon": 108.2440386
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "e339ea3f8b2bd417",
+    "name": "Nhà trọ Trần Văn Hiếu",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9766018,
+      "lon": 108.2496009
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "28eec0d424602bd0",
+    "name": "Nhà trọ Đinh Quốc Vương",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Thiện Tri",
+    "location": {
+      "lat": 15.9788648,
+      "lon": 108.2525834
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "661f0e391c05233c",
+    "name": "Nhà trọ Lê Đức Tín",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Thiện Trị",
+    "location": {
+      "lat": 15.9786338,
+      "lon": 108.251049
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "dff7b33b6db0397f",
+    "name": "Nhà trọ Tán Cảnh",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Thiện Trị",
+    "location": {
+      "lat": 15.9786456,
+      "lon": 108.2512708
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "638818cf20ca7f2f",
+    "name": "Nhà trọ Nguyễn Văn Sỹ",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Thiện Trị",
+    "location": {
+      "lat": 15.9786338,
+      "lon": 108.2516775
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "299564783fdd06ef",
+    "name": "Nhà trọ Trần Quân",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9764093,
+      "lon": 108.2493914
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "c31372e6fbd0316c",
+    "name": "Nhà trọ Mai Trúc Lâm",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9756184,
+      "lon": 108.2479094
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "bf0b2ddc7a5a0806",
+    "name": "Nhà trọ Nguyễn Quốc Dũng",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Minh Châu",
+    "location": {
+      "lat": 15.9790396,
+      "lon": 108.2541639
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "77c8cb241d11bff5",
+    "name": "Nhà trọ Phạm Ngọc Hải",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Minh Châu",
+    "location": {
+      "lat": 15.979241,
+      "lon": 108.2508611
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "a8277fffe9d746c0",
+    "name": "Nhà trọ Nguyễn Văn Hùng",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9679696,
+      "lon": 108.2380122
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "e32094dee08433f3",
+    "name": "Nhà trọ Trần Hùng Sang",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Thức Tự",
+    "location": {
+      "lat": 15.9803468,
+      "lon": 108.2521429
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "23eefb11f6018e4c",
+    "name": "Nhà trọ Hứa Diện",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Thức Tự",
+    "location": {
+      "lat": 15.9803496,
+      "lon": 108.2511639
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "57b74bd59db22e76",
+    "name": "Nhà trọ Trần Thái Phương",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nam Kỳ Khởi Nghĩa",
+    "location": {
+      "lat": 15.9782666,
+      "lon": 108.2521038
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "e3f5fea46029cb23",
+    "name": "Nhà trọ Ngô Đình Tú",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9759866,
+      "lon": 108.248505
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "8b540813aa2f3e7f",
+    "name": "Nhà trọ Nguyễn Long",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Minh Châu",
+    "location": {
+      "lat": 15.9787751,
+      "lon": 108.2542858
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "658f34787585610e",
+    "name": "Nhà trọ Trần Trọng Khiêm",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nam Kỳ Khởi Nghĩa",
+    "location": {
+      "lat": 15.9776686,
+      "lon": 108.2538819
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "5abb5a799bef3b55",
+    "name": "Nhà trọ Nguyễn Ngọc Linh",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9752877,
+      "lon": 108.2474964
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "da63a318cf95925e",
+    "name": "Nhà trọ Nguyễn Huy Vũ",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.975667,
+      "lon": 108.2476281
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "81ca8f4c65a73750",
+    "name": "Nhà trọ Phạm Nhật Tân",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9758881,
+      "lon": 108.2474617
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "4b2a3b338365dc09",
+    "name": "Nhà trọ Huỳnh Đinh Dũng",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9760015,
+      "lon": 108.2480471
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "574de4ba8064a513",
+    "name": "Nhà trọ Phan Thanh Huấn",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9763562,
+      "lon": 108.2479304
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "56164e67737a3ea6",
+    "name": "Nhà trọ Nguyễn Lê Việt",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9764429,
+      "lon": 108.2492395
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "3e26240444e76796",
+    "name": "Nhà trọ Nguyễn Thị Thu Hà",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Thiện Trị",
+    "location": {
+      "lat": 15.9785115,
+      "lon": 108.2525479
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "49a18d6a4856a958",
+    "name": "Nhà trọ Nguyễn Doãn Chính",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lưu Quang Vũ",
+    "location": {
+      "lat": 15.9761714,
+      "lon": 108.2489505
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6c92d3fc14d63aa3",
+    "name": "Thao Nguyen Phat Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Cửa Đại",
+    "location": {
+      "lat": 15.88816,
+      "lon": 108.352468
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6ed2dda7a099e19c",
+    "name": "Funtastic Beach Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0683414,
+      "lon": 108.2438326
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "2a1c77c1ef2defe5",
+    "name": "Petunia Garden Homestay & Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Cửa Đại",
+    "location": {
+      "lat": 15.884398,
+      "lon": 108.3476229
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "09fa20d1cbc0c3e1",
+    "name": "Danang Backpackers Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Chí Thanh",
+    "location": {
+      "lat": 16.0697636,
+      "lon": 108.2210638
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "2b1ecc95fbeeae79",
+    "name": "Little Leo Homestay and Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Văn Hưu",
+    "location": {
+      "lat": 15.888903,
+      "lon": 108.3243043
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "0fe126f9f724911f",
+    "name": "Tribee Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Bà Triệu",
+    "location": {
+      "lat": 15.8815028,
+      "lon": 108.3251065
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "a358b9d148fbcf34",
+    "name": "DK's hotel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Duy Hiệu",
+    "location": {
+      "lat": 15.8783565,
+      "lon": 108.3361936
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "73853f539d2b68a1",
+    "name": "Viva Villa Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8890638,
+      "lon": 108.3294052
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "129eb85f07bd725a",
+    "name": "Sac Lo Homestay and Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8809631,
+      "lon": 108.3469056
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "848882d48a75e6bc",
+    "name": "Royal Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Núi Thành",
+    "location": {
+      "lat": 15.892059,
+      "lon": 108.318505
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6f31f4e997a400cb",
+    "name": "1812 Boutique hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0694815,
+      "lon": 108.2424446
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "46aa8b70f6524bcd",
+    "name": "Sac Xanh HomeStay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Phạm Văn Đồng",
+    "location": {
+      "lat": 15.8890267,
+      "lon": 108.3219134
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "f779fdfff2a6751e",
+    "name": "Han Pho Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8851112,
+      "lon": 108.3493472
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "a5f1cfd8fcebd532",
+    "name": "Truong Son Tung 5",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0586832,
+      "lon": 108.2460005
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6151a82606b60747",
+    "name": "Paddy's Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Cửa Đại",
+    "location": {
+      "lat": 15.8924508,
+      "lon": 108.3609448
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "5ed9e534bd305df6",
+    "name": "Hung Do Beach Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.9144416,
+      "lon": 108.3355018
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "d88b84c6fd0eafac",
+    "name": "Vy's Seaside Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Ha My Beach",
+    "location": {
+      "lat": 15.9254658,
+      "lon": 108.3201855
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "3f9dfbfcfd64908d",
+    "name": "Seasun Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8972463,
+      "lon": 108.3630145
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "8d98c43dc4ea1420",
+    "name": "Green Valley Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lý Thường Kiệt",
+    "location": {
+      "lat": 15.881494,
+      "lon": 108.3383166
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "dc119610b81b1231",
+    "name": "Barney's Danang Backpacker's Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Trần Hưng Đạo",
+    "location": {
+      "lat": 16.0789241,
+      "lon": 108.2289649
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "5ada23034392ffb0",
+    "name": "Moc Vien homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lý Thái Tổ",
+    "location": {
+      "lat": 15.8818686,
+      "lon": 108.336256
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "27c716f977fb19fe",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.9000358,
+      "lon": 108.2428221
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "2f666120e26f951e",
+    "name": "The Hoi An Villa",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Quý Đôn",
+    "location": {
+      "lat": 15.8807794,
+      "lon": 108.3224831
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "86d2e01616f1c49f",
+    "name": "homstay heo đất32",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đào Cam Mộc",
+    "location": {
+      "lat": 16.0434346,
+      "lon": 108.212103
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "8c05b88f35e679dc",
+    "name": "Ha My Seaside Guesthouse",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.9252897,
+      "lon": 108.3202233
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "1991e2509d1b5214",
+    "name": "River House Homestay and Hostel - Correct Location",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Cẩm An, Hội An, Quang Nam, Vietnam",
+    "location": {
+      "lat": 15.9017462,
+      "lon": 108.3514272
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "5b62e1295c2c177f",
+    "name": "Dong Khanh",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8782635,
+      "lon": 108.3370416
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "a62ddf0d938b099c",
+    "name": "Hoi An Lazy Bear Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Tống Văn Sương",
+    "location": {
+      "lat": 15.8817097,
+      "lon": 108.3540793
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "30ca417d4f27e025",
+    "name": "Bookaholic",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0861573,
+      "lon": 108.2185184
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "0f193d4fac29f7dc",
+    "name": "Sunflower Hotel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8804216,
+      "lon": 108.3419501
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "4577e87e90cad66b",
+    "name": "Mad Monkey Hoi An",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8889211,
+      "lon": 108.3535087
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "4605d19ed7098856",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8787147,
+      "lon": 108.3465144
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "69c954f5186b35ed",
+    "name": "Daisy Garden Villa",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8782812,
+      "lon": 108.342796
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "d6c8fa27e189d61a",
+    "name": "Vietnam Backpackers",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8887507,
+      "lon": 108.3532466
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "51cbedc65982cab1",
+    "name": "Hachi Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0720991,
+      "lon": 108.2184383
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "f8d079e7e9b8a353",
+    "name": "Family Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8896635,
+      "lon": 108.3593325
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "a770128c3e6cee17",
+    "name": "basil homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Chí Thanh",
+    "location": {
+      "lat": 15.8934094,
+      "lon": 108.3151871
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "cd09d8a387bf4be0",
+    "name": "The Hoi An Hippie Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.9158622,
+      "lon": 108.3358572
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6dc80fb2f9b08fdc",
+    "name": "Homestay Ngo Khan",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.9328185,
+      "lon": 108.5275349
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "69c0fd1bd820055f",
+    "name": "Yellow House Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8769068,
+      "lon": 108.346107
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "1e92f3bb4a13331d",
+    "name": "City Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Yên Bái",
+    "location": {
+      "lat": 16.0655088,
+      "lon": 108.2223258
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "fb7a5ad150573046",
+    "name": "The Compass Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0678028,
+      "lon": 108.2424101
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "accc27e6e0db86b3",
+    "name": "ROLL hostel & pub",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Cao Bá Quát",
+    "location": {
+      "lat": 16.0634265,
+      "lon": 108.2305655
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "31e4ea8a9e042da6",
+    "name": "HaLo Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đường Hà Bổng",
+    "location": {
+      "lat": 16.0668988,
+      "lon": 108.2438296
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "fd1691122dc97508",
+    "name": "Homestay Hoang Thu",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đinh Tiên Hoàng",
+    "location": {
+      "lat": 15.8859754,
+      "lon": 108.3283172
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "f13bb83dd5e2abe3",
+    "name": "Otium hostel danang",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 16.0762739,
+      "lon": 108.2205138
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "88c7dd1cb9aaffb9",
+    "name": "Starfish Alley Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.046085,
+      "lon": 108.2469666
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "38a27afa1d3aa55f",
+    "name": "Skybird Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Cửa Đại",
+    "location": {
+      "lat": 15.8853113,
+      "lon": 108.3468891
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "4fde37d7b3ab9ff5",
+    "name": "Mr. Che backpackers",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.882015,
+      "lon": 108.3245828
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "3e64bf235aa3d043",
+    "name": "La COOL House Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "An Nhơn 6",
+    "location": {
+      "lat": 16.0687774,
+      "lon": 108.2358207
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "1f4425534c535cf5",
+    "name": "Ti Gôn Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Quý Đôn",
+    "location": {
+      "lat": 15.880788,
+      "lon": 108.322268
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "21981e5cdac4b3dc",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0744247,
+      "lon": 108.1553591
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "076168bcb31024ba",
+    "name": "Tribee Ede hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8823154,
+      "lon": 108.3244711
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "9439e22ce8fef0cc",
+    "name": "Stingray hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Nguyễn Văn Linh",
+    "location": {
+      "lat": 16.0608725,
+      "lon": 108.2216027
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "b959fc5b9911cb68",
+    "name": "City Hostel Danang",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Yên Bái",
+    "location": {
+      "lat": 16.0653434,
+      "lon": 108.2223565
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "679a00f358c68d6d",
+    "name": "4 Seasons Danang Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Châu Thị Vĩnh Tế",
+    "location": {
+      "lat": 16.050939,
+      "lon": 108.2404008
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "3578f0a9930962cd",
+    "name": "Loca Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0735966,
+      "lon": 108.2422569
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "b30e6b593a3b2e85",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0663575,
+      "lon": 108.2346817
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "d5bc839d91d8612d",
+    "name": "Green Balcony Hostel & Coffee",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Sương Nguyệt Ánh",
+    "location": {
+      "lat": 16.0683158,
+      "lon": 108.2404477
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6c5164c88d55f8fa",
+    "name": "Backhome Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Bà Triệu",
+    "location": {
+      "lat": 15.8822743,
+      "lon": 108.3245555
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "76b6934d8868b2dc",
+    "name": "Cucumber Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Thái Phiên",
+    "location": {
+      "lat": 15.8822165,
+      "lon": 108.3275061
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "8ad1a68e1b0ed50e",
+    "name": "Hoi An love.ly hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Thái Phiên",
+    "location": {
+      "lat": 15.8817856,
+      "lon": 108.3276866
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "53ac043011c9a7ec",
+    "name": "Leo Leo homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8812127,
+      "lon": 108.3261736
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "a331e89bb97c45a1",
+    "name": "Zari House",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0416686,
+      "lon": 108.2465989
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "4365905153233b1e",
+    "name": "Piercing -Permanent make up",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Thái Phiên",
+    "location": {
+      "lat": 15.8817001,
+      "lon": 108.32556
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "4420705b7c7d3f82",
+    "name": "Green Garden House",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 15.8827164,
+      "lon": 108.3253125
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6b25f104c05ff538",
+    "name": "Nha Chung Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Kiệt 81 Lương Thế Vinh",
+    "location": {
+      "lat": 16.0638036,
+      "lon": 108.2385305
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "097aa2691f17ca7d",
+    "name": "Tribee Ede",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8822117,
+      "lon": 108.324427
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "3772aea955fb299b",
+    "name": "Cheerful Hoi An Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8884578,
+      "lon": 108.3277127
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "cef393dc43ac3bcc",
+    "name": "Cococha Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8897833,
+      "lon": 108.3287094
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6586051f9887f123",
+    "name": "Nhà vui Happy Town Hoi an",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Trần Cao Vân",
+    "location": {
+      "lat": 15.8813339,
+      "lon": 108.3278573
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "0fd4b839e6db52f3",
+    "name": "Tamihouse",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Lê Thánh Tông",
+    "location": {
+      "lat": 15.888976,
+      "lon": 108.3461167
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "a63ae7963da77cbf",
+    "name": "My Little Pig Homestay",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đường An Nhơn 1",
+    "location": {
+      "lat": 16.0704986,
+      "lon": 108.233022
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "c5217413df8f5340",
+    "name": "Bed Station Hostel Hoi An",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8804969,
+      "lon": 108.3418696
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6f4ff97f896b5e70",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.9090741,
+      "lon": 108.3407185
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "7a09f992fc3628ca",
+    "name": "Rom Casa Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đường An Thượng 4",
+    "location": {
+      "lat": 16.0484407,
+      "lon": 108.2465963
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "1d75096f795419c2",
+    "name": "Bititi Dorm Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8792932,
+      "lon": 108.3386143
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "8ca58f71d9f4023f",
+    "name": "S Phuot",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0508459,
+      "lon": 108.2403965
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "a3388487d5f2fb6a",
+    "name": "The Imperfect Downtown Hoi An",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8752214,
+      "lon": 108.3252387
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "d80f35a6e7288f5a",
+    "name": "Fedora Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đường Điện Biên Phủ",
+    "location": {
+      "lat": 16.0663013,
+      "lon": 108.1939386
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "02b44ac6272e8d31",
+    "name": "Heliport Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8807044,
+      "lon": 108.3223891
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "f8c53f07618f5663",
+    "name": "IHome Hoi An",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8724045,
+      "lon": 108.3327593
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "dd41823a75bacdc8",
+    "name": "Kon-Tiki Hostel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "Đường Triệu Việt Vương",
+    "location": {
+      "lat": 16.0642477,
+      "lon": 108.2308224
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "82aa4a3cb75c27cd",
+    "name": "Tuti",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0597015,
+      "lon": 108.2387669
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "49c3a076564065f8",
+    "name": "Seahorse",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0678023,
+      "lon": 108.2246618
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "1bde10e090bf9929",
+    "name": "Secret garden",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0652794,
+      "lon": 108.2241673
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "1e96de92335ffd6a",
+    "name": "Capsule Hotel",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0723736,
+      "lon": 108.2399822
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "d292e86b4afaaa82",
+    "name": "Bear",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0629319,
+      "lon": 108.2435702
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "6fe6166ee0368f17",
+    "name": "B&M Apartment",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0504651,
+      "lon": 108.2468069
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  },
+  {
+    "u_key": "3bb3770462731591",
+    "name": "Peaceful",
+    "type": "hostel",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0530425,
+      "lon": 108.2457568
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:42.264466"
+  }
+]

@@ -1,0 +1,173 @@
+{
+  "u_key": "987f8cd847223455",
+  "original_osm_name": "Langfarm Buffet",
+  "google_raw": {
+    "formatted_phone_number": "0263 3510 520",
+    "geometry": {
+      "location": {
+        "lat": 11.9417807,
+        "lng": 108.4376196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9430986802915,
+          "lng": 108.4388981802915
+        },
+        "southwest": {
+          "lat": 11.9404007197085,
+          "lng": 108.4362002197085
+        }
+      }
+    },
+    "name": "Langfarm Buffet (Chợ Đêm)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–22:30",
+        "Thứ Ba: 07:30–22:30",
+        "Thứ Tư: 07:30–22:30",
+        "Thứ Năm: 07:30–22:30",
+        "Thứ Sáu: 07:30–22:30",
+        "Thứ Bảy: 07:30–22:30",
+        "Chủ Nhật: 07:30–22:30"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Bảo Trân",
+        "author_url": "https://www.google.com/maps/contrib/117001856558582499369/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw28_w2Dh1pwgqpCdl4xzBkeQmQdfTpm-uKW0NasDwi0KoWLfAdQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Tiệm dễ thương, nhân viên siu nhiệt tình. Nếu các bạn có dịp đến đà lạt nên ghé đây mua quà cho bạn bè. Ở đây đa dạng các sản phẩm đặc sản đà lạt, ủng hộ hàng Việt Nam 💖",
+        "time": 1767353677,
+        "translated": false
+      },
+      {
+        "author_name": "Trâm Đặng",
+        "author_url": "https://www.google.com/maps/contrib/117173274800463027461/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJe8gZ_djV2XYqzHwUuqeCcxQyHB_-5-SVGhut7nB8Vl6QDyw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn đa dạng, ngon. Lần nào lên Đà Lạt cũng ghé chỗ này mua đồ về làm quà",
+        "time": 1766806351,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106911875349459414813/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCBtGiIRPXnCGbNB03lLOAqsXKMz4m6zUjVCNBDXhKlWS8qHM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Khá ok với giá tiền, khách được trải nghiệm trước đồ uống và ăn đặc sản của hãng, kem ăn thoải mái. Ngồi trên tầng chill chill với cốc trà hoa cúc ấm, nói chung cũng đáng tiền",
+        "time": 1759032957,
+        "translated": false
+      },
+      {
+        "author_name": "Sao Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106551095953924405817/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwUYdOSyyAfKaT2Zzj9BoeYjKY7qiVTUgx5mv8ToTTOutq3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mặc dù đông khách nhưng nhân viên rất nhiệt tình, mình mua hàng vẫn hỗ trợ đóng thùng và cho thêm bịch về làm quà",
+        "time": 1767528330,
+        "translated": false
+      },
+      {
+        "author_name": "Trinh Lê",
+        "author_url": "https://www.google.com/maps/contrib/117605960930509269585/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGoTMEXktMVJmvZbpTdeiziSxYjPBc5dagsw-4zHwpGlOmr3w7=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Buffet khá đa dạng món ngọt. Bụng mình phải rỗng thì mới thử được hết toàn bộ món ở đây. Riêng kem đã có quá trời vị khác nhau rồi 🍨🍨🍨🍨🍨\nTrái cây sấy ngon lắm, bánh tráng nướng ăn nóng hổi cũng rất vừa miệng\nMún mau được đi ăn nữa ghê 😂",
+        "time": 1756557030,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1104
+  },
+  "harvested_at": "2026-04-30T15:11:27.866329"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "ebcbf526d9ccf9f2",
+  "original_osm_name": "Cửa Hàng Bánh Ngọt Paris Gateaux",
+  "google_raw": {
+    "formatted_phone_number": "024 3839 8931",
+    "geometry": {
+      "location": {
+        "lat": 21.0372695,
+        "lng": 105.8019332
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0385673302915,
+          "lng": 105.8031837802915
+        },
+        "southwest": {
+          "lat": 21.0358693697085,
+          "lng": 105.8004858197085
+        }
+      }
+    },
+    "name": "Paris Gâteaux Crown",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:30",
+        "Thứ Ba: 06:30–22:30",
+        "Thứ Tư: 06:30–22:30",
+        "Thứ Năm: 06:30–22:30",
+        "Thứ Sáu: 06:30–22:30",
+        "Thứ Bảy: 06:30–22:30",
+        "Chủ Nhật: 06:30–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "PSHT",
+        "author_url": "https://www.google.com/maps/contrib/114326599839941959711/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5dUDiHHL0QqnMfbKnrcfPJFJV1ELDoPv3TlDL_HMXSRbBel4=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bánh gato ngon nhưng mẫu mã không đa dạng và mới mẻ lắm. Mình mua bánh qua nhiều năm rồi nhưng vẫn chỉ là những cái bánh quen thuộc như cũ. Hôm mình đi mua bánh thì bạn nhân viên còn không biết bánh có nhiều cốt bánh hay nhiều kem bên trong.\n\nCác miếng bánh lẻ cũng vậy, ăn ngon nhưng không có đổi mới. Phù hợp ăn với gia đình có người lớn tuổi, thích lựa chọn an toàn.\n\nCửa hàng ở góc đường đông đúc nhưng bên trong nhìn cũ và tối tăm, chắc nhiều năm rồi không được đầu tư gì về cơ sở vật chất. Tủ bánh gato cũng không dễ cho khách nhìn bánh từ đằng trc. Phải đứng ngoài đường mới thấy rõ mặt bánh như thế nào.",
+        "time": 1771218069,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110456799199286601281/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoXNOt_jsAoeZTYJOEHPsu2ZQziDV_08P2uviiw9-C84RxH3cC=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Không gian và vị trí đẹp Quán thì vằng nhưng nhân viên thì ra đồ chậm (gần 30p). Oder cho khách không tập trung thực sự rất khó chịu với nhân viên nhận od lúc khoảng 17h ngày 14/9. Tụt mood đi ăn trà bánh cuối tuần vô cùng. Bánh thì cũng không có gì đặc sắc được cái trình bày ổn.",
+        "time": 1757867619,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Lan Chi Đặng",
+        "author_url": "https://www.google.com/maps/contrib/117068880145428456722/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwZ9YuqkgGFbjXZyGgzGHko4YgvfYcEYfufeev33rQSu88EsPU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "M vào mua bánh snh vì chưa ưng mẫu nào nên đợi hơi lâu, bạn nhân viên cứ kè kè và tỏ thái độ rất khó chịu. Bánh snh tiramisu ngon ko quá ngọt rõ vị cafe. Nhiều loại bánh và trà đa dạng.",
+        "time": 1758298650,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Mai Hạnh",
+        "author_url": "https://www.google.com/maps/contrib/105839899229865230668/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItl8-VwnpNPGidZ0jLD2hIoMOui4T1rLLG2PBoDTsSBJaOpJk=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhà mình đi làm gần đó nên lâu lâu ra ăn mà thật sự thất vọng. Mình ra buổi chiều, cửa hàng ko đông lắm, đặt bánh và nước mà nhân viên chỉ mang nước mà quên mang bánh. Mình phải nhắc thì mấy bạn ở quầy mới nhìn nhau rồi lấy bánh mang ra, trong khi bánh sẵn trong tủ chỉ việc lấy ra mà các bạn ko chịu lấy mà đứng buôn!?!? Đồ ăn cũng không quá xuất sắc, nhân viên phục vụ chậm và thái độ không tốt. Sẽ ko bao giờ quay lại.",
+        "time": 1770808039,
+        "translated": false
+      },
+      {
+        "author_name": "Cindy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108475096493017639840/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3NpOq1MWUH5gFtaQaYoXMPJaN2ffOQA9iLB3SkjrtZYw2I0qa=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Gọi trà sữa trân châu đường đen có thạch mà nhân viên cho bằng cốc uống cafe+ống hút cafe thì uống kiểu j or ăn thạch kiểu j nhỉ",
+        "time": 1763860970,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 437
+  },
+  "harvested_at": "2026-04-28T16:23:22.234263"
+}

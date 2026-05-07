@@ -1,0 +1,174 @@
+{
+  "u_key": "162668a1c4fa65d1",
+  "original_osm_name": "Xua Nay",
+  "google_raw": {
+    "formatted_phone_number": "0263 3541 589",
+    "geometry": {
+      "location": {
+        "lat": 11.9362177,
+        "lng": 108.4273623
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9375167302915,
+          "lng": 108.4287102302915
+        },
+        "southwest": {
+          "lat": 11.9348187697085,
+          "lng": 108.4260122697085
+        }
+      }
+    },
+    "name": "Nhà hàng Xưa & Nay",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Nguyên Phạm",
+        "author_url": "https://www.google.com/maps/contrib/102788557830343818341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlnfjQbz4Yk9eZmIQvcfvL0na6wJblk0Psc9WjIVFoCmG4Byo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "buffe cơm trưa chỉ có 55k, món ăn đa dạng, sạch sẻ, nhân viên nhiệt tình",
+        "time": 1763370286,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Xuan",
+        "author_url": "https://www.google.com/maps/contrib/107148310315179017659/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRbK3RGqtmGlhucRH8x-58WYTPKHujpzcAlPl5j9c6DwbvETX-=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Vi trí dễ tìm không gian quán cũng rộng rãi. Có phòng riêng.\nMenu quán da dạng nhiều món, ca nhan minh thay mấy món dê ngon nha. Phục vụ món lên nhanh. Thích hợp đi gia đình 🏠",
+        "time": 1705143149,
+        "translated": false
+      },
+      {
+        "author_name": "Hà My Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104732238948312818125/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQk02LfsER523bVmMQM5zt1qS7c1NpID4x_Z1mSfEJSUIi85wX=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán bún bò thố đá có không gian rộng rãi thoáng mát. Đậu xe thoải mái. Bún bò được nấu trong thố đá nên giữ nóng rất lâu. Nước lèo đậm vị, thêm chút ớt cay nồng. Nóng và cay kết hợp với khí hậu mát mẻ ở Đà Lạt ăn rất hợp.",
+        "time": 1686279839,
+        "translated": false
+      },
+      {
+        "author_name": "Raptor Tài",
+        "author_url": "https://www.google.com/maps/contrib/117258446003506409188/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKl9wQxLduKrDcIi7j5kJHy3Ypw9YBjOuUauS1lskLKsS1bEy3Sg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Thấy bình luận ngon lắm . Ghé ăn thấy bình thường thôi ( bún bò thố) . Còn các món khác chưa ăn. Quán rộng rãi , sạch sẻ, nhân viên nhiệt tình chu đáo.",
+        "time": 1687847336,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Tam",
+        "author_url": "https://www.google.com/maps/contrib/112750436430619171356/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsuih9KpyqnWkYuYqrTE4gMNXKGNec7B7DbZsRUu7mskrxJA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đây là Nhà hàng nên nhiều bạn chưa biết có món BÚN BÒ.\nBún bò Thố Đá ăn với không khí lạnh ĐÀ LẠT là tuyệt vời.\nCombo đặc biệt 80k với giò nạc, đuôi bò, nạm, tuỷ, giò heo, nước lèo đậm đà lắm.\nĂn 1 tô như ăn nồi lẩu mini vậy á. Nhắc lại vẫn thèm.",
+        "time": 1676100803,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 728
+  },
+  "harvested_at": "2026-04-29T13:37:25.098290"
+}

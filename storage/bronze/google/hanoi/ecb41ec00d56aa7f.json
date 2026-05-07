@@ -1,0 +1,85 @@
+{
+  "u_key": "ecb41ec00d56aa7f",
+  "original_osm_name": "Nhà Nghỉ Hải Thành",
+  "google_raw": {
+    "formatted_phone_number": "024 3384 9629",
+    "geometry": {
+      "location": {
+        "lat": 20.6097132,
+        "lng": 105.7804866
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.6110512802915,
+          "lng": 105.7818196302915
+        },
+        "southwest": {
+          "lat": 20.60835331970849,
+          "lng": 105.7791216697085
+        }
+      }
+    },
+    "name": "Nhà Nghỉ Thành Hải",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Tuấn Vũ Phạm",
+        "author_url": "https://www.google.com/maps/contrib/104826904332614686916/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrxz0TEuUI3Juc93kRCiGQ5YRJMk7clZUBkW-dzOLhzUPfiXwg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Sạch sẽ,  rộng rãi,  thoáng mát.  Có điều hoà,  quạt trần,  nóng lạnh,  wifi,  truyền hình cáp tốt",
+        "time": 1566525152,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Nam Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105788607685190568035/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7hb8XC638VVFNSVe6mVVJ4nmRKnxU6MKP_ruSQ_6SUk8IjnXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Sang Trọng đẳng cấp",
+        "time": 1738840905,
+        "translated": false
+      },
+      {
+        "author_name": "Lêu Hihi",
+        "author_url": "https://www.google.com/maps/contrib/104386057295678802656/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnu47lcMKCKV4s6SDquXkQ1s2jsFINK7WqfgIfHpuqFDywWUec=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Được rồi",
+        "time": 1589107983,
+        "translated": true
+      },
+      {
+        "author_name": "Bùi Huyền Linh",
+        "author_url": "https://www.google.com/maps/contrib/106688548540545512845/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKksKkfU10XzWcaIrbwBYjtnPl2_ecBb2jv00vwqhyV91OfUQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1738841884,
+        "translated": false
+      },
+      {
+        "author_name": "Trung NQ",
+        "author_url": "https://www.google.com/maps/contrib/101020836012846463324/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwUeiymdVci4ScshWrWOa7apZPK7SWi2RYQxgyAUMC8zWxqQNa=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "",
+        "time": 1622564603,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-04-28T16:08:34.448897"
+}

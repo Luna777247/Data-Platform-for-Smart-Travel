@@ -1,0 +1,173 @@
+{
+  "u_key": "0954e8357d3d7b62",
+  "original_osm_name": "Quan restaurant 20",
+  "google_raw": {
+    "formatted_phone_number": "0914 143 558",
+    "geometry": {
+      "location": {
+        "lat": 12.2434298,
+        "lng": 109.1945646
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2447786302915,
+          "lng": 109.1959648302915
+        },
+        "southwest": {
+          "lat": 12.2420806697085,
+          "lng": 109.1932668697085
+        }
+      }
+    },
+    "name": "Nhà Hàng 20 Trần Hưng Đạo",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:00",
+        "Thứ Ba: 09:00–23:00",
+        "Thứ Tư: 09:00–23:00",
+        "Thứ Năm: 09:00–23:00",
+        "Thứ Sáu: 09:00–23:00",
+        "Thứ Bảy: 09:00–23:00",
+        "Chủ Nhật: 09:00–23:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "TUÂN ANH",
+        "author_url": "https://www.google.com/maps/contrib/115737194364560337263/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNf0selcdzNFPvaK9qcNtnZRC8mNnrCVmSopKi0t5gUnFBGA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Tính tiền kê số lượng bia và nước ngọt không đúng , đợi bắt kiểm tra lại mới trừ tiền.",
+        "time": 1767099382,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107203402892293534665/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnPm6eKIl_N_wZ0oERWhO4Mkl0eApS4wfoTQdpkSNiS49asQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Tôi tình cờ tìm thấy quán này khá gần khách sạn nên đến ăn tối. Nhìn qua, quán khá thô sơ, đơn giản, hơi cảm thấy lo ngại về chất lượng đồ ăn và dịch vụ.\nNhưng ông chủ tư vấn rất nhiệt tình, hợp lý, đồ ăn lên siêu nhanh. Mình định order tôm nướng, sau nghe ông chủ quán tư vấn nên chọn tôm hấp. Thực sự rất tươi ngon luôn. Món sườn nướng cũng thơm, mềm. Các món khác đều Ok. Giá cả hợp lý. Thực sự rất recommend mọi người quán này nhé.",
+        "time": 1743517032,
+        "translated": false
+      },
+      {
+        "author_name": "Munu",
+        "author_url": "https://www.google.com/maps/contrib/118427039814157106028/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5Fl0ZdBtnbcek8v8Gr_uY7ndPW0ZoyAaTEVYZsN1DtT9_HSs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "Quán bán ở sân khách sạn, ngồi sân nhiều muỗi đốt lắm nha, gọi món xong chờ khá lâu mới có 1 món.\nRất tiếc là mình đến muộn chỉ gọi 2 món mà cả 2vc cùng bị ngộ độc đến giờ vẫn sợ 🥲",
+        "time": 1743397316,
+        "translated": false
+      },
+      {
+        "author_name": "Camera Thiên Mã",
+        "author_url": "https://www.google.com/maps/contrib/118441955800552963588/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMvYEwjDMKBaC7Zs0gUzggXmwe8H41fhKhk0OX4b3TFvEbZ2k=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "10 tháng trước",
+        "text": "Thức ăn tạm đươc, vị trí thì quá vip, giá cả quá  rẻ so với vị trí sát biển, tuy nhiên vệ sinh kém, ly cầm lên hôi qua hôi, đổi 3 lần mới được ly tạm xài được",
+        "time": 1749288196,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Hùng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107896888919017879942/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQ8xVxCPtiJ6PDixAbzXz9b1vVNnXOlNqqhodevTaYEb4-LqUb=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "món ăn tươi ngon, giá bình dân\nnghe Nha Trang ăn k ngon, mắc, lo quá\ncảm ơn ông chú xe ôm chỉ chỗ này",
+        "time": 1747312469,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 479
+  },
+  "harvested_at": "2026-05-02T15:39:31.991696"
+}

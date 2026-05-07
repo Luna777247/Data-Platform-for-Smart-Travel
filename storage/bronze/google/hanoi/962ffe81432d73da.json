@@ -1,0 +1,173 @@
+{
+  "u_key": "962ffe81432d73da",
+  "original_osm_name": "Madam Yen Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0948 889 496",
+    "geometry": {
+      "location": {
+        "lat": 20.8676208,
+        "lng": 105.8583425
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8689756802915,
+          "lng": 105.8597340802915
+        },
+        "southwest": {
+          "lat": 20.8662777197085,
+          "lng": 105.8570361197085
+        }
+      }
+    },
+    "name": "Madam yến",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1423"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1423"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1423"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1423"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1423"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1423"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1423"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–14:23",
+        "Thứ Ba: 08:30–14:23",
+        "Thứ Tư: 08:30–14:23",
+        "Thứ Năm: 08:30–14:23",
+        "Thứ Sáu: 08:30–14:23",
+        "Thứ Bảy: 08:30–14:23",
+        "Chủ Nhật: 08:30–14:23"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "My Từ hà",
+        "author_url": "https://www.google.com/maps/contrib/102547101625312867380/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAsJNyBVpIDNnigbMwx5J0Uwyv2NhBKfYpESRTIjVmuclfMg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Ăn ở đây nhiều lần và thấy chất lượng tốt. Dù phải chờ đồ ăn lâu nhưng món ăn đẹp mắt, ổn, ngon",
+        "time": 1690209328,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Le",
+        "author_url": "https://www.google.com/maps/contrib/107036722318469336338/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfVQHQ8pfohPaO6j_zF8l612VZvuAgWCz3mZaIWKEs1osMiw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ko ngon. Đắt. Cơm thố 49k được 1 ít thịt băm và 1 quả trứng ốp",
+        "time": 1759396240,
+        "translated": false
+      },
+      {
+        "author_name": "Thùy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108604018108215586859/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLm7k3K0CafjoT-rk7MQMg_iKbvmBtyxFv0Sw4qEZhC72zSYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn quá tệ nv thì thái độ ,cạch quán này",
+        "time": 1766021685,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114064877231790596753/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8wMYa2wrdGn_HgBg0oCUEW175FgVkO1ego0JMdRNoBUzP=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Đồ ăn ngon , nhân viên nhiệt tình chu đáo",
+        "time": 1747872848,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Thùy",
+        "author_url": "https://www.google.com/maps/contrib/118124683973841850111/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUXjtoNCZg50gEGnRlhekKwAX5SHP54ESsLeQiRrrEHsYhopg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Trải nghiệm quá kém không có lần sau",
+        "time": 1765978779,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 18
+  },
+  "harvested_at": "2026-04-28T16:16:31.169398"
+}

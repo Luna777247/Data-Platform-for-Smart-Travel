@@ -1,0 +1,88 @@
+{
+  "u_key": "b5f530642d99a616",
+  "original_osm_name": "Khách Sạn Hanoi Gecko 2",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0334415,
+        "lng": 105.85236
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03480173029151,
+          "lng": 105.8537100802915
+        },
+        "southwest": {
+          "lat": 21.0321037697085,
+          "lng": 105.8510121197085
+        }
+      }
+    },
+    "name": "Hanoi Gecko Hotel",
+    "rating": 3.2,
+    "reviews": [
+      {
+        "author_name": "Trung Hieu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107933096977549971406/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXgZeadZSbO2ZG0iK6CspJ4gb4fZvl7b-E_7kCcx_8l_ON8ZOz=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Khách sạn nằm trong phố cổ, vị trí ngay phố tạ hiện và đinh liệt, phòng sạch sẽ, có thang máy, chủ nhà rất nhiệt tình và thân thiện. Bước xuống ngay dưới khách sạn bạn có thể tìm tới quán Ốc hay chè cực ngon.",
+        "time": 1571323986,
+        "translated": false
+      },
+      {
+        "author_name": "Trợ Nông Hà Nội",
+        "author_url": "https://www.google.com/maps/contrib/107804629811768023449/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkKMCLGLijbjQfqo0sOmtvwLb_J-wlf-Hl18dD96DbRR7lBw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Khách sạn cho khách du lịch, sạch đẹp, nội thất có đầu tư chiều sâu. Kiến trúc nhà cổ.\nThang máy hay trục trặc, trong phòng có tivi nhưng lại không có truyền hình cáp, chẳng sử dụng được",
+        "time": 1537985997,
+        "translated": false
+      },
+      {
+        "author_name": "huy dang viet",
+        "author_url": "https://www.google.com/maps/contrib/101377858096432597248/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8UczbvhFCgT8YWKTQPsFdEvTnqkDlHuSXoKYAgy6Lx7U-qw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "phòng ốc sạch đẹp. giá cả phải chăng . vị trí tốt. có ấm siêu tốc có mùi mốc",
+        "time": 1553407359,
+        "translated": false
+      },
+      {
+        "author_name": "Hiep Victor",
+        "author_url": "https://www.google.com/maps/contrib/112037899640478602159/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkWJGCPEE9jYeEVvDfkip5NaNNts_b62sLkK4UlTYJ9WF-VvxC=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Vị trí trung tâm, dễ tìm, giá cả hợp lý nhưng phòng khá cũ kỹ",
+        "time": 1519376547,
+        "translated": false
+      },
+      {
+        "author_name": "NGỌC DUNG",
+        "author_url": "https://www.google.com/maps/contrib/109081061044096592137/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXA-992ZLyQq_A2-wCysa-t5JEliCDSwcy1iDkZ2O0c52rGJJi=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Chất lượng phục vụ tốt , phòng đẹp, giá rẻ",
+        "time": 1578384533,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 40
+  },
+  "harvested_at": "2026-04-27T19:58:48.289067"
+}

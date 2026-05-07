@@ -1,96 +1,131 @@
+﻿"""
+Smart Travel Pipeline DAG — Dynamic city-based pipelines.
+Creates a separate DAG per city: Bronze → Silver → Gold.
+"""
+from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.utils.dates import days_ago
-from datetime import timedelta
-import os
+import asyncio
 import sys
+import os
 
-# Đảm bảo Airflow có thể import các module từ src
-sys.path.append('/opt/airflow/plugins')
+# Ensure Airflow can import src modules
+sys.path.insert(0, "/opt/airflow")
+sys.path.insert(0, "/opt/airflow/src")
 
-def fetch_data_task(source, **kwargs):
-    # Lấy city từ config của run, fallback về hanoi
-    conf = kwargs.get('dag_run').conf or {}
-    city = conf.get('city', 'hanoi')
-    
-    print(f"🚀 Fetching {source} data for {city}...")
-    from src.ingestion.bronze_writer import BronzeWriter
-    writer = BronzeWriter()
-    
-    sample_data = [{"name": f"Place {source} {city}", "lat": 21.0, "lon": 105.0}]
-    file_path = writer.write_raw(source, city, sample_data)
-    return file_path
-
-def process_silver_task(**kwargs):
-    conf = kwargs.get('dag_run').conf or {}
-    city = conf.get('city', 'hanoi')
-    
-    print(f"🧹 Processing Silver for {city}...")
-    from src.ingestion.silver_processor import SilverProcessor
-    processor = SilverProcessor()
-    
-    processor.process_osm_to_silver(city)
-    processor.merge_and_finalize(city)
-    return f"Silver processed for {city}"
-
-def load_gold_task(**kwargs):
-    conf = kwargs.get('dag_run').conf or {}
-    city = conf.get('city', 'hanoi')
-    
-    print(f"🏆 Loading Gold for {city}...")
-    import asyncio
-    from src.serving.gold_server import GoldServer
-    from app.db.client import MongoClient
-    
-    async def run_load():
-        await MongoClient.connect()
-        server = GoldServer()
-        await server.load_city_to_gold(city)
-        await MongoClient.disconnect()
-        
-    asyncio.run(run_load())
-    return f"Gold loaded for {city}"
-
-# Định nghĩa DAG
 default_args = {
-    'owner': 'smart_travel',
-    'depends_on_past': False,
-    'email_on_failure': False,
-    'email_on_retry': False,
-    'retries': 1,
-    'retry_delay': timedelta(minutes=5),
+    "owner": "smart-travel",
+    "depends_on_past": False,
+    "start_date": days_ago(1),
+    "email_on_failure": False,
+    "email_on_retry": False,
+    "retries": 2,
+    "retry_delay": timedelta(minutes=5),
 }
 
-with DAG(
-    'smart_travel_ingestion_v2',
-    default_args=default_args,
-    description='Configurable Smart Travel Data Pipeline',
-    schedule_interval=None, # Tắt schedule để chạy Manual/API call
-    start_date=days_ago(1),
-    catchup=False,
-    tags=['production', 'travel'],
-) as dag:
 
-    t1 = PythonOperator(
-        task_id='fetch_osm',
-        python_callable=fetch_data_task,
-        op_kwargs={'source': 'osm'},
+def create_city_dag(city: str) -> DAG:
+    dag = DAG(
+        f"smart_travel_{city}",
+        default_args=default_args,
+        description=f"Data pipeline for {city}",
+        schedule_interval="@daily",
+        catchup=False,
+        max_active_runs=1,
+        tags=["smart-travel", city],
     )
 
-    t2 = PythonOperator(
-        task_id='fetch_google',
-        python_callable=fetch_data_task,
-        op_kwargs={'source': 'google'},
+    # ── BRONZE ──────────────────────────────────────────
+    def bronze_osm_task(**context):
+        from src.collectors.osm_collector import OSMCollector
+        from src.transformers.bronze_processor import BronzeProcessor
+        from src.shared.db_client import get_mongo_client
+
+        collector = OSMCollector(city)
+        places = asyncio.run(collector.collect())
+
+        mongo_client = get_mongo_client()
+        processor = BronzeProcessor(mongo_client)
+        inserted_count = asyncio.run(processor.process(places))
+
+        context["ti"].xcom_push(key="bronze_osm_count", value=inserted_count)
+        print(f"Inserted {inserted_count} OSM places for {city}")
+
+    def bronze_google_task(**context):
+        from src.collectors.google_enricher import GoogleEnricher
+        from src.transformers.bronze_processor import BronzeProcessor
+        from src.shared.db_client import get_mongo_client
+        from airflow.models import Variable
+
+        api_key = Variable.get("google_places_api_key", default_var="mock_api_key")
+
+        enricher = GoogleEnricher(city, api_key)
+        places = asyncio.run(enricher.enrich())
+
+        mongo_client = get_mongo_client()
+        processor = BronzeProcessor(mongo_client)
+        inserted_count = asyncio.run(processor.process(places))
+
+        context["ti"].xcom_push(key="bronze_google_count", value=inserted_count)
+        print(f"Inserted {inserted_count} Google places for {city}")
+
+    # ── SILVER ──────────────────────────────────────────
+    def silver_task(**context):
+        from src.transformers.silver_processor import SilverTransformer
+        from src.shared.db_client import get_mongo_client
+
+        mongo_client = get_mongo_client()
+        processor = SilverTransformer(mongo_client)
+        processed_count = asyncio.run(processor.process(city))
+
+        context["ti"].xcom_push(key="silver_count", value=processed_count)
+        print(f"Processed {processed_count} silver places for {city}")
+
+    # ── GOLD ────────────────────────────────────────────
+    def gold_task(**context):
+        from src.transformers.gold_processor import GoldProcessor
+        from src.shared.db_client import get_mongo_client
+
+        mongo_client = get_mongo_client()
+        processor = GoldProcessor(mongo_client)
+        processed_count = asyncio.run(processor.process(city))
+
+        context["ti"].xcom_push(key="gold_count", value=processed_count)
+        print(f"Processed {processed_count} gold places for {city}")
+
+    # Define tasks
+    bronze_osm = PythonOperator(
+        task_id="bronze_osm",
+        python_callable=bronze_osm_task,
+        dag=dag,
     )
 
-    t3 = PythonOperator(
-        task_id='silver_processing',
-        python_callable=process_silver_task,
+    bronze_google = PythonOperator(
+        task_id="bronze_google",
+        python_callable=bronze_google_task,
+        dag=dag,
     )
 
-    t4 = PythonOperator(
-        task_id='gold_loading',
-        python_callable=load_gold_task,
+    silver = PythonOperator(
+        task_id="silver",
+        python_callable=silver_task,
+        dag=dag,
     )
 
-    [t1, t2] >> t3 >> t4
+    gold = PythonOperator(
+        task_id="gold",
+        python_callable=gold_task,
+        dag=dag,
+    )
+
+    # Dependencies: Bronze (parallel) → Silver → Gold
+    [bronze_osm, bronze_google] >> silver >> gold
+
+    return dag
+
+
+# Create DAGs for each city
+cities = ["hanoi", "hcm", "danang"]
+for _city in cities:
+    globals()[f"smart_travel_{_city}"] = create_city_dag(_city)

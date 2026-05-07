@@ -1,0 +1,173 @@
+{
+  "u_key": "cc3d97cc1967bba7",
+  "original_osm_name": "Cửa Hàng Bánh Tôm Hồ Tây",
+  "google_raw": {
+    "formatted_phone_number": "024 3829 3737",
+    "geometry": {
+      "location": {
+        "lat": 21.0474188,
+        "lng": 105.8376998
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0488683802915,
+          "lng": 105.8389407302915
+        },
+        "southwest": {
+          "lat": 21.0461704197085,
+          "lng": 105.8362427697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Bánh Tôm Hồ Tây",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:00",
+        "Thứ Ba: 09:00–21:00",
+        "Thứ Tư: 09:00–21:00",
+        "Thứ Năm: 09:00–21:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–21:00",
+        "Chủ Nhật: 09:00–21:00"
+      ]
+    },
+    "rating": 2.3,
+    "reviews": [
+      {
+        "author_name": "Linh Ngô",
+        "author_url": "https://www.google.com/maps/contrib/115782692026584693583/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjOtPbfOuarE4CxZzGWKP5mHmKosMmr60Ji1nrOkT6jNO6ct4=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Hương vị bánh tôm ở đây vẫn giữ được nét đặc trưng lâu năm, vỏ bánh chiên khéo, giòn tan mà không bị ngấy dầu, rau sống ăn kèm rất sạch sẽ. Không gian nhà hàng rộng rãi, view nhìn thẳng ra Hồ Tây lộng gió rất tuyệt vời. Tuy nhiên, mức giá hiện tại có phần hơi cao so với mặt bằng chung và khi khách đông ồn ào thì không gian hơi bớt đi sự thư giãn. Xứng đáng 4 sao cho chất lượng món ăn và vị trí.",
+        "time": 1771832043,
+        "translated": false
+      },
+      {
+        "author_name": "Trịnh Thu Thuy",
+        "author_url": "https://www.google.com/maps/contrib/107249507197968617621/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpCvL8lrXnh3Rc16oIYjYhtHxE2S8XSBJJ-zK3DzQydjfEN4I=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhân viên toàn bà già khó tính hách dịch, bán hàng mà như bố người ta. Hóa đơn còn thêm 15k phục vụ mà phục vụ thì không thể ngửi được. Mì xào và ba chỉ rang cũng rất khó ăn",
+        "time": 1772869801,
+        "translated": false
+      },
+      {
+        "author_name": "Trí Nguyên",
+        "author_url": "https://www.google.com/maps/contrib/106148613675616327484/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_01oVUfjuui9Vg_PITgtFVrl26Hq5D8X1tz4YUt0cFiFKgiii=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đi 1 vòng chùa Trấn Quốc mỏi chân, đói bụng, vừa ra đến cửa là nghe dậy mùi bánh tôm Hồ Tây bên kia đường. Bí quyết bán hàng chỉ có thế. Thức ăn thì bình thường khá dở, nhiều dầu mỡ. Được cái view hồ Trúc Bạch mát mẻ dễ chịu.",
+        "time": 1771659570,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Tiến",
+        "author_url": "https://www.google.com/maps/contrib/100947845638869149425/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkPJX9g41bcMfddcgao9932EdMzNdpXV_H6xKmcOhzcCFppN8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bánh tôm là món chính nên chỉ tập trung món này. Tôm rán giòn, hơi nhiều bột, vừa khẩu vị. Phục vụ chủ yếu là các cô chú lớn tuổi nên chắc khó hợp với các bạn trẻ thích đóng vai thượng đế. Thái độ phục vụ dễ chịu, vừa phải không thái quá, 2 chú bảo vệ xin đường cho xe ra vào khá chu đáo. Giá có vẻ cao hơn mặt bằng các quán khác nhưng bù lại được địa điểm thoáng, view đẹp dễ tìm kiếm. Lưu ý cửa hàng chỉ nhận thanh toán tiền mặt, nếu chuyển khoản phải thêm 8% và xe ô tô có thu phí đỗ 30k.",
+        "time": 1767523249,
+        "translated": false
+      },
+      {
+        "author_name": "Noob",
+        "author_url": "https://www.google.com/maps/contrib/105590826788015442962/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFIZPAx-C_OtiirI-vBY06XQahujaVV_hh5brAfcRJ2HpPdzE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "mở dịp tết, khá đông khách, không gian sân tương đối rộng, có bày trí để khách chụp ảnh, ghi nhân là nhà hàng đã rất cố gắng, nhưng, đồ ăn bình thường, có thể nói là khá nhạt nhẽo, do quá đông nên chất lượng phục vụ thấp, chờ rất lâu, từ đồ ăn cho đến bếp lẩu, vung nồi thì bàn có bàn không,  lúc hỏi thì các chị phục vụ nói khá là lớn tiếng và cũng không mấy nhiệt tình, nhà vệ sinh bẩn, chắc do quá đông, chung quy lại là lâu, không ngon, phong cách và thái độ phục vụ cần cải thiện",
+        "time": 1771913864,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1331
+  },
+  "harvested_at": "2026-04-28T16:33:21.110743"
+}

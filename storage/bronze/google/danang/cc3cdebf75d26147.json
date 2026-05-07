@@ -1,0 +1,173 @@
+{
+  "u_key": "cc3cdebf75d26147",
+  "original_osm_name": "quán nhậu lộc viên",
+  "google_raw": {
+    "formatted_phone_number": "0963 995 585",
+    "geometry": {
+      "location": {
+        "lat": 16.037181,
+        "lng": 108.237704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0385163302915,
+          "lng": 108.2389830302915
+        },
+        "southwest": {
+          "lat": 16.0358183697085,
+          "lng": 108.2362850697085
+        }
+      }
+    },
+    "name": "Rực Rỡ Beer - Quán Nhậu Chill Đà Nẵng",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 15:00–03:00",
+        "Thứ Ba: 15:00–03:00",
+        "Thứ Tư: 15:00–03:00",
+        "Thứ Năm: 15:00–03:00",
+        "Thứ Sáu: 15:00–03:00",
+        "Thứ Bảy: 15:00–03:00",
+        "Chủ Nhật: 15:00–03:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Mun Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109568497662867302470/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJy30toudDqwLFp2nYnR2xRxRfF08rqlDre5Jo9uLyithLOA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Món ngon hợp vị,giá bình dân,có trang trí sinh nhật dế thương dù đặt bàn gấp nhưng vẫn hỗ trợ deco giúp",
+        "time": 1771764986,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/109363347713087692077/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9WPSoLpHcV68S3Vd-7wngnqkJiNC3rkD17OZbmndD8y10bOY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ngồi thoáng mát, đồ ăn ngon nha. Giá cả cũng hợp lý. Chỗ để xe rộng rãi. Quán có bán trên app. Mn nên ghé nha.",
+        "time": 1771938706,
+        "translated": false
+      },
+      {
+        "author_name": "thuy nghiem",
+        "author_url": "https://www.google.com/maps/contrib/111332441046034518636/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU90vfQQ0go26axi75eiW3ThVzsV2IcRPv6pgIHKg-LX3ZmmVZU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon. Nhân viên nhiệt tình, dễ thương",
+        "time": 1766240152,
+        "translated": false
+      },
+      {
+        "author_name": "Diễm Hồ",
+        "author_url": "https://www.google.com/maps/contrib/107593515114251334880/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbCFej0ytmcz_qL-OOmR8n1F4dTmgHNVWnRiIHK73LSg2gDC8L=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "đồ ăn ngon . nhân viên nhiệt tình nên ghé quán để thử",
+        "time": 1764340125,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Q Tú",
+        "author_url": "https://www.google.com/maps/contrib/101014094947071717797/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUgpaJ3VUuexhd-7vPV8NUlZC67Hd8dlZirhDJA5x2VxkF2A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian thoải mái,các bạn nhân viên rất nhiệt tình, đánh giá quán 5 sao nhé.😍😍😍",
+        "time": 1764556167,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 246
+  },
+  "harvested_at": "2026-04-29T09:55:00.599274"
+}

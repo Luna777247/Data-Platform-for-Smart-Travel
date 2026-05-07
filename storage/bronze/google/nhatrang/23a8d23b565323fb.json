@@ -1,0 +1,163 @@
+{
+  "u_key": "23a8d23b565323fb",
+  "original_osm_name": "Nha Trang Seafoods",
+  "google_raw": {
+    "formatted_phone_number": "0258 3831 033",
+    "geometry": {
+      "location": {
+        "lat": 12.2785185,
+        "lng": 109.1957421
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2798866802915,
+          "lng": 109.1971218802915
+        },
+        "southwest": {
+          "lat": 12.2771887197085,
+          "lng": 109.1944239197085
+        }
+      }
+    },
+    "name": "NHA TRANG SEAFOODS",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–18:00",
+        "Thứ Ba: 08:00–18:00",
+        "Thứ Tư: 08:00–18:00",
+        "Thứ Năm: 08:00–18:00",
+        "Thứ Sáu: 08:00–18:00",
+        "Thứ Bảy: 08:00–18:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Lộc Cao",
+        "author_url": "https://www.google.com/maps/contrib/113318836253386406711/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOfKPc0VbyPHorv5h5EnVcPjS0uwpFU0Bgbx9POMuUgR-cAQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ko liên lạc được qua số điện thoại",
+        "time": 1764835805,
+        "translated": false
+      },
+      {
+        "author_name": "Ý Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113902288955288229497/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7f11V7sXgICaDYaMfMDQG0lTIDupUgqG5I6-SjbKpO0E6YoBh7Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Kế toán công ty nhân phẩm không tốt",
+        "time": 1736573615,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Trần",
+        "author_url": "https://www.google.com/maps/contrib/114493006756327782881/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeRN_uqJqwWrKpkRT9DkAukV6nK200YrghAhW2tQLWNX4rq7EN=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 năm trước",
+        "text": "Cho hỏi văn phòng công ty làm buổi chiều đến mấy h vậy ta",
+        "time": 1623648714,
+        "translated": false
+      },
+      {
+        "author_name": "thành thanh nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104624612411146233473/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJPiHUVAr3x91HRGythoz3GFVMdb9DpJNWb2I7UrilJWtGzQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cty còn tuyển công nhân ko ạ",
+        "time": 1701062283,
+        "translated": false
+      },
+      {
+        "author_name": "Hoà Phạm",
+        "author_url": "https://www.google.com/maps/contrib/102523163719246891318/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH1hWcrI6Kz0R9Kr9xWHELWUp6bGfMNMjyiuEkr44xdUz1CxSDbQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Phục vụ tận tình chu đáo",
+        "time": 1566265080,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 22
+  },
+  "harvested_at": "2026-05-02T15:15:04.102997"
+}

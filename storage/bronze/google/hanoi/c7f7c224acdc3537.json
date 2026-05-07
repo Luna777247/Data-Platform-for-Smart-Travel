@@ -1,0 +1,172 @@
+{
+  "u_key": "c7f7c224acdc3537",
+  "original_osm_name": "Cà Phê J'Adore",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0337785,
+        "lng": 105.8485054
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0351597802915,
+          "lng": 105.8498507802915
+        },
+        "southwest": {
+          "lat": 21.0324618197085,
+          "lng": 105.8471528197085
+        }
+      }
+    },
+    "name": "J’adore Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–21:30",
+        "Thứ Ba: 07:30–21:30",
+        "Thứ Tư: 07:30–21:30",
+        "Thứ Năm: 07:30–21:30",
+        "Thứ Sáu: 07:30–21:30",
+        "Thứ Bảy: 07:30–21:30",
+        "Chủ Nhật: 07:30–21:30"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Ngo Diep",
+        "author_url": "https://www.google.com/maps/contrib/116018353437141232118/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGBSDiGMjTrEMjTN4wUHPi1vC_vmNOoVvPP1VCXzCcZllHhfdS=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Thật thích thú khi được trải nghiệm vừa uống cafe vừa được thưởng thức các bức tranh nghệ thuật. Các bạn có thể tự do tham quan các bức tranh nghệ thuật ở đây, tầng 1 thì khá rộng còn tầng 2 thì sẽ bé hơn chút nhưng với các bạn thích hội hoạ và tranh ảnh thì có thể tới đây để trải nghiệm nha. Quán cafe thì ở bên ngoài chỉ có một vài bàn để ngồi thôi, hôm đó thì mình có gọi trà hoa hồng và cafe thì thấy cafe cũng khá thơm trà thì thơm nhưng mà vị thì hơi nhạt nhé.",
+        "time": 1760633797,
+        "translated": false
+      },
+      {
+        "author_name": "idb dbi",
+        "author_url": "https://www.google.com/maps/contrib/116503306405221058964/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKq09h46RoIzMCN4E2va1ueqoDY2yFjJ1KIYLzJrTy22oJlwA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Sự hiện diện của nhóm bạn làm việc trong cửa hàng gây ra sự xáo trộn",
+        "time": 1749691089,
+        "translated": false
+      },
+      {
+        "author_name": "Martin Hall",
+        "author_url": "https://www.google.com/maps/contrib/107239869043097198580/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIeUNytJ4PvQDBatTGy13odXnv65q1qtxOHHZC6LNWfNWgbhA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tôi không hiểu sao một trong những bài đánh giá lại nói cà phê cực kỳ đắt đỏ.\nLà người nước ngoài, tôi thấy cà phê Việt Nam quá đậm, và họ pha một ly cappuccino rất ngon với giá 50.000 đô la, tức là 1,89 đô la.\nTôi muốn giới thiệu nơi này vì cà phê ☕️ rất ngon, và tôi cũng đã từng đến đây nên thấy khá yên tĩnh.\nNgười đánh giá trước có thể có vấn đề về thái độ.",
+        "time": 1757042235,
+        "translated": true
+      },
+      {
+        "author_name": "傅鈺華",
+        "author_url": "https://www.google.com/maps/contrib/108622927292381570574/reviews",
+        "language": "vi",
+        "original_language": "zh-Hant",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8ssDbTvaBONVBBoT2ZzvfADftqFXQ7q8M4e4lsVImKZiIFHxo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Nhóm chúng tôi gọi tổng cộng bảy loại đồ uống, và tất cả đều rất ngon và đáng để thử.\n\nCà phê trứng ở đây mịn hơn so với ở quán gốc.\n\nTôi chọn trà sen, rất độc đáo và ngon.",
+        "time": 1752471466,
+        "translated": true
+      },
+      {
+        "author_name": "Foox",
+        "author_url": "https://www.google.com/maps/contrib/113408182152051365498/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKezEHeiyWVf_3If_-YtRU04oDgupJPj9hi3HJA499g-avhb-f=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "cà phê cực kỳ đắt đỏ, không có tiền thừa cho những tờ tiền lớn. không cho chúng tôi đỗ xe máy bên ngoài trong 15 phút để đi bộ qua đường đến cửa hàng khác",
+        "time": 1745121268,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 14
+  },
+  "harvested_at": "2026-04-26T16:52:38.499173"
+}

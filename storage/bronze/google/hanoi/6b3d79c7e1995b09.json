@@ -1,0 +1,174 @@
+{
+  "u_key": "6b3d79c7e1995b09",
+  "original_osm_name": "Cửa Hàng Bún Chả Hương Liên",
+  "google_raw": {
+    "formatted_phone_number": "024 3943 4106",
+    "geometry": {
+      "location": {
+        "lat": 21.0181373,
+        "lng": 105.8538926
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0193610802915,
+          "lng": 105.8552521802915
+        },
+        "southwest": {
+          "lat": 21.0166631197085,
+          "lng": 105.8525542197085
+        }
+      }
+    },
+    "name": "Bún chả Hương Liên",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–20:00",
+        "Thứ Ba: 08:00–20:00",
+        "Thứ Tư: 08:00–20:00",
+        "Thứ Năm: 08:00–20:00",
+        "Thứ Sáu: 08:00–20:00",
+        "Thứ Bảy: 08:00–20:00",
+        "Chủ Nhật: 08:00–20:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "My Cherry",
+        "author_url": "https://www.google.com/maps/contrib/105591294587634621583/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfchkRAgGl0BsMhzR514O_6ppuH_PcnCJgMHlCwAcsjD7z6GI7=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán đã nổi tiếng rất lâu rồi nhưng không hề cải thiện thêm về chất lượng phục vụ, cũng như vệ sinh.\nSàn nhà, cầu thang rất trơn và thiếu sự lau dọn. Bàn ăn cũng không được lau kỹ. Món ăn thì phải chờ lâu, nem và thịt đều không được nóng và thiếu hương vị\nKhách du lịch khá đông, chắc quán hướng tới tệp khách du lịch là chính nên mới thiếu để ý như vậy.\nĐã lâu mới dẫn khách tới quán ăn mà thấy khá buồn về chất lượng. Mong quán cải thiệt tốt hơn",
+        "time": 1772549925,
+        "translated": false
+      },
+      {
+        "author_name": "My Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101389617128924557837/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5L8Csh9qPdWOYigV8nXn6TjcsW-gcx8L124tW47mphsLi33pkig=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Vị trí dễ tìm, đồ ăn ngon hợp với mình. Quán nhiều chỗ nên ko sợ thiếu chỗ. Đa số khách nước ngoài vào ăn nhiều. Từng được TT Obama ăn nên tiệm có đóng khung cái bàn đó ở trên lầu.",
+        "time": 1767612988,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Châu Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104092147975595549850/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZxas-CJ4uwhrGVv9WdLmrP_jAyYQ1Ef9PMo2pTdB-Ins65rI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Sống ở Hà Nội nhưng đây là lần đầu mình ăn bún chả ở đây , vị cũng giống những quán mình từng ăn , bún và thịt nướng ngon , nước chấm cũng oki . Nhưng điều đặc biệt nhất là dịch vụ ở đây cực kì tốt , mình đến lúc quán cực kì đông ( giờ cao điểm là buổi trưa ) nhưng các cô phục vụ rất nice , nhiệt tình và thân thiện , luôn nở nụ cười . Trước giờ vào quán đông mình sợ nhất là service kém chứ ko phải đồ ăn , nhưng đồ ăn ra rất nhanh , khách mình không ăn dc đũa nên mình nhờ lấy dĩa , nhưng các cô ko vấn đề gì cả.\nDù sao mọi người đến Hà Nội cũng nên thử nha , quán ngon lắm , đặc biệt là sẽ có trải nghiệm như ngài Obama nhé !!!\n- To tourists , welcome to Hanoi , Vietnam and I highly recommend for you Bun Cha Huong Lien ( maybe when you say\"Bun Cha Huong Lien\" some people still don't know , but u just need say \" Bun Cha Obama\" - I make sure everyone know that ) . This is the popular restaurant about Bun Cha in Hanoi , good sauce , pork and noodles pretty nice . Moreover , service really friendly , extra-caring and always have smile in their face . Although the restaurant so crowd but don't worry , you don't need to wait for a long time !! Come to Hanoi and eat food as a president ",
+        "time": 1764939517,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Nguyễn Thị Kim",
+        "author_url": "https://www.google.com/maps/contrib/112568213417538698170/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8YaLPA5kcaeem-S34VPhkfNJQC97pXyohw1wuKTxiMVBATW9E=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bún chả thơm, đầy đặn, vừa ăn\nBún nhiều\nNem hải sản ú ụ\nQuán to\nMình ăn tận tầng 4 cơ\nCó thang máy nhưng chỉ dành cho người già và trẻ em\nKhách nước ngoài ăn đông nha\nBàn to nha, mình ăn 7 người là đủ 1 bàn dài",
+        "time": 1768285212,
+        "translated": false
+      },
+      {
+        "author_name": "Thao NGUYEN",
+        "author_url": "https://www.google.com/maps/contrib/107617957961400894879/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA-TzMwf4mGknAXd4UYWyKQODA-robA_Oe4OVF8BJ5HXFlfWKs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đánh giá chung: Bún chả ngon, đáng thử; tuy nhiên, trải nghiệm dịch vụ và cơ sở vật chất cần được cải thiện nghiêm trọng.\n✅ Điểm Cộng: Món Ăn\n* Bún Chả: Hương vị được nêm nếm đậm đà, chuẩn vị bún chả Hà Nội. Thịt chả (cả chả băm và chả miếng) được nướng thơm lừng, chín tới và không bị khô.\n❌ Điểm Trừ: Dịch Vụ và Cơ Sở Vật Chất\n1. Bãi Đỗ Xe và Thu Phí\n* Trải nghiệm ban đầu rất khó chịu: Vừa chạy xe máy đến, đã có người thu phí giữ xe 10.000 VNĐ và đòi lấy tiền ngay lập tức, ngay cả khi chưa kịp tháo mũ bảo hiểm. Việc này tạo cảm giác vội vã và kém thân thiện ngay từ khi khách bước chân đến quán.\n2. Không Gian và An Toàn\n* Quán nhỏ hẹp và đông đúc: Không gian bên trong khá chật chội, tạo cảm giác bức bối.\n* Vấn đề an toàn nghiêm trọng: Khách được yêu cầu lên lầu trong khi khu vực cầu thang và sàn nhà lát gạch trơn, tiềm ẩn nguy cơ té ngã, đặc biệt nguy hiểm cho người già hoặc người gặp khó khăn khi di chuyển.\n3. Thái Độ Nhân Viên và Phục Vụ\n* Thái độ hời hợt, thiếu hỗ trợ: Tôi gặp khó khăn khi lên lầu và đã hỏi nhân viên hướng dẫn chỗ ngồi phù hợp (có thể ngồi tầng trệt), nhưng nhân viên đã hoàn toàn lơ đi, không trả lời hoặc hướng dẫn.\n* Thái độ khó chịu khi gọi món: Khi chúng tôi (2 người) gọi 1 suất bún chả và 1 suất nem cua bể để ăn thử, nhân viên phục vụ đã tỏ thái độ khó chịu và lập lại câu hỏi một cách gắt gỏng: \"Thế 2 người ăn 1 suất à?\" (Ngụ ý ép khách phải gọi thêm).\n📝 Kết Luận:\nThực sự, nếu không có \"cái mác\" nổi tiếng (Quán Obama), quán sẽ rất khó cạnh tranh về mặt trải nghiệm khách hàng. Món ăn tuy ngon nhưng không quá đặc sắc đến mức chấp nhận được những thái độ phục vụ bực bội và thiếu chuyên nghiệp như vậy.\nLời khuyên: Khách du lịch có thể đến trải nghiệm hương vị bún chả một lần, nhưng nên chuẩn bị tinh thần cho một trải nghiệm dịch vụ không mấy vui vẻ.",
+        "time": 1765099224,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 12015
+  },
+  "harvested_at": "2026-04-28T16:14:07.514763"
+}

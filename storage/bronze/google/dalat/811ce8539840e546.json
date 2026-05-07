@@ -1,0 +1,172 @@
+{
+  "u_key": "811ce8539840e546",
+  "original_osm_name": "Senso Cafe",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9442103,
+        "lng": 108.4342998
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9455850302915,
+          "lng": 108.4356998802915
+        },
+        "southwest": {
+          "lat": 11.9428870697085,
+          "lng": 108.4330019197085
+        }
+      }
+    },
+    "name": "Senso cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–22:00",
+        "Thứ Ba: 07:30–22:00",
+        "Thứ Tư: 07:30–22:00",
+        "Thứ Năm: 07:30–22:00",
+        "Thứ Sáu: 07:30–22:00",
+        "Thứ Bảy: 07:30–22:00",
+        "Chủ Nhật: 07:30–22:00"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Nhi Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103834871327959126598/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJc_7P0tJCJ_o4j_wci0juC0vIr6Csh6QcV4nl4Lbci0edTPuv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán bé xinh có không gian rất dễ chịu. Từng góc đều được chăm chút tỉ mỉ, rất hợp để làm việc hay trò chuyện cùng bạn bè.\n\nMình gọi matcha cold whisk vị đậm vừa phải, thơm béo và không bị ngọt gắt – đúng gu mình. Quán còn kèm thêm một chiếc bánh quy nhỏ xinh cũng rất ngon.\n\nNhân viên thân thiện, phục vụ nhanh và nhẹ nhàng. Nếu bạn đang tìm một quán cà phê yên tĩnh, có gu và không khí đậm chất “ Đà Lạt “ thì rất đáng ghé thử.",
+        "time": 1762532491,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Ngọc Anh Thư",
+        "author_url": "https://www.google.com/maps/contrib/113714519013151255247/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4aeFmSGO9QwWmQygLopBLzQtNOI0q6Rmdkw0fBUHIbBvfjxk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình chạy dạo quanh khu Hoà Bình thì vô tình thấy ở đây. Mình ghé vào uống nước vì thấy vibe kiểu lowkey, có gu và yên tĩnh. Quán bên trong ấm cúng và decor đẹp. Giá nước mình nhớ tầm 50-60k thì phải, nước rất ngon nè. Có thể ngồi chill tâm sự lâu với bạn bè, mình thích không gian yên tĩnh giữa lòng thành phố đang nhộn nhịp giống vậy. Mà về nhà lên maps mới biết là có thuê phòng nữa, lần tới có lên Đà Lạt mình sẽ ghé ở thử.",
+        "time": 1761438376,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Ngoc Thuy Nhi K2694",
+        "author_url": "https://www.google.com/maps/contrib/105218595637418100867/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9JlHLcWpAa2BxV2J2yPsoDRKdR1GbNrub1xWLlpzROqWXcQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "cá nhân mình rất thích vibe của senso ngay từ lần đầu đến, không khí và cách trang trí của quán tạo cảm giác rất bình yên, thích hợp là nơi healing sau một ngày bộn bề 🍃 các món nước ngon và quán rất tích cực tiếp nhận những lời góp ý mình đưa ra. mong quán sẽ được nhiều người biết hơn nữa nhenn",
+        "time": 1762532090,
+        "translated": false
+      },
+      {
+        "author_name": "Hương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106887867491792176314/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6UXIAxv7i9s4ip4e37szLzhJNCOaZNY-zV5f9myORnIDtvg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Nhân viên thân thiện dễ thương, chụp hình cho khách rất đẹp, riêng nước thì ấn tượng với cacao và no5 rất ngon và lạ miệng. Mình đi công tác 5 ngày ở ks gần đây và ngày nào cũng ghé ăn uống. Không gian tối giản và thoáng, đánh giá 5 sao và sẽ quay lại.",
+        "time": 1752996972,
+        "translated": false
+      },
+      {
+        "author_name": "LÊ ĐẶNG VĨNH TÂM",
+        "author_url": "https://www.google.com/maps/contrib/114098798781232880919/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfv89Gd0nBtIYi6tkzjzWsnSgT1LHAmPm9nrfpkiEtI6ucSLc0=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Senso cafe Đà Lạt cho mình uống cà phê gián như thế nào\n\nMình vừa ghé tiệm này, 9h sáng 30/06/25.\n\nGọi 1 cold brew, bên này đựng sẵn trong chai CÓ NẮP đậy sẵn, lúc mở ra rót vào ly thì nguyên một em gián trưởng thành trong chai.\n\nNhân viên không có phương án giải quyết dù mình đã gợi ý liên hệ với quản lý/chủ.\n\nTrải nghiệm nhớ đờiii",
+        "time": 1751253433,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 147
+  },
+  "harvested_at": "2026-04-30T15:07:52.375846"
+}

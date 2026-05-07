@@ -1,0 +1,173 @@
+{
+  "u_key": "d588db97c19497c7",
+  "original_osm_name": "Happy Lunch - have the hot pot",
+  "google_raw": {
+    "formatted_phone_number": "024 3918 6633",
+    "geometry": {
+      "location": {
+        "lat": 21.023691,
+        "lng": 105.8090086
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0248675302915,
+          "lng": 105.8102176302915
+        },
+        "southwest": {
+          "lat": 21.0221695697085,
+          "lng": 105.8075196697085
+        }
+      }
+    },
+    "name": "Haidilao Nguyễn Chí Thanh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–03:00",
+        "Thứ Ba: 10:00–03:00",
+        "Thứ Tư: 10:00–03:00",
+        "Thứ Năm: 10:00–03:00",
+        "Thứ Sáu: 10:00–03:00",
+        "Thứ Bảy: 10:00–03:00",
+        "Chủ Nhật: 10:00–03:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Peachy",
+        "author_url": "https://www.google.com/maps/contrib/108260682015972538118/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJaUKYyN2EQjGj6swQ9rs2RNQkd6G9rHbPW1C__57FoNkHRsAaPg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhân viên siêu chu đáo, mình đi ăn 1 mình mà không cần động tay làm gì hết lun, bạn nhân viên nam hôm nay take care mình (mình không\nbiết tên) nhiệt tình, cẩn thận lắm lắm, nói chuyện nhỏ nhẹ dễ thương nữa.\nLần trước đi ăn thì được các bạn nữ take care, bạn nào cũng đáng iu xinh xắn, cười đẹp nữa chứ 🥰🥰 Mình rất ưng service ở đây ạ, cảm ơn Haidilao đã cho mình trải nghiệm tuyệt zời 🥰🥰",
+        "time": 1772021448,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Le",
+        "author_url": "https://www.google.com/maps/contrib/100303014402630614488/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2iWVt4KLXBn_v4BXWYFqDgKxXJvWRcs77oMsjtMV8Gv_8L73p=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thực sự sau khi phải trải nghiệm xếp hàng lấy bàn ở Haidilao Vincom Phạm Ngọc Thạch thì Haidilao ở Vin Nguyễn Chí Thanh thực sự rất rất tuyệt vời. Không đông khách nên được phục vụ rất nhanh, tận tâm, tất cả các bạn bồi đều rất nhiệt tình và lịch sự. Ko cần phải nhắc hay hỏi bất cứ 1 câu nào hết. Mình ko hiểu tại sao mọi người không ra đây ăn hơn thay vì ăn ở Vin PNT. Chất lượng đồ ăn ở Haidilao thì luôn rất rất tốt, cơ sở này ko có điểm nào chê hết!",
+        "time": 1771355557,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh Anh",
+        "author_url": "https://www.google.com/maps/contrib/108250897700507887341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWF4tz1nALE4tsr-6NW2VJ3N5pLSknUILdw44D_XUTw0Xo-uJo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn chủ yếu là thịt bò và hải sản (tôm, mực, bạch tuộc). Đặc trưng là quầy pha nước chấm với nhiều loại gia vị. Nước lẩu đa dạng. Hôm nay mình ăn lẩu Thái thì bị chua quá nên hơi nhanh ngấy, lẩu xương, bò Quý Châu,...dễ ăn hơn vì nước lẩu nhạt, dễ thêm gia vị tuỳ ý\n\nKhông gian rộng rãi, trưa cuối tuần đi vẫn yên tĩnh và không bị đông. Nhân viên rất nhiệt tình.",
+        "time": 1762011158,
+        "translated": false
+      },
+      {
+        "author_name": "Thiện Vũ Chí (ChikoPlus)",
+        "author_url": "https://www.google.com/maps/contrib/116504991098607005156/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdaMAytKMnI7hWYn5aqpq1YZaLa5J0fqDL8b7-bO5-b5und5ed=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Chỉ là hơi lòng vòng để lên đến nơi chứ mọi thứ đều rất ok. Haidilao ở đây cho phép đặt bàn trước nên có người đến sớm giữ chỗ, không đặt trước chắc chờ lâu mới có chỗ cho nhóm >5 người. Ra khỏi thang máy tầng 6 là có người đón tận tình đến bàn. Mà có nhiều người Trung chắc là quản lý, hỏi họ không hiểu liền gọi nhân viên người Việt ra hỗ trợ liền, nhanh nhẹn thật đấy. Đồ ăn Haidilao thì khá ok so với mức giá rồi, khá nhiều món + dịch vụ để order, cứ chọn trên ipad thôi, bọn mình gọi múa mì. Nước chấm có đủ gia vị để tự chế, chè, hoa quả, kem, sữa Yakult thoải mái, tự ra lấy. Lẩu 4 ngăn, có 1 ngăn khá cay nồng nên dùng thìa, muôi riêng, tránh để sang ngăn khác. Mấy món thịt 10s nhưng mà cảm giác thả lâu hơn mới ổn ấy. Nhắc lại về nhân viên là rất tận tình, bất kể hỏi ai, gọi gì cũng ra rất nhanh, đừng ngại hỏi điều gì. Nhà vệ sinh sạch sẽ, 3 loại nước rửa tay lifebuoy ai dùng rồi sẽ biết tác dụng mỗi loại nhưng lần đầu sẽ mất chút thời gian vì cái đèn nó soi xuống đất phía trước NVS nam/nữ. Thanh toán có mã giảm giá là nhân viên nhiệt tình hướng dẫn. Đi đúng dịp 25/12 nên có ông già noel tặng kẹo mút ấy. Đi ăn lẩu đông đông mà ăn ngon, thoải mái thì Haidilao khá ok rồi, chi phí chỉ cao hơn bình thường chút thôi.",
+        "time": 1767150178,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Chi Lưu",
+        "author_url": "https://www.google.com/maps/contrib/110131469622329339886/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3tWMsHGHhIG6j-tD9farP-g1UALfkvqs9VdwimVXB78uBzZOL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn siêu ngon, các bạn nhân viên rất nhiệt tình, chương trình nghệ thuật rất thú vị. 10 điểm  😊😊",
+        "time": 1772288670,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5011
+  },
+  "harvested_at": "2026-04-28T16:24:12.954146"
+}

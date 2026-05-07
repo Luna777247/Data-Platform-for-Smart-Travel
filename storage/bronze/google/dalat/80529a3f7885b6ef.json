@@ -1,0 +1,172 @@
+{
+  "u_key": "80529a3f7885b6ef",
+  "original_osm_name": "Nice park area",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9582632,
+        "lng": 108.4744012
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9596371302915,
+          "lng": 108.4760559802915
+        },
+        "southwest": {
+          "lat": 11.9569391697085,
+          "lng": 108.4733580197085
+        }
+      }
+    },
+    "name": "Delight Park Dalat",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Tram Quach",
+        "author_url": "https://www.google.com/maps/contrib/114111281189397821298/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY7SNYe5iFPksmJozgnyp4y5kMnzmQul6EURqiEdhDEehANKKU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cả nhà đi tối mùng 2,giá tham quan bồng lai là 300 hay 350k gì mình quên rồi,vì đi trễ nên ko muốn coi show bên kia hồ,show kia có bắn pháo hoa,mà lúc vô hên sao coi chung được luôn.\nHôm mình đi nhân viên ít,hơi đợi lâu,sắp xếp lặp cặp, nhưng nv vẫn cố gắng vui vẻ. Phải đi chung đoàn và có guide vì show kiểu 1 câu truyện,có khu  chiếu lazer nên cẩn thận kẻo hư máy ảnh,mình né sau cột để quay nên ko sao.\nCó trẻ nhỏ lội bộ trong rừng hơi mệt nha, đi tầm 1h hơn, mua vé xe điện 10k người nhớ giữ luôn, có người soát vé xong lát lại đòi lần nữa lu bu lắm.\nMà khỏi đi xe điện thì lội bộ tầm 100m thôi.\nTóm lại cho trẻ con đi ok, đèn sắp xếp đẹp,nhưng mua 2-3 show thì mắc mà đi đuối.",
+        "time": 1771494806,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Hiệp Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102240987305341877579/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyMcsYvGSvw0m6bzIsUbxMXuz1isG_e9rOTg70_a8oyy6RgbO9BQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Công viên chủ đề nghệ thuật độc đáo và rất đẹp, các bạn nhân viên siêu nhiệt tình và thân thiện. Mọi người nếu có đi nên đi sớm từ 18g để có thể trải nghiệm đầy đủ tour bồng lai tiên cảnh, ánh sáng nghệ thuật, và đặc biệt là show sử thi âu lạc trên Hồ Sương Mai rất hay và rất đẹp.",
+        "time": 1772812530,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Thuytrang",
+        "author_url": "https://www.google.com/maps/contrib/109130887767957556521/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbwTzsrKoDE92fWMJJZ3-jySLNxyNH4830dtcjEbDkDedPPF0E=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ok nha. Mình mua vé combo coi show và tham quan full tour trên klook giá tốt hơn mua qua page. Mọi người nên đến đó lúc 18h30 và ăn thử xiên chiên ở đó đi. 39k/ phần nhưng khá ngon. Tầm 19h15 sẽ có xe đón sang xem show. Show đầu tư hoành tráng nhưng mình ko thích đồ hoạ và cốt truyện cho lắm. Xem show xong xe điện chở về khu rừng để đi tour bồng lai. Cũng đẹp và sáng tạo á. Nói chung gia đình có thể đi hoặc couple đều ok nha. 9/10",
+        "time": 1763438923,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Anh Hồ Yến",
+        "author_url": "https://www.google.com/maps/contrib/108947822590115650840/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRHuNU_G9_WyEZFJUCjbNwLG7WuNtL-PCSvUJwLG_ExpWNy0fc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình vừa đi vào ngày 1/1/26. Lúc đầu mua trên zalo ko dc nên qdinh đến tận nơi mua vé (mn cũng có thể đặt vé qua web chính thức của page). Mình mua combo vé cổng + tour bồng lai + sử thi + ăn tối luôn để thưởng thức trọn vẹn câu chuyện. Buổi sáng đi ngắm hoa thưởng ngoạn cảnh (hoa và bài trí đẹp), buổi chiều quay lại ăn tối lẩu nướng (đồ ăn ngon, menu nhiều món và vị ngon hợp với mình, combo 2ng ăn no lắm luôn 10₫), ăn tối xong đi xem sử thi (nhạc nước hoành tráng, tái hiện lịch sử Việt Nam, nội dung hiệu ứng hình ảnh tốt 10₫), xem xong mình đi tour bồng lai (là hiệu ứng ánh sáng, đèn led kết hợp câu chuyện xuyên suốt và tương tác vs ánh sáng khá hay và mới lạ vui chứ ko sến hay cũ nhé 10₫). Thái độ nhân viên nhiệt tình, nhân viên Thảo buổi sáng dẫn con mình đi dạo cực kì tâm lý vs bé nhỏ 10₫. Nói tóm lại mình đã có 1 trải nghiệm đầu năm mới rất trọn vẹn và vui tươi. Nơi này hiện còn đang làm thêm vài trò nữa, rất đáng cho mn trải nghiệm nha, phù hợp nhất vs các gdinh có con độ tuổi tiểu học, mình nghĩ các em sẽ rất thích và đáng nhớ đấy. Có dịp gdinh mình nhất định sẽ trải nghiệm tiếp :)",
+        "time": 1767352416,
+        "translated": false
+      },
+      {
+        "author_name": "Lệ Phương",
+        "author_url": "https://www.google.com/maps/contrib/103117166819344200515/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocId3xLhj71Peb01R4ZnWR6Y5Xp9DDM_HbuajwrRsVz60byHZw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "GIá vé cao nhưng nhân viên lại có thái độ phục vụ gian dối. Lúc mình tới là 20g, nhân viên bán vé bán cho mình 4 vé sử thi và bảo đứng đợi có xe trung chuyển đến sân khấu. Minh đợi hết 10p, khi hối thúc thì nhân viên trả lời xe đang qua. 20g12, xe xuất hiện, chở theo 2 bạn khách nữ thì khu sử thi qua. Có nhân viên hỏi 2 bạn đó show sử thi bắt đầu chưa, 2 bạn trả lời show đã trình diễn 15p rồi. Tụi mình nghe vậy thì hỏi nhân viên cách xử trí sao vì vé show mắc tiền, lại là show cuối, nếu tụi mình qua đó thì cũng trễ gần nửa show. Bạn tài xế cứ lùa tụi mình lên xe và còn cãi tay đôi với khách, em là nhân viên mà chị không tin em sao. Sự thật là khi tụi mình qua đã trễ 2/7 giai đoạn show. Thật sự quá tệ, quá thất vọng. KHÔNG BAO GIỜ QUAY LẠI",
+        "time": 1765288502,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 478
+  },
+  "harvested_at": "2026-04-29T13:28:52.199855"
+}

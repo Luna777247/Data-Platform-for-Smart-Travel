@@ -1,0 +1,174 @@
+{
+  "u_key": "99fe7831d21fc9f9",
+  "original_osm_name": "Phố nướng Tokyo",
+  "google_raw": {
+    "formatted_phone_number": "0931 544 399",
+    "geometry": {
+      "location": {
+        "lat": 16.0705931,
+        "lng": 108.2429142
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.07181033029151,
+          "lng": 108.2442545802915
+        },
+        "southwest": {
+          "lat": 16.0691123697085,
+          "lng": 108.2415566197085
+        }
+      }
+    },
+    "name": "Phố Nướng Tokyo Đà Nẵng",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:00",
+        "Thứ Ba: 11:00–23:00",
+        "Thứ Tư: 11:00–23:00",
+        "Thứ Năm: 11:00–23:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 11:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Hùng Nguyễn Như",
+        "author_url": "https://www.google.com/maps/contrib/103321922124753249116/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDr6mB4aNNGruR877x5QnCNrcnG9wUwmPYoZbfUz91mZ0OLsQ9aA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, giá hợp lý, dịch vụ siêu nhanh, đi đúng ngày lễ nên hơi đông phải đợi 15p mới có bàn. Không khí quán khá ok.",
+        "time": 1767276738,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Nhi Trần",
+        "author_url": "https://www.google.com/maps/contrib/107423323317424050233/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRqCtycKmLDiCtiNkEzIJGvXWjRCwu06u5bxEBR3n2lnddWg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nên ghé thử 1 lần ở đây, đồ ăn ngon, dễ ăn, hợp khẩu vị. Không gian thoải mái, cảnh ngắm ra biển chill, đi với gia đình hay bạn bè đều rất ổn áp nha. Phục vụ dễ thương, take care nhiệt tình, sẽ quay lại nhiều lần hơn ❤️‍🔥",
+        "time": 1768912400,
+        "translated": false
+      },
+      {
+        "author_name": "Thủy Phan",
+        "author_url": "https://www.google.com/maps/contrib/117435256798408212543/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGytbMlvkgCKQxuAfn0CbD9Vegs6L5rp6cl8bN4IZbcDJ9dSZN=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhân viên phục vụ tệ , không thân thiện. Chúng tôi gọi nước uống nhưng không được phục vụ. Bạn tôi đã ăn xong món ăn mà đồ uống vẫn chưa được phục vụ. Chúng tôi phải tự lại quầy ba gọi lại nước uống lần thứ ba.",
+        "time": 1772268224,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Hữu Phúc",
+        "author_url": "https://www.google.com/maps/contrib/110194718263685669505/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDzvURyMsnIExa5NdCG3nL7iMfwX33qpZm2o0_YzoNsOuwEw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ở đây rất ngon và nhân viên phục vụ   rất dễ thương ❤️",
+        "time": 1768905863,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Duc",
+        "author_url": "https://www.google.com/maps/contrib/105732911681371033368/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxLY2MrE3Twnkmra4HZU7J7J3H2rGCxGH1XISJlItAVv0uWLg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon , view quá đẹp , Nhân viên quá nhiệt tình, đặc biệt là bạn Thọ rất năng nổ, mình mới đi lần đầu được bạn đón tiếp rất chu đáo 😋😋 10đ",
+        "time": 1768757831,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2611
+  },
+  "harvested_at": "2026-04-29T09:47:51.499516"
+}

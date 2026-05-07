@@ -1,0 +1,173 @@
+{
+  "u_key": "cb4612777c87e8d0",
+  "original_osm_name": "Nhà Hàng Cơm Việt Nam",
+  "google_raw": {
+    "formatted_phone_number": "0368 192 826",
+    "geometry": {
+      "location": {
+        "lat": 21.0367257,
+        "lng": 105.851926
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0380268802915,
+          "lng": 105.8532905802915
+        },
+        "southwest": {
+          "lat": 21.03532891970849,
+          "lng": 105.8505926197085
+        }
+      }
+    },
+    "name": "Quán Cơm",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:00",
+        "Thứ Ba: 10:00–21:00",
+        "Thứ Tư: 10:00–21:00",
+        "Thứ Năm: 10:00–21:00",
+        "Thứ Sáu: 10:00–21:00",
+        "Thứ Bảy: 10:00–21:00",
+        "Chủ Nhật: 10:00–21:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Trinh Phương",
+        "author_url": "https://www.google.com/maps/contrib/101513559081223668609/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVp2_ZCbinpvpB0Ymy3Cp-ms7ykLzjK7jGIilhGKOg_6PrT8D1e9A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán quen, đóng họ ở đây khá nhiều lần mỗi lúc thèm hương vị cơm nhà. Rcm mng gọi món thịt kho tàu & sườn chua ngọt vì mình đánh giá hai món ấy khá ngon, hương vị vừa vặn ^^ Giá bình thường, không quá rẻ, hợp lý trên khu vực phố cổ này. Lần nào 2 người mình ăn cũng hết khoảng gần 300k/2người là no căngggg\nMng phục vụ nhanh, ngồi 5-10’ là có cơm\nvà đồ ăn nóng",
+        "time": 1769327227,
+        "translated": false
+      },
+      {
+        "author_name": "ngô huy hoàng minh",
+        "author_url": "https://www.google.com/maps/contrib/111361938268150845732/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlrol9Q3houpegCUQyCyU0KrHb4EJfcnD9SkXrvmEs5w4aQQe9jg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Cơm ngon bà chủ nhiệt tình. Món cá kho ăn đậm đà. Giá cả phải chăng so với mặt bằng phố cổ.",
+        "time": 1757018567,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Trung",
+        "author_url": "https://www.google.com/maps/contrib/111347777136274401413/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6wewV_H8ppFtnRSnLNy_r7fCiawCT0y45BSB7lcEI3PVlnTPV=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán cơm ở phố Nguyễn Siêu, không gian sạch sẽ thoáng. Đồ ăn các món cơm gia đình truyền thống của VN. Cơm ngon, vừa miệng mà giá lại rất hợp lý, nếu so với 1 quán cơm nổi tiếng ở phố Mã Mây thì cơm ở đây bằng 60% 70% - đồ ăn thì ngon tương đương nhau.\nMột địa chỉ tôi sẽ thường xuyên đến.\n(Đánh giá tại năm 2025)",
+        "time": 1749369811,
+        "translated": false
+      },
+      {
+        "author_name": "phuong nguyen thi minh",
+        "author_url": "https://www.google.com/maps/contrib/103503180074125886926/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrTiytwYxuJTRFFSKk62j9D5GNBCBhQDovZCUZaqUfy6W6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán có nhiều món ngon và phục vụ chu đáo nhiệt tình .khi biết chúng tôi là việt kiều tu nươc ngoài về họ cũng vẫn lấy giá phải chăng ko hề cao so vơi người khác .tôi đanh gia cao dịch vụ ơ đây",
+        "time": 1772724615,
+        "translated": false
+      },
+      {
+        "author_name": "Yen Nhi Pham",
+        "author_url": "https://www.google.com/maps/contrib/107440513674337801990/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3xFbAnS6u-DmqDoAnYhr73gry6aQXpLO84CyO1zuPspD627j8mQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Cơm ngon, các món ăn vừa vặn, đầy đặn, mình đi 2 người hết 190k ^^\nQuán có thêm nước rau và hoa quả miễn phí tự phục vụ\n+1 vào danh sách quán quen",
+        "time": 1750598165,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 630
+  },
+  "harvested_at": "2026-04-28T16:26:33.223516"
+}

@@ -1,0 +1,137 @@
+{
+  "u_key": "4b366b23470783f3",
+  "original_osm_name": "L'espoir",
+  "google_raw": {
+    "formatted_phone_number": "0903 041 809",
+    "geometry": {
+      "location": {
+        "lat": 10.7911752,
+        "lng": 106.6698677
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.7925268302915,
+          "lng": 106.6712131302915
+        },
+        "southwest": {
+          "lat": 10.7898288697085,
+          "lng": 106.6685151697085
+        }
+      }
+    },
+    "name": "L'ESPOIR (lespoir.com.vn)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–21:30",
+        "Thứ Ba: 09:30–21:30",
+        "Thứ Tư: 09:30–21:30",
+        "Thứ Năm: 09:30–21:30",
+        "Thứ Sáu: 09:30–21:30",
+        "Thứ Bảy: 09:30–21:30",
+        "Chủ Nhật: 09:30–21:30"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Uyên Mỹ",
+        "author_url": "https://www.google.com/maps/contrib/107602514111166711695/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCztGqeUiINgFQ2r107j340LmzwANo651bwfRhdm83vEdGljI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "🥰🥰🥰",
+        "time": 1761103078,
+        "translated": false
+      },
+      {
+        "author_name": "van anh",
+        "author_url": "https://www.google.com/maps/contrib/111457287285677899678/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-N5el35yX0NKvTmOvDlkLSddQnr0eak9UgKT1sOtOrLUL8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Xinh 🥰",
+        "time": 1761102786,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-30T15:05:41.600110"
+}

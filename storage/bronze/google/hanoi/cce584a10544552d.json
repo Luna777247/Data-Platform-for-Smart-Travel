@@ -1,0 +1,89 @@
+{
+  "u_key": "cce584a10544552d",
+  "original_osm_name": "Mimi Homestay",
+  "google_raw": {
+    "formatted_phone_number": "0392 391 802",
+    "geometry": {
+      "location": {
+        "lat": 21.036946,
+        "lng": 105.85253
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0383029302915,
+          "lng": 105.8538203802915
+        },
+        "southwest": {
+          "lat": 21.0356049697085,
+          "lng": 105.8511224197085
+        }
+      }
+    },
+    "name": "Mimi Housing",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Hong Vu",
+        "author_url": "https://www.google.com/maps/contrib/105060591655875628334/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQrkXVY2EL5SBNCgWPAxMaXUiOrEZuSCq8RgCi2LCswbHiBJOO=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chị chủ nhiệt tình, chu đáo. Phòng sạch đẹp, giá cả hợp lý, vị trí thuận tiện. Tôi cảm thấy hài lòng.",
+        "time": 1723960692,
+        "translated": false
+      },
+      {
+        "author_name": "David Cole",
+        "author_url": "https://www.google.com/maps/contrib/108240061206547568544/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhC0gVXanjXXkPE6iGm1ualxnncw-DiaCRKlf_Rj7O83Lm-BSn=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nơi tuyệt vời để lưu trú dù ngắn hay dài ngày.\nTôi đã ở đây 10 ngày. Vị trí thuận tiện với nhiều lựa chọn ăn uống ngay bên ngoài. Dễ dàng đi bộ đến hồ.\nBuổi tối có thể hơi ồn ào nhưng không quá muộn.",
+        "time": 1764389420,
+        "translated": true
+      },
+      {
+        "author_name": "Florencia Tejería Nuin",
+        "author_url": "https://www.google.com/maps/contrib/112158486361887713896/reviews",
+        "language": "vi",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZhPMCV2KDBGOGNBC0fHgIY41jeagyFVoyltiwHtaFgIsd7ZCa=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "5 tháng trước",
+        "text": "Phòng ổn, nhưng lối vào thì tệ, và khi đến nơi thì không có lễ tân. Wi-Fi hoạt động tốt, và liên lạc qua WhatsApp cũng tốt. Chúng tôi không thích việc có người ngủ ở hành lang bên ngoài phòng.",
+        "time": 1762408756,
+        "translated": true
+      },
+      {
+        "author_name": "Dorrito Dog",
+        "author_url": "https://www.google.com/maps/contrib/100925234824490390764/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOLsNlScP0g8q8Mn0H8VZc8prVd_yTg5aJeBMS-af0Yy5krl0e=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Chuyến đi một mình đầu tiên của tôi ở tuổi 19 và tôi đã rất lo lắng khi hạ cánh. Chủ nhà ở Mimi đã đợi tôi đến tận khuya và rất tử tế. Tôi bước vào phòng và thấy phòng sạch sẽ, có nước trong tủ lạnh, điều hòa rất lạnh và giường rất rộng! Khi đặt phòng cho chuyến đi, tôi đã cố gắng hết sức để tìm được khách sạn tốt nhất với giá cả phải chăng ở Phố Cổ. Tôi nghĩ mình đã tìm thấy rồi.",
+        "time": 1756616547,
+        "translated": true
+      },
+      {
+        "author_name": "Abby Brooks",
+        "author_url": "https://www.google.com/maps/contrib/118265709722495779823/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZyvnUELdsXAWwE4t3uzpnQPjB4rBCo_2ZbbRpqe-GbNoafAdahA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Tôi rất thích ở trong căn phòng rộng rãi và xinh đẹp này ngay trung tâm Hà Nội! Harley rất dễ thương và chu đáo, vị trí và tiện nghi đều tuyệt vời. TV có Netflix rất tuyệt và thật tuyệt khi có một khu bếp nhỏ để sơ chế trái cây mua ở chợ. Cảm ơn!",
+        "time": 1754538341,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 24
+  },
+  "harvested_at": "2026-04-28T16:02:34.003942"
+}

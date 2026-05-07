@@ -1,0 +1,173 @@
+{
+  "u_key": "27afb26ef6b16424",
+  "original_osm_name": "trà đào 42",
+  "google_raw": {
+    "formatted_phone_number": "0903 458 155",
+    "geometry": {
+      "location": {
+        "lat": 21.0191995,
+        "lng": 105.8566097
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0205190302915,
+          "lng": 105.8580547802915
+        },
+        "southwest": {
+          "lat": 21.0178210697085,
+          "lng": 105.8553568197085
+        }
+      }
+    },
+    "name": "Lậu thất Trà phường 陋室茶坊",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–20:30",
+        "Thứ Ba: 09:00–20:30",
+        "Thứ Tư: 09:00–20:30",
+        "Thứ Năm: 09:00–20:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–19:00",
+        "Chủ Nhật: 09:00–19:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "góc nhỏ đi đây đó",
+        "author_url": "https://www.google.com/maps/contrib/102752731211720538376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0rT9gmGv8HOxMviRuUPX8H0wr1v9iFAH9I_SYlKjWo5uCd3M=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Một tiệm trà ấm cũng gần gũi, nhất là mùa thuỷ tiên về thì tha hồ được ngắm nghía! Hình như các anh chị chủ quán rất mê thuỷ tiên và thời gian giáp tết thường có những workshop gọt củ được tổ chức ở đây.",
+        "time": 1766892207,
+        "translated": false
+      },
+      {
+        "author_name": "Mei Mei",
+        "author_url": "https://www.google.com/maps/contrib/110773296585079415581/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_7cuCHjYO07kXF4twc8mAljB7z67OiVXERm3W-GDM1PLXHE8M=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Trà thơm. Không gian sạch và đẹp, thanh tịnh. Chị chủ rất thân thiện và chu đáo giải thích về trà. Nơi mà mình sẽ đến thường xuyên trong tương lai nếu mình có dịp ra lại Hà Nội ☺️",
+        "time": 1754218563,
+        "translated": false
+      },
+      {
+        "author_name": "giang Chu kiều",
+        "author_url": "https://www.google.com/maps/contrib/113698638614172706433/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7z584ztjbT2mZJk66AtraCx0EZfrAgN9zdWfX88uN_R4N0Uc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Một nơi mà bạn nên ghé thử khi tới Hà Nội",
+        "time": 1763961048,
+        "translated": false
+      },
+      {
+        "author_name": "Dao Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/113200126658757097086/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtPIc7jQFjng6CLJR4umhCT_BFYiH1VKAReNZWuWOAV-G1jOA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Yên tĩnh , nhiều cây , hoa đẹp .",
+        "time": 1676208328,
+        "translated": false
+      },
+      {
+        "author_name": "Cuong Zic",
+        "author_url": "https://www.google.com/maps/contrib/115646740148293489123/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtFdo6sJHbPYVTU6SAftyAU-UF_XP4RQ5oofJxqKHmv25l1d8-7A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nơi hương trà lẩn khuất trong từng hơi thở!",
+        "time": 1763345356,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 18
+  },
+  "harvested_at": "2026-04-28T16:16:09.490907"
+}

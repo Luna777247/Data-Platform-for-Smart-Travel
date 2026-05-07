@@ -1,0 +1,125 @@
+{
+  "u_key": "9b3d98f4447f230a",
+  "original_osm_name": "Soya Garden",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.011456,
+        "lng": 105.86299
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0127774302915,
+          "lng": 105.8642046302915
+        },
+        "southwest": {
+          "lat": 21.0100794697085,
+          "lng": 105.8615066697085
+        }
+      }
+    },
+    "name": "Soya Garden",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Trong Tien Vo",
+        "author_url": "https://www.google.com/maps/contrib/102048283059905007019/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXULY4HflXXpR8v42VBXOfQAvf5BqX4aSGmmMPiCu-gdk31Z0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Chỗ này còn mở k cả nhà",
+        "time": 1707299536,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-27T19:58:04.586884"
+}

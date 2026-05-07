@@ -1,0 +1,173 @@
+{
+  "u_key": "fb902cf6b9871b49",
+  "original_osm_name": "Cô Ba An",
+  "google_raw": {
+    "formatted_phone_number": "0902 566 139",
+    "geometry": {
+      "location": {
+        "lat": 12.2495906,
+        "lng": 109.1895503
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2508555302915,
+          "lng": 109.1909008802915
+        },
+        "southwest": {
+          "lat": 12.2481575697085,
+          "lng": 109.1882029197085
+        }
+      }
+    },
+    "name": "Cô Ba Vị",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–02:00",
+        "Thứ Ba: 11:00–02:00",
+        "Thứ Tư: 11:00–02:00",
+        "Thứ Năm: 11:00–02:00",
+        "Thứ Sáu: 11:00–02:00",
+        "Thứ Bảy: 11:00–02:00",
+        "Chủ Nhật: 11:00–02:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Dara Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110284419151987598333/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9F6UL1pnxWdVvKmYRMv0FVEJX9XDZZLVg_sAgDXovA8pUWA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ếch chiên giòn ngon, nầm nướng chao cũng ngon nhà mình order không cay nhưng quán lỡ làm cay quá nên dù ngon cũng ăn ko hết\n\nNhân viên rất nhiệt tình, quán có tầng 3 rất thoáng mát\n\nNhà mình 4 người ăn hết 600 ngàn no lắm lun",
+        "time": 1766468344,
+        "translated": false
+      },
+      {
+        "author_name": "Toan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112922148616001853628/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgHEEvwKXSollaNbXQj4JiK076Bzf-0IU0uK-GGVmN77Mmcg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đây là Chi nhánh mới của Linh Cá Kèo có thâm niên về ẩm thực nổi tiếng tại tp Nha Trang,  thức ăn đa dạng và tươi ngon, vị trí quán ngay trục đường chính của thành phố Nha Trang, khách du lịch tới Nha Trang nên ghé qua trải nghiệm",
+        "time": 1765213769,
+        "translated": false
+      },
+      {
+        "author_name": "Tiến Thụ",
+        "author_url": "https://www.google.com/maps/contrib/114299274933176651249/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXK5Yq3vWJu1SOpjLBIPqJbtgRSNMtWDlmA7MmNyn7b7j9H5ZqS=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ổn. Không gian thoáng. Điểm trừ ra món hơi lâu",
+        "time": 1768800102,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Hằng",
+        "author_url": "https://www.google.com/maps/contrib/108934614216388289301/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHzQuh3B3yV3kKfT_W_fG7G7dcnEY_1is3UzHK_0DoyJ1IshI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon, quản lý và nhân viên thân thiện, nhiệt tình, phục vụ chu đáo",
+        "time": 1766926242,
+        "translated": false
+      },
+      {
+        "author_name": "Quốc Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115091715264138179414/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoWSueBu8DEUqRW0uT8QHEZa-KFLkABUT_ugKkH_zcLp8y6A=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon . Giá tạm ổn so với mặt bằng. NV vui ve",
+        "time": 1766743000,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 53
+  },
+  "harvested_at": "2026-05-02T16:08:18.263694"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "dae8ad8252152105",
+  "original_osm_name": "Phở 24",
+  "google_raw": {
+    "formatted_phone_number": "028 3521 8518",
+    "geometry": {
+      "location": {
+        "lat": 10.777164,
+        "lng": 106.699656
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.7784724802915,
+          "lng": 106.7009797802915
+        },
+        "southwest": {
+          "lat": 10.7757745197085,
+          "lng": 106.6982818197085
+        }
+      }
+    },
+    "name": "PHỞ 24 - 158D PASTEUR",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Media London",
+        "author_url": "https://www.google.com/maps/contrib/107744621729698926145/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8V_GvfgPkslzIJ8mSXKO3YbPhNQPa9RaVd_SkYtjWGhlBqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ngon rẻ thật sự, mình ăn thử do dc tặng voucher nên thấy khá ngon, sạch sẽ lắm luôn",
+        "time": 1762890938,
+        "translated": false
+      },
+      {
+        "author_name": "TonyTran",
+        "author_url": "https://www.google.com/maps/contrib/103830365610192811733/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhQo7PlIwPwOVIfxEqV9NBvSq0ctDY2LWCqMnpN60q9vs1CJc=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không gian sạch sẽ món ăn ngon.\nMình dẫn khách Nhật qua ăn rất hài lòng.",
+        "time": 1759496264,
+        "translated": false
+      },
+      {
+        "author_name": "Văn Hồng Anh",
+        "author_url": "https://www.google.com/maps/contrib/112833537201902067356/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrwbfJVCkXvzeLc6eWXOwLwTbnqk5F9G57M64egzOY_rO3I9NS=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "ĐỢI 15-20p CHO 1 MÓN VÀ NHÂN VIÊN LÀM VIỆC RẤT HỜI HỢT\nMình thật sự rất thích phở24 nhưng lần nào đến cũng phải đợi 15-20p để đc ăn thì rất lâu, mặc dù quán cũng chỉ có 2 đứa mình. Nhân viên làm việc siêu chậm, và ko chú ý takecare khách hàng, kiểu mình cần khăn giấy đồ là phải tự ra quầy lấy, trong khi những chi nhánh khác ngta đưa sẵn lun.\nBill tụi mình in trước rất nhiều khách và KHÔNG LÀM ĐƠN, để mình đợi 20p xong ra xin lỗi kêu ko in đc bill nên chưa làm món⁉️",
+        "time": 1769309063,
+        "translated": false
+      },
+      {
+        "author_name": "Lily Pham",
+        "author_url": "https://www.google.com/maps/contrib/114422452082656287161/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtJYhxyum5YABXLUWzp217L6JhrrqOwJ_SghqIWLphvB1hGGXA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "5 tháng trước",
+        "text": "T tới khoảng 9h15 sáng. Bước vào giật mình luôn ko một bóng khách nhưng 70% số bàn đều có tô dơ ko dọn (và có ít nhất 2 NV đứng đó ko ai dọn).\nT ngồi một hồi cũng ko thấy NV hướng dẫn là order tại bàn hay quầy nên t đi ra luôn.\n————\n70% of the tables are left dirty, with zero guests sitting, while at least 2 staff members are doing nothing.",
+        "time": 1763181435,
+        "translated": false
+      },
+      {
+        "author_name": "Lâm Bùi",
+        "author_url": "https://www.google.com/maps/contrib/116420991932864158234/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2Hv4FjWQQK2ciy8pp89Wig0NDasAsd8qyz4TM5F7ei52oIB6q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán ở thời điểm hiện tại ko đông nhưng phải chờ đến 15p mới có món. Nhân viên đứng chơi ko tập trung",
+        "time": 1766388386,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1156
+  },
+  "harvested_at": "2026-04-28T16:22:03.822687"
+}

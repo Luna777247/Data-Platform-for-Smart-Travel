@@ -1,0 +1,109 @@
+{
+  "u_key": "865ebee953439c52",
+  "original_osm_name": "Whoops Hostel",
+  "google_raw": {
+    "formatted_phone_number": "0932 579 752",
+    "geometry": {
+      "location": {
+        "lat": 11.9549846,
+        "lng": 108.4354765
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9562668302915,
+          "lng": 108.4368888302915
+        },
+        "southwest": {
+          "lat": 11.9535688697085,
+          "lng": 108.4341908697085
+        }
+      }
+    },
+    "name": "Mooka’s Home - Dalat Backpackers Hostel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    }
+  },
+  "harvested_at": "2026-04-30T15:14:11.523504"
+}

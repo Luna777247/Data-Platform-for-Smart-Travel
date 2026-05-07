@@ -1,0 +1,153 @@
+{
+  "u_key": "8a0eb52e1af75a66",
+  "original_osm_name": "A. Phuong",
+  "google_raw": {
+    "formatted_phone_number": "0258 3527 610",
+    "geometry": {
+      "location": {
+        "lat": 12.243727,
+        "lng": 109.1925758
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2451285802915,
+          "lng": 109.1940587302915
+        },
+        "southwest": {
+          "lat": 12.2424306197085,
+          "lng": 109.1913607697085
+        }
+      }
+    },
+    "name": "UBND Phường Nha Trang",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–17:00",
+        "Thứ Ba: 07:30–17:00",
+        "Thứ Tư: 07:30–17:00",
+        "Thứ Năm: 07:30–17:00",
+        "Thứ Sáu: 07:30–17:00",
+        "Thứ Bảy: Đóng cửa",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 2.8,
+    "reviews": [
+      {
+        "author_name": "Tan Minh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102361901385692524863/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDaRs_xxZgyoli5qMtIvqRyFc5klxDSWx6Nok-ICz0wFWwIznmJQ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Hạch sách nhũng nhiễu người dân, làm xác nhận người phụ thuộc bắt người đứng đơn phải ký chữ ký sống trong khi đang ở cách xa 1000km. Điện thoại tổng đài hotline thì cán bộ cũng không nắm vấn đề và form mẫu để trả lời người dân. VNEID đã có đầy đủ thông tin quan hệ trong gia đình vẫn không xét duyệt. Chính quyền điện tử 4.0 gì gì đó toàn là mõm. 1 sao còn không xứng đáng cách làm việc quan liêu hạch sách xa rời nhân dân này. Khinh.",
+        "time": 1766649112,
+        "translated": false
+      },
+      {
+        "author_name": "Hằng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108791528563967557300/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIm2Kims_JhIlVi7hKk9wxwxRiQnDcDhYrHNUOKgUEMQ1_8Gw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Làm giấy khai sanh cho con,thấy phục vụ chu đáo nhiệt tình",
+        "time": 1768787906,
+        "translated": false
+      },
+      {
+        "author_name": "gogo gogo",
+        "author_url": "https://www.google.com/maps/contrib/110293377470543445400/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpRMcZ0uAIUJaZxcxgtB8rwgV_Zo3w4k7TQRHK9zXz7zlwMA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 tháng trước",
+        "text": "Bộ phận 1 cửa bóc số ô 2 về đất đai của ubnd tp nha trang rất tệ , chỉ có 1 người tiếp nhận cho hơn 1000 người dân ! Không bao giờ bóc được số để vào gặp để làm việc về đất đai tại ô số 2 dù dân đã đến xếp hàng nhiều ngày từ lúc sáng sớm ! Nên thay nhân viên bằng 10 cái máy để người dân làm cho nhanh",
+        "time": 1747719609,
+        "translated": false
+      },
+      {
+        "author_name": "meo tho",
+        "author_url": "https://www.google.com/maps/contrib/104698455106038198463/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNLxv80YtVqatyILXRuIewGQAnpnJ0scZE_BRlQtdL-DBZjA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Tôi đã đọc bảng quy định trước ubnd tp Nha trang. Không có quy định nào về việc cấm mặc quần shorts khi đi nộp hồ sơ. Tôi mặc áo sơ mi dài tay, quần shorts bỏ áo vào quần (đóng thùng) và mang giày. Tôi đã bị bảo vệ la hét và sỉ nhục nhiều lần trước đám đông xếp hàng vì việc mặc quần shorts. Một bảo vệ hành xử vô văn hoá chỉ vì nghĩ rằng quần shorts và áo sơ mi đóng thùng và mang giày không lịch sự bằng những người trùm váy chống nắng như cái giẻ rách và mang dép kẹp, dép lê!\nNếu cấm người dân mặc quần shorts khi đến UBND, hãy để bảng quy định như các chùa chiền làm.",
+        "time": 1750493912,
+        "translated": false
+      },
+      {
+        "author_name": "Huyền Trâm",
+        "author_url": "https://www.google.com/maps/contrib/107391816281598021948/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXSgRrpEwE81dTvYVw1z_bj37spBRUIACchDy9pf-ODAC6=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Cán bộ Một cửa ô số 1 lĩnh vực Trả kết quả hồ sơ đất đai gây khó khăn cho người dân, ít thân thiện. Không hỗ trợ công dân dù chỉ đến nhận kết quả trong khi chị không quá bận rộn. Cán bộ Một cửa yêu cầu phải có số thứ tự và nếu không có số thì ngày hôm sau quay lại. Nếu như người dân ở xa, ngày nào cũng không kịp bấm số vậy khi nào sẽ được nhận kết quả. Cảm thấy thất vọng về mức độ phục vụ của bộ phận Một cửa. Cần cải thiện thêm, hoặc bố trí thêm người nếu không kịp xử lý.",
+        "time": 1751079986,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 35
+  },
+  "harvested_at": "2026-05-02T15:12:22.976845"
+}

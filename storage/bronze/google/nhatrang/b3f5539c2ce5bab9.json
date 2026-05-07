@@ -1,0 +1,173 @@
+{
+  "u_key": "b3f5539c2ce5bab9",
+  "original_osm_name": "Hoang Nguyen, Pizza",
+  "google_raw": {
+    "formatted_phone_number": "0814 555 493",
+    "geometry": {
+      "location": {
+        "lat": 12.2520751,
+        "lng": 109.1917486
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2534371802915,
+          "lng": 109.1930899302915
+        },
+        "southwest": {
+          "lat": 12.2507392197085,
+          "lng": 109.1903919697085
+        }
+      }
+    },
+    "name": "Mr Huy - pizza & more",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 13:00–23:00",
+        "Thứ Ba: 13:00–23:00",
+        "Thứ Tư: 13:00–23:00",
+        "Thứ Năm: 13:00–23:00",
+        "Thứ Sáu: 13:00–23:00",
+        "Thứ Bảy: 13:00–23:00",
+        "Chủ Nhật: 13:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Nghia Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110974233279162847393/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJz9dTZOj9BzLWwY3gwHdasj6ugbT5_aSEv0iOS5fmHLPritg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Salad cá hồi rất ngon. Pizza mình gọi nửa 4 cheese nửa salami đêu ngon.\nNhân viên phục vụ tốt, ngoan.\nGiá rất ok với chất lượng đồ ăn tốt.\nMong quán giữ được phong độ này lâu.",
+        "time": 1741191513,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Thảo",
+        "author_url": "https://www.google.com/maps/contrib/110213142447915946060/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcBJoC-UGogmaMBrFKIrghBD4f7p5m_ZX443F6gwe9ABv6Fe83=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Hidden Gems. Pizza và bánh dessert ngon, topping hải sản tươi, giá bình dân.",
+        "time": 1766384635,
+        "translated": false
+      },
+      {
+        "author_name": "Huyên Mai",
+        "author_url": "https://www.google.com/maps/contrib/104814519208419075486/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvtGPoaIYeDNHcF9-Du4-Esr0EC5E40MkwU924_SsjUPuhDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "quán đẹp và đồ ăn rẻ so với những quán mình từng ăn, đồ ăn ngon, chất lượng và không khí ấm cúng thích hợp cho hội bạn và gia đình ghé ăn, chị chủ thân thiện, dễ thương ❤️❤️",
+        "time": 1753020763,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Pizza tiệm làm ngon. Có thể order pizza half-half.\nTiệm có bán các loại bánh, tráng miệng ngọt handmade khá ngon.\nGiá phải chăng.",
+        "time": 1725167607,
+        "translated": false
+      },
+      {
+        "author_name": "Cẩm Thái",
+        "author_url": "https://www.google.com/maps/contrib/108553025260584230278/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWi_oNzWgoSSBj01W5P9oYxQ3NlxZfrAJTlg930RBWT7xBw_5Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán rất Tây nha. Pizza ngon tuyệt. Nhìn thì cũng giống các nhà hàng khác nhang ăn vào cảm giác wow luôn á. Giá cũng rất hợp lý, không gian ngồi ấm cúng và xịn sò",
+        "time": 1739969921,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 505
+  },
+  "harvested_at": "2026-05-02T15:16:15.639074"
+}

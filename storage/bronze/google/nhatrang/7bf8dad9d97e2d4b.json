@@ -1,0 +1,173 @@
+{
+  "u_key": "7bf8dad9d97e2d4b",
+  "original_osm_name": "Seafood on grill",
+  "google_raw": {
+    "formatted_phone_number": "0382 037 487",
+    "geometry": {
+      "location": {
+        "lat": 12.2333338,
+        "lng": 109.195852
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2346548802915,
+          "lng": 109.1972079302915
+        },
+        "southwest": {
+          "lat": 12.2319569197085,
+          "lng": 109.1945099697085
+        }
+      }
+    },
+    "name": "Mai Hương Restaurant - Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:00",
+        "Thứ Ba: 11:00–23:00",
+        "Thứ Tư: 11:00–23:00",
+        "Thứ Năm: 11:00–23:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 11:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Châu Phạm",
+        "author_url": "https://www.google.com/maps/contrib/109084646001671728040/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7f7aZul__wah_S92-7PJsWDjhRejkCwByHf44QJ78T-6NXGn5=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn cũng ngon mà ghẹ hơi k tươi. Sinh tố ngon và nhiều. Giá cả hơi cao hơn chỗ khác, phục vụ hơi lâu, cô chủ thấy có vẻ hiếu khách đi hỏi thăm từng bàn trừ bàn mình (chắc do đi có 2 ng nên k đc hỏi thăm) . Nhìn chung cũng tạm ổn, không gian cũng rộng rãi, địa điểm dễ tìm",
+        "time": 1766678258,
+        "translated": false
+      },
+      {
+        "author_name": "van pham",
+        "author_url": "https://www.google.com/maps/contrib/111917880857856520137/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoEHf3PhOw9f2_7L_m13AWtJoAa8GJAC2vskpBAxFa_Ihlqzo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ngon và trang trí đẹp, nhân viên chuyên nghiệp, vui vẻ",
+        "time": 1761913953,
+        "translated": false
+      },
+      {
+        "author_name": "Land Lala",
+        "author_url": "https://www.google.com/maps/contrib/114474240038847874732/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpQKvSoxhUoSel8huGGg7sALM_92msedHmLQviXP-jr0APXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Trời ơi nó quá đã ạ :)\nKhá khó tính khi chọn quán mà bốc trúng secret món ngon nhà hàng sạch sẽ. Rất ít khi ăn cơm mà đã đá nửa đĩa\nCho thêm cả dưa hấu nữa chớ\nHighly recommend 강추 🤣🤣 또 올께용",
+        "time": 1759927674,
+        "translated": false
+      },
+      {
+        "author_name": "Khánh Trần",
+        "author_url": "https://www.google.com/maps/contrib/114687866655616947118/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-9bMeRaQ6ft9Hwt5YTWstgbEvBeh2tbMcNQwNfz-GmprQvA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon . Hương vị hải sản tươi . 👌👍 .nhân viên thân thiện",
+        "time": 1766738926,
+        "translated": false
+      },
+      {
+        "author_name": "08 Nguyễn Đức Hòa",
+        "author_url": "https://www.google.com/maps/contrib/111876667941513214263/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWs1eIiefBOBgEaVfdDc40alvx5ZosmMgGuEOKJzFvAp1LCQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán xinh , nhân viên dễ thương nhiệt tình , đồ ăn ngon hợp túi xiền",
+        "time": 1765449882,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1972
+  },
+  "harvested_at": "2026-05-02T15:32:14.287824"
+}

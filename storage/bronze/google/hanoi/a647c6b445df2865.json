@@ -1,0 +1,163 @@
+{
+  "u_key": "a647c6b445df2865",
+  "original_osm_name": "Smile coffee",
+  "google_raw": {
+    "formatted_phone_number": "0967 019 922",
+    "geometry": {
+      "location": {
+        "lat": 21.0337743,
+        "lng": 105.8530069
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0351639802915,
+          "lng": 105.8543598302915
+        },
+        "southwest": {
+          "lat": 21.0324660197085,
+          "lng": 105.8516618697085
+        }
+      }
+    },
+    "name": "Smile Coffee & Cocktail",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–17:00",
+        "Thứ Ba: 07:00–18:00",
+        "Thứ Tư: 07:00–18:00",
+        "Thứ Năm: 07:00–18:00",
+        "Thứ Sáu: 07:00–18:00",
+        "Thứ Bảy: 07:00–18:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Khanh Le",
+        "author_url": "https://www.google.com/maps/contrib/104430995204891089900/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJg61v7pVqzm7gfm4NuOl-IkSpaYezgl7gz7vr_IqxDSkX4Cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Uống nước của quán nhiều nay mới thấy bán thêm bánh mì nên ăn thử. Bánh mì giòn, nhân đậm đà, vị cũng lạ mọi người nên thử nhé. Ngồi ngay mặt phố, quán rộng rãi thoáng mát mà gọi cả bánh mì với nước chưa tới 100k nữa. 10 điểm 👌",
+        "time": 1729168660,
+        "translated": false
+      },
+      {
+        "author_name": "Vo Thi Cam Tien",
+        "author_url": "https://www.google.com/maps/contrib/114905863714198423504/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjmqq7bHJu6o3JNHyj3w8gEa0KQd2uGn6Tjyx76tfiimJbxS4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nước uống ngon, bánh mì cũng rất ngon",
+        "time": 1730445644,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Chau Dang",
+        "author_url": "https://www.google.com/maps/contrib/100683105858912570152/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtfKjpPdbEWn-bkjCEF1iCfAWAnsB3pVondQWkdC0ngMyXDsno=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cà phê trứng ok, không gian thoáng đãng mát mẻ.",
+        "time": 1722441054,
+        "translated": false
+      },
+      {
+        "author_name": "Hau Le",
+        "author_url": "https://www.google.com/maps/contrib/111872309029337211499/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTIGGwV7y_QvuzbpUjcYs6FWFqxuGL-spKNrxka-RrzGk0xmI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Bánh mì ở đây ngon thật mọi người,mình trong Nam vô tính ghé mua công nhận ngon nhé,pate vừa đủ béo không ngán,nói chung nên thử nhé 10đ",
+        "time": 1730572591,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/114500603743608933424/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLNkrFlMdjuRWpf9LjlfxINswOm4vUA6_MY2GnB8jLAq0unw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Trà kiwi lá nếp vào việc . Ưng luôn",
+        "time": 1722775725,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 19
+  },
+  "harvested_at": "2026-04-27T19:58:13.499241"
+}

@@ -1,0 +1,24 @@
+{
+  "u_key": "0fd4b839e6db52f3",
+  "original_osm_name": "Tamihouse",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 15.8886504,
+        "lng": 108.3463339
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8900280302915,
+          "lng": 108.3477438802915
+        },
+        "southwest": {
+          "lat": 15.8873300697085,
+          "lng": 108.3450459197085
+        }
+      }
+    },
+    "name": "TAMIHOUSE"
+  },
+  "harvested_at": "2026-04-28T16:36:36.664267"
+}

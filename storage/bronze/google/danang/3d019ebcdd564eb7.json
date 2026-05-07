@@ -1,0 +1,63 @@
+{
+  "u_key": "3d019ebcdd564eb7",
+  "original_osm_name": "Nhà trọ Nguyễn Thị Nga",
+  "google_raw": {
+    "formatted_phone_number": "0903 306 785",
+    "geometry": {
+      "location": {
+        "lat": 16.058748,
+        "lng": 108.1683397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0600896802915,
+          "lng": 108.1697471302915
+        },
+        "southwest": {
+          "lat": 16.0573917197085,
+          "lng": 108.1670491697085
+        }
+      }
+    },
+    "name": "Nhà Trọ Nguyễn Thị Châu",
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Thanh Le",
+        "author_url": "https://www.google.com/maps/contrib/109830236467646540317/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPsG0s3VttJeDJGMuqO1gTbzHyArASkMbR1Zuu-UkoEQzZ5C7bJw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Rộng dãi, đường vào hơi nhỏ",
+        "time": 1556929234,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Doan ngoc",
+        "author_url": "https://www.google.com/maps/contrib/115848117173098200001/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVboOAOfamIzMuRsB6KZ0tShPApH7pxI5eO3Gxbv0GbgOtA6ZM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Không thích nơi này",
+        "time": 1531545896,
+        "translated": false
+      },
+      {
+        "author_name": "Bao Pham Duc",
+        "author_url": "https://www.google.com/maps/contrib/107782924328013367829/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDoueR1N8rnkNSRi9cCoxwdFzm57THWyhC3slSxMc9b00yFjk=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "",
+        "time": 1480347076,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-04-28T16:34:56.616747"
+}

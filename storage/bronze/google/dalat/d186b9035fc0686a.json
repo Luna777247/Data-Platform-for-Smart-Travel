@@ -1,0 +1,173 @@
+{
+  "u_key": "d186b9035fc0686a",
+  "original_osm_name": "Cafe Noi",
+  "google_raw": {
+    "formatted_phone_number": "0843 663 111",
+    "geometry": {
+      "location": {
+        "lat": 11.9542192,
+        "lng": 108.4465876
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9555376802915,
+          "lng": 108.4479281802915
+        },
+        "southwest": {
+          "lat": 11.9528397197085,
+          "lng": 108.4452302197085
+        }
+      }
+    },
+    "name": "Nơi coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Minh Chung",
+        "author_url": "https://www.google.com/maps/contrib/117695557541304170932/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmbJxp_dbP9GkUNkJWeIPPfSE3TtpBwzsAaPswi-9VSIi8qQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán rẻ , từ lúc lên  Đại học lúc nào cũng uống ở đây , thoải mái , chị chủ nhiệt tình",
+        "time": 1764994062,
+        "translated": false
+      },
+      {
+        "author_name": "Zata",
+        "author_url": "https://www.google.com/maps/contrib/105405473613455987595/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeIX8K1_BVOsB7edvi_qR_0M7I9tTcL6UDHWFswdFamwN6hw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian quán rất thoáng và rộng rãi , nước cũng ko quá đắt , không gian rất hợp để chụp ảnh , nước ngon",
+        "time": 1772453147,
+        "translated": false
+      },
+      {
+        "author_name": "HUỆ Cao",
+        "author_url": "https://www.google.com/maps/contrib/107485013613341763125/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8L955OPs8ymQ53bKwPjqIK8TfYBXcEFGoNVEbDizWyDRt=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình thích xương rồng. 🥰 Quán decor theo phong cách Địa Trung Hải.\nKhông gian thoáng. Yên tĩnh.",
+        "time": 1765293430,
+        "translated": false
+      },
+      {
+        "author_name": "inupahm",
+        "author_url": "https://www.google.com/maps/contrib/109954521958343063542/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxp1duuDe3qiKbHsC5hfF8k5WQlhMMOC17ta9IUD8wk15vJeIb=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán có không gian khá đẹp, thoải mái, rộng rãi, yên tĩnh. Thích hợp ngồi làm việc và thư giãn.",
+        "time": 1750916242,
+        "translated": false
+      },
+      {
+        "author_name": "Ko Sa Jon Bia Poneh",
+        "author_url": "https://www.google.com/maps/contrib/102802861062875982776/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIs1ks_yN6Tr_9jhBmWSk6okjVU7TgxnjhR0rvFAkn2bQ8V3vL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán đẹp và chill lắm lun á! Bà chủ còn dễ thương nữa. Mười điểm không có nhưng nhé.",
+        "time": 1748008614,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 57
+  },
+  "harvested_at": "2026-04-30T15:01:46.212898"
+}

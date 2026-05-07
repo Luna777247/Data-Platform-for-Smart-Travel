@@ -1,0 +1,109 @@
+{
+  "u_key": "540442ad6612ac70",
+  "original_osm_name": "Khách Sạn Morning",
+  "google_raw": {
+    "formatted_phone_number": "024 3928 9668",
+    "geometry": {
+      "location": {
+        "lat": 21.0317201,
+        "lng": 105.8506659
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0330356302915,
+          "lng": 105.8520391802915
+        },
+        "southwest": {
+          "lat": 21.03033766970849,
+          "lng": 105.8493412197085
+        }
+      }
+    },
+    "name": "Hanoi Morning Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Bar Tổ",
+        "author_url": "https://www.google.com/maps/contrib/101119705793735830552/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIz6isQNfvmbfvZ9KRcJ8WiXbArhs7Nt1NZI47ZChgOoeVFrw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "phòng rộng rãi, đầy đủ tiện nghi và những thứ cần thiết trong toilet… view bờ hồ cũng khá ổn, giá mình thấy ok siu ok nhe",
+        "time": 1762863512,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/114912813277319082402/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp8BUQsEMACK6IqQpmfEUXY0FtRGdUgmpraj7z6nfJKWhIGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Lễ tân vô lễ, quát tháo, đuổi mình dù mình không phải khách của khách sạn chỉ vì mình dơ điện thoại gọi cho gia đình quay từ bên đường dính vào khách sạn. Mình cảm thấy rất bức xúc. Đề nghị khách sạn nên xem lại cách đào tạo nhân viên của mình.",
+        "time": 1757649701,
+        "translated": false
+      },
+      {
+        "author_name": "Michael Pham",
+        "author_url": "https://www.google.com/maps/contrib/101757098671953300129/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuEfKq9tV_-RTlnKfxYtpZfO34W90qV7VOH1Nj-RRGVS25RrnK=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Mình thích vị trí ở chỗ này, rất thuận tiện và gần đi ra Hồ Gươm, ăn uống ở đây cũng rất tiện… nhiều hàng quán kế bên hotel… Tụi mình đến đây lúc 10am sáng nhưng lễ tân vẫn hỗ trợ cho tụi mình check in vào nhận phòng sớm, rất thân thiện và nhiệt tình… phòng rộng rãi, đầy đủ tiện nghi và những thứ cần thiết trong toilet… view bờ hồ cũng khá ổn, giá mình thấy cũng ok cho căn phòng 701 này… có thể mình quay lại và ở lâu hơn, giường mình nghĩ hotel cần upgrade, nằm ko thoải mái lắm… còn lại thì mọi thứ rất ok…👍",
+        "time": 1752569761,
+        "translated": false
+      },
+      {
+        "author_name": "Hí Quyên (Yumi)",
+        "author_url": "https://www.google.com/maps/contrib/115012625266656055935/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuDBVRCZgqmEL91_q_UGS_3O3-Z3CGjbKd_TS_ttEeUE-0UursMQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tuy đến hơi trễ (2h sáng) nhưng đã báo trước giờ checkin vậy mà lúc đến không có ai để làm thủ tục thế nên phải tìm khách sạn khác.",
+        "time": 1756615657,
+        "translated": false
+      },
+      {
+        "author_name": "Đặng Diễm My",
+        "author_url": "https://www.google.com/maps/contrib/112446497309398568199/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdrZzHPlmyLT6lgyxxO9N7gALs38GPBl4sT72dawGHOR-Yj5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Nhóm mình 5 người vừa ở ks này, 4Tr cho 3 phòng. Về giá thì không có gì để nói, nhưng khi check out trả phòng thì lễ tân đòi tiền buffet sáng . Nó thật vô lý khi lúc mình thuê phòng không ai tư vấn gì cả nên mình cứ nghĩ giá đã bao gồm buffet. Vô lý hơn là đồ ăn sáng rất tệ và chỉ lèo tèo vài món như rau salad cũ , bánh cuốn , ……\nCòn chưa kể đến việc chỗ ăn buffet tầng 10 mà tháng máy chỉ đến tầng 8, đến tầng 8 đi bộ lên tầng 10. Bàn ngồi ăn thì đc khoảng 5-7 bàn nằm tầng thượng mà bàn ngồi đc thì chỉ 3-4 bàn vì bàn ngoài bị nắng\nLễ tân thì trả treo, cứ bảo khách là có tư vấn ngay từ đầu và cứ ý trách lỗi ở khách.\nMình cũng đã trả tiền cho buffet sáng, hứa hẹn sẽ không bao giờ come back.",
+        "time": 1720154696,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 212
+  },
+  "harvested_at": "2026-04-27T19:58:33.963368"
+}

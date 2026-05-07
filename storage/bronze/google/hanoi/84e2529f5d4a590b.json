@@ -1,0 +1,132 @@
+{
+  "u_key": "84e2529f5d4a590b",
+  "original_osm_name": "nohu xoak·win",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0441367,
+        "lng": 105.778566
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.04548198029151,
+          "lng": 105.7798881802915
+        },
+        "southwest": {
+          "lat": 21.0427840197085,
+          "lng": 105.7771902197085
+        }
+      }
+    },
+    "name": "Nohu",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 01:00–12:00",
+        "Thứ Ba: 01:00–12:00",
+        "Thứ Tư: 01:00–12:00",
+        "Thứ Năm: 01:00–12:00",
+        "Thứ Sáu: 01:00–12:00",
+        "Thứ Bảy: 01:00–12:00",
+        "Chủ Nhật: 01:00–12:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Vân Bùi",
+        "author_url": "https://www.google.com/maps/contrib/113314262076196045107/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkU6GZ75yb-hRYeCSyX463aqssSXUnZX25_n50ZaZktQUxPAaP3w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "",
+        "time": 1769205064,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101554382776871062884/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAUlzkM8ydMBcjLU9LgQAxg0BpJYWs-QjhhlD3iYYRjipEtA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1724423107,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-27T19:58:02.221156"
+}

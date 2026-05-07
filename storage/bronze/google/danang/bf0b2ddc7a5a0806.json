@@ -1,0 +1,89 @@
+{
+  "u_key": "bf0b2ddc7a5a0806",
+  "original_osm_name": "Nhà trọ Nguyễn Quốc Dũng",
+  "google_raw": {
+    "formatted_phone_number": "0379 787 574",
+    "geometry": {
+      "location": {
+        "lat": 16.0950527,
+        "lng": 108.2270295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0963801802915,
+          "lng": 108.2284024302915
+        },
+        "southwest": {
+          "lat": 16.0936822197085,
+          "lng": 108.2257044697085
+        }
+      }
+    },
+    "name": "Nhà trọ Trương Quốc Dụng",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Lan Alang thị",
+        "author_url": "https://www.google.com/maps/contrib/105328458620094639090/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJGovSj1ztiUOdQDQUrqltZBCMvjzAvbAwXouvW4eLxvA7oos=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cho xin giá ạ",
+        "time": 1764425406,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Thanh",
+        "author_url": "https://www.google.com/maps/contrib/103686241945974309607/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8kkax8Y71xwPATpeRa59Ldacm-gB7bu629mXl_n23pLxSZdk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cho e xin giá",
+        "time": 1756393797,
+        "translated": false
+      },
+      {
+        "author_name": "Thuong Be",
+        "author_url": "https://www.google.com/maps/contrib/104186263616752388225/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAq1Dgcy2_TaJCpMVi8y9A5Hz5CELAPd8gTNGdi6XR-bsJiw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Tuyệt vời",
+        "time": 1768311946,
+        "translated": false
+      },
+      {
+        "author_name": "Cong Minh Luat Đinh",
+        "author_url": "https://www.google.com/maps/contrib/102319320257013916039/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcsjOcghK6RKYR1u91J3qZ79jOa85Rd2wR4ph48R99RMjHeQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Cho thuê phòng trọ giá rẻ",
+        "time": 1613888212,
+        "translated": false
+      },
+      {
+        "author_name": "Long Ly tieu",
+        "author_url": "https://www.google.com/maps/contrib/101469699127901532150/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIV6fNcr24P6-BzsJfxd1iXxSCnV3wSqfNSsWGaOoy-IPvfA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Tốt",
+        "time": 1751944688,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5
+  },
+  "harvested_at": "2026-04-28T16:35:28.563566"
+}

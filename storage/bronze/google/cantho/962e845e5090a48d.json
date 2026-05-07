@@ -1,0 +1,173 @@
+{
+  "u_key": "962e845e5090a48d",
+  "original_osm_name": "Nhà Trọ Sinh Viên Cô Bảy",
+  "google_raw": {
+    "formatted_phone_number": "0907 314 287",
+    "geometry": {
+      "location": {
+        "lat": 10.0261578,
+        "lng": 105.7665073
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.0274622302915,
+          "lng": 105.7678108802915
+        },
+        "southwest": {
+          "lat": 10.0247642697085,
+          "lng": 105.7651129197085
+        }
+      }
+    },
+    "name": "Nhà Trọ Sinh Viên Cô Bảy",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–20:00",
+        "Thứ Ba: 07:00–20:00",
+        "Thứ Tư: 07:00–20:00",
+        "Thứ Năm: 07:00–20:00",
+        "Thứ Sáu: 07:00–20:00",
+        "Thứ Bảy: 07:00–20:00",
+        "Chủ Nhật: 07:00–20:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "-08 12a10- Nguyễn Hoàng kha",
+        "author_url": "https://www.google.com/maps/contrib/101543077165848392204/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU08_XRUN6gPx9Ky94jwQYFJvXc41EW3BQkJYJUJWQpY_mx22A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Cho em hỏi bên mình còn phòng ko ạ",
+        "time": 1672327177,
+        "translated": false
+      },
+      {
+        "author_name": "Khoi Mach",
+        "author_url": "https://www.google.com/maps/contrib/116232355383896793143/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVjMck4_ZccF3Sn-zFnJUjY1iVeQSn8ephqJ__Tf_WCFPK-sY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Buổi tối khá là yên tỉnh",
+        "time": 1583509083,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyện Dương",
+        "author_url": "https://www.google.com/maps/contrib/116204219039420217731/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbMDx8wYgyl9S8l4TSeXSM-BzVaPLrUJE1AKcNHZkoyAkvLQYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Chủ trọ dễ thương lắm",
+        "time": 1533617414,
+        "translated": false
+      },
+      {
+        "author_name": "Phạm Sang",
+        "author_url": "https://www.google.com/maps/contrib/108852651435016615140/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlHrcGpbemm0aB9N_TbaexVYkA5vDdnV58KufevS8SZ6UTo9T4RQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "An toàn",
+        "time": 1569497288,
+        "translated": false
+      },
+      {
+        "author_name": "Tặng Trần Văn",
+        "author_url": "https://www.google.com/maps/contrib/100583792710694244443/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYJ21J6aqcZ7ZgiG8KQ8Rx26QeYmcS4j8YqYv0n1rED6XORkN5=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Căn tin xa.",
+        "time": 1504862024,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 22
+  },
+  "harvested_at": "2026-04-30T15:17:38.135612"
+}

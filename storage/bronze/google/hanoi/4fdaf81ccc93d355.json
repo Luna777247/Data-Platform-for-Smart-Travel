@@ -1,0 +1,173 @@
+{
+  "u_key": "4fdaf81ccc93d355",
+  "original_osm_name": "QUấn bún riêu Đền Lừ",
+  "google_raw": {
+    "formatted_phone_number": "0975 766 838",
+    "geometry": {
+      "location": {
+        "lat": 20.9870964,
+        "lng": 105.8586917
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9884700302915,
+          "lng": 105.8599837802915
+        },
+        "southwest": {
+          "lat": 20.9857720697085,
+          "lng": 105.8572858197085
+        }
+      }
+    },
+    "name": "Bún riêu Hải hói",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–21:00",
+        "Thứ Ba: 06:00–21:00",
+        "Thứ Tư: 06:00–21:00",
+        "Thứ Năm: 06:00–21:00",
+        "Thứ Sáu: 06:00–21:00",
+        "Thứ Bảy: 06:00–21:00",
+        "Chủ Nhật: 06:00–21:00"
+      ]
+    },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Hoàng Phi",
+        "author_url": "https://www.google.com/maps/contrib/102249789753016532950/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGYWXV4zEPqxQiVGgG35MBed79_uJDL18cSjYQsT5oI1Cj4A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bún riêu 50k lõng bõng nhân, bò bã và trắng ởn, tóp mỡ thì hôi, nước dùng thì nhạt không ra nổi mùi bún riêu.\nSàn nhà và bàn ăn siêu bẩn, dính nhớt, sàn nhà thì toàn rác không ai quét dọn mà vẫn thu được thêm 10k 1 bát. Ăn quá phí mồm.",
+        "time": 1771844903,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Linh",
+        "author_url": "https://www.google.com/maps/contrib/110163772020273910214/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDCrXPT36L1cTpEbuyAefasHl9NZkT9VksPDBXFH-fi0pmJUVQ=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 2,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không ngon, riêu pha trộn rồi chứ không phải riêu thật. Lèo tèo vài miếng thịt bò nát, nước dùng chua quá chứ không chua thanh.\n\nKhông gian rộng rãi, nhưng bẩn. Nhân viên chậm chạp, không thân thiện.",
+        "time": 1767562523,
+        "translated": false
+      },
+      {
+        "author_name": "Nga Việt",
+        "author_url": "https://www.google.com/maps/contrib/106506675436057560531/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEHn2GOXzBNgwOJT85SsbRpRzRrWkprh9mbV319JrpRTOzGWyFvQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn: ngon vừa đủ. Mình gọi bún riêu ốc nhỏ giò.\nNước dùng thanh, k bị quá đậm, bát to, bún khá nhiều, thành ra dù topping cũng nhiều nhưng ăn vẫn cảm giác hẫng/chênh lệch.\nMọi thứ ở mức vừa đủ.\nKhông gian: kgian sân vườn, to, thoáng\nCó thể sẽ quay lại.",
+        "time": 1765509650,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Tuấn Anh",
+        "author_url": "https://www.google.com/maps/contrib/114558863454281969024/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdfAg-vusX90Sgj6tr38-ScpndU9UoVD8kes9azwo3a_bS=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán rất ok lần nào sang đây cũng ăn. Tô đầy đặn giá phải chăng. Nên thử",
+        "time": 1758100692,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Nguyen Cao",
+        "author_url": "https://www.google.com/maps/contrib/107253967655026449904/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzLoMoohNoT3mB-Fia3WKD-4OzGfW_lLhY1xGr8aFbblq_Lyp6=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Mình gọi tô đặc biệt 60k, nước dùng ăn ổn, nhưng các topping ăn bình thường. Quán nhỏ nhưng có chỗ ngồi vỉa hè ngoài đường, có thể đỗ xe máy và ô tô hai bên đường. Nhiều nhân viên nên phục vụ khá nhanh.",
+        "time": 1737979705,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 21
+  },
+  "harvested_at": "2026-04-28T16:31:08.470082"
+}

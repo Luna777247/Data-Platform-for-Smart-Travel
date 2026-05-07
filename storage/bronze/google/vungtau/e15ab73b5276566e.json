@@ -1,0 +1,109 @@
+{
+  "u_key": "e15ab73b5276566e",
+  "original_osm_name": "Đất",
+  "google_raw": {
+    "formatted_phone_number": "0973 809 486",
+    "geometry": {
+      "location": {
+        "lat": 10.3863128,
+        "lng": 107.1211056
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3876354302915,
+          "lng": 107.1224151302915
+        },
+        "southwest": {
+          "lat": 10.3849374697085,
+          "lng": 107.1197171697085
+        }
+      }
+    },
+    "name": "NHÀ ĐẤT VŨNG TÀU PHAN ANH",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "BĐS Vũng Tàu Hạnh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111190793292557369064/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnMkH1zkDdIEZhft7a2mqhjOvGTGIS0IMY3SoGLKntR3sHi7U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Uy tín trung thực, địa chỉ tin cậy bậc nhất Vũng Tàu",
+        "time": 1754323801,
+        "translated": false
+      },
+      {
+        "author_name": "Việt Nam Trần",
+        "author_url": "https://www.google.com/maps/contrib/113352678909711938402/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK196qtROkbuBWTnTQFwn70GV9QM2EuOWjCEjE7Vm9bog7AOg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Chu đáo ,tận tình, trung thực ... rất uy tin",
+        "time": 1762143823,
+        "translated": false
+      },
+      {
+        "author_name": "Hanh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105054708968521815070/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkjQoU-8Tg9o1Y_uIWIi9sTBO_lUOTG6CvGCJbgHtYMKSCnDNsfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Chịu khó tìm sản phẩm giá tốt cho người mua  , tư vấn rõ ràng - chính xác .\nNơi mua bán nhà đất đất uy tín tại tp Vũng Tàu",
+        "time": 1683783893,
+        "translated": false
+      },
+      {
+        "author_name": "tuấn lê",
+        "author_url": "https://www.google.com/maps/contrib/109384931163457434030/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLVe0LqtV1g_cKu8BCxP7_W-rWzLHaUJjaomTeqBwSTU-bcw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cám ơn nhà đất Phan Anh đã hỗ trợ để mua được căn ưng ý và giá tốt. Thanks! Khi cần sẽ liên hệ lại.",
+        "time": 1683946959,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Tiến",
+        "author_url": "https://www.google.com/maps/contrib/116801942634869932913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwcDBeOL-9NuNlN4yUB0rFrmNxRt36gpQcmdaNo1xrd2OCnw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cảm ơn anh chị em công ty Bất Động sản phan anh rất nhiều nhé. Dịch vụ trên chuẩn 5 sao....",
+        "time": 1697162673,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 24
+  },
+  "harvested_at": "2026-05-03T19:46:10.337821"
+}

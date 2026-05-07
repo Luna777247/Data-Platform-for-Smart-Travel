@@ -1,0 +1,174 @@
+{
+  "u_key": "4c09f8b3b959f658",
+  "original_osm_name": "Nhà Hàng Mediterraneo",
+  "google_raw": {
+    "formatted_phone_number": "0833 397 414",
+    "geometry": {
+      "location": {
+        "lat": 21.0288084,
+        "lng": 105.8497771
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03023368029151,
+          "lng": 105.8510956802915
+        },
+        "southwest": {
+          "lat": 21.0275357197085,
+          "lng": 105.8483977197085
+        }
+      }
+    },
+    "name": "Nhà hàng Mediterraneo",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Linh Tsuchiya",
+        "author_url": "https://www.google.com/maps/contrib/117037012864106287710/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJL9DEhkfBvOsxHF59lbEcoVUXbN1JDuUoQ7kbnn3-eDzOB9A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "5 tháng trước",
+        "text": "Chắc đi đúng vào ngày cuối tuần, phục vụ nhanh nhanh chóng chóng để kiểu như đuổi khách để có bàn cho khách khác!\nMì thì cứng nguội tanh, pizza thì quá tệ , salat thì đc vài cọng rau! Sau 1 năm quay lại thì đồ ăn và phục vụ tệ quá! Có địa điểm tốt nên mới cho 2sao. Món súp thì🥴🥴 không bao giờ quay lại!",
+        "time": 1763974471,
+        "translated": false
+      },
+      {
+        "author_name": "Đặng Quỳnh Trang",
+        "author_url": "https://www.google.com/maps/contrib/102673277563285755104/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqyAeX97BDWKuBmVLVG-8A_YmfaD1eXn1DheLPg2yk0uyAHaNeEQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "M đi ăn đúng hôm 1/9 cấm đường, mưa to. Đồ ăn rất vừa, chuẩn ý. 2ng nên gọi dc ít đồ. Món khai vị burrata bọc thịt bò trên trong rất ngon, mỳ với tôm đỏ m lại thích có chút cay nhẹ sẽ đỡ ngấy hơn. Nhà hàng có menu đặc biệt theo tuần. Nay oder đồ rồi mới nhìn thấy trên tường. Sẽ quay lại vào dịp khác để thử thêm món. Nv rất nhiệt tình nc thân thiện, vì mưa m ngồi lại có gọi cafe latte, tiramitsu ăn cug ổn k đặc biệt",
+        "time": 1756736809,
+        "translated": false
+      },
+      {
+        "author_name": "Winewalk le",
+        "author_url": "https://www.google.com/maps/contrib/114298680008702243276/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGzi95ZKUO8oBxJ4QyoM-8FY6k0xES5Hk8rpt1ztH49_HHtg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Vị trí trung tâm ngay địa danh nổi tiếng Nhà Thờ lớn của Hà Nội, một địa chỉ làm mê hoặc bao khách du lịch.\nQuán nhỏ không lớn ngay phố Nhà Chung, thiết kế nhẹ nhàng ấm cúng, món ăn rất ngon khảu vị phù hợp, điều đặc biệt là thưởng thức không gian náo nhiệt của du khách,\nGiá cả rất hợp lý, I like it",
+        "time": 1765806740,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Nhan Nguyen Thi",
+        "author_url": "https://www.google.com/maps/contrib/104200774829846798171/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdtPBZoxaWuYXnBtHG3VqgKnWB6AU_ZQhbZK5MXDDX-BnKOvzJig=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà mình mỗi lần ra Hà Nội hầu như đều ghé Mediterraneo ăn. Không gian quán ấm cúng, đậm chất Âu, rất dễ chịu cho cả gia đình hoặc bạn bè tụ họp.\nNói về món ăn thì đúng là không làm mình thất vọng. Đặc biệt, súp bí ngô ở đây phải gọi là siêu đỉnh! Mềm, mịn, thơm béo, vừa miệng cực kỳ. Nhìn con mình ăn ngon lành mà ai cũng phải bật cười vì quá dễ thương – ăn hết veo lúc nào không hay. Ngoài súp, các món Âu khác cũng chuẩn vị, trình bày đẹp mắt.\nGiá ở đây hơi cao một chút so với các nhà hàng thông thường, nhưng bù lại, chất lượng món ăn và dịch vụ đều ổn nên mình thấy OK.\nNhân viên phục vụ lịch sự, chuyên nghiệp, không gian yên tĩnh, dễ chịu, phù hợp để thưởng thức bữa ăn một cách trọn vẹn.\nNếu bạn đang tìm một nhà hàng đồ Âu chất lượng giữa lòng Hà Nội, với món súp bí ngô \"best of the best\", thì Mediterraneo chắc chắn là cái tên đáng để thử.",
+        "time": 1744952642,
+        "translated": false
+      },
+      {
+        "author_name": "Hieu Pham",
+        "author_url": "https://www.google.com/maps/contrib/106451985709288139943/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAi0MY41FC4YcwRchi7zHvfolt4w4HZ7xK5aMMNfms4Ehs__Y6hQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nói chung, mỗi lần muốn ăn pizza mình đều lên đây. Đế bánh tươi, ngon, xốp, mềm. Khẩu phần ở đây lớn, hương vị nguyên bản.",
+        "time": 1743586222,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1051
+  },
+  "harvested_at": "2026-04-28T16:19:49.576507"
+}

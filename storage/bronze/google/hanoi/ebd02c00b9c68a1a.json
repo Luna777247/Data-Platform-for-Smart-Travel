@@ -1,0 +1,173 @@
+{
+  "u_key": "ebd02c00b9c68a1a",
+  "original_osm_name": "Aloha Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0918 352 685",
+    "geometry": {
+      "location": {
+        "lat": 21.0265052,
+        "lng": 105.8438147
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0278830302915,
+          "lng": 105.8450731802915
+        },
+        "southwest": {
+          "lat": 21.0251850697085,
+          "lng": 105.8423752197085
+        }
+      }
+    },
+    "name": "Aloha Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0710"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0710"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0710"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0710"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0710"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0710"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0710"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:10–23:00",
+        "Thứ Ba: 07:10–23:00",
+        "Thứ Tư: 07:10–23:00",
+        "Thứ Năm: 07:10–23:00",
+        "Thứ Sáu: 07:10–23:00",
+        "Thứ Bảy: 07:10–23:00",
+        "Chủ Nhật: 07:10–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Tú Linh Hoàng Thị",
+        "author_url": "https://www.google.com/maps/contrib/116128017182740028844/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURqbHWt45fSueiQIlpGVV-7Zo4u4kmBRCzi7N6YHV13Kmwffez=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Vãng lai đến thử. Trời lạnh, cốc trà Gừng hơi lạc quẻ. Cô chủ quán phục vụ nhanh tưoi cười niềm nở. Không gian quá hợp Đông Hà Nội. Nếu đi ngang sẽ ghé qua thử Cafe muối",
+        "time": 1706249176,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Minh",
+        "author_url": "https://www.google.com/maps/contrib/118277448692112890613/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYwTZK2cf4Rmt3CRpncuFtVYw2OZmp4BV8fx0KmWXMq3fEYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ uống ở quán rất ngon. Mình thích nhất là cà phê kem muối. Mọi người nên thử nhé😍",
+        "time": 1677402858,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Thư Phùng",
+        "author_url": "https://www.google.com/maps/contrib/116751292037363358116/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB-VL4Qku4rgPY3xu-1wXyvQ89wyEwmBXW4cjXCEg1O7dIi-Mnkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ uống ngon, giá thành hợp lí, cô chủ siêu đáng yêu và thân thiện^^",
+        "time": 1677858307,
+        "translated": false
+      },
+      {
+        "author_name": "G H",
+        "author_url": "https://www.google.com/maps/contrib/107768866110446979939/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrSqbNOrYHmJ1JeShjOywFswRnG2_Qne1uuRtQygAdJs4xyQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Ở Hà Nội, thật khó để đi dạo mà không bắt gặp một quán cà phê vỉa hè nào, và càng khó hơn khi quyết định nên thử quán nào. Quán Aloha nằm gần chỗ tôi ở nên việc lựa chọn khá dễ dàng.\n\nTuy nhiên, sau khi thử cà phê kem muối của họ, tôi sẽ khó mà thử một quán khác được.\n\nTôi gọi món đó một cách ngẫu hứng và đây là lần đầu tiên tôi được thưởng thức món này. Đó là một sự kết hợp phức tạp, vừa là sự tỉnh táo nhờ caffeine, vừa là món tráng miệng sau bữa tối. Vị mặn. Vị kem. Vị cà phê.\n\nTôi phải đến xem liệu họ có phải là hiện tượng nhất thời hay không. Không. Cà phê trứng của họ cũng rất tuyệt vời. Có một chút hương cam thoang thoảng và vị đắng của cà phê hòa quyện với vị ngọt của kem trứng.\n\nTôi không phải là chuyên gia nhưng vị giác của tôi chắc chắn thích những hương vị này.\n\nCuối cùng, tôi thử trà đào sả của họ. Nó cân bằng, sảng khoái và nhẹ nhàng. Những miếng đào đóng hộp kết hợp với cam kiểu Calimasi làm cho nó trở thành một \"món đồ uống cuối ngày\" hoàn hảo sau một ngày đi bộ quanh khu phố cổ.\n\nQuán còn có vị trí tuyệt vời trên phố, rất lý tưởng để ngắm người qua lại, và nhân viên thì cực kỳ chu đáo và thân thiện. Họ thậm chí còn tặng tôi một tách trà miễn phí, thật tuyệt.",
+        "time": 1751395492,
+        "translated": true
+      },
+      {
+        "author_name": "Nathaly",
+        "author_url": "https://www.google.com/maps/contrib/100837772690915339498/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJW0uWAH4Re0LojHhK5CEo5MjJn5zjOiuawoBG3VuSiGacvpA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Có chỗ ngồi ngoài trời và cả trong nhà. Nước ép ổi tôi gọi rất ngon và dịch vụ thì tuyệt vời. Giá cả phải chăng hơn nhiều và nhìn chung rẻ hơn so với các lựa chọn khác xung quanh ❤️",
+        "time": 1758878650,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 44
+  },
+  "harvested_at": "2026-04-26T16:51:17.560463"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "d5e5e93907ba73e7",
+  "original_osm_name": "K.A. Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0985 454 679",
+    "geometry": {
+      "location": {
+        "lat": 11.9550461,
+        "lng": 108.4369731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9563981302915,
+          "lng": 108.4383295802915
+        },
+        "southwest": {
+          "lat": 11.9537001697085,
+          "lng": 108.4356316197085
+        }
+      }
+    },
+    "name": "K.A COFFEE",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–17:00",
+        "Thứ Ba: 06:00–17:00",
+        "Thứ Tư: 06:00–17:00",
+        "Thứ Năm: 06:00–17:00",
+        "Thứ Sáu: 06:00–17:00",
+        "Thứ Bảy: 06:00–17:00",
+        "Chủ Nhật: 06:00–17:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Tuấn Phạm",
+        "author_url": "https://www.google.com/maps/contrib/115303310200395491208/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZu8_5Mgso9EhdBeJqsGP_6D4WLm0cZrd7eiEeVOXriAcpMg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cf ngon, thơm, body dày và có hậu vị ngọt, rất hợp gu mình nên 3 ngày ở ĐL mình đã ghé đủ 3 ngày.\nVợ mình uống cf muối cũng khen ngon, và có nhiều loại khác cũng ngon k kém như phômai, kem trứng....\nQuán có không gian thoáng, sạch sẽ, chỗ ngồi thoải mái. Chủ quán có chơi cá nên có hồ cá và nhìu loại cá cũng hay ho cho khách vừa uống cf vừa chill chill ngắm cá.\nTóm lại sẽ quay lại ủng hộ quán khi có dịp quay lại ĐL.",
+        "time": 1755246382,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Nhi",
+        "author_url": "https://www.google.com/maps/contrib/103181102025840434404/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdQhc1VGDAp1Ox0_n0VMOwfteAQIRqpvYtLCDFRatykosfzWQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình đi dịp tết nên chỉ tấp đại thôi mà nước ngon bất ngờ nha 🤤. Trà sữa olong gạo rang thơm mà ngon kiểu vị nhà làm. Matcha latte dùng bột matcha bình thường thôi nhưng chị chủ pha vừa lắm luôn.",
+        "time": 1771639053,
+        "translated": false
+      },
+      {
+        "author_name": "An Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112064152157850217800/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyh27xJ38bSqFxig-1uQDqenQ-j9ldiFxhUH_kf_7ywOIiVLUc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán dễ tìm, anh chị chủ thân thiện. Món matcha latte tàu hủ siêu ngonnnnn 🫶🫶🫶 giá cả hợp lý. Trà sữa ko bị ngọt gắt. Ngon ạaaa",
+        "time": 1751602395,
+        "translated": false
+      },
+      {
+        "author_name": "Phước Trần Thiên",
+        "author_url": "https://www.google.com/maps/contrib/110398695701952999983/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn9efBgYiGQmUhnHEl2zJvh7gnSFSI4TS8tsQuCMuLaB2f1ZYUvg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cafe rất ngon, quán rộng rãi, nhân viên rất nhiệt tình. 10 điểm cho chất lượng",
+        "time": 1754452189,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Loan Nguyen Thi",
+        "author_url": "https://www.google.com/maps/contrib/110423941873763821121/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJX03z8nxaTS9kWtPNhqUZKJNy7pzzrlLAhCg175CcTiERpHw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Thức uống rất ngon, giá rất mềm",
+        "time": 1751772972,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "harvested_at": "2026-04-30T15:10:53.220197"
+}

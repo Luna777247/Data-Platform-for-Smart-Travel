@@ -1,0 +1,109 @@
+{
+  "u_key": "9dc48f9c12b0a30b",
+  "original_osm_name": "Nhà Hàng Hoa Sữa",
+  "google_raw": {
+    "formatted_phone_number": "0916 270 283",
+    "geometry": {
+      "location": {
+        "lat": 21.2154655,
+        "lng": 105.7797623
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2167935802915,
+          "lng": 105.7811547802915
+        },
+        "southwest": {
+          "lat": 21.2140956197085,
+          "lng": 105.7784568197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Thu Hoa Sữa Nội Bài",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Giang Tay Coporation Guide",
+        "author_url": "https://www.google.com/maps/contrib/102941124327562288638/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoRhHviEmWyeJXSq72QU4H5hQRZcvWgD1F5iOeOYMxtZYN_-Pe=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán sân vườn rộng rãi, có phòng Vip riêng tư. Đồ ăn thì ổn cho khách du lịch\nNhân viên gọn gàng sạch sẽ",
+        "time": 1761284416,
+        "translated": false
+      },
+      {
+        "author_name": "Bún hay đi",
+        "author_url": "https://www.google.com/maps/contrib/109000890925445831477/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFZ7wUVTjSxqQxny7X_Z7UX9LdKQMLIwVPWNP9iML_zMNDEA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Tổng 495k cho 2 người. Có món rau xào là ok nhất😅 Khá thất vọng với món súp hải sản kiểu thái, này giống các loại súp gà bình thường, món sườn 215k không xứng với giá tiền, ghi là sườn chiên vị tỏi nhưng lên món sườn lăn bột chiên lên, khô và mặn. Mì xào thì là mi tôm hảo hảo xào, còn cả nước và bò rất dai🥲🥲 rất lãng phí tiền.",
+        "time": 1763742130,
+        "translated": false
+      },
+      {
+        "author_name": "Shop Pink",
+        "author_url": "https://www.google.com/maps/contrib/106148293592783645396/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX94-D8Zmq8n5SWWxTD4NRxXGXAw47gAELorswnhoqnC9LBRj8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, cảnh đẹp lắm luôn chụp ảnh cháy máy. Nhân viên siêu nhiệt tình nữa. Đánh giá 5 sao cho nhà hàng ạ.",
+        "time": 1732157145,
+        "translated": false
+      },
+      {
+        "author_name": "My Anh",
+        "author_url": "https://www.google.com/maps/contrib/115122905693095639555/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMnDQG-AZ6fgnTKdDaLeXlZfxv5b4fT8D_kq8U3Boa5Qy_mZw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "5 tháng trước",
+        "text": "1-2 năm trước ăn rất OK. Lần này đến ăn thấy chất lượng đi xuống quá. Từ khâu vệ sinh cho đến món ăn đều dở. Đặc biệt quá nhiều ruồi bâu vào món ăn.",
+        "time": 1762598598,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Thắng Audio",
+        "author_url": "https://www.google.com/maps/contrib/108542071220707377022/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7PSX5rjkqs53T15GnbiEv5AF_q7eoksqrxDotRb-ky1vjeS05=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ Ăn Ngon và Rẻ\nkhách lên ăn ở đây",
+        "time": 1766863179,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 47
+  },
+  "harvested_at": "2026-04-28T16:19:57.926569"
+}

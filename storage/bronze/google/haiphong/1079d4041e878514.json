@@ -1,0 +1,24 @@
+{
+  "u_key": "1079d4041e878514",
+  "original_osm_name": "Quảng trường Thống nhất",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.9327546,
+        "lng": 106.3270644
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.93419293908416,
+          "lng": 106.3285211356876
+        },
+        "southwest": {
+          "lat": 20.93149497850116,
+          "lng": 106.3258231751046
+        }
+      }
+    },
+    "name": "Quảng trường Thống Nhất"
+  },
+  "harvested_at": "2026-04-30T15:21:32.507054"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "5db20b065f017aed",
+  "original_osm_name": "Nhan's kitchen",
+  "google_raw": {
+    "formatted_phone_number": "0905 186 867",
+    "geometry": {
+      "location": {
+        "lat": 15.8782307,
+        "lng": 108.3451337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8795584802915,
+          "lng": 108.3464392302915
+        },
+        "southwest": {
+          "lat": 15.8768605197085,
+          "lng": 108.3437412697085
+        }
+      }
+    },
+    "name": "Nhan's Kitchen Restaurant",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2120"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2120"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2120"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2120"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2120"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2120"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2120"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:20",
+        "Thứ Ba: 10:00–21:20",
+        "Thứ Tư: 10:00–21:20",
+        "Thứ Năm: 10:00–21:20",
+        "Thứ Sáu: 10:00–21:20",
+        "Thứ Bảy: 10:00–21:20",
+        "Chủ Nhật: 10:00–21:20"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Luu Joshep",
+        "author_url": "https://www.google.com/maps/contrib/107576487294588176739/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXL12-XalX21AUHGdoMh4KTRIj5jjKmPJycPMFnvN3rDTP9uV5=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Không uổng công đọc review từng đánh giá của các người khách từng trải nghiệm ở đây.\nĐiều đầu tiên khi đi bộ đến quán là quán khá đông khách Châu Âu và ít khách người Việt, nhân viên nhanh nhẹn và lịch sự, nói tiếng anh rất tốt.\nMình thấy nhiều người nói về món chả giò, vâng, chả giò ngon cùng nước mắm, khá là tuyệt vời.\nCác món còn lại khá oke, chắc có thể do mình đi bộ nhiều và ra mồ hôi nhiều nên cơ thể thiếu muối, nên mình thấy các món còn lại chưa đặm đùa lắm, nên mình có uống thử nước tương và thấy rằng không mặn.\nĐồ ăn ở đây đảm bảo cho bạn no bụng.\nNhân viên phục vụ còn hỗ trợ mình tận tình trong việc book xe rời khỏi quán và còn hỏi giá trước giúp mình.\nNếu bạn không gọi nước ngọt hay rượu bia, nhân viên vẫn sẽ mời bạn 1 ly nước khoáng.\nĐiều đặc biệt là quán này nổi tiếng, nhưng sẽ không tính thêm thuế hay phụ phí cho bạn.",
+        "time": 1749137768,
+        "translated": false
+      },
+      {
+        "author_name": "THUY TRAN",
+        "author_url": "https://www.google.com/maps/contrib/115858994676042747881/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVV22AcCXb3VWbfQCLQmzcArsnc1Xa3Hs92IKkImKNpOcgVsCHC=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán đông khách Tây. Món cao lầu ăn cũng bình thường. Món nem hải sản thì ko ngon, chủ quán nói mua về rán lên chứ ko phải tự tay làm.",
+        "time": 1755934405,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102562113885446790252/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqDpAfRHSn_-jvX2ZOFnKqGFpdS7dWiteR8gRdkhY7sfW_dqGr=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn okie. Phục vụ nhanh, nhân viên thân thiện, nhiệt tình.\nKhông gian quán sạch sẽ.\nGiá thì mình nghĩ hơi cao. Nhìn chung thì mình thấy hài lòng ạ 👌👌",
+        "time": 1697955627,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Quân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116446016995959337191/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyEFtEsICqPbJGydIbo3FRle3NO0R3PRRP54rxFkns21XwVeU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán sạch sẽ, đồ ăn lên nhanh, giá cũng ổn so với chất lượng.",
+        "time": 1754355781,
+        "translated": false
+      },
+      {
+        "author_name": "Tiffany S.",
+        "author_url": "https://www.google.com/maps/contrib/112508291195306007913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXe3AHRULPw8C55E6AkGg2G1rOxveCg4KJjXFnqWIy-LDbHoP2-=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ ăn tạm ổn, không có gì quá đặc biệt, giá cao so với chât lượng đồ ăn.\n\nPizza không ngon với khẩu vị nhà mình.",
+        "time": 1675514626,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5502
+  },
+  "harvested_at": "2026-04-29T09:56:14.697721"
+}

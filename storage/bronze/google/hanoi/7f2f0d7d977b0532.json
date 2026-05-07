@@ -1,0 +1,89 @@
+{
+  "u_key": "7f2f0d7d977b0532",
+  "original_osm_name": "Khách Sạn Hanoi Heart",
+  "google_raw": {
+    "formatted_phone_number": "024 3928 6682",
+    "geometry": {
+      "location": {
+        "lat": 21.0315167,
+        "lng": 105.8507877
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0329283302915,
+          "lng": 105.8520912302915
+        },
+        "southwest": {
+          "lat": 21.03023036970849,
+          "lng": 105.8493932697085
+        }
+      }
+    },
+    "name": "Heart Hotel",
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Nguyen Cuong",
+        "author_url": "https://www.google.com/maps/contrib/106656115000059634345/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXUg56j-DkAag-QO7fxb8JsgX9unCHZMs-9igGoDPwS34Few=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Khách sạn giá tốt, nằm trên con đường rất yên tĩnh. Chị chủ rất nhiệt tình",
+        "time": 1476375086,
+        "translated": false
+      },
+      {
+        "author_name": "tien minh",
+        "author_url": "https://www.google.com/maps/contrib/116423384653164156805/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbeD4-NFz_VrxoHk6P5sgNdM9e6cmEtCclyc0ZMOtrtlByudby=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Chổ này gần hồ Gươm, khá tiện lợi để mọi người di thăm phố cổ. 😊",
+        "time": 1574428072,
+        "translated": false
+      },
+      {
+        "author_name": "Huong Nguyen Thi",
+        "author_url": "https://www.google.com/maps/contrib/116316066111610457753/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpp7T9J4l0cIJAat_aeomdCeyLOf0Bxmr7dPIWM1hFqZ8CRjg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "7 năm trước",
+        "text": "Vị trí khách sạn trung tâm thành phố. Dễ chịu",
+        "time": 1532843789,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh Tran",
+        "author_url": "https://www.google.com/maps/contrib/102863860241587862641/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW1eLCanU5USV2DYkiVxswe_VUGz_Wxf2wm_MOukuXG_y9o33KAA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Binh dan. Hoi nho. Nhung sanh sẽ",
+        "time": 1557811463,
+        "translated": false
+      },
+      {
+        "author_name": "Dx2",
+        "author_url": "https://www.google.com/maps/contrib/117640113999222939637/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8mPR2cbwVXTvhaTlHV8BJW-ghA-F-ja3VcAv176fFcSBrXms=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Ở đây chỉ tạm được",
+        "time": 1559926605,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 104
+  },
+  "harvested_at": "2026-04-27T19:58:21.043551"
+}

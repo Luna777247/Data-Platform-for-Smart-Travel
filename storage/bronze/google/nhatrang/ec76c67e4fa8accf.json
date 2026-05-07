@@ -1,0 +1,173 @@
+{
+  "u_key": "ec76c67e4fa8accf",
+  "original_osm_name": "Chi Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0378 890 468",
+    "geometry": {
+      "location": {
+        "lat": 12.2655654,
+        "lng": 109.196384
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2669175302915,
+          "lng": 109.1977035302915
+        },
+        "southwest": {
+          "lat": 12.2642195697085,
+          "lng": 109.1950055697085
+        }
+      }
+    },
+    "name": "CaLa Mango House - CamLamOnline Chi Nhánh Tháp Bà Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Long Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/101131221480783376832/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-ii4Qcj7oE67HK8uAQgTzDY3ukLifAXL-y6SPBGZFR8KFKkMz=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nếu bạn đang khám phá khu Tháp Bà Ponaga (Nha Trang) thì CaLa Mango House là điểm dừng chân thú vị và đáng giá. Quán nằm ngay trên trục đường chính đối diện trực tiếp Tháp Bà, không gian nhỏ xinh, decor gần gũi, sạch sẽ, rất thích hợp để nghỉ chân sau khi tham quan.\nĐiểm nhấn là các món từ xoài Cam Lâm – xoài sấy, trà xoài mát, rất thơm và khác biệt so với quán cà phê bình thường. Nhân viên thân thiện, phục vụ nhanh.\nĐây là một trải nghiệm đậm chất địa phương, vừa uống đồ vừa thưởng thức đặc sản nổi tiếng Khánh Hòa – đáng để thử!",
+        "time": 1770116609,
+        "translated": false
+      },
+      {
+        "author_name": "Phuc Lam",
+        "author_url": "https://www.google.com/maps/contrib/108603238307645881740/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDfMhMwJVBrVB2XJV-vO6__ZFDC1pcM8Af-HjXWX-VwBf-O8xb=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Xoài muối ớt ngon, mình mua tặng mn rất thích. Quay lại nhiều lần. Nv tư vấn nhiệt tình, dễ thương, có đồ ăn thử",
+        "time": 1769918491,
+        "translated": false
+      },
+      {
+        "author_name": "khang kien",
+        "author_url": "https://www.google.com/maps/contrib/100468365620738854426/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdqMa1b6GGSIy6wHZkx_wHBvBxu6cEJC2JlF_15eWWj_ITSGc=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhân viên dễ thương, nước ngon,không gian thoáng mát,view tháp bà đẹp.Đáng đi mn nhé",
+        "time": 1768223377,
+        "translated": false
+      },
+      {
+        "author_name": "Zed",
+        "author_url": "https://www.google.com/maps/contrib/110858965036680168569/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7AlvpIacxoGvF9f65ojb-hoB0LfW4bq_q9mwgDgBUH45bX68=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Kem và sinh tối khá ngon, tuy nhiên sẽ hơi ngọt đối với những người kén ngọt. Nhân viên nhiệt tình.\nGóp ý nhỏ là tầng 2 nên làm rèm kéo vì nắng quá. Mình ngồi 3-4h chiều mà nắng quá chiếu vô tận người không né được.",
+        "time": 1772614877,
+        "translated": false
+      },
+      {
+        "author_name": "Quangvu Dinh",
+        "author_url": "https://www.google.com/maps/contrib/108965528414965286664/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVla5nDz7t5cNxkLcB6B5DoQJM7jZf7f8tvrS5Wl79rPDI2_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ uống ngon, các món ăn chế biến từ xoài cũng rất ngon và đặc biệt, cộng với view ngắm cảnh quá đẹp",
+        "time": 1770172018,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 546
+  },
+  "harvested_at": "2026-05-02T15:30:56.515813"
+}

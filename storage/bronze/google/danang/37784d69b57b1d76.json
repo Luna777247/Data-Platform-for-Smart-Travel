@@ -1,0 +1,173 @@
+{
+  "u_key": "37784d69b57b1d76",
+  "original_osm_name": "Vina Ngon",
+  "google_raw": {
+    "formatted_phone_number": "0905 925 579",
+    "geometry": {
+      "location": {
+        "lat": 15.8849149,
+        "lng": 108.3528703
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8862635802915,
+          "lng": 108.3542228302915
+        },
+        "southwest": {
+          "lat": 15.8835656197085,
+          "lng": 108.3515248697085
+        }
+      }
+    },
+    "name": "Nhà Hàng - Bar Vina Ngon",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Ly Ng",
+        "author_url": "https://www.google.com/maps/contrib/117686529958641155975/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJakBeq1fYjBHsUa6y79T5a84MxaksJBEJJIXuUhcbQ4pcTaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "một gia đình nhỏ rất ấm cúng khi tôi bước vào quán như trở về nhà của mình. Mọi người đều thân thiện và nhiệt tình",
+        "time": 1769007542,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Quang",
+        "author_url": "https://www.google.com/maps/contrib/107327419523657222175/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL8h9whQzCiu0igOG5QJrGA9sOtfs037yEV4mJSc_o_ZzcpHiVMg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Gia đình chúng tôi thật sự yêu mến nơi này. Đồ ăn ngon - Dịch vụ chu đáo - Không gian đẹp - Chủ quán thân thiện, nhiệt tình.\nYêu Hội An - Mến Bar Vina Ngon!",
+        "time": 1696775419,
+        "translated": false
+      },
+      {
+        "author_name": "nguyen ngoc hung",
+        "author_url": "https://www.google.com/maps/contrib/108594045784012465388/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgDS9stcZ9VVPD-qU15PXfpiz9uM0fAVsEAj1_y8Y_VE-aJnuZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Một bữa ăn tối 07/06/2025 tuyệt vời tại đây. Các con tôi cứ đòi trưa nay quay lại đây ăn, cô chủ quán thân thiện có 2 cô con gái rất đáng yêu",
+        "time": 1749363774,
+        "translated": false
+      },
+      {
+        "author_name": "huong tran",
+        "author_url": "https://www.google.com/maps/contrib/100263434287931132936/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-dtPnx8687bOr829THJzgtGEcQ2q_16sUvpUUjZb85khlbg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Không gian tuyệt vời. Cây cối, không khí rất trong lành. Món ăn  ngon và giá cả hợp lí. Cô chủ và những đứa trẻ con rất đáng yêu.",
+        "time": 1688305382,
+        "translated": false
+      },
+      {
+        "author_name": "phong trung",
+        "author_url": "https://www.google.com/maps/contrib/105682164286137988605/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhPy11JrhTBocXcSOf5bNka1KF4eG0op7PCdtRfckPDH7_nw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Món ngon việt nam giữa lòng phố cỗ Hoi Diem đến không thể bỏ qua khi đến Hội An ..",
+        "time": 1708008543,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 256
+  },
+  "harvested_at": "2026-04-29T09:40:19.635589"
+}

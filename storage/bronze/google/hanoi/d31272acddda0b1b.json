@@ -1,0 +1,174 @@
+{
+  "u_key": "d31272acddda0b1b",
+  "original_osm_name": "Lifted Coffee & Brunch",
+  "google_raw": {
+    "formatted_phone_number": "0906 262 107",
+    "geometry": {
+      "location": {
+        "lat": 21.0339917,
+        "lng": 105.8470682
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0352887302915,
+          "lng": 105.8483730302915
+        },
+        "southwest": {
+          "lat": 21.0325907697085,
+          "lng": 105.8456750697085
+        }
+      }
+    },
+    "name": "Lifted Coffee & Brunch",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–19:00",
+        "Thứ Ba: 08:30–19:00",
+        "Thứ Tư: 08:30–19:00",
+        "Thứ Năm: 08:30–19:00",
+        "Thứ Sáu: 08:30–19:00",
+        "Thứ Bảy: 08:30–19:00",
+        "Chủ Nhật: 08:30–19:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "•JellyBean Bear•",
+        "author_url": "https://www.google.com/maps/contrib/116584268048705999952/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUri7KbWgkQeaU0YuZrTKsSSu1KoDB6_jFPQOKgSgAZe_MVe4bLsA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Khẩu phần ăn thật sự là quá nhiều =))) phù hợp cho khách nước ngoài nhiều ăn. Đồ mặn m ko đánh giá cao lắm, dầu mỡ và nguội nhanh. Nhưng bánh ngọt ngon và đồ uống ngon",
+        "time": 1764398261,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Hà",
+        "author_url": "https://www.google.com/maps/contrib/108912946014864376795/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWX-H41TWa1Nm7P16fmKhLqkmIOFCKA8uGQhTjv7L4WkGz43ANo=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn không xuất sắc, omelet ít trứng nên khônb thành ra được omelet mà chỉ như trứng gập đôi vào thôi. Gọi là omelet mà như trứng rán thêm hành của Việt Nam\nHarshbrown ở đây cũng có vị hơi lạ miệng mình, kiểu bỏ thảo dược gì đó vào. Waffle serve cùng bơ TH không ngon lắm. Lúc mình nhận đồ ăn chỉ ở mức ấm chứ không phải nóng hổi, như kiểu chỉ được quay nóng lại thôi ấy. Nên để được vài phút là thức ăn bắt đầu nguội rồi.\nBenedict bên mình sốt cũng lạ hoắc, ăn giống vị tương ớt và mayonaise trộn vào nhau chứ không phải sốt hollandaise.\nScramble thì đánh không tới nên lòng đỏ lòng trắng tách biệt.\nNói chung là so với giá thì đồ ăn ở đây khá tệ với mình\nNhân viên thì mặc dù khay thìa dĩa có mỗi 2 cái dao chắc bạn ấy không để ý nên nếu mình không xin thêm thì bạn ấy cũng không biết bị thiếu.\nĐược cái không gian view đẹp.",
+        "time": 1768044350,
+        "translated": false
+      },
+      {
+        "author_name": "Joyo Hero",
+        "author_url": "https://www.google.com/maps/contrib/113481025289071127043/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh9TLcUBsmnX-1_xjVxEWxgDWYY_wlLbskO5dqGKSgK8UqOYi0=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đợt trước ngồi ăn bánh ngọt ở đây ok. Nay thử ăn brunch thấy thất vọng thật sự. K nghĩ là quán bán cho nhiều ng nc ngoài trên phố cổ như thế mà hương vị cơ bản lại tệ vậy. Đĩa khoai 50k lèo tèo cháy đen thui ăn thì khô tóp lại. Cốc nc chanh chưa ở đâu mình uống size bạc sỉu như này, maccaroni tuyệt đối nhạt, không có hương vị gì, và cảm giác ăn như k có muối... Với trải nghiệm này đánh giá 1 sao, +1 sao nhân viên lịch sự. Tổng ~4xxk thấy k xứng đáng lắm. Never comeback..",
+        "time": 1766133262,
+        "translated": false
+      },
+      {
+        "author_name": "Lucy Nguyên",
+        "author_url": "https://www.google.com/maps/contrib/116344317014336125432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHwDGZhv2J2iUBICkUniHD1E0lNqygwC5TfhksjB4W87KThfw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Một góc nhỏ dễ thương ở Hàng Gà: bánh ngon, uống ngon, phục vụ dễ thương. Rất đáng để quay lại.",
+        "time": 1764833123,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Long",
+        "author_url": "https://www.google.com/maps/contrib/105680537921263054001/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVNbatdPagE51bOBftdxemsuj9ua7j3tO8f-ZGpz_c6nSbDA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mua mang về vài cái bánh và thật sự thấy tệ khi mở ra và thấy croissant cháy như này. Bánh cháy như này mà cũng đưa cho khách được, hay nghĩ mang về nên làm xuề xoà cũng được?",
+        "time": 1768131491,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2280
+  },
+  "harvested_at": "2026-04-28T16:28:50.418931"
+}

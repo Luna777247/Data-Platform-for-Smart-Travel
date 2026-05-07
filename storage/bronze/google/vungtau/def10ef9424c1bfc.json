@@ -1,0 +1,163 @@
+{
+  "u_key": "def10ef9424c1bfc",
+  "original_osm_name": "Soul Pizza",
+  "google_raw": {
+    "formatted_phone_number": "0703 546 845",
+    "geometry": {
+      "location": {
+        "lat": 10.3497127,
+        "lng": 107.072459
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3510206802915,
+          "lng": 107.0738657802915
+        },
+        "southwest": {
+          "lat": 10.3483227197085,
+          "lng": 107.0711678197085
+        }
+      }
+    },
+    "name": "Soul Pizza & Burger",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–21:30",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 10:30–21:30",
+        "Thứ Năm: 10:30–21:30",
+        "Thứ Sáu: 10:30–21:30",
+        "Thứ Bảy: 10:30–21:30",
+        "Chủ Nhật: 10:30–21:30"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Loan Phan",
+        "author_url": "https://www.google.com/maps/contrib/103136255048318424661/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMsdBznukpzU80Aw3j_ym3XUR15SRJSIhotJ52DFzpXqtWgt7H=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn cực kì mặn. Never come back",
+        "time": 1716208486,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Giang",
+        "author_url": "https://www.google.com/maps/contrib/114855813552641934211/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG9JwSvXVW8pjofKztYxdSTZhGxjPb6-_-Voirx_m3ahiZXA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vô tình ghé vào, chủ quán là người nước ngoài, không biết có điều chỉnh cho hợp khẩu vị người Việt mình không nma toi ăn toi kiểu \"Wow\" :)( . Giá cực rẻ, toi đi ăn 2 người không tới 300k mà no điên, phải ăn cố (pizza size S, mì carbonara, salad). Chắc chắn sẽ có quay lại quán",
+        "time": 1772463905,
+        "translated": false
+      },
+      {
+        "author_name": "Владимир Климов",
+        "author_url": "https://www.google.com/maps/contrib/104175727373164248414/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZ0DxkY8PWD5OZ0mFVWLlfLXS1q0CEbYtzYLzg5EHjLzpOJ4s=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Một nơi rất đáng yêu với bầu không khí dễ chịu. Tôi đã ghé thăm nơi này vào giờ ăn trưa. Tất cả các món ăn đều được nấu rất nhanh, khẩu phần lớn, hương vị tuyệt vời. Rất khuyến khích bạn ghé thăm. Chắc chắn sẽ quay lại.",
+        "time": 1749618912,
+        "translated": true
+      },
+      {
+        "author_name": "Sergei Asmus",
+        "author_url": "https://www.google.com/maps/contrib/105940946061559520933/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNX5H9aezKjCQDPpNI5EwiOE2qP07Mxw-rI8qyBgpLVKusjfjqpA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Ôi, mọi thứ khởi đầu thật tuyệt vời khi quán mới mở! Sau một thời gian, đây là kết luận cuối cùng: Phần salad thì nhỏ xíu, nhưng ít nhất hương vị cũng tạm được! Món hến sốt kem thì có mùi bùn và quá mặn! Sườn bò có xương, trong thực đơn được chụp là một miếng thịt lớn có xương, thực tế lại được thái mỏng và toàn gân. Sau khi trao đổi với đầu bếp, tôi đã bỏ món này và hóa đơn được giảm giá! Tôi cho điểm 4 vì tôn trọng chủ quán, nhưng họ cần cẩn thận hơn trong việc lựa chọn nhà cung cấp và chú ý hơn đến thực đơn! Nói chung là, cũng tạm được thôi 😞",
+        "time": 1683898380,
+        "translated": true
+      },
+      {
+        "author_name": "Olga Manina",
+        "author_url": "https://www.google.com/maps/contrib/110721367289420712826/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAJP6ZEIOdc1sERY3MOXcgFcauHkgFPHazP70YOSa-fzZ5rA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một địa điểm thực sự tuyệt vời, rất nhiều món ăn ngon, từ pizza đến súp tom yum, bia địa phương tuyệt hảo, chúng tôi đã đến đó nhiều hơn một lần, thậm chí còn tham gia trò chơi đố vui, chúng tôi thực sự rất thích, chắc chắn sẽ quay lại lần nữa, chúng tôi khuyên bạn nên đến đây!",
+        "time": 1770789188,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 93
+  },
+  "harvested_at": "2026-05-03T19:50:33.675523"
+}

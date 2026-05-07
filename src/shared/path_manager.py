@@ -1,4 +1,4 @@
-import os
+﻿import os
 
 # ROOT_DIR is 3 levels up from this file (src/shared/path_manager.py)
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

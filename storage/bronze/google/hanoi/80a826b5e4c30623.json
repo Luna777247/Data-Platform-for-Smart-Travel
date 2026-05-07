@@ -1,0 +1,89 @@
+{
+  "u_key": "80a826b5e4c30623",
+  "original_osm_name": "Khách Sạn Little Hanoi",
+  "google_raw": {
+    "formatted_phone_number": "0818 456 707",
+    "geometry": {
+      "location": {
+        "lat": 21.0349925,
+        "lng": 105.8474417
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0363369802915,
+          "lng": 105.8488175802915
+        },
+        "southwest": {
+          "lat": 21.0336390197085,
+          "lng": 105.8461196197085
+        }
+      }
+    },
+    "name": "Booking office",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "phu nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100829759861838272093/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMLQB7NyKZyYEz-tKf_2Pbp5WbDZIrMX3rwQPM7XVdMemoyZ1r=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Tôi vs gd đã ở ks này 2 đêm. Phòng sạch sẽ. Nhân viên rất thân thiện\nRất thuận tiện tìm điểm ăn uống gần khu chợ đêm phố cổ\nCảm ơn Pergola Thắng",
+        "time": 1670580643,
+        "translated": false
+      },
+      {
+        "author_name": "thanh chung Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/113010892960005609665/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz9DvkDJqSUm87BTOar7yL9AV2GN5W87b_Tn2y_Ne9sLt_84rc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "phòng sạch sẽ.nhân viên rất nhiệt tình.chu đáo.trung tâm phố cổ nên rất tiện cho việc trải nghiệm ẩm thực.",
+        "time": 1661576304,
+        "translated": false
+      },
+      {
+        "author_name": "Dũng Bùi",
+        "author_url": "https://www.google.com/maps/contrib/106348999139692579716/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPYJlo6-krXUmFU1_pzwl1R1CY3dvWdNyeKKLdFu61WjbWrQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Phòng sạch sẽ, nhân viên rất nhiệt tình.",
+        "time": 1691020876,
+        "translated": false
+      },
+      {
+        "author_name": "MaiHà Soledad",
+        "author_url": "https://www.google.com/maps/contrib/100094037889271037159/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxfe1tDx9iYfmOuoUoqL4vA_CmvL2PsaSbkwopvSEt_hiyd2v32w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Địa điểm đẹp , nhân viên thân thiện",
+        "time": 1590633322,
+        "translated": false
+      },
+      {
+        "author_name": "Admin Nhật Minh",
+        "author_url": "https://www.google.com/maps/contrib/108988022810096180412/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInYtg5TKL9uWk4mgtyTn4mHVE20y3QjkksNRR0rrgCSodfB8RV=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Rất tốt",
+        "time": 1472609861,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 141
+  },
+  "harvested_at": "2026-04-27T19:58:46.739949"
+}

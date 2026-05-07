@@ -1,0 +1,173 @@
+{
+  "u_key": "efeb5ef2ce3693a6",
+  "original_osm_name": "Tre việ",
+  "google_raw": {
+    "formatted_phone_number": "0236 3942 950",
+    "geometry": {
+      "location": {
+        "lat": 16.0674079,
+        "lng": 108.2430186
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0687474302915,
+          "lng": 108.2444446802915
+        },
+        "southwest": {
+          "lat": 16.0660494697085,
+          "lng": 108.2417467197085
+        }
+      }
+    },
+    "name": "Quán Tre Việt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–00:00",
+        "Thứ Ba: 08:30–00:00",
+        "Thứ Tư: 08:30–00:00",
+        "Thứ Năm: 08:30–00:00",
+        "Thứ Sáu: 08:30–00:00",
+        "Thứ Bảy: 08:30–00:00",
+        "Chủ Nhật: 08:30–00:00"
+      ]
+    },
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Oanh Chung My",
+        "author_url": "https://www.google.com/maps/contrib/105983509899246587508/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXLGFakeSpdZW17XGZdYZC0vGd8ih420HQUvnU4XoppbTy6XF_6g=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 2,
+        "relative_time_description": "6 năm trước",
+        "text": "Đồ ăn quán này phải nói là vừa thiếu chật mà cũng thiếu lun lượng. Đồ ăn làm ko ngon, canh chua cá bóp đã tanh, vị gì mà chua lè, đã vậy cá trong canh gì mà ko thấy thịt đâu, toàn là xương vây và đầu ko ah! Thiệt sự rất tệ! Rau muống xào cũng khá mặn nữa. Chỉ có thịt bò xào còn ăn được chứ hok là mình đã ko cho 2 sao rồi!\nNgoài ra thái độ nhân viên mới thực sự tệ, lúc gọi món vì lần đầu tới quán nên gia đình mình gọi hơi lâu, bạn nhân viên đứng đó mà ko tư vấn gì thêm, vẻ mặt khá khó chịu! Rồi lúc bưng đồ ăn lên thì giống như quăng cái dĩa vô mặt khách vậy! Chán thiệt!\nVà sẵn đây mình cũng nói lun là các bạn ko nên đi mấy cái xe điện vì coi chừng mấy người này dụ các bạn vào các quán như vậy nữa nha, nếu có đi thì đừng nghe các câu đại loại là \"gia đình đã ăn gì chưa,...có quán này ngon lắm để em chở tới đó,....\" nên lý trí chút nha mọi người!",
+        "time": 1574482499,
+        "translated": false
+      },
+      {
+        "author_name": "nguyen viet bao",
+        "author_url": "https://www.google.com/maps/contrib/109816460670554734339/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzLIUF_RHq27Hvr-51KJDjGAfCjjmhPgjaj4fKq5gcQ6bQndk4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán ăn chán, cơm khô, phục vụ bê món chậm. Giá quá mắc. Du lịch đừng tới.",
+        "time": 1595483887,
+        "translated": false
+      },
+      {
+        "author_name": "Xuân Trường",
+        "author_url": "https://www.google.com/maps/contrib/107189460318915305709/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsN3-BITjyHn5T4CgmDZ3HKWpW_5c5E1KgSqw7ZpFFlPraa8Jg-g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Hải sản quán này rất ngon, tươi sống, chọn lựa dễ dàng. Đầu bếp nấu ngon và đúng vị khách yêu cầu. Quán đông và phục vụ nhanh nhẹn, tắm biển xong vào ăn ngay rất sướng!",
+        "time": 1525101760,
+        "translated": false
+      },
+      {
+        "author_name": "SONVT",
+        "author_url": "https://www.google.com/maps/contrib/107324431080716923978/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTh8MQbswn6Smcr4jg3pFqKCSzNfKYvsAopgXYoVcpbD0Zk9-v=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Spacious space, temporary interiors, Seafood is quite fresh, cooks are good and service.\n\nKhông gian rộng rãi, nội thất tạm ổn, Hải sản tương  đối tươi sống, đầu bếp ổn, phục vụ được.",
+        "time": 1570780145,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Khuê Đổ",
+        "author_url": "https://www.google.com/maps/contrib/110064076718313367051/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuJg9w6PK5g36Snw3xeTPkIswwkCov9E7Ntu1U0zhu7-TuabJ4=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán gần biển Mỹ Khê, món ăn gia đình khá ngon, giá dĩa trong hình thời điểm mình ăn tầm 120k",
+        "time": 1610435104,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 227
+  },
+  "harvested_at": "2026-04-28T16:40:57.645303"
+}

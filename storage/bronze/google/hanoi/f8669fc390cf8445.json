@@ -1,0 +1,173 @@
+{
+  "u_key": "f8669fc390cf8445",
+  "original_osm_name": "Cà Phê Helio",
+  "google_raw": {
+    "formatted_phone_number": "024 3518 7054",
+    "geometry": {
+      "location": {
+        "lat": 21.0316829,
+        "lng": 105.853363
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0329784302915,
+          "lng": 105.8546109802915
+        },
+        "southwest": {
+          "lat": 21.03028046970849,
+          "lng": 105.8519130197085
+        }
+      }
+    },
+    "name": "Helio Vietnam Specialty Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "thoai nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102629891519022150796/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVcuGsSEXM2zQI3r_TFFaT2V5zJiipisttIWcn8QgQztwwBdwZ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán khá đẹp có thể ngồi bên ngoài hoặc trong ngắm phố. Có cả tầng 2 rất thoáng, ở đây tập trung nhiều khách du lịch xem múa rồi nước và ngồi nghỉ ngơi. Nhân viên phục vụ nhiệt tình biết tiếng anh..",
+        "time": 1561279994,
+        "translated": false
+      },
+      {
+        "author_name": "Duong Ngoanh",
+        "author_url": "https://www.google.com/maps/contrib/101965780580336415743/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKU9f4qSphNo-h5krkM8mhBJKUMz2BTRWNzB-fk4m5GrJK8IA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "View đẹp, mặt tiền hướng ra hồ Hoàn Kiếm với không gian thanh lịch và sôi động vừa phải. Nhân viên thân thiện và phục vụ nhiệt tình. Có ưu đãi với khách hàng quen thuộc.",
+        "time": 1511356204,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu xì Giang",
+        "author_url": "https://www.google.com/maps/contrib/102182380240041475206/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo5TegBPAabHQW8tiJJlKkO625daOSyOrHGARKFBl7xLf8dlK5MA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "tầng 2 vắng hơn tầng 1",
+        "time": 1553678095,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Quynh Bui",
+        "author_url": "https://www.google.com/maps/contrib/116247000807243782706/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUKqz9-76b8nU_ClEZ2yXWcA5dXaGk0lUDh7Oco7VLLYfAaLu3Gg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Địa điểm đẹp, đồ uống ngon. Tuy nhiên nhân viên phục vụ hơi chậm.\nThích nhất là lên Helio mấy ngày cuối tuần ngồi uống cafe và nghe nhạc, đặc biệt thích nhạc ở đây.",
+        "time": 1507908777,
+        "translated": false
+      },
+      {
+        "author_name": "Chau Thieu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/116476939825926915453/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmi-kGdKsPgWpf_GbHgymRiUbex8BQo3uuSBPpkERtdZ1FVg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "Vị trí quá đắc địa, người từ xa đến nên thích ngồi đây và có cái nhìn bờ hồ.\nCafe trung bình, giá cả buổi sáng cũng trung bình, chỉ chỗ ngồi là tuyệt",
+        "time": 1592497217,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 334
+  },
+  "harvested_at": "2026-04-26T12:45:22.014143"
+}

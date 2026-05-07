@@ -1,0 +1,173 @@
+{
+  "u_key": "7e5305130e9b7b9e",
+  "original_osm_name": "Little Tokyo",
+  "google_raw": {
+    "formatted_phone_number": "0932 069 901",
+    "geometry": {
+      "location": {
+        "lat": 15.9960428,
+        "lng": 107.9888023
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9973054302915,
+          "lng": 107.9900667302915
+        },
+        "southwest": {
+          "lat": 15.9946074697085,
+          "lng": 107.9873687697085
+        }
+      }
+    },
+    "name": "Little Tokyo in Ba Na Hills",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–15:00",
+        "Thứ Ba: 10:00–15:00",
+        "Thứ Tư: 10:00–15:00",
+        "Thứ Năm: 10:00–15:00",
+        "Thứ Sáu: 10:00–15:00",
+        "Thứ Bảy: 10:00–15:00",
+        "Chủ Nhật: 10:00–15:00"
+      ]
+    },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "YoungLife TiVi",
+        "author_url": "https://www.google.com/maps/contrib/108697771738706696043/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWinJUtJC89JY1V8stagU7Her3s4zCxnw7eeuyxm_xJ8txBrw_b=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Nói thực là vì Bà Nà đẹp nên tất cả những gì trên đây đều có cơ hội hưởng ké. Quán có không gian ok, nhân viên thân thiện, món ăn ko phải là đặc sắc nhưng có khá nhiều lựa chọn. Với mức giá 350k/ người bao gồm nước thì đây là 1 trong những lựa chọn để đổi món. Trong quán ngoài shusi, sasimi thì các món khác cũng ok nha, mình thấy mì Udon ở đây ổn áp. Mọi người thử trải nghiệm nhé.",
+        "time": 1715489371,
+        "translated": false
+      },
+      {
+        "author_name": "미미",
+        "author_url": "https://www.google.com/maps/contrib/112756390438593224893/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV47zPWaj2f1Hb7jI7EHXN0lYkXBQt6VYkwyfdVXWhplqYBFG4M=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "10 tháng trước",
+        "text": "Ít chỗ ngồi nhưng luôn đông đúc bận rộn\nQuầy line không đa dạng, sashimi cá hồi đc ém lại cho ra rất lâu\nĐồ không tươi\nThứ duy nhất khá ổn ở đây là một bát mì udon trong không khí lạnh của Bà Nà",
+        "time": 1751111288,
+        "translated": false
+      },
+      {
+        "author_name": "au chemistwarehouse",
+        "author_url": "https://www.google.com/maps/contrib/110007283355222719923/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCc1BA1L5Zi3uu-RM34UcGO7iWem3uAxiCtPiTNUfldYneI9Bt=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Trời mưa khu vực nhà hàng ẩm ướt và mất vệ sinh\nTôi và mẹ mua vé tham quan Bà Nà Hill và dùng dịch vụ của nhà hàng, đến lúc vào ăn thì hết bàn, nhân viên mặc kệ tôi và mẹ đứng đó và không sắp xếp được khu vực ngồi đợi. Rất thiếu chuyên nghiệp",
+        "time": 1740116441,
+        "translated": false
+      },
+      {
+        "author_name": "Khoa Nguyen Dang",
+        "author_url": "https://www.google.com/maps/contrib/108357815750277733096/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyeXjdL7f3grOI26Ks67DkySXZmo_FvCuWNn-3WpHlmKsFANGD=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Buffet little tokyo Bà Nà khá đơn giản, nhưng cũng khá ngon,ngoài ra có thêm món thịt heo rang ngọt, cay...súp nấm kim chi tom cua,mì kim chi....no căng bụng nhe các bạn",
+        "time": 1564814562,
+        "translated": false
+      },
+      {
+        "author_name": "Sera Oh",
+        "author_url": "https://www.google.com/maps/contrib/113552358405992069396/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUL40gZmeWJdwMZOTktT2XKbtPtH_vbQkZkLogtFkwVcwFDAW9HzQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Có nhiều mồn ăn và cơm cuốn Nhật Bản\nGiá đắt một chút nhưng có thể ăn thoái mái",
+        "time": 1557911520,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 328
+  },
+  "harvested_at": "2026-04-28T16:42:40.652532"
+}

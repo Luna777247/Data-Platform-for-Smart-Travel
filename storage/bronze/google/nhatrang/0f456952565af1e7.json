@@ -1,0 +1,173 @@
+{
+  "u_key": "0f456952565af1e7",
+  "original_osm_name": "Carlo's Pizza Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0905 239 820",
+    "geometry": {
+      "location": {
+        "lat": 12.2737518,
+        "lng": 109.201767
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2750953302915,
+          "lng": 109.2030156302915
+        },
+        "southwest": {
+          "lat": 12.2723973697085,
+          "lng": 109.2003176697085
+        }
+      }
+    },
+    "name": "Nhà hàng Pizza Carlo Italia",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 13:00–01:00",
+        "Thứ Ba: 13:00–01:00",
+        "Thứ Tư: 13:00–01:00",
+        "Thứ Năm: 13:00–01:00",
+        "Thứ Sáu: 13:00–01:00",
+        "Thứ Bảy: 13:00–01:00",
+        "Chủ Nhật: 13:00–01:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Yen Phi",
+        "author_url": "https://www.google.com/maps/contrib/106566793468845730534/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOI_P_llE2RWNubNZCxseGr2b0NMBXDSXOX5xWD62xhZ8jdQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "6 năm trước",
+        "text": "Địa chỉ khó tìm. Quán mở cửa trễ nhiều so với thời gian thông báo làm chúng tôi khó khăn tìm đến nhưng không mua được, cảm thấy phiền vì những thông tin không chính xác.",
+        "time": 1570584153,
+        "translated": false
+      },
+      {
+        "author_name": "Steve Job",
+        "author_url": "https://www.google.com/maps/contrib/111981078785583431783/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUCLLFnzcuToKul-XwoxCb3rE6kcpfCA3_kHHz30wmi-s6CQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Rất ngon",
+        "time": 1560243477,
+        "translated": false
+      },
+      {
+        "author_name": "Idan Mazruki",
+        "author_url": "https://www.google.com/maps/contrib/110686360769980838722/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpKSL_h6BdWnlCeTt5X39rj3vDZEsyZo2mkdOTwCBS57rLSw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Tôi đã thử bảy tiệm pizza trong khu vực này rồi. Ví dụ như Mio thì ngon, nhưng bột bánh thì dở tệ. Nếu bạn có vấn đề về dạ dày, bột bánh sẽ bị sủi bọt sau khi ăn. Tôi ngạc nhiên là Carlo Pizza không gây ra vấn đề gì sau khi ăn, và pizza cũng rất ngon. Tôi gặp một vấn đề là bánh pizza bị dính vào hộp, nhưng họ đã giải thích lý do, và lần sau tôi đã tự mình thêm 5% bột bánh, và tôi không gặp vấn đề gì nữa. Nhìn chung, rất tuyệt vời.",
+        "time": 1762444501,
+        "translated": true
+      },
+      {
+        "author_name": "Andrey Kozlov",
+        "author_url": "https://www.google.com/maps/contrib/114618971000594403304/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlwBhjfPB0Wiph9GTcB-KECkrGu2U_4o2VE88Mz2olCxOwU4feUA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Chúng tôi ghé vào quán một cách tình cờ và gọi pizza cùng khoai tây chiên cho bọn trẻ. Pizza ở đây, tất nhiên, chỉ là cái tên so với những gì chúng tôi quen thuộc ở Nga. Một lớp bột mỏng với viền hơi cháy và một lượng nhỏ nhân bánh. Nhưng nó vẫn ăn được và thậm chí còn ngon. Nhân viên phục vụ ổn, nội thất sạch sẽ, và nhiều người phàn nàn về nhà vệ sinh – đúng là không tốt lắm, nhưng chúng tôi đã từng thấy những nhà vệ sinh tệ hơn ở Nha Trang. Thực đơn rất phong phú, và tôi đã đính kèm ảnh. Theo đánh giá, món ăn Ý rất ngon, nhưng trên Tripadvisor, chủ quán lại tranh cãi gay gắt với những người để lại đánh giá tiêu cực – đây là lần đầu tiên tôi thấy điều đó. Nhưng việc ông ấy thỉnh thoảng vẫn phản hồi cũng là một điểm cộng. Và nhân tiện, khi chúng tôi ở đó, có hai người Nga gọi pizza mang về.",
+        "time": 1504567347,
+        "translated": true
+      },
+      {
+        "author_name": "Maria Lanko",
+        "author_url": "https://www.google.com/maps/contrib/110327776775127089356/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKf-g4fenN7CmxTHJjA0tV_Z7d7lKB5vrNCR_k3uD5kmbnIaw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chiếc pizza khô nhất mà bạn có thể tưởng tượng. Bạn không thể ăn tại chỗ, chỉ có thể mua mang về. Tôi không gọi nước sốt, và pizza có rất ít topping. Nhìn chung, nó là một sự thất vọng và lãng phí tiền bạc.\nVậy nên nếu bạn muốn một miếng bột khô, bạn chắc chắn có thể đặt hàng ở đây.",
+        "time": 1765162650,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 74
+  },
+  "harvested_at": "2026-05-02T15:11:28.140348"
+}

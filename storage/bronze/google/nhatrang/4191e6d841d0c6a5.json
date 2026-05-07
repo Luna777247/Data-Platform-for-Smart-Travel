@@ -1,0 +1,173 @@
+{
+  "u_key": "4191e6d841d0c6a5",
+  "original_osm_name": "Haus Bremen German Restaurant",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.237095,
+        "lng": 109.1948778
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2384454802915,
+          "lng": 109.1962265802915
+        },
+        "southwest": {
+          "lat": 12.2357475197085,
+          "lng": 109.1935286197085
+        }
+      }
+    },
+    "name": "Haus Bremen",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 12:00–23:00",
+        "Thứ Ba: 12:00–23:00",
+        "Thứ Tư: 13:00–23:00",
+        "Thứ Năm: 12:00–23:00",
+        "Thứ Sáu: 12:00–23:00",
+        "Thứ Bảy: 12:00–23:00",
+        "Chủ Nhật: 12:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Ренат",
+        "author_url": "https://www.google.com/maps/contrib/103166556054967303202/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVioRhIt6q32nyoDebPda0sWpwwXC9MnOkIgJ7PYx6MFuhdrH7C=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Дуже гарне місце.  Якщо хочеться справжньої Німецької кухні, тільки сюди!  Буваю раз на місяць, все стає лише кращим.\nNơi này rất tuyệt. Nếu bạn muốn thưởng thức ẩm thực Đức chính hiệu, đây chính là địa điểm lý tưởng! Tôi đến đây mỗi tháng một lần, và nó càng ngày càng ngon hơn.\nVery nice place. If you want real German cuisine, this is the place to go! I come once a month, it just keeps getting. better.",
+        "time": 1772100712,
+        "translated": false
+      },
+      {
+        "author_name": "Thư Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/110037348988661247272/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHoq4y6LPsceYviMHA8E5mQ3MvU2UyyCHcZS0RmrbSUr63S1Bv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Món ăn ngon, vừa miệng, không gian đẹp, yên tĩnh vào khoảng 16-18h, nhạc hay, nhân viên lịch sự vui vẻ dễ thương, giá cả phù hợp.",
+        "time": 1768820429,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Chau",
+        "author_url": "https://www.google.com/maps/contrib/114452127342621938414/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-FDny8Jc4OUJHM0d6fIv1EffVZLWJsCbWa5wBkoprNVI90GPv=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Món ăn rất ngon, khẩu phần lớn. Gọi có 1 combo mà 3 người ăn no căng\nnhân viên cực kỳ nhiệt tình và chu đáo, luôn hỏi han\nSẽ đến thường xuyên hơn",
+        "time": 1767695357,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Đình nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102177931815976078596/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISdZ-wWVQnktBk6EnxCFutx5paTPAwfFnTq_iQgn_UsYX74Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ăn ngon, nhân viên thân thiện, giá cả hợp lí , sẽ quay lại",
+        "time": 1767620716,
+        "translated": false
+      },
+      {
+        "author_name": "camnhung le",
+        "author_url": "https://www.google.com/maps/contrib/108226483250512133564/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWp2E7zz3l1vmZLbdzj0IpqmubF6rHhPs3OlBYF26olxfJKmQ7O=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Gia đình chúng tôi đã ghé nhà hàng Haus Bremen để ăn tối, mừng sinh nhật một thành viên trong gia đình. Cô chú chủ quán đã tiếp đón niềm nở và đồ ăn rất ngon. Tất cả mọi thứ đều nóng lúc dọn lên, mùi vị thơm ngon, vừa miệng. Chúng tôi đã có trải nghiệm rất tốt tại nhà hàng.\nVị trí nằm trong hẻm nhưng dễ tìm.\nGiá cả hợp lý so với chất lượng bữa ăn.\nKhông gian yên tĩnh, cô chú chủ quán vui vẻ niềm nở.\nChắc chắn chúng tôi sẽ ghé lại quán khi có dịp đến Nha Trang lần sau.",
+        "time": 1722481343,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 716
+  },
+  "harvested_at": "2026-05-02T15:11:47.531097"
+}

@@ -1,0 +1,164 @@
+{
+  "u_key": "9d960916eb83002d",
+  "original_osm_name": "One More Café",
+  "google_raw": {
+    "formatted_phone_number": "0829 341 835",
+    "geometry": {
+      "location": {
+        "lat": 11.9441878,
+        "lng": 108.4329268
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9455228302915,
+          "lng": 108.4343275302915
+        },
+        "southwest": {
+          "lat": 11.9428248697085,
+          "lng": 108.4316295697085
+        }
+      }
+    },
+    "name": "One More Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–17:00",
+        "Thứ Ba: 08:00–17:00",
+        "Thứ Tư: Đóng cửa",
+        "Thứ Năm: 08:00–17:00",
+        "Thứ Sáu: 08:00–17:00",
+        "Thứ Bảy: 08:00–17:00",
+        "Chủ Nhật: 08:00–17:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Vũ Quỳnh",
+        "author_url": "https://www.google.com/maps/contrib/110903241651328849793/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_0F5V_d9xMV6lJxISs0VVg9LgkE6RfDNQgLMDJR2PTWQZE6TQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình nghỉ chân trước khi trở về Sài Gòn, bánh pancake ngon, sản phẩm đầu tư, không gian chill, nhạc nhẹ nhàng, các bạn nhân viên thân thiện và rất đáng yêu. Mình chắc chắn sẽ quay lại",
+        "time": 1766308642,
+        "translated": false
+      },
+      {
+        "author_name": "tram le",
+        "author_url": "https://www.google.com/maps/contrib/116248404503371721225/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnoBl-yLm90I9x_5XxmsQT6EwC6-dy0T53bRF4O3wcWGO_dg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Tôi đến quán lúc xế chiều, nãy vừa tới thấy cô chủ đi ra chở theo chú chó, dễ thương quá chời, sô cô la ngon, bánh cũng ngon luôn nhe, nói thiệt á, đặt biệt là bánh cheesecake, rất thích sự phục vụ của bạn Giang, các chị nhân viên ở đây cũng dui dẻ nữa, quá đãaaaaaa",
+        "time": 1750581571,
+        "translated": false
+      },
+      {
+        "author_name": "Le Ba Anh Thu",
+        "author_url": "https://www.google.com/maps/contrib/112665371925667640047/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy6_bToluEkFMmmf8VyernwqzLVy9_7d4UMEuz5ZNF1UBVgVim9A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán rộng rãi\nGhế ngồi êm\nNhân viên biết tiếng anh\nMenu đa dạng\nCó cả đồ ăn và nước uống\nNhạc hay\nCafe rất ngon. Mình đã uống ở nhiều nơi và thấy ở đây pha rất ngon\nNhà vệ sinh sạch sẽ",
+        "time": 1686554820,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Dinh",
+        "author_url": "https://www.google.com/maps/contrib/100324744898504434280/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFQOs5zAGXLMY2lnxHSMTnYjiTH1RdWp1msAng-Vu27asaSbUNcw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán rất chill. Coffee thơm ngon, pha phin đậm vị… cảm giác hướng nắng sáng rất ok. Không gian ấm áp.",
+        "time": 1753322109,
+        "translated": false
+      },
+      {
+        "author_name": "David Pham",
+        "author_url": "https://www.google.com/maps/contrib/105194131561206415215/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjBS1RndMWvY0yVPt0Q8XSnda0Rql1G_XDYGtZenaZLrgInsvs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán kểu tây khá dễ thương\nĐồ ăn nhiều và ngon lắm\nNhân viên cực thân thiện và dễ thương\nGiá cả k cao lắm",
+        "time": 1660921706,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 644
+  },
+  "harvested_at": "2026-04-30T15:02:44.425070"
+}

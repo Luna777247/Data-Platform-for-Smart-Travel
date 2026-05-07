@@ -1,0 +1,173 @@
+{
+  "u_key": "97050f00cf0db1e2",
+  "original_osm_name": "Riverside cafe",
+  "google_raw": {
+    "formatted_phone_number": "0905 494 548",
+    "geometry": {
+      "location": {
+        "lat": 16.0138729,
+        "lng": 108.2318218
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0151886802915,
+          "lng": 108.2332592302915
+        },
+        "southwest": {
+          "lat": 16.0124907197085,
+          "lng": 108.2305612697085
+        }
+      }
+    },
+    "name": "RIVERSIDE GARDEN coffee and drink",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Thilu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107429121007122711372/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPK2k6JX0HZUuxcvUfHOWT1Glh25O8qhMz90Tc6jSTqJwlVg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một ngày đầu Xuân ghé tới quán. Không biết do Tết bận hay không nhưng phục vụ hơi chậm nước uông nói chung không xứng đáng với chất lượng giá cả hơi mắc  vị trí đẹp mát mẻ  đẹp nói chung tạm ổn",
+        "time": 1771560292,
+        "translated": false
+      },
+      {
+        "author_name": "Dịch Vụ Đà Nẵng 24h",
+        "author_url": "https://www.google.com/maps/contrib/100279951160600527873/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6r1RAxfsAWUboRKQttYyg0vl4uSeIdw1SilgWN4_-B9CEaA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chưa bao giờ uống cái ly Cafe mà nhạt nhẽo như này, kiểu như cafe thì ít mà nước thì nhiều còn mang 2 ly cafe chả được 1 ly nước trà. Phục vụ quá tệ",
+        "time": 1766384528,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Hương Trần",
+        "author_url": "https://www.google.com/maps/contrib/105501901986489122804/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmVSsZBBwMBNq5azc5bKUFwWlOIhqQKrybPHPD0B-r22qtb3w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán thoáng rộng, mát mẻ, không gian nhiều cây xanh, có hồ cá thích mắt, nhiều góc sống ảo. Nhân viên phục vụ nhanh gọn, dễ thương.",
+        "time": 1723945845,
+        "translated": false
+      },
+      {
+        "author_name": "Thắng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102890676962603460032/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4iM53F5XTgnQAoKuB1ov9oCPNvGZiFRZelfWuK1bFMwzfkMsJ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán rộng rãi, thoáng mát có nhiều cây xanh cảm giác rất thoải mái.Trong quán có hồ cá koi đẹp.Quán xa khu vực đông dân cư cảm giác yên tĩnh.Đồ uống ngon,nhân viên phục vụ thân thiện,nhiệt tình.",
+        "time": 1727403030,
+        "translated": false
+      },
+      {
+        "author_name": "Brian Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104079800624630221121/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2q6a6Y3d7bvrpY0SB9Bpkgwz8NewZNDzCa1hepTj64bAnRFNzLg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán đẹp, nhiều không gian xanh, chụp lên hình rất đẹp. Ghế ngồi rất thoải mái, có thể ngồi tám chuyện lâu được. Đồ uống pha ổn, giá phải chăng. Quán nằm gần bờ sông nên trưa ngồi tương đối mát mẻ chứ không bị nóng. Nhà vệ sinh sạch sẽ, xe để trước quán tự trông.",
+        "time": 1728190919,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 144
+  },
+  "harvested_at": "2026-04-28T16:42:48.527209"
+}

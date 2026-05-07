@@ -1,0 +1,173 @@
+{
+  "u_key": "ce15264f54b26b9a",
+  "original_osm_name": "Urbano Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0981 344 843",
+    "geometry": {
+      "location": {
+        "lat": 21.0325222,
+        "lng": 105.8543668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0338733802915,
+          "lng": 105.8557700302915
+        },
+        "southwest": {
+          "lat": 21.0311754197085,
+          "lng": 105.8530720697085
+        }
+      }
+    },
+    "name": "Milano Coffee Hà Nội",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:00",
+        "Thứ Ba: 06:30–22:00",
+        "Thứ Tư: 06:30–22:00",
+        "Thứ Năm: 06:30–22:00",
+        "Thứ Sáu: 06:30–22:00",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Tina Love Painting",
+        "author_url": "https://www.google.com/maps/contrib/110116773273938176380/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2RLneR2GtYRzyaFkFoC3BPOo_wnJ29XKpBJVV9yshJ8iG2ds=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán đẹp, dễ thương, cafe ngon, mình chọn cafe dừa, lần sau sẽ thử cafe phở",
+        "time": 1762994889,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Mid",
+        "author_url": "https://www.google.com/maps/contrib/117245657321877857804/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYBDoOqFe5kFhfv5Bs-8x02bbtqbwE-QLDYCS-9xNs4pCs4e5S=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cafe ngon, nhiều loại và cách pha. Cửa hàng chính của hãng luôn. Chỉ có điều không có nhiều chỗ ngồi, bán giới thiệu sản phẩm là chính.",
+        "time": 1759365839,
+        "translated": false
+      },
+      {
+        "author_name": "HUYEN THANH",
+        "author_url": "https://www.google.com/maps/contrib/116862639296362819563/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq19pF4nq7EVL2lkqLHRxqffTKXgfO03e999DqOqCGorB0KZrE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Ở đây có món Cà Phê Phở thử rất ngon và lạ. Recommend mọi người thử món này nha. Thấy hợp gu nên mình có mua thêm ít gói cà phê về làm quà.",
+        "time": 1754042520,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106151865124945143349/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNBHlT2L1LeFK5KsaljlWmKrwguWU4u991bnQxQbJ1UqSVKKdmCA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Dạo một vòng Hà Nội rồi lạc vào đây bởi tiếng máy xay cà phê đã thu hút mình. Cửa hàng mới mở thì phải, chỉn chu mọi thứ và rất khác các cửa hàng Milano mình từng biết. Cà phê ngon, đậm, bán cả nguyên liệu lẫn nhiều phụ kiện quà tặng khác. Lạc vô đây cái đau ví dễ sợ nhưng rất đáng trải nghiệm.",
+        "time": 1754103269,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Uynn",
+        "author_url": "https://www.google.com/maps/contrib/115157413496145840768/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN6sksGTVPs4q6kARDJSwQP8FheaX2JogFsOgKa4XSUlylNIbPzQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đi du lịch thì vô tình thấy quán có kiến trúc khá lạ so với Sg, vào thì thấy có bán cả cà phê, mùi cà phê rất thơm và đặc trưng, nước cũng ngon và đậm đà. Có mấy món nước tên nghe rất Hà Nội luôn, món cà phê Chuối tên lạ mà uống cũng thú vị lắm 🥰  Sẽ giới thiệu cho các bạn HN đến trải nghiệm hihi",
+        "time": 1753338851,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 62
+  },
+  "harvested_at": "2026-04-27T19:57:54.968938"
+}

@@ -1,0 +1,88 @@
+{
+  "u_key": "3f99ab987a2b46f6",
+  "original_osm_name": "Chill Bar",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.8370524,
+        "lng": 106.7007174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8384132302915,
+          "lng": 106.7021037302915
+        },
+        "southwest": {
+          "lat": 20.83571526970849,
+          "lng": 106.6994057697085
+        }
+      }
+    },
+    "name": "CHILL - 바 & 노 래 방",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Hoa Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115257718874963866871/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3oJqRMh2Jouj3aELxBSMdUQpNdABANec9hRAZzhfmlpCr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Giá cả hợp lý, nhân viên nhiệt tình, đồ ăn ngon, có bia tươi. Có thể trò chuyện cùng các cô gái xinh đẹp.",
+        "time": 1752606771,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100123010358385595854/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRUZy6UDqJjT0r6vyrT4ZQCBKD54gXOIa4Jn3UDXcSKkmZiA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "dịch vụ tốt, giá cả phải chăng, nhan viên nhiệt tình. sẽ quay lại ủng hộ",
+        "time": 1709141735,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Đức Long",
+        "author_url": "https://www.google.com/maps/contrib/117624557878910530167/reviews",
+        "language": "vi",
+        "original_language": "ja",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr39CJNQbG0rYEUpIRDxoZXrhu18ePIIUdVwIWRx7YEpHouioY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Rất tốt\n\nCó rất nhiều phụ nữ vui vẻ và xinh đẹp.",
+        "time": 1709141812,
+        "translated": true
+      },
+      {
+        "author_name": "Thu Hoài Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100811864043829391366/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKb7tBzZTPqNDLxrXjgA_ZhDli3Bd3fx4sgdPnPnPQiHwLKuA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Dịch vụ tuyệt vời và quản lý rất rõ ràng. Nhân viên đã có khoảng thời gian tuyệt vời, và tôi sẽ quay lại và cổ vũ các bạn khi có thời gian.",
+        "time": 1709142420,
+        "translated": true
+      },
+      {
+        "author_name": "Mai Hương Hoàng Thị",
+        "author_url": "https://www.google.com/maps/contrib/108255885441544050995/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRRawkPQRRRCDPHQ8oSXzOTkMis-H7uQbZMp7Uyzv_T76SnR0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nhà hàng có phòng chiếu phim, đồ ăn thức uống giá cả phải chăng, nhân viên xinh đẹp và nhiệt tình phục vụ khách hàng.",
+        "time": 1709145239,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 15
+  },
+  "harvested_at": "2026-04-30T15:22:28.701345"
+}

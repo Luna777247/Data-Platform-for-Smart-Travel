@@ -1,0 +1,173 @@
+{
+  "u_key": "91d4f8961612f6e8",
+  "original_osm_name": "Bánh Cuôn Ký Dông",
+  "google_raw": {
+    "formatted_phone_number": "0969 233 231",
+    "geometry": {
+      "location": {
+        "lat": 21.0424764,
+        "lng": 105.8478961
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0438885302915,
+          "lng": 105.8493353302915
+        },
+        "southwest": {
+          "lat": 21.04119056970849,
+          "lng": 105.8466373697085
+        }
+      }
+    },
+    "name": "Hỷ Ký - Bánh Cuốn Quảng Đông",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 19:00–03:00",
+        "Thứ Ba: 19:00–03:00",
+        "Thứ Tư: 19:00–03:00",
+        "Thứ Năm: 19:00–03:00",
+        "Thứ Sáu: 19:00–03:00",
+        "Thứ Bảy: 19:00–03:00",
+        "Chủ Nhật: 19:00–03:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Bloodaholic",
+        "author_url": "https://www.google.com/maps/contrib/107657093258126956987/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoL_SJBqjO62OuD4rls1gSB1KX8oxKCuxftfX5PhtIgusqTGBfeQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán mới mà mở tới muộn ngay trong phố, rất tiện người như tui đi chơi ăn uống 🤩 một phần bánh rất đầy đặn, giá hợp lý, cũng không phải chờ lâu 👌👌",
+        "time": 1764005190,
+        "translated": false
+      },
+      {
+        "author_name": "Hữu Chỉnh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115144191384868354945/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrf3sjjJQ06LZ3Gzscmm7TVGzRVYBaZeFpdrKhE6QW3PfcIsnT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Menu khá đa dạng đồ ăn rất là oki kh bị ngấy đâu ạ nv phục vụ rất là venygodd gút chóp nhất định sẽ quay lại nhiều lần",
+        "time": 1764251996,
+        "translated": false
+      },
+      {
+        "author_name": "李治",
+        "author_url": "https://www.google.com/maps/contrib/103876608066741581459/reviews",
+        "language": "vi",
+        "original_language": "zh",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgNeH9O8QpfDisk3aWWMjtkGnPsHZbf8TD6yyi9kMA9sjpg5M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Món này có hương vị khá Trung Hoa; thịt xá xíu ngon, nước tương và tương ớt thì vừa phải.",
+        "time": 1763547280,
+        "translated": true
+      },
+      {
+        "author_name": "河内上门服务Outcall&Incall",
+        "author_url": "https://www.google.com/maps/contrib/113178258102431833322/reviews",
+        "language": "vi",
+        "original_language": "zh",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUer1Ez_xDElWB0YuxBqMq27bBm3eLg48Y9T73BBZMw1s4TwFM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Tôi đến nhà hàng mới mở này với bạn bè vào một tối cuối tuần. Thật tiện lợi khi nhà hàng mở cửa muộn như vậy. Chúng tôi gọi món xá xíu đặc trưng và bánh cuốn bún, hương vị khá chuẩn vị. Nước chấm đặc biệt đậm đà, đúng kiểu Quảng Đông. Phục vụ chu đáo, và đồ ăn được mang ra nhanh chóng. Mặc dù nhà hàng không lớn, nhưng cách bài trí đơn giản và sạch sẽ, tạo không khí ấm cúng. Bánh có kích thước khá lớn và giá cả hợp lý. Tuy nhiên, bánh cuốn bún có thể mỏng hơn một chút để thấm gia vị tốt hơn. Nhìn chung, đây là một nơi đáng tiền, phù hợp cho nhóm từ ba đến năm người bạn. Lần sau, tôi muốn thử bánh cuốn bún chay của họ. Vị trí ở trung tâm thành phố rất thuận tiện, và thực đơn có nhiều lựa chọn, tránh cảm giác nhàm chán. Tôi chắc chắn sẽ quay lại.",
+        "time": 1772598333,
+        "translated": true
+      },
+      {
+        "author_name": "许建轩",
+        "author_url": "https://www.google.com/maps/contrib/109037573071955426410/reviews",
+        "language": "vi",
+        "original_language": "zh",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhMrYKGXO22xE5cXEJjIlbJL4PYqpBCMt9rfuiU5zuQzJv9g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Là người Quảng Đông, tôi rất vui khi được thưởng thức bánh cuốn tại nhà hàng này ở Việt Nam. Hương vị bánh cuốn và nước sốt ớt mà họ sử dụng rất chuẩn vị, giống như ở một nhà hàng Quảng Đông lâu đời. Tuy nhiên, kết cấu của bánh cuốn có thể được cải thiện, ví dụ như bằng cách chia một đĩa bánh cuốn thành hai đĩa riêng biệt, làm mỏng hơn để bánh cuốn thấm nước sốt tốt hơn. Như vậy thì thật hoàn hảo. Tôi chắc chắn sẽ dẫn bạn bè đến đây ăn vào lần tới.",
+        "time": 1764172680,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 5
+  },
+  "harvested_at": "2026-04-28T16:24:18.449919"
+}

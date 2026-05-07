@@ -1,0 +1,173 @@
+{
+  "u_key": "e9b40b223ad82929",
+  "original_osm_name": "Cafe 84 Da Lat",
+  "google_raw": {
+    "formatted_phone_number": "0984 427 262",
+    "geometry": {
+      "location": {
+        "lat": 11.939789,
+        "lng": 108.4347449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9411433302915,
+          "lng": 108.4360990302915
+        },
+        "southwest": {
+          "lat": 11.9384453697085,
+          "lng": 108.4334010697085
+        }
+      }
+    },
+    "name": "Cafe 84 Da Lat",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:30–18:00",
+        "Thứ Ba: 05:30–18:00",
+        "Thứ Tư: 05:30–18:00",
+        "Thứ Năm: 05:30–18:00",
+        "Thứ Sáu: 05:30–18:00",
+        "Thứ Bảy: 05:30–18:00",
+        "Chủ Nhật: 05:30–17:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "xa nho",
+        "author_url": "https://www.google.com/maps/contrib/112133694408183204530/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWhZf-FyTVZQdz1jRMO5BEcgd38qZEDghvy7H_AeBY-wn7=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bánh mỳ xíu mại opla ở đây ngon lắm\nĐặc biệt là xíu mại đậm vị thơm bùi, nước chấm xíu mại cũng ngon giá #40k/ phần\nCà phê ở đây pha máy\n2 vc anh chị chủ cũng dễ thương mén khách\nQuán dạng cà phê ăn sáng dân local",
+        "time": 1767538952,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Doan",
+        "author_url": "https://www.google.com/maps/contrib/118029849019377991594/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoZDZ2xsfoYeNculM3rJUvGZVCXYlzDCjf9KaiId3JVAHdmA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cafe trứng ngon. Cacao nóng cũng ngon. Quán ngay trung tâm và không vưa đông đúc.",
+        "time": 1743994397,
+        "translated": false
+      },
+      {
+        "author_name": "Phuc Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100547235509620441761/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHfAlLbUOSIu9WUCIz40zhUW7jgZTWRQhFuhGEfFdghBsSzEr0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Rất là địa phương.\n\nDelicious breakfast at a local eatery.",
+        "time": 1753578651,
+        "translated": false
+      },
+      {
+        "author_name": "Khánh An",
+        "author_url": "https://www.google.com/maps/contrib/101221678542347088731/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmSSKT-MikVwvexdX4zc8CxttgvQazL4K4-UYgQ_EsYLBTlfVI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Mình ở khách sạn gần khu vụec này, thì có ăn sáng, uống caffe ở đây. Cô chú dễthuong lắm. Cafe ngon, giá cả hợp lí vs khách du lịch. Nchung là mình rấc ưng ý. Nào quay lại mình sẽ mua cafe handmade của cô chú",
+        "time": 1677307715,
+        "translated": false
+      },
+      {
+        "author_name": "CTY TNHH XNK LELE TAIWAN",
+        "author_url": "https://www.google.com/maps/contrib/102972355447221628459/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7rp17GJq6lDvB0O_jvMqNRG8z4OidT82Pzmzy_I0QFc_3nH-NYg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "18/6/2025 - có dịp mình ghé qua quán dùng cafe ngon  , nhạc hay .",
+        "time": 1750205642,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 136
+  },
+  "harvested_at": "2026-04-30T15:09:59.862029"
+}

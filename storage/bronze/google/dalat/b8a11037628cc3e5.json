@@ -1,0 +1,174 @@
+{
+  "u_key": "b8a11037628cc3e5",
+  "original_osm_name": "Artist Alley",
+  "google_raw": {
+    "formatted_phone_number": "0941 662 207",
+    "geometry": {
+      "location": {
+        "lat": 11.9466797,
+        "lng": 108.4352218
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9479932302915,
+          "lng": 108.4365402802915
+        },
+        "southwest": {
+          "lat": 11.9452952697085,
+          "lng": 108.4338423197085
+        }
+      }
+    },
+    "name": "Artist Alley restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–20:30",
+        "Thứ Ba: 11:00–20:30",
+        "Thứ Tư: 11:00–20:30",
+        "Thứ Năm: 11:00–20:30",
+        "Thứ Sáu: 17:30–21:00",
+        "Thứ Bảy: 11:00–20:30",
+        "Chủ Nhật: 11:00–20:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Phong trần hoàng",
+        "author_url": "https://www.google.com/maps/contrib/114759150389214736845/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXehfzmxqAuZiAALJMFvpeLsZL2wRYDHL-RRoaLAHLhhdQWqWX=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian ấm áp, yên tĩnh.\nPhục vụ chuyên nghiệp, lịch sự\nĐồ ăn ngon, giá hợp lý. Món ăn âu á có đủ\nNhững bạn nào hướng nội thì nên ghé\nĂn 2 lần nhưng chỉ nhớ chụp 1 món ^^",
+        "time": 1770787758,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/117927103498824887245/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt5xwh9yYkIiWZLzhrXjiCp69o41Y4-mSuEpOqOottm_eF2OG_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "đồ ăn rất là hợp khẩu vị. Món salad bơ ngon và rất tươi, nên thử. Phần ăn khá nhiều nên khi gọi món mình gọi: salad bơ, bò cuộn phô mai, cá nướng và phần cơm tỏi. Mình ăn muốn ná thở nên ko thể nào ăn hết nổi. Mọi người cân nhắc nhen. Cảm ơn đầu bếp vì làm ra những món ăn ngon và xin lỗi chú vì con ăn ko hết.\nKo gian rất ấm, được trang trí bằng những bức tranh vẽ lớn, phù hợp những ai yêu hội hoạ nè.",
+        "time": 1758282145,
+        "translated": false
+      },
+      {
+        "author_name": "Toan Le Viet",
+        "author_url": "https://www.google.com/maps/contrib/104368438974385114407/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDyV52UKrEHeqNEwwJUacE9sGgIfihHjpMGD74x2bdnZgl7fw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian ấm cúng, decor cẩn thận từng ngóc ngách, sạch sẽ. Quán trưng bày nhiều ảnh nghệ thuật. Đồ ăn rất ngon, thích hợp cho những buổi chill, hẹn hò.",
+        "time": 1735906738,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Thủy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110682630580390911009/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlZpeb_zSpWR6pDu6c9GSzGDHS1KbdpV23R5K1VaMVczsZwtYu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Điểm hẹn của nhóm mình mỗi khi quay lại Đà Lạt 😍. Ở Đà Lạt thì có quá trời lựa chọn nhưng khi muốn quây quần trong 1 ko gian ấm áp, dễ chịu, đồ ăn ngon hợp khẩu vị thì Artist Alley vẫn rất ok nè.\nĐặc biệt chú chủ quán bao giờ cũng niềm nở và dễ thương, giá cả cũng phải chăng.",
+        "time": 1735918209,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Lê",
+        "author_url": "https://www.google.com/maps/contrib/112374834717023153955/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4pQNNykwNY5b-8QzzN2ub2Cm-oSaNHQTFM-0O8TOIzgsDudP26g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Một nơi vô tình tìm thấy nhưng lại đúng như mong đợi của mình. Thức ăn, dịch vụ, không gian đều tuyệt vời và phù hợp cho các buổi gặp mặt thân mật, ấm cúng với gia đình, bạn bè, người yêu. Giá cả nhìn chung là hợp lý, tương xứng với chất lượng đồ ăn, cách phục vụ, không gian có thể nói là tốt vượt khỏi tầm giá. Ba mẹ mình có khẩu vị khá khó tính nhưng cả 2 đều hài lòng.\nMọi người nên ghé thử nếu có dịp và chắc chắn đây là nơi nhà mình sẽ ghé lại nhiều lần nữa.",
+        "time": 1707807560,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 680
+  },
+  "harvested_at": "2026-04-29T13:36:57.481754"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "101383c2627093b6",
+  "original_osm_name": "Tocotoco",
+  "google_raw": {
+    "formatted_phone_number": "0847 506 635",
+    "geometry": {
+      "location": {
+        "lat": 21.0319901,
+        "lng": 105.8465719
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0333009302915,
+          "lng": 105.8479599302915
+        },
+        "southwest": {
+          "lat": 21.0306029697085,
+          "lng": 105.8452619697085
+        }
+      }
+    },
+    "name": "Trà Sữa ToCoToCo 02 Nguyễn Văn Tố",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "misua",
+        "author_url": "https://www.google.com/maps/contrib/112666033445333432765/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRr0bVzLgXAncyC1NZ5QMZafIsbBOcgOj8vU1wUd3TtbL2tauimg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "bạn nhân viên rất dễ thương, nhiệt tình, đồ uống toco vẫn rất ổn với giá thành rẻ, dễ tiếp cận",
+        "time": 1769601546,
+        "translated": false
+      },
+      {
+        "author_name": "Phi Hùng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103415559870101063860/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_eDpFYc-tMWNrNkX0jQNF9ai254AunYY41nHCZPyumlmN0g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ngon\ncửa hàng hơi chật chội\nNhân viên nhiệt tình thân thiện",
+        "time": 1764682301,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Thuỷ Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100724887878958271498/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocILQKW4aktV242gcL8D3E_pTxCgKx-n_3q-epf1oA5lFtQu3g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "trà ngon\nnhân viên phục vụ tốt",
+        "time": 1764650705,
+        "translated": false
+      },
+      {
+        "author_name": "Tiến Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100637273714099777396/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsM4iZbN2ESlGHCBTYV05oaNwdYmyoe-c7HebHRtA4mF0be3OE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "trà sữa ngon,nhân viên thân thiện nhiệt tình làn sau sẽ quay lại mua tiếp",
+        "time": 1769439403,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Lê Minh Anh",
+        "author_url": "https://www.google.com/maps/contrib/107886204016409450954/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAnWh4dCBCOanzbqi9HGhqr8m_JOXmsMetndTthfKydoKgOg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "nhân viên thái độ, trân châu cho rất ít, ít hơn các cơ sở khác, kbt mới ctay hay gì mà mặt nvien cứ nhăn nhó như muốn đấm khách, yêu cầu xem xét lại nvien",
+        "time": 1735971670,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 201
+  },
+  "harvested_at": "2026-04-27T19:58:06.512657"
+}

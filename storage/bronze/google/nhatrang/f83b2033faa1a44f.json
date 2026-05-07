@@ -1,0 +1,173 @@
+{
+  "u_key": "f83b2033faa1a44f",
+  "original_osm_name": "feel good cafe",
+  "google_raw": {
+    "formatted_phone_number": "0903 556 511",
+    "geometry": {
+      "location": {
+        "lat": 12.2107656,
+        "lng": 109.1967989
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2121474802915,
+          "lng": 109.1981702802915
+        },
+        "southwest": {
+          "lat": 12.2094495197085,
+          "lng": 109.1954723197085
+        }
+      }
+    },
+    "name": "Feel good coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–17:00",
+        "Thứ Ba: 07:00–17:00",
+        "Thứ Tư: 07:00–17:00",
+        "Thứ Năm: 07:00–17:00",
+        "Thứ Sáu: 07:00–17:00",
+        "Thứ Bảy: 07:00–17:00",
+        "Chủ Nhật: 07:00–17:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Duong Hong",
+        "author_url": "https://www.google.com/maps/contrib/116571080179699902004/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcz5otCUi4KWnn8_7sij60OcvBY_qCcKnIy5dpmbB7nfidNpwc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rộng! Mát mẻ 👍🥰🥳!! Anh chủ quán dễ thương! Quán có bán coffee rang xay sẵn mang về pha, ún ngon",
+        "time": 1771835073,
+        "translated": false
+      },
+      {
+        "author_name": "trang nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104268134916668466143/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6_mcinyayaluhs8LrgZ_X66Mm9ZYtOrK9Qwh7J9rWp2hkBzM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán tận dụng sân nhà nên thoáng, yên bình, cây cối vui mắt. Cá cảnh bé xinh yêu luôn. Anh chủ dễ thương thấy m hỏi cây khế thì tặng luôn 1 q, bonus thêm cốc ép dưa hấu:)))",
+        "time": 1768371160,
+        "translated": false
+      },
+      {
+        "author_name": "Hana Tran",
+        "author_url": "https://www.google.com/maps/contrib/111088698920425228412/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSEnOPB3sO3ho_rzgLSTmA67KuffDaddOIRM3Q3pW9L-kApOnn=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Ghé quán vì nhắm đến Cafe trứng. Ngon\nQuán nhỏ xinh, ngồi phòng lạnh hoặc sân nhỏ bên ngoài.\nVào quán thơm phức cafe\nPhục vụ thân thiện",
+        "time": 1757849371,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Ngọc Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109834760212421921224/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnoOJiwVOJeg0AWdny_55zepjPlsBIne12J6pAPF7K-Xd8Qg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cafe chuối rất ngon !! Mọi người nên thử. Không gian yên tĩnh. Nhân viên tốt.",
+        "time": 1755829305,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Vị cà phê bạc xỉu ở đây thơm mùi đặc trưng, hơi giống vị caramel.",
+        "time": 1708619524,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 283
+  },
+  "harvested_at": "2026-05-02T16:08:09.921564"
+}

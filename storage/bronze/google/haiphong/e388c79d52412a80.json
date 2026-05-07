@@ -1,0 +1,88 @@
+{
+  "u_key": "e388c79d52412a80",
+  "original_osm_name": "Peerace Bar",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.8565905,
+        "lng": 106.6868224
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8578399802915,
+          "lng": 106.6881329802915
+        },
+        "southwest": {
+          "lat": 20.8551420197085,
+          "lng": 106.6854350197085
+        }
+      }
+    },
+    "name": "peerage",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Nguyên Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/104526075210061149983/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGCfhSKZdmoeUo5ptAf_EyqlyZXRB8ypGhcfwj2Shn610z2lii5Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Nhạc hay, phục vụ đẹp nhiệt tình",
+        "time": 1601107101,
+        "translated": false
+      },
+      {
+        "author_name": "Luyen Pt",
+        "author_url": "https://www.google.com/maps/contrib/115470884248074292035/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuNEJcSoadxeaSe0xIzKaMavJl6x-dHB5el3_2Q9zrRIxaY5A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Nhạc hay, không khí tuyệt vời, phục vụ ok.",
+        "time": 1565309426,
+        "translated": false
+      },
+      {
+        "author_name": "Máy Thủy Bình Phúc Thịnh",
+        "author_url": "https://www.google.com/maps/contrib/111346671273605006326/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjwqtgDxe-G5bshVUU2jTz8JvEgLXBi-8oEU5CgzIQs1csPgM=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Nhạc hay, nhân viên phục vụ tốt",
+        "time": 1571899131,
+        "translated": false
+      },
+      {
+        "author_name": "Tommy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108344674231333639081/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTyiSVm42hQjs98F6IOrXRs85Rm2KGAksZfLqWNFLGvQXCCQHq=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 năm trước",
+        "text": "Nhạc dở, phục vụ kém",
+        "time": 1555809357,
+        "translated": false
+      },
+      {
+        "author_name": "KS GAMER",
+        "author_url": "https://www.google.com/maps/contrib/104365879752617846013/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgenodvdH4SUO1LcfPmzUDAQBcLCnCaRcQ2ftRLFBe8sLt25vS=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Vui mà",
+        "time": 1590512233,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23
+  },
+  "harvested_at": "2026-04-30T15:22:20.489339"
+}

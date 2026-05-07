@@ -1,0 +1,173 @@
+{
+  "u_key": "9570bb76a4e486c8",
+  "original_osm_name": "Con seu",
+  "google_raw": {
+    "formatted_phone_number": "0258 3590 595",
+    "geometry": {
+      "location": {
+        "lat": 12.2108311,
+        "lng": 109.2130895
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2121541802915,
+          "lng": 109.2145745302915
+        },
+        "southwest": {
+          "lat": 12.2094562197085,
+          "lng": 109.2118765697085
+        }
+      }
+    },
+    "name": "Du lịch Con Sẻ Tre",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–17:00",
+        "Thứ Ba: 07:00–17:00",
+        "Thứ Tư: 07:00–17:00",
+        "Thứ Năm: 07:00–17:00",
+        "Thứ Sáu: 07:00–17:00",
+        "Thứ Bảy: 07:00–17:00",
+        "Chủ Nhật: 07:00–17:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Bình Quang",
+        "author_url": "https://www.google.com/maps/contrib/103354408905032289429/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6yS95qgNMl25BQOgZhhE85HRTrp4RggAEnowfMp2G4VIv1t2v=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Trước kia khu du lịch Con Sẻ Tre chỉ là một hòn đảo nhỏ, còn hiện tại đã được phát triển thành một khu du lịch thiết kế theo phong cách cổ, đơn giản và sạch sẽ, gần gũi với thiên nhiên.",
+        "time": 1571045857,
+        "translated": false
+      },
+      {
+        "author_name": "giang nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105663759428884682767/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIa9Eo6zFxCWpItBE5tNX0O2URi82yr4uTkUR5mU2eg7ITULc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "một nơi du lịch rất tuyệt đẹp",
+        "time": 1570633212,
+        "translated": false
+      },
+      {
+        "author_name": "Thái Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/108253486353826173515/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwyl0AWFxQa9-EYGCifQwdFpGV4zxf_CbjnNAeqPsWmolgfVew=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Biển đẹp. Trong và xanh",
+        "time": 1680870923,
+        "translated": false
+      },
+      {
+        "author_name": "minh le",
+        "author_url": "https://www.google.com/maps/contrib/115386143424348918919/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvtrRjMz43PBYDRxwFEdGmebLtswtyvWQcZzx05y545a-MIBf6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "địa điểm rất tốt để du lịch",
+        "time": 1617850828,
+        "translated": false
+      },
+      {
+        "author_name": "Ánh Ánh TiDi",
+        "author_url": "https://www.google.com/maps/contrib/106742051900700463454/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIrlxZviu-Bcf9q-mcfmk3e5_oxPsOlteEt1o8bObYSwRvvggi=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Tôi mới đi lúc đi Nha Trang",
+        "time": 1723961797,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 11
+  },
+  "harvested_at": "2026-05-02T15:14:04.917436"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "329475f6425556d6",
+  "original_osm_name": "Vintage's 1976 Café",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0258367,
+        "lng": 105.8535916
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0272414802915,
+          "lng": 105.8550078302915
+        },
+        "southwest": {
+          "lat": 21.0245435197085,
+          "lng": 105.8523098697085
+        }
+      }
+    },
+    "name": "Vintage 1976 Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "MiVy 1705",
+        "author_url": "https://www.google.com/maps/contrib/100663875181444305615/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULFpdh2k9-Q7r4ITw3ec8qRxeZgwSX7KTVQq_aEqfyIFqC7UmE=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nhân viên ngoan, chu đáo lịch sự\nĐồ uống, nói thật vừa đắt vừa dở. N k quá đắt so với mặt bằng khu vực (35-75k/cốc) nhưng n đắt là so với chất lượng. Về cơ bản quán cung cấp dịch vụ chỗ ngồi và không gian view hồ chứ đừng trông đợi gì ở đồ uống, tuy nhiên cafe thì vẫn ổn.\nDecor quán nhỏ nhỏ xinh xinh, k đặc biệt nhưng cũng có style\nQuán còn có cả quầy bánh mì ngay cửa, chưa ăn nên sẽ k ý kiến",
+        "time": 1764085622,
+        "translated": false
+      },
+      {
+        "author_name": "K.O HOANG",
+        "author_url": "https://www.google.com/maps/contrib/103245892289110153048/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLeN5YrEePBQWh-Uw-lEHMANq4yekhpblNvmS8B0WBCiPYI866lw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán ngay gần Bờ Hồ, view ra tháp Hoà Phong, quán có mặt tiền rộng. Tới khá đông nên ngồi trong nhà, tuy nhiên cảm giác của mùi mốc, không được vệ sinh lắm",
+        "time": 1758866742,
+        "translated": false
+      },
+      {
+        "author_name": "Juno Tùng",
+        "author_url": "https://www.google.com/maps/contrib/118025875287654997127/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLhcZRzsySdGFKFsnCWDiWvyf2xgrc17sKWUfvihciKS_vIcEz=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán có vị trí rất đẹp khi có view nhìn ra bờ hồ cũng như nằm trên con phố sách Đinh Lễ. Không gian mặt tiền khá rộng và dài, có thể ngồi ngoài để tận hưởng Hà Nội Street Vibe hay ngồi bên trong quán cũng được.\n\nĐồ uống menu đa dạng và mức giá cũng cao hơn bình thường. Thật là tuyệt khi đọc một quyển sách, nhâm nhi ly cà phê và ngồi ngắm dòng người đi bộ.",
+        "time": 1754404652,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Đào Trần Nhật",
+        "author_url": "https://www.google.com/maps/contrib/102098263541012395853/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCYfc8VKxPZ7pnR_F31fgZy-BLk5YMMSnmsbI5zpZRXDmb3fwX=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nước uống quá dở, nước ép loãng như nước lọc, giá từ 65k đổ lên, lên nước chậm, chỉ được vị trí đẹp nhưng thà mua nước qua ghế đá bên bờ hồ ngồi còn hơn. Không hiểu sao bán nước đắt vậy rồi mà còn không thể làm nước cẩn thận được, bị sốc vì chất lượng quá tệ.",
+        "time": 1765693760,
+        "translated": false
+      },
+      {
+        "author_name": "SÂM NGỌC LINH TUMORONG - KONTUM Atuagin",
+        "author_url": "https://www.google.com/maps/contrib/116669485090334111338/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdLTrfrM4Cuno6qJ9h7k2u73XZTWYwx6wfuIkXUQLM7zporSZ-Dg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Cafe ngon, view đẹp, không khí thoáng mát rộng rãi",
+        "time": 1762227609,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 554
+  },
+  "harvested_at": "2026-04-26T16:52:01.614428"
+}

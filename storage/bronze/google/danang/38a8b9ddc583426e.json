@@ -1,0 +1,173 @@
+{
+  "u_key": "38a8b9ddc583426e",
+  "original_osm_name": "Bale Well",
+  "google_raw": {
+    "formatted_phone_number": "0905 131 911",
+    "geometry": {
+      "location": {
+        "lat": 15.8788131,
+        "lng": 108.3300623
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8801748802915,
+          "lng": 108.3314072802915
+        },
+        "southwest": {
+          "lat": 15.8774769197085,
+          "lng": 108.3287093197085
+        }
+      }
+    },
+    "name": "Bale Well restaurant",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:30",
+        "Thứ Ba: 10:00–21:30",
+        "Thứ Tư: 10:00–21:30",
+        "Thứ Năm: 10:00–21:30",
+        "Thứ Sáu: 10:00–21:30",
+        "Thứ Bảy: 10:00–21:30",
+        "Chủ Nhật: 10:00–21:30"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Dao Bich",
+        "author_url": "https://www.google.com/maps/contrib/107328561764476955485/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbMHBlCXsY3J5W-6TVyuYJxMC2asOPcxYM3fG1jky9Mm9AEBYL=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Giếng Bà Lễ là một con ngõ khá nhiều hàng ăn, từ bánh xèo, cao lầu, bún mắm… mình thử Bé Bánh Xèo, không gian quán rộng, đồ ăn lên khá nhanh, bánh xèo vỏ giòn nhưng hơi mỡ, một set 150k gồm 2 bánh xèo, 2 thịt nướng, 2 ram( ran ở đây khá to), 2 nem, 2 tráng miệng. Nước chấm cũng dễ ăn",
+        "time": 1771058049,
+        "translated": false
+      },
+      {
+        "author_name": "T N",
+        "author_url": "https://www.google.com/maps/contrib/113747427144468341321/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiPr6d-12IqYyKksUZ28hPEcIVDmm3wOZqWOVnV388CAhhsoco=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "11 người phải ăn 6 phần - 5 phần không phục vụ :(.\nThức ăn không ngon đặt biệt nước chấm không hợp bánh xèo",
+        "time": 1771852673,
+        "translated": false
+      },
+      {
+        "author_name": "Vy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102361616782657376180/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyD8UN_4_uyPiz849db538VwcRz0SDxzsUP-bhPwGUQb6mv7r4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ổn, phục vụ nhanh. Mà ngồi trong vườn hơi nóng và chật. Nhìn chung ok.",
+        "time": 1771565085,
+        "translated": false
+      },
+      {
+        "author_name": "Hung Ha The",
+        "author_url": "https://www.google.com/maps/contrib/103038056570110184207/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd4Yj9bgsU65DxcZa_dj9R3d3DVLtQgNKH4C_7dIgoKHuOCbsYnQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Không gian quán có sân vườn rộng, ngồi ăn thoải mái dễ chịu chứ không chật trội như các quán khác, khách đoàn ngồi thoải mái luôn. Thịt nướng, nem nướng ngon, nem rán hơi nhiều mỡ, bánh xèo ăn ngon, chủ quán thân thiện. Món tráng miệng cũng ngon, xoài, caramen....",
+        "time": 1752386896,
+        "translated": false
+      },
+      {
+        "author_name": "Ivan Matsiushonak",
+        "author_url": "https://www.google.com/maps/contrib/115584029936094178295/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyto52st-7Q3CqndX3_7wI6QGDKi_11ZlGSLzv64q1jVL_YKld=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ngon giá thành vừa phảii, phục vụ hơi ít so với lượng khách. Nhưng được cái đồ ăn ngon 10đ",
+        "time": 1771502548,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1028
+  },
+  "harvested_at": "2026-04-29T09:43:40.398837"
+}

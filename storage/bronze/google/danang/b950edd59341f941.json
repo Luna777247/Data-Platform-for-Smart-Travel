@@ -1,0 +1,109 @@
+{
+  "u_key": "b950edd59341f941",
+  "original_osm_name": "Phở hà nội",
+  "google_raw": {
+    "formatted_phone_number": "0796 623 866",
+    "geometry": {
+      "location": {
+        "lat": 16.0659471,
+        "lng": 108.2237674
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0673798802915,
+          "lng": 108.2251250802915
+        },
+        "southwest": {
+          "lat": 16.0646819197085,
+          "lng": 108.2224271197085
+        }
+      }
+    },
+    "name": "Phở Cù Hà Nội",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Tram Tran",
+        "author_url": "https://www.google.com/maps/contrib/114914012443960693531/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvm1Zn6TYMybnLIkYPHDdpIOpnF7Ru5OP0wAnUMlC179-QvSyggw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phở ngon, cơm ngon, mình ăn tô đặc biệt nhiều thịt ăn k hết luôn. Sợi phở mềm mướt, nước dùng thanh thanh, ngon ạ. Đặc biệt 3h sáng mình đi ăn vẫn còn, thích hợp cho cú đêm",
+        "time": 1767419863,
+        "translated": false
+      },
+      {
+        "author_name": "hin b",
+        "author_url": "https://www.google.com/maps/contrib/115791088584067479770/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeb5ZSSmEXc-tvTiHuTcMqWCcpGpiRlsXb9MaN1qh9G5g1HAjl=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ổn, không quá đặc sắc, giá rẻ hơn tiệm đối diện. Phục vụ cũng nhanh chóng",
+        "time": 1771567330,
+        "translated": false
+      },
+      {
+        "author_name": "Big Mercury",
+        "author_url": "https://www.google.com/maps/contrib/101549699232911652348/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWkKBPpJNrwZyn09unJfBzPA6kjgoz5w8HaJh0lxOSMgXYwm7J=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "phở bò bắp ok, hơi ít thịt chút.\ngiá ổn so với vị trí, nhỉnh hơn chút so với mặt bằng chung quán ăn việt nam bình dân ở đà nẵng.",
+        "time": 1763564808,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Hoài Phương",
+        "author_url": "https://www.google.com/maps/contrib/103944478755913476764/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdZviB31R48yllSUM7XlGyctUs4feeONjH3Sax4V8L3f1fDGlrGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phở ngon, thơm, thịt bò tươi chất lượng. quán ruột trong lòng Đà Nẵng. Ăn ngon quên cả chụp ảnh 🤣",
+        "time": 1769411176,
+        "translated": false
+      },
+      {
+        "author_name": "Thiện Phan",
+        "author_url": "https://www.google.com/maps/contrib/116083205335734209950/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFIFzVlVgv9rMkWPqg7Jty3VhvtRXGRvmH66RvsNgARYUaXd8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "10 🌟 . Cơm rang dưa bò rất ngon kèm nước súp và mọi người rất vui vẻ",
+        "time": 1768122127,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1211
+  },
+  "harvested_at": "2026-04-28T16:44:13.846115"
+}

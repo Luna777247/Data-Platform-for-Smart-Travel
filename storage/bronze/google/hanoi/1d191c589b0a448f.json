@@ -1,0 +1,173 @@
+{
+  "u_key": "1d191c589b0a448f",
+  "original_osm_name": "matcha coffee 14k",
+  "google_raw": {
+    "formatted_phone_number": "0835 773 677",
+    "geometry": {
+      "location": {
+        "lat": 21.0324234,
+        "lng": 105.8505641
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0337265802915,
+          "lng": 105.8519484302915
+        },
+        "southwest": {
+          "lat": 21.0310286197085,
+          "lng": 105.8492504697085
+        }
+      }
+    },
+    "name": "The Matcha Tokyo Vietnam",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:00",
+        "Thứ Ba: 09:00–23:00",
+        "Thứ Tư: 09:00–23:00",
+        "Thứ Năm: 09:00–23:00",
+        "Thứ Sáu: 09:00–00:00",
+        "Thứ Bảy: 09:00–00:00",
+        "Chủ Nhật: 09:00–00:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Thùy Trang Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103046887038701237367/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCphnQVCJ3Gc9O7h9pr_rh_gdMuqOFe-ZQFs4EYoP-XbhFUDk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Lần nào đến cũng hài lòng, đồ uống ngon và nhân viên rất nhiệt tình đáng yêu và view siêu mê nữa, rcm Matcha Lemonade và Matcha Coffee Latte cho mn nhaaa",
+        "time": 1772271816,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Mai Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/113244982751186218127/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQiooBnb6X1UYxzuch6NoObHFOQvXmeizj_rcUs4k4fbYLgw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Matcha xịn uống thấy khác biệt liền. Không gian chill chill dễ chịu. Nhân viên niceee. Bánh cũng ngon lắmmm. 100 điểm.",
+        "time": 1772445676,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Dung Phạm",
+        "author_url": "https://www.google.com/maps/contrib/101711086430480743916/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJypdbITyFLD0BtcPF--2Vy3_u9ulhH-tKh98zZO59Wy0CZUSD=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Kem matcha ngon, hơi dẻo lạ miệng\nMình gọi 1 cốc matcha coco cloud nhưng phần kem không đậm, nước bị nhạt. Chắc nên thử matcha latte hơn",
+        "time": 1772075213,
+        "translated": false
+      },
+      {
+        "author_name": "Linh",
+        "author_url": "https://www.google.com/maps/contrib/109782490609444136997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT7hwrYHpEfMTHDUXZRmabSpVIKM8HQ5J9O9u8RpRC2K5PLM8=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Trừ thêm 1 sao vì vừa ăn thử kem, quá nhiều đá dăm, không đậm vị matcha.\nGiá cao nhưng tương xứng chất lượng. Muốn thử kem để xem có giống cửa hàng gốc bên Nhật không nhưng mấy lần đều được báo hết.\nMình có thử croffle thì bị ngọt quá, cho qua nhiều đường trước khi ép bánh. Bánh lại để lạnh bán cho khách chứ không được ép nóng nên đường bị vón cục.",
+        "time": 1772284156,
+        "translated": false
+      },
+      {
+        "author_name": "Phạm Minh Khánh",
+        "author_url": "https://www.google.com/maps/contrib/112232216060875241879/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0DsDD6Qn8M2_XoV--V-XG1Qj1xXOXMAhb8QiFge_u2-xljA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "2 món kem đặc trưng nhất là Match và mont blanc thì lại hết nên mua kem vị sữa - không quá đặc sắc nhưng kem vẫn thơm, chảy nước và mềm rất nhanh, ốc quế ngon.",
+        "time": 1772363969,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 245
+  },
+  "harvested_at": "2026-04-26T16:51:18.906173"
+}

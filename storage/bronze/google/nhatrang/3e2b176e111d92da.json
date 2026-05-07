@@ -1,0 +1,109 @@
+{
+  "u_key": "3e2b176e111d92da",
+  "original_osm_name": "Hang Heo coffee",
+  "google_raw": {
+    "formatted_phone_number": "0903 505 088",
+    "geometry": {
+      "location": {
+        "lat": 12.3300633,
+        "lng": 109.209648
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.3313832802915,
+          "lng": 109.2106706302915
+        },
+        "southwest": {
+          "lat": 12.3286853197085,
+          "lng": 109.2079726697085
+        }
+      }
+    },
+    "name": "Hang Heo coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 2.1,
+    "reviews": [
+      {
+        "author_name": "Quynh Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108835453176541755870/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0J7spuWAFsqYYy-cNTJJDatFs1pHo07MqxFZQnB4ZqIacXKA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tìm đường đến hang heo thì phải vào quán cà phê này trước nên cũng hơi khó hiểu, khi mà khu vực biển tự nhiên có cở sở khai thác kinh doanh. Anh chị ở đây bán các món đồ nước uống cơ bản, bạn đi vào order rồi đi loanh quanh chụp ảnh thôi cũng k thu thêm phí gì. Nhưng cái cảm giác như vào nhà riêng người ta để ngắm cảnh vậy",
+        "time": 1769960328,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Minh",
+        "author_url": "https://www.google.com/maps/contrib/106310248803104178329/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLe0uECs8pqdOObQ2HoullZHMo-ByeatMR0AW9F5txwgyYJbLZ1g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình k đọc trước review mà mình cứ tới thẳng quán luôn. Quán giá nước tầm 30 - 50k, cũng ok. Mình thấy nước uống cũng được, có mấy ghế dài với dù nằm ngắm biển chill.\n\nRồi mình đi bộ xuống hang heo, chủ yếu là các tảng đá chỏm, mng cẩn thận k trơn trượt. Chỗ này k tắm được đâu, chỉ có thể tới nghỉ ngơi chụp hình thui. Hình như không có cứu hộ nên mọi người chú ý an toàn nhé.",
+        "time": 1769522444,
+        "translated": false
+      },
+      {
+        "author_name": "Trúc Linh Nghiêm Xuân",
+        "author_url": "https://www.google.com/maps/contrib/102121144222148401073/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLow19osuDz6fbTXqJYg0vs7KLxHMyz3mxovMPwlNq50wykOGQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Tệ\nNước thì quá ngọt, rất ngọt là đằng khác. Uống vào có thể là dư đường luôn.\nNhân viên có thái độ không tốt.\nKhách trước đã rời đi nhưng ly nước thì vẫn còn đó. Menu thì khá đắt và ít món.\nĐược 2 cô chú lớn tuổi nhiệt tình và dễ thương",
+        "time": 1766052057,
+        "translated": false
+      },
+      {
+        "author_name": "Dat Nguyen Tai",
+        "author_url": "https://www.google.com/maps/contrib/116337338356317181017/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJK3wiVi6xvPDz0yCkakTRUCK1VPWzt-KgMpNsHTtvdBYTcVQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thấy nhiều review chê quá. Nhưng thực tế thì việc đầu tư cho khách có thêm tiện ích thì mua 1-2 ly nước ủng hộ ko phải là vấn đề. Giá cả menu cũng đâu có đắt so với mặt bằng chung. Về nước ngọt quá thì mọi người có thể yêu cầu với nhân viên trước là ít ngọt mà, hoặc uống dừa, nước uống đóng chai mà 😊",
+        "time": 1771389262,
+        "translated": false
+      },
+      {
+        "author_name": "Le Van Trang",
+        "author_url": "https://www.google.com/maps/contrib/117647535740898305231/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSUkivtnXCUYW00gdRt18HV9ZgRA0MviW2mPS7mSYTkI-BTJ4=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Thấy các bạn review có vẻ khá khắt khe về quán. Nhưng theo cá nhân mình trải nhiệm cũng đâu đến nỗi tệ.\nTuy đây là biển tự nhiên lại có cơ sở kinh doanh hoạt động thu phí địa điểm này tôi cũng có chút không can lòng nhưng suy đi cũng tính lại thì tôi thấy cũng không quá xấu.\nThứ nhất có chỗ trông để xe tránh nắng.\nThứ 2 tôi thấy có đắp xi măng, tạo đường xuống hang heo dễ dàng hơn cho khách du lịch, tránh té ngã.\nThứ 3 tuy bắt mua nước theo số người nhưng giá nước cũng không thực sự đắt cũng từ 30k. Nước thì cũng tuỳ ly, ly ngon ly dở.\nThứ 4 các bạn sau khi chụp hình nắng nôi mệt mỏi có chỗ ngồi nằm nghỉ ngơi thoả mái.",
+        "time": 1757237809,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 126
+  },
+  "harvested_at": "2026-05-02T16:08:39.194254"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "bfe681b05caf733e",
+  "original_osm_name": "Cà Phê Lutulata Desserts and Drinks",
+  "google_raw": {
+    "formatted_phone_number": "0977 048 812",
+    "geometry": {
+      "location": {
+        "lat": 21.0374711,
+        "lng": 105.8469932
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0388194302915,
+          "lng": 105.8484023302915
+        },
+        "southwest": {
+          "lat": 21.0361214697085,
+          "lng": 105.8457043697085
+        }
+      }
+    },
+    "name": "OhLa Coffee, Coktail and Bread",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–23:00",
+        "Thứ Ba: 06:30–23:00",
+        "Thứ Tư: 06:30–23:00",
+        "Thứ Năm: 06:30–23:00",
+        "Thứ Sáu: 06:30–23:00",
+        "Thứ Bảy: 06:30–23:00",
+        "Chủ Nhật: 06:30–23:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Việt Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112737739401800082017/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQkIB6CTFYuLHwVc3_Ckt1Vgl2tfNcc9xd0R1W_UqqM4QE5ftD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán có hơi nhỏ, nma bánh mì ở đây siêu ngon, vỏ bánh ăn khác hẳn mấy quán khác, rcm mng trải nghiệm",
+        "time": 1764143705,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Lê",
+        "author_url": "https://www.google.com/maps/contrib/106053770760376677959/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBYoEJmvutPRXW5LoLIy5XjjTjwouLXKOD76YUpwIeEUKB34UA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Bánh mì rất ngonn mình ăn ở đây nhiêù lần lắm rồi🫶",
+        "time": 1763513741,
+        "translated": false
+      },
+      {
+        "author_name": "Thi Đặng",
+        "author_url": "https://www.google.com/maps/contrib/103840228377574168031/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWin6fVIjKMz2EMrGf1EYESHZxe8rTAsRy4jJFGrEyE0qlRkzCI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "quán đẹp, chill, nvien nhiệt tình, chu đáo, giá cả ổn áp, sẽ quay lại lần sau",
+        "time": 1763206424,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Anh Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/110184706891176808614/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJprLql7lVrBsHUHnLA0Pfu49CuGPQYOJTldrNr9H4GEx1lBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nhân viên quán siuu thân thiệnnn, takecare khách hàng nhiệt tình đồ uống siêu ngon còn rẻ hơn so với mặt bằng chungg",
+        "time": 1763208948,
+        "translated": false
+      },
+      {
+        "author_name": "Đặng Thái Dương",
+        "author_url": "https://www.google.com/maps/contrib/103850579676597907406/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM5X_muEuiY1sy5WwI2Abo7qr9cDsiCx8uzfBT8RQcXV0W4A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "nhân viên quán nhiệt tình, nước ngon giá thành hợp lý rất thích hợp để thư giãn cuối tuần",
+        "time": 1763207361,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 230
+  },
+  "harvested_at": "2026-04-26T12:45:25.751780"
+}

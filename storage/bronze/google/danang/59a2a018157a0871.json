@@ -1,0 +1,171 @@
+{
+  "u_key": "59a2a018157a0871",
+  "original_osm_name": "Tran local foods",
+  "google_raw": {
+    "formatted_phone_number": "0236 3621 111",
+    "geometry": {
+      "location": {
+        "lat": 16.065474,
+        "lng": 108.2234574
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0668194302915,
+          "lng": 108.2248764802915
+        },
+        "southwest": {
+          "lat": 16.0641214697085,
+          "lng": 108.2221785197085
+        }
+      }
+    },
+    "name": "Danang local food restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "양신원",
+        "author_url": "https://www.google.com/maps/contrib/116109215761011785600/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk7tNSnuqPCjnel-xqVdBVBQrNSKmb7eyvBECkrRe4Ng5kWg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Tôi khuyên bạn nên chọn nơi này cho kỳ nghỉ 0,5 đêm. Tầm nhìn rất tuyệt vời, và nhân viên rất chu đáo. Tôi đã đặt hai căn hộ hai phòng ngủ, nhưng họ không thể bố trí cho tôi ở cùng một tầng. Họ hỏi liệu tôi có ổn không nếu ở một phòng có giường đôi, và họ đã đổi phòng cho tôi ngay lập tức. Cả hai phòng đều có tầm nhìn ra Nhà thờ Hồng và cầu Yongdari, vì vậy thật tuyệt khi có thể thay đổi tầm nhìn. Tôi đến muộn vào buổi sáng và có món phở ngay trước mặt, và rất thuận tiện để đi đến chợ Hàn. Vì đây là kỳ nghỉ 24 giờ, tôi có thể đến chợ Hàn, thu dọn đồ đạc, rồi để các con nghỉ ngơi một chút ở khách sạn trước khi quay lại để đổi đồ. Thật tiện lợi.",
+        "time": 1752995152,
+        "translated": true
+      },
+      {
+        "author_name": "Lenar",
+        "author_url": "https://www.google.com/maps/contrib/108690138152855485270/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlRTBaLLYFZF74Tp-0wWpUR8NK2LkTlOuBRe2TIQ0ToJbIBA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "9 tháng trước",
+        "text": "Họ tính phí 5% cho thanh toán bằng thẻ.\n\nVớ vẩn!",
+        "time": 1753425256,
+        "translated": true
+      },
+      {
+        "author_name": "YO",
+        "author_url": "https://www.google.com/maps/contrib/114040097046340365658/reviews",
+        "language": "vi",
+        "original_language": "zh-Hant",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSb-bciuCBGTZNk7U0TSFxwbSjgLEw2zSoMruMXzmJ4cH8u7xI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "CD Oolong",
+        "time": 1705297872,
+        "translated": true
+      },
+      {
+        "author_name": "許寶華",
+        "author_url": "https://www.google.com/maps/contrib/103017518996376280054/reviews",
+        "language": "vi",
+        "original_language": "zh",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP0YXfQTMrWTwLnipXo469iLO84l-RaIrtEYGhqK7IYdJg1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Rẻ và ngon 😋👍👍👍",
+        "time": 1694937287,
+        "translated": true
+      },
+      {
+        "author_name": "Sherry Ulaszonek",
+        "author_url": "https://www.google.com/maps/contrib/118439385275715062713/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKeu4bf8LnfYzUjby362xzrvn5MIsah6VDwssvTTAO-pwRWTRhoQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1707817245,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "harvested_at": "2026-04-29T09:57:37.666619"
+}

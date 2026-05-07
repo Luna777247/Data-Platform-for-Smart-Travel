@@ -1,0 +1,174 @@
+{
+  "u_key": "41151fb721a83270",
+  "original_osm_name": "Al Fresco's",
+  "google_raw": {
+    "formatted_phone_number": "024 3826 7782",
+    "geometry": {
+      "location": {
+        "lat": 21.0239783,
+        "lng": 105.8531441
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0254050802915,
+          "lng": 105.8545160302915
+        },
+        "southwest": {
+          "lat": 21.0227071197085,
+          "lng": 105.8518180697085
+        }
+      }
+    },
+    "name": "Al Fresco's Hai Bà Trưng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "YoungLife TiVi",
+        "author_url": "https://www.google.com/maps/contrib/108697771738706696043/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWinJUtJC89JY1V8stagU7Her3s4zCxnw7eeuyxm_xJ8txBrw_b=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình ăn kha khá nhiều quán trong hệ thống này, nhìn chung ưu điểm nổi trội nhất của chuỗi là nhân viên rất okie, các món ăn công bằng thì cảm giác không ngon như lúc xưa, nhưng vẫn giữ được hình menu sao thì phục vụ ra y như vậy.",
+        "time": 1768751398,
+        "translated": false
+      },
+      {
+        "author_name": "-Trường Đỗ- Đồng phục Bốn Mùa",
+        "author_url": "https://www.google.com/maps/contrib/100194126809556532644/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWenPK7xnGPYrIheKi1hr8QEscvpod6ei3exZcegEnlyRMTjH8czQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Piza và đồ ăn ở đây ngon, vị đặc trưng.\nPhục vụ và ra món nhanh. Lau dọn sạch sẽ.\nChỗ ngồi ấm cúng",
+        "time": 1762694417,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Trang",
+        "author_url": "https://www.google.com/maps/contrib/104998637678566301014/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM6w8WnnIfBtXIwEoULoNWu6-bnTLDqIeF7k6ZvrpSAr96E_g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhân viên thu ngân ca tối ngày 7/12 rất thái độ. Mặt sưng sỉa, ko nói năng gì vs khách là anh/chị thanh toán nnao :), khách thanh toán xong giơ bill ngẩng lên chưa dc 1p r lại cúi xuống lí nhí trong mồm là nhận dc r. Cx chỉ là đi làm thuê mà như mẹ thiên hạ thế :))))))",
+        "time": 1765110670,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Rang",
+        "author_url": "https://www.google.com/maps/contrib/101544425946337636280/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcMlG_CQGGGrs2r8WX4QPADknBXhWan9JTKWy26144ZWolhjZ7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình order online trên web và có gặp 1 số trục trặc .\nNhưng rất may rằng cửa hàng đã xử lý rất tốt và mình , 1 khách hàng cảm thấy được chân trọng !\nCảm ơn nhà hàng , mong rằng cửa hàng sẽ không phải lặp lại trường hợp của mình lần nào nữa\nChúc nhà hàng luôn luôn đông khách , bánh rất ngon",
+        "time": 1772112212,
+        "translated": false
+      },
+      {
+        "author_name": "Tôi, khôi ngọng",
+        "author_url": "https://www.google.com/maps/contrib/101259986528705723576/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtkcAWliJUltqv3b_LYlSSVUZ454MJ9nBlBm0HjRZuybJ_AVQQxQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon, các bạn nhân viên rất nhiệt tình. Còn nấu cháo hộ cho con mình",
+        "time": 1765713482,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 755
+  },
+  "harvested_at": "2026-04-28T16:15:23.715715"
+}

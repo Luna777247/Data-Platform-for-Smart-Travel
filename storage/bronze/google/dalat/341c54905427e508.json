@@ -1,0 +1,123 @@
+{
+  "u_key": "341c54905427e508",
+  "original_osm_name": "the muse",
+  "google_raw": {
+    "formatted_phone_number": "0394 713 218",
+    "geometry": {
+      "location": {
+        "lat": 11.9476752,
+        "lng": 108.4429861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9490940302915,
+          "lng": 108.4445091302915
+        },
+        "southwest": {
+          "lat": 11.9463960697085,
+          "lng": 108.4418111697085
+        }
+      }
+    },
+    "name": "The Moment Muse (Cung Văn Hoá Thiếu Nhi)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: Đóng cửa",
+        "Thứ Năm: Đóng cửa",
+        "Thứ Sáu: 17:00–20:00",
+        "Thứ Bảy: 17:00–20:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Nhi Lê",
+        "author_url": "https://www.google.com/maps/contrib/105249930991894743740/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyZpO3zIU1bRkKfX1KDdFqBelmWrvm3OtoRp9qebEr_03EqNZq=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không gian siu đẹp lun áaa, mới đi xem anh Quốc Thiên và anh An Huy, mí ảnh hát hay ơi là hayyy",
+        "time": 1767365827,
+        "translated": false
+      },
+      {
+        "author_name": "long trần",
+        "author_url": "https://www.google.com/maps/contrib/110784144138737242124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXETfduEILThl8wD-QfXBbYwkaFJWvBvKr8gvhov49LkB7jyykM=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Được chú ruột mình tặng vé đi xem nhạc của chị Hà Nhi và Hoàng Tôn nhân dịp giáng sinh trên Đà Lạt nên review cho mọi người\n\nTổng quan đây là một concert đáng bỏ tiền ra để tham gia. Dàn âm thanh cực kì cháy, không bị chói tai, các bạn nhân viên hỗ trợ nhiệt tình tới chỗ ngồi và đi vệ sinh\n\nMở đầu show chị Hà Nhi hát khá cháy, giao lưu với khán giả cực kì nhiệt tình. Tiếp đến chuyển giao qua Hoàng Tôn cực kì mượt với song ca bài  hát “Cho Em”.\n\nLúc sau anh Hoàng Tôn giao lưu cháy lắm luôn. Mình cũng không ở lại lâu thêm được nên hơi tiếc k hóng được khúc sau.\nDù sao thì địa điểm này xứng đáng điểm 10 tuyệt đối từ mình . Đánh giá 10/10.",
+        "time": 1766752460,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Tram Le Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/117339546500112353946/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJslpOWV6zvv8dUxfCPkGKoPN7N4CufEZ5JCFNvE4SuKm79xg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Sân khấu hoành tráng, nhiều góc chụp hình đẹp. Địa điểm thật tuyệt, phải thử một lần khi đến Đà Lạt mọi người nhé",
+        "time": 1766738183,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Tam Ng Tran",
+        "author_url": "https://www.google.com/maps/contrib/102183191289497877350/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_UqmFShx78x30CBeNYdipbJ0X5205mINHOjHIm7FJQv9bJ1I=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Hãy tham gia cùng tuiii nàooo, chương trình ok, ca sĩ hát tận hơn chục bài",
+        "time": 1766748677,
+        "translated": false
+      },
+      {
+        "author_name": "Lâm Hồ",
+        "author_url": "https://www.google.com/maps/contrib/106016033364629601107/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSCWW1n-o-gYztexYmUsK9VwPhYewUIHLl6bW3xWvrLeFwLGA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Sân khấu đẹp kh còn gì để chê. Các bạn staff hỗ trợ rất nhiệt tình",
+        "time": 1766761796,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 117
+  },
+  "harvested_at": "2026-04-30T15:01:48.865532"
+}

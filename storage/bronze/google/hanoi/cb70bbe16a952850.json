@@ -1,0 +1,153 @@
+{
+  "u_key": "cb70bbe16a952850",
+  "original_osm_name": "Cà Phê KOK",
+  "google_raw": {
+    "formatted_phone_number": "024 3766 8626",
+    "geometry": {
+      "location": {
+        "lat": 21.0594401,
+        "lng": 105.8298084
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0608121802915,
+          "lng": 105.8311290802915
+        },
+        "southwest": {
+          "lat": 21.0581142197085,
+          "lng": 105.8284311197085
+        }
+      }
+    },
+    "name": "Kok Coffee Roasting House",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–17:00",
+        "Thứ Ba: 09:00–17:00",
+        "Thứ Tư: 09:00–17:00",
+        "Thứ Năm: 09:00–17:00",
+        "Thứ Sáu: 09:00–17:00",
+        "Thứ Bảy: Đóng cửa",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "PHAM Do Chung",
+        "author_url": "https://www.google.com/maps/contrib/101826633794043778812/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7M_Mp9BrhORUSVLlbodTHn5GQMC9xl-wD79cGJN8yyctwd9t3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Nhà rang cafe chuyên nghiệp nhất Hà Nội",
+        "time": 1548485651,
+        "translated": false
+      },
+      {
+        "author_name": "Mật Ong Nguyên Chất",
+        "author_url": "https://www.google.com/maps/contrib/117774580433504195567/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWheekMc1_s_8mt5OJyLXxB8ZuznRMI0IdM5fkDf2K_EWsoQ4U=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Đồ uống ngon, view đẹp",
+        "time": 1519306284,
+        "translated": false
+      },
+      {
+        "author_name": "Việt Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/104053872995359497201/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc2afcIS9yeTsPTHudRkZt59oJoGlBQK28w8eY9v8K1bJm3A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "quán ok đồ uống ổn",
+        "time": 1554631343,
+        "translated": false
+      },
+      {
+        "author_name": "Văn Duẩn Hà",
+        "author_url": "https://www.google.com/maps/contrib/111376571223481080905/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUz-lmNc2EObT7x55thyQ2u33Vx_o7_Vh_EbZx70qXtrPNNw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Hay",
+        "time": 1564275711,
+        "translated": false
+      },
+      {
+        "author_name": "石井久之",
+        "author_url": "https://www.google.com/maps/contrib/111859264905958556971/reviews",
+        "language": "vi",
+        "original_language": "ja",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXifNAlxl6a67SmkQFhsUllfN3Lzko5QqaWVEd3w4kNZ6Kk-cRM=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Có vẻ như hiện tại việc ăn uống không được phép.\nCửa hàng này bán cà phê pha chế theo yêu cầu.\nTùy thuộc vào loại cà phê, họ sẽ đóng gói cho bạn ngay tại chỗ.\nBạn có thể mua cà phê nguyên chất được pha từ hạt cà phê Việt Nam.",
+        "time": 1538348981,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 44
+  },
+  "harvested_at": "2026-04-27T19:57:52.979731"
+}

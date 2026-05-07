@@ -1,0 +1,174 @@
+{
+  "u_key": "c1a44cf62ad0f096",
+  "original_osm_name": "Nhà Hàng Blue Butterfly",
+  "google_raw": {
+    "formatted_phone_number": "024 3926 3845",
+    "geometry": {
+      "location": {
+        "lat": 21.0347199,
+        "lng": 105.8534821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0360689802915,
+          "lng": 105.8548393302915
+        },
+        "southwest": {
+          "lat": 21.0333710197085,
+          "lng": 105.8521413697085
+        }
+      }
+    },
+    "name": "Blue Butterfly Restaurant & Cooking Class",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:30",
+        "Thứ Ba: 09:00–22:30",
+        "Thứ Tư: 09:00–22:30",
+        "Thứ Năm: 09:00–22:30",
+        "Thứ Sáu: 09:00–22:30",
+        "Thứ Bảy: 09:00–22:30",
+        "Chủ Nhật: 09:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "vu thi thu ha",
+        "author_url": "https://www.google.com/maps/contrib/107066291040927806200/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXps9jG4QJeqV1as-iW88A8J5u6Y8BQ7XL2NoEG35CTBPy2vw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đưa khách đi học nấu ăn ở đây, đầu bếp Hưng hướng dẫn rất tận tình niềm nở. Nấu xong khách được ăn luôn món họ nấu.",
+        "time": 1757247296,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Thị Hậu",
+        "author_url": "https://www.google.com/maps/contrib/113857641872204835520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjvYb4gZ8SJuFvZK24Vv00bm51SDVCblk1Gg0PALHjxt2wyLY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng là một ngôi nhà cổ ấm cúng\nĐồ ăn Việt mang phong cách tinh tế gây ấn tượng cho tôi.\nVà tôi nhận được sự quan tâm từ Chef",
+        "time": 1739810802,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Xuân",
+        "author_url": "https://www.google.com/maps/contrib/103015571345713076799/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLI1_QFSzkkQTK4owphbmjmWFDYnIsqN0qaYFrwGeCJQMZk0A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, không gian nhà cổ đẹp, ngoài ban công có thể ngắm được nhiều dưới phố….Chụp ảnh cũng rất chill….",
+        "time": 1767772631,
+        "translated": false
+      },
+      {
+        "author_name": "Đỗ Thị Huyền Diệu",
+        "author_url": "https://www.google.com/maps/contrib/103267496608845970712/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBpR2nSqm4f--oe_0lbxV3-_4u4oywwQI7febY8hXVoeEq6-y0=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "bầu không khí ấm cúng , thoáng mát . Nhân viên phục vụ nhiệt tình , đồ ăn ngon nên thử nha mng",
+        "time": 1753957567,
+        "translated": false
+      },
+      {
+        "author_name": "Sinh Trần",
+        "author_url": "https://www.google.com/maps/contrib/101290090820680598262/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPAWqPFZHUgmlaZTXH_gMvzn4izYPWCBzQPf9Us1Kb_j7_uAg_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Không gian yên tĩnh đúng chất thư giãn, đồ ăn ngon, chuẩn vị. Rất hài lòng",
+        "time": 1749820100,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 727
+  },
+  "harvested_at": "2026-04-28T16:18:27.681917"
+}

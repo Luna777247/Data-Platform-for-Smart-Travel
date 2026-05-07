@@ -1,0 +1,71 @@
+{
+  "u_key": "e7f2de0450ea4b7b",
+  "original_osm_name": "Vườn Hoa Tam Giác Mạch, Hoa Cải",
+  "google_raw": {
+    "formatted_phone_number": "0944 146 337",
+    "geometry": {
+      "location": {
+        "lat": 11.730527,
+        "lng": 108.5274882
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.7315225802915,
+          "lng": 108.5286276802915
+        },
+        "southwest": {
+          "lat": 11.7288246197085,
+          "lng": 108.5259297197085
+        }
+      }
+    },
+    "name": "Vườn hoa tam giác mạch",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Đắc Huy Hồ",
+        "author_url": "https://www.google.com/maps/contrib/102865166363144331366/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0fRQVXp8vkcYkau4dCwBGxpClGURzlfCTacGaKQ3-Tto01rRn=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Khám phá những chỗ lạ  rất hay",
+        "time": 1672540531,
+        "translated": false
+      },
+      {
+        "author_name": "Huy A9 Nguyễn Quang",
+        "author_url": "https://www.google.com/maps/contrib/108631822867489046042/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIHIq4Am54YsXxJvXpejHYFXcVlMUEJA2QZpNL_owNm17LzP3a=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1711198224,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-30T15:12:52.446440"
+}

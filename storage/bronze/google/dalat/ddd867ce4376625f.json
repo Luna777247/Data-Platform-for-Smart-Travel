@@ -1,0 +1,172 @@
+{
+  "u_key": "ddd867ce4376625f",
+  "original_osm_name": "Thung lũng khói xanh",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9378676,
+        "lng": 108.4935292
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9393124802915,
+          "lng": 108.4949233302915
+        },
+        "southwest": {
+          "lat": 11.9366145197085,
+          "lng": 108.4922253697085
+        }
+      }
+    },
+    "name": "Thung Lũng Khói Xanh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Phạm Lê Quốc Hưng",
+        "author_url": "https://www.google.com/maps/contrib/103795871711774790827/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpALKUOIvx2-i0HZncvylobUysLH3UdefPNBKCFV1LCxXXHaQd=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhân viên phục vụ thái độ, quán không lau dọn bàn ngày Tết rất dơ. View đẹp nhưng không đáng với thái độ của nhân viên dành cho khách. Đồ ăn gọi 30 phút chưa có trong khi nước đã có rồi",
+        "time": 1772240320,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Phong",
+        "author_url": "https://www.google.com/maps/contrib/108720686348611747353/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3ggnt4b1RU5sa-UDtBR6kqMbJuJH3pG05KgFKoI4BML_1e5LI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Thật sữ ngỡ ngàng vì quá đẹp. Quán nằm trên ngọn đồi rất chill. Trang trí quán rất dễ thương, không nhiều hoa nhưng bố trí nhẹ nhàng và cực ấn tượng. Nước uống bình thường. Giá cũng khá cao nhưng đẹp nên chấp nhận. Nhà vệ sinh không được sạch. Nếu quán đầu tư thêm vệ sinh thì tuyệt vời",
+        "time": 1752412778,
+        "translated": false
+      },
+      {
+        "author_name": "Thiện An",
+        "author_url": "https://www.google.com/maps/contrib/103988314765502985549/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGZLdzxdpL_DOqZJyibr1NdLwkxeOpLAEvLu30FT9meCVex0eNoQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "1 quán view tuyệt vời để chụp hình\nGiá : 100k/ người ( rất đáng tiền )\nBố trí có 4 tầng để chụp\nKhông gian to, có cái gương to đùng, nch là đẹp lắm\nLúc mình đi gặp trời mưa với cũng trễ nên chụp được ít hình, hơi tiếc\nTới 18h quán ngưng order, khách ở lại chụp hình thoả thích\n1 số ảnh tượng trưng 👇",
+        "time": 1689865840,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Tran",
+        "author_url": "https://www.google.com/maps/contrib/100902544085199393364/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWanGPDnv1TORNQ7xyxRJeJV8bINL785jZDAAs5CohzOAplFYlI=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Thung Lũng Khói Xanh quá chi là xanh mát và hợp nên tui với nhỏ bạn ghé liền. Không chỉ có mảng xanh, view đẹp mà quán còn có ngôi nhà gỗ, cối xay gió kiểu nông trại Châu Âu lên hình xinh cực. Mấy bạn nào mang đồ cao bồi vô đây là keo lì nữa nha. 💯\n🌱 Không gian quán xanh và thoáng nên dễ chụp hình lắm, sáng tui ghé là đã thấy nhiều bạn trẻ tới check in rồi xuýt xoa vì có nhiều hình xịn rồi. Dù quán mở khá lâu nhưng tui thấy Thung Lũng Khói Xanh vẫn luôn là 1 nơi đáng để ghé đó, đảm bảo vừa đúng chất Đà Lạt bình yên, trong lành! 🌥️",
+        "time": 1724927936,
+        "translated": false
+      },
+      {
+        "author_name": "Mr Tân",
+        "author_url": "https://www.google.com/maps/contrib/110519051520412602178/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOToEVzDfN47i0cG1aHDVx8KVGopVfW7DBefw3zBiXA3i8IZkayQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán có không gian rộng rãi, rất có đầu tư cho ngoại cảnh để khách có thể chụp ảnh sống ảo. Đồ uống cũng ngon và giá cả phù hợp. Các bạn nên đến quán và tham quan chụp ảnh vào buổi sáng hoặc chiều mát để có thể có nhiều khoảnh khắc đẹp hơn nhé.\nCũng góp ý với quán nên đầu tư thêm chỗ ngồi cho khách đoàn đông từ 10-20 người để có chỗ nghỉ ngơi và trò chuyện, giải khát.\nChúc quán phát triển và đông khách.",
+        "time": 1707059233,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 583
+  },
+  "harvested_at": "2026-04-30T15:08:25.805622"
+}

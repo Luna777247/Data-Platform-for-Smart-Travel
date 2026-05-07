@@ -1,0 +1,173 @@
+{
+  "u_key": "95b4a5298cbdb8df",
+  "original_osm_name": "Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0862 961 579",
+    "geometry": {
+      "location": {
+        "lat": 11.9259335,
+        "lng": 108.4453393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9271928302915,
+          "lng": 108.4467529802915
+        },
+        "southwest": {
+          "lat": 11.9244948697085,
+          "lng": 108.4440550197085
+        }
+      }
+    },
+    "name": "Đà Lạt Nights - Quán cà phê view thành phố",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–00:00",
+        "Thứ Ba: 06:00–00:00",
+        "Thứ Tư: 06:00–00:00",
+        "Thứ Năm: 06:00–00:00",
+        "Thứ Sáu: 06:00–00:00",
+        "Thứ Bảy: 06:00–00:00",
+        "Chủ Nhật: 06:00–00:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Anh Trương",
+        "author_url": "https://www.google.com/maps/contrib/114804073200830075579/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyA5V_PIzkD_SXFkA2_rcAfqOs1UZbI9vpaymg8BLIm_AEQ4_x=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán khá đẹp ngay trung tâm thành phố Đà Lạt, quán ở gần bến xe Liên Tỉnh. Quán sạch sẽ, từ nền nhà, bàn ghế cho đến nhà vệ sinh.\nNhân viên phục vụ nhiệt tình.\nCafe và nước uống ngon\nVị trí quán có view ra thành phố khá đẹp",
+        "time": 1769228094,
+        "translated": false
+      },
+      {
+        "author_name": "No Time To Die",
+        "author_url": "https://www.google.com/maps/contrib/114065833397743410235/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzO148uPlEGpgTvJ4aWRp0lCCDPZtYwa6E4MRAn_zXm5mPkQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán cafe có view toàn thành phố, các bạn nhân viên lịch sự dễ thương. Đồ uống ngon",
+        "time": 1764940144,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Xuan",
+        "author_url": "https://www.google.com/maps/contrib/105070177089678240335/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEjJi5PP3EMqodF8KSezEmWyDg5BocZmpaT_PEbkH0jHFh_i0-=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rộng, thoáng. View ngoài trời và cả trong nhà. Yên tĩnh, thích hợp cho ng đợi bến xe nghỉ ngơi. Nước tạm, giá cao so với mb chung",
+        "time": 1770819693,
+        "translated": false
+      },
+      {
+        "author_name": "Da Da",
+        "author_url": "https://www.google.com/maps/contrib/102795144833992443106/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwzwDOOLfNggeAGNgIdCNe1-TbzJzgwCy4_i06mJ63_QYQMI2a=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "The café is located right on Đống Đa street, near the provincial bus station, in a quiet area surrounded by pine trees and old eucalyptus, making the atmosphere cool and relaxing all the time. The space is spacious and airy — perfect for working, studying, or just unwinding.\nThe drinks are decent and reasonably priced. The staff are always friendly, cheerful, and attentive. There are plenty of beautiful photo spots around the café, and at night, the place looks even more sparkling with all the lights on. There’s also a large, free parking area, which is super convenient.\nQuán nằm ngay mặt tiền đường Đống Đa, gần bến xe tỉnh, thuộc khu vực khá yên tĩnh, được bao quanh bởi rừng thông và hàng bạch đàn cổ thụ nên không khí lúc nào cũng mát mẻ, dễ chịu. Không gian quán rộng rãi, thoáng đãng, rất thích hợp để ngồi làm việc, học bài hay đơn giản là thư giãn.\nĐồ uống ở đây chất lượng ổn, giá cả hợp túi tiền. Nhân viên thì lúc nào cũng niềm nở, nhiệt tình và dễ thương. Quán có nhiều góc decor xinh xắn để chụp hình sống ảo, đặc biệt buổi tối lên đèn thì càng lung linh hơn nữa. Bãi giữ xe rộng, miễn phí, rất thuận tiện cho khách.",
+        "time": 1751204742,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Le",
+        "author_url": "https://www.google.com/maps/contrib/107603898893886690010/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiyXLVbaiCqpRWJB8bIK78ZY3lm36Qmsy1wGDfBfbOzyABOJ32=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán mở cửa 24/24. Rất thích hợp cho ai đi xe tới bến xe Đà Lạt quá sớm 4h, 5h sáng ngồi chờ phòng. Hình chỉ dẫn mình để ngày bức ảnh đầu đi từ bến xe lên 5p đi bộ.\nNgay dưới chân quán là cho thuê xe máy Nam Anh, số 1 Tô Hiến Thành. Ngồi cafe tới 7h gọi thuê xe luôn.(  Trên Google map có hiển thị ).\n- Cafe và nước ép rất ngon.\n- Không bán đồ ăn, ( nên mua bánh mỳ dưới bến xe đem lên)",
+        "time": 1750842717,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1418
+  },
+  "harvested_at": "2026-04-30T15:06:13.517537"
+}

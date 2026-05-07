@@ -1,0 +1,173 @@
+{
+  "u_key": "e24c0e7c32dba6a1",
+  "original_osm_name": "The Local II",
+  "google_raw": {
+    "formatted_phone_number": "0915 093 883",
+    "geometry": {
+      "location": {
+        "lat": 12.2333665,
+        "lng": 109.1957371
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2346578302915,
+          "lng": 109.1971004802915
+        },
+        "southwest": {
+          "lat": 12.2319598697085,
+          "lng": 109.1944025197085
+        }
+      }
+    },
+    "name": "The Local 2",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:30",
+        "Thứ Ba: 09:00–23:30",
+        "Thứ Tư: 09:00–00:30",
+        "Thứ Năm: 09:00–00:00",
+        "Thứ Sáu: 09:00–00:30",
+        "Thứ Bảy: 09:00–00:00",
+        "Chủ Nhật: 09:00–23:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Hồng Phúc",
+        "author_url": "https://www.google.com/maps/contrib/112444438201013952985/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrQJcL_Ecz3Z_rcBQJkjVZpi5E1Yk0d4owhR77_gu3cFPSlAq_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Hải sản tươi và ngon. Đồ ăn lên nhanh chóng. Không gian thoáng đãng và mát phù hợp đi nhiều người. Đặc biệt vị trí ngay trung tâm thành phố Nha Trang nhưng giá cả rất vừa phải",
+        "time": 1772901599,
+        "translated": false
+      },
+      {
+        "author_name": "Otis Phương",
+        "author_url": "https://www.google.com/maps/contrib/106782382810575988262/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNnm4VHvo12BIux6NTMBSd5odjaV2T86fNzUOI3_GJC419cWiYmQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "4 tháng trước",
+        "text": "Món ăn giá hơi chênh chắc do gánh mặt bằng. Không khí ok. Chất lượng món trung bình so với các nhà hàng trung tâm.\nĂn xong phải ăn đệm bún đậu mắm tôm quán ngoài.",
+        "time": 1765796452,
+        "translated": false
+      },
+      {
+        "author_name": "cao vân anh nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115011833488121791790/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbJLoU176x9UELWrCosKYraKc4P8Px8XYtajFyd2brGI7ngpg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ngon lắm ấy mọi người, mình ăn mà phải bất ngờ trước chất lượng, hải sản Nha Trang tươi khỏi bàn nhưng quán làm tươi phục vụ niềm nở ✨🫶😍😋😋😋",
+        "time": 1762670520,
+        "translated": false
+      },
+      {
+        "author_name": "Thương Phạm",
+        "author_url": "https://www.google.com/maps/contrib/106236895021480263225/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmLJSgYRVTsNb0io167YPs_H3ypQpZwWH-acQxzVuw28Zhg4Sz=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán ăn OK nhé mọi người\nChủ quán, nhân viên lịch sự\nKhông chặt chém",
+        "time": 1762602660,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103712157226339531086/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQ8JGSB1UPCA7Ir5uBcC35AD1tKzW1EPsDE3SFAHayeo__RA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mùa hè năm nay gia đình Chúng tôi  có đi một chuyến du lịch thành phố nha trang. Tình cờ gia đình tôi đi dạo qua một nhag hàng có tên the local 2  24 đường trần quang khải nha trang. Chúng tôi nhìn từ ngoài vào trong có vẽ  rất sạch sẽ. Và có hồ hải sản  các loại  tươi sống.  Nên chúng tôi quyết định vô ăn thử . Để trải nghiệm  món ăn mỗi nơi  như thế nào. Chúng tôi có gọi vài món hải sản . Ko ngờ quán nấu rất nhanh . Và được trang trí rất hoàn hảo . Đẹp mắt. Và món ăn rất ngon tuyệt vời vừa ý gia đình chúng tôi. Và giá cả rất hợp lý với khách du lịch đến nha trang. Nhân viên rất nhiệt tình . Vui vẽ với khách hàng . Tôi nghỉ đã được đào tạo qua trường lớp. Năm sau gia đình chúng tôi sẽ quây lại quán này lần nữa. Và cô chú anh chị nếu có đi du lịch nha trang nên ghé quán ( the local 2 ) 24 đường trần quang khải nha trang ăn thử để trải nghiệm món ăn tuyệt vời . Và đặc biệt anh tràng mời khách bên ngoài. Rất thân thiện . Vui vẽ niềm nở với khách hàng. Anh tràng như là một chúa tể rừng  xanh.",
+        "time": 1722584709,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 351
+  },
+  "harvested_at": "2026-05-02T15:08:56.249376"
+}

@@ -1,0 +1,109 @@
+{
+  "u_key": "80b825949cf52a2a",
+  "original_osm_name": "Cà Phê 1988",
+  "google_raw": {
+    "formatted_phone_number": "0333 331 111",
+    "geometry": {
+      "location": {
+        "lat": 21.0292013,
+        "lng": 105.8478674
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03075078029151,
+          "lng": 105.8491700302915
+        },
+        "southwest": {
+          "lat": 21.0280528197085,
+          "lng": 105.8464720697085
+        }
+      }
+    },
+    "name": "Cafe 1988",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Johannes Huber",
+        "author_url": "https://www.google.com/maps/contrib/100234088335166018988/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUa2y5vvLcWnRS_bC-m01ET2aGHoP_OJIpCo-YyuA-CEI6dr2f2=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cà phê ngon nhất ở trong khu vực này",
+        "time": 1723183861,
+        "translated": false
+      },
+      {
+        "author_name": "Khoa Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/117568096868634145515/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWn5gZFeI5Ibj2kw885PBRgw1KU9WKQSKTU-t4dBNQUHMJyTCo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Caphe ok, giá cả bình dân, nằm ngay góc đường nên ngắm người qua lại cũng là một thú vị khi ra Hà Nội",
+        "time": 1565401015,
+        "translated": false
+      },
+      {
+        "author_name": "đức hiếu vũ",
+        "author_url": "https://www.google.com/maps/contrib/109940404088832206262/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfDZPne8FHkqdJOzsEr9n_CzX2CTFBx2KbHzH0zFfBMeVZuFk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Không gian vintage, cà phê k chê vào đâu được, phục vụ nhanh rất nhiệt tình ❤❤❤",
+        "time": 1684248896,
+        "translated": false
+      },
+      {
+        "author_name": "Quân Hà",
+        "author_url": "https://www.google.com/maps/contrib/104173865237061714250/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQgUgJg9Q76Nhe74Eqgp4gSWta0EnaQB3qeItNOia5lBXUAPo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Cảm ơn lần đầu tiên",
+        "time": 1635950353,
+        "translated": false
+      },
+      {
+        "author_name": "정아홍",
+        "author_url": "https://www.google.com/maps/contrib/104223734131442400256/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6FX6yf3JKzn70VFv6yjQD5DagPPvMobRVqoRShJRDdHYJ4A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Cà phê dừa ngon hơn nhiều so với cà phê hạt, và khẩu phần cũng lớn hơn. Chỉ có 30.000 won thôi. Hãy thưởng thức cà phê dừa ở đây nhé! Chủ quán nói tiếng Anh nên bạn có thể trò chuyện với họ. Ngoài ra còn có một chú chó poodle bạc hiền lành, dễ thương, sẽ đến gần bạn khi bạn vuốt ve nó. Chú chó mới hai tháng tuổi thôi. ㅠㅠㅋ Chủ quán còn cho tôi xem ảnh chú chó con hồi nhỏ và khoe khoang về nó nữa. Trong bài đánh giá trước, tôi đã nói chú chó poodle nâu là bạn của anh ấy. ㅋ Tóm lại, nếu bạn thích chó, hãy uống cà phê dừa ở đây và bạn sẽ cảm thấy thư thái ♥",
+        "time": 1558447265,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 22
+  },
+  "harvested_at": "2026-04-27T19:57:52.325074"
+}

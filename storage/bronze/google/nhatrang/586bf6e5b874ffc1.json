@@ -1,0 +1,110 @@
+{
+  "u_key": "586bf6e5b874ffc1",
+  "original_osm_name": "Hoàng Thành",
+  "google_raw": {
+    "formatted_phone_number": "0258 6251 677",
+    "geometry": {
+      "location": {
+        "lat": 12.2823306,
+        "lng": 109.1970127
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2837331302915,
+          "lng": 109.1983661802915
+        },
+        "southwest": {
+          "lat": 12.2810351697085,
+          "lng": 109.1956682197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Hoàng Thành",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Đinh Trọng Thanh Đinh",
+        "author_url": "https://www.google.com/maps/contrib/100515453763511359813/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9l4Uy8JgA4p6CL-Dx4ZuaWdNGc9RRSxqAihMlxHBkyv3BU_gSgQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Món ăn vừa miệng, ăn rất ngon miệng\nNhân viên quán nhiệt tình",
+        "time": 1767424761,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Free7ancer",
+        "author_url": "https://www.google.com/maps/contrib/100611861704539802679/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3gsLybQtP-KE6IBfqcW2sl6r-uwxpZK0ZuzEXT-83gSB8adC6aA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Nhà hàng nằm ở phái bắc thành phố Nha Trang, mặt đường Mai Xuân Thưởng khá dễ tìm. Đồ ăn ở đây khá ngon, nêm nếm vừa vặn. Không gian rộng rãi thích hợp để tổ chức tiệc và gala dinner .",
+        "time": 1663570599,
+        "translated": false
+      },
+      {
+        "author_name": "Jack Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109962511490098918130/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLV4UBRWiSemSuHEvCfMzRon1P-297iuSEo2wBdUpT_cTLMtw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Khá ok!\nNghe nói sáng chủ thức dậy 4:00 đi chợ mua đồ nên tươi!",
+        "time": 1730629452,
+        "translated": false
+      },
+      {
+        "author_name": "huynh becky",
+        "author_url": "https://www.google.com/maps/contrib/114112296865759116690/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnygEI3sIuA1LlCs9aI48hHtKNK6ov288V7amtOH6Bh4LLbws=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Mỗi người mỗi khẩu vị ,nhưng mình cảm thấy nấu ngon ( hầu như khách đều khen), giá hợp lý... nhân viên nhiệt tình, vui vẻ. .. cảm ơn team rất nhiều đã hỗ trợ đám cưới của chị họ mình ngày 13/6",
+        "time": 1686631672,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Tùng Ngô",
+        "author_url": "https://www.google.com/maps/contrib/111149275401934756174/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRd4pWk9XdOTADy9qytHsoXoo1yNMfJVgbvXsPFmy2N8coTUM-=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nhà hàng chuyên đặt khách đoàn, khách đám cưới cho sl khách dưới 300ng, giá bình dân",
+        "time": 1757859499,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 332
+  },
+  "harvested_at": "2026-05-02T15:12:37.011355"
+}

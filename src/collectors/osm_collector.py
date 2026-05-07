@@ -1,4 +1,4 @@
-# collectors/osm_collector.py
+﻿# src/collectors/osm_collector.py
 import requests
 import logging
 import json
@@ -6,23 +6,59 @@ import os
 from typing import List, Dict, Any
 import time
 
-# Workaround to import utils if running from different dirs
 from src.shared.data_utils import make_ukey
 from src.shared.path_manager import ROOT_DIR
 
 logger = logging.getLogger(__name__)
 
+import asyncio
+import httpx
+from datetime import datetime
+from src.shared.data_contracts import BronzePlace
+
 class OSMCollector:
-    def __init__(self):
-        self.overpass_urls = [
-            "https://lz4.overpass-api.de/api/interpreter", 
-            "https://z.overpass-api.de/api/interpreter",
-            "https://overpass.osm.ch/api/interpreter",
-            "https://overpass.kumi.systems/api/interpreter",
-            "https://overpass.nchc.org.tw/api/interpreter"
-        ]
-        self.base_path = ROOT_DIR
-        self.load_config()
+    def __init__(self, city: str):
+        self.city = city
+        self.overpass_url = "https://lz4.overpass-api.de/api/interpreter"
+        self.city_queries = {
+            "hanoi": 'area["name"="Thành phố Hà Nội"]->.searchArea;',
+            "hcm": 'area["name"="Thành phố Hồ Chí Minh"]->.searchArea;',
+            "danang": 'area["name"="Thành phố Đà Nẵng"]->.searchArea;'
+        }
+
+    async def collect(self) -> list:
+        if self.city not in self.city_queries:
+            return []
+            
+        # Simplified query for testing
+        query = f"""
+        [out:json][timeout:25];
+        {self.city_queries[self.city]}
+        node["tourism"="attraction"](area.searchArea);
+        out center meta;
+        """
+        
+        async with httpx.AsyncClient(timeout=30.0) as client:
+            try:
+                response = await client.post(self.overpass_url, data={'data': query})
+                response.raise_for_status()
+                data = response.json()
+            except Exception as e:
+                logger.error(f"Failed to fetch OSM data: {e}")
+                return []
+
+        places = []
+        for element in data.get('elements', [])[:10]: # Limit to 10 for quick testing
+            place = BronzePlace(
+                source_id=str(element["id"]),
+                raw_data=element,
+                collected_at=datetime.utcnow(),
+                city=self.city,
+                source="osm"
+            )
+            places.append(place)
+
+        return places
 
     def load_config(self):
         """Load cities and types from JSON config files."""
@@ -50,60 +86,124 @@ class OSMCollector:
             "SmartTourismProject/1.0 (Research Purpose; contact@smarttravel.vn)"
         ]
 
-        city_info = self.city_config.get(city.lower())
-        if not city_info: 
-            logger.warning(f"City '{city}' not found in config.")
+        if city not in self.city_config:
+            logger.error(f"City '{city}' not found in config.")
             return []
 
-        query_type = self.type_query_map.get(category.lower())
-        if not query_type:
-            logger.warning(f"Type '{category}' not found in config.")
+        if category not in self.type_query_map:
+            logger.error(f"Category '{category}' not found in config.")
             return []
 
-        query = f'[out:json][timeout:90]; area["name"="{city_info["name"]}"]->.searchArea; ({query_type}); out center {limit};'
+        city_data = self.city_config[city]
+        query_template = self.type_query_map[category]
+
+        # Build Overpass query
+        query = f"""
+        [out:json][timeout:25];
+        area["name"="{city_data['name']}"]->.searchArea;
+        (
+          {query_template}
+        );
+        out center meta;
+        """
+
+        logger.info(f"Fetching OSM data for {city} - {category}")
 
         for url in self.overpass_urls:
             try:
-                # 1. ADAPTIVE JITTER (Nghỉ ngẫu nhiên để tránh pattern cố định)
-                sleep_time = random.uniform(1.5, 3.5)
-                time.sleep(sleep_time)
+                headers = {
+                    'User-Agent': random.choice(user_agents),
+                    'Accept': 'application/json',
+                    'Accept-Language': 'en-US,en;q=0.9',
+                }
 
-                logger.info(f"[INFO] Fetching {category} for {city} from {url} (Wait: {sleep_time:.2f}s)")
-                
-                # 2. ROTATE USER-AGENT
-                headers = {"User-Agent": random.choice(user_agents)}
-                response = requests.post(url, data={"data": query}, headers=headers, timeout=60)
-                
-                if response.status_code == 429:
-                    logger.warning(f"[WARN] Rate limited by {url}. Backing off for 10s...")
-                    time.sleep(10)
-                    continue
-                
+                response = requests.post(url, data={'data': query}, headers=headers, timeout=30)
                 response.raise_for_status()
+
                 data = response.json()
-                
-                results = []
-                for el in data.get("elements", []):
-                    tags = el.get("tags", {})
-                    name = tags.get("name") or tags.get("name:en") or "Unnamed"
-                    lat = el.get("lat") or el.get("center", {}).get("lat")
-                    lon = el.get("lon") or el.get("center", {}).get("lon")
-                    
-                    if not lat or not lon: continue
-                    
-                    results.append({
-                        "u_key": make_ukey(name, lat, lon),
-                        "name": name,
-                        "type": category,
-                        "city": city,
-                        "address": tags.get("addr:full") or tags.get("addr:street") or "",
-                        "location": {"lat": lat, "lon": lon},
-                        "source": "osm"
-                    })
-                
-                logger.info(f"[INFO] Successfully collected {len(results)} items for {city}-{category}")
-                return results
-            except Exception as e:
-                logger.error(f"[ERROR] OSM Error: {e}")
+                elements = data.get('elements', [])
+
+                if not elements:
+                    logger.warning(f"No data found for {city} - {category} from {url}")
+                    continue
+
+                # Process and return data
+                processed_data = []
+                for element in elements[:limit]:
+                    processed_item = self._process_element(element, city, category)
+                    if processed_item:
+                        processed_data.append(processed_item)
+
+                logger.info(f"Successfully fetched {len(processed_data)} items from {url}")
+                return processed_data
+
+            except requests.exceptions.RequestException as e:
+                logger.warning(f"Failed to fetch from {url}: {e}")
+                time.sleep(1)  # Brief pause before trying next URL
                 continue
+
+        logger.error(f"All Overpass URLs failed for {city} - {category}")
         return []
+
+    def _process_element(self, element: Dict[str, Any], city: str, category: str) -> Dict[str, Any]:
+        """Process a single OSM element into our data format."""
+        try:
+            tags = element.get('tags', {})
+            center = element.get('center', {})
+
+            # Extract coordinates
+            lat = center.get('lat') or element.get('lat')
+            lon = center.get('lon') or element.get('lon')
+
+            if not lat or not lon:
+                return None
+
+            # Build address from tags
+            address_parts = []
+            if tags.get('addr:housenumber'):
+                address_parts.append(tags['addr:housenumber'])
+            if tags.get('addr:street'):
+                address_parts.append(tags['addr:street'])
+            if tags.get('addr:city'):
+                address_parts.append(tags['addr:city'])
+            address = ', '.join(address_parts) if address_parts else None
+
+            # Create processed item
+            item = {
+                'ukey': make_ukey(city, category, str(element['id'])),
+                'osm_id': element['id'],
+                'name': tags.get('name', f"Unnamed {category}"),
+                'category': category,
+                'city': city,
+                'latitude': float(lat),
+                'longitude': float(lon),
+                'address': address,
+                'tags': tags,
+                'source': 'osm',
+                'collected_at': time.time()
+            }
+
+            return item
+
+        except Exception as e:
+            logger.error(f"Error processing element {element.get('id')}: {e}")
+            return None
+
+    def save_to_file(self, data: List[Dict[str, Any]], city: str, category: str):
+        """Save collected data to bronze storage."""
+        if not data:
+            logger.warning(f"No data to save for {city} - {category}")
+            return
+
+        bronze_dir = os.path.join(self.base_path, "storage", "bronze", "osm")
+        os.makedirs(bronze_dir, exist_ok=True)
+
+        filename = f"{city}_{category}_{int(time.time())}.json"
+        filepath = os.path.join(bronze_dir, filename)
+
+        try:
+            with open(filepath, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            logger.info(f"Saved {len(data)} items to {filepath}")
+        except Exception as e:
+            logger.error(f"Error saving data to {filepath}: {e}")

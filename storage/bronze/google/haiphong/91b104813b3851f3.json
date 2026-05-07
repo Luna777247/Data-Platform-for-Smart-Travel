@@ -1,0 +1,109 @@
+{
+  "u_key": "91b104813b3851f3",
+  "original_osm_name": "old ship",
+  "google_raw": {
+    "formatted_phone_number": "0225 3842 477",
+    "geometry": {
+      "location": {
+        "lat": 20.8648204,
+        "lng": 106.6731414
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8662843802915,
+          "lng": 106.6745210302915
+        },
+        "southwest": {
+          "lat": 20.8635864197085,
+          "lng": 106.6718230697085
+        }
+      }
+    },
+    "name": "Nhà máy Đóng tàu Bạch Đằng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Dũng LươngCao",
+        "author_url": "https://www.google.com/maps/contrib/105904007194353257011/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVt3cPAg8rs_9rRzEZctjgEMdKMAGpTR7BjTrL0gCiGxuVoYpM=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 3,
+        "relative_time_description": "4 năm trước",
+        "text": "Một nhà máy đóng tàu rất lớn nổi tiếng tại Hải Phòng. Xưa kia thuộc tập đoàn đóng tàu vinashin nhưng bây giờ cho các công ty nhỏ thuê lại mặt bằng nhà xưởng",
+        "time": 1626873175,
+        "translated": false
+      },
+      {
+        "author_name": "ha nam Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109573894503081203943/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMr5hZZ3TpQBrVzH0Hxd6YJ_4yAOriZjZvoylwTrEjp2Xzxd1g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà máy có cơ sở và hạ tầng đóng tàu tốt nhưng thật buồn khi thấy nhà máy vẫn chưa phát triển tương xứng với kinh nghiệm và hạ tầng tốt!",
+        "time": 1736566776,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Pham",
+        "author_url": "https://www.google.com/maps/contrib/110940485225415301134/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjiwkOYis567ZPjAdZ666MhKliNlGdwWmfd-eSfpZt3pXrLeZ2=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Từng là cánh chim đầu đàn của ngành công nghiệp tàu thủy Việt Nam. Theo xu thế chung của ngành đóng tàu, nhà máy đóng tàu Bạch Đằng đang chuyển sang giai đoạn thoái trào.\nNhà máy có vị trí rất đẹp, chắc chắn trong thời gian tới sẽ được thành phố Hải Phòng chuyển đổi mục đích sử dụng.",
+        "time": 1571467065,
+        "translated": false
+      },
+      {
+        "author_name": "Zen Love",
+        "author_url": "https://www.google.com/maps/contrib/113410205976759342414/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3x_ZXzqZz8_4WKCXBOfffhed3iBopFAZ9HBmq6x0JzyF26VaU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Một trong những nhà máy đóng tàu lâu đời nhất tại Việt Nam",
+        "time": 1700316352,
+        "translated": false
+      },
+      {
+        "author_name": "truong giang",
+        "author_url": "https://www.google.com/maps/contrib/110623878274299441385/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQhKfEy3jjyXUE_7tYA_29_1wPjE39JrvLDfcyqbRcc2UXxTI2=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "13 năm trước",
+        "text": "Đây là nhá máy đóng tàu lớn và lâu đời của việt nam",
+        "time": 1365690718,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 53
+  },
+  "harvested_at": "2026-04-30T15:20:21.933296"
+}

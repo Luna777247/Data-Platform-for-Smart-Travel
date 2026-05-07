@@ -1,0 +1,172 @@
+{
+  "u_key": "68613a5ce242f42c",
+  "original_osm_name": "Wood stock",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9364668,
+        "lng": 108.4329806
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9378100802915,
+          "lng": 108.4342969802915
+        },
+        "southwest": {
+          "lat": 11.9351121197085,
+          "lng": 108.4315990197085
+        }
+      }
+    },
+    "name": "Woodstock Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1530"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1530"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1530"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1530"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1530"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1530"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–15:30",
+        "Thứ Ba: 06:30–15:30",
+        "Thứ Tư: 06:30–15:30",
+        "Thứ Năm: 06:30–15:30",
+        "Thứ Sáu: 06:30–15:30",
+        "Thứ Bảy: 06:30–15:30",
+        "Chủ Nhật: 06:30–15:30"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Kim Loan Nguyen Thi",
+        "author_url": "https://www.google.com/maps/contrib/109277242645686436877/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHhivffX4EvmHadfVupf7_b2l_g3sIhBE7US0kEvYe5bhvV5LFtw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cà phê muối ngon,giá hơi cao.\nLàm rất nhanh.",
+        "time": 1760597429,
+        "translated": false
+      },
+      {
+        "author_name": "Từ Nam Ra Bắc",
+        "author_url": "https://www.google.com/maps/contrib/116053120310407704197/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVenquogsys4CCj-eQKr3IS5-Yy-r-XfvMJ1jyvhpvayifHDT0ApA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Cafe ngon, vị trí thuận tiện.",
+        "time": 1731822859,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng An Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105999496012798169108/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiZ9bWxiybKhcn8PwKC2WkNiIHNwdAqq5l8C8OoWQ5hgPZ3Qcz=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cà phê chất lượng, nên thử, đặc biệt là espresso & americano.",
+        "time": 1737958435,
+        "translated": false
+      },
+      {
+        "author_name": "Alice P",
+        "author_url": "https://www.google.com/maps/contrib/109602786859189243384/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJknYuoXKgoWgqkKAs19RsCoM1_9uGwkE_td4NvdmG7UVyLBw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Tôi gọi một ly espresso và một ly Americano. Tôi thích sự cân bằng của cà phê. Tôi không thích cà phê sữa đặc hay latte, nên tôi tìm những nơi có hạt cà phê ngon.\nĐây là một trong ba loại cà phê ngon nhất tôi từng uống ở Đà Lạt.\nCạnh đó còn có một nhà hàng phục vụ các món sườn và cơm thập cẩm rất ngon. Món này có tên là \"sườn\" trong thực đơn.",
+        "time": 1741062806,
+        "translated": true
+      },
+      {
+        "author_name": "정광진",
+        "author_url": "https://www.google.com/maps/contrib/102623082739416242714/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyDh-P3dmNJwSh5zLNuQn4K2yusoUriofhr0umjCO5OtV0HQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đây là nơi tôi mua cà phê mỗi sáng trong suốt một tháng lưu trú tại đây.\nCà phê ở đây hình như được gia đình chủ quán trồng tại một nông trại gần Đà Lạt.\nChàng trai trẻ đẹp trai, chăm chỉ này nói tiếng Anh lưu loát, khiến tôi cảm thấy rất hài lòng mỗi khi ghé thăm. Cà phê ở đây là giống Arabica, một loại hiếm có ở Đà Lạt, với độ chua vừa phải và hương vị đậm đà tuyệt hảo. Tôi chỉ mua mang về mỗi lần ghé, nên không rõ không gian quán thế nào.",
+        "time": 1734525031,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 8
+  },
+  "harvested_at": "2026-04-30T15:04:24.002768"
+}

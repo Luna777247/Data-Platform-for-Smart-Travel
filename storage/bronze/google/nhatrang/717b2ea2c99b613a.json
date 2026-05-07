@@ -1,0 +1,173 @@
+{
+  "u_key": "717b2ea2c99b613a",
+  "original_osm_name": "Lanterns",
+  "google_raw": {
+    "formatted_phone_number": "0793 695 839",
+    "geometry": {
+      "location": {
+        "lat": 12.2410958,
+        "lng": 109.1871105
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2424957302915,
+          "lng": 109.1885071302915
+        },
+        "southwest": {
+          "lat": 12.2397977697085,
+          "lng": 109.1858091697085
+        }
+      }
+    },
+    "name": "Lantern Garden",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–00:00",
+        "Thứ Ba: 11:00–00:00",
+        "Thứ Tư: 11:00–00:00",
+        "Thứ Năm: 11:00–00:00",
+        "Thứ Sáu: 11:00–00:00",
+        "Thứ Bảy: 11:00–00:00",
+        "Chủ Nhật: 11:00–00:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Cô Đơn Young Boi",
+        "author_url": "https://www.google.com/maps/contrib/115179710623341728143/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbiPdL6AO8zfaufPXWIh65HD1fDqKqsIj9ZCuLmgqYjJVuolY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán không gian thoải mái, sạch sẽ, ngồi rất dễ chịu. Món ăn lên nhanh, nêm nếm vừa miệng, giá cả hợp lý. Nhân viên nhiệt tình, dễ thương, hỗ trợ khách rất tốt. Sẽ quay lại nhiều lần 👍",
+        "time": 1770313824,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Uyên",
+        "author_url": "https://www.google.com/maps/contrib/100063798766269740063/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdd5klFOsXrlp9_YnQTgip8pG6bJdwleTW9r0MOL7PEyDUfT7M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngonn , phục vụ nhiệt tình , không gian quán rộng rãi thoáng mát",
+        "time": 1766487622,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Vũ",
+        "author_url": "https://www.google.com/maps/contrib/100103232821230510741/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9j-qaWUWPpCdzyJrhdRqMk6CzGJMGCCb694DRzzvsEsn02g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán đẹp, phục vụ nhanh và món ăn phì hợp khẩu vị gia đình",
+        "time": 1771050319,
+        "translated": false
+      },
+      {
+        "author_name": "thiên phước lê",
+        "author_url": "https://www.google.com/maps/contrib/103313684864249246930/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVwYol5QZp6u0toq7Pww5kWIRfZLgpIgvp6sdgh0UBXb6tZw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "quán chilll, đồ ăn ngon ,nhân viên dễ thương ,ngồi nghe nhạc đã 😍😍😍",
+        "time": 1768932119,
+        "translated": false
+      },
+      {
+        "author_name": "KhanhHoa Ng.",
+        "author_url": "https://www.google.com/maps/contrib/107339435215681479989/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpxiNaeJLOG-7FBo0uP3231IzhhIlbz4BgWSUhnoBBlRtYy8cP=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Lantern Garden nằm ngay góc đường hai mặt tiền, rất thoáng và sáng sủa.\nẤn tượng ban đầu là các bạn nhân viên khá trẻ cực kỳ dễ thương, nhiệt tình, phục vụ nhanh nhẹn.\nCác món đều tươi ngon và được nêm nếm đậm đà, rất hợp để nhâm nhi cùng bia.\nMình đặc biệt thích món hàu sốt thái, nước sốt thơm cay vừa phải, hàu rất tươi và to, ăn kèm xoài, cà dưa được trộn cùng, siêu cuốn.\nHy vọng quán sẽ cập nhật thêm các loại bia thủ công để menu đồ uống có cồn phong phú hơn.\nVới không gian đẹp, nhân viên thân thiện và đồ ăn ngon, Lantern Garden chắc chắn sẽ là một điểm đến lý tưởng cho những buổi tụ tập bạn bè.",
+        "time": 1754983040,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 354
+  },
+  "harvested_at": "2026-04-30T16:08:22.717432"
+}

@@ -1,14 +1,23 @@
+# Build context sẽ là root project (set trong docker-compose: context: ../..)
+# Hoặc chỉ cần copy khi context = apps/backend
 FROM python:3.11-slim
 
 WORKDIR /app
 
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    && rm -rf /var/lib/apt/lists/*
+# Dependencies first (Docker cache layer)
+COPY apps/backend/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt && pip check
+# Backend app code
+COPY apps/backend/app/ ./app/
 
-COPY . .
+# FIX #5: Shared modules (ingestion, serving, shared utils)
+COPY src/ ./src/
 
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+EXPOSE 8000
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=5s --retries=3 \
+    CMD python -c "import httpx; r = httpx.get('http://localhost:8000/api/health'); exit(0 if r.status_code==200 else 1)" || exit 1
+
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "2"]

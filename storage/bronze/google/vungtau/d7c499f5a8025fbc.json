@@ -1,0 +1,110 @@
+{
+  "u_key": "d7c499f5a8025fbc",
+  "original_osm_name": "Corner Bar",
+  "google_raw": {
+    "formatted_phone_number": "0916 691 090",
+    "geometry": {
+      "location": {
+        "lat": 10.3427217,
+        "lng": 107.0751407
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3440604302915,
+          "lng": 107.0764464302915
+        },
+        "southwest": {
+          "lat": 10.3413624697085,
+          "lng": 107.0737484697085
+        }
+      }
+    },
+    "name": "Corner Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Tuan Henric",
+        "author_url": "https://www.google.com/maps/contrib/110861830667362728887/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKw2tuitPkHdulGOIg9EfzTdMVMuhHnkLs8-wH3ZZoaerb14wF=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Vị trí view biển đẹp, nhiều khách nước ngoài thưởng thức tại đây.",
+        "time": 1567406526,
+        "translated": false
+      },
+      {
+        "author_name": "HÙNG NGUYỄN THANH (HÙNG ĐÔ)",
+        "author_url": "https://www.google.com/maps/contrib/110640965005174762237/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHT2ohuoWb3MymXLHO_qlt30WIOL0j-Bb2KzpX0hGUviA54sqE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán Bar Rượu, Cafe và Các loại thức uống thông thường đến cao cấp rất lý tưởng vì mặt tiền đường nhìn ra ngoài bãi biển Bãi Trước (Bãi Tầm Dưới) của TP Biển Vũng Tàu rất đẹp. 💝❣️💖💕♥️❤️🍀",
+        "time": 1645506006,
+        "translated": false
+      },
+      {
+        "author_name": "Danh Luonghuu",
+        "author_url": "https://www.google.com/maps/contrib/100310368858391462873/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmrqL1Bpy01BVYMJXKuY50Kck8nI4LKtCGJeumlU7Klwtbwg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Day là bar chỉ bán cape sáng thôi chu you mình nhin đường",
+        "time": 1684543114,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa Sữa",
+        "author_url": "https://www.google.com/maps/contrib/104985479448752479668/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtck9PskmruStIJC2lNOqBeLVGP5cY8AIuM2UccKD0Ns2Zon4R=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Đối diện bãi trước, góc đường Nguyễn Trãi, quán nhỏ",
+        "time": 1524149942,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/109884944943341985201/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-TTcAQQRgbvcpLckl-ZQtFelwxR7iTFA0eel1Ntn0M-MF-g=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "Thoáng mát ...thức uống hợp vệ sinh",
+        "time": 1607565387,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 154
+  },
+  "harvested_at": "2026-05-03T19:49:39.528142"
+}

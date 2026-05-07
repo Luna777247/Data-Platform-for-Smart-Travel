@@ -1,0 +1,174 @@
+{
+  "u_key": "6b65e7f82ef8117d",
+  "original_osm_name": "Nha bang Nha Trang xua",
+  "google_raw": {
+    "formatted_phone_number": "0258 3896 700",
+    "geometry": {
+      "location": {
+        "lat": 12.2466911,
+        "lng": 109.1558934
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2480504802915,
+          "lng": 109.1572663302915
+        },
+        "southwest": {
+          "lat": 12.2453525197085,
+          "lng": 109.1545683697085
+        }
+      }
+    },
+    "name": "Nhà hàng Nha Trang xưa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:00",
+        "Thứ Ba: 09:00–21:00",
+        "Thứ Tư: 09:00–21:00",
+        "Thứ Năm: 09:00–21:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–21:00",
+        "Chủ Nhật: 09:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Huyền Đào",
+        "author_url": "https://www.google.com/maps/contrib/102317180698069723200/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsjRfanxNDh30rxfcAEh03HNnq2L9fGq8DPDRIo7pJVMxo4OnWzw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tất cả những gì mình trãi nghiệm ở đây là cực kì tệ nhé :)\nNói về BF mà đồ ăn tì ít hải sản ăn ko tươi mình ăn ghẹ ốp xộp cái thuyền này hình như chỉ cho đồ ăn lên 1 lần hết ko châm thêm kiểu khách có gì ăn đó. quầy đồ ăn cực kì ít.\nCác món nấu sẵn cũng k ngon ngụi lạnh lắm\nGọi là nhà hàng mà nhân viên ko hề niềm nở với khách. chỉ có 1-2 ban ở khu vực luộc ghẹ thì còn dễ thương còn lại thì ôi thôi ko 1 nụ cười.\nNếu ai đi chổ này chỉ để coi biểu diễn thì ok chứ để vừa ăn vừa thưởng thức ctr thì k có đâu nhe. 1 lần ko quay đầu",
+        "time": 1772459366,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/117033656461576646323/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX57NvdBG8wHqw2QztrbRik4wmVsPoU8WtyHQ0wwGDSl-8mHWVvng=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn đa dạng nhiều món đặc biệt các món bánh truyền thống, nhân viên chu đáo nhiệt tình, có các chương trình biểu diễn khi ăn khá thú vị. Mình đến đây ăn buffet bắt đầu từ 6 giờ tối nếu các bạn đi sớm hơn có thể tham quan khu vực xung quanh vì không gian quán rộng nhiều điểm checkin kết hợp các làng nghề, gian hàng truyền thống. Điểm trừ là đồ hải sản mình thấy chưa được tươi lắm còn lại thì đối với mình đi ăn ở đây là một trải nghiệm khá thú vị như được lạc vào thuở xưa của ông cha ta vậy á",
+        "time": 1769586889,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Lam",
+        "author_url": "https://www.google.com/maps/contrib/113332841839205182131/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-s83-k3ow5WibTMxnwPrzfWR6nyxEtF9p04FEYWzhw4flqqFV=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vé vào 90k/người bao gồm 1 ly nước. Có nhiều loại nước. Có nhiều bàn ghế ăn uống. Có hồ và hệ thống nước chảy, cây cối nên mát mẻ. Nhiều nhân viên nên phục vụ cũng nhanh. Nếu ở gần có thể thường xuyên mời bạn bè, đối tác… nên trải nghiệm",
+        "time": 1771652985,
+        "translated": false
+      },
+      {
+        "author_name": "Serena Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111613285414425273798/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbZN7kW2RRpMcOs8nUKctXO2-9vxYnUlMntxl8oqWx9yZuTuIVWA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhà hàng cảnh đẹp mang dấu ấn Nha Trang xưa ,chụp hìn áo dài cực đẹp ,thức ăn phong phú ,nhân viên phục vụ tốt .",
+        "time": 1772195655,
+        "translated": false
+      },
+      {
+        "author_name": "Vi Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103550322852766738307/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGuhKmQkuGPeTjLA7bOil97om_rCDVVI6mJhpspNiTWqADjbDz=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian rộng rãi, nhiều hoạt động vui chơi và ăn uống, địa điểm tụ họp cho gia đình và bạn bè. Đánh dấu một địa điểm cho sự lựa chọn vui chơi tại Nha Trang.",
+        "time": 1770529578,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3773
+  },
+  "harvested_at": "2026-05-02T15:17:13.476110"
+}

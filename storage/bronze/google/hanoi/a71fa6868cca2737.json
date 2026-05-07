@@ -1,0 +1,173 @@
+{
+  "u_key": "a71fa6868cca2737",
+  "original_osm_name": "Nhà Hàng Hưng Phát",
+  "google_raw": {
+    "formatted_phone_number": "0769 611 786",
+    "geometry": {
+      "location": {
+        "lat": 10.8770379,
+        "lng": 106.6104869
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.8784722302915,
+          "lng": 106.6118797302915
+        },
+        "southwest": {
+          "lat": 10.8757742697085,
+          "lng": 106.6091817697085
+        }
+      }
+    },
+    "name": "Nhà Hàng HƯNG PHÁT - Hóc Môn",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0920"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0920"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0920"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0920"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0920"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0920"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0920"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:20–22:30",
+        "Thứ Ba: 09:20–22:30",
+        "Thứ Tư: 09:20–22:30",
+        "Thứ Năm: 09:20–22:30",
+        "Thứ Sáu: 09:20–22:30",
+        "Thứ Bảy: 09:20–22:30",
+        "Chủ Nhật: 09:20–22:30"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "NHÀ ĐẤT BÁ TÙNG",
+        "author_url": "https://www.google.com/maps/contrib/110103194453008884403/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXR2uSyF4YfK1y4T5p5gG-jCsAOPnxktTHkvzOPba85Xy24twi7=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhân viên vui vẻ đố ăn ngon nha sẽ ghé khi có dịp qua khu này",
+        "time": 1772895851,
+        "translated": false
+      },
+      {
+        "author_name": "Toàn Vlog",
+        "author_url": "https://www.google.com/maps/contrib/106842655395477068817/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7WZEJITd9nCNfCEr2bQAADRCw7Ct7hwH-O24Ti00l17kRGw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán có không gian thoáng mát sạch sẽ có phòng hầm rựou riêng biệt. Nhân viên phục vụ, tư vấn chu đáo. Đồ ăn ngon, nêm nếm vừa vị. Có bãi đậu xe hơi riêng và rộng\nCó khu vui chơi cho trẻ em.",
+        "time": 1751282494,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Hoàng Trần",
+        "author_url": "https://www.google.com/maps/contrib/105171300748165158174/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzKEWkdDn3HWW0xcJzLOjwyhigJEIQmudhthS4MFo1fREmbQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn bình thường không đặc biệt\nQuán rộng rãi, thoải mái, có nhiều khu vực. Có phòng vip riêng tư, có khu vui chơi cho trẻ em\nGiá cá hơi cao so với đố ăn\nNhân viên phục vụ tận tình, chu đáo\nĐiểm sáng nhất của quán là thái độ phục vụ của các bạn nhân viên",
+        "time": 1702722648,
+        "translated": false
+      },
+      {
+        "author_name": "Mỹ Chi OFFICIAL (SHINE LOVE)",
+        "author_url": "https://www.google.com/maps/contrib/110807172419691787089/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUE9hCyxwp5agSa2guooJ3uAlKfbwBHt7AvDvhW_9gMsrh6ZL_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quá tuyệt vời không gian thoáng mát sạch sẽ có phòng hầm rựou riêng biệt pv chu đáo\nĐồ ăn ngon\nCó bãi đậu xe hơi riêng và rộng\nCó khu vui chơi cho trẻ em\nĐiểm cộng",
+        "time": 1702919904,
+        "translated": false
+      },
+      {
+        "author_name": "Đồng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100095936645905705550/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHUefC-MSVWZrFo1t4gYajSxWv4tm889ezJ0uFCJ0hY0gnvGU=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Dịch vụ dở tệ. Quán làm ăn chán hơn chữ chán",
+        "time": 1765011435,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 74
+  },
+  "harvested_at": "2026-04-28T16:12:44.754282"
+}

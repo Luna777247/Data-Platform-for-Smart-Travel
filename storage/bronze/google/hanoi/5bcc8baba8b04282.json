@@ -1,0 +1,109 @@
+{
+  "u_key": "5bcc8baba8b04282",
+  "original_osm_name": "Khách Sạn Hanoi Imperial",
+  "google_raw": {
+    "formatted_phone_number": "024 3933 5555",
+    "geometry": {
+      "location": {
+        "lat": 21.0311611,
+        "lng": 105.849823
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0325592802915,
+          "lng": 105.8512972802915
+        },
+        "southwest": {
+          "lat": 21.02986131970849,
+          "lng": 105.8485993197085
+        }
+      }
+    },
+    "name": "Khách sạn Imperial & Spa Hà Nội",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Nghia Le",
+        "author_url": "https://www.google.com/maps/contrib/113185998423597900129/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNkIAUzeL1M0NCGp4S4FAeU4Fk0JmuwUplJIlQ6GUQdbURdg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phòng gia đình rộng rãi, sạch sẽ so với các khách sạn khác trong khu phố cổ.\nDịch vụ rất tốt.",
+        "time": 1767589981,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Ngọc Dung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101198692817367813958/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJcISd-NJ0LswVOe8Ci40NucJrG58DS2WsLIZfco_-lCKZYg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Dịch vụ chăm sóc khách hàng không được chu đáo\nPhòng ks khá cũ kĩ\nGiá phòng cao so với mặt bằng chung\nDịch vụ đặt phòng không tốt, 12h mới cho khách nhận phòng nhưng lại yêu cầu khách phải thanh toán hết tiền phòng trước 10h, nhưng chỉ 30p sau đó khách có lý do khách quan ko sử dụng được dịch vụ phòng. Tuy nhiên phía ks lại không hỗ trợ khách hoàn hủy việc đặt phòng.\nNói chung đây là chuyến đi có trải nghiệm rất ko tốt của mình ở ks này",
+        "time": 1741755302,
+        "translated": false
+      },
+      {
+        "author_name": "Pham Thi Thao Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112963285463526347550/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu6DcV4J2AZR7BAo4_GiH9uH33deEHxbGeSdHKjy7WrgPExsqb_g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng đẹp sạch sẽ! Có điều giường ngay cửa nên các phòng khác đi vào đóng cửa đều nghe hết… hơi ồn nếu hành lang có người nói chuyện! Còn lại rất ok",
+        "time": 1750567723,
+        "translated": false
+      },
+      {
+        "author_name": "P N (Hinode)",
+        "author_url": "https://www.google.com/maps/contrib/113527749098742480137/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzZfT2JI7Cx8UdbA-YzdXfpoSLA_qiNJIpws-7GekzbS5cLFEA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Phòng khách sạn khá cũ, phòng tắm thoát nước không được tốt.\nNhà hàng ăn sáng chất lượng khá ổn, nhân viên thân thiện, lịch sự.\nDịch vụ giặt ủi ở mức trung bình, áo sơ mi sau khi giặt được ủi không kỹ khá nhăn. Mong khách sạn cải thiện.",
+        "time": 1734585958,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Phạm Quang",
+        "author_url": "https://www.google.com/maps/contrib/112020375551720565737/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJx_QiGy1Ny1wvjsMG7G7vxrBcaPaOUpXNGM8Ecx_ULMzr4xQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng hơi cũ một tý, hơi bí vì k có cửa sổ! Tuy nhiên vẫn sạch sẽ. Vị trí thuận lợi vì rất gần hồ gươm và phố đi bộ, nhiều quán xá chung quanh! Các bạn rất nhiệt tình, đã giúp gia đinh tôi đưa hành lý ra khu vực chờ đón xe taxi!!",
+        "time": 1749519372,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 832
+  },
+  "harvested_at": "2026-04-27T19:58:24.248537"
+}

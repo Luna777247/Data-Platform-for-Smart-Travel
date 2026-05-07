@@ -1,0 +1,82 @@
+{
+  "u_key": "8ff27b832c28425d",
+  "original_osm_name": "Cà Phê Gardenista",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0221876,
+        "lng": 105.8575557
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0235611302915,
+          "lng": 105.8589717302915
+        },
+        "southwest": {
+          "lat": 21.0208631697085,
+          "lng": 105.8562737697085
+        }
+      }
+    },
+    "name": "Cà phê Gardenista.M",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Tomy Tran",
+        "author_url": "https://www.google.com/maps/contrib/104374347479353159705/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh7tBQBpU1A9K4iTJUneff9AnoEnP0O8M7l_mGmqdpK9q6c0E=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "Bạn nào thích cây cảnh tí hon thì vào đây, vừa cà phê vừa ngắm chúng hoặc học cách chia sẻ. Chỉ có điều hình không gian này không có điều hòa nên hôm nào trời nóng thì hơi bị ấm luôn.",
+        "time": 1473925066,
+        "translated": false
+      },
+      {
+        "author_name": "Nhã Kì",
+        "author_url": "https://www.google.com/maps/contrib/115328883593518886849/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQwbmXnAkPoMSqy_YlMxN8kVwVU9HSvgjiypXkT-wzl1B0Nkuo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "cà phế rất ngon",
+        "time": 1493045924,
+        "translated": false
+      },
+      {
+        "author_name": "clip xàm xí",
+        "author_url": "https://www.google.com/maps/contrib/109061704695271067920/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2xBSo1MMupHFd8xGnDu2xzGFTj5sEgWMJiqeVy5i3FcX2CdE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1570528335,
+        "translated": false
+      },
+      {
+        "author_name": "HUNG HOANG",
+        "author_url": "https://www.google.com/maps/contrib/113422848523735920461/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVap2CtKJ-gej4sPEkYfS8VkPuF-tHslK-8j45BoaCySPWMGAL7rQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1557452285,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Nam",
+        "author_url": "https://www.google.com/maps/contrib/111373757111633234515/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_HcKhJM98oZiVFfA6BQfFdfdmW-NTSqTQPWKe8ISDD5olhYaM5g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1527779626,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-04-26T16:52:00.999597"
+}

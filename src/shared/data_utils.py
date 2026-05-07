@@ -1,4 +1,4 @@
-import hashlib
+﻿import hashlib
 import unicodedata
 import re
 import math

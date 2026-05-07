@@ -1,0 +1,173 @@
+{
+  "u_key": "a9b000cc290b12d0",
+  "original_osm_name": "Cafe 101 đường 2/4",
+  "google_raw": {
+    "formatted_phone_number": "0965 850 101",
+    "geometry": {
+      "location": {
+        "lat": 12.2588203,
+        "lng": 109.1888842
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2601464302915,
+          "lng": 109.1902863802915
+        },
+        "southwest": {
+          "lat": 12.2574484697085,
+          "lng": 109.1875884197085
+        }
+      }
+    },
+    "name": "Đậu - Coffee & Store",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–17:00",
+        "Thứ Ba: 06:00–17:00",
+        "Thứ Tư: 06:00–17:00",
+        "Thứ Năm: 06:00–17:00",
+        "Thứ Sáu: 06:00–17:00",
+        "Thứ Bảy: 06:00–17:00",
+        "Chủ Nhật: 06:00–17:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "lân lâm",
+        "author_url": "https://www.google.com/maps/contrib/108669861863995003257/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWTkIndoxGLLWK8kMcAj2O5vnTDAbprA6KiwPuHjAHyJ6JGUM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ok , đồ uống ngon , cô chủ dễ thương",
+        "time": 1771935240,
+        "translated": false
+      },
+      {
+        "author_name": "Bửu Lê",
+        "author_url": "https://www.google.com/maps/contrib/103036609850863889759/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUCwCukBZENgWSTw670F1z7lQjHzC-lTylo5jvHziVb_OdDQiy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cf thơm,đậm đà,cô chủ quán rất nhiệt tình,vui vẻ với khách hàng",
+        "time": 1769652826,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Lê",
+        "author_url": "https://www.google.com/maps/contrib/112053432214402694667/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7jMW9FB2S4Ggfp7Tlop8qIGNSvhF0gXqgtd4KvL2bbNRu2A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cf ngon,dịch vụ tốt,chủ yếu là cô chủ dễ thương",
+        "time": 1769644216,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Huynh",
+        "author_url": "https://www.google.com/maps/contrib/101029319949848552289/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuSHQHQu4L9y36BbhelohpWraAB3axgpxkfeKQAew5ljAY0w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cf ngon tuyệt cú mèo , thơm thơm béo béo , nói chung món nào cũng ngon hết sẩy .",
+        "time": 1767773237,
+        "translated": false
+      },
+      {
+        "author_name": "Hùng Trần",
+        "author_url": "https://www.google.com/maps/contrib/117709071652887262483/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQ-cw9vqi9oy57QLDksHrG4vbMAK6Q_gfr8tMQfw_hSDTAVw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Hé lô anh lân cute",
+        "time": 1767771150,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 11
+  },
+  "harvested_at": "2026-05-02T15:27:46.785226"
+}

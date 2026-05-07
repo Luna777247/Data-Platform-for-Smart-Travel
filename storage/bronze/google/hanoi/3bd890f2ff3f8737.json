@@ -1,0 +1,174 @@
+{
+  "u_key": "3bd890f2ff3f8737",
+  "original_osm_name": "Highland Coffee",
+  "google_raw": {
+    "formatted_phone_number": "024 5678 0175",
+    "geometry": {
+      "location": {
+        "lat": 21.0369226,
+        "lng": 105.8014834
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0382970802915,
+          "lng": 105.8029695802915
+        },
+        "southwest": {
+          "lat": 21.0355991197085,
+          "lng": 105.8002716197085
+        }
+      }
+    },
+    "name": "Highlands Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Xuan Vu",
+        "author_url": "https://www.google.com/maps/contrib/116874953518917683857/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWEQeMKPT1Cl7Q25FoEcD6zX4ie8i05xKljEqyIVEa2qHu73MjDg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "ui có bạn nhân viên nam dễ thương vô cùng, mình làm đổ cốc nước mình uống cũng đc nửa non cốc r mà bạn đó vẫn làm lại cho mình cốc mới cho mình🫶🏻🫶🏻🫶🏻😽",
+        "time": 1769487969,
+        "translated": false
+      },
+      {
+        "author_name": "name No (No Name)",
+        "author_url": "https://www.google.com/maps/contrib/100157212818778404786/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMyUWw5aooS_Cu6rRPogIrKUtCANk6qTpSBC7CnlDxjfcPNrdL=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lối vào bé, view ngồi nhìn ra đường nguyễn khánh toàn.\nĐồ uống pha ngon, hơi nhiều đá quá. Đang mùa đông mà -_-",
+        "time": 1770509199,
+        "translated": false
+      },
+      {
+        "author_name": "Bao DQ",
+        "author_url": "https://www.google.com/maps/contrib/115570349663178441463/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIU054vqdz_hrYXCiRgmpzP974wj3IYWSq6Zig1ibIFEFFqiA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán rất đông. Ở tầng 2. Nhà vệ sinh sạch sẽ",
+        "time": 1762332443,
+        "translated": false
+      },
+      {
+        "author_name": "Phan Trang HCNS",
+        "author_url": "https://www.google.com/maps/contrib/112300394382831124054/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4gIyMIdANINGLfIPal1JrNq3ND471mpxUFdwoYVBT36CFN5o=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Thât sự nhé, chưa trải nghiệm dịch chỗ nào tệ như cái Highland (HL) ở đây.\nHL  ra chương trình free cốc trà sữa Hojicha cho người đầu tiên tải app & đăng kí sdt. Tất cả bạn bè mình ở các tỉnh khác nhau ra các cửa hàng HL khác nhau đều  tặng kèm topping riêng chỗ này bắt phải mua thêm topping. Thực ra 9k topping ko đáng là bao nhiêu nhưng NV có nắm được kiến thức chương trình ko vậy?? Hôm đầu mình ok thanh toán 9k, bạn mình đứng cạnh thắc mắc, mình cũng can vì nghĩ họ free cốc ts rồi thì thêm topping nhưng ko sao? Nhưng hôm sau ra vẫn vậy. Thái độ thì câng câng , chắc nịch là ko tặng kèm topping. Mình còn ra gọi hỏi tổng đài thì tổng đài báo là có dc tặng kèm. Vậy mà lúc mình thắc mắc bạn ấy còn không thèm bảo \" để em check lại\" hay như nào. Áo đen có phải quản lí cửa hàng ko? Đứng cạnh cũng ko tham gia vào khi khách thắc mắc. Các chỗ khác QL thấy thế là chạy ra luôn rồi, ko phải để khách ôm ấm ức đi về như thế. Thôi nhé say goodbye & không bao giờ quay lại!!!",
+        "time": 1768624024,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Diệu Linh",
+        "author_url": "https://www.google.com/maps/contrib/106140553598728892781/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7bSdsqpdNCm6v0VgNw0IkXAp8u5DbTuYnoxL6K9y1O9X78Q0=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán có không gian làm việc khá tốt, playlist nhạc mình k chê. Nhân viên quán thì phục vụ vô cùng tốt, toàn trai xinh, gái đẹp với những nụ cười luôn trên môi. Nước cũng oki, mà chê bảo vệ xe của quán. Mình nghĩ nếu quán k để khách phải trả tiền gửi xe thì sẽ tốt hơn. Bạn nv bảo đổi hóa đơn để đỡ tiền gửi xe. Mình làm theo xong bị bác bảo vệ nói này nọ. Nên khá khó chịu khoản này.",
+        "time": 1744167143,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 889
+  },
+  "harvested_at": "2026-04-27T19:58:10.673658"
+}

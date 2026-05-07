@@ -1,0 +1,174 @@
+{
+  "u_key": "d804f45d00cd022a",
+  "original_osm_name": "Trang 1",
+  "google_raw": {
+    "formatted_phone_number": "0919 711 424",
+    "geometry": {
+      "location": {
+        "lat": 11.9536127,
+        "lng": 108.4407392
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9549986302915,
+          "lng": 108.4420662302915
+        },
+        "southwest": {
+          "lat": 11.9523006697085,
+          "lng": 108.4393682697085
+        }
+      }
+    },
+    "name": "Café Trang 1",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–23:00",
+        "Thứ Ba: 06:30–23:00",
+        "Thứ Tư: 06:30–23:00",
+        "Thứ Năm: 06:30–23:00",
+        "Thứ Sáu: 06:30–23:00",
+        "Thứ Bảy: 06:30–23:00",
+        "Chủ Nhật: 06:30–23:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "TRỌNG PHAN",
+        "author_url": "https://www.google.com/maps/contrib/107137128096086080762/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7iRnWJ1goD-joEzIMV2Bdzyo7o2Aty-ZD7r0Zy5NJ4rhC5f6-=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cà phê ngon. Vị trí thông thoáng. Bố trí không gian cũng rộng rãi. Nhà vệ sinh sạch sẽ. Giá cả bình dân. Nhân viên quán vui vẻ",
+        "time": 1725264593,
+        "translated": false
+      },
+      {
+        "author_name": "Thượng Hiền",
+        "author_url": "https://www.google.com/maps/contrib/114430123985606643506/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMBswg4aEWkRkEyEUzOGGgn_Uvb5knY8Cn3s_0n5m7Q6kkAsjiXQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Cà phê rất ngon đúng khẩu vị người Đà Lạt. Quán ngay mặt tiền nên dễ tìm, view trên lầu và dưới đất khá đẹp đậu ô tô ok nhé.👌",
+        "time": 1674264416,
+        "translated": false
+      },
+      {
+        "author_name": "Van Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109028868543190968561/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBVFPo7QHLZHOJuqxgWX5KtX2mUFjXbVjhKHAVpFG4ivVhdQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "cafe ngon, giá cả hợp lý",
+        "time": 1756729659,
+        "translated": false
+      },
+      {
+        "author_name": "Khoa Pham",
+        "author_url": "https://www.google.com/maps/contrib/114173545527576993139/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPhMjz1KY5Gr6ecBzgngW1s2zfXmCD2bDizgQj4fCsPl9Od0XlMQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cà phê quen thuộc\nGiá khoing còn sinh viên nữa.",
+        "time": 1768730904,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyên Võ",
+        "author_url": "https://www.google.com/maps/contrib/117743739847226396111/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLpz9D1TfEPP1Zp2Rr9lOtWCl3PA7BmYuWkkDkF7LUABXSMPQEwg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Không gian rộng - thoáng, bố trí có gu thẩm mỹ, gọn gàng.\nNước uống rất ngon, lên món nhanh, thực phẩm tươi, chất lượng, menu đa dạng rất nhiều sự lựa chọn cho khẩu vị của mọi người.\nNhân viên chuyên nghiệp, nhiệt tình, nhanh nhẹn, dễ thượng.\nGiá cả hợp lý, phải chăng.",
+        "time": 1674326614,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 320
+  },
+  "harvested_at": "2026-04-30T16:14:38.383916"
+}

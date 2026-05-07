@@ -1,0 +1,173 @@
+{
+  "u_key": "eeed315ce1845bea",
+  "original_osm_name": "Cà Phê Family",
+  "google_raw": {
+    "formatted_phone_number": "0904 022 128",
+    "geometry": {
+      "location": {
+        "lat": 21.0167177,
+        "lng": 105.826792
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0180676302915,
+          "lng": 105.8281390302915
+        },
+        "southwest": {
+          "lat": 21.0153696697085,
+          "lng": 105.8254410697085
+        }
+      }
+    },
+    "name": "Cà phê Family - Hát cho nhau nghe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:30",
+        "Thứ Ba: 08:00–23:30",
+        "Thứ Tư: 08:00–23:30",
+        "Thứ Năm: 08:00–23:30",
+        "Thứ Sáu: 08:00–23:30",
+        "Thứ Bảy: 08:00–23:30",
+        "Chủ Nhật: 08:00–23:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Mô Hình Quân Sự",
+        "author_url": "https://www.google.com/maps/contrib/103947357096723318073/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJR7ACjDIsMLLKGNvWCqj7zzUY-y6nL8pb84XfgcInVescvTo=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán hát cho nhau nghe với diện tích nhỏ trong ngõ rộng, nhân viên lớn tuổi nhưng nhiệt tình vui tính niềm nở, đồ uống hợp lý với giá thành hợp lý 70k/ly. Không gian ấm áp vui vẻ",
+        "time": 1762705670,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Thành",
+        "author_url": "https://www.google.com/maps/contrib/116504640390005953181/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_zcSKe4YPoVK0k0AHEBQ9qOQZt8Sy9ZMNeu4u-i2XpyDt_g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán này mình đến rồi , nội thất đẹp , âm thanh rất hay , đồ uống ngon và rẻ , đặc biệt rất phù hợp để tụ cho các nhóm từ 25 nguòi trở lại",
+        "time": 1639916550,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Lý",
+        "author_url": "https://www.google.com/maps/contrib/107306632431270839811/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWxLpXf9ioQI6UFkQmfb2hx9gvjo8ZHVmPCfUMmlygh8xprLPN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán chất - đồ uống ngon - âm thanh xịn kèm thêm a nhân viên tên Dũng nhất nhiệt tình và tận tâm",
+        "time": 1758632322,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Hoàng Long",
+        "author_url": "https://www.google.com/maps/contrib/102851571501435278671/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyUsE_hnNDC8Moab4eVF8veJ4I_m1IzuEUFBE4c7N5r6XWGwdF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Phục vụ nhiệt tình, đồ uống ngon, phù hợp giá cả. Sẽ ủng hộ quán thêm nhiều lần nữa",
+        "time": 1758634258,
+        "translated": false
+      },
+      {
+        "author_name": "orindvatry orindvatry",
+        "author_url": "https://www.google.com/maps/contrib/113223087521422245214/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUFxIsKkO5ofltvbBQhWPvpvEaeBXFJkUUEgOm8wX3yXEP=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán này âm thanh khá ổn, bán hàng thân thiện, nhiệt tình, có món bò khô khá ngon, để gặp gỡ giao lưu bạn bè hát hò thì cũng tạm ổn",
+        "time": 1754448537,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 29
+  },
+  "harvested_at": "2026-04-26T16:52:26.938506"
+}

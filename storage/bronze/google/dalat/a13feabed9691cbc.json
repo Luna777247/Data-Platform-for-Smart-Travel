@@ -1,0 +1,173 @@
+{
+  "u_key": "a13feabed9691cbc",
+  "original_osm_name": "Vietnamese vegetarian restaurant \"chay\"",
+  "google_raw": {
+    "formatted_phone_number": "0938 490 689",
+    "geometry": {
+      "location": {
+        "lat": 11.9193193,
+        "lng": 108.4414606
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9206407302915,
+          "lng": 108.4428999802915
+        },
+        "southwest": {
+          "lat": 11.9179427697085,
+          "lng": 108.4402020197085
+        }
+      }
+    },
+    "name": "Chay Dalat - Vegetarian Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1830"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–18:30",
+        "Thứ Ba: 11:00–18:30",
+        "Thứ Tư: 11:00–18:30",
+        "Thứ Năm: 11:00–18:30",
+        "Thứ Sáu: 11:00–18:30",
+        "Thứ Bảy: 11:00–18:30",
+        "Chủ Nhật: 11:00–18:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Nhật Huy",
+        "author_url": "https://www.google.com/maps/contrib/109649954013767476476/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUimIce2_Rg_VctH-PSFeXJ7ECF_6xxkYtwYTlWcC24arHbXUVTw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán là nơi thường xuyên có fair market nông sản vào mỗi T7 hàng tuần với nhiều mặt hàng từ tinh dầu, trà và các loại bánh cho đến rau củ địa phương.\n\nNgoài ra, có các món ăn chay như bánh mì nấm cũng đáng để thử. Cafe muối cũng rất ngon.",
+        "time": 1766810591,
+        "translated": false
+      },
+      {
+        "author_name": "Doo QiNg",
+        "author_url": "https://www.google.com/maps/contrib/114045407343624901056/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlllztRI4_OOb0ZYBeB4gArnAXQLpiG5jbaYHJ31LL9gQUSw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán ăn nằm ở gần điểm ca nhạc lululola, cũng rất dễ tìm.\nQuán ăn chay và có view cà phê nên  vừa ăn vừa thưởng thức cái không khí mát mẻ\nĐồ ăn ngon, chủ quán phục vụ rất nhiệt tình.",
+        "time": 1763641804,
+        "translated": false
+      },
+      {
+        "author_name": "vinh tất",
+        "author_url": "https://www.google.com/maps/contrib/103734790712295015070/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW49qyO8FY2RKUZ3dGqp3VGG7XOZUMr-VCDaGWfHybhEKBk3A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chỗ ngồi thoải mái. Nhiều món chay mới lạ...\nBánh bèo chay nên thử nha mọi người.\nKhông gian phía sau quán có thể ngắm tp, chill và chụp hình khá đẹp.",
+        "time": 1766410384,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Vo",
+        "author_url": "https://www.google.com/maps/contrib/104983448874229352230/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXifU_5yFQxbrP4ii2EI2gYTNSJ45MDaIZjys6QCVI7Z03b-Cns=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán chay ngon, dĩa cơm tấm quá chất lượng, quán cafe cũng túc tắc chịu khó trang trí bài bảng, không gian đẹp, vắng vẻ ko một bóng khách, chắc chưa đông chỉ đông vào các dịp sự kiện, xung quanh trục đường này là rất nhiều quán chill chill nên tha hồ lựa chọn",
+        "time": 1757479989,
+        "translated": false
+      },
+      {
+        "author_name": "Tho Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109063405544933814812/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoAZ3ex7V6zI8wQWv3Qb8b9GmYfrfVBSDT-ixYcsUySY678g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán nằm trong khu cũng khá hot ngay chân đèo Prenn, mình đi buổi trưa thấy cũng k có gì đặc sắc.\nQuán kết hợp với cafe Vị Mây và hình như có khu phòng cho thuê.\nKhông gian trên núi mát mẻ, có nhiều tiểu cảnh sống ảo.\nThức ăn mình chỉ gọi 1 món đơn giản nên k đánh giá toàn bộ được, nhìn chung đơn giản, giá ổn.\nNhân viên lịch sự.",
+        "time": 1753495868,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 227
+  },
+  "harvested_at": "2026-04-30T14:56:24.688304"
+}

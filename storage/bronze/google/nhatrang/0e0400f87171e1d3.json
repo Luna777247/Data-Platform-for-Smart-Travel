@@ -1,0 +1,44 @@
+{
+  "u_key": "0e0400f87171e1d3",
+  "original_osm_name": "Hang Heo",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.3297624,
+        "lng": 109.2100849
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.3311171802915,
+          "lng": 109.2108891302915
+        },
+        "southwest": {
+          "lat": 12.3284192197085,
+          "lng": 109.2081911697085
+        }
+      }
+    },
+    "name": "Hang Heo",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    }
+  },
+  "harvested_at": "2026-04-30T16:07:56.530529"
+}

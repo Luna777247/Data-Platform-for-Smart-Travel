@@ -1,0 +1,174 @@
+{
+  "u_key": "e276d979dd19baef",
+  "original_osm_name": "Quán Bún Lòng A Cay",
+  "google_raw": {
+    "formatted_phone_number": "0948 901 954",
+    "geometry": {
+      "location": {
+        "lat": 21.0341577,
+        "lng": 105.8479613
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0355041802915,
+          "lng": 105.8493261302915
+        },
+        "southwest": {
+          "lat": 21.0328062197085,
+          "lng": 105.8466281697085
+        }
+      }
+    },
+    "name": "Cháo Lòng Thuốc Bắc",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–15:00",
+        "Thứ Ba: 06:30–15:00",
+        "Thứ Tư: 06:30–15:00",
+        "Thứ Năm: 06:30–15:00",
+        "Thứ Sáu: 06:30–15:00",
+        "Thứ Bảy: 06:30–15:00",
+        "Chủ Nhật: 06:30–15:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Dương Quang Trung",
+        "author_url": "https://www.google.com/maps/contrib/104804156287929101932/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFiM209WSgvtozrrV6dxb1gCEHYjuqmCkAvB0hfiC607lp=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cháo lòng số 1 vịnh Bắc Bộ trong lòng anh em phố cổ\n\nTrời lành lạnh đầu đông siêu hợp để rủ nhau đi làm bát cháo lòng ấm và đĩa lòng nhắm rượu tê tê\n\nQuán bà bán được lâu lắm rồi, có dịp anh m ghé thử nhé",
+        "time": 1759668597,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Đăng",
+        "author_url": "https://www.google.com/maps/contrib/115911780642888017431/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5tkWYdjOvU77rOuVN-7aVcACp0Td3NAhKI0SAWCE5l3flIKw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán lòng giữa phố cố, mình đi 3 người có gọi 1 phần đầu rán, 1 đĩa luộc và 1 cháo, ăn không thấy có gì để chê :3 mình đi tầm đầu giờ chiều nên quán cũng không quá đông, giá thành hợp lý chia đầu người ra phải gọi là hạt dẻ",
+        "time": 1744109375,
+        "translated": false
+      },
+      {
+        "author_name": "Hahaha",
+        "author_url": "https://www.google.com/maps/contrib/117624501091852763955/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0g7VgML7P_hzgNJmpcV0GO1W3fbNuxjaXrrqBVIqhVA3JFLc=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cháo lòng rất ngon, lòng giòn, rất nhiều mà giá phải chăng, quán ngồi vỉa hè khá rộng và thoáng  mình gọi 2 cháo lòng, 2 trà đá, quẩy 80k quán có cả bún đậu mắm tôm nhưng mình chưa thử. Cháo lòng ở đây ăn rất ổn, các bạn nên thử.",
+        "time": 1716452934,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Hưng Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/116511599033156607149/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFIjvchkglc1dpCnJPcBgLZEbyAfdCqNb4HdNWO2Ip0V_tyg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Giữa phố cổ mọc lên một hàng cháo lòng ấm nóng, thơm nức không yêu sao được . Chưa nói đến khoản đồ ăn chất lượng ra làm sao, nhưng cung cách phục vụ có tâm là mê luôn r. Mình gọi to 1 đĩa lòng thập cẩm rán, bác chủ quán hỏi lại đến 2,3 lần cho chắc chắn và ko quên bảo: \"mùa này ăn rán để nguội ngấm mỡ lắm, thôi ăn luộc cho nóng hổi đi\". Hỏi 10 người thì chắc 9 người đồng ý luộc nhỉ và mình nằm trong số đó nhé  đc ăn món ngon tội gì ko nghe!. Còn đĩa lòng thập cẩm 2 người ngon, tươi, mềm ở mức 8đ, luộc giòn sần sật, chấm cùng rau sống, mắm tôm pha ngọt ít cay đúng là một bản giao hưởng quên sầu. Mình chỉ ko ưng cháo ở đâu hơi loãng, vị tiết chưa có đậm lắm thôi. À nhớ gọi thêm quẩy ăn cùng cháo nhé. Còn rổ giá cũng ok đĩa lòng 100k, cháo 30k, quẩy 10k --> Tổng 2 người ăn phè phỡn hết 170k . .. Cháo Lòng - 88 Thuốc Bắc. .. #foodyhanoi #foodyhoankiem #vscocam #vscofood #foodporn #hanoifood #foodie #followme #streetfood #fotd #hanoiwander #hanoian #cuisine #oldquater #morning #lunch #vietnam #vsco #vietnamesefood #yummy #yum",
+        "time": 1584966455,
+        "translated": false
+      },
+      {
+        "author_name": "Myme X",
+        "author_url": "https://www.google.com/maps/contrib/102957484817050709156/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0fcoW444hCyQ2wmACj1yt2r_0vbZebr8XrrO0tvrQ9RFRktWSVA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán ăn nhỏ chỉ bán buổi sáng, cháo ngon, lòng cũng ngon. Chủ quán là bác gái đã lớn tuổi, phục vụ là người thân, rất niềm nở thân thiện.",
+        "time": 1657245724,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 274
+  },
+  "harvested_at": "2026-04-28T16:31:54.249226"
+}

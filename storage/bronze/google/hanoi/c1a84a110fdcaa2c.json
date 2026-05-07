@@ -1,0 +1,173 @@
+{
+  "u_key": "c1a84a110fdcaa2c",
+  "original_osm_name": "Tony house hostel",
+  "google_raw": {
+    "formatted_phone_number": "0866 009 193",
+    "geometry": {
+      "location": {
+        "lat": 21.0671477,
+        "lng": 105.8113847
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0685418802915,
+          "lng": 105.8127762802915
+        },
+        "southwest": {
+          "lat": 21.0658439197085,
+          "lng": 105.8100783197085
+        }
+      }
+    },
+    "name": "Tony House Hostel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 06:00–23:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Xuý Hà",
+        "author_url": "https://www.google.com/maps/contrib/117502897545307069876/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHmQo6ef8pTHcLMPlUiuLmzi7gv-q9T0pEdnmGWLWrMKgU0Tsf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán có không gian ấm cúng, có view hồ tây thoáng mát, siêu chill, nước vừa ngon vừa rẻ, phù hợp để tán gẫu cùng bạn bè, nhân viên thân thiện dễ thương, đã ghé quán nhiều lần và thấy ok",
+        "time": 1762841822,
+        "translated": false
+      },
+      {
+        "author_name": "Xuân Hương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104514551190786341621/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKS0Njn87LMO3EXtSX1ptkEb9ukuU-sKbocVgAmcCJQBDqo-0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "phòng rộng rãi thoáng mát, đồ uống ngon, chill lắm ạ 😙😙",
+        "time": 1729323715,
+        "translated": false
+      },
+      {
+        "author_name": "Trindy Love",
+        "author_url": "https://www.google.com/maps/contrib/118186990068944636484/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJElShWkDFafEUYlHF6Kn57IKRuSyMSiD7qmFVLzpffVLo_64=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "View Hồ Tây, thoáng mát, yên tĩnh. Thích hợp du lịch gia đình kết hợp nghỉ dưỡng",
+        "time": 1550488935,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Trần Anh",
+        "author_url": "https://www.google.com/maps/contrib/111985235387939717532/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7RG1O03WMGydFDMIT9zui-Y4W2bVNWoVurEelNtx3-PcGSw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Caffe ổn, phục vụ tốt, quán đẹp, yên tĩnh",
+        "time": 1635231590,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Triều Lương",
+        "author_url": "https://www.google.com/maps/contrib/104625269033516408307/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfC8DCMIy2eW3OWqmNzZ1GnygGViWhgjbltn9oadMnkagp8mCJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ uống ra lâu vc. Không ngon",
+        "time": 1713021920,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 70
+  },
+  "harvested_at": "2026-04-26T12:44:49.750029"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "61109b0fe3b23bff",
+  "original_osm_name": "Trung Bac Restaurant - Cao Lau",
+  "google_raw": {
+    "formatted_phone_number": "0937 691 891",
+    "geometry": {
+      "location": {
+        "lat": 15.8794816,
+        "lng": 108.3294126
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8808431802915,
+          "lng": 108.3307704302915
+        },
+        "southwest": {
+          "lat": 15.87814521970849,
+          "lng": 108.3280724697085
+        }
+      }
+    },
+    "name": "Quán Cao lầu Bá Lễ",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–21:30",
+        "Thứ Ba: 11:00–21:30",
+        "Thứ Tư: 11:00–21:30",
+        "Thứ Năm: 11:00–21:30",
+        "Thứ Sáu: 11:00–21:30",
+        "Thứ Bảy: 08:30–21:30",
+        "Chủ Nhật: 08:30–21:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Hà Lê",
+        "author_url": "https://www.google.com/maps/contrib/103541170553599601130/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIY8IP2Ztf0s_qx17Q7YqD2SqNVcUNGtBayhyuX8O5BTaO=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, menu đa dạng, không gian thoải mái, nhân viên phục vụ tận tình, mọi thứ hoàn hảo 🎉🫶🏻",
+        "time": 1769009874,
+        "translated": false
+      },
+      {
+        "author_name": "Du Lịch Cùng Calvin",
+        "author_url": "https://www.google.com/maps/contrib/117986501320337545157/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGba4CZQe34ie3IolxlCX5-quKFUrmPXsWT2HzgLHw6Iop-LI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Vừa xuong máy bay là phóng xe tới đây ăn liền, Cao lầu rất ngon nha, còn lại chỉ dừng lại ở mức ngon hoặc rất okie thôi nha, tuy nhiên không gian quán, nhân viên thì không có chổ nào chê luôn á",
+        "time": 1758131042,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111315829444492765008/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTnktcSMe1Zs931NrEROqLe-eI529w54MK04KijMlv_YirI51JxQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "10 điểm không có nhưng.\nCao lầu đậm đà, miếng thịt vừa chín tới, mềm mọng\nChả giò rất ngon.\nCơm gà đúng chuẩn, ngọt mềm.\n\nKhông recommend bánh xèo, bị mềm do chiên lâu.",
+        "time": 1751553409,
+        "translated": false
+      },
+      {
+        "author_name": "Chien Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104694164032333778270/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0TyJwE6oYba61MBIqKYW6nQJfkg8LW7-WPOlBENoalYgrPzvA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán Cao lầu Bá Lễ, quán ăn rất ngon ở phố cổ Hội An. Menu đa dạng, nhiều lựa chọn phù hợp với cả người lớn và trẻ em. Nhà mình chọn món Bánh Xèo, Cao Lầu và Mì Quảng, món ăn có nước dùng đậm đà, vừa miệng, rất hợp khẩu vị. Không gian quán ấm cúng, sạch sẽ, nhân viên phục vụ nhanh nhẹn và thân thiện. Quán rộng rãi, thoáng mát, sạch sẽ. Chuyên về món ăn đặc trưng của vùng đất Hội An. Phục vụ tận tình, giá cả bình dân.",
+        "time": 1753194602,
+        "translated": false
+      },
+      {
+        "author_name": "Gulit Huy",
+        "author_url": "https://www.google.com/maps/contrib/105871160048801853314/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe1gmJgqKZ4MwiAT1qgtP3OVlvZSPtF5gpD3n4So6J9L49YLSq=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Tôi đã ăn 3 món: Cao lầu, Cơm gà, Bánh xèo đều ngon. Đặc biệt Bánh xèo nhé!",
+        "time": 1766498287,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2451
+  },
+  "harvested_at": "2026-04-29T10:51:07.983093"
+}

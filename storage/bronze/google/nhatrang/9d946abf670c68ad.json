@@ -1,0 +1,164 @@
+{
+  "u_key": "9d946abf670c68ad",
+  "original_osm_name": "LIVINcollective",
+  "google_raw": {
+    "formatted_phone_number": "0918 638 349",
+    "geometry": {
+      "location": {
+        "lat": 12.2390787,
+        "lng": 109.1908386
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2404868302915,
+          "lng": 109.1921189802915
+        },
+        "southwest": {
+          "lat": 12.2377888697085,
+          "lng": 109.1894210197085
+        }
+      }
+    },
+    "name": "LIVIN Barbecue",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 16:00–23:00",
+        "Thứ Tư: 16:00–23:00",
+        "Thứ Năm: 16:00–23:00",
+        "Thứ Sáu: 16:00–23:00",
+        "Thứ Bảy: 16:00–23:00",
+        "Chủ Nhật: 16:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Hana",
+        "author_url": "https://www.google.com/maps/contrib/103327502705795639978/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWekrmATz0uGBb2DJxT-9DwD1pwl5189ywbd4T2wmN0uu9G0CU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, không gian đẹp, mát mẻ thoải mái.\nGóp ý nhỏ là đồ ăn nên mang lên từng món, ăn hết món này rồi đến món khác, mang lên cùng lúc nhiều quá ăn không kịp lát sau bị nguội mất ngon.",
+        "time": 1771947333,
+        "translated": false
+      },
+      {
+        "author_name": "Pham Thi Hong Anh",
+        "author_url": "https://www.google.com/maps/contrib/115745364548880432164/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqalivIwH8j01I0AllDsRarWaiuomwm9qfe2bHzKUTJvUMJ9FU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Không khí của quán rất tuyệt, không có ban nhạc hay bật nhạc quá ầm ĩ - rất phù hợp cho 1 buổi hẹn hò hoặc đi ăn để tâm sự với người khác. Thịt bò rất tươi, được nướng và nêm nếm gia vị vừa phải làm tôi rất ấn tượng. Riêng những món thịt của quán đã làm tôi muốn quay lại nhiều lần rồi 😋. Ngoài ra, đồ uống của quán cũng ngon tuyệt💗 Không gian quán trang trí khá là mới lạ, chắc là theo phong cách tây ban nha nhưng cũng rất phù hợp và quán còn có bàn trên sân thượng ngồi rata thoáng và mát. Bếp được tách biệt hẳn so với quán ở tầng dưới cùng và ở sâu bên trong quán nên không bị bay mùi lên chỗ khách ngồi. Nói chung đây sẽ là 1 quán đáng để quay lại nhiều lần 😊",
+        "time": 1754278518,
+        "translated": false
+      },
+      {
+        "author_name": "Pink Bing Bong",
+        "author_url": "https://www.google.com/maps/contrib/101033235221692692754/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUa1M2Si_mzEwN6TiXK9OmKsYdofosDWWbBK1xqMoKXKHBXbpo=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn không quá đặc sắc như mình kỳ vọng. Caesar salad và salad trái cây tạm ổn.\n\nTụi mình gọi 2 phần burger là roasted garlic mushroom và bacon cheddar thì thấy khá thất vọng, phần thịt bò nguội và khô, không hề juicy như mong đợi, nhạt và không đậm đà, sốt ăn kèm thì chỉ có plain ketchup. Nên mình thấy các món burger không đáng tiền lắm. Mình ăn rất lâu mới ăn hết nổi nửa miếng.\n\nSmoked BBQ board thì phần steak khô và nhạt, pulled pork thì khá đậm đà. Tuy nhiên nước sốt chấm cũng không quá đặc sắc, trong số đó có sốt BBQ thì mình thấy không khác ketchup là mấy. Dẻ sườn thì không quá mềm và cũng khô luôn. Ổn nhất chắc chỉ có món pulled pork roasted fries.\n\nVới mức giá không phải là thấp thì trải nghiệm này khá thất vọng đối với mình 🙄",
+        "time": 1738661698,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Hà Đặng Thị",
+        "author_url": "https://www.google.com/maps/contrib/107790080923074899299/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBURTOMQVS-ZIwMK6O_EGTxJYdPfotKtmnowYuV2IdXxft3A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian đẹp, thoáng mát. Bia thủ công ngon, đa dạng",
+        "time": 1770991733,
+        "translated": false
+      },
+      {
+        "author_name": "Dinh Trong Duy Tommy",
+        "author_url": "https://www.google.com/maps/contrib/103734337465415065928/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJgN_6ATv5JDJUccOo2ktRjYyZF4zUER1P_QGWD_IadEgFINRR=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Vị trí quán khá thuận tiện\n\nKhông gian ngoài trời rất chill để giao lưu với bạn bè. Không gian trong phòng máy lạnh phù hợp với gia đình\n\nBia tươi ngon, nhiều lựa chọn\n\nĐồ ăn đa dạng, phù hợp cho cả người ăn chay và ăn thường",
+        "time": 1759327680,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3235
+  },
+  "harvested_at": "2026-05-02T15:10:19.333587"
+}

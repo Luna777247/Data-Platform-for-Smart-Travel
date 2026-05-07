@@ -1,0 +1,173 @@
+{
+  "u_key": "6a7cb2adf6de34e2",
+  "original_osm_name": "Cà Phê Goethe",
+  "google_raw": {
+    "formatted_phone_number": "024 6293 8363",
+    "geometry": {
+      "location": {
+        "lat": 21.0300527,
+        "lng": 105.8375645
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0313605802915,
+          "lng": 105.8388995802915
+        },
+        "southwest": {
+          "lat": 21.02866261970849,
+          "lng": 105.8362016197085
+        }
+      }
+    },
+    "name": "Café Goethe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Minh Hải",
+        "author_url": "https://www.google.com/maps/contrib/107188589778769006938/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcvcGsODoLJl2aTI4OJRZ6Y7Zsu48zxW7ZymVfG3I5pTZ1e4Zx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Các món hương vị ổn, đặc biệt là formai và dăm bông. trà nước không xuất sắc, thịt bò chế biến chưa tốt, gọi 2 món fail cả 2. không gian ổn.\nKhoai tây nghiền rất ngon, xứng đáng để thử!",
+        "time": 1761589498,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Dat (refrez)",
+        "author_url": "https://www.google.com/maps/contrib/117024735163981579656/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcPvG6YnpA3vryqI5sJksOQWLGSzj0QdfQWNgEVCAgoSD4UYJgw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bầu không khí dễ chịu, đồ ăn ổn, nhân viên lịch sự, nhiều hoa decor",
+        "time": 1768839027,
+        "translated": false
+      },
+      {
+        "author_name": "SDC BNI Thao Le (Thao Le)",
+        "author_url": "https://www.google.com/maps/contrib/105716209837522979894/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeTppYPDkDbPtfH_34RVm18mPfxKvlPEHrV4no_YqEeg2Gc9cVKw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Luôn têu nơi này. Hoa thơm bốn mùa. Tinh tế. Đồ ăn ngon. Nhân viên tuyệt vời",
+        "time": 1758003352,
+        "translated": false
+      },
+      {
+        "author_name": "Phạm Nguyễn Sơn Tùng (Đọc truyện đến hết hơi)",
+        "author_url": "https://www.google.com/maps/contrib/101458588995610161034/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJwVSxUojCvaQYrz7nUuT7fYYOrDWpo9KziXgg1ZldAssGiANl=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cà phê thì k như xưa, nhưng Done Kebab thì vẫn là mẫu mực 😍😍😍",
+        "time": 1754494845,
+        "translated": false
+      },
+      {
+        "author_name": "Kiên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109034609593912204353/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJroNB6wa2V2lZN8x0ci98DLhe359g7bYhXPBqg1lkBjxI4DA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng ở trong phố trung tâm Hà Nội với phong cách lịch sự. Đồ ăn kiểu Đức rất ngon.",
+        "time": 1736602894,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 268
+  },
+  "harvested_at": "2026-04-26T12:45:28.761068"
+}

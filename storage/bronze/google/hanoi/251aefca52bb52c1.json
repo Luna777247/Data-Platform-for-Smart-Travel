@@ -1,0 +1,173 @@
+{
+  "u_key": "251aefca52bb52c1",
+  "original_osm_name": "Cà Phê 22",
+  "google_raw": {
+    "formatted_phone_number": "0979 958 778",
+    "geometry": {
+      "location": {
+        "lat": 21.035802,
+        "lng": 105.8512222
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0371169802915,
+          "lng": 105.8525834302915
+        },
+        "southwest": {
+          "lat": 21.03441901970849,
+          "lng": 105.8498854697085
+        }
+      }
+    },
+    "name": "22/CARPE Diem Tea&Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:30",
+        "Thứ Ba: 06:30–22:30",
+        "Thứ Tư: 06:30–22:30",
+        "Thứ Năm: 06:30–22:30",
+        "Thứ Sáu: 06:30–22:30",
+        "Thứ Bảy: 06:30–22:30",
+        "Chủ Nhật: 06:30–22:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Tư An",
+        "author_url": "https://www.google.com/maps/contrib/101838113162938932218/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJ9N47P8ErHdEAwweNqztNLWXnlw-vOOB1eNfjfQvyAPITrPZI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "View đẹp\nĐồ uống ngon : trà sữa nướng kem cháy , cà phê muối ,..\nChị chủ nhiệt tình\nGiá cả phải chăng",
+        "time": 1769926642,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Nguyen duc",
+        "author_url": "https://www.google.com/maps/contrib/117813633271664361021/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJHh1QZyVkZFegwviLYe0Q2o1GR0ESODoJFm7UdyXgWpM3ZqA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nước uống ngon, nv phục vụ chu đáo nhiệt tình. Sẽ ủng hộ quán nhiều 🥰",
+        "time": 1695462449,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Kim Dung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117902973055035933772/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp0KONoJKKtnxuOSeGg1Y65dUQPEjDYafqOsiGzNFyJa6_ZWgG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Drinks is nice. I tried both the juice and smoothie are amazing! The vibe is great too.\n\nĐồ uống ngon mọi người ơii. Vibe của quá cũng tuyệt, ngồi nói chuyện Là tuyệt. Mọi người thử các loại đồ uống hoa quả nhaa",
+        "time": 1692004014,
+        "translated": false
+      },
+      {
+        "author_name": "Huyền Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106571489032120559832/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdIqb-w-SPm3ph_GZv2q6-uVXjsGcUqD5ZtGGLidxWBoI-2WeN=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "2 năm trước",
+        "text": "Mình sống kv phố 7 năm rồi, lần đầu tiên mua 1 ly cà phê mang đi mà mất thêm 5k ko được báo trước. Cf sữa 35k + 5k ly mang đi. Nếu khách mang đi thì không gian của quán sẽ được giữ lại cho khách khác và 1 cái ly take away không bao nhiêu cả. Nếu charge thêm 5k thì phải báo trước chứ xong rồi mới bảo thì khách sẽ ko vui mặc dù số tiền ko lớn. Khách lịch sự thì họ sẽ trả để tránh phiền phức. Đồ uống ok cơ mà nếu bạn không muốn mất thêm tiền mua ly mang đi thì uống tại chỗ nhé ạ. Chứ mình mua ở quán xịn xò hơn ,đồ uống ngon hơn cũng chỉ trả theo giá menu, chưa bao giờ ai thu thêm 5k tiên ly mang đu hết:)))",
+        "time": 1695362122,
+        "translated": false
+      },
+      {
+        "author_name": "nguyen quang",
+        "author_url": "https://www.google.com/maps/contrib/116069684878260167188/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKNtIDShV3oHHtVBYds7NuFaLKwrntIuqp01-8BtOPZOmjuQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Matcha latte ngon nhất mà từ trước tới giờ tôi uống. Tôi sẽ quay trở lại uống.",
+        "time": 1728306901,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 138
+  },
+  "harvested_at": "2026-04-27T19:57:51.604925"
+}

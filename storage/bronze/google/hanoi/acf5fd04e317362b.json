@@ -1,0 +1,173 @@
+{
+  "u_key": "acf5fd04e317362b",
+  "original_osm_name": "Cà Phê Việt",
+  "google_raw": {
+    "formatted_phone_number": "0988 212 296",
+    "geometry": {
+      "location": {
+        "lat": 21.0334582,
+        "lng": 105.847946
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0348118302915,
+          "lng": 105.8492663302915
+        },
+        "southwest": {
+          "lat": 21.03211386970849,
+          "lng": 105.8465683697085
+        }
+      }
+    },
+    "name": "Cà Phê Việt ( Coffee Local Ha Noi )",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–22:00",
+        "Thứ Ba: 07:30–22:00",
+        "Thứ Tư: 07:30–22:00",
+        "Thứ Năm: 07:30–22:00",
+        "Thứ Sáu: 07:30–22:00",
+        "Thứ Bảy: 07:30–22:00",
+        "Chủ Nhật: 07:30–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Khánh An Vũ",
+        "author_url": "https://www.google.com/maps/contrib/105016577154673738324/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8qrvdOjDlP_efl6iWV9yZ2qksEEHPsxZgfOAYlWrGUWcoyQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán nho nhỏ, không gian hoài cổ. Quán chủ yếu bán cà phê nhưng cũng có cả nước ép tươi theo ngày. Anh chủ dễ tính, mình muốn uống americano với hoa quả nên có thể lấy cả nước ép và cà phê để tự pha. Giá cả phải chăng, và có cả hạt cà phê để mua làm quà tặng",
+        "time": 1760610823,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Quyên Lê",
+        "author_url": "https://www.google.com/maps/contrib/109165688373075267012/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUg3WYkNco2M23CVzpIdoFqY7wXigsnLb9CQcT_IcJvIgUF-vk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cafe ngon, view ngồi ngắm đường phố rất hợp gu mình. Anh chủ tư vấn hạt cf rất nhiệt tình. Rcm món cf kem dừa siêu ngon béo",
+        "time": 1760972583,
+        "translated": false
+      },
+      {
+        "author_name": "Thuỳ Uyên Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/105371769099902739341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLE4ObDCThOvHlj9ZjDM4D73NaN0vpAIFyS8jmPcQgW2lxfkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình đã thử gần hết các loại cafe ở đâyy. Nói thật là siuu ngon rất hợp khẩu vị của đứa nghiền cafe như mình. Nay mình uống nâu kem béo sảng khoáiii thiệt",
+        "time": 1765940401,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh ha Vu",
+        "author_url": "https://www.google.com/maps/contrib/106654399443773638519/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxQjXUerSae9TN5uukREw1v_elyv_YPNplH9NZvdFl99VoZWFN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình rất thích món sữa chua ca cao ở quán này. Bạn mình uống và cũng khen ngon",
+        "time": 1762019543,
+        "translated": false
+      },
+      {
+        "author_name": "Hằng Vũ",
+        "author_url": "https://www.google.com/maps/contrib/114418317824191927366/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_P22la_CpWXP50sDBlDqkAtQzYU3ZWpOQ6Ko91zjpigdFPQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cà phê ngon đỉnh 🥹 đi ngang qua mua thử khá bất ngờ vì độ ngonnnnn🥰",
+        "time": 1766063968,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 70
+  },
+  "harvested_at": "2026-04-26T12:45:28.163743"
+}

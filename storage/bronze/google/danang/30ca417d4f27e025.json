@@ -1,0 +1,174 @@
+{
+  "u_key": "30ca417d4f27e025",
+  "original_osm_name": "Bookaholic",
+  "google_raw": {
+    "formatted_phone_number": "0812 045 252",
+    "geometry": {
+      "location": {
+        "lat": 16.0786035,
+        "lng": 108.2193211
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0799577802915,
+          "lng": 108.2207148802915
+        },
+        "southwest": {
+          "lat": 16.0772598197085,
+          "lng": 108.2180169197085
+        }
+      }
+    },
+    "name": "Cafeholic Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:30",
+        "Thứ Ba: 06:30–22:30",
+        "Thứ Tư: 06:30–22:30",
+        "Thứ Năm: 06:30–22:30",
+        "Thứ Sáu: 06:30–22:30",
+        "Thứ Bảy: 06:30–22:30",
+        "Chủ Nhật: 06:30–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Hoàng Đức Huy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113420997984724607048/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQup3f41c7kno9WSSxSyeCC7Rg3ZPeYrv90yElJVzLe3kyNA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán có không gian rất dễ chịu, yên tĩnh và ấm cúng, ngồi gần cửa sổ nhìn ra ngoài khá thư giãn. Mình gọi một ly nước dừa kem matcha và một phần bánh chấm kem, vị rất ổn. Matcha thơm, không quá ngọt, uống mát và dễ chịu. Phần bánh giòn, ăn cùng lớp kem béo nhẹ bên trên rất hợp.\n\nKhông gian quán sạch sẽ, bàn ghế gỗ tạo cảm giác gần gũi. Nhân viên phục vụ thân thiện và nhanh nhẹn. Rất thích hợp để ngồi học bài, làm việc hoặc gặp bạn bè trò chuyện",
+        "time": 1773109188,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Nhung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114933874185958288264/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGYzyoCCqVz9oTWm9bOvEeq1PqGOLsCNb3tVxinFTIEORvLgvI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán đã decor noel 2025 r nè. Quán này mình thấy có gu nha, nước uống vs bánh cx đa dạng, nhiều món lạ nữa. Bên này cf art được luôn là thấy nghệ rùi :)))\nRcm ăn thử bánh bên này, ngon vữ ròi🫰🌝\nBan đầu tưởng quán cf ngồi chụp ảnh nchuyen nhma thấy nhiều khách tới đây học vs làm việc lắm, chill chill đồ đó",
+        "time": 1763784875,
+        "translated": false
+      },
+      {
+        "author_name": "Viet Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112755880591926620510/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt3BY0CFVLaYIS1W8BiIaKBAF5itwwM-lF_8iEr6uwJq2DvUL8fg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ghé qua dịp đi du lịch! Không gian xanh, nhiều cây cảnh mini.\nMột địa điểm đáng giá để chụp ảnh.\nĐồ uống khá ngon, giá cả từ 40k trở lên\nNhiều chỗ ngồi, có chỗ để xe.",
+        "time": 1770554080,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/117683849386326111782/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVy6dUZltKUImtJ8cAEhHH5ZUT609bcThmdTxQ4bqjCDEFaSAA5=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ai ở Đà Nẵng chắc cũng khá quen với quán này. Đợt này qua quán đang có menu nước mùa đông cũng khá thú vị, uống the the ấm ấm do có gừng với quế, bánh tui gọi waffle 57k, cheese 52k, cũng khá nhiều, 2 đứa ăn 2 cái là hơi no quá luôn 🥴\nKhông gian học bài làm việc khá chill và yên tĩnh, đèn vàng ấm dễ chịu, có mấy chiếc bàn sát cửa sổ cũng xinh iu",
+        "time": 1764996199,
+        "translated": false
+      },
+      {
+        "author_name": "Dinh Hong Van",
+        "author_url": "https://www.google.com/maps/contrib/115607054889985027629/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrqRvZ3Z1Hgz_91CDwdFIaEQsmKQH4fgIFl7CeJy_7O1iRezEm=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không gian quán rất rộng và sáng sủa\nQuán có nhiều tầng, có nhân viên order món ở từng tầng nên khá tiện khi sử dụng dịch vụ. Mình gọi bánh phô mai dẻo và sữa cốm kem dừa thì ăn ngon, bánh kết hợp với kem rất hợp 🫰🏼 Quán có nhiều bàn cao, trang bị nhiều ổ điện nên thích hợp để ngồi học và làm việc nè",
+        "time": 1760143707,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 964
+  },
+  "harvested_at": "2026-04-28T16:34:48.528180"
+}

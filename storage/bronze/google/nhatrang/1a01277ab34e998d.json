@@ -1,0 +1,193 @@
+{
+  "u_key": "1a01277ab34e998d",
+  "original_osm_name": "Cuppa coffee",
+  "google_raw": {
+    "formatted_phone_number": "8875 8302",
+    "geometry": {
+      "location": {
+        "lat": 1.3605917,
+        "lng": 103.7311639
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.361964330291502,
+          "lng": 103.7324824302915
+        },
+        "southwest": {
+          "lat": 1.359266369708498,
+          "lng": 103.7297844697085
+        }
+      }
+    },
+    "name": "Cuppa Coffee",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–17:00, 19:00–22:00",
+        "Thứ Ba: 10:00–17:00",
+        "Thứ Tư: 10:00–17:00, 19:00–22:00",
+        "Thứ Năm: Đóng cửa",
+        "Thứ Sáu: 10:00–17:00, 19:00–22:00",
+        "Thứ Bảy: Đóng cửa",
+        "Chủ Nhật: 10:00–17:00, 19:00–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Chengteng",
+        "author_url": "https://www.google.com/maps/contrib/112163174476499232847/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7OCCbs7Gm9etk-EbXNncJFlzmET2pno9ICv2HAMRTWjQuIGfx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không thể tin được! Tôi vừa đặt hàng từ một cửa hàng tại nhà và được mở hộp một loạt quà bất ngờ ☕💕\n\nĐặt hàng cực kỳ dễ dàng, thậm chí còn đơn giản hơn cả ứng dụng chuỗi cà phê lớn. Mọi thứ diễn ra suôn sẻ và đồ uống của tôi được chuẩn bị nhanh hơn tôi mong đợi.\n\nKhi tôi bước ra khỏi thang máy, logo sáng bóng dễ thương ngay lập tức thu hút sự chú ý của tôi và dẫn tôi thẳng đến đúng nơi. Ngay trước cửa, một tách cà phê và một chú gấu bông hạt cà phê chào đón tôi và điều đó đã làm bừng sáng cả ngày của tôi 🥰 Đồ uống của tôi được mang về nhà hoàn hảo mà không hề bị đổ.\n\nNgay khi tôi nhận cà phê, tôi đã có thể ngửi thấy mùi thơm tuyệt vời ☕ Nó làm tôi nhớ đến mùi hương của Flash Coffee, thứ mà tôi chưa tìm thấy ở các chuỗi cà phê lớn. Và điều ngọt ngào nhất là chủ quán thậm chí còn thêm lời chào dễ thương và lời nhắn viết tay lên cốc! Chi tiết nhỏ đó thực sự làm tôi ấm lòng ❤️\n\nGiờ đây, tôi lại tìm thấy cảm giác cà phê đặc biệt đó với CuppaCoffee. Tôi thực sự rất thích đồ uống của mình. Xin hãy giữ Coconut Latte (đặc biệt tháng 10) trong thực đơn của bạn, đây là món mới nhất định phải có của tôi 🥥 Tháng 10 đừng kết thúc vội vì tôi cần nhiều Coconut Latte hơn nữa trong cuộc sống của mình! 💛",
+        "time": 1761488586,
+        "translated": true
+      },
+      {
+        "author_name": "Agatha Teo",
+        "author_url": "https://www.google.com/maps/contrib/108244486784034452480/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhlFUXfCA45jY0AT53DHFoEOkAR4QE-OyKIGdZhBXJv43wyq6v=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Tôi đã gọi món Dirty Earl Grey và nó rất ngon! Thức uống này được pha chế theo từng lớp với kem pha trà Earl Grey, sữa và espresso, tất cả hòa quyện rất tuyệt vời. Tôi đặc biệt khuyên dùng món này nếu bạn là người yêu thích trà Earl Grey!!! Nó cũng không quá ngọt và cà phê rất dễ uống (không đắng hay chua). Chủ quán cũng rất thân thiện! Chắc chắn sẽ gọi lại lần nữa!",
+        "time": 1755090529,
+        "translated": true
+      },
+      {
+        "author_name": "AngelineSL Ong",
+        "author_url": "https://www.google.com/maps/contrib/100319786781498863228/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4Wb2UezirWfwNFUc4S9eZsrl58_QJ2lRMdmWD1pEHM3yt2x8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Dù bạn cần một ly cà phê đậm đà hay một khoảnh khắc thư thái với trà matcha, nơi này đều đáp ứng được. Cà phê latte ở đây đậm đà và mạnh mẽ, trong khi trà matcha lại có hương vị mộc mạc và êm dịu hoàn hảo. Cả hai đều được pha chế tỉ mỉ và rất ngon! Hãy thử nếu bạn đang ở khu vực này!",
+        "time": 1756541475,
+        "translated": true
+      },
+      {
+        "author_name": "Sabrina L",
+        "author_url": "https://www.google.com/maps/contrib/110706564395486193554/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINVbVB1oW2_S79Cqfzrlzl11JSKQxnKkBNgiLGfv2LxpasLA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Tôi đã thử món latte dừa và nó ngon tuyệt vời! Latte dừa ngon nhất mà tôi từng uống! Rất đậm đà, béo ngậy, thơm phức và không quá ngọt. Chồng tôi, người không thích cà phê, cũng rất thích!!! Nhất định phải thử món ngon này nếu bạn có dịp đến Tengah!",
+        "time": 1759646255,
+        "translated": true
+      },
+      {
+        "author_name": "Kyle Hernandez",
+        "author_url": "https://www.google.com/maps/contrib/116267892338747377307/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJvGZW1sThUXqqpG8Qkhw_vsOTilFlhM4qoB-Ot_HQZXPNLaQmGg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chào!\n\nTôi đã nhận được đồ uống của mình rồi, và theo tôi, trà sữa matcha dâu tây rất tuyệt vời — hoàn toàn xứng đáng với quãng đường xa xôi từ miền Bắc đến đây. Độ ngọt vừa phải, và những miếng dâu tây kết hợp rất hoàn hảo với trà sữa matcha. Mọi thứ đều rất cân bằng và ngon miệng.\n\nĐồ uống khác cũng rất tuyệt! Ngay cả gia đình tôi, những người không hề thích cà phê, cũng rất thích nó — điều này thật tuyệt vời, haha.\n\nCảm ơn rất nhiều vì đã nhận đơn đặt hàng của tôi, và tôi thực sự xin lỗi vì bất kỳ sự bất tiện nào đã gây ra. Tôi thực sự rất biết ơn!",
+        "time": 1771770755,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 26
+  },
+  "harvested_at": "2026-05-02T15:24:22.415864"
+}

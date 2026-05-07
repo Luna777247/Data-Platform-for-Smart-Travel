@@ -1,0 +1,164 @@
+{
+  "u_key": "5b62e1295c2c177f",
+  "original_osm_name": "Dong Khanh",
+  "google_raw": {
+    "formatted_phone_number": "0905 642 234",
+    "geometry": {
+      "location": {
+        "lat": 16.0711585,
+        "lng": 108.233972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0725281302915,
+          "lng": 108.2352695802915
+        },
+        "southwest": {
+          "lat": 16.0698301697085,
+          "lng": 108.2325716197085
+        }
+      }
+    },
+    "name": "Quán Khanh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "0130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:30–01:30",
+        "Thứ Ba: 16:30–01:30",
+        "Thứ Tư: 16:30–01:30",
+        "Thứ Năm: 16:30–01:30",
+        "Thứ Sáu: 16:30–01:30",
+        "Thứ Bảy: 16:30–00:00",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Sơn Trần Hoài",
+        "author_url": "https://www.google.com/maps/contrib/113501084124185434192/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8txFjKQaTCs_TY1Z1zJG5Mh4hQ06g_gALlv7WfIjDiSYB8Fk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Mình cảm thấy khá là khó chịu khi ăn uống ở đây. Đầu tiền thì wifi không có mạng, thứ hai thì mình tới 15p vẫn chưa có ly cho mình. Tuy nhiên bù lại đồ ăn khá là ok, mức giá tương đối rẻ so với mặt bằng cạnh trạnh. Nhiều món ăn đa dạng nhưng có lẽ chỉ phù hợp với giới trẻ. Gọi phục vụ rất lâu và thiếu người . Đặc biệt thì khách đang ngồi ăn lại đi xịt rửa quán gây khoa chịu cho người dùng. Còn lại thì đồ ăn ngon, không gian thoải mái chỉ có món bạch tuộc là mình không thích tại hương vị khá là khó ăn và đồ không được tươi. Nếu muốn trải nghiệm thì có thể ghé vẫn khuyến khích để trải nghiệm vì có lẽ mình chỉ tới vào lúc khuya nên không được phục vụ chu đáo.",
+        "time": 1722717139,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Tam Do",
+        "author_url": "https://www.google.com/maps/contrib/111764137226273853558/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBE6EkmzcTaO9SoBP0DJ8plskx6taaW3Wh7u6zzv03BiDmL8TB=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán nhậu hải sản khá tươi, giá ổn, không gian rộng, thoáng mát, nhân viên nhiệt tình, vị món ăn làm thấm tháp vừa phải, sẽ ủng hộ lần sau",
+        "time": 1746955737,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Vu hai",
+        "author_url": "https://www.google.com/maps/contrib/114818824251046440235/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlmSQWyHbAt5-rZs2MX8CxCjQS9D9fPC2brrSEc-U0lBoVYw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phục vụ kém, đồ ăn toàn đồ vớ vẩn không tươi, chủ quán thỉ bảo thủ, ko thèm nghe khách hàng góp ý. Thái độ vs khách hàng. Sau không bao giờ đến đây nữa luôn. Trải nghiệm quá kém khi đén đà nẵng",
+        "time": 1768931501,
+        "translated": false
+      },
+      {
+        "author_name": "Vinh Si",
+        "author_url": "https://www.google.com/maps/contrib/117381056634232576279/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvjtL58lC2tkBmyFrg55JfEJAPEVq5FgZxnV-gngNnh_lEFCc=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ngon rẻ. Hải sản tươi. Đáng để đến",
+        "time": 1766739678,
+        "translated": false
+      },
+      {
+        "author_name": "준후 와이프",
+        "author_url": "https://www.google.com/maps/contrib/110804081028366433519/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNGCWcs5QDCCAVD7wRd5wp3lwgLxOtg9ZD6qfjbPqJyGGCcK2I3Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán không ý thức đc đang hoạt động kinh doanh ngay khu vực dân cư à. Không sắm nổi cửa để đóng lại à ? 1-2h sáng ồn điên đầu .",
+        "time": 1769022224,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 231
+  },
+  "harvested_at": "2026-04-28T16:34:40.649643"
+}

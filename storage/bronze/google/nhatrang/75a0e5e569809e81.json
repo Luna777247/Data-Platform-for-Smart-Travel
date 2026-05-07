@@ -1,0 +1,173 @@
+{
+  "u_key": "75a0e5e569809e81",
+  "original_osm_name": "Lan Chi",
+  "google_raw": {
+    "formatted_phone_number": "0327 920 212",
+    "geometry": {
+      "location": {
+        "lat": 12.2655392,
+        "lng": 109.2003012
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2668200802915,
+          "lng": 109.2015825802915
+        },
+        "southwest": {
+          "lat": 12.2641221197085,
+          "lng": 109.1988846197085
+        }
+      }
+    },
+    "name": "Quán Lan Chi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 12:00–00:00",
+        "Thứ Ba: 12:00–00:00",
+        "Thứ Tư: 12:00–00:00",
+        "Thứ Năm: 12:00–00:00",
+        "Thứ Sáu: 12:00–00:00",
+        "Thứ Bảy: 12:00–01:00",
+        "Chủ Nhật: 12:00–00:00"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Thi Ngoc Giau Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101901947515172854344/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHkPlE6bzG5u2pyZJOcTEU3G5Iu6pmegpENCy0d3JXgqi1Kg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán ốc này thật sự rất đáng thử luôn nha! Ốc tươi sống, chế biến vừa miệng, không bị tanh mà lại rất đậm đà. Giá cả thì rẻ và hợp lý, đi ăn thoải mái mà không lo “đau ví”. Điểm mình thích nhất là nhân viên cực kỳ nhiệt tình và dễ thương, lên món nhanh, lúc nào cũng vui vẻ và sẵn sàng tư vấn món ngon cho khách. Không khí quán thoải mái, ăn vừa ngon vừa thấy vui. Đặt biệt là chị chủ cực hiếu khách và xinh đẹp. Nói chung là ngon, rẻ, tươi, phục vụ tốt, nhất định sẽ quay lại và giới thiệu cho bạn bè.\n\nThis snail restaurant is definitely worth trying! The seafood is fresh and well-prepared, with rich flavours and no unpleasant smell at all. The prices are very affordable, so you can enjoy a great meal without worrying about the cost. What I love the most is the friendly and enthusiastic staff. They are always cheerful, serve food quickly, and are happy to recommend delicious dishes. The atmosphere is relaxed and comfortable, which makes the dining experience even better. This place offers fresh food, good value for money, and excellent service. I would definitely come back and highly recommend it to others",
+        "time": 1766845145,
+        "translated": false
+      },
+      {
+        "author_name": "Phước Thiên",
+        "author_url": "https://www.google.com/maps/contrib/112990235067098118673/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPDDyFE05tA5aydRewxh9ukdpAuV1Z3kfp-f-rDpYRqK7dxXKTxA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình là khách dl biết đc quán này, rẻ ngon sạch, cô chủ siêu dễ thương",
+        "time": 1773109670,
+        "translated": false
+      },
+      {
+        "author_name": "Đạt Lê",
+        "author_url": "https://www.google.com/maps/contrib/107623007923437056315/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr6gT1kVgNspcQV0pTzHB1uH_D8OAVXPfAy7ZJ0BhRgTCSc_ap=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn ngon, rẻ, chu quan va nhan vien quán nhiệt tình. Mọi người nên ăn, đồ tươi sống",
+        "time": 1754060729,
+        "translated": false
+      },
+      {
+        "author_name": "huyen thuong Pham",
+        "author_url": "https://www.google.com/maps/contrib/106257892719081101515/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbWiLiN9meCEdBcsQ_9mnSb_sw6oe260ENknqWn8HFJJL3mbzk=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán ở vị trí tốt, ở gần đoạn đường Tháp Bà giao với đường ven biển. Giá cả phải chăng, cháo hải sản ngon và nhiều topping.",
+        "time": 1744207406,
+        "translated": false
+      },
+      {
+        "author_name": "Le NguyenDuong",
+        "author_url": "https://www.google.com/maps/contrib/101605779373578008909/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFg0rVyTsmL6jPK4UHK9WgB5nJSQMnJzKee8-1gYKtgyoWUw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán ruột gđ mình mỗi khi tới NT, nhân viên dễ thương, đồ ăn vừa vị, hải sản tươi, giá cả phải chăng. Đến NT mn nên đến ăn thử ở quán nha. Khum hối tiếc đâuuu",
+        "time": 1738474145,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 225
+  },
+  "harvested_at": "2026-05-02T15:34:50.765086"
+}

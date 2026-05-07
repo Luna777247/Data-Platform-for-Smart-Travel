@@ -1,0 +1,173 @@
+{
+  "u_key": "46670f913ada6df1",
+  "original_osm_name": "Timeline",
+  "google_raw": {
+    "formatted_phone_number": "0964 375 588",
+    "geometry": {
+      "location": {
+        "lat": 21.0329604,
+        "lng": 105.8519879
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0343142802915,
+          "lng": 105.8532912802915
+        },
+        "southwest": {
+          "lat": 21.03161631970849,
+          "lng": 105.8505933197085
+        }
+      }
+    },
+    "name": "Timeline Coffee & Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–02:00",
+        "Thứ Ba: 10:00–02:00",
+        "Thứ Tư: 10:00–02:00",
+        "Thứ Năm: 10:00–02:00",
+        "Thứ Sáu: 10:00–02:00",
+        "Thứ Bảy: 10:00–02:00",
+        "Chủ Nhật: 10:00–02:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Phượng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103697726380149321916/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIflZBFIOL4qupn-5wU1wtmY8BDiTqA3E7udDuEbxoZl_gQk9PD=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đi trải nghiệm bữa tối tại đây, chưa thấy một quán bò nào kinh ntn. Miếng đầu còn thấy đc là thịt bò an các miếng sau thấy nhão nhoét nhưng k ra mùi ôi thiu nhưng nó cứ bở bùng bục.\nCf cốt dừa ổn, nước dâu chua, k đáng uống.\nKhông gian trên tầng thì thoáng rồi nhưng cố nhét bàn ghế thấy trật ních may đi lúc quán k đông khách nên vẫn ổn.\nNhân viên mình đi thì các bạn vẫn ngoan, phục vụ tốt.\nTóm lại nơi này chỉ phù hợp ngồi uống nc ziết thời gian và còn chỗ trống cạnh lan can minh còn ngắm phố phường chứ những chỗ khác thì thôi và đọc cmt của nhiều ng thì k nên ăn đồ ở đây vì n k ngon.",
+        "time": 1769406222,
+        "translated": false
+      },
+      {
+        "author_name": "Sam Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100766452102576731309/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZxWvteO1IRH1XKLCgr4fI5UXybH8LojBy-gzZoStk7amia2pJNg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Delicious food, excellent service, and awesome atmosphere! I had the bun cha, the nem ran, and the falling love (fresh banana, chocolate ice cream, and green rice ice cream) for dessert. It was my first time having bun cha and nem ran in Hanoi and it was so yummy! Anh was my waitress and she was great. The balcony seating on a beautiful Friday night was perfect. I highly recommend Timeline Coffee & Restaurant!\n\nĐồ ăn ngon, dịch vụ tuyệt vời, và không khí tuyệt vời! Tôi đã ăn bún chả, nem rán, và falling love (chuối tươi, kem sô cô la, và kem cơm xanh) làm món tráng miệng. Đây là lần đầu tiên tôi ăn bún chả và nem rán ở Hà Nội và nó rất ngon! Ánh là bồi bàn của tôi và cô ấy rất tuyệt. Chỗ ngồi trên ban công vào một đêm thứ sáu đẹp trời thật hoàn hảo. Tôi thực sự khuyên bạn nên đến Timeline Coffee & Restaurant!",
+        "time": 1746204636,
+        "translated": false
+      },
+      {
+        "author_name": "Kostja Krüger",
+        "author_url": "https://www.google.com/maps/contrib/109467129970879330433/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrW6dwLSLJbqCIzkqqYSFczv62WRR-3QpMVnKsIj0wCE7iizbJCw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Hôm nay chúng tôi ăn ở đây. Dịch vụ của Annie rất tuyệt vời. Chả giò cũng ngon. Chúng tôi chắc chắn sẽ quay lại.",
+        "time": 1765280070,
+        "translated": false
+      },
+      {
+        "author_name": "Tấn lợi Võ",
+        "author_url": "https://www.google.com/maps/contrib/114637183122741470419/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLH1OLzgrSUG_emOsQ6hN3WizRhBpu_JdgR25jGqrJD1g6C6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Coffe ngon không khí quán view đẹp ngắm phố cổ Hà Nội thì tuyệt đỉnh nhân viên nhiệt tình thân thận vui vẻ",
+        "time": 1770044003,
+        "translated": false
+      },
+      {
+        "author_name": "Hường Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102882282462024057079/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD2GygQ3UAWlxfGJhjeuulAwDMDWQgAdmh7V_dXuSj2ndZy5Uh=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, nhân viên nhiệt tình",
+        "time": 1769870476,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 7046
+  },
+  "harvested_at": "2026-04-26T16:52:24.953460"
+}

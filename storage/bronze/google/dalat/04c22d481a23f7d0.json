@@ -1,0 +1,174 @@
+{
+  "u_key": "04c22d481a23f7d0",
+  "original_osm_name": "RoiVillaCoffee",
+  "google_raw": {
+    "formatted_phone_number": "0263 3626 677",
+    "geometry": {
+      "location": {
+        "lat": 11.945703,
+        "lng": 108.4291053
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9471153302915,
+          "lng": 108.4303867802915
+        },
+        "southwest": {
+          "lat": 11.9444173697085,
+          "lng": 108.4276888197085
+        }
+      }
+    },
+    "name": "ROY Villa - Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–18:00",
+        "Thứ Ba: 06:30–18:00",
+        "Thứ Tư: 06:30–18:00",
+        "Thứ Năm: 06:30–18:00",
+        "Thứ Sáu: 06:30–20:00",
+        "Thứ Bảy: 06:30–20:00",
+        "Chủ Nhật: 06:30–20:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Hoa Hồng",
+        "author_url": "https://www.google.com/maps/contrib/117247465817489591526/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEQD4oSlyayoEEFw9oJOGtSIznC_dSpZfYlKqRZr0vhOvoqA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Hôm nay, mình có vào Roy để dùng cà phê cùng bạn bè. Nước ở đây rất ngon, view khá thích hợp cho các gđ và các bạn tuổi teen đến chụp ảnh, nhân viên nhiệt tình, bạn Vũ oder nói chuyện dễ thương,",
+        "time": 1772618702,
+        "translated": false
+      },
+      {
+        "author_name": "Hieu Tran",
+        "author_url": "https://www.google.com/maps/contrib/107761699425173146998/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUT6DwuHIZeaMHCZ80usyId2unLfGIdLN__6_BGgtI3VfGJum0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian quán rất thư giãn, cá koi đẹp to tròn bự, mình gọi cacao bạc hà kem muối ngon số 1 pha rất đậm vị, hủ tiếu khô ăn vừa miệng nước lèo rất thơm. Không có gì để chê. Quán có 2 mặt tiền dễ thấy mọi người nên trải nghiệm giá cả rất hợp lý mình là khách du lịch đến.",
+        "time": 1770188753,
+        "translated": false
+      },
+      {
+        "author_name": "My Trinh",
+        "author_url": "https://www.google.com/maps/contrib/104616600562006074349/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu--KCbNIX2TL6XKpe-z4PF0ocOgZn96-tZgYoMI4zb-kFgRxg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khách sạn nhỏ xinh nhưng được đầu tư đầy đủ tiện ích, rất phù hợp cho gia đình nghỉ dưỡng. Không gian ấm cúng với phòng khách rộng rãi, bếp tiện nghi, khuôn viên xanh mát có vườn cây và hồ cá koi rất đẹp.\nTrong khách sạn còn có quán cà phê yên tĩnh, rất chill và lý tưởng để thư giãn.\nVị trí ngay trung tâm Đà Lạt, thuận tiện di chuyển đến các điểm tham quan.\nNhân viên thân thiện và dễ thương.",
+        "time": 1768790500,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Thị Thu Thảo",
+        "author_url": "https://www.google.com/maps/contrib/114175621383514054552/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9LcUzvn9XiQxm0fQL1UzHBlwezGYLbry30zYfAFGfYQ3NAtL5Ng=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình có đưa con đi uống nước ở đây, không gian quán cafe thì khá nhỏ nhưng lại rất đẹp, trang trí 2 hồ cá Koi to và nhỏ, thêm nhiều cây xanh giống từ Nhật.\nCon mình đi chơi ở đây rất thích vì có dịch vụ cho cá ăn.\nNước uống và đồ ăn sáng ở đây cũng được, giá tầm 50-70k trung bình.\nMọi người cũng có thể đến đây và cho các bé vui chơi.",
+        "time": 1767436744,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Đăng Ngô",
+        "author_url": "https://www.google.com/maps/contrib/114126315681699150602/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTUFT2VTpUM91p7FTVl9SXcR5vbP_JXQAv73jrbW9bRKOlBus=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không giang thoáng mát, trải nghiệm cho cá ăn (10k/gói) giá bình quân nước uống khá ổn.",
+        "time": 1768967447,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 525
+  },
+  "harvested_at": "2026-04-30T15:04:15.787641"
+}

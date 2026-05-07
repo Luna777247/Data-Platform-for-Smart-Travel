@@ -1,0 +1,41 @@
+{
+  "u_key": "faf136519a6117c5",
+  "original_osm_name": "vân châu ( p102 e7 thanh xuân bắc)",
+  "google_raw": {
+    "formatted_phone_number": "0942 112 339",
+    "geometry": {
+      "location": {
+        "lat": 20.9908308,
+        "lng": 105.7986301
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9922091302915,
+          "lng": 105.7999556802915
+        },
+        "southwest": {
+          "lat": 20.9895111697085,
+          "lng": 105.7972577197085
+        }
+      }
+    },
+    "name": "Khu tập thể E7 Thanh Xuân Bắc",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Quan NV",
+        "author_url": "https://www.google.com/maps/contrib/112805927607301429018/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMb0kvZTwresCt7Giu4eVw5kj4IwLBlKSKbKFZ-CftQCkOPkA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Khu tập thể cũ thập niên 60, 70 đông đúc nhưng cũng khá nề nếp",
+        "time": 1675060846,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-28T16:30:12.510792"
+}

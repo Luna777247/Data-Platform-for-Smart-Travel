@@ -1,0 +1,109 @@
+{
+  "u_key": "841a8a1255a2f912",
+  "original_osm_name": "Quán cơm 08",
+  "google_raw": {
+    "formatted_phone_number": "8823 9587",
+    "geometry": {
+      "location": {
+        "lat": 1.2817344,
+        "lng": 103.8443721
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.282823680291502,
+          "lng": 103.8455771302915
+        },
+        "southwest": {
+          "lat": 1.280125719708498,
+          "lng": 103.8428791697085
+        }
+      }
+    },
+    "name": "Ăn Là Ghiền- Cơm Gà Hội An",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Thiệp Linh",
+        "author_url": "https://www.google.com/maps/contrib/117142153096394725372/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-Acaz0KPp9Xkkl8BWDUqMHdZy95AGk8ZpXlHWb6-Rphmp7Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thật là tồi tệ, trong khi quán không bận khách, mà làm chậm chạm chờ một món bún đậu 1 tiếng không xong.",
+        "time": 1770997849,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Lê",
+        "author_url": "https://www.google.com/maps/contrib/116960259849215002874/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj12uEr3V-2Y_03ZrJ-s8RFlx8NRCoxGlm7Jue0N4WgRzIBgk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình là khách qua sin du lịch tình cờ lướt tiktok của quán nên cũng tò mò muốn thử hương vị vn ở sin có khác gì nhiều so với ở vn hay ko, mình và ck order 2 phần cơm gà hoian với giá 3.9$ chưa bao gồm thuế, vì thấy giá khá rẻ nên cũng định thử cho biết chứ ko kì vọng nhiều nhưng không, khi nhận viên bưng ra 2 đĩa cơm gà mình rất ấn tượng, đồ ăn trang trí đẹp mắt, khẩu phần rất đầy đặn so với mặt bằng chung đồ ăn ở Singapore, khẩu phần này có thể 2 người ăn cũng được, mình phải share bớt cho ck ăn một nửa mới hết. Là người Đà Nẵng gốc Hội An nên cũng có sự khó tính khi đánh giá món ăn liên quan đến vùng mình sống, mình thực sự ấn tượng cơm gà ở đây ấy rất ngon, đặc biệt phần cơm tơi xốp mềm đều hạt khi ăn vào có độ ngọt vừa phải giống như gạo nấu với nước hầm gà, thịt gà mềm nhưng chắc thịt chứ không bở kiểu như cơm gà của Singapore, đây thực sự là một điểm khác biệt rất lớn giữa hai nền ẩm thực khác nhau. Dù đã có sự biến tấu chưa thực sự chuẩn cơm gà Hoian, tuy nhiên nó rất phù hợp với đại đa số khẩu vị của bên này, mình vẫn rất thích và rất ưng ý với món này của quán. Hi vọng lần sau đến sin nhất định sẽ ghé nhiều lần",
+        "time": 1742721931,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100905467871934463093/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRO6rOgmRj7qoGLgrk0SxsO5k4znBGS8pB6VNGJlzgLGIMsA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Ăn bún đậu với gỏi 3 người no căng,  đồ ăn nhiều ơi nhiều",
+        "time": 1759585941,
+        "translated": false
+      },
+      {
+        "author_name": "Thuận Đào Minh",
+        "author_url": "https://www.google.com/maps/contrib/113636773375184307358/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkToYhSfgbTzRDBsb3FUDWSTUKqskxnZG6G_CRF7KZ8o7E1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ngon, nhân viên thân thiện, vui vẻ",
+        "time": 1759586059,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nguyễn Hoàng Bảo",
+        "author_url": "https://www.google.com/maps/contrib/112353999393183817353/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMDA_m1NeptLWUWWv0QAc7bp58ejDTiz4TzwsX4hu_NWSFDP6_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ngon, không khí vui vẻ",
+        "time": 1759583360,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 104
+  },
+  "harvested_at": "2026-04-29T09:40:24.742539"
+}

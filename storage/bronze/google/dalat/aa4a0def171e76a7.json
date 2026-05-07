@@ -1,0 +1,173 @@
+{
+  "u_key": "aa4a0def171e76a7",
+  "original_osm_name": "Windmill Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0263 3540 806",
+    "geometry": {
+      "location": {
+        "lat": 11.9449475,
+        "lng": 108.4345645
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9462869302915,
+          "lng": 108.4359362802915
+        },
+        "southwest": {
+          "lat": 11.9435889697085,
+          "lng": 108.4332383197085
+        }
+      }
+    },
+    "name": "Windmills",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Hồng Vân Phạm",
+        "author_url": "https://www.google.com/maps/contrib/110465982534874726926/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPUHC_HvDA8_T3E6tdOxW4sOJ9MYLC1OKyX_PloY1JCSiTxqt6=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mua mang đi, có đúng 2 khách mà đứng chờ lâu lắc, dồn làm đơnchung với khách khác, người ĐL lâu lâu quay lại mà quá tệ, khỏi quay lại nữa",
+        "time": 1767356857,
+        "translated": false
+      },
+      {
+        "author_name": "Trinh Minh Tuan",
+        "author_url": "https://www.google.com/maps/contrib/110163684690502147051/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUT0siQaIggtFIURW8KCArwXx1j_zaGYbTY2rWyxWagbtB-NHfDvg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "☕ Đồ uống ở đây ngon, vị vừa phải, không quá ngọt nên rất hợp với những ai không hảo vị ngọt như mình.\n\n🍰 Bánh ngọt cũng vừa ăn, không bị ngấy, nên bạn nào thích kiểu nhẹ nhàng, thanh vị thì chắc chắn sẽ thích.\n\n🏡 Không gian quán ấm cúng, dễ chịu, rất thích hợp để ngồi thư giãn, học bài hoặc trò chuyện cùng bạn bè.\n\n🙋‍♀️ Nhân viên siêu nhiệt tình, dễ thương, luôn niềm nở và chủ động hỗ trợ khách – điểm cộng lớn cho trải nghiệm!\n\n📍 Tóm lại: Một quán nhẹ nhàng, xinh xắn, đồ ăn uống đều ổn, rất đáng để bạn ghé trải nghiệm thử!",
+        "time": 1746385972,
+        "translated": false
+      },
+      {
+        "author_name": "Hai Hoang",
+        "author_url": "https://www.google.com/maps/contrib/116857475527112213015/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHeiKgDP287njr8OFdvOSyBwPC_F56D5O1yVLEbuqRuzwfX-8N=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "Mình đến quán lúc 12:00 ngày 15/08, mình đi 3 người, cafe sữa tươi pha chế dùng loại không đường, mình cũng không được tư vấn, pha chế rất dở, sau đó thêm nước đường cho mình, 1 ly cacao dường như cũng không ngọt uống vị lợ lợ, trải nghiệm ở quán náy thực sự tệ đối với mình, mong quán nghiên cứu lại công thức pha chế, sẽ không quay lại.",
+        "time": 1755265570,
+        "translated": false
+      },
+      {
+        "author_name": "Huyền Thanh",
+        "author_url": "https://www.google.com/maps/contrib/117455163022392454379/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU_JDDRBsPnVBGNRw0Xpf1VARmLgoeU-2S-paoXTCBEIr9SVQ-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "K biết là quy định có bill mới dc thanh toán còn thực hiện k nhưng hôm nay mình đi thì k có bill, còn lại thì đồ uống ngon, nv nhiệt tình dthw.",
+        "time": 1756536789,
+        "translated": false
+      },
+      {
+        "author_name": "Lovely Kiwi",
+        "author_url": "https://www.google.com/maps/contrib/101220652167982303647/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcYLxxc4nOG9TYOo6uSufnNyQgqDcMGyet8_gRsyYviGkS5cjgHA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ uống ngon nhưng quán làm việc thiếu trung thực.\nNói với khách quán có chương trình discount 50% cho khung giờ 2-6 giờ chiều, nhưng hôm sau ra vào khung giờ đó, đến đoạn thanh toán giá vẫn như cũ chứ không được discount.\n\nMình hỏi lại \"Ủa sao hôm trước bên bạn nói discount khung giờ này mà\" thì bạn đó trả lời cái chương trình này \"đã kết thúc từ năm ngoái\".",
+        "time": 1769585266,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 393
+  },
+  "harvested_at": "2026-04-30T15:02:10.278537"
+}

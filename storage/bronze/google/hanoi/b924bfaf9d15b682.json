@@ -1,0 +1,109 @@
+{
+  "u_key": "b924bfaf9d15b682",
+  "original_osm_name": "Skylark boutique",
+  "google_raw": {
+    "formatted_phone_number": "0385 437 986",
+    "geometry": {
+      "location": {
+        "lat": 21.0399485,
+        "lng": 105.8453924
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0413281302915,
+          "lng": 105.8468122802915
+        },
+        "southwest": {
+          "lat": 21.0386301697085,
+          "lng": 105.8441143197085
+        }
+      }
+    },
+    "name": "SKYLARK BOUTIQUE HOTEL",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Duy Phạm",
+        "author_url": "https://www.google.com/maps/contrib/118380802371638907152/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUb369pd2JA7uxCSlxUztx38zvAIH7AT8sxUJ90yqb28R5xby8O=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Lễ tân Thảo có thái độ phục vụ rất tốt, thân thiện, lịch sự và hỗ trợ khách hàng nhanh chóng. Phòng làm việc sạch sẽ, gọn gàng và tạo cảm giác thoải mái. Rất hài lòng với sự phục vụ tại đây.",
+        "time": 1773064232,
+        "translated": false
+      },
+      {
+        "author_name": "Vy Trần Yến",
+        "author_url": "https://www.google.com/maps/contrib/113384241086410972206/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYipbv-hR9HQVVCS-4Qy4s1D2Q65FX-fZA7Al9cwL_Ty6HWw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tháng trước",
+        "text": "Thật sự quá tệ, quá chán khi ở ksan này, mình và gđ ở trong Nam ra đây chơi không rành về đồ ăn và đường đi các thứ hỏi nhân viên thì toàn đáp lại \"không biết, ra trước hỏi đi\" (còn nhiều câu thiếu tế nhị hơn) hỏi vấn đề nào cũng từ chối giải quyết cho khách hàng ủaaaa thái độ như mình ăn xin chứ không phải khách hàng. Phòng ốc cũng tệ cũ mặc dù mình book phòng hơn 1 triệu/ đêm (loại tầm trung không phải loại thường). Tóm lại ai có dự định đi ra Bắc chơi thì tránh né khỏi ksan này liền giùm mình",
+        "time": 1772291337,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Phạm",
+        "author_url": "https://www.google.com/maps/contrib/106166078545931486532/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeJ6vQdGGPokJdVcRP_wzMgKbxo9eXqTPfPINiLqDRyA4dBsBA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Lễ tân Thảo rất dễ thương và nhiệt tình, hỗ trợ khách rất chu đáo. Nhờ chị mà trải nghiệm tại đây trở nên thoải mái và thuận tiện hơn rất nhiều.",
+        "time": 1773064014,
+        "translated": false
+      },
+      {
+        "author_name": "Phong Tran Thanh",
+        "author_url": "https://www.google.com/maps/contrib/109910465397144222545/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI_PphALRBqeCOb2JBuk48kyqyNBDdqCd5ZCTV_VXurBdgmozq=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khách sạn gì mà cách âm không có, phòng kế bên nói gì bên đây nghe hết. Tiếng chó sủa toà nhà kế bên, tiếng còi xe, và tiếng ồn ào của nhân viên làm phòng, tiếng bộ đàm… Trong phòng thì mùi khai, mùi ẩm mốc. Thật sự stress luôn vì cái môi trường trong khách sạn này. Có duy nhất điểm sáng là nhân viên nhiệt tình, dễ thương, trừ một vài chị housekeeper quá ồn và dùng master key vào phòng mà không gõ cửa trong lúc mình đang ngủ 🥲",
+        "time": 1765454357,
+        "translated": false
+      },
+      {
+        "author_name": "54. Lại Thanh Tùng",
+        "author_url": "https://www.google.com/maps/contrib/109663042280067943028/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn_AjSmUdaNCpRe69YP-L_jD7pcAVHZN-RJe7sAmeCJpGbHyc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình thật sự ấn tượng với dịch vụ tại khách sạn này. Không gian sạch sẽ, yên tĩnh, phòng được dọn gọn gàng mỗi ngày. Vị trí cũng rất thuận tiện để đi lại và tham quan.\n\nĐiều khiến mình hài lòng nhất chính là bạn Quỳnh va Thảo – vô cùng dễ thương, thân thiện và luôn hỗ trợ khách hết lòng. 2 bn hướng dẫn rất tận tình, giới thiệu cả quán ăn ngon gần khách sạn và giúp mình xử lý nhanh một vài vấn đề nhỏ trong phòng.",
+        "time": 1760430143,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 811
+  },
+  "harvested_at": "2026-04-27T19:58:31.005718"
+}

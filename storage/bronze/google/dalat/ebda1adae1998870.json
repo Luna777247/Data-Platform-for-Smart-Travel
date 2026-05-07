@@ -1,0 +1,174 @@
+{
+  "u_key": "ebda1adae1998870",
+  "original_osm_name": "Nem Nuong - Dung Loc",
+  "google_raw": {
+    "formatted_phone_number": "0916 233 196",
+    "geometry": {
+      "location": {
+        "lat": 11.9372769,
+        "lng": 108.4285593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9386442302915,
+          "lng": 108.4298451302915
+        },
+        "southwest": {
+          "lat": 11.9359462697085,
+          "lng": 108.4271471697085
+        }
+      }
+    },
+    "name": "Nem nướng Dũng Lộc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–21:00",
+        "Thứ Ba: 11:00–21:00",
+        "Thứ Tư: 11:00–21:00",
+        "Thứ Năm: 11:00–21:00",
+        "Thứ Sáu: 11:00–21:00",
+        "Thứ Bảy: 11:00–21:00",
+        "Chủ Nhật: 11:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Trần Thiên Ý",
+        "author_url": "https://www.google.com/maps/contrib/100200657714827511906/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeiIrlJtvyxOdrYqQ3LgKIoH_OEuq_RAi3-GfNIR1s1IdHFbkxUQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "1 phần 55K, khá nhiều nem nha, rau sạch và tươi, đồ ăn kèm cũng rất tươi ngon, nước chấm ngon\ncô chú chủ dễ thương lắm kakaka\n\nTầng 1 hơi hẹp, có chỗ ngồi ở tầng 2 & 3 rộng hơn, chỗ để xe cũng không tiện lắm, phải tìm chỗ xung quanh đó để đậu xe\n\nđường vào xấu, trời mưa thì mng cẩn thận nha",
+        "time": 1759973097,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Do Nguyen Ngoc",
+        "author_url": "https://www.google.com/maps/contrib/100399945313238910577/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_peenQXT4SXzs3iU_iF3jSV0poQND2uEcF8skshu8uQlQ0QnK=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Rau sạch sẽ, nhiều. Đồ chua ăn cũng ổn. Nem ngon và sạch, lúc mình đến thấy chú chủ quán đang bọc nem vào xiên để nướng :v. 55k/suất no căng. Highly rcm quán ăn trưa cho mọi người.",
+        "time": 1767330910,
+        "translated": false
+      },
+      {
+        "author_name": "Jenny Tran",
+        "author_url": "https://www.google.com/maps/contrib/101152858808052760413/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNvyQN-ufncgbtEqbmQlMtipzk10UB9hmC_PIig1DvTzn3HZJC=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Trên hình là 1 phần 55K, khá nhiều nem nha, rau sạch và tươi, đồ ăn kèm cũng rất tươi ngon, nước chấm là tương đậu kiểu nem đà lạt (khác với tương gạo của nem ninh hoà). Tầng 1 hơi hẹp, có chỗ ngồi ở tầng 2 & 3 rộng hơn, chỗ để xe cũng không tiện lắm",
+        "time": 1738574490,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Do",
+        "author_url": "https://www.google.com/maps/contrib/107389938537936281190/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXtfRID2bwst-JlnumDNduRmqvOAo2ceF0QXcVn29Zmn9l6RQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trãi nghiệm thử quán mới, xem thử khác quán Nem Nướng Bà Hùng ở gần đấy.\nCảm nhận của mình thấy món nem nướng của 2 bên cũng một 9 một 10 với nhau.\nPhục vụ ở đây hơi chậm do chỉ có 2 vợ chồng chủ quán phục vụ, chỗ đậu xe hơi hẹp, chỉ đậu được 1 xe ô tô trước cửa quán.",
+        "time": 1769562981,
+        "translated": false
+      },
+      {
+        "author_name": "THfamilyN",
+        "author_url": "https://www.google.com/maps/contrib/107421339603304340836/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0O8QURCxfdBAUKzVFPlrKfKydM7sD8f_xeJ8aRV_ie9RR4qPU=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nem nướng ngon ở Đà Lạt. Đây là quán ruột mỗi khi thèm nem nướng. Nem được nướng lửa than nên thơm, nước chấm ngon, rau dưa tươi. 55k / phần.  Theo mình đánh giá là ngon và đỡ ngầy hơn bà Hùng.\n\nKhông gian quán bên dưới ít bàn, trên tầng thì rộng hơn.",
+        "time": 1716965965,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 428
+  },
+  "harvested_at": "2026-04-29T13:39:02.730339"
+}

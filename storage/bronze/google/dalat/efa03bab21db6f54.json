@@ -1,0 +1,173 @@
+{
+  "u_key": "efa03bab21db6f54",
+  "original_osm_name": "Kho",
+  "google_raw": {
+    "formatted_phone_number": "0982 037 237",
+    "geometry": {
+      "location": {
+        "lat": 11.9787828,
+        "lng": 108.4177848
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9801106802915,
+          "lng": 108.4191707302915
+        },
+        "southwest": {
+          "lat": 11.9774127197085,
+          "lng": 108.4164727697085
+        }
+      }
+    },
+    "name": "LẮP ĐẶT KHO LẠNH ĐÀ LẠT",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–17:00",
+        "Thứ Ba: 08:00–17:00",
+        "Thứ Tư: 08:00–17:00",
+        "Thứ Năm: 08:00–17:00",
+        "Thứ Sáu: 08:00–17:00",
+        "Thứ Bảy: 08:00–17:00",
+        "Chủ Nhật: 09:00–17:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Văn Hiếu Đặng",
+        "author_url": "https://www.google.com/maps/contrib/107980176823653075345/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHAZS89pGjJytSq-0jQV7hmLqHcaoKUfVa-0W7REvL5KZlNfk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "dịch vụ uy tín, chất lượng… phục vụ tận tình",
+        "time": 1733031132,
+        "translated": false
+      },
+      {
+        "author_name": "Si Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111593823244155710594/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNJctI8aKNgmpeqyJEMtCBXMP_B9xyvflCsR1G0QsV5GlAVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Thằng Em lắp kho lạnh chuyên nghiệp quá. Alô 1 cái có mặt liền. Good service!",
+        "time": 1664692088,
+        "translated": false
+      },
+      {
+        "author_name": "Nhung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117240581801666169913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNlliMfEUsIKhyAzrR-H1q_fwdO84cmStFBXZy-p_LTKf2jPfc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Nhanh chóng, chuyên nghiệp, dịch vụ hỗ trợ khách hàng tốt.",
+        "time": 1664694925,
+        "translated": false
+      },
+      {
+        "author_name": "huyền phương",
+        "author_url": "https://www.google.com/maps/contrib/113558694657082997285/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5EbVvSaC9ybg39SnSiAYFgKctfF9g1G8y7VeOQa16EJ1DpKLW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "lắp đặt nhanh, chất lượng tuyệt vời, dịch vụ rất ok",
+        "time": 1665654135,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Ngô Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/113524021351474639623/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWi3J18hEOF3Q0h-K9evZmMHrUKOt2uyReEsW7svM9iWGw8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Dịch vụ hỗ trợ khách hàng tốt, tư vấn nhiệt tình.",
+        "time": 1664987165,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 7
+  },
+  "harvested_at": "2026-04-29T13:27:57.580883"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "c17883d4674aa608",
+  "original_osm_name": "Yashoda Indian Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0946 417 000",
+    "geometry": {
+      "location": {
+        "lat": 12.2376831,
+        "lng": 109.1938659
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.23904123029151,
+          "lng": 109.1951765302915
+        },
+        "southwest": {
+          "lat": 12.2363432697085,
+          "lng": 109.1924785697085
+        }
+      }
+    },
+    "name": "Yashoda",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:30",
+        "Thứ Ba: 10:00–22:30",
+        "Thứ Tư: 10:00–22:30",
+        "Thứ Năm: 10:00–22:30",
+        "Thứ Sáu: 10:00–22:30",
+        "Thứ Bảy: 10:00–22:30",
+        "Chủ Nhật: 10:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Cana Ngân",
+        "author_url": "https://www.google.com/maps/contrib/107940978384885999855/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJr9xjPueK-Se9YHVUUtHMuQ3ThaEVu5TUV7W6w0cChyA20QH-=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ngon xỉu nha. Lần đầu mình muốn ăn thử quán Ấn nên có lên GG map tra ở đây thì ra quá. Highly recommend mn ăn món cà ri cừu và trà sữa nhó. Mắ ngon thật í",
+        "time": 1771588054,
+        "translated": false
+      },
+      {
+        "author_name": "7.Phạm Gia Hân",
+        "author_url": "https://www.google.com/maps/contrib/117097937284257799211/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkNDLhTMRdg0aWwUDg-xjrmza1Ni_8Pmrclf-_UFbLlNJOdCg7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán ăn ngon, giá hợp lý, phục vụ nhiệt tình. Sẽ quay lại lần nữa!\nMón ăn nêm nếm vừa miệng, không gian sạch sẽ, đáng thử!\nCửa hàng nhỏ nhưng đồ ăn siêu ngon, đáng đồng tiền bát gạo.\nĂn một lần là ghiền, đặc biệt là món signature của quán!",
+        "time": 1763033198,
+        "translated": false
+      },
+      {
+        "author_name": "Trâm Thùy",
+        "author_url": "https://www.google.com/maps/contrib/116815205570996904691/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8k0u_E4dZMn8y47prlrjIQ4-OJBhNTSIi_z5HjB8fkUFpsg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán ăn ngon, cari hợp khẩu cả nhà, các bé rất thích, nhân viên thân thiện .",
+        "time": 1763177439,
+        "translated": false
+      },
+      {
+        "author_name": "Trà My",
+        "author_url": "https://www.google.com/maps/contrib/114652329809197525313/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDMPLVHuPEdy9gQpTqqCOel71-PxckiQiGybGpoa2ztJb08adp=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn rất hợp khẩu vị với cả nhà mình, đặc biệt là món trà sữa. Nhân viên nhiệt tình, dễ thương lắm ạ còn chụp hình đẹp nữa 🤩 Mình recommend mn đến đây trải nghiệm nha",
+        "time": 1756338570,
+        "translated": false
+      },
+      {
+        "author_name": "Weskey Orange",
+        "author_url": "https://www.google.com/maps/contrib/108406694603557627059/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_rG_UguJafFrfABhZxnERYGV8RLqna91J-Bv4alrBAztioA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon, trải nghiệm thú vị về vị giác. Lời khuyên là món cơm có thể không hợp khẩu vị nên cân nhắn kỹ",
+        "time": 1766665643,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2027
+  },
+  "harvested_at": "2026-05-02T15:13:58.999213"
+}

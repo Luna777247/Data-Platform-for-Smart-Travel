@@ -1,0 +1,173 @@
+{
+  "u_key": "5063fcbc4cc6cb0b",
+  "original_osm_name": "Dolphin Bar & Kitchen",
+  "google_raw": {
+    "formatted_phone_number": "0772 494 117",
+    "geometry": {
+      "location": {
+        "lat": 15.9126366,
+        "lng": 108.3416964
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9139536302915,
+          "lng": 108.3430141302915
+        },
+        "southwest": {
+          "lat": 15.9112556697085,
+          "lng": 108.3403161697085
+        }
+      }
+    },
+    "name": "Dolphin Kitchen & Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Boss Big",
+        "author_url": "https://www.google.com/maps/contrib/108902766471097995546/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWd0rhAy0vbbpohuVYkwrzKrxCv1nOUobUGymHv9GetxLz-Kdz_w=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Một quán để ngắm gió biển vào buổi chiều khá là chill và mát mẻ vào mùa hè nhé. Không gian đây rộng rãi thoáng mát ạ",
+        "time": 1762503297,
+        "translated": false
+      },
+      {
+        "author_name": "lam pham",
+        "author_url": "https://www.google.com/maps/contrib/112825442598423653555/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKQg5rhWm6qyXeuFC--AL3aQwhHO381Lddn74Ce3N9WtdludpZ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán rất đẹp, bờ biển đẹp và sạch tắm rất thích\nThức uống ngon giá cung hợp lý. Đặc biệt chỗ ngồi mát mẻ. Rất xứng đáng và thực xự hài lòng.\nChủ quán dễ thương",
+        "time": 1755597012,
+        "translated": false
+      },
+      {
+        "author_name": "Jos Bui",
+        "author_url": "https://www.google.com/maps/contrib/118095900167212854533/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAhjGFlPMg5hPcJ7-DCllyTkiAUKjxl7Bf44goW0bmtXP3sCk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán đẹp đồ uống phục vụ nhanh. Có tắm tráng vệ sinh cho khách tắm biển.",
+        "time": 1752819848,
+        "translated": false
+      },
+      {
+        "author_name": "Anne NG",
+        "author_url": "https://www.google.com/maps/contrib/104316580208325573111/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICEWpm3NTqteL6z6Y6ZUUJkmvm3KyFivtaQDuQc_dG2zzFJA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Quán ăn khá lớn bên bờ biển An Bàng, gần trung tâm bãi. Mình đến ăn buổi tối nên quán khá vắng. Không gian rộng đẹp. Đồ ăn rẻ hơn mấy quán kiểu Deckhouse với Offshore nhưng phải nói luôn là chất lượng cũng kém hơn. Ghẹ rang me mà ghẹ nhỏ xíu hầm như không có thịt, sốt mặn quá lại không có cơm đi kèm nên khá dở. Burger bò phần bánh rất cứng và khô. Bạn mình gọi cocktail passion mojito uống như nước quả vậy, không có tí rượu nào thì phải. Sinh tố xoài thì tạm được dù xoài hơi chua.\nNói chung mình thấy nếu các bạn muốn ăn sang hẳn thì hãy bảo mấy quán đắt hẳn kiểu Deckhouse (đắt xắt ra miếng vì suất ăn khá lớn ăn rất no và chế biển rất ngon) hoặc không hãy sang các quán nhậu bình dân hẳn. Mình thấy quán này hơi nửa mùa. Nhưng nếu chỉ cần chỗ ngồi view đẹp ngắm biển gọi đồ uống thôi thì rất ok vì đồ uống ở đây không mắc lắm.\nĐược cái chủ quán nhân viên đều thân thiện dễ thương như mọi quán ở An Bàng.",
+        "time": 1525145955,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Tu",
+        "author_url": "https://www.google.com/maps/contrib/112835956413008753137/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK7NiBTvzZ3Ajz_8z5mkjhp8FmZ9JZf0GvW1pMDr3_qUtK-xQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Tụi mình đã ghé qua uống nước và tắm biển. Mọi người ở đây rất nhiệt tình, dễ thương",
+        "time": 1747413135,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 900
+  },
+  "harvested_at": "2026-04-29T10:51:58.439081"
+}

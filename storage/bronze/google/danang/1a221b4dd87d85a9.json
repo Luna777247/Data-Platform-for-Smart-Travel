@@ -1,0 +1,173 @@
+{
+  "u_key": "1a221b4dd87d85a9",
+  "original_osm_name": "Kolor cafe",
+  "google_raw": {
+    "formatted_phone_number": "0968 657 968",
+    "geometry": {
+      "location": {
+        "lat": 16.0477566,
+        "lng": 108.2119938
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0490248302915,
+          "lng": 108.2134193302915
+        },
+        "southwest": {
+          "lat": 16.0463268697085,
+          "lng": 108.2107213697085
+        }
+      }
+    },
+    "name": "Pi Tây Bắc Coffee & Tea",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–23:00",
+        "Thứ Ba: 06:00–23:00",
+        "Thứ Tư: 06:00–23:00",
+        "Thứ Năm: 06:00–23:00",
+        "Thứ Sáu: 06:00–23:00",
+        "Thứ Bảy: 06:00–23:00",
+        "Chủ Nhật: 06:00–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Nhật Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/107180684734746531300/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoFrpwAFHnbOehJJdkZyQctzY8ofqrJlfKv6c5Whtx4cNdXQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán cà phê đẹp giữa lòng thành phố Đà Nẵng. Không gian chill, đẹp. Thiết kế dạng rừng nhiệt đới có cây, suối, thác nước. Tạo không khí thiên nhiên cho không khí trong làn sạch sẽ. Thức uống dạng và ngon. Quán rất đáng trãi nghiệm.",
+        "time": 1772850425,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Vũ Linh",
+        "author_url": "https://www.google.com/maps/contrib/109523437471225274985/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Ny2cdgwG4CJtE012Ks-Hn1mNve4kTJO1B-VWmZ0WQ4PjpdTMrw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "1 quán cf khá chill và trong lành giữa lòng thành phố, 1 điểm lưu ý là nhạc hơi to, wc hơi bẩn.",
+        "time": 1772179138,
+        "translated": false
+      },
+      {
+        "author_name": "Gió",
+        "author_url": "https://www.google.com/maps/contrib/117895330572915826865/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmwBn51OJJSmYMnTjayAVw86EtylKNY5LU6PplH_aX5G8NFfkL=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cafe có hồ cá Koi siêu chill\nNgồi khá thoải mái, đồ uống giá ok, uống tạm ổn\nQuán có bán thêm snack các kiểu",
+        "time": 1767927014,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Trung",
+        "author_url": "https://www.google.com/maps/contrib/107565945427907777412/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJw1eIyw0LKc0lUKJGF_qxKv2-TwqgrVsCIf4AQxs2CMdJhLTK7=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán rộng thoáng , nước uống mình thấy vừa miệng , giá cũng vừa phải , không gian vừa có hồ cá bao xung quanh vừa tái tạo là như 1 khu rừng nhỏ , ngồi đêm mình thấy đèn lên nhìn ảo dịu hơn so với ban ngày .",
+        "time": 1758340657,
+        "translated": false
+      },
+      {
+        "author_name": "Bui Anh Dung",
+        "author_url": "https://www.google.com/maps/contrib/105775820347341774914/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwCTB6XJWR1iia27H13g5dmRFQKcSCXwhmNuCvMB64yykMrrNs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán khá mát, thức uống giá cũng ổn. Có điều quán rừng nhiệt đới nghe rất thiên nhiên mà dùng ly nhựa hơi chán. Dù sao vẫn rất thích quán với không gian thoáng mát, rừng cây, suối cá khá đẹp, ngồi rất thư giãn.",
+        "time": 1748959431,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 482
+  },
+  "harvested_at": "2026-04-29T09:46:39.701151"
+}

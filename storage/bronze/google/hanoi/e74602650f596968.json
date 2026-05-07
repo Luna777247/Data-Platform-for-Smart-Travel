@@ -1,0 +1,81 @@
+{
+  "u_key": "e74602650f596968",
+  "original_osm_name": "Cafe Ronado",
+  "google_raw": {
+    "formatted_phone_number": "024 3766 3451",
+    "geometry": {
+      "location": {
+        "lat": 21.0291771,
+        "lng": 105.8023398
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0306032302915,
+          "lng": 105.8037205302915
+        },
+        "southwest": {
+          "lat": 21.0279052697085,
+          "lng": 105.8010225697085
+        }
+      }
+    },
+    "name": "Cà Phê Ronaldo",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Vân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107139747715161329424/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJd5N7S2KE1bXiSwO5XzIIBqcosTbcunmgR1fNjCx3g3XC9Ow=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Được",
+        "time": 1752916746,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Hải",
+        "author_url": "https://www.google.com/maps/contrib/107096760812811650614/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIlIkDJLELhYa7ufB0mat8Xdag7_KOFLRAAql7XwZWimllBQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "",
+        "time": 1769095890,
+        "translated": false
+      },
+      {
+        "author_name": "Chu Hang",
+        "author_url": "https://www.google.com/maps/contrib/115952596249960767269/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7vAdQXGGDsvMqiSOMKwldTK_baUgUeZlDIdQBb7RJG-inlg=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "",
+        "time": 1767523143,
+        "translated": false
+      },
+      {
+        "author_name": "Dịu Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116584299397252029003/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXmPDAzV0jKiN77Jw08vO5rvqEUJBLOZqzZ2Bz3iKxCoXKT0M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "",
+        "time": 1762420507,
+        "translated": false
+      },
+      {
+        "author_name": "Hùng Đặng",
+        "author_url": "https://www.google.com/maps/contrib/103011503741711115684/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhIId0IECIK1AAegMyrzXdWU_ZF8nJUj8WnrEhjTFs4WZyxw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "",
+        "time": 1755124774,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 10
+  },
+  "harvested_at": "2026-04-26T12:45:21.274966"
+}

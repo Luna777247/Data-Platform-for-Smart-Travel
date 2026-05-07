@@ -1,0 +1,173 @@
+{
+  "u_key": "c72a371723f59bfa",
+  "original_osm_name": "BBQ Buffet",
+  "google_raw": {
+    "formatted_phone_number": "0355 312 385",
+    "geometry": {
+      "location": {
+        "lat": 12.2561985,
+        "lng": 109.1695628
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2575672802915,
+          "lng": 109.1709491802915
+        },
+        "southwest": {
+          "lat": 12.2548693197085,
+          "lng": 109.1682512197085
+        }
+      }
+    },
+    "name": "Buffet Thịt Nướng Hàn Quốc 139K - K Food BBQ Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–21:00",
+        "Thứ Ba: 11:00–21:00",
+        "Thứ Tư: 11:00–21:00",
+        "Thứ Năm: 11:00–21:00",
+        "Thứ Sáu: 11:00–21:00",
+        "Thứ Bảy: 11:00–21:00",
+        "Chủ Nhật: 11:00–21:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Trinh Le",
+        "author_url": "https://www.google.com/maps/contrib/116435919420318336867/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0lBQmjEGvBN9ywtrVH_n4AvOZDZYnG5FqZP15L9lJWOvAzw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần đầu mình đánh giá 1 sao ở quán.\nThực tế không giống thực đơn và các video quảng cáo. Giá 249k 1 người (chưa đặt bàn) cũng không phải giá thấp nhưng RẤT RẤT RẤT ÍT MÓN VÀ KHÔNG NGON (hình ảnh thực tế đính kèm):\n- Đồ ăn chín thì nguội và lạnh\n- Đồ sống ướp cũng không ngon mà ăn vô thấy hơi tanh. Đồ sống nhìn cảm quan là thấy ngay đông lạnh và cũ (có thể những chỗ khác cũng vậy nhưng ở đây nhìn chất lượng rất chán)\n- Lẩu cũng không ngon, nước dùng mặn\n- Không có tráng miệng\n- Nước chấm thì chỉ có tương ớt, nước mắm, xì dầu\nNhìn menu trên ggmap mà ngã ngửa với thực tế, thực tế chắc được 10 món @@ mà còn không ngon. Cũng không biết những bình luận tích cực 4-5 sao đến từ đâu và có thực không.\nMong quán có thể cải thiện chất lượng dịch vụ và đồ ăn.",
+        "time": 1770911107,
+        "translated": false
+      },
+      {
+        "author_name": "Mi Mi",
+        "author_url": "https://www.google.com/maps/contrib/109580978931179587420/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzge8R0pm3_j3tGVBij57kkChlGlzyn8c9lV44BHLxllLgS-yz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn rất là ngon. Nhân viên rất thân thiện. Không gian rất hiện đại và sang trọng",
+        "time": 1766564179,
+        "translated": false
+      },
+      {
+        "author_name": "chinh nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100133623196046511057/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxwbn2rVZG3eMS2vwK8SE5o1sruZBcZOP0uy1-zZ_bvF9XMnsibg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ăn phía trong trên lầu nên sẽ hơi khó nhìn.\nNhân viên dễ thương\nTrang trí đẹp mắt, dễ nhìn\nĐồ ăn ok, phù hợp với nhóm bạn bè giới trẻ, gia đình\nĐặt trước còn được giảm giá\nMiễn phí trẻ dưới 5t",
+        "time": 1770557811,
+        "translated": false
+      },
+      {
+        "author_name": "Tâm Phan",
+        "author_url": "https://www.google.com/maps/contrib/102063055590998827917/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQUvogtVIqguZ6E7zESQEl1anFJdOivLc3vVPLaiWeorQhMw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, thịt tươi, có kim chi mình thấy siêu ngon í, sẽ ủng hộ tiếp, đặt bàn trước nên có giảm giá ,sẽ ủng hộ tiếp",
+        "time": 1767770688,
+        "translated": false
+      },
+      {
+        "author_name": "phat tan",
+        "author_url": "https://www.google.com/maps/contrib/104705364577103656405/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDp62-LF1V8bN9W1n87qeI4LMQ6JIEDqCMJZMQgxOTybEwJw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn nguội, ít món, k ngon, k giống quảng cáo. Nói chung k đáng với số tiền đã bỏ ra",
+        "time": 1770376947,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 180
+  },
+  "harvested_at": "2026-05-02T15:11:36.276397"
+}

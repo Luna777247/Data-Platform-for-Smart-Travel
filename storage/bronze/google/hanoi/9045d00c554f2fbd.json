@@ -1,0 +1,108 @@
+{
+  "u_key": "9045d00c554f2fbd",
+  "original_osm_name": "Khách Sạn Le Petit",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0300809,
+        "lng": 105.8489535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0314781302915,
+          "lng": 105.8503182802915
+        },
+        "southwest": {
+          "lat": 21.0287801697085,
+          "lng": 105.8476203197085
+        }
+      }
+    },
+    "name": "Le Petit Hanoi Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Dũng Ngô",
+        "author_url": "https://www.google.com/maps/contrib/114197818642114933058/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3nS7cedV273fIA5JV5mKuNOqBvwaIbZmsl_d6p7fZh_RiKyeJiA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 năm trước",
+        "text": "Tôi không hài lòng về dịch vụ massage ở đây, giá đắt không có chuyên môn, nhân viên tên Trang có tính chất vòi tiền tip, tôi nghe bạn tôi người nước ngoài sử dụng dịch vụ ở đấy nói lại với tôi",
+        "time": 1519899193,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Trần",
+        "author_url": "https://www.google.com/maps/contrib/110098308420702152755/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwy5H-KWL3AMciA8HHzHOzRgbHS2JbslgrLNB5BBK7eqvtlf-3=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Phòng đẹp nằm ở phố cổ đi chơi cũng rất gần giá phòng cũng hợp lý",
+        "time": 1575798345,
+        "translated": false
+      },
+      {
+        "author_name": "le thanh",
+        "author_url": "https://www.google.com/maps/contrib/117117328057881837644/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgpGc-EyLNqaAiD210bjmOnWpPfrCL2U0BYO8NEQZ8ETf30vSc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 năm trước",
+        "text": "vệ sinh kém , cơ sở vật chất xuống cấp , cầu thang nguy hiểm . tiếng ồn nhiều quá",
+        "time": 1568694080,
+        "translated": false
+      },
+      {
+        "author_name": "U. S.",
+        "author_url": "https://www.google.com/maps/contrib/104659878649221460814/reviews",
+        "language": "de",
+        "original_language": "de",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPGPHHODNT9rwnvfRJI7WP-toP_P_DdSHWR37NoAx0EVleRvQH3w=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 1,
+        "relative_time_description": "9 năm trước",
+        "text": "Das kleine Hotel ist nicht ganz einfach zu finden. Der Empfang war freundlich, dass Zimmer schrecklich: Schimmel im Bad, WC defekt, Tapete kam von den Wänden, Deckenplatten lose oder fehlten, Teppich sehr dreckig, Fenster grau vor Schmutz und durch die Lage im Partyviertel abends laut. Das Frühstück war ausreichend.\nAls wir am 2. Tag nach 12h Ausflug (im gleichen Hotel gebucht) zurückkehrten, war das Zimmer noch so, wie wir es verlassen hatten, lediglich die Fenster waren weit offen. Wir baten um Reinigung und gingen für 2h in die Stadt. Bei der Rückkehr war das Zimmer gemacht, aber für 2 Personen und 2 Betten gab es nur eine Decke mit braunen Flecken. Wir baten die Besitzerin um 2 saubere Decken und zeigten die Dreckflecken. Daraufhin schrie sie, das sei unverschämt, kündigte die Buchung und schmiß uns aus dem Hotel.\nIn ganz Südostasien habe ich nicht ein solch mieses Verhalten erlebt, wie in Hanoi von dieser Hotelbesitzerin. Ich kann nur jeden warnen, dort zu buchen.",
+        "time": 1488710359,
+        "translated": false
+      },
+      {
+        "author_name": "James",
+        "author_url": "https://www.google.com/maps/contrib/106097783685000759915/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-Dabf1sI2TyMV25hLiG89uovttmgok_G9RHT7UkgJGgFP=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Giá cả hợp lý, chúng tôi muốn phòng có cửa sổ và chỗ này có ban công nên rất hài lòng. Đường phố bên ngoài hơi ồn ào nhưng đó là điều chúng tôi đã lường trước ở Hà Nội nên không ảnh hưởng gì. Phòng rộng rãi, đẹp. Tôi không chắc những đánh giá tiêu cực đề cập đến điều gì, rõ ràng là tôi chưa xem hết tất cả các phòng nhưng phòng của tôi sạch sẽ và đáp ứng mọi kỳ vọng của tôi với mức giá đó. Nhân viên khách sạn lịch sự và thân thiện.",
+        "time": 1515925041,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 32
+  },
+  "harvested_at": "2026-04-27T19:58:24.489273"
+}

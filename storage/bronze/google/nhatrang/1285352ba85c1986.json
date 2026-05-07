@@ -1,0 +1,172 @@
+{
+  "u_key": "1285352ba85c1986",
+  "original_osm_name": "Quán cơm cô lan",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2809574,
+        "lng": 109.1999272
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2822622802915,
+          "lng": 109.2012761302915
+        },
+        "southwest": {
+          "lat": 12.2795643197085,
+          "lng": 109.1985781697085
+        }
+      }
+    },
+    "name": "Quán cơm Cô Lan",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–20:00",
+        "Thứ Ba: 08:00–20:00",
+        "Thứ Tư: 08:00–20:00",
+        "Thứ Năm: 08:00–20:00",
+        "Thứ Sáu: 08:00–20:00",
+        "Thứ Bảy: 08:00–20:00",
+        "Chủ Nhật: 08:00–20:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán cơm gọi theo dĩa, được chọn món ăn theo yêu cầu.\n1 dĩa giá trung bình ~30,000 vnd.\nCanh xương rau củ 10,000 vnd/ chén.\nBên cạnh có quầy bán nước cam tươi.",
+        "time": 1753339930,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Phan",
+        "author_url": "https://www.google.com/maps/contrib/115209639144776113136/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0DxDWtIctyBfFLL9-SfOF9JO0Cdv6popCLoDEUTWnfyKt6sU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đoàn của mình hôm nay mới ghé  ăn cơm tại đây , đồ ăn rất ngon và chất lượng. ngon\n.10d",
+        "time": 1753451169,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Hạnh Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/118412836812252237968/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1ZXPRvWvPMW705Jf85Ta8EDJLEidulXTKcM2bf1tZA5SxiV8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "tuyệt vời ạ",
+        "time": 1711977206,
+        "translated": false
+      },
+      {
+        "author_name": "Ak",
+        "author_url": "https://www.google.com/maps/contrib/102873738934801008402/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEYneb95cT2F4GwpLQYy9CcdICyuyNk8f5b0aeM-v40B3Fpif0Og=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đây là một quán cơm bình dân đúng nghĩa. Tôi đến vào khoảng 1 giờ chiều ngày thường và quán đông nghẹt người địa phương. Thực đơn không đa dạng như một số quán cơm bình dân nổi tiếng khác trong thành phố, nhưng đồ ăn ngon và bà chủ rất thân thiện.",
+        "time": 1753368684,
+        "translated": true
+      },
+      {
+        "author_name": "cyril",
+        "author_url": "https://www.google.com/maps/contrib/110799119800109160976/reviews",
+        "language": "vi",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA7BwFQVa30aYZAnxwFf2HXP8S1c_x5-2Yih7x4FmyyCtdZ7cxew=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một địa điểm ăn uống tuyệt vời, đồ ăn rất ngon, đậm chất địa phương và hấp dẫn, dịch vụ hàng đầu, tôi rất khuyên bạn nên đến đây, thật hoàn hảo, cảm ơn họ!",
+        "time": 1772424232,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 13
+  },
+  "harvested_at": "2026-05-02T15:34:13.773192"
+}

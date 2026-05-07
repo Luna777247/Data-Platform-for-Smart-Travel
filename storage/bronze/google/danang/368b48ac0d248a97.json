@@ -1,0 +1,163 @@
+{
+  "u_key": "368b48ac0d248a97",
+  "original_osm_name": "Du Port",
+  "google_raw": {
+    "formatted_phone_number": "0236 3822 513",
+    "geometry": {
+      "location": {
+        "lat": 16.0788876,
+        "lng": 108.2237548
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0803185302915,
+          "lng": 108.2250113302915
+        },
+        "southwest": {
+          "lat": 16.0776205697085,
+          "lng": 108.2223133697085
+        }
+      }
+    },
+    "name": "Công ty cổ phần Cảng Đà Nẵng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–17:30",
+        "Thứ Ba: 07:30–17:30",
+        "Thứ Tư: 07:30–17:30",
+        "Thứ Năm: 07:30–17:30",
+        "Thứ Sáu: 07:30–17:30",
+        "Thứ Bảy: 07:30–17:30",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Sense TV",
+        "author_url": "https://www.google.com/maps/contrib/115474968383131828914/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDyFXbhbjYLYvOw6GjcyTwq7hmaHpwQ2QPKHdukCIyJuLUZA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "chúng tôi đã đặt chân đến cảng biển đà nẵng\nđiều đầu tiên tôi  nói về biển đà nẵng thật là tuyệt với\nnoi dây có những con tàu chiến của Việt Nam và các anh lính thủy. Họ rất thân thiện va hoà đồng\nđêm ở cảng biển đà nẵng   thật là đẹp\ntôi rất thích đà nẵng thật sự rất đẹp",
+        "time": 1568962027,
+        "translated": false
+      },
+      {
+        "author_name": "Vinapco Vietnam",
+        "author_url": "https://www.google.com/maps/contrib/115137792199870417401/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfquapf4f38mqjrnc2QCQ7xSt4ruqOXwlhVma2d0qfbw6Qk67B=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Văn phòng trụ sở làm việc của Cảng Đà Nẵng. Đã lâu không làm mới",
+        "time": 1525602647,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa Thanh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108004474109204753710/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOs3WPb0UNRkfYtdRW9k9Y9F393ssYLwcViujk94XJd5F3Qw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Đây là thực sự là cảng biển lớn nhất miền trung. Ngày càng nhộp nhịp, tốc độ phát triển container ngày càng tăng. Một cảng rất an ninh, công nhân rất văn hóa.",
+        "time": 1504143439,
+        "translated": false
+      },
+      {
+        "author_name": "Xi Phạm",
+        "author_url": "https://www.google.com/maps/contrib/110050792608968528578/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVX9swD98AvKDAaKndLu4_ZxZ2ndmsn7fhT_uPOtV8ZNO0ol_s=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đến nơi đây , được trải nghiệm rất nhiều ý nghĩa.",
+        "time": 1688699254,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109696097145300291380/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMAJcypBNaJG22ktygVqXpCnm-et2DUAwLVgVIrc5DSYLq5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Cảng rất tuyệt, có điều con ông nhiều quá....",
+        "time": 1577605274,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 30
+  },
+  "harvested_at": "2026-04-29T09:30:49.471622"
+}

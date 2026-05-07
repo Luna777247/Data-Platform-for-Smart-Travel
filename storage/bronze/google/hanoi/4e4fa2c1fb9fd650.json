@@ -1,0 +1,89 @@
+{
+  "u_key": "4e4fa2c1fb9fd650",
+  "original_osm_name": "Soho garden",
+  "google_raw": {
+    "formatted_phone_number": "0966 636 655",
+    "geometry": {
+      "location": {
+        "lat": 21.0463504,
+        "lng": 105.843223
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0476262302915,
+          "lng": 105.8444368802915
+        },
+        "southwest": {
+          "lat": 21.0449282697085,
+          "lng": 105.8417389197085
+        }
+      }
+    },
+    "name": "SOHO Garden",
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Duy Nguyen Hoang",
+        "author_url": "https://www.google.com/maps/contrib/107470539628849989301/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCqy_cBP7o4nIqceaLAuA6VX7bLHKvj24K7bVXs2ZufOkPe02C=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "Quán đẹp, rộng rãi, món ăn khá",
+        "time": 1489027099,
+        "translated": false
+      },
+      {
+        "author_name": "Thủy Phạm Văn",
+        "author_url": "https://www.google.com/maps/contrib/104914248330679691556/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjYKOyt3W_NXkdTQH1dbPL0kivEjP7mWZITKLr9kqyHiz422E=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Đồ ăn ngon. Phục vụ tốt",
+        "time": 1482344333,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Dương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110307169776765079158/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKwGjDSWvPz0OhFcid8FQDiQMSoWHSMMr-XnS3G85Iud7qV1OndA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "TUyệt vời, đồ ăn nấu quá chuẩn. Nhạc nhẽo quá ổn.",
+        "time": 1489253986,
+        "translated": false
+      },
+      {
+        "author_name": "HTV hungviet",
+        "author_url": "https://www.google.com/maps/contrib/104256683238758327587/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3fwCKlg0JpA09exzZRmWG6SEXPHyclBsyC9ep2fwHcEni48jj=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "9 năm trước",
+        "text": "Giá đắt so với các nơi khác",
+        "time": 1487292030,
+        "translated": false
+      },
+      {
+        "author_name": "Vi Thiện Bảo",
+        "author_url": "https://www.google.com/maps/contrib/109020487705054564918/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdJ_0XBWfjUG0eN8O4QSVnYTb0ASYjG9NGMCcBhVSZcetkUCRA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "tuyệt vời",
+        "time": 1504594544,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 16
+  },
+  "harvested_at": "2026-04-28T16:15:36.933922"
+}

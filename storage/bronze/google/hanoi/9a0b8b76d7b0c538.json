@@ -1,0 +1,174 @@
+{
+  "u_key": "9a0b8b76d7b0c538",
+  "original_osm_name": "The Coffee House",
+  "google_raw": {
+    "formatted_phone_number": "1800 6936",
+    "geometry": {
+      "location": {
+        "lat": 21.0239774,
+        "lng": 105.8530593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0254073802915,
+          "lng": 105.8544643802915
+        },
+        "southwest": {
+          "lat": 21.0227094197085,
+          "lng": 105.8517664197085
+        }
+      }
+    },
+    "name": "The Coffee House",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–22:30",
+        "Thứ Ba: 07:30–22:30",
+        "Thứ Tư: 07:30–22:30",
+        "Thứ Năm: 07:30–22:30",
+        "Thứ Sáu: 07:30–22:30",
+        "Thứ Bảy: 07:30–22:30",
+        "Chủ Nhật: 07:30–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Hùng Mạnh",
+        "author_url": "https://www.google.com/maps/contrib/111736817092163062638/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWURGnJGZjnd9pfuCAbJV5xScyyvs2-HMUyTSmgXiu9nedwgCvM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Bị threads dụ qua The Coffee House để ăn pasta =))))))\nKhông nghĩ một ngày mình lại đến quán cafe để ăn mì như này :))) nhưng công nhận pasta ở The Coffee House chất lượng thực sự, giá còn hạt dẻ chỉ có 59-79k/suất thôi ấy\nBữa nay bọn tui ăn 2 món Wafu Pasta là Bò Karubi Xốt Miso Butter, với Bò Bằm Xốt Bolognese truyền thống. Mì ở đây rất Ê nha 🙂 đĩa to đầy đặn, sợi mềm dai đậm đà. Quan trọng là cái xốt cực ngon ấy, tui mê nhất xốt Miso Butter kia, ăn nó béo ngậy, ngọt nhẹ nhưng lại đậm đà, siêu nhiều topping bò với rong biển 😋\nXốt Bolognese thì vẫn kiểu bò băm với xốt cà chua hành tây truyền thống, vị chua dịu quyện sợi mì cuốn miệng :))) nói chung ổn áp trong tầm giá lắm nha\nTui hay ra The Coffee House ngồi làm việc, gọi thêm nước mới trong BST Floaty có kem ở phía trên uống cũng ngon với cuốn phết, wifi thì căng đét mà giờ có thêm list đồ ăn mặn chống đói ngon như này, chắc chạy deadline cả ngày cũng được các mom nhỉ =)))))",
+        "time": 1756183784,
+        "translated": false
+      },
+      {
+        "author_name": "Freedom Peace",
+        "author_url": "https://www.google.com/maps/contrib/117691784472751575869/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc828karzCeVlViya62a6NPP3CEyqM7rx0jb6blJML-YrNiA1M=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán rất là rộng, đẹp, view cũng đẹp, rất gần Hồ Hoàn Kiếm. tầng 1 là cầu thang lên, order ở t2 và ngồi ở t2 hoặc t3. Có 2 Nvs ở t2, Nvs sạch sẽ. T2 có cả khu ngồi ngoài trời thoáng đãng. Các b nv hôm nay mình gặp đều hiền và nhẹ nhàng.\n\nNêú ún trà sữa hay trà hoa quả mn vào FB mà săn mã giảm giá, còn cafe ko có hoặc ít lắm. Trà sữa thì hình như có mã mua 1 tặng 1, còn trà hoa quả có mã giảm 50% ly thứ 2. Các group là mã giảm giá đồ ún toàn quốc...\n\nMột số đồ ún có thể chọn ún nóng. Menu mình để bên dưới ảnh",
+        "time": 1761408437,
+        "translated": false
+      },
+      {
+        "author_name": "Hibyehyun",
+        "author_url": "https://www.google.com/maps/contrib/103759814010266401553/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs1snfFouTvaOAYTkRwhHm8r4Dv_hxi6PNEEO686mJj6wXyh_Y=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "đặt mì thì thiếu cá bào, mình có nghe shipper phản ánh là nhân viên thái độ bất lịch sự vs ship🙄\ndear chị nhân viên nào đó, chị đi làm phục vụ mà tưởng mình là bà tướng hay j má?",
+        "time": 1768652657,
+        "translated": false
+      },
+      {
+        "author_name": "John Huang",
+        "author_url": "https://www.google.com/maps/contrib/103768968947552306839/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqXR1m4u-v0VDTkOuhC4pf7iopBVVCoY5pdXipNcMX9694WbQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "View đẹp rộng nhìn về Tràng Tiền Plaza và các phố xung quanh. Ban công ngồi hơi hẹp, thích hợp cho 1-2 người ngồi ngoài",
+        "time": 1764002892,
+        "translated": false
+      },
+      {
+        "author_name": "thao phuong",
+        "author_url": "https://www.google.com/maps/contrib/111265588309196133109/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWn90zRGoFfTdbb9G9Fipc_xOa0ofokcDOuy1oq5zKU1f2lWWUA-w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình thường xuyên ngồi ở đây. Dễ chịu nhưng khá ồn ào. Quán rộng.",
+        "time": 1765439781,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1908
+  },
+  "harvested_at": "2026-04-27T19:58:05.433260"
+}

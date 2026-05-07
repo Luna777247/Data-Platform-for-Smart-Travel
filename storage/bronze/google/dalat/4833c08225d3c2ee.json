@@ -1,0 +1,173 @@
+{
+  "u_key": "4833c08225d3c2ee",
+  "original_osm_name": "Coffee Hang",
+  "google_raw": {
+    "formatted_phone_number": "0848 875 002",
+    "geometry": {
+      "location": {
+        "lat": 11.9444804,
+        "lng": 108.4382538
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9458043802915,
+          "lng": 108.4395720802915
+        },
+        "southwest": {
+          "lat": 11.9431064197085,
+          "lng": 108.4368741197085
+        }
+      }
+    },
+    "name": "Goat Dalat Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:30",
+        "Thứ Ba: 06:30–22:30",
+        "Thứ Tư: 06:30–22:30",
+        "Thứ Năm: 06:30–22:30",
+        "Thứ Sáu: 06:30–22:30",
+        "Thứ Bảy: 06:30–22:30",
+        "Chủ Nhật: 06:30–22:30"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Thiên Phúc Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/118432782453190742608/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3RKJ5OZ_RsXqY579LBdQO_NIHDcUqB5ZWOoSnNK-qGGoeh2FY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nước ngon, đẹp mắt, có PS5 để chơi nữa chứ :v\n\nRecommend mng thử mấy món có kem muối, kem trứng đồ nho",
+        "time": 1772081333,
+        "translated": false
+      },
+      {
+        "author_name": "Thư Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/107854770002260693224/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrgy4xU6WVWtyFlaOftOcP7267Y4Ls2eAXHqo6ew46KoJTQXgU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhân viên rất dễ thương có tâm dặn nước nếu mình k rõ nè, không gian cũng ấm cúng, nước theo khẩu vị mình ngon nha, vị vừa phải",
+        "time": 1767261986,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Huy Lê",
+        "author_url": "https://www.google.com/maps/contrib/115741758069793488616/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ38936UXIa3nhR-KuRAb5-bFBqqdV8SFied7AKA_GBurUWsg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cacao quế ở đây là ngon nhất. Đi Đà Lạt lần nào cũng phải ghé 🦭. Cún của chủ cũng dễ thương.",
+        "time": 1768288904,
+        "translated": false
+      },
+      {
+        "author_name": "Tùng Thái Thanh",
+        "author_url": "https://www.google.com/maps/contrib/110991488679155488743/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo8hHMnjyxkFujwMBOBU0bX4E7Q0cwFKU5mtEek1T3_STxP-wD1Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình đến đây vào 1 tối mưa bay bay, lạnh lạnh. Không gian vibe cổ điển ấm cúng, nhẹ nhàng giữa lòng Đà Lạt - rất tiện và gần nếu muốn đi dạo ra khu hoà bình, chợ đêm,…Mình có gọi Matcha kem muối ở đây, siuuu đỉnh lun, rất ấn tượng vì đậm thơm vị matcha Nhật, kem muối béo mặn nhẹ cuốn lắm. Nhất định sẽ quay lại đây!  💯",
+        "time": 1765385589,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Đặng",
+        "author_url": "https://www.google.com/maps/contrib/104664241725554258345/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVepFaFX9oy3xUp-gka0DhvRuWb9HAA5-4eYYlZcK-WBr7Td8v3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán chill, đồ uống ngon. Đợi đồ uống có thể hơi lâu nhưng rất xứng đáng nếu bạn đủ kiên nhẫn nhoé. Cafe Tiramisu béo, thơm, dậy mùi. 10 đỉmmmmm",
+        "time": 1765794158,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 217
+  },
+  "harvested_at": "2026-04-30T15:06:46.628296"
+}

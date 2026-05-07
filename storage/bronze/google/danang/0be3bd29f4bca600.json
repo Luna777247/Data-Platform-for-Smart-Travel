@@ -1,0 +1,173 @@
+{
+  "u_key": "0be3bd29f4bca600",
+  "original_osm_name": "Seaweed",
+  "google_raw": {
+    "formatted_phone_number": "0236 3561 004",
+    "geometry": {
+      "location": {
+        "lat": 16.0740434,
+        "lng": 108.245936
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0754914802915,
+          "lng": 108.2472878802915
+        },
+        "southwest": {
+          "lat": 16.0727935197085,
+          "lng": 108.2445899197085
+        }
+      }
+    },
+    "name": "Da Nang Beach Club",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–03:00",
+        "Thứ Ba: 06:30–03:00",
+        "Thứ Tư: 06:30–03:00",
+        "Thứ Năm: 06:30–03:00",
+        "Thứ Sáu: 06:30–03:00",
+        "Thứ Bảy: 06:30–03:00",
+        "Chủ Nhật: 06:30–03:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Thanh Trinh",
+        "author_url": "https://www.google.com/maps/contrib/111182150276440930612/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWd-N7Q40QtUEm6i1ir-QOoVDl-i-6UFXZgJpoPN7BYmQbzmc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng với view đẹp, thức ăn ngon, nhân viên thân thiện nhiệt tình, trang trí hoành tráng.",
+        "time": 1729430425,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Thoai Bui",
+        "author_url": "https://www.google.com/maps/contrib/106127105555500539015/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7JJ65ryinZKlC_zesZVBYeKByd2yXD6uewyPDeQ1RMzHfHuFC=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Nhà hàng, quán bar cạnh biển với không gian lý tưởng để chill.\n\n1/ Chất lượng: các món nước cơ bản, menu đa dạng từ đồ ăn đến thức uống như cà phê, nước ép, nước ngọt, bia, cooktail, rượu,…\n2/ Giá: tương đối cao so với khu vực, 1 ly nước khoảng 100.000VND++\n3/ Phục vụ: nhân viên quầy bar phục vụ thân thiện, nhiệt tình, tuy nhiên nhân viên vệ sinh không thân thiện khi sợ khách là dơ nhà vệ sinh.\n4/ Không gian: rộng rãi, thoải mái, có bàn ngồi trong nhà, ngoài bãi biển, quầy bar và sân khấu cạnh hồ bơi.\n5/ Nhà vệ sinh: sạch.\n6/ Giữ xe: bảo vệ giữ xe miễn phí.",
+        "time": 1688386141,
+        "translated": false
+      },
+      {
+        "author_name": "Hữu Chính Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114837838888622507605/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVa9X_3z_st-t5-LqKCsPkhUkWGr5mTb1Ola2t1AoMsfPjx9g_E=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Không gian thoải mái, có nhạc sống vào buổi tối, phù hợp với nhiều không gian, nhóm bạn nói chuyện, gia đình, tình nhân...\nĐồ uống vừa vặn với dịch vụ. Không quá đắt đỏ.\nNhân viên khá lịch sự, nhiệt tình và chu đáo, chào khách mỗi lúc đi vào và ra.\nTối nay mình gọi 1 chai Heineken được thêm 1 đĩa đậu phộng nhấm nháp.",
+        "time": 1662047407,
+        "translated": false
+      },
+      {
+        "author_name": "jenny",
+        "author_url": "https://www.google.com/maps/contrib/100698548645041526242/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbOb_YF9XvpV_0JS3wPha5N5DOkvEmKiT7Z89i3D-uuKSX1w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "không gian thoáng mát, rộng rãi. nhân viên nhiệt tình, thân thiện. đồ uống ngon, giá cả phù hợp với chất lượng. nhất định sẽ ghé đến nữa và giới thiệu cho người quen ghé đến trải nghiệm.",
+        "time": 1702919983,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Thanh",
+        "author_url": "https://www.google.com/maps/contrib/107833446058887743313/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV44FqstbUzf-zCvBkP8fUOalXiMxH7NEzxVGkcsKq4WerUt6i4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Gọi ramen cơm cuộn mà 45' ra 3 phần-1phần vẫn chưa có. Phục vụ kém. Kêu hạ rèm xuống mà kêu 3 lần nhân viên đi lượn quanh vẫn k hạ xuống. Trong khi quán chỉ có một bàn duy nhất -.- nếu có nút - điểm thì chọn ngay chứ cũng k được 1sao nữa",
+        "time": 1671936746,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 204
+  },
+  "harvested_at": "2026-04-29T09:42:42.284433"
+}

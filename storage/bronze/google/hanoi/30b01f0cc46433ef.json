@@ -1,0 +1,172 @@
+{
+  "u_key": "30b01f0cc46433ef",
+  "original_osm_name": "Cửa Hàng Mai Nga Bún Cá Hà Thành",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0153334,
+        "lng": 105.8488227
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0165871802915,
+          "lng": 105.8501785302915
+        },
+        "southwest": {
+          "lat": 21.0138892197085,
+          "lng": 105.8474805697085
+        }
+      }
+    },
+    "name": "Bún Cá Hà Thành",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–21:00",
+        "Thứ Ba: 06:30–21:00",
+        "Thứ Tư: 06:30–21:00",
+        "Thứ Năm: 06:30–21:00",
+        "Thứ Sáu: 06:30–21:00",
+        "Thứ Bảy: 06:30–21:00",
+        "Chủ Nhật: 06:30–21:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Hà Đồng",
+        "author_url": "https://www.google.com/maps/contrib/110451048301041654510/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcfEqw_gV96oVxVeFWh1Wz-UqQJQgGQXsukyzFbvPs8YWV9EKH=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cá gòn ngon, ko bị mặn, sốt vừa phải, bát đầy đặn, phục vụ nhiệt tình!\nSẽ quay lại!",
+        "time": 1764598645,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Dai",
+        "author_url": "https://www.google.com/maps/contrib/113316917675395107235/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUV9jhFBIgRW-4hXoN2dhfOimBLta80k0X8QA-4n8W3nbeWuiGk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Bún cá ở đây có cả cá tươi trần ăn cũng hay hay thay vì cá rán như ở các hàng bún cá khác",
+        "time": 1759815312,
+        "translated": false
+      },
+      {
+        "author_name": "Jayce Lee",
+        "author_url": "https://www.google.com/maps/contrib/102826063111981593917/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUO7Aw784FGzxoWRJZW2joMciN4gYCZRFKAqNK3pAdn8ZYPhM0x=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Bún cá bán trên phố Tuệ Tĩnh lâu lắm, ăn vị riêng, nhiều lựa chọn . Giá từ 40k/ bát ... Cá thêm 40k hơi ít . thích hợp ăn sáng và ăn trưa",
+        "time": 1691733610,
+        "translated": false
+      },
+      {
+        "author_name": "Ng Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115817420289401452597/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOF4vmWR1Z64YM74sgMWApkmhXgbef3pl7w79yXlGCR5LGcbuj=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Bún cá vs Miến lươn ngon.\nCó bàn ghế cao, điều hòa, quạt mát...",
+        "time": 1755927625,
+        "translated": false
+      },
+      {
+        "author_name": "Thiện Quách Lương",
+        "author_url": "https://www.google.com/maps/contrib/103148909016656368774/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjUI3fNXcfAixwFWyki48cfPTCLP9j9nCL4SvweyUJ-VBYbTug=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Cá giòn thơm, giá cả phù hợp với giá tiền.",
+        "time": 1753144571,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 119
+  },
+  "harvested_at": "2026-04-28T16:24:07.618989"
+}

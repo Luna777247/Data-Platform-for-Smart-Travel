@@ -1,0 +1,174 @@
+{
+  "u_key": "41b56437c6d33977",
+  "original_osm_name": "Quán vịt nướng",
+  "google_raw": {
+    "formatted_phone_number": "0852 994 550",
+    "geometry": {
+      "location": {
+        "lat": 21.0264652,
+        "lng": 105.842091
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0278164802915,
+          "lng": 105.8434400302915
+        },
+        "southwest": {
+          "lat": 21.0251185197085,
+          "lng": 105.8407420697085
+        }
+      }
+    },
+    "name": "Quán Vịt 53 Nam Ngư",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Noob",
+        "author_url": "https://www.google.com/maps/contrib/105590826788015442962/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFIZPAx-C_OtiirI-vBY06XQahujaVV_hh5brAfcRJ2HpPdzE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình vào quán và gọi món, chỉ có một mình nên mình gọi cháo vịt, quán có vẻ bận rộn giờ trưa nên quên hoặc có vấn đề gì mình không rõ, nhưng mình ngồi chờ khoảng 20 phút vẫn không có dấu hiệu quán dọn món lên, mình ra hỏi tỏ ý muốn về thì quán mới làm, về món cháo thì vị ăn khá ổn, cơ mà bát của mình có vẻ như là đầu thừa đuôi thẹo gì đó, có cả mấy mảnh xương ở trong trông mất thẩm mỹ, thị cũng không giống thịt vịt lắm, các bát sau thì thấy màu thịt đúng thịt vịt, nói chung là chắc do đông nên quán sơ suất chứ không cố ý làm vậy, giá thì bình dân, không đắt, quán dọn dẹp cẩn thận.",
+        "time": 1770622396,
+        "translated": false
+      },
+      {
+        "author_name": "Nghiem Mai Quang",
+        "author_url": "https://www.google.com/maps/contrib/117175003590333494052/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVInCjQdjvYpTg88sETLAwTMkOGlb8XDpirJDtdV7bgbC9nAdH3cQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Được bạn ở Hà Nội dắt đi nên chất lượng khỏi bàn. Gọi 1 ngan cháy tỏi, 1 canh măng, 1 vịt nướng ăn 4 người hợp lý. Ngan hay vịt thì thịt đều mềm ngon, da giòn thơm.",
+        "time": 1767492225,
+        "translated": false
+      },
+      {
+        "author_name": "Cầm Lại",
+        "author_url": "https://www.google.com/maps/contrib/116240813840466431259/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMrk_ZAjZacAwuayhnVrpzUlgyWODjh5IsSDqlAQhAo_WCQNlo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Hôm đó mình gọi canh măng, vịt nướng, dồi. Vịt nướng vị homemade đặc trưng ăn kèm nước chấm lạ lạ, cũng tuỳ khẩu vị mỗi người mình thấy ăn cỡ 7,5 điểm. Nhưng mà canh măng ngon nha, măng giòn ngọt, nước dùng đậm đà. Dồi thì ăn tuyệt cú mèo 🙌 10 điểm ko có nhưng, ăn một miếng dồi xong làm miếng vịt nướng thì thịt vịt từ 7,5 lên hẳn 8,5 luôn. Giờ nghĩ lại vẫn 🤤 mà dồi có 50k thui ý mng nhất định nên gọi nhe",
+        "time": 1762272574,
+        "translated": false
+      },
+      {
+        "author_name": "Hưng Phillip",
+        "author_url": "https://www.google.com/maps/contrib/117522198383090475216/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFW2fwgZV3_KBiLRlLdRmuS4RL4acL1ObxPGaL98CYjOrySM39=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Vịt tươi ngon, lòng dồi rất hấp dẫn nhé cả nhà! Mình ăn 12.15 trưa chủ nhật nên canh măng hết tiết. Tổng thiệt hại 2 người 280k ăn no. Quên không báo trừ bún không ăn 😅",
+        "time": 1757298061,
+        "translated": false
+      },
+      {
+        "author_name": "Thử - Thở",
+        "author_url": "https://www.google.com/maps/contrib/113436978531024319712/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9XjFZ1d72zFTDuXeIjDNc99-6POTZe7v_uxV9e0PsM5j5pc4=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Gọi nửa con luộc-nương- cháy tỏi 5 ng ăn ê hề, vịt ở đây ăn thì mình vẫn rcm cháy tỏi nhất, nước chấm ổn nhenn",
+        "time": 1760592974,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 188
+  },
+  "harvested_at": "2026-04-28T16:22:58.214395"
+}

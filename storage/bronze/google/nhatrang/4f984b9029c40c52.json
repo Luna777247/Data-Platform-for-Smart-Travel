@@ -1,0 +1,173 @@
+{
+  "u_key": "4f984b9029c40c52",
+  "original_osm_name": "Bakha Fastfood",
+  "google_raw": {
+    "formatted_phone_number": "0372 776 778",
+    "geometry": {
+      "location": {
+        "lat": 12.2398487,
+        "lng": 109.1928906
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2412122802915,
+          "lng": 109.1942383302915
+        },
+        "southwest": {
+          "lat": 12.2385143197085,
+          "lng": 109.1915403697085
+        }
+      }
+    },
+    "name": "Bánh Mì Phan",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:30",
+        "Thứ Ba: 07:00–21:30",
+        "Thứ Tư: 07:00–21:30",
+        "Thứ Năm: 07:00–21:30",
+        "Thứ Sáu: 07:00–21:30",
+        "Thứ Bảy: 07:00–21:30",
+        "Chủ Nhật: 07:00–21:30"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Thành Trần",
+        "author_url": "https://www.google.com/maps/contrib/111035165197409995568/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcgD7EIPek7RXrxOQ9ybfbeP637Ve6Vbqcmq9KSNVwhdzVOvwsDg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình ghé ăn sáng lúc khoảng 8:30. Thời điểm đó đã khá đông khách, đa số là khách nước ngoài nên phải chờ tầm 10 phút mới đến lượt lấy bánh. Mình thấy khách Hàn Quốc check-in khá nhiều, đoán là quán đang nổi trong cộng đồng du lịch bên đó.\n\nMình gọi bánh mì bò phô mai. Hương vị ngon, nhân đầy đặn, phần vỏ bánh làm từ kiểu bột dẻo dẻo khá lạ miệng so với bánh mì truyền thống Việt Nam. Là người Việt ăn thì mình thấy ổn, còn du khách chắc sẽ thích vì vừa dễ ăn vừa vẫn chuẩn vị bánh mì Việt Nan\n\nGiá 50k/ổ thì hơi cao so với mặt bằng bánh mì nói chung, nhưng hợp lý nếu xem như trải nghiệm một món ăn du lịch. Không đến mức chỉ dành cho khách nước ngoài, người Việt ăn vẫn ok.",
+        "time": 1768630433,
+        "translated": false
+      },
+      {
+        "author_name": "Hana Pham",
+        "author_url": "https://www.google.com/maps/contrib/104291827715605735757/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKhNORcQTwS6-5v1fUnIyvdKKy4qPJWZ3OVvG-D8oql81zCg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bánh mì làm theo cách này rất phù hợp với khách nước ngoài, ăn lúc nóng thì ngon đừng để nguội nha,,khách tour hàn của mình lúc nào cũng đòi mua ăn thử khi đến nha trang,,đến mua chịu khó xếp hàng dài 15-30p tuỳ ngày nha",
+        "time": 1770476194,
+        "translated": false
+      },
+      {
+        "author_name": "Việt Hà",
+        "author_url": "https://www.google.com/maps/contrib/106187181447784431562/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK19d9BuvLV-QtMzsc1qjD76ZftKpjKs7Y-AW3TWfV1uFk-GfZu=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bánh nhiều phô mai, nhân đầy đặn ăn ngập miệng lun. Anh nhà mình bình thường cứ ăn bánh mì là đau bụng, nhưng ăn ở đây nhiều lần, trộm vía chưa thấy sao. Bánh ngon, ko gian chill chill.",
+        "time": 1766627827,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112754476528140842371/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXO-Jvb-LG24VdAylJPViLL_ciWjsQI96hra_xNlPcZOrZ6cU-4Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Bánh mì quá nổi tiếng với khách du lịch, đặc biệt là khách Hàn Quốc.\nTopping mặn rất nhiều lựa chọn.\nMình ăn chay nên chọn 2 vị chay, đợi khoảng 30 phút vì topping chay không có sẵn. Bánh mì Đậu hủ rim thơm hạt điều ăn khá lạ miệng. Bánh mì nấm phô mai hơi nhạt và dễ ngán.\nCó khu vực ngồi đợi và ăn bên trong và trên lầu rất sạch sẽ gọn gàng.",
+        "time": 1772592351,
+        "translated": false
+      },
+      {
+        "author_name": "David Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108965053966013952002/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc1_UR1Q6HSrVO0oJt6P-t8i2hV9A0l-L4yT9uqRwnQ3TgyFI6=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình đến quán bánh mì phan một cách tình cờ vì thấy rất nhiều người xếp hàng. Bánh mì ở đây mới nướng xong cầm còn nóng hổi, nhanh anh rất vừa vặn. Đặc biệt ở đây rất nhiều người Hàn Quốc và người nước ngoài xếp hàng để mua bánh mì mặc dù thời điểm mình đến mới chỉ tầm khoảng 07.00 sáng. Trên giấy gói bánh mì mình thấy câu chuyện về bề ngoại của chủ quán bán bánh mì từ ngày xưa và bây giờ ấy tiếp nối câu chuyện của bạn ấy.",
+        "time": 1760600533,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3569
+  },
+  "harvested_at": "2026-05-02T15:18:05.037547"
+}

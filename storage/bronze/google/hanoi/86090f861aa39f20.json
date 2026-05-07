@@ -1,0 +1,171 @@
+{
+  "u_key": "86090f861aa39f20",
+  "original_osm_name": "Quoc Minh Quan",
+  "google_raw": {
+    "formatted_phone_number": "0913 209 377",
+    "geometry": {
+      "location": {
+        "lat": 21.0192231,
+        "lng": 105.8484602
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0205648302915,
+          "lng": 105.8498435802915
+        },
+        "southwest": {
+          "lat": 21.0178668697085,
+          "lng": 105.8471456197085
+        }
+      }
+    },
+    "name": "Quốc Minh Group",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–18:00",
+        "Thứ Ba: 08:30–18:00",
+        "Thứ Tư: 08:30–18:00",
+        "Thứ Năm: 08:30–18:00",
+        "Thứ Sáu: 08:30–18:00",
+        "Thứ Bảy: 08:30–18:00",
+        "Chủ Nhật: 08:30–18:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Le Hoai Chau",
+        "author_url": "https://www.google.com/maps/contrib/110839013898273742629/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX03Q8oHIGWlJaQqaFr4lCnQNvr7Bq5NqXvD_gyb-ESR89l9xjk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đáp ứng mọi nhu cầu về thảm cho mọi công trình. Trên cả tuyệt vời!!",
+        "time": 1721391496,
+        "translated": false
+      },
+      {
+        "author_name": "NGUYEN HAC HAI",
+        "author_url": "https://www.google.com/maps/contrib/108150510129417287684/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUYoPveYdpm5BRDaPy5yYpdf_ijKTrQy38ojODrUN6DRydBw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nhà cung cấp hàng đầu về rèm, thảm...ở Hà Nội",
+        "time": 1688778417,
+        "translated": false
+      },
+      {
+        "author_name": "Ha Thanh Son",
+        "author_url": "https://www.google.com/maps/contrib/104142278395680925068/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKJYTsmmgTJtWsrxa4l1_HLlNaZipA_lIcN4KwrgkAMsJ8WdxiYg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Tuyệt vời!",
+        "time": 1476932121,
+        "translated": false
+      },
+      {
+        "author_name": "Tú Quyên",
+        "author_url": "https://www.google.com/maps/contrib/109253605939991739439/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNyI3KIGa3i2uFaNsCyj8bYVHqDTzkTuNt96nCzeMx5YlSaoYx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đia chỉ cung cấp thảm trải sàn uy tín, mẫu mã đa dạng.",
+        "time": 1773736259,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang The Nam",
+        "author_url": "https://www.google.com/maps/contrib/107499440604619973421/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_SuBBHVxoKD0oXn7Szt4ZkUXXIgljJAfMAZ3GBc570NRDbw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "",
+        "time": 1602313875,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "harvested_at": "2026-04-28T16:32:52.170438"
+}

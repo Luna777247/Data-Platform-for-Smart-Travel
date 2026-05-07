@@ -1,0 +1,174 @@
+{
+  "u_key": "70fb01b40cde4028",
+  "original_osm_name": "Quan Com Ga A.HAI",
+  "google_raw": {
+    "formatted_phone_number": "0905 312 642",
+    "geometry": {
+      "location": {
+        "lat": 16.0653555,
+        "lng": 108.2198541
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0666637802915,
+          "lng": 108.2211939802915
+        },
+        "southwest": {
+          "lat": 16.0639658197085,
+          "lng": 108.2184960197085
+        }
+      }
+    },
+    "name": "Cơm gà A Hải",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Trần Thiên (Julian)",
+        "author_url": "https://www.google.com/maps/contrib/106001957064485629046/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGCvvSqeObvnOzaox3EI94PHQwZ6rPkBYVSsE3FuMnwJzZwivv=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Phần cơm gà quay (đúng hơn là gà chiên) giá 63k khá ổn áp. Miếng gà to ăn no điêng luôn á.\nKhông gian quán cũng rộng rãi, có điều cô phục vụ cũng không dễ thương lắm.\nThời gian lên món tầm 20 phút.\nKhông recommend lắm.",
+        "time": 1760800302,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102877815750659091780/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYqRX02OF_pqnFBQbSqT7NmaC1opU69iSN_Dx11-o_nrL42Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán cơm gà khá ngon, Dĩa như hình 63k (08/11/2025) Quán cơm chiên nên không tránh khỏi thức ăn, khói ám mùi quần áo. Quán đông khách nhưng ra món nhanh",
+        "time": 1762577980,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Phương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110782688942694854361/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkKZxv-IV8n5exOhLMqS-JI4-bc77j9yb0f-FiOZz3Uv8Onw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Miếng gà quay vàng đều nhìn ngon mắt, cơm tơi, không bị khô. Gà thơm nhẹ. Mình không thích nước chấm bên quán cho lắm, ngọt ngọt lợ lợ. Nên mình thường ăn kèm vs tương ớt hơn. Canh cải vừa vị. Đồ chua ăn kèm khá ngon nhé. Phần 63k mình thấy ổn.\nQuán có cho trà đá",
+        "time": 1764127131,
+        "translated": false
+      },
+      {
+        "author_name": "LTP TRAN",
+        "author_url": "https://www.google.com/maps/contrib/116365491411205030945/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLI0So_bPdzzSyR2tqZc7NJKQLLR3fLAG4SnSEb_sPu4o6w43o=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Một trải nghiệm ko vui khi đến Đà Nẵng.\nQuán phục vụ quá tệ. Thái độ nhân viên phục vụ vô cảm xúc.\nOrder món chưa từng trải nghiệm tệ như vậy",
+        "time": 1769061061,
+        "translated": false
+      },
+      {
+        "author_name": "Khoi TRUONG DINH",
+        "author_url": "https://www.google.com/maps/contrib/114681658310111071550/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWI0GUtoUJ4enpR850MJvKg7dGw4HTesL-NmBO8xmbRb5_9RJRH=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán rất đông khách, phục vụ nhanh, giá bình dân",
+        "time": 1768113932,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2089
+  },
+  "harvested_at": "2026-04-29T09:44:17.353484"
+}

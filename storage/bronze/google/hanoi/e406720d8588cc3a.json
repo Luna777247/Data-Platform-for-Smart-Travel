@@ -1,0 +1,243 @@
+{
+  "u_key": "e406720d8588cc3a",
+  "original_osm_name": "Nhà hàng Đông Thành",
+  "google_raw": {
+    "formatted_phone_number": "0946 398 558",
+    "geometry": {
+      "location": {
+        "lat": 21.0208965,
+        "lng": 105.8490654
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0221859802915,
+          "lng": 105.8503849302915
+        },
+        "southwest": {
+          "lat": 21.0194880197085,
+          "lng": 105.8476869697085
+        }
+      }
+    },
+    "name": "Hà Thành Mansion Vietnamese Restaurant",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–14:00, 17:00–22:00",
+        "Thứ Ba: 10:00–14:00, 17:00–22:00",
+        "Thứ Tư: 10:00–14:00, 17:00–22:00",
+        "Thứ Năm: 10:00–14:00, 17:00–22:00",
+        "Thứ Sáu: 10:00–14:00, 17:00–22:00",
+        "Thứ Bảy: 10:00–14:00, 17:00–22:00",
+        "Chủ Nhật: 10:00–14:00, 17:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Sơn Đàm",
+        "author_url": "https://www.google.com/maps/contrib/109988511595613979368/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvd1yqHeEPtlPjwpAq8MGYFO04nIWnh63nWBm4UX9FLSIloGYu=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Một trải nghiệm hài lòng.\nXứng đáng Michelin Guide.\nTôi có dịp mời 2 người bạn Nhật Bản, Thái Lan tới quán dùng dịch vụ, ai nấy cũng khen.\nĐồ ăn ngon, bày biện đẹp.\nNhân viên thân thiện, được đào tạo bài bản.\nQuán có không gian đẹp, trong một biệt thự cổ, ở vị trí trung tâm, thuận tiện di chuyển.\nĐỗ xe được trước cửa quán, có nhân viên bảo vệ hướng dẫn.\nLần sau sẽ quay lại.",
+        "time": 1772977403,
+        "translated": false
+      },
+      {
+        "author_name": "Huyen Ngo",
+        "author_url": "https://www.google.com/maps/contrib/109800020034875570411/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMDDG2rWPZkpJ_Cu4OCxCDHAR6FyAYUAWqk0tRKzkZu3vPNBC9Bg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán nằm trong khuôn viên một biệt thự cổ nên không gian khá đẹp và thoáng. Kiểu kiến trúc cũ nhìn rất có nét riêng, vào đây cảm giác yên tĩnh, buổi tối bật đèn lên nhìn khá chill.\n\nQuán có dàn nhạc tấu cổ truyền biểu diễn nhạc sống. (đàn bầu, tì bà, hát quan họ?)\n\nĐồ ăn trình bày đẹp, nhìn bắt mắt. Về hương vị thì ở mức ổn, dễ ăn, không quá đặc sắc nhưng vẫn tròn vị. Phục vụ ổn, không gian sạch sẽ.\n\nNhìn chung đây là chỗ phù hợp để gặp gỡ bạn bè, tiếp khách nhẹ nhàng hoặc gia đình tụ họp",
+        "time": 1772307573,
+        "translated": false
+      },
+      {
+        "author_name": "Helen Hoang",
+        "author_url": "https://www.google.com/maps/contrib/111189536158274462971/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXABSWyBkhZJ3hn_katI9-Zbr5-nwmeTQX4OmCU17wgGGeAtY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán không gian đẹp, đồ ăn chuẩn vị vừa miệng, phục vụ siêu dễ thương, chu đáo nhiệt tình, nên ghé ăn ạ😊❤️\nPhù hợp tiếp khách hay ăn gia đình bạn bè ấm cúng!",
+        "time": 1764162574,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Phạm",
+        "author_url": "https://www.google.com/maps/contrib/115008850678545235396/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBDqbykc0UJ9zuOTfEk4giF3-byC2cxyZK_xhLvCblj42kdNHD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Rất phù hợp cho việc tổ chức các bữa tiệc nhỏ, gia đình hay doanh nghiệp đều ok. Đồ ăn ngon, vừa vặn và chỉnh chu. Đặc biệt dành lời khen cho Dũng, bạn phục vụ chính hôm đó cho công ty mình, người có gương mặt hơi \"nghiêm trọng\" trong tấm ảnh. Dũng chủ động hỏi flow chương trình và cố gắng làm tốt nhất có thể dù cũng có một chút lỗi nhỏ phần đầu ra món, nhưng vấn đề. Bạn quản lý và sale cũng rất nhiệt tình xử lý các vấn đề trong sự kiện và support hết mình, dù đôi lúc phản hồi hơi chậm. Overall thì rất đáng để quay lại.",
+        "time": 1769571349,
+        "translated": false
+      },
+      {
+        "author_name": "Customs HH ONE LOGISTIC",
+        "author_url": "https://www.google.com/maps/contrib/100878138318836619543/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLctgtfS2z6JhjbvwJ-ROhI6SphJ-0OBXB6xlqWKlauVE9ZCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình vừa tổ chức tiệc YEP tại nhà hàng và thật sự rất hài lòng. Không gian rộng rãi, sạch sẽ, setup chuyên nghiệp, phù hợp cho tiệc công ty. Món ăn ngon, lên món đúng giờ, trình bày đẹp và khẩu vị hợp với nhiều người.\n\nĐặc biệt muốn dành lời khen cho bạn Nhân – nhân viên hỗ trợ rất nhiệt tình, chu đáo từ khâu chuẩn bị đến lúc kết thúc buổi tiệc. Bạn Nhân xử lý nhanh, linh hoạt, luôn chủ động hỗ trợ nên chương trình diễn ra rất suôn sẻ. Cả team mình ai cũng khen 👍\n\nChắc chắn sẽ quay lại và giới thiệu nhà hàng cho bạn bè, đối tác khi có dịp tổ chức tiệc lần sau. Rất cảm ơn nhà hàng và bạn Nhân!",
+        "time": 1770345329,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 852
+  },
+  "harvested_at": "2026-04-28T16:17:41.611563"
+}

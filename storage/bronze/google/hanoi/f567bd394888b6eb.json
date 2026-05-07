@@ -1,0 +1,174 @@
+{
+  "u_key": "f567bd394888b6eb",
+  "original_osm_name": "Cộng Cà Phê",
+  "google_raw": {
+    "formatted_phone_number": "0869 353 605",
+    "geometry": {
+      "location": {
+        "lat": 21.0288138,
+        "lng": 105.8496411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0302050302915,
+          "lng": 105.8509676302915
+        },
+        "southwest": {
+          "lat": 21.0275070697085,
+          "lng": 105.8482696697085
+        }
+      }
+    },
+    "name": "Cộng Cà Phê",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–23:30",
+        "Thứ Ba: 07:30–23:30",
+        "Thứ Tư: 07:30–23:30",
+        "Thứ Năm: 07:30–23:30",
+        "Thứ Sáu: 07:30–23:30",
+        "Thứ Bảy: 07:30–23:30",
+        "Chủ Nhật: 07:30–23:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Phong Điệp baovannghetre",
+        "author_url": "https://www.google.com/maps/contrib/100262804512979783887/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIC-jBLv0DgEMbe6nMYA2k0XdIuU7eMyeKQNIgV90b9ry8f05iJA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian ấm cúng, view đẹp, giá hợp lý. Quán luôn đông nên kiếm chỗ ngồi view phố cũng khó",
+        "time": 1772118429,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Le",
+        "author_url": "https://www.google.com/maps/contrib/104854945309444258147/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMteCPOMY7cqh3V_mQtfytu6WARl5U8q5u_bDtzqYxm3Nm1w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Cộng đường Nhà Thò\n\nQuán cà phê nằm ở khu sầm uất đông đúc trước Nhà thờ lớn, góc đường giao nhau Nhà Chung và Nhà Thờ.\n\n- Quán thường xuyên đông đúc do du lịch.\n\n- Có 3 tầng, chỗ ngồi chật hẹp, ít bàn ghế.\nQuán thường hết chỗ rất nhanh lúc đông khách,  tuy nhiên các bạn cứ lên lầu là hay có chỗ rồi nhân viên tầng đấy sắp xếp cho và order tại bàn.\n\n- Nước uống khá ổn, gần tương đồng so với các chi nhánh khác.\nGiá từ 45-50 trở lên.",
+        "time": 1764083688,
+        "translated": false
+      },
+      {
+        "author_name": "Đàm Thanh Lạc",
+        "author_url": "https://www.google.com/maps/contrib/112297973414981103595/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdq9R2-xgZdN98c9uHZ0oNGV21CjUr-KUYab1qD9mUwYhfHdM=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán nhỏ đối diện nhà thờ Hà Nội, view trên gác nhìn ngắm đường phố khá thú vị. Thức uống bình thường nhưng giá hơi cao (55-60k/ ly)",
+        "time": 1763438206,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Anh Lê",
+        "author_url": "https://www.google.com/maps/contrib/109366435703873676004/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz1uIJY94oZ4TzaBrSeEzuUe_JMmwrtJZmQP4JAajMmeSxHlUU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ghé HN vào mùa thu mát trời, đi nhà thờ tham quan thấy quán đông nên vào luôn. Các bé phục vụ rất nhiệt tình dù quán rất rất đông. Điểm cộng là có ban công ngồi nhìn ra hướng nhà thờ trông rất là mùa thu HN luôn nha. Còn lại mọi thứ rất ok 👌🏻 Rất đáng trải nghiệm",
+        "time": 1769493938,
+        "translated": false
+      },
+      {
+        "author_name": "Thục Linh",
+        "author_url": "https://www.google.com/maps/contrib/112153483069510192714/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUqcqKnRo_Q3M6USIZLxKjVh4cmShFnG1xI1QT7danKnr64bw9fA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "5 tháng trước",
+        "text": "Chấm 2 sao là còn nương tay đấy!\n- Quán ngay Nhà Thờ Lớn, ăn tiền view nhìn ra nhà thờ lớn (mà cũng tuỳ chỗ mới nhìn được).\n- Ở SG cũng có Cộng, mình cũng thường xuyên đi, nhưng nước ở đây cứ là lạ. Uống xong vẫn còn nguyên 99%. Đề xuất mn nếu có đi nên thử cafe cho an toàn.\n- Quán đông ngợp thở, ngồi được 20’ là chịu hết nổi, cảm giác như khách khứa bên cạnh sắp dán vào người mình tới nơi.",
+        "time": 1764042251,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1655
+  },
+  "harvested_at": "2026-04-27T19:58:07.851814"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "e78c6c44d4b0b605",
+  "original_osm_name": "Ken Ha Noi Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0931 808 107",
+    "geometry": {
+      "location": {
+        "lat": 12.2338537,
+        "lng": 109.1945968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2352127302915,
+          "lng": 109.1959904802915
+        },
+        "southwest": {
+          "lat": 12.2325147697085,
+          "lng": 109.1932925197085
+        }
+      }
+    },
+    "name": "Ken Hà Nội restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "hung bùi",
+        "author_url": "https://www.google.com/maps/contrib/101883586789559284364/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoll6qk1zQXq0uRDQBtubqefqykKogRWnljDnaj9bjbZ9CIA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Ken Hà Nội 2 nằm trên trục đường Trần Quang Khải-thuận lợi dễ tìm kiếm, gần biển, không gian thoáng, sạch sẽ, món ăn rất tuyệt vời, ở Nha Trang 1 tuần mà chưa thưởng thức được hết các món ăn ở đây vì thực đơn rất phong phú.\nNhất định sẽ quay trở lại thưởng thức nhiều món hải sản nữa.",
+        "time": 1545203458,
+        "translated": false
+      },
+      {
+        "author_name": "Diem Huynh",
+        "author_url": "https://www.google.com/maps/contrib/103989597729380494827/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0ntEbU8NGsZ09TjA65wPHW__E99XM9g7Wq20thmecHC5VAP8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán đẹp, chủ quán thân thiện, vui vẻ, đồ ăn ngon, giá cả bình dân",
+        "time": 1730566357,
+        "translated": false
+      },
+      {
+        "author_name": "Huyen Bùi",
+        "author_url": "https://www.google.com/maps/contrib/115247200447332781601/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnjSDJlzlLxXK1j_jaxB6yKLNdLvOQtu9lefpiq_sqJ842GQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Nhà hàng phục vụ tốt, món ăn ngon.\n不错的餐厅，美味的食物。",
+        "time": 1545302938,
+        "translated": false
+      },
+      {
+        "author_name": "Khôi Huỳnh Lê Minh",
+        "author_url": "https://www.google.com/maps/contrib/105371663828188769793/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEguIAiMHPm7E0pp3zdhxAle6FSq5JEGGIAzXzropnL1c_WJixdw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán này có vài món rất lạ, ăn 1 lần cứ muốn ăn thêm. duyệt",
+        "time": 1564118493,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Vincente",
+        "author_url": "https://www.google.com/maps/contrib/114755779451855477279/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbK4nBkrRs-dd1cDofWWghvFsLYV4a8O4sBs9H-8Z0HHCWug=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Ấn tượng",
+        "time": 1747984307,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 212
+  },
+  "harvested_at": "2026-05-02T15:16:27.250655"
+}

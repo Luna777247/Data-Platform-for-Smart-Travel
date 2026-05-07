@@ -1,0 +1,164 @@
+{
+  "u_key": "a54af961e6acd7a2",
+  "original_osm_name": "Reng Reng Café",
+  "google_raw": {
+    "formatted_phone_number": "0933 653 101",
+    "geometry": {
+      "location": {
+        "lat": 21.0385455,
+        "lng": 105.8450397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0398530802915,
+          "lng": 105.8464458302915
+        },
+        "southwest": {
+          "lat": 21.03715511970849,
+          "lng": 105.8437478697085
+        }
+      }
+    },
+    "name": "RENG RENG CAFÉ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 08:00–14:00",
+        "Thứ Tư: 08:00–14:00",
+        "Thứ Năm: 08:00–14:00",
+        "Thứ Sáu: 08:00–14:00",
+        "Thứ Bảy: 08:00–17:00",
+        "Chủ Nhật: 08:00–17:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Ngọc Ánh Vũ",
+        "author_url": "https://www.google.com/maps/contrib/117853901939543261566/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEFLk4stDHw6ksZ-9tLHR2_IJt691P6GwX_gThji202ON2YhHx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Lần đầu đến thì đúg t2 bên họ nghỉ , mình qa lun ngàu hôm sau để xem sao nh bạn cứ khen chỗ nè vậy , thì đúg là cafe ngon nhaaa , giá nè thì thấy là thuộc loại rẻ nếu so sánh vs những qán cf ngoài kia 1 phần chắc cx vì mặt bằng trong ngõ , chỗ ngồi ngoài k nhiều , có tầg 2 nhưng khgian nó k được rộng lắm , túm lại là thích ngồi đâu thì ngồi , xug quanh đấy ngồi trk cửa nhà của ai được thì ngồi chỗ đó =))) thấy cx kiểu bị dân dã phết 🤣🤣 hay hay , mang cốc đi sẽ đk giảm 10k nhaaa",
+        "time": 1773370150,
+        "translated": false
+      },
+      {
+        "author_name": "Tram Ho",
+        "author_url": "https://www.google.com/maps/contrib/103838396560219795557/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWn9ZsySGURZ6JtnSVFOlGusyvR64OFzyzBD4weE3VkUKAu5iuk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cafe siêu siêu ngon cùng chiếc view siêu chill và rất Hà Nội luôn. Có thể là quán có cafe ngon nhất trong chuyến đi đợt này của mình luôn. Mình gọi Bà Nà ngon ngon lắm, ghé quán 2 lần trong chuyến đi và lần 2 mình uống tận 2 cốc luôn huhu",
+        "time": 1769790646,
+        "translated": false
+      },
+      {
+        "author_name": "Scarlett Vane",
+        "author_url": "https://www.google.com/maps/contrib/105994327122976815582/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6e4xPMDpUpg4C_invgRBvWtqTmDhM9qaFd_aWRy3BTmeKCjG1fg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cafe siêu ngon các bác ôi. Không gian thì nhỏ xíu . Tự dưng vào quán mà mấy đứa nói nhỏ hẳn hơn thường lệ , ngồi sát gần nhau hơn hẳn . Sẽ quay lại",
+        "time": 1766990249,
+        "translated": false
+      },
+      {
+        "author_name": "ThuyKTr Phong",
+        "author_url": "https://www.google.com/maps/contrib/116874689158791209859/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnmoUeGU7rapePaCouKewot0U_1iLFCy-LNevHy2QtrvChcOU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cafe ngon, hương vị rất ngon.\nCốc uống đẹp, chuẩn và đẹp.\nPhục vụ nhanh, nhẹ nhàng và lịch sự.\nChỗ ngồi khá hạn chế - trên gác nhỏ, trang trí đẹp nhẹ nhàng, có cây xanh bên chỗ ngồi ngoài ban công hẹp. Ghế nhựa nhỏ như ghế ở trường mầm non.\nKhông gian nhỏ nên quy định đi nhẹ, nói khẽ và nên cười duyên, không thuốc lá.\nDọc ngõ có nhiều chỗ ngồi, khá tạm bợ, được hút thuốc, có người thích, còn tôi thì không thích.\nCuối ngõ có 1 bác trông xe máy, 5k. Ô tô không nên vào ngõ này.\nHãy chú ý ngày và giờ khi tới đây.",
+        "time": 1761311316,
+        "translated": false
+      },
+      {
+        "author_name": "Huyen Lam",
+        "author_url": "https://www.google.com/maps/contrib/112228688638244812258/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIp1YnurMhI_hrC7IZBu8RAzI0Vz83i-SvFtMIvEaUuj1QNHg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán toàn khách lâu năm.\nNgồi san sát nhau mà được cái mọi ng nói nhỏ nên không ồn ào. Chủ yếu uống cf tí xong là về chứ không ngồi lê la quá lâu",
+        "time": 1760282646,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 830
+  },
+  "harvested_at": "2026-04-26T16:51:17.038069"
+}

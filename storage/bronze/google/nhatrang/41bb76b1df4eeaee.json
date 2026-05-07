@@ -1,0 +1,135 @@
+{
+  "u_key": "41bb76b1df4eeaee",
+  "original_osm_name": "Mây bốn mùa 1268 đường 2/4",
+  "google_raw": {
+    "formatted_phone_number": "0838 813 181",
+    "geometry": {
+      "location": {
+        "lat": 12.2541369,
+        "lng": 109.1910359
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2555193302915,
+          "lng": 109.1924142802915
+        },
+        "southwest": {
+          "lat": 12.2528213697085,
+          "lng": 109.1897163197085
+        }
+      }
+    },
+    "name": "Bốn Mùa Farm",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 04:30–18:00",
+        "Thứ Ba: 04:30–18:00",
+        "Thứ Tư: 04:30–18:00",
+        "Thứ Năm: 04:30–18:00",
+        "Thứ Sáu: 04:30–18:00",
+        "Thứ Bảy: 04:30–18:00",
+        "Chủ Nhật: 04:30–18:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Đình quý Trần",
+        "author_url": "https://www.google.com/maps/contrib/116107044310243936429/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBfuyWpwFfcBmZrq8vlPMHMf5zjFbtnBtXHR4DaEWcgknhRruT=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Hoa đẹp phục vụ tốt",
+        "time": 1753932259,
+        "translated": false
+      },
+      {
+        "author_name": "Duyên Lê",
+        "author_url": "https://www.google.com/maps/contrib/117440262325324254329/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9hEJ9J6RlaOq9GazvyWR5auD17qYJiMItTNqIzMRvCfR-oKM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "",
+        "time": 1771917105,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-05-02T15:26:34.336878"
+}

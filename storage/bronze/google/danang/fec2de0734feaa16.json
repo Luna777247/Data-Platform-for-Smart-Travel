@@ -1,0 +1,174 @@
+{
+  "u_key": "fec2de0734feaa16",
+  "original_osm_name": "Pork Bbq",
+  "google_raw": {
+    "formatted_phone_number": "0236 3712 888",
+    "geometry": {
+      "location": {
+        "lat": 16.0549127,
+        "lng": 108.2458977
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0563189802915,
+          "lng": 108.2471928802915
+        },
+        "southwest": {
+          "lat": 16.05362101970849,
+          "lng": 108.2444949197085
+        }
+      }
+    },
+    "name": "Golden Meat House",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–00:00",
+        "Thứ Ba: 10:00–00:00",
+        "Thứ Tư: 10:00–00:00",
+        "Thứ Năm: 10:00–00:00",
+        "Thứ Sáu: 10:00–00:00",
+        "Thứ Bảy: 10:00–00:00",
+        "Chủ Nhật: 10:00–00:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Summer (日夏)",
+        "author_url": "https://www.google.com/maps/contrib/112077052921187441508/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYfwrDSEb4w7bfn0863huMcwvJs3CiOwkGZkH9r9X4ctMKnNA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon, giá cả khá đắt, chủ yếu là khách Hàn, nhân viên chu đáo, ăn xong ra ngoài còn có kem free nữaaaa",
+        "time": 1773036812,
+        "translated": false
+      },
+      {
+        "author_name": "Tuyết Nhi Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/103775869075884460482/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQS0nQ0dSN4x4S6T3radwrS4o7Dt1DgRNmHtskwnQyeGKvTF-L=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đi ăn ở đây nhiều lần rồi nhưng lần nào cũng hài lòng về chất lượng món ăn và phục vụ. Điểm cộng lớn ở đây là thịt tươi nên không cần ướp ăn vẫn thấy rất ngon",
+        "time": 1772369138,
+        "translated": false
+      },
+      {
+        "author_name": "Tuyen Le",
+        "author_url": "https://www.google.com/maps/contrib/101727873076137184553/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtXUo-3kgK8pmWstL4yyGl91sTTo9YMFcw6YEPzRDE0tRknzyV=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhân viên giao tiếp nhanh nhẹn, tư vấn món ngon phù hợp cho khách. Có phòng riêng rất phù hợp đi gia đình. Đồ ăn ngon, có nhân viên nướng tại bàn",
+        "time": 1771586666,
+        "translated": false
+      },
+      {
+        "author_name": "STORE2023 HENRY",
+        "author_url": "https://www.google.com/maps/contrib/116840370343730885241/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2r_kjIsy-ZjSsEkPELtQ7iiRdPYRmcQiGKqg1avjvchhN9g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình vừa đi ăn thịt nướng ở đây. Đồ ăn nGon, thịt tươi. Nhân viên phục vụ nhẹ nhàng, khi cần hỗ trợ thì có mặt kịp thời, Không gian sạch sẽ, phù hợp đi ăn cùng bạn bè hoặc gia đình. Se quay lại.",
+        "time": 1772118283,
+        "translated": false
+      },
+      {
+        "author_name": "Anh cao thi hai",
+        "author_url": "https://www.google.com/maps/contrib/116277385452122647310/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBFhl1PRmswEu0MKZZrtDmi7l_2LqAX-2SAwjv0ERfvv5HC6hb=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhóm mình 3 người lớn và 5 trẻ em ghé Golden Meat House ăn BBQ kiểu Hàn. Tổng bill 1.339.200đ cho cả nhóm là hợp lý so với chất lượng thịt.\n\nThịt nướng khá ngon, đặc biệt sườn bò non rút xương và nạc dăm heo ướp nướng lên thơm, mềm. Món kèm như miến lạnh, trứng hấp, cơm trứng cũng ổn, dễ ăn cho cả người lớn lẫn trẻ nhỏ.\n\nQuán đông, nhất là giờ cao điểm nên có thể phải ngồi đợi một chút, nhưng bù lại phục vụ nhanh tay và thay vỉ liên tục. Không gian thoáng, bàn nướng lớn nên nhóm đông vẫn thoải mái.\n\nĐiểm cộng nhỏ mà dễ thương: sau khi ăn có kem miễn phí cho mọi người, bọn trẻ con thích lắm.\n\n💖 Ưu điểm\n•\tThịt tươi, ướp ngon, nướng lên thơm.\n•\tMón phụ đa dạng, trứng hấp ngon.\n•\tBàn nướng rộng, phù hợp nhóm đông.\n•\tGiá ổn cho 3 người lớn + 5 trẻ em.\n•\tCó kem miễn phí sau bữa ăn.\n\n👌 Hạn chế\n•\tGiờ cao điểm hơi đông và có thể phải đợi bàn.\n\nTổng kết: Ngon – giá hợp lý – trẻ con mê, người lớn cũng hài lòng.",
+        "time": 1765290639,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6874
+  },
+  "harvested_at": "2026-04-28T16:39:43.575237"
+}

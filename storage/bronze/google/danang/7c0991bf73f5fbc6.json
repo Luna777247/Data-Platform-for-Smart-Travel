@@ -1,0 +1,173 @@
+{
+  "u_key": "7c0991bf73f5fbc6",
+  "original_osm_name": "Korean restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0982 902 916",
+    "geometry": {
+      "location": {
+        "lat": 16.0678896,
+        "lng": 108.2396865
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0692733802915,
+          "lng": 108.2411991802915
+        },
+        "southwest": {
+          "lat": 16.0665754197085,
+          "lng": 108.2385012197085
+        }
+      }
+    },
+    "name": "Busan Korean Food (부산국밥집,한국식당) ,",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–23:30",
+        "Thứ Ba: 06:30–23:30",
+        "Thứ Tư: 06:30–23:30",
+        "Thứ Năm: 06:30–23:30",
+        "Thứ Sáu: 06:30–23:30",
+        "Thứ Bảy: 06:30–23:30",
+        "Chủ Nhật: 06:30–23:30"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Hoàng Nhật",
+        "author_url": "https://www.google.com/maps/contrib/112831692132884440508/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9r_zqAYs0u8Z7ot1thJOfz1t4X6xWVjGNHLelatyAQ6Znew=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Canh xương bò quá ngon, kim chi, củ cải đậm vị. Tôi đã ghé vào đây vào một ngày mưa và lạnh, và bát canh đã giúp tôi cảm thấy ấm áp hơn. Vị chủ quán tốt bụng, mọi thứ tuyệt vời",
+        "time": 1763567994,
+        "translated": false
+      },
+      {
+        "author_name": "Quyết Phạm",
+        "author_url": "https://www.google.com/maps/contrib/104823068822375311874/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOSL6MdvOl5HZ5YbLxxkoNuYv62CJitAqwpJCu9CqQAkAMC6g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán sạch sẽ, đồ ăn ra nhanh, chị chủ rất thân thiện và mến khách. Đặc biệt là đồ ăn rất rất ngon các món ăn kèm như kim chi, củ cải muối ngon không kém, vừa vị ăn rất cuốn. Đáng để thử lắm nè mọi người 🥰",
+        "time": 1767709056,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Uyen Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110510716684893728113/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkWQHtkXp4KLHIRoPRxYRrKNnJaR86TJz3h9L9TioCfddAFfBwAw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Súp rất ngon & nhiều. Panchan ngon vs siêu nhiềuuu",
+        "time": 1769175791,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Maria",
+        "author_url": "https://www.google.com/maps/contrib/103434519812349438930/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2cMMTENIU7wGleVzSHO9S2A4O5XIv972dPylxrA3Wxj34N7kg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon chuẩn vị hàn giá thành hợp với tất cả mọi người, mình ăn ở đây từ lúc quán cũ đã rất lâu quán mới mở lại mà vẫn ngon hi",
+        "time": 1766402598,
+        "translated": false
+      },
+      {
+        "author_name": "cong cam van",
+        "author_url": "https://www.google.com/maps/contrib/118157269698890522927/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNFtbFLn4wgnax-bU_C2MgZ0u5Fr102utE15lmWmj4QtbVWA77=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Món ngon, giá cả hợp lý cho tất cả mọi người luôn chứ không phải dân Hàn Quốc mới được ăn nhé. MN nên lưu địa chỉ để lúc nào đến thưởng thức vs cảm nhận",
+        "time": 1766405861,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 74
+  },
+  "harvested_at": "2026-04-28T16:43:55.089253"
+}

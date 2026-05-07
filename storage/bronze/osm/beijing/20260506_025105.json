@@ -1,0 +1,32 @@
+[
+  {
+    "id": "node/1",
+    "name": "The Palace Museum",
+    "lat": 39.9163,
+    "lon": 116.3972,
+    "type": "tourism",
+    "amenity": "museum",
+    "u_key": "70c66c0ae271d450",
+    "ingestion_at": "2026-05-06T02:51:05.019571"
+  },
+  {
+    "id": "node/2",
+    "name": "Temple of Heaven",
+    "lat": 39.8822,
+    "lon": 116.4066,
+    "type": "tourism",
+    "amenity": "place_of_worship",
+    "u_key": "98b0b16833d91af4",
+    "ingestion_at": "2026-05-06T02:51:05.019571"
+  },
+  {
+    "id": "node/3",
+    "name": "Summer Palace",
+    "lat": 40.0,
+    "lon": 116.2733,
+    "type": "tourism",
+    "amenity": "park",
+    "u_key": "5e593e26ce20977d",
+    "ingestion_at": "2026-05-06T02:51:05.019571"
+  }
+]

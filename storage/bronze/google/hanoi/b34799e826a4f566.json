@@ -1,0 +1,173 @@
+{
+  "u_key": "b34799e826a4f566",
+  "original_osm_name": "Unnamed",
+  "google_raw": {
+    "formatted_phone_number": "0912 891 818",
+    "geometry": {
+      "location": {
+        "lat": 21.0614596,
+        "lng": 105.8318494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0627229302915,
+          "lng": 105.8331381802915
+        },
+        "southwest": {
+          "lat": 21.0600249697085,
+          "lng": 105.8304402197085
+        }
+      }
+    },
+    "name": "Nameless Bar",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 18:30–02:00",
+        "Thứ Ba: 18:30–02:00",
+        "Thứ Tư: 18:30–02:00",
+        "Thứ Năm: 18:30–02:00",
+        "Thứ Sáu: 18:00–02:00",
+        "Thứ Bảy: 18:00–02:00",
+        "Chủ Nhật: 18:00–02:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "akkjk ackn",
+        "author_url": "https://www.google.com/maps/contrib/103040356261266131992/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJX9WW_VqbxO7ST_mMP3sm-hQiUJIblg8loPJu0C64hvXWQlw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Đi mấy chục cây số rõ xa, mà đến nơi chủ quán bảo chị ko quen em nên chị ko bán hàng. Quá buồn",
+        "time": 1740399324,
+        "translated": false
+      },
+      {
+        "author_name": "Tuyen Dao Vu",
+        "author_url": "https://www.google.com/maps/contrib/118288802162548464324/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPG2ekOejYxMBHu7UvwWshtejXNfQSH4xYAMWXifHf6X2c7vau=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán đẹp, đồ uống phong phú cùng cô chủ duyên dáng. Tốt nhất là biết tiếng Anh khi đến đây.",
+        "time": 1658080319,
+        "translated": false
+      },
+      {
+        "author_name": "HTV hungviet",
+        "author_url": "https://www.google.com/maps/contrib/104256683238758327587/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3fwCKlg0JpA09exzZRmWG6SEXPHyclBsyC9ep2fwHcEni48jj=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 1,
+        "relative_time_description": "4 năm trước",
+        "text": "K ra gì.",
+        "time": 1644640701,
+        "translated": false
+      },
+      {
+        "author_name": "Khê Vũ",
+        "author_url": "https://www.google.com/maps/contrib/110547313779266267297/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPvs39CrVxUNW8mXxHP1fynZ5DdVnZP4Gr6CUIQLx-BawfUz7Z=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Trên cả tuyệt vời 🌹",
+        "time": 1715681821,
+        "translated": false
+      },
+      {
+        "author_name": "Rosie Polden",
+        "author_url": "https://www.google.com/maps/contrib/116573545544400343401/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpE-kt3u7TO5COcbJk8X9AUaLF2pEQwYk4WGnehXZ8zo69ZQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không khí ở đây thật tuyệt vời. Có rất nhiều động vật đáng yêu được chăm sóc chu đáo và rất thân thiện. Chúng tôi đã được vuốt ve chú mèo Pillow rất nhiều lần, và cô chủ còn cho chúng tôi gặp tất cả các chú chó nữa. Vu rất dễ thương, chúng tôi đã đến đây nhiều lần và anh ấy nhớ chúng tôi nên đã pha cho chúng tôi những cốc sô cô la nóng tuyệt ngon. Chắc chắn sẽ quay lại, đặc biệt là vào ngày 20 tháng 4 vì không khí ở đây rất thân thiện ;)",
+        "time": 1770456572,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 76
+  },
+  "harvested_at": "2026-04-26T12:45:30.408306"
+}

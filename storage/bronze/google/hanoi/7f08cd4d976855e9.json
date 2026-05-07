@@ -1,0 +1,244 @@
+{
+  "u_key": "7f08cd4d976855e9",
+  "original_osm_name": "Sui Cao (Chinese Dumplings)",
+  "google_raw": {
+    "formatted_phone_number": "024 3232 1686",
+    "geometry": {
+      "location": {
+        "lat": 21.0294608,
+        "lng": 105.8124135
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03075718029151,
+          "lng": 105.8137901302915
+        },
+        "southwest": {
+          "lat": 21.0280592197085,
+          "lng": 105.8110921697085
+        }
+      }
+    },
+    "name": "Trung Hoa Đệ Nhất Sủi Cảo NCT(中華餃子王一店)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–14:00, 16:30–21:30",
+        "Thứ Ba: 09:00–14:00, 16:30–21:30",
+        "Thứ Tư: 09:00–14:00, 16:30–21:30",
+        "Thứ Năm: 09:00–14:00, 16:30–21:30",
+        "Thứ Sáu: 09:00–14:00, 16:30–21:30",
+        "Thứ Bảy: 09:00–14:00, 16:30–21:30",
+        "Chủ Nhật: 09:00–14:00, 16:30–21:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Duy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101502708081823517505/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW92F8tC6w2gPd3TCT0UkFlG_WslhAi7t9Fzl7bh-ixkap0LU2Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "- Quán ngoài mặt đường, dưới chân cầu vượt nhưng hơi khó nhìn vì biển bảng ko rõ\n- KH thì khá nhiều khách TQ, có vẻ đồ ăn cx đậm vị TQ\n- Menu đa dạng, nhưng ko có bánh bao kim sa\n- NV cx ngoan ngoãn nhưng hi vọng nhanh nhẹn hơn chút",
+        "time": 1762504796,
+        "translated": false
+      },
+      {
+        "author_name": "Ánh Vũ Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/108031103782787685860/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLh61xDWKlaTSCVE5f5WSTnj1_ZpQk8CJOW5pDTcBFybuv7nOf=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Lúc xem review vô cùng hào hứng, nhưng xem ra đồ ăn chuẩn TQ quá lại chưa hợp với  nhu cầu ăn nhạt và vỏ mỏng quá mình 😅😅😅\nCũng có thể do bạn mình chưa biết cách gọi món, hương vị cũng phong phú,đậm đà và cay, đồ cũng khá tươi ngon và đc làm cẩn thận chứ ko phải đông lạnh r hấp lên phục vụ như 1 số quán.",
+        "time": 1761179718,
+        "translated": false
+      },
+      {
+        "author_name": "Hang Do",
+        "author_url": "https://www.google.com/maps/contrib/109968728750317140146/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDL1JGy_wSVFo4BblK06rISt9iMzkdZZhJu56fYg8moOByWQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ Trung ngon nhé, mình đã ăn 2 lần ở đây, mọi người đi cùng đều khen ngon. Mình vốn dĩ không thích ăn sủi cảo nhưng cũng thấy khá ngon. Mì bò hơi dầu mỡ, bọn mình ăn không hết để thừa lại món này vì hơi ngấy (nghe nói đồ Trung nhiều dầu mỡ kiểu vậy). Phục vụ nhanh nhẹn, tầng 1 có vài bàn trải khăn trải bàn con công, quán nhìn kiểu bình dân, giá cả chấp nhận được. Nhóm mình 4 người, ăn ít nên bill chưa tới 600k.\nQuán có 3 cơ sở, có ảnh thông tin các cơ sở và pass wifi nhé 😀",
+        "time": 1723288171,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Minh Hải",
+        "author_url": "https://www.google.com/maps/contrib/107188589778769006938/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcvcGsODoLJl2aTI4OJRZ6Y7Zsu48zxW7ZymVfG3I5pTZ1e4Zx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Món ngon, tiếc là không có bánh bao kim sa, không gian ổn, nhân viên nhiệt tình",
+        "time": 1761312745,
+        "translated": false
+      },
+      {
+        "author_name": "Phượng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110345851440792122952/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcmcqwE_sKqMaQmnKblkxMGPPjMD2RhCVZVVBkigc79wLN9_K0=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 tháng trước",
+        "text": "Nhân viên phục vụ cực kì yếu kém, thái độ cũng kém. Đồ ăn ngon nhưng món canh cá nhiều xương dăm.\nQuán ăn thì có gián, bâu cả vào người khách, khiếp khủng…",
+        "time": 1747749901,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 587
+  },
+  "harvested_at": "2026-04-28T16:13:16.887000"
+}

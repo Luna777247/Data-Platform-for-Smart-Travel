@@ -1,0 +1,173 @@
+{
+  "u_key": "32d76258484aebbb",
+  "original_osm_name": "Phu Thien",
+  "google_raw": {
+    "formatted_phone_number": "0975 939 317",
+    "geometry": {
+      "location": {
+        "lat": 16.0884997,
+        "lng": 108.2491138
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0898197302915,
+          "lng": 108.2504501802915
+        },
+        "southwest": {
+          "lat": 16.0871217697085,
+          "lng": 108.2477522197085
+        }
+      }
+    },
+    "name": "ĐẶC SẢN THIÊN PHÚ , SIÊU THỊ THIÊN PHÚ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Chiến Đinh Phúc",
+        "author_url": "https://www.google.com/maps/contrib/114318339378294529102/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiJPlpfYgn6W2NdBJ8p7tw0dCNAus5eytJvk8iHCXamPyZmH1s4Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Địa điểm ngay mặt đường, Rộng rãi\nChủ yếu là bánh kẹo, đồ khô không nhiều",
+        "time": 1752054842,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Linh",
+        "author_url": "https://www.google.com/maps/contrib/115788568356413264001/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKabn7B347PqRUumu7vXmliIk8Ty2TeJwnwVvbMKKKDJbpz5txG=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Siêu Thi mua sắm các đặc sản địa phương,\nGiá cả cao,\nSieu thị mới nên các mẫu hành hoá chưa đa dạng, cần bổ sung thêm .",
+        "time": 1690170078,
+        "translated": false
+      },
+      {
+        "author_name": "cuchuoirung cuchuoi",
+        "author_url": "https://www.google.com/maps/contrib/100550922902415951296/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWfmmfqwh59aPJXnHe55yho31773Fqtr6Cw0HcBIQl0ehlAAvG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Rất ôm vì giá cả họp lý và các nhân viên nhiệt tình",
+        "time": 1748416869,
+        "translated": false
+      },
+      {
+        "author_name": "ThiThanhPhuong Tran",
+        "author_url": "https://www.google.com/maps/contrib/105385540880177960398/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9x-ojxfleueZlmqRrbuMXhlUboQUQYCShE6m69lkFCd3DiHR7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Shop có nhiều mặt hàng phong phú; giá cả niêm yết hợp lý. Rất dễ dàng chọn mua đồ về làm quà. Nhân viên tư vấn thân thiện; nhiệt tình",
+        "time": 1756804135,
+        "translated": false
+      },
+      {
+        "author_name": "Quyến Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113566171547307014704/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsYQAlIi3_Vk60TH6XhuasHH-Y7g2ifej2mFsDcs20__Ab_Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "7 tháng trước",
+        "text": "Không gian bán hàng sạch sẽ thoáng mát, nhiều mặt hàng, nhân viên nhiệt tình (cho t ăn thử và tư vấn sp khi t cần). Nhưng có 1 điểm làm t không hài lòng ở hộp mực rim me này. T mua hộp 500g ăn nửa hộp thì phát hiện ra bên trong độn thêm hộp sốt y chang. Vấn đề là nhân viên và trên bao bì không thông tin cho t biết có sự xuất hiện của lọ sốt này nên t hơi nghi ngờ về sự UY TÍN của cửa hàng về sản phẩm này. Đến nước này r, t không thể quay lại check xem bỏ lọ sốt ra có đủ 500g không:)))",
+        "time": 1757766810,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 167
+  },
+  "harvested_at": "2026-04-28T16:40:00.033846"
+}

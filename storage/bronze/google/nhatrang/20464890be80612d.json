@@ -1,0 +1,173 @@
+{
+  "u_key": "20464890be80612d",
+  "original_osm_name": "Viet Trung",
+  "google_raw": {
+    "formatted_phone_number": "0373 243 650",
+    "geometry": {
+      "location": {
+        "lat": 12.2343774,
+        "lng": 109.1956199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2357802802915,
+          "lng": 109.1970624802915
+        },
+        "southwest": {
+          "lat": 12.2330823197085,
+          "lng": 109.1943645197085
+        }
+      }
+    },
+    "name": "Viet - Trung",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–00:00",
+        "Thứ Ba: 11:00–00:00",
+        "Thứ Tư: 11:00–00:00",
+        "Thứ Năm: 11:00–00:00",
+        "Thứ Sáu: 11:00–00:00",
+        "Thứ Bảy: 11:00–00:00",
+        "Chủ Nhật: 11:00–00:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "XA QUÊ ÔNG BÀ",
+        "author_url": "https://www.google.com/maps/contrib/111159665077116636864/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuZBoJ-xbQsfq7AXxa8krByKwtcafAx_GzvMufkyIbDO2eBXpp5g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Tốt\nĐồ ăn ngon hợp khẩu vị cho cả trung quốc, việt nam và âu",
+        "time": 1520048624,
+        "translated": false
+      },
+      {
+        "author_name": "Vitaly Fauzer",
+        "author_url": "https://www.google.com/maps/contrib/111908954836091389907/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYTgSmGdm1EI5dwsW0aIaZPmbYCbJLSLzs1z7LCicnG1em8w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "9 năm trước",
+        "text": "Không gian khó chịu, sàn nhà trơn trượt. Khẩu phần ăn nhỏ. Một nửa món ăn ngon, nửa còn lại thì không ngon lắm. Họ tính sai hóa đơn. Xếp hạng trên Trip Advisor rõ ràng là bị thổi phồng.\n\nNước ép loãng.",
+        "time": 1488637314,
+        "translated": true
+      },
+      {
+        "author_name": "Artur Tarchynskyi",
+        "author_url": "https://www.google.com/maps/contrib/101526509160445744438/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp-K0RGF8UEzUWYJZ542UMUdp9Vt8EtTIFDlc63Wn135wCzZvE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Một nơi tuyệt vời để ăn tối. Hải sản luôn tươi ngon. Chủ quán nói được nhiều thứ tiếng, bao gồm cả tiếng Nga. Giá cả khá phải chăng so với các nhà hàng tương tự khác. Tôi khuyên bạn nên ghé thăm.",
+        "time": 1481083575,
+        "translated": true
+      },
+      {
+        "author_name": "chengming zhang",
+        "author_url": "https://www.google.com/maps/contrib/112885640562850860746/reviews",
+        "language": "vi",
+        "original_language": "zh",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxNkFCpQvNsUW9d0Lhdmn7Bgr6Sl2HjIy39NVN7w4kAPZn2GRN8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Nhà hàng hiện có tên là Nhà hàng Yuezhong, do người đến từ Thành Đô, Tứ Xuyên điều hành. Giá cả tương đương với ở Thành Đô, Trung Quốc, và đồ ăn khá ngon.",
+        "time": 1485322403,
+        "translated": true
+      },
+      {
+        "author_name": "Ray",
+        "author_url": "https://www.google.com/maps/contrib/112336592086976691579/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUchSAR5HCYB9STYRJAqma6uGEzdgtd3LPZR2AbuAnxR9DshlLgzA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "Không gây khó chịu và hương vị cũng ổn",
+        "time": 1489729374,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 7
+  },
+  "harvested_at": "2026-05-02T15:25:06.253518"
+}

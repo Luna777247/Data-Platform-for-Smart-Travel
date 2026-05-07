@@ -1,0 +1,172 @@
+{
+  "u_key": "b435dca86331905d",
+  "original_osm_name": "Cà Phê E-Paso",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0119112,
+        "lng": 105.8503184
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.01326033029151,
+          "lng": 105.8517235802915
+        },
+        "southwest": {
+          "lat": 21.0105623697085,
+          "lng": 105.8490256197085
+        }
+      }
+    },
+    "name": "E-Paso Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Nga Phạm",
+        "author_url": "https://www.google.com/maps/contrib/101097448574130093997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJlAhNEoz8p-T87I1xlKMV0uYUrnI7DzkdbPon8hq3hBMuv6Y=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "E-Paso Coffee tại phố Triệu Việt Vương mang đến một không gian thư giãn lý tưởng giữa lòng Hà Nội. Quán có thể có thiết kế hiện đại, ấm cúng hoặc pha chút cổ điển, tạo cảm giác thoải mái cho khách hàng. Menu đồ uống chắc hẳn rất đa dạng, từ những ly cà phê đậm đà hương vị Việt đến các loại trà, sinh tố tươi mát, phù hợp với mọi sở thích. Dịch vụ tại quán luôn được chú trọng, với đội ngũ nhân viên thân thiện và chuyên nghiệp, đảm bảo mang lại trải nghiệm tốt nhất cho mỗi vị khách. Để không gian thêm phần sống động và tương tác, E-Paso Coffee có thể tích hợp Tuneast, cho phép khách hàng chủ động lựa chọn và bình chọn những bản nhạc yêu thích, biến mỗi khoảnh khắc tại quán thành một trải nghiệm âm nhạc độc đáo và cá nhân hóa.",
+        "time": 1770882542,
+        "translated": false
+      },
+      {
+        "author_name": "Trịnh Duy Anh",
+        "author_url": "https://www.google.com/maps/contrib/114298173244941781608/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvD3QyYO9uh2bc9vMLxG0wEDcRO8euitbgeGjBaZheRxlPhVGa=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Cafe ngon cốc cafe sữa khá thơm,quán bé khá bình dân cafe vỉa hè giá rổ tốt nhưng chất lượng đồ uống hơn mong đợi một chỗ xứng đáng quay lại nếu đi xe máy ô tô thì đỗ hơi phiền và mất phí ở đây",
+        "time": 1709859919,
+        "translated": false
+      },
+      {
+        "author_name": "Phúc Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/111416734384520248261/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZpQEPQzdHtRQ5VVff1NQbMEte1G6IXkHv4nZUCdXwnimpAJO0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán ruột của mình 8 năm nay! Chất lượng đồ uống và phục vụ cực kỳ tốt, không gian tuy nhỏ nhưng rất ấm cúng, phù hợp đi nhóm nhỏ, rất dễ chịu",
+        "time": 1752575263,
+        "translated": false
+      },
+      {
+        "author_name": "Hao Nguyen Manh",
+        "author_url": "https://www.google.com/maps/contrib/107159941237397056768/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXONZjFz5t_EAdokc_7ecBxh1UtlmiNEfRIyWKs3Yiu3Jzek47y=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Đồ uống ngon, quán đơn giản.\nNhân viên phục vụ kém",
+        "time": 1570458510,
+        "translated": false
+      },
+      {
+        "author_name": "Phuc Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111471087687464598418/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc8xZMgvpzaamX1oO6m3TUv-HIXvy4nGx8S3ShO1b78ZM8f1Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "ngon hình ảnh đẹp ok nè",
+        "time": 1765546851,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 83
+  },
+  "harvested_at": "2026-04-26T16:53:12.732823"
+}

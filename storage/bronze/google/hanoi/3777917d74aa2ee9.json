@@ -1,0 +1,173 @@
+{
+  "u_key": "3777917d74aa2ee9",
+  "original_osm_name": "Akaari Japanese Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0911 322 266",
+    "geometry": {
+      "location": {
+        "lat": 21.0645437,
+        "lng": 105.7980341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0659648802915,
+          "lng": 105.7992295802915
+        },
+        "southwest": {
+          "lat": 21.0632669197085,
+          "lng": 105.7965316197085
+        }
+      }
+    },
+    "name": "AKAARI Premium",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Thủy Nguyễn Thu",
+        "author_url": "https://www.google.com/maps/contrib/101364139995990669520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeKPXZc02dVOswMGA52_LKeeLkF2rngW0tIaUbAM7gFuC6XA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán này là quán quen của cả nhà mình mỗi dịp có kỉ niệm ngày cưới, sinh Nhật, ngày lễ là auto chọn quán này luôn, đồ ăn ngon, phục vụ cũng nhiệt tình, mình thử gần hết các món trong menu thấy đều ưng, đi gia đình setup phòng riêng tư, ko gian rất dễ chịu ạ",
+        "time": 1761756404,
+        "translated": false
+      },
+      {
+        "author_name": "Lý Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/103655832167169055730/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu4g_e_zYxvb4Md_3trTuDM8NZ-XCqTxKo0OipKea22znyaA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Rất hài lòng với dịch vụ và đồ ăn của nhà hàng đặc biệt nhà hàng dạo này đa dạng menu mới tươi ngon…\nNhân viên thân thiện",
+        "time": 1742988121,
+        "translated": false
+      },
+      {
+        "author_name": "Le Bui",
+        "author_url": "https://www.google.com/maps/contrib/118319427964151691516/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8W7nkO3f4fwcmCo1w2oHgxA6HrG51RMqplhUbQHmVyJ8TDw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Đồ ăn quá tuyệt vời 👌\nmình quay lại vì nhân viên phục vụ quá tốt ,thân thiện ,quá đẹp và xinh gái\nkhông gian tổ chức tiệc sang trọng ,thoải mái",
+        "time": 1747234017,
+        "translated": false
+      },
+      {
+        "author_name": "Hao Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115753252714963491470/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtfZgq8kekHPIlNGBEvuHLgUGHA8tBn_0IqK3BE2JAM8yBDC4b_g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, chuẩn vị nhật\nTrang trí đẹp mắt.\nNhân viên phục vụ tốt",
+        "time": 1729492983,
+        "translated": false
+      },
+      {
+        "author_name": "3Tshop Hàng Nhật",
+        "author_url": "https://www.google.com/maps/contrib/107511813998925176097/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTj5kW_qYS_--uaRSOUvTjN2kzwFFz99eyWhJ2PzNZJhIhjp8BYw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Đây là một quán mới mở khoảng gần một tháng đánh giá về ngoại quan: Decor thì rất ok thái độ phục vụ cũng rất tuyệt vời.\nTuy nhiên thì có một vài điểm trừ mà mình nghĩ rằng nếu như anh chị chủ của hệ thống này đọc được hy vọng anh chị sẽ cải thiện trong thời gian tới (mình thì mình sẽ vẫn quay lại nhà hàng dùng bữa để trải nghiệm sự thay đổi sau 1 tgian nữa)\n\n➖Thứ nhất mình ngồi phòng riêng nhưng mà ở phần dưới chân ấy khá là sạn và bụi cảm giác không sạch sẽ cho lắm.\n➖Thứ hai là trong đáy của cái rổ đựng Tempura thì lại dùng cái hóa đơn của một khách hàng cũ chứ không phải là giấy thấm dầu ( rất của mực in cũng là một cái loại chất độc và nó vẫn là một thứ không nên dùng trong đồ ăn đặc biệt là một nhà hàng cao cấp như Akaari Premium)\n➖Thứ ba món thịt gà chiên Karaage thực sự rất nhạt nhẽo và có thể nói là mình đánh giá khá tệ tôi nghĩ khéo ko ngon bằng mình tự làm😀\n\n➖Thứ tư là sushi cảm giác chưa được tươi ngon, phần thịt cá hơi bở nhão, chưa cảm thấy độ giai giòn và chưa đạt độ chuẩn vị Nhật cho lắm\n➖ Món mì ra men Tantan タンタン cũng rất là bình thường có lẽ đầu bếp chưa thạo các loại mì nên cảm giác vị không được cân bằng.",
+        "time": 1659927490,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 63
+  },
+  "harvested_at": "2026-04-28T16:13:33.136215"
+}

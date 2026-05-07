@@ -1,0 +1,174 @@
+{
+  "u_key": "bedc0b5026e11f76",
+  "original_osm_name": "MC",
+  "google_raw": {
+    "formatted_phone_number": "0258 3905 111",
+    "geometry": {
+      "location": {
+        "lat": 12.2408287,
+        "lng": 109.1961566
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2423139802915,
+          "lng": 109.1975450302915
+        },
+        "southwest": {
+          "lat": 12.2396160197085,
+          "lng": 109.1948470697085
+        }
+      }
+    },
+    "name": "McDonald's",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Thủy Kim",
+        "author_url": "https://www.google.com/maps/contrib/104463191764376576888/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd8i6_Ql-FI6298Ku0tLY7qglKIBizTRgy4xCdssfTj_QHquXqXQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "đã đi chi nhánh này nhiều lần, vị trí trung tâm, không gian sạch sẽ, hai tầng, nhân viên lịch sự, đồ ăn ngon hợp khẩu vị, những lúc đông có thể hơi lâu có món, sẽ quay lại nhiềuuu",
+        "time": 1761619841,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Nguyen Quang",
+        "author_url": "https://www.google.com/maps/contrib/107264877345606474123/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNSB4r7DgjMmdduqTdBIvByjhQXi88NPqRVaHH4fPY0wwrgWQj=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nhân viên quầy thái độ, mình order xong ra thanh toán tiền mặt mà nhân viên nhìn thái độ lắm, xong mình order lần 2 thêm món thì nhân viên bỏ đi vào trong hết luôn, mọi người xếp hàng đợi rất lâu nhưng không thấy ai ra tính tiền hết",
+        "time": 1764510474,
+        "translated": false
+      },
+      {
+        "author_name": "A Yong Lee",
+        "author_url": "https://www.google.com/maps/contrib/112415315521884908607/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6Oe1k7PiabmRAAUET7sIbE95EKLA5Q3nqyAYCylDLjWj68TU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "3 tháng trước",
+        "text": "Tệ\nĐã ăn nhiều lần và rất thích vì đồ ăn lúc nào cũng nóng giòn ăn vừa miệng\nNhưng trải nghiệm lần này cực kì tệ\nĐồ ăn thì nguội tanh\nKhoai Tây chiên mềm nhũng",
+        "time": 1768054049,
+        "translated": false
+      },
+      {
+        "author_name": "YoungLife TiVi",
+        "author_url": "https://www.google.com/maps/contrib/108697771738706696043/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWinJUtJC89JY1V8stagU7Her3s4zCxnw7eeuyxm_xJ8txBrw_b=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cũng y như các chi nhánh khác chỉ có điều là ko bán qua đêm thôi.",
+        "time": 1759944946,
+        "translated": false
+      },
+      {
+        "author_name": "Shin Bi",
+        "author_url": "https://www.google.com/maps/contrib/103100338327648902089/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWp81qeCjKaW8Txuon82EnO9lkAvCmZUur8FdmHNyl_4RFMBnKL=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tài xế vô lấy đơn cho khách gọi đọc mã đơn mà nhân giên trơ mắt nhìn chứ chẳng thèm nói đu chỉ 1 câu dạ a đợi xíu, thái độ coi thường tài xế",
+        "time": 1771476873,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1420
+  },
+  "harvested_at": "2026-05-02T15:28:10.511008"
+}

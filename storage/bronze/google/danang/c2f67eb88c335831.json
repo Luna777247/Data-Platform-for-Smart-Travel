@@ -1,0 +1,109 @@
+{
+  "u_key": "c2f67eb88c335831",
+  "original_osm_name": "Sauce Nuoc Mam",
+  "google_raw": {
+    "formatted_phone_number": "0796 766 266",
+    "geometry": {
+      "location": {
+        "lat": 16.0617663,
+        "lng": 108.2189862
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0631291802915,
+          "lng": 108.2203402802915
+        },
+        "southwest": {
+          "lat": 16.0604312197085,
+          "lng": 108.2176423197085
+        }
+      }
+    },
+    "name": "Mắm Dì Cẩn Đà Nẵng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Jenny Pham",
+        "author_url": "https://www.google.com/maps/contrib/114244535582724793070/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFfmvUsIwnj4c7Qifm9reVSqiRtMGTYwwlQmcRpNQSfQsUqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mắm Dì Cẩn luôn là số 1 trong lòng mình. Nhân viên phục vụ rất nhiệt tình, hỗ trợ ship rất nhanh. Highly recommend.",
+        "time": 1772112107,
+        "translated": false
+      },
+      {
+        "author_name": "trang huyen",
+        "author_url": "https://www.google.com/maps/contrib/118169272091968032841/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmKtOp3YgvAqlQ-mkLnsSua_8fAXffVsGurecEBiQQ70u3_KytUw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Fan mắm Dì Cẩn đâu ạ? cuốn , ngon, sạch sẽ ưng cái bụng lắm shop ơi.\nvoiw mình thì mắm nêm là chân ái trong lòng mình",
+        "time": 1764495304,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Quân Lê",
+        "author_url": "https://www.google.com/maps/contrib/113377215272245605350/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr4zNaQwVIksQ8k1rEC6A_Dt4N_RfzKbRp9DkO4S-hJaKfJBU=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Tôi được dân local recommend dì Thương. Không thấy địa điểm ở trên Google nên review tạm vào đây lấy tí điểm. Mắm dì Thương rất ngọt nhưng rất ngon. Nhà tôi mua đâu đấy chục hộp ăn nhòe và vẫn thèm.\nNhất định sau này quay lại Đà Nẵng sẽ mua gấp đôi số lần trước.\n\nAi có nhu cầu cứ hỏi dân trong chợ họ sẽ biết.",
+        "time": 1756374863,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115522784236081144074/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLFcYbYiUBHAoKiqgGG957PIiWhcHcB2mI-rZBl3mtTt7kw7A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình đã mua các loại mắm và mắm nào cũng rất ngon.",
+        "time": 1771994575,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Phương Nhi Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115548794088332418225/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJE7eNpXE0S40rE_ykXCGNphBKZnXbyf8sBC6x71bLjyVB26g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mắm ngon lắm nghe shop. Uy tín 😄",
+        "time": 1764505279,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 33
+  },
+  "harvested_at": "2026-04-28T16:39:40.767100"
+}

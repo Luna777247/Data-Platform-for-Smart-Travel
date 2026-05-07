@@ -1,0 +1,173 @@
+{
+  "u_key": "68eb39014af2d3bc",
+  "original_osm_name": "1",
+  "google_raw": {
+    "formatted_phone_number": "0774 184 002",
+    "geometry": {
+      "location": {
+        "lat": 12.2415625,
+        "lng": 109.1915625
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2429422302915,
+          "lng": 109.1928728302915
+        },
+        "southwest": {
+          "lat": 12.2402442697085,
+          "lng": 109.1901748697085
+        }
+      }
+    },
+    "name": "NhaTrang Babershop",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:00",
+        "Thứ Ba: 10:00–21:00",
+        "Thứ Tư: 10:00–21:00",
+        "Thứ Năm: 10:00–21:00",
+        "Thứ Sáu: 10:00–21:00",
+        "Thứ Bảy: 10:00–21:00",
+        "Chủ Nhật: 10:00–21:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Lat Muong",
+        "author_url": "https://www.google.com/maps/contrib/105439164811084389501/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgAUPgu9fddhiB_25CuwIIWATl4MIPLQxRNGkLl1cTyO73bg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thực sự rất gọn gàng và gọn gàng trong việc làm sạch móng**. Mình không cắt tóc, nhưng kỹ năng chăm sóc của mình rất tốt. Tay tôi sạch và tôi cảm thấy khỏe.",
+        "time": 1770995644,
+        "translated": false
+      },
+      {
+        "author_name": "Ngân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/118010245297344101862/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkIMMjJ0r5RXXTlUvZlVh5ppAoj-93fz3-ZMVoqTADr3WKrg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Một trải nghiệm tuyệt vời, chắc chắn mình sẽ quay lại. Nhân viên phục vụ chuyên nghiệp, nhiệt tình, chăm sóc khách từ A đến Z rất tận tình",
+        "time": 1769691977,
+        "translated": false
+      },
+      {
+        "author_name": "Anh VO",
+        "author_url": "https://www.google.com/maps/contrib/107265462650760764654/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgnHo4H_io1lIG1OmQ1ImERXdfceAsSp3ME_wpBQYaQhug8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tiệm cắt tóc cắt tóc rất đẹp nên vào💓",
+        "time": 1770472660,
+        "translated": false
+      },
+      {
+        "author_name": "My Tuyen Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108627804172285785258/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSt-dZ17kC92f3M1rs97TwfE_37-yCPhdeN86xAJ2gyZctzA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Dịch vụ tốt, tay nghề cao rất đáng để trải nghiệm 😀",
+        "time": 1744460997,
+        "translated": false
+      },
+      {
+        "author_name": "My Trà",
+        "author_url": "https://www.google.com/maps/contrib/104854016758794572909/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLW8QnFZYmwLY9oi04fAIa-IP6XCrB_FGVE23V2F2Fdgsc19g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Rất hài lòng về dịch vụ , cơ sở vật chất tốt , nhân viên vui vẻ nhiệt tình làm việc rất chuyên nghiệp , sẽ ủng hộ lâu dài",
+        "time": 1726751635,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 683
+  },
+  "harvested_at": "2026-05-02T15:36:12.013254"
+}

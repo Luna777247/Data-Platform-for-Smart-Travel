@@ -1,0 +1,109 @@
+{
+  "u_key": "af8ef295f7366399",
+  "original_osm_name": "Thanh Phuong",
+  "google_raw": {
+    "formatted_phone_number": "0934 814 744",
+    "geometry": {
+      "location": {
+        "lat": 16.0408995,
+        "lng": 108.2135535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0422559302915,
+          "lng": 108.2149655802915
+        },
+        "southwest": {
+          "lat": 16.0395579697085,
+          "lng": 108.2122676197085
+        }
+      }
+    },
+    "name": "Thanh Phương Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Đỗ Thị Lực",
+        "author_url": "https://www.google.com/maps/contrib/101559006887207409666/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0D-b_gvOImBS4t1atYdTjYmtJuPviYxfyScItnd1Wcpf_hQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "View ở đây thì đẹp khỏi bàn ạ nhìn được toàn thành phố các bạn nhân viên phục vụ khá dễ thương, nước ngon lại rẻ giá chỉ từ 30 đổ xuống thôi ạ",
+        "time": 1728459254,
+        "translated": false
+      },
+      {
+        "author_name": "Đỗ thị Thanhly",
+        "author_url": "https://www.google.com/maps/contrib/117733201041437826149/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJq9eMLKjhXZ8iPYKV7KNBm0JQXOJN8YUQPhdzsgM5Dto7lsw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian thoáng, phù hợp để thư giãn hay học bài đều được, nhân viên siêu yêu, nhiệt tình, thức uống ngon, hợp với mọi lứa tuổi, giá cả khá rẻ. Sẽ ủng hộ thường xuyên.",
+        "time": 1728481779,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/116606646174792737064/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVv8SnQhAUMkU8h_HevsGpvbphNLJ2zUUlsLH31r-HFbexiy7gf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán cafe phong cách dễ thương, phù hợp với mọi lứa tuổi, nhân viên phục vụ nhiệt tình, nước uống ngon mà rẻ lắm luôn, chỉ 25k mà siu nhìu luôn á. Nên đi thử lắm đó mn ơi",
+        "time": 1728459181,
+        "translated": false
+      },
+      {
+        "author_name": "Hongdiem Dothi",
+        "author_url": "https://www.google.com/maps/contrib/111260400905359974753/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-IUVHqbU7F_SX0DJa4pnPMRDxdszVp4M6XOzdGgX2TFzwhA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán thoáng mát,nước uống ngon cực,vừa rẻ vừa chill.mọi người nên thử nhé",
+        "time": 1728459337,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Do Tuyet",
+        "author_url": "https://www.google.com/maps/contrib/109819215486758665823/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIInweGAjpsM_c1RZEV20UrTzy-AZwdbA034EZzGxvUamvbfdg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán xinh , đồ uống 10đ , không gian thoáng mát",
+        "time": 1728477489,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 24
+  },
+  "harvested_at": "2026-04-29T09:38:19.532200"
+}

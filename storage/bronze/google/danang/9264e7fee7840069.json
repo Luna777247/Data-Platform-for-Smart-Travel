@@ -1,0 +1,172 @@
+{
+  "u_key": "9264e7fee7840069",
+  "original_osm_name": "cornercorner",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0475267,
+        "lng": 108.245108
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0489219302915,
+          "lng": 108.2464426802915
+        },
+        "southwest": {
+          "lat": 16.0462239697085,
+          "lng": 108.2437447197085
+        }
+      }
+    },
+    "name": "Corner Music Bar",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–03:00",
+        "Thứ Ba: 17:00–03:00",
+        "Thứ Tư: 17:00–03:00",
+        "Thứ Năm: 17:00–03:00",
+        "Thứ Sáu: 17:00–03:00",
+        "Thứ Bảy: 17:00–03:00",
+        "Chủ Nhật: 17:00–03:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Vy Tường",
+        "author_url": "https://www.google.com/maps/contrib/118014942096140478198/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsFrw15LyWBYKjc8oFW9MWlWZmy3oxKIf72B9wSB6uLgOMzg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "chắc chắn sẽ quay lại quán này và giới thiệu cho bạn bè và gia đình. Nếu bạn đang tìm kiếm một quán cocktail chất lượng, thì đây là lựa chọn tuyệt vời!\n\n5 sao cho quán này!\"",
+        "time": 1755688133,
+        "translated": false
+      },
+      {
+        "author_name": "Tường Cát",
+        "author_url": "https://www.google.com/maps/contrib/115834710443525634476/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0rThs4yQvOqGZlDi8XZXkPnXBqfZtyFmCd-wlbvlur6N_Kxqx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "📍 Không gian: bàn ngoài trời khá mát mẻ, phù hợp để tụ tập bạn bè hoặc chill nhẹ buổi tối.\n\n🍸 Đồ uống: Menu đa dạng, cocktail pha vừa miệng nha, giá hơi cao nhưng mà chất lượng khá ổn. Recommend cockfê me nhaaa🤌🏻\n\n👥 Dịch vụ: Nhân viên thân thiện, take care chu đáo😊",
+        "time": 1755445687,
+        "translated": false
+      },
+      {
+        "author_name": "Việt Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/106240902407167778167/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtFA0hfH1BV6vBikIHzB98TCmxfmWor_ZdkXPE-KsSKJnR4w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán này nhạc live hay vãi luôn. Nước uống thì giá hơi mắc nhưng mà ngon nha. Nhân viên thì thân thiện miễn bàn. Nói chung là oke nha.",
+        "time": 1754933725,
+        "translated": false
+      },
+      {
+        "author_name": "Trúc Thanh",
+        "author_url": "https://www.google.com/maps/contrib/112061299346824336396/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhlgEDML2cPRVDa8JAQVN9PcMKyEAWe95ZUGdh_Jb5UZP_-M3s6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Nhạc hay,dễ chịu đồ uống ngon nhe,bartender đẹp trai nữa,chắc chắn sẽ đến nhiều lần nựa❤️",
+        "time": 1755689695,
+        "translated": false
+      },
+      {
+        "author_name": "ong “BouRBon” Trng_",
+        "author_url": "https://www.google.com/maps/contrib/106591072708164288207/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3zwrSlHjyyrSKf4LsZ3udmLDZLAK5qcFTjDAvi6HRhRgzfSl4mA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Bar này thú dị, e cực thích uống shoter bên đây, mấy a chị nvien dễ thương cực kì lun 😆😆",
+        "time": 1755013354,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 194
+  },
+  "harvested_at": "2026-04-29T09:41:23.266087"
+}

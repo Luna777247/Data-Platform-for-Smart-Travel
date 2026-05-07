@@ -1,0 +1,313 @@
+{
+  "u_key": "1fcc627ab2ee422c",
+  "original_osm_name": "Nhà hàng Kim Long",
+  "google_raw": {
+    "formatted_phone_number": "0888 161 158",
+    "geometry": {
+      "location": {
+        "lat": 21.0278424,
+        "lng": 105.8214381
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0292563802915,
+          "lng": 105.8228864802915
+        },
+        "southwest": {
+          "lat": 21.0265584197085,
+          "lng": 105.8201885197085
+        }
+      }
+    },
+    "name": "Nhà hàng Kim Long",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:30–10:00, 11:30–14:00, 18:00–22:00",
+        "Thứ Ba: 05:30–10:00, 11:30–14:00, 18:00–22:00",
+        "Thứ Tư: 05:30–10:00, 11:30–14:00, 18:00–22:00",
+        "Thứ Năm: 05:30–10:00, 11:30–14:00, 18:00–22:00",
+        "Thứ Sáu: 05:30–10:00, 11:30–14:00, 18:00–22:00",
+        "Thứ Bảy: 05:30–10:00, 11:30–14:00, 18:00–22:00",
+        "Chủ Nhật: 05:30–10:00, 11:30–14:00, 18:00–22:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Linh",
+        "author_url": "https://www.google.com/maps/contrib/109782490609444136997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT7hwrYHpEfMTHDUXZRmabSpVIKM8HQ5J9O9u8RpRC2K5PLM8=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Buffet dimsum tuy nhiên phần dimsum không nhiều và cũng không đặc sắc. Nhân dimsum không tươi lắm, vỏ thì nhão. Các món còn lại giống buffet ăn sáng của khách sạn, cũng không ngon.\nNhân viên tuy nhiệt tình nhưng lại chậm và hướng dẫn khó hiểu cho khách. Không có menu các món dimsum trong buffet, bày sẵn trên quầy chỉ có vài món, trong xe dimsum lại có vài món, có cả những món không bày. Người thì hướng dẫn ra quầy order, người lại nói ngồi tại chỗ.",
+        "time": 1766565132,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyên Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/109164744335877755111/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4i3AaCQnB5uwYiq7Vvc0kzzYu9g-Ggqf3qxoIA0vK5TgKKeLI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Một bữa trưa view hồ rất happi của mình. Mình hay ăn ở Food Center nhưng muốn đổi gió qua nhà hàng Golden Dragon. Nhưng nhà hàng này hơi ít người biết hơn Food Center vì nằm trong khách sạn, vào sảnh là thấy luôn. Không gian to đẹp, ấm cúng, đậm chất Trung Hoa, view nhìn ra hồ Giảng Võ.\n\nMenu alacarte ở đây đẹp, có hình ảnh đi kèm nên lựa chọn dễ dàng, siêu nhiều món. Ngoài ra thì trưa T7 và CN nhà hàng có thêm menu buffet dimsum. Siêu nhiều món đáng để thử, chắc chắn ai mê dimsum nên thử nhà hàng này. Chắc chắn mình sẽ quay lại và để thử thêm menu buffet ở đây.\n\nDimsum ở đây khá đa dạng, từ há cảo tôm, xíu mại, bánh bao, cảo điệp, bánh cuốn. Đồ ăn lên hơi lâu một xíu vì order xong đầu bếp mới làm nhưng bù lại là các món lên nóng hổi, đẹp mắt. Phải nói dimsum siêu ngon, nhân đầy đặn, tươi ngon, vỏ thì mỏng và có độ dai vừa phải. Ăn xong vẫn thấy hơi thèm chút haha. Chưa chê được món nào.\n\nVịt quay ngon, lớp da giòn, thịt mọng không bị khô, chấm cùng sốt đi kèm hết ý. Một đĩa khá nhiều nha. Rau xào với dầu hào thơm, không bị mặn. Cơm rang thập cẩm ở đây cũng rất nên thử, topping nhiều, cơm tơi, rất vừa miệng. Mình gọi bình trà hoa cúc nóng, uống khá thơm🌼\n\nAnh chị nhân viên ở đây rất chuyên nghiệp, nhiệt tình và take care cẩn thận. Nhóm mình đi 4 người ăng hết 1tr8 no căng bụng. Mình đi ăn kha khá địa chỉ dimsum ở HN rồi nhưng phải nói là chỗ này khá woa nha, khẩu vị của mình đánh giá ngon hơn Tim Ho Wan với Fu Rong Hua 🫶🏻🫶🏻",
+        "time": 1753347052,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Huong Ngo",
+        "author_url": "https://www.google.com/maps/contrib/113700300116905638773/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpFlH_gU7jnR9q684gpsl_ZG2fpjrI1judJGiKQvC-WHdFx2Zv=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Được ng quen giới thiệu là nhà hàng dimsum ngon nhất Hanoi nên ăn thử, nhưng cả bạn đi cùng và mình đều thấy khá bthg, chắc có lẽ do vị hơi bị nguyên bản Trung hoa quá nên ko hợp khẩu vị lắm.",
+        "time": 1758382028,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/116422548092683378494/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZ_Y3vGKtBlY8aTcZAIDPXhZsijUd70-R4L7vuEMglnQ5twfs=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nay đổi gió thử quán mới, mọi thứ Ok nhưng kh hợp khẩu vị mình. Dimsum rất tươi, dimsum tôm. Vịt mình thấy hơi ngấy, da giòn, chấm mật ong ngọt khiến n ngấy hơn. Tôm sốt mayonaise cũng ngấy ☺️à nhưng món này tên đã ngấy r, ko bàn. Sườn hấp tàu xì kh thấm vị lắm, kh hợp khẩu vị mình. Cơm rang sò hay gì đó màu xanh lá, cũng ok, bth, giống cơm rang trứng ăn vs thịt con sò hay gì đó màu trắng.\nServices ok, cac c hỗ trợ nhiệt tình.",
+        "time": 1765542191,
+        "translated": false
+      },
+      {
+        "author_name": "Huyen Tran",
+        "author_url": "https://www.google.com/maps/contrib/117591031322650580454/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfy050pF116Q_KZju70IZJo-tPU8RoEBun2KovL3tYaHpnGA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Trải nghiệm buffet sáng tại khách sạn Hà Nội.\n\nMình vừa có dịp ăn sáng buffet tại khách sạn và cảm thấy rất hài lòng. Không gian nhà hàng trang trí đẹp mắt, sạch sẽ, tạo cảm giác sang trọng nhưng vẫn ấm cúng.\n\nCác quầy đồ ăn được sắp xếp ngăn nắp, đầy đủ từ bánh ngọt, bánh mặn, các loại nước ép cho tới bánh mì, phô mai, ngũ cốc… Món nào cũng được trình bày chỉn chu. Mình đặc biệt thích khu bánh ngọt – nhiều loại nhìn bắt mắt và ăn cũng khá ngon, không bị quá ngọt, vỏ bánh giòn vừa, nhân mềm.\n\nQuầy nước ép có đủ cam, dưa hấu, sữa và nước detox, vị tươi mát dễ uống. Quầy bánh mì đa dạng, có cả bơ, mứt, phô mai, sữa chua kèm theo, rất hợp cho ai thích ăn sáng kiểu Âu.\n\nNhân viên phục vụ nhanh nhẹn, nhiệt tình, luôn giữ khu ăn uống gọn gàng, sạch sẽ.\n\nTóm lại, với tầm giá này thì chất lượng buffet sáng ở đây khá ổn. Nếu có dịp, mình sẽ quay lại lần nữa.",
+        "time": 1747812065,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 159
+  },
+  "harvested_at": "2026-04-28T16:26:54.034371"
+}

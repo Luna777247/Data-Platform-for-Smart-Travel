@@ -1,0 +1,153 @@
+{
+  "u_key": "c9d2e1068f9beed8",
+  "original_osm_name": "The Sai Gon Times Club",
+  "google_raw": {
+    "formatted_phone_number": "028 3829 5936",
+    "geometry": {
+      "location": {
+        "lat": 10.769367,
+        "lng": 106.7014851
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.7708180802915,
+          "lng": 106.7029621302915
+        },
+        "southwest": {
+          "lat": 10.7681201197085,
+          "lng": 106.7002641697085
+        }
+      }
+    },
+    "name": "Tạp chí Kinh Tế Sài Gòn",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–17:00",
+        "Thứ Ba: 08:00–17:00",
+        "Thứ Tư: 08:00–17:00",
+        "Thứ Năm: 08:00–17:00",
+        "Thứ Sáu: 08:00–17:00",
+        "Thứ Bảy: Đóng cửa",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Bookaholic Saigon",
+        "author_url": "https://www.google.com/maps/contrib/109678148954699013193/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzSFJmUFktlyWWXEkVKYzGM8VhuL1P2rGhx_G07lezHCC2MXWbCg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình đến đây tham dự sự kiện. Tổ chức rất bài bản, chuyên nghiệp. Sự kiện rất có giá trị. Cảm ơn rất nhiều ạ",
+        "time": 1764587640,
+        "translated": false
+      },
+      {
+        "author_name": "Tuyết Anh Nguyễn Phạm",
+        "author_url": "https://www.google.com/maps/contrib/112592230789032647553/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_yAJI0q8ZTjbCba7ljl1B79afusuHRxYCRdEVhwnVBQFZ2V0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Lần đầu tiên đi Nhật nhưng may mắn gặp anh Bin Lê trưởng đoàn và chị Lam hướng dẫn viên local rất nhiệt tình và dễ thương. Mình được tham quan nhiều phong cảnh đẹp và ăn những món nổi tiếng. Nếu có dịp nhất định sẽ đăng ký tour để đi tiếp",
+        "time": 1738331096,
+        "translated": false
+      },
+      {
+        "author_name": "TIM TRAN",
+        "author_url": "https://www.google.com/maps/contrib/105755074999750210215/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-ba3S_9ZHMCoa6k2W2QD83EqppLcPjeOM7bCbQCvlhywzhw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhân viên rất nhiệt tình , người dẫn tour chính là phi Yến , bé rất dễ thương , tận tình , nên đặt tour ở công ty này , nhân viên và tài xế rất nhiệt tình .",
+        "time": 1739622511,
+        "translated": false
+      },
+      {
+        "author_name": "Kinh tế Sài Gòn",
+        "author_url": "https://www.google.com/maps/contrib/114859540136067716709/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj3GHDP3VAH29KE6l_wj5HzTZFFR3xTimSi__idsY1av5Z_q63NA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Rất nhiều bài viết sâu sắc, lời viết hay, chuẩn mực và chân thật, không \"bom\" về những sự kiện cùng hiện trạng kinh tế Sài Gòn và Việt Nam, nếu các bạn là doanh nhân luôn tìm kiếm cơ hội mới để thành công thì các bạn nên là bạn đọc trung thành của Thời báo kinh tế Sài Gòn, tôi yêu tờ báo này và tôi tên là Kinh Tế Sài Gòn!",
+        "time": 1575546542,
+        "translated": false
+      },
+      {
+        "author_name": "Doan Manh Duong",
+        "author_url": "https://www.google.com/maps/contrib/117442349048279542012/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYfqkmJ3vVzYH2HVdLtFFvFpoKgE4GoB76jpiFow7pVZiKYfDY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Cafe giải trí !",
+        "time": 1580881167,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 108
+  },
+  "harvested_at": "2026-04-28T16:41:26.979532"
+}

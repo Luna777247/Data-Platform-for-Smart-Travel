@@ -1,0 +1,174 @@
+{
+  "u_key": "e00943c725833f19",
+  "original_osm_name": "Chops",
+  "google_raw": {
+    "formatted_phone_number": "0813 086 022",
+    "geometry": {
+      "location": {
+        "lat": 21.0358631,
+        "lng": 105.8532417
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0372156302915,
+          "lng": 105.8546003302915
+        },
+        "southwest": {
+          "lat": 21.03451766970849,
+          "lng": 105.8519023697085
+        }
+      }
+    },
+    "name": "Nhà hàng Chops",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "My Trà",
+        "author_url": "https://www.google.com/maps/contrib/102200798885391094535/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIiBA-LsQ_Yi2QUgUzaWh71aSJBfbbx3bsGIVYStIdcAuNmpg=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Thái độ của nhân viên rất tốt, sẵn lòng chờ bọn mình chọn món, dù bọn mình chọn rất lâu nhưng nvien cũng đứng bên cạnh chờ và không có thái độ khó chịu gì, còn sẵn lòng giải đáp mọi thắc mắc của bọn mình.\nHôm đó đi 5 người thì có gọi 3 cái size vừa và 2 cái size nhỏ thêm 2 loại salad thì tổng quan là khá ổn, mình thích durty bird nhất😋.\nTuy nhiên, không biết đồ ăn hôm đó có vấn đề gì về chất lượng không mà cả 5 đứa ăn xong đều bị đau bụng. Mong quán xem xét lại về chất lượng đồ ăn nhé ạ, cũng có thể do là Noel nên quán khá đông khách nên không thể quan tâm hết được chất lượng đồ ăn, nhưng nó cũng khiến cho 1 phần trải nghiệm của chúng mình không được tốt ý.\n\nThe staff were very nice, willing to wait while we chose our dishes. Even though we took a long time, the staff stood by and waited without showing any annoyance, and were happy to answer any questions we had.\nThat day, there were 5 of us, and we ordered 3 medium-sized and 2 small portions, plus 2 types of salad. Overall, it was quite good; I liked the durty bird the most 😋.\n\nHowever, I'm not sure if there was a problem with the food quality that day, but all 5 of us had stomach aches after eating. I hope the restaurant will review the food quality. It's possible that because it was Christmas and the restaurant was very busy, they couldn't pay attention to the food quality, but it still negatively impacted our experience.",
+        "time": 1766807506,
+        "translated": false
+      },
+      {
+        "author_name": "Trương Hồng Phúc",
+        "author_url": "https://www.google.com/maps/contrib/106396357581834218091/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8RdOwKR662_Jidg7832UnGyL8x_8f6ByQiDL7nO-gFVRfOX8f=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Ngon. Rất có vibe nhé mặc dù quán rất nhỏ. Orion hơi ngấy xíu thôi nhưng vị của mọi thứ đều tuyệt. Rcm mn chọn các mục signature ở đây nhé",
+        "time": 1772576220,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107658385370175209381/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUs1Y-cBCIw4p_wDUK3wIRaI8ocnk4jebGaRjow6Y4ukhRDw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "mình gọi burger roll royce và swiss bliss, theo mô tả là đều có nấm truffe nhưng mà nấm bên này k có vị hay mùi gì nhiều. mình cảm giác như burger ngon nhưng không thực sự nổi bật ở một vị gì cả.\nĐánh giá cao churos, ăn ok\nCòn salad thì hơi dở, vì salad là ăn để giải ngấy nhưng mà loại này lại quá ngọt, sốt ngọt, quả óc chó nướng mật ong cũng ngọt, bản chất củ dền cũng có đường, nên ăn ngán vô cùng\nCác bạn nhân viên nhiệt tình, vui vẻ\n\nĐáng thử nhưng tần suất quay lại sẽ không nhiều",
+        "time": 1766366046,
+        "translated": false
+      },
+      {
+        "author_name": "Duong Le",
+        "author_url": "https://www.google.com/maps/contrib/109348565890979201637/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNvgf_Pwy6EVru3USG17GC4MLeToxMwWsnyRtjXuYAerlPJhzr=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "We ordered the Smoke and Chi and the Swiss Bliss. Both burgers cooked perfectly. We think the bun could be a different kind of bread texture, pickles were not good (due to the brine), fries were underdone. Staff was attentive, polite and efficient. Bathroom can be cleaner.\n\nBọn mình gọi Smoke and Chi và Swiss Bliss, cả hai bánh đều chín vừa tới khá ngon. Vỏ bánh burger mình thấy chỉ tạm, dưa muối vẫn chưa ngon lắm, khoai tây chưa chín hẳn. Nhân viên lịch sự và nhanh nhẹn. Nhà vệ sinh cần dọn dẹp sạch sẽ hơn.",
+        "time": 1767985795,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Hương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113105903187132292074/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq84S60DPln3_1HFDWE-qeNsfoG-kmxqz4LKbp4-7IKM3yQBa2=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Mình nghĩ quán khá đông nên đã đặt bàn trước, nhân viên sẽ gọi điện lại. Lúc đến thì mình thấy quán cũng không đông lắm. Vì cơ sở này nằm trên phố cổ nên cũng khá là chật, ý mình là chỗ để xe. Tuy nhiên, mình thấy nhân viên cũng chủ động ra dắt lại xe giúp mình nha !!\n- Quán có ba tầng, nhưng tầng 1 và tầng 2 kiểu như gộp 1 tầng luôn ý, mình không biết diễn tả nên mọi người có thể xem ảnh nha\n- Tầng 1 kê được ba cái bàn, 2 bàn 2 người và 1 bàn 4 người. Bên cạnh là quầy bar.\n- Nhân viên take care khách nhanh, nói tiếng anh lưu loát. Các bạn ấy cũng khá để tâm đến chất lượng đồ ăn nên có hỏi bọn mình đồ ăn như thế nào.\n- Mình gọi The Rolls Royce size nhỏ : Nhìn qua thì nhỏ thật, nhưng mình ăn thì khá no ( con gái ). Bên trong có hành tây chiên, thịt bò và một miếng cheese chiên lên hay sao ấy. Mình thấy vị khá vừa, thịt bò để lâu nên ăn hơi cứng chút, không giữ được độ mọng. Hành tây chiên tạo cảm giác giòn giòn thì ổn, phô mai miếng to thì bị ngấy dầu một chút. Bánh mì xốp và khá thơm.\n- Caesar salad 🥗: Mình không nghĩ món này phù hợp để giải ngán lắm, phô mai khá nhiều, bacon hơi mặn. Bên cạnh đó, mình khá khen cho vụn bánh mì vì để lâu và trộn xốt vẫn không bị ỉu. Với mình, thì xốt trộn hơi mặn và thơm mùi phô mai.\n- Burger có phô mai đổ bên dưới: Mình nghĩ món này hợp với người thích ăn nhiều thịt. Phô mai chảy bên dưới khá dỉnh chảo nên cần phải ăn nhanh. Phô mai được phục vụ nóng, chảo được bê ra, nhân viên mới đổ phô mai vào nè.\n=> Điểm chung các món ở đây thì mình thấy hơi mặn, cũng có thể do mình không uống cùng nước nữa nên sẽ tạo cảm giác vậy. Ăn xong mình có đi uống nước nhưng mà vẫn cảm thấy bị khát. Burger nhỏ thì ăn vừa chứ còn burger phô mai chảy kia thì mặn nha. Mình có đọc review trước đó và khen tương cà ở đây. Mình ăn thử thì confirm ngon thật, vị khá giống tương cà Heinz. Menu thì có sẵn trên web quán, mọi người tham khảo nhé",
+        "time": 1753779563,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2978
+  },
+  "harvested_at": "2026-04-28T16:20:54.035144"
+}

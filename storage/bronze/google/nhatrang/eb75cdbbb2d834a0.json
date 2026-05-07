@@ -1,0 +1,173 @@
+{
+  "u_key": "eb75cdbbb2d834a0",
+  "original_osm_name": "Quán Biển Đêm",
+  "google_raw": {
+    "formatted_phone_number": "0906 537 279",
+    "geometry": {
+      "location": {
+        "lat": 12.2644981,
+        "lng": 109.1995129
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2657884802915,
+          "lng": 109.2009134802915
+        },
+        "southwest": {
+          "lat": 12.2630905197085,
+          "lng": 109.1982155197085
+        }
+      }
+    },
+    "name": "Quán Hải Sản Biển Đêm - Bien Dem Seafood Restaurant 5*",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–04:00",
+        "Thứ Ba: 10:00–04:00",
+        "Thứ Tư: 10:00–04:00",
+        "Thứ Năm: 10:00–04:00",
+        "Thứ Sáu: 10:00–04:00",
+        "Thứ Bảy: 10:00–04:00",
+        "Chủ Nhật: 10:00–04:00"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Minh Yến",
+        "author_url": "https://www.google.com/maps/contrib/109694921138641706729/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjavEYZB2DV-W9EAutr4YWuBRwKz2_OFUOjI5oyIy5BbWhqAHf=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Vị trí đối diện ngay Công viên mát mẻ, view cầu Trần Phú đẹp,\n\nHải sản tươi, nấu ngon (ốc hương rang muối ớt, Tôm mắm nhỉ mình thấy ngon). Giá cả hợp lý\n\nNhân viên lịch sự, dễ thương, thân viên nhiệt tình với khách (bạn nhân viên tên Đô phục vụ ở tầng 3). 💞\n\nĐịa điểm ăn uống uy tín, chất lượng ở Nha Trang. Đáng trải nghiệm 👍",
+        "time": 1717512344,
+        "translated": false
+      },
+      {
+        "author_name": "yen huynh",
+        "author_url": "https://www.google.com/maps/contrib/107230745179349184913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBKDhfzV8HVPLEN270XTXgXUikqJj4NLoZ6hT9Wyhng4siyrJc=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Quán ăn như lừa đảo vậy, kêu 3 món ra bill 950k, kêu món gì lát sau cũng báo hết, kêu lẩu cá bóp 250k nói k có kêu mình đổi cá mú, ra bill 500k 1 nồi lẩu, nghêu x2 tiền trong menu. Mình hỏi tại sao thì nhận lại là nhân viên k biết, 1 câu xl cũng k có :))",
+        "time": 1738422044,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Trần",
+        "author_url": "https://www.google.com/maps/contrib/107898434536023190555/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU90d9SOLyX0NqpzjRc_Z72JQnfBKu2gFn6tZgGpe7-K6yfqqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn dep và rất ngon",
+        "time": 1726587895,
+        "translated": false
+      },
+      {
+        "author_name": "Gia Hân",
+        "author_url": "https://www.google.com/maps/contrib/114790122812860263763/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6JnRd3XrM1B3Zk3bz-kJ66YvSUwcnWDs8IBoiz1A-y8IypRZV=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Là tín đồ của hải sản và muốn thưởng thức những món tươi ngon, đậm đà hương vị .Thì đối với mình quán này sẽ là lựa chọn tuyệt vời nha!. Thực đơn đa dạng, không gian trên lầu siêu thoáng, phục vụ nhiệt tình. Đây là điểm đến nằm trong danh sách yêu thích của tớ ^^. Đến trải nghiệm ngay nha!! I highly recommend this place",
+        "time": 1741788683,
+        "translated": false
+      },
+      {
+        "author_name": "Loc Tran",
+        "author_url": "https://www.google.com/maps/contrib/106658403892405146856/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM8CXPTc7NZZO8bN8WtIsKy7i-dAUwBDDoU2m5ZVi3YMaAS5Mr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Hải sản ăn vị rất tươi và ngọt tự nhiên, quán chế biến món ăn rất vừa vị, thơm và đậm đà. Giá cả phải chăng, sẽ quay lại khi ra chơi.",
+        "time": 1728806567,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 38
+  },
+  "harvested_at": "2026-05-02T15:10:44.414844"
+}

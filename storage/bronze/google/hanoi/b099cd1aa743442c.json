@@ -1,0 +1,174 @@
+{
+  "u_key": "b099cd1aa743442c",
+  "original_osm_name": "Cà Phê EZ",
+  "google_raw": {
+    "formatted_phone_number": "0914 807 638",
+    "geometry": {
+      "location": {
+        "lat": 21.0266297,
+        "lng": 105.8506205
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0279460802915,
+          "lng": 105.8518862802915
+        },
+        "southwest": {
+          "lat": 21.0252481197085,
+          "lng": 105.8491883197085
+        }
+      }
+    },
+    "name": "Trung Nguyên E-Coffee (Nhà Chung, Hoàn Kiếm, Hà Nội)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:30",
+        "Thứ Ba: 06:30–22:30",
+        "Thứ Tư: 06:30–22:30",
+        "Thứ Năm: 06:30–22:30",
+        "Thứ Sáu: 06:30–22:30",
+        "Thứ Bảy: 06:30–22:30",
+        "Chủ Nhật: 06:30–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Đức Cảnh",
+        "author_url": "https://www.google.com/maps/contrib/116106777942228755933/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVk1iIMxfXFbdC_S-xNJnu9wWzdZ4G_cbnynu1wt4ay_SgEc8Gd=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ uống ngon lắm , cafe phin đậm lắm luôn, cafe muối thì kem muối ngậy phết uống khác hẳn chỗ khsc. Mn nên uống ở cơ sở này nhé mik thấy rất ok luôn",
+        "time": 1763865009,
+        "translated": false
+      },
+      {
+        "author_name": "Đương Đào",
+        "author_url": "https://www.google.com/maps/contrib/106274802687575848702/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaqA-Pw9-1ZMynRV_vcibMcdSoXmvq5A2l5Q_zQBcgpI9MEug0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Coffee verry good . Must try Vietnames coffee with milk\nCà phê có rất nhiều loại cf khác nhau ngon không gian tầng 2 rộng rãi mát mẻ kín đáo rất thích hợp để họp và làm việc riêng.\nĐiểm kín đáo nên mất công di duyển nên tầng 2",
+        "time": 1757639598,
+        "translated": false
+      },
+      {
+        "author_name": "Truong Nguyen Duc",
+        "author_url": "https://www.google.com/maps/contrib/113883585066937073424/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9zHzgx5gXkHjdJTYCicpVWheQ24HCab3L_mbKjSFCUVAFcw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "quán cafe mang phong cách đơn giản. mộc mạc, thư giãn và dễ chịu.\nMENU  phong phú với các đồ uống thanh mát. Đồ uống ngon và hợp khẩu vị.\n🍴💰 NGON – RẺ. Bên cạnh đồ uống chất lượng nhưng giá cả phải chăng",
+        "time": 1728629052,
+        "translated": false
+      },
+      {
+        "author_name": "Dũng Trịnh",
+        "author_url": "https://www.google.com/maps/contrib/111311461843146650878/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbz-hhVsX37n59PhlVSAcb-UeEcSIf3hLLxx2QZK2iPNDUJk4=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ uống quá đỉnh mà rẻ. Rất thích hợp để làm việc",
+        "time": 1761295193,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Vinh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108248783747381034015/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUN68ziTB0Et1Aehim1iIWkPRzOorc4X1LzqmzfsA7KYztqNVVN=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Mô hình trên toàn quốc nhưng vị cà phê hơi khác nha, sữa cũng ít ngọt hơn. Uống nước ở các tầng trên. Làm nước uống hơi chậm. Toilet sạch sẽ.",
+        "time": 1743236117,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 119
+  },
+  "harvested_at": "2026-04-26T16:52:00.597867"
+}

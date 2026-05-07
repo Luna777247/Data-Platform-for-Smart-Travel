@@ -1,0 +1,174 @@
+{
+  "u_key": "b14610bc1d9ab4c1",
+  "original_osm_name": "Pizza Tet Hostel",
+  "google_raw": {
+    "formatted_phone_number": "0263 3557 999",
+    "geometry": {
+      "location": {
+        "lat": 11.9341472,
+        "lng": 108.4234124
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9355331302915,
+          "lng": 108.4247854302915
+        },
+        "southwest": {
+          "lat": 11.9328351697085,
+          "lng": 108.4220874697085
+        }
+      }
+    },
+    "name": "Pizza Tet",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "TB Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105344062617200258652/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSrcQvQembnrd3n83mUpxf4zQ4lvHw2qzOcQ1W-6uH2ZqOgED_=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Pizza ăn bình thường, ko đặc sắc. Giá dao động tầm 100 đến 150k",
+        "time": 1771638608,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Phan",
+        "author_url": "https://www.google.com/maps/contrib/102337160026170706586/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8vRL-vvHZSAIQ5JLHUjrhb90R2QbDYXKr9SvdNtPBebPmRBlN=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Khách sạn và dorm rất chất lượng và giá rẻ. Phòng rất sạch sẽ và rộng rãi thoải mái. Tuy phòng dorm nhưng vẫn giữ được sự riêng tư cho khách. Các món ăn sáng đơn giản nhưng khá ngon. Nhân viên phục vụ cực kì nhiệt tình và dễ thương. Ở đây cũng là tiệm bánh pizza khá ngon luôn nên rất thuận tiện.",
+        "time": 1572332693,
+        "translated": false
+      },
+      {
+        "author_name": "LH Trình",
+        "author_url": "https://www.google.com/maps/contrib/100302927942924098233/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJdyByZhSlx5QrbD9MeFhZp29-nsANMf5nFWS6_Mb53mayp5jF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Cô chủ rất dễ thương, nhân viên nhiệt tình. Giường dorm thiết kế rất hay, phòng mát mẻ sạch sẽ yên tĩnh. Đây chắc là hostel tốt nhất Dalat luôn. Có bán pizza rất ngon nữa.",
+        "time": 1588641764,
+        "translated": false
+      },
+      {
+        "author_name": "Luna Trần",
+        "author_url": "https://www.google.com/maps/contrib/102656732484323093415/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMlXquEyQ5vhWPGxrAR9IPjS5KeJss9D8jmBFfRx64ivQlgNkJBA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "mình cùng bạn săn đc sale trên agoda nên book phòng giá khá rẻ cho phòng 2 giường. phòng khá rộng, vị trí gần trung tâm nên di chuyển khá tiện, yên tĩnh. ở dưới có bán pizza nên bọn mình có đặt ăn khuya, bánh ngon nha. tuy nhiên phòng rẻ nên ko yêu câu cao đc, nhọ là hôm bọn mình ở vòi nước ở bồn rửa mặt hư, vẫn may là vẫn có nước nóng. nhưng bọn mình chỉ yếu nghỉ lại thôi, ko yêu cầu cao nên khá hài lòng. bạn nhân viên rất nhiệt tình và lịch sự, về khuya và đi sớm vẫn hỗ trợ mình mở cửa.",
+        "time": 1658213882,
+        "translated": false
+      },
+      {
+        "author_name": "Hiền Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113868394896242225399/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsDyS_bG5rgSgYlLMrnJmtzfE4twK-Nrea2plaEGOpuAAQPQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán làm đồ ăn khá nhanh, menu nhiều món ăn đa dạng và ngon giá cả thì rất hợp lý. Cô chủ và nhân viên ở đây rất thân thiện và nhiệt tình. Quán có ship bánh nên m.n có thể đặt qua app để nhận nhiều ưu đãi ạ. Sẽ quay lại và ủng hộ quán ạ🤗",
+        "time": 1649150809,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 355
+  },
+  "harvested_at": "2026-04-30T15:13:51.137361"
+}

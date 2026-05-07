@@ -1,0 +1,109 @@
+{
+  "u_key": "5d09c478e91a6084",
+  "original_osm_name": "Quán BBQ 123 DZÔ",
+  "google_raw": {
+    "formatted_phone_number": "0964 646 476",
+    "geometry": {
+      "location": {
+        "lat": 13.9773488,
+        "lng": 108.0135352
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 13.9786488302915,
+          "lng": 108.0148064302915
+        },
+        "southwest": {
+          "lat": 13.9759508697085,
+          "lng": 108.0121084697085
+        }
+      }
+    },
+    "name": "BBQ 123 zoo",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.3,
+    "reviews": [
+      {
+        "author_name": "Ngọc lâm",
+        "author_url": "https://www.google.com/maps/contrib/110459609380525778189/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8uPb5tLXQjmZEkV1oLHEKZ93JVvafpZxIXPm6sQtcyzoWWw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "em góp ý một xíu nv của quán không có niền nở nhiệt tình tiếp khách kêu đồ nướng mà nướng trên vỉ nó két đem nhờ nv thay nv khó chịuu",
+        "time": 1761245274,
+        "translated": false
+      },
+      {
+        "author_name": "thạnh hồ văn",
+        "author_url": "https://www.google.com/maps/contrib/101141748623638329673/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLSuMptQdeDIASiX9m7PD1nfAZdxNRHOzSpvSWzCkgbpoYtAQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "đồ ăn ngon phục vụ vui tính",
+        "time": 1750509314,
+        "translated": false
+      },
+      {
+        "author_name": "The Moutains JOK3R (JOK3R)",
+        "author_url": "https://www.google.com/maps/contrib/107142826324173338087/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHsT4F_7EhkiMVg3aoD5c2a_4aXJO9P_rxLxYIIA1TyxTX3-IM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Thức ăn ngon, phục vụ nhanh và nhiệt tình, xuất sắc 🥰",
+        "time": 1680086552,
+        "translated": false
+      },
+      {
+        "author_name": "thien thuan",
+        "author_url": "https://www.google.com/maps/contrib/103764267747826434810/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUm88PJcCNeye5sD2zP9FeF_7dH3PMweU8eT84IHgvpCuqKk89Xw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán chill mở khuya",
+        "time": 1683796150,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115997560030952770513/reviews",
+        "language": "vi",
+        "original_language": "ig",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUodR55nZZI1QYGeKYIL2bpY2SDxFt4_YKcb44M4sOsUVgwKYbNCQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quá nhiều",
+        "time": 1719125089,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-04-29T13:36:51.675784"
+}

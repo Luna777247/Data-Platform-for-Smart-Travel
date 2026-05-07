@@ -1,0 +1,108 @@
+{
+  "u_key": "b3f1c01b7e8c7483",
+  "original_osm_name": "Wooden stilt bridge",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.8755202,
+        "lng": 106.6677323
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8768691802915,
+          "lng": 106.6690812802915
+        },
+        "southwest": {
+          "lat": 20.8741712197085,
+          "lng": 106.6663833197085
+        }
+      }
+    },
+    "name": "Cầu Bính",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Tiến Đào",
+        "author_url": "https://www.google.com/maps/contrib/116268537731305492204/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhRaviF8WCzbctan3PWTWE6QtIxcrPee4Oal8Qi0UDWFnMGoiq=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Cầu cao đẹp, thoải ko dốc, xe cub số 4 vẫn lên được. Dưới dòng sông chảy đẹp, nhìn toàn cảnh nhiều nơi. Đặc biệt là Khu Trung tâm hành chính mới của TP Hải Phòng",
+        "time": 1752758238,
+        "translated": false
+      },
+      {
+        "author_name": "Phong Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/118399895045558898458/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpXkzxBei2T1Pgzefa-BvFfUD62zSfm3inAtXparPX1LhaKQLG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Huyết mạch giao thông của địa bàn các phường phía Bắc Thành phố Hải Phòng với các quận trung tâm. Cầu Binh' là một dự án do Japan và Việt Nam kết hợp xây dựng và hoàn thành đi vào sử dụng ngày 13/05/2005.dau mốc kỷ niệm 50 năm giải phóng Hải Phòng.",
+        "time": 1768834573,
+        "translated": false
+      },
+      {
+        "author_name": "Võ Vinh",
+        "author_url": "https://www.google.com/maps/contrib/107408329163983609723/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKgk7ksv4jZF4pQe3_Q6EtpqpE-Fa3HLViST7XBDPq3ozhOWTo9Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cây cầu đã từng đi qua nhiều lần. Nhìn về phía cảng. Cảm ơn Hải Phòng!",
+        "time": 1743244323,
+        "translated": false
+      },
+      {
+        "author_name": "My tam Do",
+        "author_url": "https://www.google.com/maps/contrib/107587323348898069204/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZGHvLkneByWuZUUfaIL41_4ojI6uur2t3NzUP5wIn5muFKw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đi bộ qua cầu lúc tối khá an toàn vì có đèn sáng.",
+        "time": 1771319340,
+        "translated": false
+      },
+      {
+        "author_name": "Mila",
+        "author_url": "https://www.google.com/maps/contrib/112948464807679614160/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZDqMGRj8DtrMMkgEUcosqDooGqn4K7_zZHxbsTzg0-pGbj1A=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đứng trên cầu nhìn xuống sông thấy cảnh rất chill, đặc biệt lúc hoàng hôn.",
+        "time": 1769182537,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 35
+  },
+  "harvested_at": "2026-04-30T15:20:19.199967"
+}

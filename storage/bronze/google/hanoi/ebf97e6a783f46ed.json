@@ -1,0 +1,174 @@
+{
+  "u_key": "ebf97e6a783f46ed",
+  "original_osm_name": "Zamba Beer and BBQ",
+  "google_raw": {
+    "formatted_phone_number": "0901 676 969",
+    "geometry": {
+      "location": {
+        "lat": 21.0134653,
+        "lng": 105.8188168
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0148442802915,
+          "lng": 105.8200963802915
+        },
+        "southwest": {
+          "lat": 21.0121463197085,
+          "lng": 105.8173984197085
+        }
+      }
+    },
+    "name": "Zamba Garden",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–00:00",
+        "Thứ Ba: 11:00–00:00",
+        "Thứ Tư: 11:00–00:00",
+        "Thứ Năm: 11:00–00:00",
+        "Thứ Sáu: 11:00–00:00",
+        "Thứ Bảy: 11:00–00:00",
+        "Chủ Nhật: 11:00–00:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Việt Long",
+        "author_url": "https://www.google.com/maps/contrib/112353919702628971730/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIdbPEI3psriZlaqS-wB9Cu9sjCBuqzGQNTIYQFdU5RJsVnlI=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Đến với quán vì nghe quảng cáo món gà tiềm bí đỏ, món này quán làm khá ngon, mọi thứ đều rất ổn tuy nhiên không phải gà ta như quảng cáo, cảm giác giống gà nuôi công nghiệp, gà hơi béo do vậy 2 người ăn khá nhanh ngán.\nMón má heo nướng tảng rất ngon, tẩm ướp gia vị thơm ngon, nhưng hơi mặn nếu dùng nước chấm.\nMột vài món trong thực đơn đã hết nguyên liệu hoặc đã dừng phục vụ.\nKhông gian rất yên tĩnh.\nCác bạn nhân viên lịch sự, tuy nhiên hơi chậm.",
+        "time": 1772990766,
+        "translated": false
+      },
+      {
+        "author_name": "Duc hau Truong",
+        "author_url": "https://www.google.com/maps/contrib/118265314278804829089/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX_DrBV2VLTmFsjMZVSvSa3L2ZewW7pYbZpTXtpGS3oDOes_g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, nhân viên phục vụ thân thiện nhưng ra món hơi lâu, tối có quán bar, có chỗ ăn ngoài trời thoáng mát, biển hiệu hơi khuất nhưng bên trong quán rất ok",
+        "time": 1770387368,
+        "translated": false
+      },
+      {
+        "author_name": "tê tê không cay",
+        "author_url": "https://www.google.com/maps/contrib/117304339135231295698/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYySLywBJ1XtY-LtblnyFwwvgh0tbJNkgcCniBTaqNfVREUY8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "đồ ăn ổn, bia ngon\ncó món đậu hũ gì đó thì hơi không được ngon lắm mình k chụp lại\nnhạc khá ồn nên khó nói chuyện, quán kiểu party hoặc nhậu thì oke",
+        "time": 1770459041,
+        "translated": false
+      },
+      {
+        "author_name": "Diệp Anh",
+        "author_url": "https://www.google.com/maps/contrib/111224196324633903550/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIsrxog1sSmx9bkoQiFwsxlqRVFa300sb5nmUbfth8CovrZjvWRg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn ngon , hợp khẩu vị , dịch vụ , không gian nhộn nhịp vui vẻ , vẫn nói chuyện ok .\nGiá thành phân khúc cao . Nhưng công nhận rất ngon .\nCác bạn nhân viên nhiệt tình , phục vụ chu đáo .\nRecomment mn đến đây nhé .",
+        "time": 1762008084,
+        "translated": false
+      },
+      {
+        "author_name": "My Hang Truong",
+        "author_url": "https://www.google.com/maps/contrib/116329068417358057449/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMGwu8ZmbeDQ0cVhFGoQD0S_mggKqLCV-ZuuPxLcH-h6hJY8pxIA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mặc dù rất hay đi ăn hàng quán, nhưng quán này là 1 trong số ít quán mà mình thường xuyên quay lại!\nRecommend heo quay, sườn nướng, dạ dày hầm!",
+        "time": 1771829379,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 772
+  },
+  "harvested_at": "2026-04-28T16:31:59.588375"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "95e1c6f55f04ee08",
+  "original_osm_name": "Hai Mâp",
+  "google_raw": {
+    "formatted_phone_number": "0978 136 330",
+    "geometry": {
+      "location": {
+        "lat": 11.9344913,
+        "lng": 108.4265699
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9357903802915,
+          "lng": 108.4279843802915
+        },
+        "southwest": {
+          "lat": 11.9330924197085,
+          "lng": 108.4252864197085
+        }
+      }
+    },
+    "name": "Quán ăn gia đình Hải Mập - Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Kiên Cường Viking",
+        "author_url": "https://www.google.com/maps/contrib/113748357270385481875/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-qaZsXlGcgUBgmCH3NgOVI2OH26siYdUlAXIDJvFzCQDk4oH8bA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không khí mát mẻ, quán rộng rãi và món ăn ở đây rất ngon, giá cả phải chăng nữa",
+        "time": 1768719390,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Thong Medicare (kiến tạo cuộc sống)",
+        "author_url": "https://www.google.com/maps/contrib/118272187276817238232/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhvJLtd6jY6W_gBTs4HL2ZQqW9Key5PqDkdHnoR5Cyo5fq61Ds=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán ăn ngon, bữa sáng bún riêu đặc sắc, món ăn buổi trưa rất nhiều món ngon phong phú, sữa đậu nành ngon đặc sắc, đặc biệt hơn nữa là có nguồn nước Hydrogen kangen, bạn được uống và xin về.",
+        "time": 1747653523,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Tân (New Day)",
+        "author_url": "https://www.google.com/maps/contrib/101134010403925139811/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5qUqcOHaFXFHRxuX207En_cyazsw6oMCpHeca_2wKX1ufgZ3z=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ở Đà Lạt 4 ngày buổi trưa mình đều ăn ở đây. Các món rất vừa miệng. Không phải quán kiểu hot tiktok nên khách ở đây vừa phải không quá đông nên ngồi ăn rất thoải mái. Menu quán thì đa dạng từ cơm gia đình đến thịt rừng nhưng món nào cũng chất lương và ngon.",
+        "time": 1723974579,
+        "translated": false
+      },
+      {
+        "author_name": "Huỳnh Tiến",
+        "author_url": "https://www.google.com/maps/contrib/102399582536455822416/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUizVr2zXCVjWdlcyhZyncS-sVbI5RHRwB7Mr8YRvlSMsjRWpWamA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán ăn xuất sắc, vô tính ghé ăn sáng thôi mà k ngờ cũng là quán nổi tiếng ở Đà Lạt, không quá đông ngồi ăn thoải mái, đồ ăn sạch sẽ siêu ngon, lâu mới ăn được hương vị giống hồi xưa, chị chủ +1 tinh tế, tỉ mỉ, khách nam thì thêm đồ ăn, giá hợp lí, nói chung mọi người nên ghé trải nghiệm nhé",
+        "time": 1754358698,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Triết Dương Quang",
+        "author_url": "https://www.google.com/maps/contrib/100732863474558713232/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2jwgeqpNvIBDCMg4zYMFRqN1hMh_M7De9bbbDne-s-vFk5vaQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đơn sơ, bình thường nhưng ăn cực ngón, giá bình dân mà phần đồ ăn lại rất nhiều. Nhân viên cúng dễ chịu, hiền lành, kiểu như gia đình phục vụ mình vậy.\nĐặc biệt là món óc heo, tuỷ heo tiềm thuốc bắc. Rất dễ ăn, con nít cũng khoái ăn nữa là.\nGia đình mình được 1 bữa no nê, đã cái miệng.\nĂn cơm cũng được, nhậu cũng được.\nĐáng trải nghiệm khi đến Đà Lạt.\n16 người = 1,8tr (có uống bia)",
+        "time": 1754320732,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 606
+  },
+  "harvested_at": "2026-04-30T14:54:33.663540"
+}

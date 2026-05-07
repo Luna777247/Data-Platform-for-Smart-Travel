@@ -1,0 +1,174 @@
+{
+  "u_key": "efd24ea9285758a1",
+  "original_osm_name": "Anh Ti",
+  "google_raw": {
+    "formatted_phone_number": "0987 824 285",
+    "geometry": {
+      "location": {
+        "lat": 16.0682463,
+        "lng": 108.2248133
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0695897802915,
+          "lng": 108.2262383802915
+        },
+        "southwest": {
+          "lat": 16.06689181970849,
+          "lng": 108.2235404197085
+        }
+      }
+    },
+    "name": "Ăn Thôi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–21:30",
+        "Thứ Ba: 10:30–21:30",
+        "Thứ Tư: 10:30–21:30",
+        "Thứ Năm: 10:30–21:30",
+        "Thứ Sáu: 10:30–21:30",
+        "Thứ Bảy: 10:30–21:30",
+        "Chủ Nhật: 10:30–21:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Xuân Ánh",
+        "author_url": "https://www.google.com/maps/contrib/112298935395453275426/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcYVu2A5_HmgeCmEJ-fSmIahZl0Ybw_1P_Ksrdzo9kss5FLzKp=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "phở lòng ngon, không gian thoáng mát, nhân viên nhiệt tình, mừ điểmmmmmm",
+        "time": 1771991475,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Hue",
+        "author_url": "https://www.google.com/maps/contrib/115104263316247317229/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJncsK3xBhReveMVktfpeWhqDvdsuTvpIPtpaJfUVoDDj99AK0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn signature, cũng siuuuu ngon. Mình gọi 3 món, món nào cũng thích hết á, đẹp nữa. Gỏi bưởi must tryyyy. Kgian quán mát mẻ, anh chị nhân viên nhiệt tình, supportive nèee",
+        "time": 1763101721,
+        "translated": false
+      },
+      {
+        "author_name": "Ánh Mai",
+        "author_url": "https://www.google.com/maps/contrib/102964273237379777735/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjdy8nxW4DBgu1wqp_M9scwaTOJEK8PfBoO4ux79f_akg_Rg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mỗi lần đến đà Nẵng mk đều đến để ăn ở đây. Đồ ăn ngon, nhân viên thân thiện có cả điều hoà nữa. Mk đã có trải nghiệm rất tốt!!!",
+        "time": 1771646932,
+        "translated": false
+      },
+      {
+        "author_name": "Tai Huynh",
+        "author_url": "https://www.google.com/maps/contrib/104883078624754900433/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2-QFWdCyuUogYigL0wJQPHUycneqxxA_1bns0BuIhMhvtBkXu=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán Ăn Thôi Đà Nẵng là một điểm đến không thể bỏ qua nếu bạn muốn thưởng thức ẩm thực đặc sắc trong một không gian tuyệt vời và dịch vụ đỉnh cao!\n•\tChất lượng món ăn: 9/10 Món ăn tại quán rất tươi ngon, đậm đà hương vị đặc trưng của Đà Nẵng như mì Quảng, bún chả cá, nem rán. Cách chế biến tinh tế, hương vị hấp dẫn, chỉ hơi tiếc một số món như sò quạt không được đặc sắc.\n•\tDịch vụ: 10/10 Nhân viên cực kỳ thân thiện, nhiệt tình và chuyên nghiệp. Từ cách chào đón đến phục vụ món ăn đều nhanh nhẹn, chu đáo, mang lại cảm giác thoải mái và được chăm sóc tận tình.\n•\tGiá trị: 10/10 Giá cả hợp lý đến bất ngờ so với chất lượng món ăn và dịch vụ. Một bữa ăn ngon, chất lượng mà không làm ví tiền “đau”, rất đáng đồng tiền bát gạo.\n•\tSự sạch sẽ: 10/10 Quán cực kỳ sạch sẽ, từ khu vực ăn uống đến nhà vệ sinh đều được giữ gìn cẩn thận. Môi trường vệ sinh tạo cảm giác an tâm tuyệt đối khi dùng bữa.\n•\tBầu không khí: 10/10 Không khí quán ấm cúng, sôi động mà vẫn gần gũi, đúng chất Đà Nẵng. Rất lý tưởng để tụ họp bạn bè, gia đình.\n•\tThiết kế: 9/10 Không gian được trang trí tinh tế, đậm nét văn hóa địa phương, tạo cảm giác ấm áp. Tuy nhiên, vào giờ cao điểm, quán có thể hơi chật, nhưng tổng thể vẫn rất dễ chịu.\n•\tVị trí: 10/10 Quán nằm ở vị trí trung tâm, dễ tìm và thuận tiện di chuyển, gần các điểm tham quan nổi tiếng. Phù hợp cho cả khách du lịch và người dân địa phương.\nTổng kết: Quán Ăn Thôi Đà Nẵng là một điểm đến lý tưởng với món ăn ngon, dịch vụ tuyệt vời, giá cả hợp lý, và không gian sạch sẽ, thân thiện. Chắc chắn sẽ quay lại khi ghé thăm Đà Nẵng!",
+        "time": 1748918149,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Hiếu",
+        "author_url": "https://www.google.com/maps/contrib/106149854398763384469/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWTeGzK4JE5J-uivd2kutjf0y-1p9w1-Jlh2YhGd7RfC6ORfF-=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bữa ăn ở đây ấm cúng. Nhân viên thân thiện, đồ ăn tươi ngon. Nên thử  Hàu pho mai, thơm, béo ngậy .",
+        "time": 1765110556,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6721
+  },
+  "harvested_at": "2026-04-29T09:56:22.505351"
+}

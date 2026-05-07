@@ -1,0 +1,174 @@
+{
+  "u_key": "fbaf08d34e33fce5",
+  "original_osm_name": "Dê nghia",
+  "google_raw": {
+    "formatted_phone_number": "0942 353 535",
+    "geometry": {
+      "location": {
+        "lat": 16.0495558,
+        "lng": 108.2391935
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0509641802915,
+          "lng": 108.2405088802915
+        },
+        "southwest": {
+          "lat": 16.0482662197085,
+          "lng": 108.2378109197085
+        }
+      }
+    },
+    "name": "Hệ Thống Dê Nghĩa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:30",
+        "Thứ Ba: 09:00–23:30",
+        "Thứ Tư: 09:00–23:30",
+        "Thứ Năm: 09:00–23:30",
+        "Thứ Sáu: 09:00–23:30",
+        "Thứ Bảy: 09:00–23:30",
+        "Chủ Nhật: 09:00–23:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Dung Pham",
+        "author_url": "https://www.google.com/maps/contrib/101920959798015299119/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhLS4lN0U2X7JHjh1BdNvIkYA9t1avrDDWu7XIBmSegIjy6vun=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán to sạch đẹp!\nNhân viên quá ngoan , nhiệt tình , nhanh nhẹn!\nĐón tiếp nồng hậu ngay từ cổng!\nThịt dê mềm , tươi!\nCám ơn em Na, nhiệt tình mua giúp dưa leo cho c !\nQuá là ưng luôn ạ, sẽ quay lại nếu đến ĐN!\nChúc mừng chủ quán có đội ngũ nhân viên quá là ổn ! Món ăn ngon+ phục vụ chu đáo là đã thành công 80% r ạ!",
+        "time": 1769493687,
+        "translated": false
+      },
+      {
+        "author_name": "Duyên Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/100607589785794614574/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPXQt3d_rMnP_o35u1MTdMtzSDx5bUmfx1cfVX1Syz_svIc5o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình đã đặt tiệc ở đây..quán đã chuẩn bị rất chu đáo,món ăn ngon,nhân viên vui vẻ..tôi rất thích",
+        "time": 1772597171,
+        "translated": false
+      },
+      {
+        "author_name": "Hao Bui",
+        "author_url": "https://www.google.com/maps/contrib/109280419671079065458/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2n-qpEt5CbeNq5oQ9RtTI6yjHl9Zj_EYeABfXbRZWgTy1eIPa=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trải nghiệm tại quán rất tệ. Nhân viên phục vụ thiếu chuyên nghiệp và có thái độ không tốt với khách. Chúng tôi gọi 3 món nhưng chỉ được mang ra 2 món, món còn lại đợi rất lâu không thấy đâu. Trong khi đó, nhân viên thì đứng rất đông nhưng lại tụ tập giỡn với nhau, không chú ý phục vụ khách. Chỉ khi chúng tôi hỏi lại món thứ 3 thì nhân viên mới vội vàng chạy đi kiểm tra. Vì chờ quá lâu nên chúng tôi quyết định không ăn nữa và gọi tính tiền, nhưng nhân viên lại tỏ thái độ khó chịu. Chưa hết, khi mang hóa đơn ra thì còn tính nhầm những món chúng tôi không hề ăn. Trải nghiệm quá thất vọng, sẽ không quay lại.",
+        "time": 1767611418,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Loan Nguyen Thi",
+        "author_url": "https://www.google.com/maps/contrib/109277242645686436877/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHhivffX4EvmHadfVupf7_b2l_g3sIhBE7US0kEvYe5bhvV5LFtw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn bình thường,không gian thoáng mát.\nAi là tín đồ của dê thì nên thử.\nVì quán chỉ có dê chớ ko có món nào khác nữa nên ăn nhanh bị ngán.",
+        "time": 1755096963,
+        "translated": false
+      },
+      {
+        "author_name": "Hồ Thị Ngọc Thảo",
+        "author_url": "https://www.google.com/maps/contrib/100654676230276212679/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRn9ZgrX020u3JvmWwV8yNjDybn_Mvop9_LmFc3N55jeScgPeA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "không gian thoải mái, đồ ăn vừa miệng giá cả hợp lý hơn nữa phục vụ còn vui vẻ nhiệt tình, sẽ tiếp tục ghé",
+        "time": 1767694282,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1294
+  },
+  "harvested_at": "2026-04-29T09:40:40.943675"
+}

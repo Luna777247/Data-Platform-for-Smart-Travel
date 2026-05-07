@@ -1,0 +1,173 @@
+{
+  "u_key": "fcce238d0f17702b",
+  "original_osm_name": "Crazy Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0906 824 999",
+    "geometry": {
+      "location": {
+        "lat": 11.9343639,
+        "lng": 108.4297448
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9356818302915,
+          "lng": 108.4310762802915
+        },
+        "southwest": {
+          "lat": 11.9329838697085,
+          "lng": 108.4283783197085
+        }
+      }
+    },
+    "name": "Crazy Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1830"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–18:30",
+        "Thứ Ba: 07:30–18:30",
+        "Thứ Tư: 07:30–18:30",
+        "Thứ Năm: 07:30–18:30",
+        "Thứ Sáu: 07:30–18:30",
+        "Thứ Bảy: 07:30–18:30",
+        "Chủ Nhật: 07:30–18:30"
+      ]
+    },
+    "rating": 3.3,
+    "reviews": [
+      {
+        "author_name": "Thanh Minh Phung",
+        "author_url": "https://www.google.com/maps/contrib/116346339791360692781/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWL0o-VyYtPjqsTX_q26z7rnDZKVUzXz21cVNbA535fjjdizpWM=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "11 tháng trước",
+        "text": "Crazy Coffee Đà Lạt: Thiên đường bình yên giữa lòng thành phố\nTôi đã có một trải nghiệm thật sự đáng nhớ tại Crazy Coffee Đà Lạt! Nơi đây không chỉ là một quán cà phê, mà còn là một thiên đường bình yên đúng nghĩa. Không gian cực kỳ yên tĩnh và nhẹ nhàng, rất lý tưởng cho những ai muốn tìm một chốn riêng để thư giãn, đọc sách hay làm việc.\nKhung cảnh xung quanh quán thì vô cùng đẹp, với cây xanh và cách bài trí tinh tế, tạo nên một không gian lãng mạn và đầy chất thơ. Đặc biệt, nhân viên ở đây rất dễ thương và luôn nở nụ cười, tạo cho tôi cảm giác được chào đón và phục vụ một cách chu đáo nhất.\nCrazy Coffee chắc chắn là một địa điểm không thể bỏ lỡ khi đến Đà Lạt. Tôi chấm 5 sao cho trải nghiệm tuyệt vời này và nhất định sẽ quay lại!",
+        "time": 1747820624,
+        "translated": false
+      },
+      {
+        "author_name": "Long Vux",
+        "author_url": "https://www.google.com/maps/contrib/103979936074580576598/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFYot_oOxlL_7GGGKFFxHozHufZ0XEIUUReild3vsPPsx_k3PbYQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Thực đơn rất đẹp mắt và phong phú. Nhưng hình ảnh chỉ mang tính chất minh hoạ.Đúng hơn là lừa đảo trắng trợn. Thực chất chỉ có duy nhất trà đào cam sả với cafe. Và ly trà đào cam sả tôi nhận được. Không lời nào diễn tả luôn.",
+        "time": 1677644454,
+        "translated": false
+      },
+      {
+        "author_name": "Thùy Phương Phan Thị",
+        "author_url": "https://www.google.com/maps/contrib/100563582431515228155/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKWNGPEyD-gwGtmEn3l6qj-FW6uPUXF9lmXBaIv_snz1Y_NF0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Không khí thoải mái, thoáng mát\nĐồ uống ngon",
+        "time": 1707975199,
+        "translated": false
+      },
+      {
+        "author_name": "huong nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114362758668894812968/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrAvgkeGQe-11lqeT-ujg3swuXwGzsxgpGGmnk1M_Ol0zD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Caffee rất ngon  ,nước ép rất tuyệt vời tươi ngon phong cảnh  Hoa và cây cối rất đẹp! Nhận viện phục vụ rất dễ thương nha các bạn!!!mình thích  có lẽ mình sẽ thường Uyên ghé quán.",
+        "time": 1686550561,
+        "translated": false
+      },
+      {
+        "author_name": "Tường Vy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101107059723137810723/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0v8JtPDh4ggFRpRweZPbB4aTO3vrD_fqtdujguKio5Ubz5g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Đẹp và lạ,một trải nghiệm thú vị.",
+        "time": 1591085711,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 44
+  },
+  "harvested_at": "2026-04-30T15:07:10.002589"
+}

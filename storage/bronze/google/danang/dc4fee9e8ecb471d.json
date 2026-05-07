@@ -1,0 +1,173 @@
+{
+  "u_key": "dc4fee9e8ecb471d",
+  "original_osm_name": "Lua Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0905 179 519",
+    "geometry": {
+      "location": {
+        "lat": 16.0690879,
+        "lng": 108.2248737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0704307302915,
+          "lng": 108.2262997802915
+        },
+        "southwest": {
+          "lat": 16.0677327697085,
+          "lng": 108.2236018197085
+        }
+      }
+    },
+    "name": "Bếp Lụa vietnamese restaurant ( 볩루아 베트남식당 )",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Phan Nhy",
+        "author_url": "https://www.google.com/maps/contrib/112501516602782635066/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXJ5IGVen4J56XiZr6CE6MmgF8pPWUwW1noE_ArkLcwbXrpg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Món ăn ngon, nhân viên phục vụ nhiệt tình. Nằm ngay trung tâm nên ăn xong đi bộ ngắm phố phường, đường hoa cũng okila 🥰",
+        "time": 1771044528,
+        "translated": false
+      },
+      {
+        "author_name": "Tùng Nguyễn Xuân",
+        "author_url": "https://www.google.com/maps/contrib/113874397884075199517/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3W2c5O5Ixn6wx6aFFPklf7o7R7IWOgqn-g30nNlFmhF6AJYz9=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ngày Tết , mặc dù đã điện đặt trước, nhưng đến nơi vẫn phải xếp hàng 😢🥲🥵",
+        "time": 1771591990,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Hoa",
+        "author_url": "https://www.google.com/maps/contrib/105071508467969174919/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUBBnx98HeTZRXWQdP3W5aUsceonJ_mmMhaaQyI6vQTkm_PketMQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Thực đơn các món ăn truyền thống Việt Nam, món ăn địa phương. Không gian thiêng về hướng đến khách nước ngoài hơn nên vị chưa được đậm đà, ổn chứ không xuất sắc.\nKhông gian sạch sẽ, nhân viên thân thiện. Một điểm lưu ý nhỏ là mình đã đặt bàn trước nhưng lúc đến thì lại chưa được sắp xếp ghế sẵn.",
+        "time": 1760795560,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Huong Giang",
+        "author_url": "https://www.google.com/maps/contrib/110432333648747704401/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUDL30ZLS8vYwseQroGqBUcaZmz8tNr3Zx1okLiFkHS4lkUuHa=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn ngon, phục vụ tốt.",
+        "time": 1758470298,
+        "translated": false
+      },
+      {
+        "author_name": "Vĩ Ngô",
+        "author_url": "https://www.google.com/maps/contrib/105014522602893239325/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVf5w89rvTEHjL-tMYx4F4p5-g1Y9D3KXJYb4cLKTHxzmdVLb7r=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon dịch vụ ok nhân viên phục vụ tốt rất hài lòng",
+        "time": 1772447423,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2078
+  },
+  "harvested_at": "2026-04-29T09:46:37.057203"
+}

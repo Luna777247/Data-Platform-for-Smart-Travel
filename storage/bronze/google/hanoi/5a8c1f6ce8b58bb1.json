@@ -1,0 +1,173 @@
+{
+  "u_key": "5a8c1f6ce8b58bb1",
+  "original_osm_name": "Nhà Hàng Lẩu Hơi Cosmos",
+  "google_raw": {
+    "formatted_phone_number": "0989 062 015",
+    "geometry": {
+      "location": {
+        "lat": 21.0258865,
+        "lng": 105.8224345
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.02725363029151,
+          "lng": 105.8237660802915
+        },
+        "southwest": {
+          "lat": 21.0245556697085,
+          "lng": 105.8210681197085
+        }
+      }
+    },
+    "name": "Quán Lẩu Hơi Cosmos",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Channel Elip",
+        "author_url": "https://www.google.com/maps/contrib/110456373717411400653/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc-TpXP0R-i70r7opjQPPN4bnavw0qcgTS9o-e9f3qcsdETg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ không ngon, giá cao. K như hình, ăn nhát 1 chờ 40’ mới đc 1 món. Nói chung tốn kém, nên chọn món khác",
+        "time": 1760592168,
+        "translated": false
+      },
+      {
+        "author_name": "Vìnắngmãinênmưa",
+        "author_url": "https://www.google.com/maps/contrib/116840124272939975476/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIR46v0IPkEjMxvNQIDURwkyubmt9KVA5cwjOgoThxgGGOewqisQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình thấy đồ ăn ngon …tươi…sạch… nhân viên phục vụ nhiệt tình…. Quán lúc nào cũng đông nhưng sạch sẽ….vị trí giao thông thuận lợi….Quán đầu tư vào đồ ăn thôi nên những ai muốn đến để có khung cảnh chill chill thì ko có nhé…. Quán Việt Nam như thế này là ổn rồi….Vote 5* cho quán nhé….❤️",
+        "time": 1739493755,
+        "translated": false
+      },
+      {
+        "author_name": "quý nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105405313464663828029/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnFIbTGffewgBcTP2-LPEQsMuvhNc4gHW0pQ_nicNoIqAxWuT9mQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 tháng trước",
+        "text": "quán thì vắng, đồ ăn thì chẳng ra gì, vì tò mò món lẩu hơi nên mới tới,  tự dưng mang cục tức trong người.",
+        "time": 1748014263,
+        "translated": false
+      },
+      {
+        "author_name": "Đỗ Quang Huy",
+        "author_url": "https://www.google.com/maps/contrib/106093951854130513714/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6bc391pT75D4GG1TCk0ZMHfRhQdjTvANyfbDHytRhjJ43IbW9tw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn rất ngon\nVừa miệng",
+        "time": 1707205728,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa Đào",
+        "author_url": "https://www.google.com/maps/contrib/110211069240811360356/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIrj-WE9Ow5snXKiULYQlG4H-kBEMgBf-fakWxvT8KMVtWxDPS=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Cá nhân m thích đồ lẩu hấp như này. K dầu mỡ, cháo ngon đậm đà mà quá ư là dư chất luôn. Chim câu ở đây rất mềm ngọt thịt. Thịt gà cũng vậy ok. Ăn ở mấy chỗ khác cháo thường có hành khô. Chỗ này lại k có. giá thành thì hơi cao vì đĩa salad dưa chuột xà lách mà tận 70K luôn.",
+        "time": 1682820294,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 73
+  },
+  "harvested_at": "2026-04-28T16:27:07.703105"
+}

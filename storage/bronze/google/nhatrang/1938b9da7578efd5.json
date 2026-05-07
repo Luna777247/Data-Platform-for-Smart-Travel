@@ -1,0 +1,174 @@
+{
+  "u_key": "1938b9da7578efd5",
+  "original_osm_name": "Lac Canh",
+  "google_raw": {
+    "formatted_phone_number": "0258 3821 391",
+    "geometry": {
+      "location": {
+        "lat": 12.2569018,
+        "lng": 109.194521
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2582056302915,
+          "lng": 109.1958515802915
+        },
+        "southwest": {
+          "lat": 12.2555076697085,
+          "lng": 109.1931536197085
+        }
+      }
+    },
+    "name": "Quán Bò Nướng Lạc Cảnh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–21:00",
+        "Thứ Ba: 09:30–21:00",
+        "Thứ Tư: 09:30–21:00",
+        "Thứ Năm: 09:30–21:00",
+        "Thứ Sáu: 09:30–21:00",
+        "Thứ Bảy: 09:30–21:00",
+        "Chủ Nhật: 09:30–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Helen Thuỳ Mai",
+        "author_url": "https://www.google.com/maps/contrib/116391397115429291114/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXDAM3wjlU_xVXS3-DTwo0wIVUyBl8W6xY8jxWr-ToqDu2jw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Bữa trưa ngon miệng,nay quán thoáng và đỡ ngợp hơn.Ăn ngon hơn tất cả các lần trước mình ăn.đồ ăn tươi ngon bò mềm,cơm chiên muối ớt cũng ngon tương đối",
+        "time": 1772600939,
+        "translated": false
+      },
+      {
+        "author_name": "hin b",
+        "author_url": "https://www.google.com/maps/contrib/115791088584067479770/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeb5ZSSmEXc-tvTiHuTcMqWCcpGpiRlsXb9MaN1qh9G5g1HAjl=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bò với mình vẫn là số 1 nhờ thịt ướp rất ngon nhưng hơi ít. Lươn đùm cũng là một món rất nên thử khi đến đây.\nBánh mì là 8k/ổ, salad ăn kèm là phải mua riêng chứ không còn kèm với bò như hồi xưa nữa, giá 25k/dĩa",
+        "time": 1771937518,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Lê Duy Khang",
+        "author_url": "https://www.google.com/maps/contrib/116186324787778094794/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIj2qyv00_wRspzOASeC9Zz_dupl6-EfyIHVQGEJtO-YyZi99V=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rộng rãi với 3 tầng và tầng nào cũng nhiều bàn. Là một quán ăn lâu đời của Nha Trang do đó mình ghé thử vào dịp Tết.\nKhẩu vị có lẽ không hợp với mình và gia đình dù mình là người miền Nam. Bò nướng Lạc Cảnh khá ngọt, hơi dai nếu cho người lớn tuổi và em bé. Sau đó mình gọi thêm lẩu gà lá giang cho quen thuộc thì vị cũng lạ lạ, kiểu lẩu lá giang nấu với gà xào xả\n6.5/10",
+        "time": 1771820649,
+        "translated": false
+      },
+      {
+        "author_name": "Rachel Phan",
+        "author_url": "https://www.google.com/maps/contrib/106349116750027490415/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJLNt_VDNtVePTvoAtaNwaTmswKwCQ82tdPlWEU5CIThZuTZQR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Điểm cộng là đồ ăn tươi ngon. Mình kêu một phần bò nhỏ, mực nướng vỉ nhỏ và miến cua. Bò và mực nếu biết nướng thì sẽ không dai. Miến cua rất ngon nha. Mọi người nên thử.\n\nCác bạn nhân viên phục vụ khá nhanh nhẹn.\n\nĐiểm trừ duy nhất là khói, ăn xong sẽ bị ảm mùi đồ nướng. Ăn xong mình mới biết là có thể gọi quán nướng sẵn.",
+        "time": 1771604701,
+        "translated": false
+      },
+      {
+        "author_name": "Lil Trịnh",
+        "author_url": "https://www.google.com/maps/contrib/115487001301318760878/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqh53AKG9Wh1VpcvbY56cIdQFwfjqpRHT9m7ETeuj7hw_3zBM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán nổi tiếng là bò thì ăn bị dai, nướng còn tái (đâu phải bò nước ngoài). Mực nhúng dấm thì chua lè, phần 195k chắc được nửa 1 con. Thêm 3 ly nước chanh, 2 cái bánh mỳ nướng với đĩa bún nữa là 516k. Quá đắt so với khẩu phần và chất lượng. Nhân viên đông nhưng ko biết việc. Không gian thì xấu, tệ, bàn phục vụ thì nhìn dơ. Ko đề xuất. Nha Trang có rất nhiều quán ăn rẻ hơn, mà ko gian sang hơn và giá rẻ hơn.",
+        "time": 1767275471,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3950
+  },
+  "harvested_at": "2026-05-02T15:09:07.638755"
+}

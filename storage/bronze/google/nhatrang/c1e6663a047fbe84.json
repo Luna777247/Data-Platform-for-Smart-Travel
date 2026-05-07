@@ -1,0 +1,173 @@
+{
+  "u_key": "c1e6663a047fbe84",
+  "original_osm_name": "Izakaya San Japan restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0768 300 924",
+    "geometry": {
+      "location": {
+        "lat": 12.2399449,
+        "lng": 109.1925727
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2412584302915,
+          "lng": 109.1939329802915
+        },
+        "southwest": {
+          "lat": 12.2385604697085,
+          "lng": 109.1912350197085
+        }
+      }
+    },
+    "name": "San Izakaya",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–04:00",
+        "Thứ Ba: 17:00–04:00",
+        "Thứ Tư: 17:00–04:00",
+        "Thứ Năm: 17:00–04:00",
+        "Thứ Sáu: 17:00–04:00",
+        "Thứ Bảy: 17:00–04:00",
+        "Chủ Nhật: 17:00–04:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Huyền Phạm Thanh",
+        "author_url": "https://www.google.com/maps/contrib/100416820717827079456/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXW60Yuja-h5IIP2n1b_QttCfIKKiCi5U958-uO5x7Q6Ikxfvaq=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình đến sớm lúc 17h09 phút, quán vừa mới mở nên mọi người đợi đồ ăn hơi lâu xíu nha.\nSoup miso vị rất đầm dịu vừa phải ăn kèm cơm nóng rất hợp.\nCá hồi ngâm tương béo ngậy ăn chung vơus chanh vàng cắt lát hoà quyện vị giác k gây ngấy xíu nào.\nShushi set 3 loại miếng cà dày tươi ăn ngon hen.\nSet đồ nướng hỗn hợp hơi ớn do mình k hợp đồ nướng lắm.\nMì ramen dước dùng đậm k quá ngấy, trứng ngâm tương lòng đẹp đẹp ngon, bạn mình đánh giá cao.\nTóm lại là thiệt hại 900k mấy á. Nhưng cực kỳ chất lượng.\nNên thử hen",
+        "time": 1764414856,
+        "translated": false
+      },
+      {
+        "author_name": "Meo Kia",
+        "author_url": "https://www.google.com/maps/contrib/111588419948330732161/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0nfNgWraBpcRUFdwkdVuOwROrYdtomExocHm7Q3LQfP0hbFlJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Món hàu nướng mỡ hành mặn, hàu không chắc.\nThịt heo cơm cuộn mặn, có còn sót khúc tăm ở trong cơm.\nCơm cuộn 3 vị đặc biệt khá là ngon, rất là ổn áp, tuy nhiên vị trứng lấn át vị cá hồi\nLưỡi dai, nướng quá chín, mùi khét nồng nặc\nSalad vị cơ bản, không có gì đặc sắc\nLên món chậm chờ rất lâu phải tầm 30' lên 1 món thậm chí còn hơn\nNên cân nhắc khi đến",
+        "time": 1771075868,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Đông",
+        "author_url": "https://www.google.com/maps/contrib/114804392183411000005/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsxefZk7BybSetFEodhz74-tOUvj5iIXkn7Z79HSYMIeZ0jg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Lần đầu ghé Izakaya San và thật sự bất ngờ với không gian ấm cúng, đậm chất Nhật Bản. Quán sạch sẽ, nhân viên thân thiện, phục vụ nhanh và chu đáo.\n\nMón sushi ở đây phải nói là rất tươi và ngon – cá hồi béo, tôm ngọt, cơm dẻo vừa phải, vị chua nhẹ cực cân bằng. Từng phần được trình bày tỉ mỉ, đẹp mắt, đúng tinh thần tinh tế của ẩm thực Nhật. 🍣✨\n\nNếu bạn đang tìm một nơi để thưởng thức sushi chất lượng trong không gian yên tĩnh, chill nhẹ cùng bạn bè hay người thân, thì Izakaya San là lựa chọn hoàn hảo! 💯",
+        "time": 1759851346,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Thiên",
+        "author_url": "https://www.google.com/maps/contrib/115119884509820555722/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwaKaCiEZK5ScyapRdWl0mBYupMIcC5sIuVp8wjbZ4RR4bqA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chờ hơn 30 phút cho 2 món ramen và cơm nên cuối cùng phải mang về, khâu phục vụ bất ổn và lâu kinh khủng, chờ lấy bill và thối tiền cũng lâu. Tuy đồ ăn khá ngon và quán mở list nhạc ost anime khá hợp gu nhưng khâu phục vụ quán cần chấn chỉnh và khắc phục",
+        "time": 1770830160,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Dũng Lê",
+        "author_url": "https://www.google.com/maps/contrib/105882544938739330880/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWPFhOe7Ia-w3CeLWkG4ewqTvyZHwfHLg_64ZiDV0ciRleHAVE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Được hôm off, muốn trải nghiệm thử đồ Nhật thì có ghé được vào quán này. Nhân viên thì nhiệt tình, hướng dẫn vào bàn có đưa ra các gợi ý món best seller của quán.\nMón ăn ra cũng khá nhanh và rất vừa khẩu vị mình.  Giá cả cũng hợp lý. Đặt biệt khi gọi món xong thì có trái cây để ăn chờ món.\nLần sau mình sẽ ghé lại.",
+        "time": 1772648321,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 696
+  },
+  "harvested_at": "2026-05-02T15:22:56.979747"
+}

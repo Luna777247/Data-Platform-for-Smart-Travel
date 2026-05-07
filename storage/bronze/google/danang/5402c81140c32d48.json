@@ -1,0 +1,173 @@
+{
+  "u_key": "5402c81140c32d48",
+  "original_osm_name": "Com Tâm Cô Nga",
+  "google_raw": {
+    "formatted_phone_number": "0913 749 898",
+    "geometry": {
+      "location": {
+        "lat": 16.0724116,
+        "lng": 108.1564751
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0737119802915,
+          "lng": 108.1578892302915
+        },
+        "southwest": {
+          "lat": 16.0710140197085,
+          "lng": 108.1551912697085
+        }
+      }
+    },
+    "name": "Cơm Gà Cô Nga",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–20:00",
+        "Thứ Ba: 10:00–20:00",
+        "Thứ Tư: 10:00–20:00",
+        "Thứ Năm: 10:00–20:00",
+        "Thứ Sáu: 10:00–20:00",
+        "Thứ Bảy: 10:00–20:00",
+        "Chủ Nhật: 10:00–20:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Van Vu",
+        "author_url": "https://www.google.com/maps/contrib/115411850167804211930/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJo-RmO19A-5OPZC2J8YfOd9z-XjrooIRUK7kaMWTPFhfgS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon , quán sạch sẽ bạn nv dễ thương\nGiá cả hợp lý , đunhs kiểu ngon bổ rẻ\nMọi người nên ghé thử nha",
+        "time": 1770901815,
+        "translated": false
+      },
+      {
+        "author_name": "Châm Châm",
+        "author_url": "https://www.google.com/maps/contrib/108711157294653162479/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV94XGeNGCF4qdWTl0fQ3Z6EnQwJGLLgfvwFcerwmaSM6xpj_w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Ê cơm ngon nha đi ngang thấy sạch sẽ bắt mắt ghé ăn thử ai dè ghiền luôn Á . Thấy có bếp mở cho khách xem quá trình làm là thấy thích rồi . Giá củng rẻ nữa . Nói chung mình rất hài lòng hứa sẽ quay lại nhiều lần",
+        "time": 1753271782,
+        "translated": false
+      },
+      {
+        "author_name": "fiona jones",
+        "author_url": "https://www.google.com/maps/contrib/113118157931062132156/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3TCm7LtFfYJSFFJMl02OI5mmhV8sSiqLzdJ6SMydVaiv6qq9LGQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn ổn\nMà đang ăn rau muống xào thấy sợi tóc dài ngoằng.\nChủ quán làm bếp nên buộc tóc gọn gàng vào nha",
+        "time": 1757220752,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nhật",
+        "author_url": "https://www.google.com/maps/contrib/101078460678387955149/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHnQojK5_9bzQQDcylLJKslnIHV4r5Hcvceq_BTtcGZ81BK-aK=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần đâu đi đường ghé trải nghiệm\nKêu có 4 món mà đợi 30p\nDịch vụ quá tệ đi",
+        "time": 1771745719,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Linh Pham",
+        "author_url": "https://www.google.com/maps/contrib/115569794558109039229/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOWZEgqn5FG-J8HEHcNNgF33v1xt8sSCD3FXiZPeEqzA8ZSMjMjw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Cơm ngon, giá rẻ, quán mới, sạch sẽ.",
+        "time": 1756724604,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 16
+  },
+  "harvested_at": "2026-04-29T09:46:12.000653"
+}

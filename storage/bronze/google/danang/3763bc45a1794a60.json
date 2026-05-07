@@ -1,0 +1,174 @@
+{
+  "u_key": "3763bc45a1794a60",
+  "original_osm_name": "vegetarian restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0865 528 252",
+    "geometry": {
+      "location": {
+        "lat": 16.0486723,
+        "lng": 108.2478556
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0500380302915,
+          "lng": 108.2492654302915
+        },
+        "southwest": {
+          "lat": 16.0473400697085,
+          "lng": 108.2465674697085
+        }
+      }
+    },
+    "name": "Roots",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–22:00",
+        "Thứ Ba: 07:30–22:00",
+        "Thứ Tư: 07:30–22:00",
+        "Thứ Năm: 07:30–22:00",
+        "Thứ Sáu: 07:30–22:00",
+        "Thứ Bảy: 07:30–22:00",
+        "Chủ Nhật: 07:30–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Mộc",
+        "author_url": "https://www.google.com/maps/contrib/113655569489712135907/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrRjI00UQLuZmExF37CHTOUck5HPGY6eK9OlhsglO8lR24YBw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chủ yếu khách tây. Quán sạch sẽ phong cách âu. Phục vụ tự lại quầy lấy menu rồi order",
+        "time": 1770725262,
+        "translated": false
+      },
+      {
+        "author_name": "Kevin Shannon",
+        "author_url": "https://www.google.com/maps/contrib/107035955377155319388/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsqT2vRgYsctqSo-kPX1s-uwkCwceAmIzG9UQ5Y8utfEiClXX6kg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Roots Cafe thật sự rất tuyệt vời. Đồ ăn ở đây luôn tươi, sạch và cực kỳ ngon. Các chị ở quán cực kỳ dễ thương, thân thiện và vô cùng tử tế, lúc nào cũng niềm nở và khiến mình thấy vui hơn mỗi khi ghé. Một đội ngũ quá đáng yêu và xuất sắc! Rất khuyên mọi người nên thử – chắc chắn bạn sẽ không thất vọng",
+        "time": 1771737777,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Le Hana",
+        "author_url": "https://www.google.com/maps/contrib/100172211066742684184/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPqvjuyxi_691qhMy3Cj0AUhqESnvpzNLsUoAPBT2JYv2ufg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhân viên nhiệt tình, thân thiện, bán hàng rất tốt, hiểu nhu càu của khách hàng, đặc biệt là Lan, Trinh, Bích, Hân, Hà. Đồ ăn rất ngon, tôi sẽ quay lại và sẽ giới thiệu cho bạn bè.",
+        "time": 1766389901,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Ngoc Thanh Truc K1415",
+        "author_url": "https://www.google.com/maps/contrib/118112053091051897249/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCHvYXsrBBUZGxP83tYjVZsgC1sIPQzjog9Q8fCZJ5J8Gqqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không gian yên tĩnh, thoải mái. Đồ ăn ngon, khẩu phần khá nhiều",
+        "time": 1769167555,
+        "translated": false
+      },
+      {
+        "author_name": "Hang Ro",
+        "author_url": "https://www.google.com/maps/contrib/103395515696133584390/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3DcPBfu3-4qZ59VPrQOrmF8L8buZRxGN0ij1zUKlfpDyfFrsN=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "11 tháng trước",
+        "text": "- Quán chay nên các sản phẩm không dùng từ sữa động vật.\n- Ở đây không có cafe pha phin đậm vị nếu bạn là người ưa thích hương vị cafe Việt, chỉ phục vụ Espresso và Americano. Tôi chưa thử đồ ăn nhưng đã thử nhiều loại đồ uống, tôi thấy không quá đặc sắc, đối với tôi nước uống chỉ là phụ, không gian mới là chính.\n- Quán nằm ở khu vực trung tâm cho khách du lịch, tệp khách hàng chủ yếu là người nước ngoài đến dùng bữa và làm việc, cho nên giá ở đây phù hợp với du khách hơn là dân địa phương.\n- Không gian trang trí bình thường, tông chủ đạo nâu-cam, các vật liệu từ lá cây và gỗ theo phong cách tropical, bầu không khí thì khá thoải mái, đông khách nhưng không quá ồn ào.\n- Quán có tầng 2 là không gian mở, hơi nóng vào buổi trưa. Tầng trệt có máy lạnh và có bàn ghế để ngồi ngoài hiên.\n- Bàn cao và ghế êm, nhiều ổ cắm điện, phù hợp ngồi làm việc.\n- Nhân viên: 4 sao ở khu vực order, staff có thể giao tiếp được bằng tiếng anh, thái độ bình thường, không quá thoải mái cũng không quá lạnh nhạt, có thể vui vẻ hơn với bạn nếu bạn là khách người nước ngoài. 1 sao cho nhân viên phục vụ có thái độ hơi “lạ” khi mang đồ uống đến bàn cho các khách. Tôi chưa từng nghe họ nói 1 lời nào như “mời bạn dùng nước”, “cảm ơn”, nhìn họ lúc nào cũng rất mệt mỏi và thái độ chán nản, không cười, tôi đã cười và cảm ơn họ nhưng họ thậm chí chẳng thèm giao tiếp bằng mắt với khách hàng. Không chỉ ở tôi, nhiều khách hàng khác bên cạnh cũng để ý và nhìn họ chằm chằm tỏ vẻ không vừa ý nhưng các bạn nhân viên cũng chẳng buồn bận tâm. Tôi đang tự hỏi điều đó là do các bạn ấy không có những phúc lợi tốt khi làm việc ở môi trường này hay là không được đào tạo chuyên nghiệp và khắc khe hơn?\n- Điểm cộng cho quán dùng ly thuỷ tinh, có nước lọc miễn phí, nhạc jazz với âm lượng vừa phải và nhà vệ sinh tách biệt ở ngoài phòng lạnh, thân thiện với thú cưng (nếu bạn có thú cưng, bạn có thể mang đến quán, với điều kiện chúng ngoan ngoãn và không nguy hiểm).\n- Vì họ có bán đồ ăn nên bạn sẽ không được mang thức ăn bên ngoài vào quán. Ghế sofa có phần cũ và ố bẩn khá nhiều. Nhiều khách hàng để chó của họ ngồi lên ghế nên hãy cẩn thận cho làn da của bạn nếu nó quá nhạy cảm, tôi khuyên bạn không nên mặc quần quá ngắn hoặc quá mỏng khi ngồi ở đây.",
+        "time": 1748338756,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3732
+  },
+  "harvested_at": "2026-04-29T09:55:50.964006"
+}

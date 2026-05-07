@@ -1,0 +1,172 @@
+{
+  "u_key": "a25be22ec0b8d098",
+  "original_osm_name": "Mi Vinh Loi",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9443668,
+        "lng": 108.4347736
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9456655802915,
+          "lng": 108.4361241802915
+        },
+        "southwest": {
+          "lat": 11.9429676197085,
+          "lng": 108.4334262197085
+        }
+      }
+    },
+    "name": "Tiệm mì Vĩnh Lợi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–20:00",
+        "Thứ Ba: 06:00–20:00",
+        "Thứ Tư: 06:00–20:00",
+        "Thứ Năm: 06:00–20:00",
+        "Thứ Sáu: 06:00–20:00",
+        "Thứ Bảy: 06:00–20:00",
+        "Chủ Nhật: 06:00–20:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Janie Lin",
+        "author_url": "https://www.google.com/maps/contrib/105453601966727331257/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdQFqlre6b4neMwkKis5JYO9AIoQeJBiAc25bi1TeuP6mlOU-O8A=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nhỏ nhỏ bán tại nhà, có khoảng 3 bàn thôi nha mọi người. Lối vào hơi nhỏ nên mọi người chú ý kĩ xíu sẽ thấy (nằm kế bên quán Hen bánh ướt lòng gà).\n\nVề phần món ăn, mình gọi mì khô gà rô ti, hủ tiếu xương cật và hoành thánh chiên. Và các món đều ngon nha mọi người, nêm nếm vừa vị, đúng chất hủ tiếu mì người hoa.\nTuy nhiên theo cá nhân mình thấy khẩu phần ăn hơi ít so với giá cả.\n\nTóm lại quán bán ngon, cô chủ thân thiện nè.\nSẽ quay lại nếu có dịp ghé Đà Lạt.",
+        "time": 1739764033,
+        "translated": false
+      },
+      {
+        "author_name": "Nghĩa Vân",
+        "author_url": "https://www.google.com/maps/contrib/100661949661010495470/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-QB4FlpXjMy0Gthm1R6NKBTZ_DFofluBxa3ZNlBRYm7X9AhCN9A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "2 phần mì chỉ 85k giá quá ổn áp luôn 😋 về khẩu vị thì mình chấm 8/10.\nCô lớn tuổi rất nhiệt tình vui vẻ, giá bình dân.",
+        "time": 1739254089,
+        "translated": false
+      },
+      {
+        "author_name": "Quan Vo",
+        "author_url": "https://www.google.com/maps/contrib/115156978444529521295/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtIzv7Bs0fiIIfE1YPy3g162jQ6yJozKT4zwcpu3ppT5nHEa8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "mì người Hoa ăn rất ngon. sợi mì tươi, có giấm tiều dùng kèm, cật và hoành thánh đều ngon.\ncô chú chủ quán rất hiền và nhiệt tình.\nđường vô quán là con dốc nhỏ hơi khó thấy nhưng rất đáng để đến ăn nhiều lần",
+        "time": 1719728661,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Truc",
+        "author_url": "https://www.google.com/maps/contrib/110332238960801319797/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVz1tGlspBIvd0lZoszRw9nBicTE2XCcR7UBANUmrKYK599KO0C=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Mình ăn hủ tiếu xương ở đây, ngon lắm nha, nước dùng thanh thịt xương mềm. Quán khá nhỏ, nằm trên con dốc nên chổ gửi xe hơi khó khăn nha",
+        "time": 1750494477,
+        "translated": false
+      },
+      {
+        "author_name": "thao thanh",
+        "author_url": "https://www.google.com/maps/contrib/109362894802926307898/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaR2-Yc8lJP07EpQDAdD291bNP3AREFa2jCYrZGnYO0c8qJvBr=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "cọng mì mướt mịn. Giá hợp lý nha\nNhẹ nhẹ 35-nhăm nhăm thôi . Lối vào là một bậc thang nhỏ có bảng hiệu .Quán ấm  lên món nhanh .\nMình đi 2 gọi 1 mì hoành thánh nhỏ với mì gà rôti (vị chắc bản địa nên ngọt ngọt)\nỚt sa tế ,giấm ,tương, ớt ngâm . Người địa phương và nước ngoài thường đến .\nKhông bánh căn xíu mại thì mì ký ủng hộ cô nha ❤️❤️",
+        "time": 1725155811,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 63
+  },
+  "harvested_at": "2026-04-29T13:28:58.437392"
+}

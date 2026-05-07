@@ -1,0 +1,173 @@
+{
+  "u_key": "037e3a164538951d",
+  "original_osm_name": "Tra Que Organic Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0982 814 063",
+    "geometry": {
+      "location": {
+        "lat": 15.9008344,
+        "lng": 108.3382889
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9021867802915,
+          "lng": 108.3396351302915
+        },
+        "southwest": {
+          "lat": 15.8994888197085,
+          "lng": 108.3369371697085
+        }
+      }
+    },
+    "name": "Tra que Organic Cooking class",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–17:00",
+        "Thứ Ba: 08:00–17:00",
+        "Thứ Tư: 08:00–17:00",
+        "Thứ Năm: 08:00–17:00",
+        "Thứ Sáu: 08:00–17:00",
+        "Thứ Bảy: 08:00–17:00",
+        "Chủ Nhật: 08:00–17:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "TRUC LU",
+        "author_url": "https://www.google.com/maps/contrib/112643058867717452673/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKpxs0nCDVUg8O0v3lgzfemgEcQJLrNeVC2g-j0ks206tINQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Nhà hàng ngay tại làng rau Trà Quế, mát mẻ , thức ăn ngon và cô chủ mến khách. Điểm đến đáng giá trong chuyến đi lần này của mình",
+        "time": 1663333326,
+        "translated": false
+      },
+      {
+        "author_name": "Hung Dang",
+        "author_url": "https://www.google.com/maps/contrib/112056105445921337254/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLLYl6nnZrrbGjgNUZKNU9GBmsPMGmEpjoPpXEc29ZC_kibjQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Bếp Tú ở nhà hàng này rất vui",
+        "time": 1669528418,
+        "translated": false
+      },
+      {
+        "author_name": "Haley",
+        "author_url": "https://www.google.com/maps/contrib/106195538876974935924/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdoZ-gIBnwTLr7JnpEw06RomherEob47zG8VZy5sR2dLuOaA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Trải nghiệm nấu ăn cùng thầy Tu thật tuyệt vời! Có rất nhiều lớp học nấu ăn được tổ chức khắp làng Trà Quế, nhưng lớp học này đặc biệt hơn cả vì thầy là một đầu bếp bậc thầy, và thực sự rất yêu thích ẩm thực Việt Nam. Thầy Tu là một người rất thú vị và nấu ăn cùng thầy rất vui. Nguyên liệu tươi ngon từ vườn nhà thầy là nền tảng cho tất cả các món ăn và mọi thứ đều rất ngon! Chúng tôi rất mong được thử các công thức nấu ăn của thầy tại nhà mình.",
+        "time": 1770898146,
+        "translated": true
+      },
+      {
+        "author_name": "Marcel Frank",
+        "author_url": "https://www.google.com/maps/contrib/115306286575506063447/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn0JU25PrUWtHuq75oAWr4vsii_Xk6tUiQZl7QD_bUkST4vA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Chúng tôi đã tham gia một lớp học nấu ăn với đầu bếp Ruby.\nCô ấy thật tuyệt vời và hài hước! Cô ấy giải thích từng bước một cách hoàn hảo và chúng tôi đã tạo ra một bữa ăn rất ngon. Chúng tôi cũng rất thích đi chợ vì đã học được rất nhiều về trái cây và rau củ. Rất khuyến khích lớp học nấu ăn này!👍🏼😍",
+        "time": 1761315835,
+        "translated": true
+      },
+      {
+        "author_name": "Annalisa Melandri",
+        "author_url": "https://www.google.com/maps/contrib/114190360225703390239/reviews",
+        "language": "vi",
+        "original_language": "it",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJB8H9y9hx4zaeAQy5rqxyAcuY5DYos79oX9HVeCQP8AVey7xlW=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Một chuyến đạp xe qua những cánh đồng và một lớp học nấu ăn thú vị, sau đó là bữa trưa. Trải nghiệm này có vẻ như được thiết kế riêng cho khách du lịch, nhưng hóa ra lại rất thú vị và thư giãn. Đồ ăn thực sự tuyệt vời!",
+        "time": 1756464928,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 46
+  },
+  "harvested_at": "2026-04-29T09:54:47.591606"
+}

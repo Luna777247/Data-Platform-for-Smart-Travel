@@ -1,0 +1,109 @@
+{
+  "u_key": "6fe56bfa81895b17",
+  "original_osm_name": "Len's Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0263 3547 888",
+    "geometry": {
+      "location": {
+        "lat": 11.947065,
+        "lng": 108.4404485
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9484873802915,
+          "lng": 108.4418276302915
+        },
+        "southwest": {
+          "lat": 11.9457894197085,
+          "lng": 108.4391296697085
+        }
+      }
+    },
+    "name": "Len's Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "nguyen anh",
+        "author_url": "https://www.google.com/maps/contrib/105589300777126677027/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHC1zqE9lVjH9esxLWQ9wtiRoCPg_5Afjo57SARRUgc4YiH_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình thật sự ấn tượng với không gian của khách sạn vì mọi góc đều được chăm chút kỹ, tạo cảm giác rất ấm áp mỗi khi bước vào.",
+        "time": 1772207216,
+        "translated": false
+      },
+      {
+        "author_name": "Chí Dũng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113252741105470953367/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQlBQld774xMZPmyYiG5n1GQK0zlZ5VSx51qgV3Z3NhP8Ax5bn-Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khách sạn nằm ở vị trí sầm uất trên đường Bùi Thị Xuân, cách Hồ Xuân Hương 500m.\nNhân viên khách sạn, niềm nở, lịch sự, thân thiện.\nBuffer sáng ở KS ít món nhưng làm khá ngon\nKhách sạn khá yên tĩnh không ồn ào. Phòng hơi nhỏ nên nếu đi gia đình có em bé sẽ hơi chật",
+        "time": 1768699022,
+        "translated": false
+      },
+      {
+        "author_name": "Tấn Lộc Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/104874572492721030469/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyoodCaBVUBoed0fz9Al4yzxoeRnXHSf-EUnmD22RpLa6gww=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian hành lang yên tĩnh, buổi sáng mở cửa ra là cảm nhận ngay không khí trong lành của Đà Lạt.",
+        "time": 1772805106,
+        "translated": false
+      },
+      {
+        "author_name": "Công Thái",
+        "author_url": "https://www.google.com/maps/contrib/109721371307118464189/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFF7CTiQRMiZ6ymf7yf_EEaBPNEiJL4tPtOnePzI83ZWsgRPQ_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "mình trải nghiệm khách sạn 3 ngày thấy nhân viên rất chu đáo nhiệt tình, ăn sáng còn hơi đơn điệu ít lựa chọn.\nphòng sạch nhưng hơi cũ cần tu sữa\nnhìn chung so với giá bỏ ra. nhận lại dịch vụ tuyệt vời. nhân viên tư vấn chuyên nghiệp.",
+        "time": 1763095468,
+        "translated": false
+      },
+      {
+        "author_name": "Hoanganh Kiet",
+        "author_url": "https://www.google.com/maps/contrib/116940596498324160492/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8-SdiAv3bl3ZCsqk9fsRPRo3EV-ypthu-4N4X4CGoPdPDpA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình ở đây hai đêm thấy phòng sạch sẽ gọn gàng, không gian yên tĩnh, ngủ rất ngon và cảm giác thoải mái như ở nhà.",
+        "time": 1769844085,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 709
+  },
+  "harvested_at": "2026-04-30T15:02:15.623587"
+}

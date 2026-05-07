@@ -1,0 +1,172 @@
+{
+  "u_key": "b6a59bdb5a9ffe92",
+  "original_osm_name": "Homiee",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0355652,
+        "lng": 105.8464768
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0369262802915,
+          "lng": 105.8478271302915
+        },
+        "southwest": {
+          "lat": 21.0342283197085,
+          "lng": 105.8451291697085
+        }
+      }
+    },
+    "name": "Homie Craft Beer",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 15:00–00:00",
+        "Thứ Ba: 15:00–00:00",
+        "Thứ Tư: 15:00–00:00",
+        "Thứ Năm: 15:00–00:00",
+        "Thứ Sáu: 15:00–00:00",
+        "Thứ Bảy: 15:00–21:00",
+        "Chủ Nhật: 17:00–00:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Việt Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/102574934504854842304/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdETOGW3ktXrVtQ4WAR2nyLQ5EhDGxXujUFZLuea-03aba47g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán rất nhiệt tình và đặc biệt bia ngon nhất nhì phố cổ Hà Nội, recomment mọi người must try 😁",
+        "time": 1772548571,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Kỳ Lân",
+        "author_url": "https://www.google.com/maps/contrib/106768593703966393000/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzxv7U3TqXEAUUIHOh0Pe9mtb7x6a7i-Frnvpvyjkelu6TrtHo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Bia ngon ❤️❤️❤️ relax thả hồn theo nhịp phố cổ chiều tà 😍",
+        "time": 1772794919,
+        "translated": false
+      },
+      {
+        "author_name": "Dao Giang",
+        "author_url": "https://www.google.com/maps/contrib/101323461828070950951/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa0mjeaAQlZJFAU_ixNGg5K2whAkEKC-qvHztaJGy9hxXUMA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Bia rất ngon! Đặc biệt là bia hương vị táo",
+        "time": 1772368625,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Văn Khoa",
+        "author_url": "https://www.google.com/maps/contrib/100416077528853163902/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUKy5gV1MscBqGItfMXAY_Xq8uvn6G5Xhm5BhV_k8hygy17Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán đẹp, bia ngon và đặc biệt không gian rất thân thiện. Chắc chắn sẽ quay lại thưởng thưc bia.,",
+        "time": 1772420352,
+        "translated": false
+      },
+      {
+        "author_name": "Kiên Lâm",
+        "author_url": "https://www.google.com/maps/contrib/113539085389603442278/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAvEoSSrTPbwO865pagqSQliC2CSLdaoGbJxwmMGRpEw_7_x-U=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán bia ngon trên phố cổ. Ông chủ đầu trọc nhiệt tình vui tính.",
+        "time": 1772342880,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 17
+  },
+  "harvested_at": "2026-04-26T16:52:39.789706"
+}

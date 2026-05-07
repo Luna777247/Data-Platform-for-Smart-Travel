@@ -1,0 +1,90 @@
+{
+  "u_key": "6d6d8bc05af6c7c7",
+  "original_osm_name": "nice Garden coffee đường c1 vĩnh điềm trung",
+  "google_raw": {
+    "formatted_phone_number": "0965 401 234",
+    "geometry": {
+      "location": {
+        "lat": 12.2555944,
+        "lng": 109.1680468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2571020302915,
+          "lng": 109.1693290302915
+        },
+        "southwest": {
+          "lat": 12.2544040697085,
+          "lng": 109.1666310697085
+        }
+      }
+    },
+    "name": "Nice Garden Coffee",
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Ngoc Hai Duong",
+        "author_url": "https://www.google.com/maps/contrib/102315422346749251341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlJ6Qr71nYhURPZcnnoB7sSl_MBJUNtfVhYPhxLZKn15TYx9Y=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Cái này và Egg coffee bên cạnh thực ra là một.\nThức uống ổn, giá tốt, có không gian trẻ em chơi, có sân khấu nhạc\nChỉ có điều nhân viên ít nên khó gọi",
+        "time": 1559354389,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Ngân Nam",
+        "author_url": "https://www.google.com/maps/contrib/101858407805483814375/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbkNnZFQ33BB8gwxtBb8tYUF1QZ-kcXuSa2jtvo6ogcrJiVN8=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Rộng rãi khung cảnh đẹp mát ,có khu vui chơi dành cho trẻ em",
+        "time": 1563255601,
+        "translated": false
+      },
+      {
+        "author_name": "Vo duy Duc",
+        "author_url": "https://www.google.com/maps/contrib/109638730017544513823/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJRtrk7vn-JL7C7N7puAtisC1E9bVUzSUrotop5q6JD_EnVv8-sA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán cà phê rộng rãi thoáng mát, có sân chơi cho các bé!",
+        "time": 1567392296,
+        "translated": false
+      },
+      {
+        "author_name": "Nha Trang Ads",
+        "author_url": "https://www.google.com/maps/contrib/106262984225302370774/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3DlrK2ux6nCQlne9JioPFK1tMdLvsw8IK0k_hDR6s3xbKeg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Nhân viên phục vụ chưa chuyên nghiệp. Tác phong chậm lắm.",
+        "time": 1520158221,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Vân",
+        "author_url": "https://www.google.com/maps/contrib/106280591395902072369/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXddXNxGhvWaMf2B3I0FqFbvaHnjA2NprdkBeFWH6YHA30M_LeO=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Không gian quán rộng rãi, yên tĩnh, nhiều cây xanh nên khá thoáng và mát, có khu vui chơi cho trẻ em. Có chỗ ngồi ngoài trời, có nhiều khu vực mỗi khu vực có kiểu mẫu bàn ghế khác nhau tuy nhiên có một khu vực bàn ghế để sát nhau quá khá bất tiện. Nước uống ổn giá phải chăng, nhân viên lịch sự nhưng phục vụ chưa tốt lắm.",
+        "time": 1584428245,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 130
+  },
+  "harvested_at": "2026-05-02T15:29:29.887960"
+}

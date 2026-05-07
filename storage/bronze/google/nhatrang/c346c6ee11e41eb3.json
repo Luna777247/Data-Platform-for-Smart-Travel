@@ -1,0 +1,174 @@
+{
+  "u_key": "c346c6ee11e41eb3",
+  "original_osm_name": "I am cake",
+  "google_raw": {
+    "formatted_phone_number": "0258 2202 200",
+    "geometry": {
+      "location": {
+        "lat": 12.2374642,
+        "lng": 109.1836325
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2388588302915,
+          "lng": 109.1849045302915
+        },
+        "southwest": {
+          "lat": 12.2361608697085,
+          "lng": 109.1822065697085
+        }
+      }
+    },
+    "name": "I Am Cake",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Đặng Nguyễn Anh Thư",
+        "author_url": "https://www.google.com/maps/contrib/106346067895812705896/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_cM_Mjwx-EdWWN2_e2c5E9cHfX729Ih78e4IipUUBx-3qk9v6=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán rất thường xuyên update concept cho khách sống ảo luôn. Nước uống đa dạng, ngon, đặc biệt các loại bánh ở đây giá có hơi cao nhưng hương vị rất ngon và đẹp không chê vào đâu được.",
+        "time": 1768187262,
+        "translated": false
+      },
+      {
+        "author_name": "Bunny",
+        "author_url": "https://www.google.com/maps/contrib/107311269707291781952/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNqB89ektRmIHHXVNch2hqYQt41LirX1Eqf_cz7FSqcKj5VqhI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần đầu tới quán tưởng chỉ là 1 quán bánh nhỏ trong tổ hợp các quán cà phê nhưng khi bước vào mới biết quán có đa dạng concept luôn :))) dù đa dạng nhưng góc nào cũng rất chỉn chu và bánh cũng rất ngon nữaa, trái cây hôm mình ăn tươi lémm. Ai cần chụp hình mà không biết đi đâu thì tới đây khỏi phải lo nghĩ lun ak",
+        "time": 1771149339,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Võ Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/101978709242276476720/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBW9brcIiyccxopdZ3ZTyxWHPAjC9ylaMuwqJCRkN9uejpAF0BHg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình hay tới quán để uống cf bánh flan, siêu ngon và là món ruột của mình. Mỗi lần ghé quán sẽ decord theo chủ đề của tháng, nên không khí cũng không quá nhàm chán. Hôm nay mình ghé chụp tết 2026. À món bánh ở đây cũng rất tuyệt nhưng mình chỉ mua khi giáng sinh hoặc có sinh nhật nên không có ảnh",
+        "time": 1769614887,
+        "translated": false
+      },
+      {
+        "author_name": "Thần Thoại",
+        "author_url": "https://www.google.com/maps/contrib/104381958750496432162/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCRI0YtRE5x8X2A9xOKGsTerdTuqX2iwzysXJ8PW3xfSkJ64vZ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Ghé I Am Cake một buổi chiều mưa, mùi bánh mới ra lò thơm lừng khắp quán. Không gian nhỏ xinh, bài trí nhẹ nhàng đúng kiểu tiệm bánh Hàn, chỗ nào cũng có thể chụp hình được. Mình gọi một phần tiramisu và trà đào, vị bánh mềm, thơm béo mà không bị ngấy, rất đáng tiền. Nhân viên dễ thương, nói chuyện nhẹ nhàng, cảm giác thoải mái như đang ngồi ở nhà. Ai mê bánh ngọt Nha Trang thì nên ghé thử, đảm bảo sẽ ghiền",
+        "time": 1759631379,
+        "translated": false
+      },
+      {
+        "author_name": "Yen Quynh",
+        "author_url": "https://www.google.com/maps/contrib/106320821357989774206/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyhkEhiVSUWGlmAZ6iM1_vxK8a7iDUPNQaVi7IMgUl-s0a2ak=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nước ngon, giá hợp lí. Dịch vụ từ mấy bạn rất rốt, trừ nhân viên bảo vệ. Nhân viên bảo vệ thái độ đối với khách hàng kiểu gì đấy? Lần trước đã 1 lần, thái độ tệ vô cùng. Dựng xe sát rạt rồi đứng chỉ tay kêu khách đẩy xe qua. 2 lần rồi, lần nào đến lúc dắt xe ra về đều khó chịu vô cùng. Quán nhắc nhở hoặc có biện pháp hợp lý với bạn bảo vệ nhé.",
+        "time": 1768444466,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 725
+  },
+  "harvested_at": "2026-05-02T15:35:41.874709"
+}

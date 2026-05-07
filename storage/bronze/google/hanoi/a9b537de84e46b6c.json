@@ -1,0 +1,105 @@
+{
+  "u_key": "a9b537de84e46b6c",
+  "original_osm_name": "Quán ăn vặt",
+  "google_raw": {
+    "formatted_phone_number": "0866 447 855",
+    "geometry": {
+      "location": {
+        "lat": 21.0130936,
+        "lng": 105.7674956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0144431802915,
+          "lng": 105.7688442302915
+        },
+        "southwest": {
+          "lat": 21.0117452197085,
+          "lng": 105.7661462697085
+        }
+      }
+    },
+    "name": "Ăn Vặt Quán",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "HA 79",
+        "author_url": "https://www.google.com/maps/contrib/117138635461939100609/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC9bMpxKl0IX4Er4tfW_ijQUANJ21QX6ekHW3RCNEhhyj6Zd0-7A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Ngon, sạch sẽ.",
+        "time": 1614229113,
+        "translated": false
+      },
+      {
+        "author_name": "Nobuo Miyamoto",
+        "author_url": "https://www.google.com/maps/contrib/105016172582079629629/reviews",
+        "language": "vi",
+        "original_language": "ja",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7-Y4QrSSmbUVPSL53WA0Zl1NsEnSfi8-h4NlnuoizcfcX2hhZ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "Cửa hàng này rất phong cách 😊\nKhông gian ở đây cũng tuyệt vời.",
+        "time": 1609659184,
+        "translated": true
+      },
+      {
+        "author_name": "anh hoang",
+        "author_url": "https://www.google.com/maps/contrib/112462439942243736434/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyIhwMLAOElRgVOBfTD_gD_d3Yto7tDIW-KqLkZpOIEoMv6Ct2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "",
+        "time": 1600792372,
+        "translated": false
+      },
+      {
+        "author_name": "Hùng Vĩ Mai",
+        "author_url": "https://www.google.com/maps/contrib/108832433529017706688/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU_-8jXexCBk2QCgEvELiuDyC2rF2Q3SRLNrrl_IRh-HNXSjf4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Tốt",
+        "time": 1688992552,
+        "translated": true
+      },
+      {
+        "author_name": "Nga Đào",
+        "author_url": "https://www.google.com/maps/contrib/114489932012160596308/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9nN0g5jR9Q1UFGHUOYkB4kbMNtvdzBmkRC3eVaJSJ0GsLdkkX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "",
+        "time": 1598281877,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5
+  },
+  "harvested_at": "2026-04-28T16:15:10.371858"
+}

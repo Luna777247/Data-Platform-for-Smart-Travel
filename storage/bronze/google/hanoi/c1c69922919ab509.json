@@ -1,0 +1,173 @@
+{
+  "u_key": "c1c69922919ab509",
+  "original_osm_name": "Nhà Hàng Mum's",
+  "google_raw": {
+    "formatted_phone_number": "0912 055 872",
+    "geometry": {
+      "location": {
+        "lat": 21.0425985,
+        "lng": 105.8471121
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0439489802915,
+          "lng": 105.8484882802915
+        },
+        "southwest": {
+          "lat": 21.0412510197085,
+          "lng": 105.8457903197085
+        }
+      }
+    },
+    "name": "Mother's Kitchen",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "hân gia",
+        "author_url": "https://www.google.com/maps/contrib/100663016791056504439/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb-bnEEVMhDVVD8NYClyKuQkBy_Qv9KJxyP9vFxyrkMSKmjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình ghé nhà hàng này trong một buổi bình thường nhưng trải nghiệm khá dễ chịu. Không gian quán sạch sẽ, gọn gàng, bố trí hợp lý nên ngồi ăn thoải mái, không bị chật chội.\nMón ăn được chuẩn bị nhanh, hương vị vừa miệng và ổn định. Các món không quá đậm gia vị, ăn lâu không ngán. Phần ăn vừa phải, trình bày đơn giản nhưng nhìn vẫn khá bắt mắt.",
+        "time": 1770351785,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/101327285583267408527/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTd3t0tR64T-cYxsstoK_rsG2eSfqgUYjqd_H8Pr4GQWu94bL0mQ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Bếp của Mẹ nấu nhiều món truyền thống và hiện đại thuần Việt, 1 số món đặc trưng cho cỗ cưới. Nhân viên thân thiện nhiệt tình và hỗ trợ rất tốt. Suất ăn nội bộ hdv đầy đặn và ngon, cho đoàn từ 5 pax; lái xe ăn nội bộ phải từ 15 pax",
+        "time": 1714920642,
+        "translated": false
+      },
+      {
+        "author_name": "Quyên Trương",
+        "author_url": "https://www.google.com/maps/contrib/101543865812455831609/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUhNVeczSEt_h9J1z-PfAd8DKQoocyBZBIn6_5joKQE70NXgCOGw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn được trang trí và trình bày đẹp, ăn ổn.",
+        "time": 1683004903,
+        "translated": false
+      },
+      {
+        "author_name": "trần linh",
+        "author_url": "https://www.google.com/maps/contrib/112934787287367749424/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7iH7jFWVa1MRjOwL86EC0tAMO3Ho1Z5uDkPW-xlkQBK-E4w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian quán sạch sẽ, gọn gàng, bố trí hợp lý nên ngồi ăn thoải mái, không bị chật chội.\nMón ăn được chuẩn bị nhanh, hương vị vừa miệng và ổn định. Các món không quá đậm gia vị, ăn lâu không ngán. Phần ăn vừa phải, trình bày đơn giản nhưng nhìn vẫn khá bắt mắt.",
+        "time": 1770352322,
+        "translated": false
+      },
+      {
+        "author_name": "vy chien",
+        "author_url": "https://www.google.com/maps/contrib/107133388217839463514/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD6LQ6S8cvLcobYwQIH-Ky2P0lkRteKGnW6iBjE2CJyPlI-ARx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "25k mà ngon tuyệt",
+        "time": 1560411025,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 346
+  },
+  "harvested_at": "2026-04-28T16:14:41.914132"
+}

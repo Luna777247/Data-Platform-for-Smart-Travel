@@ -1,0 +1,137 @@
+{
+  "u_key": "2ae504595018ab2a",
+  "original_osm_name": "Villa Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0399 692 268",
+    "geometry": {
+      "location": {
+        "lat": 21.0318243,
+        "lng": 105.8461929
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0331383802915,
+          "lng": 105.8475568302915
+        },
+        "southwest": {
+          "lat": 21.0304404197085,
+          "lng": 105.8448588697085
+        }
+      }
+    },
+    "name": "Pizza Villa Hanoi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Ngọc Diệp",
+        "author_url": "https://www.google.com/maps/contrib/117502929992996880161/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXba8P9v1F7RTJnYXc8p4LDHxxWbIO3IUU2q8Jv3rOcxIA_ba07=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Salami pizza ngon. Đồ uống ok, giá hợp lý",
+        "time": 1773036868,
+        "translated": false
+      },
+      {
+        "author_name": "Calantha Beauty",
+        "author_url": "https://www.google.com/maps/contrib/106686037337962987400/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRM93wXFvCamXSvXkBsV83d7B95rMzBcE7pTOTHmK9RgeXyw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Pizza Margherita rất ngon, đế bánh giòn bên ngoài và mềm bên trong, nhiều phô mai. Cảm giác rất tươi ngon.",
+        "time": 1773037636,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-27T19:58:13.136281"
+}

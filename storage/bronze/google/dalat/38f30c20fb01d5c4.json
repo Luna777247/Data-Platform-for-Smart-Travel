@@ -1,0 +1,174 @@
+{
+  "u_key": "38f30c20fb01d5c4",
+  "original_osm_name": "Nem Nuong Ba Hung",
+  "google_raw": {
+    "formatted_phone_number": "0263 3824 344",
+    "geometry": {
+      "location": {
+        "lat": 11.9516986,
+        "lng": 108.4333264
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9530045302915,
+          "lng": 108.4346230302915
+        },
+        "southwest": {
+          "lat": 11.9503065697085,
+          "lng": 108.4319250697085
+        }
+      }
+    },
+    "name": "Nem nướng Bà Hùng",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–21:00",
+        "Thứ Ba: 09:30–21:00",
+        "Thứ Tư: 09:30–21:00",
+        "Thứ Năm: 09:30–21:00",
+        "Thứ Sáu: 09:30–21:00",
+        "Thứ Bảy: 09:30–21:00",
+        "Chủ Nhật: 09:30–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Hai Vu",
+        "author_url": "https://www.google.com/maps/contrib/114211839030576278586/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLdyLJMp7bQrG-W3LGFsaNBhybXjOFMA72DrTSWn4tJHEBl7qo0Q=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Rau hơi ít mặc dù Đà Lạt là xứ rau. Phần nước chấm làm ko hợp khẩu vị lắm, có mùi hơi nặng. Nem nướng OK, thơm, ko quá ngọt.",
+        "time": 1770711391,
+        "translated": false
+      },
+      {
+        "author_name": "hữu hiền nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103728406863172922341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPwGOS34fDVNZTC63FbM257wxpLxb7WdBEdmdo7u9-IELtxRUA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Từng là tiệm nem nướng đông khách nhất ở Đà Lạt. Nằm cạnh chợ Chi Lăng, nơi hầu như chỉ sinh viên Đà Lạt và dân địa phương tìm tới ăn vào nhưng năm trước thập niên 2000.\nBây giờ có nhiều tiệm nem nướng ở ngoài thành phố, nên thấy ít khách hơn xưa\nTuy nhiên, ở đây vẫn giữ cách nướng nem truyền thống bằng lò than, đem lại hương vị đặt trưng thơm ngon hơn .",
+        "time": 1768627754,
+        "translated": false
+      },
+      {
+        "author_name": "Ford Stan",
+        "author_url": "https://www.google.com/maps/contrib/109817572872530055112/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS4-cr1gwjI4QOOPYHRzMRXb9HCkqOjPdRFupZ9c7EH_8fN8o=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "thấy rating google cao nhưng ko hợp khẩu vị mình. Nem nướng Ninh Thuận ăn nhiều rồi nên thấy quán vị cũng bình bình. Nên ghé nếu chưa ăn bao giờ",
+        "time": 1764851203,
+        "translated": false
+      },
+      {
+        "author_name": "Fung Kim",
+        "author_url": "https://www.google.com/maps/contrib/109144984652501689218/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG_jklJ9A5Ei_aSCihRS4osjjmScgQyz0GeejPt5gWLaHMXlSw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "• 60K/phần, suất nem nướng bình thường\n• vị đồ ăn đặc trưng đà lạt, nem thơm mềm, • • nước chấm bột năng bùi và rau ăn kèm tươi ngon, bánh tráng dẻo\n• không gian quán sạch sẽ, ít đông vào giờ chiều\n• thời gian mở cửa từ sáng đến tối, thích hợp ghé ăn bất kỳ lúc nào\n• đỗ xe trước quán",
+        "time": 1762436391,
+        "translated": false
+      },
+      {
+        "author_name": "Alberto Tv",
+        "author_url": "https://www.google.com/maps/contrib/115851452749720352913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMUF4b01C7T9F6rcf3fsajIRFB4xbTVDZC63VRlzW0Mcvet6s=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nếu có thêm nước chấm như mắm nên hay loại khác cho khách chọn thì ok hơn ! Giá 65k/phần thì bình thường với mặt bằng chung nổi tiếng chặt chém như đà lạt !",
+        "time": 1771577641,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3263
+  },
+  "harvested_at": "2026-04-29T21:19:40.514205"
+}

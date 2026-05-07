@@ -1,0 +1,173 @@
+{
+  "u_key": "84d252a103b27b37",
+  "original_osm_name": "21 Tea & Coffee (игровая комната)",
+  "google_raw": {
+    "formatted_phone_number": "0946 491 888",
+    "geometry": {
+      "location": {
+        "lat": 12.2427747,
+        "lng": 109.1930508
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2441304802915,
+          "lng": 109.1944776302915
+        },
+        "southwest": {
+          "lat": 12.2414325197085,
+          "lng": 109.1917796697085
+        }
+      }
+    },
+    "name": "21 Tea & Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:30",
+        "Thứ Ba: 06:30–22:30",
+        "Thứ Tư: 06:30–22:30",
+        "Thứ Năm: 06:30–22:30",
+        "Thứ Sáu: 06:30–22:30",
+        "Thứ Bảy: 06:30–22:30",
+        "Chủ Nhật: 06:30–22:30"
+      ]
+    },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Nguyen Chau Hoang",
+        "author_url": "https://www.google.com/maps/contrib/117462531044222034165/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPDsCDaDTaehgRsZqh2j9iZqU9WDHFtxbIMXr7kNESFw73Fw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nhân viên cần được đào tạo lại những kỹ năng phục vụ cơ bản nhất. Khi hỏi khách cần gì, tìm gì thì tuyệt đối không thể hỏi cộc lốc: “anh tìm gì ?”, hết tabasco :” bên em hết hàng đang oorder ạ”, hay đơn giản “chúc anh/ chị ngon miệng” cũng không có. Khi bên trong khu vực nhà hàng có khách cũng không có nhân viên phục vụ để ý chăm khách. Tôi thấy khách ghé xem menu ngoài khu vực trước lối vào, không một nhân viên nào ra chào khách, tiếp khách để tư vấn. Món ăn tạm được, không gian quán thoáng mát, sạch sẽ, nhưng chất lượng dịch vụ qua tệ. Hãy cân nhắc trước khi đến nhà hàng này.",
+        "time": 1763207701,
+        "translated": false
+      },
+      {
+        "author_name": "Thiên Nguyễn Khắc",
+        "author_url": "https://www.google.com/maps/contrib/103804182702306584143/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0z6zOyocQ1K7g4k-FIrT2qzASOPXz6Mynz3XQUKDO5GaxOtc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "tôi đã gọi phần Striploin Steaks cho mình. Tôi rất hài lòng về nó, thịt bò có độ chín vừa phải nên rất mềm và béo, gia vị ướp vừa miêng, đồ ăn cùng đi kèm có salad giải ngấy rất tốt. thời gian chờ đợi cho món ăn là vừa phải, recommend mọi người trải nghiệm sản phẩm này ở 21 Tea nhé, rất xứng đáng với số tiền mà mình bỏ ra.",
+        "time": 1743913578,
+        "translated": false
+      },
+      {
+        "author_name": "duy huynh",
+        "author_url": "https://www.google.com/maps/contrib/108837574826086944843/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAf296y-ocx0Z4c3ukjDDME_xeSdhvHJsgx3-daQhWwJFmjhkagQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "9 tháng trước",
+        "text": "mình và gia đình thường đến đây vì có con nhỏ.\nquán nằm ngay trung tâm và gần nhà nên thường ghé.\ngiá nước khá cao nhưng không ngon.\nquan trọng nhất là CHẤT LƯỢNG KHU VUI CHƠI TRẺ EM, thường có mùi và bãi ói trẻ em.\ndịch vụ ở đây không tốt, mình mua vé vào cổng, nhân viên chặn con mình lại, không để con mình lên khi mình chưa đưa vé.\ngọi hotline thì bị CÚP MÁY NGANG!\nlàm dịch vụ mà khó khăn quá thì xin thôi đừng làm nữa.",
+        "time": 1754241318,
+        "translated": false
+      },
+      {
+        "author_name": "Hang Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114039466545463813657/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJ29hUwDZ1p3fevEdhBpCCCRx905l36NvfwrmLUVFhF3t_M3gF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Từ khi biết chỗ này m chuyển hẳn cho con sang đây chơi luôn, k đi mấy khi vui chơi kia nữa. Khu vui chơi cho bé ở đây siêu sạch sẽ. Quăng tụi nhỏ vào trong còn ng lớn ngồi ngoài nc uống cf. Rcm cho mn bánh black forest ở đây siêu ngon luôn. 10 điểm k có nhưnggggg.",
+        "time": 1746445884,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Thao Nguyen Huynh",
+        "author_url": "https://www.google.com/maps/contrib/107312879653010524570/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ-4dcGmC-6bCJUpxCLSWFeuIUPyiSkwAl21Cx5RnV54PnYm_8=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "1/5/2024\n10h01.Bill 214.000\nMình ở khách sạn Vinpearl đối diện sang ăn.\nGọi tô phở ăn được 1/3 có cọng thun.\nLịch sự nhẹ nhàng báo nhân viên.\nNhân viên bưng vô xong bưng lại y chang đem ra nói quán không sử dụng thun này anh chị xem lại. Trên mâm là thun của quán và trong tô là cọng thun màu vàng khác nhỏ hơn quá. Mình mới nói sao e ko nghĩ là trong bánh phở ngta làm rớt. Bạn ấy im lặng xin lỗi mong anh chị thông cảm.\nChẳng khác nào nói mình tự bỏ zô.Trong khi mình rất lịch sự nhẹ nhàng góp ý.\nCái cần ở quán là giải quyết mà đem ra hỏi ngược lại khách.Tô phở không đáng bao nhiêu.\nChủ quán nên xem lại cách nv phục vụ. Và ko hiểu nhân viên phục vụ bàn đem vào bếp và bếp kêu bưng ra lại đối chứng hay ko. Chứ các bạn nhân viên thật sự dễ thương.\nThân",
+        "time": 1746101628,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 112
+  },
+  "harvested_at": "2026-05-02T15:38:48.536653"
+}

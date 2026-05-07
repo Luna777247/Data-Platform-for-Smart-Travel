@@ -1,0 +1,173 @@
+{
+  "u_key": "a2e13d5a8154a425",
+  "original_osm_name": "Cà Phê Vui",
+  "google_raw": {
+    "formatted_phone_number": "0559 093 648",
+    "geometry": {
+      "location": {
+        "lat": 21.0282184,
+        "lng": 105.8429168
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0295023302915,
+          "lng": 105.8443236302915
+        },
+        "southwest": {
+          "lat": 21.0268043697085,
+          "lng": 105.8416256697085
+        }
+      }
+    },
+    "name": "Tiệm Vui Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–00:00",
+        "Thứ Ba: 07:00–00:00",
+        "Thứ Tư: 07:00–00:00",
+        "Thứ Năm: 07:00–00:00",
+        "Thứ Sáu: 07:00–00:00",
+        "Thứ Bảy: 07:00–00:00",
+        "Chủ Nhật: 07:00–00:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Huy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101948059788533193348/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpmq2GLVOebDlN2GCMEneEa1-NmplWBDkgA4vYEdVBiUnb-gBl-w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Ngoài việc đồ uống ở đây khá ổn thì mình thấy quán rất oke với mn đến đây dịp lễ nên tặng quán 5* kk",
+        "time": 1756747799,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100234984056397651622/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2symCMOYYhsMIYd-aezEm7DMzuD4-wOagCAL7XINAeoFEIjAu4Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Coldbrew muối vị hơi kì, nước ép khá fresh, nvien ngoan. Không gian mở giữa lòng phố cổ. Khá rộng rải và thoải mái. Giá 55-65k",
+        "time": 1719101446,
+        "translated": false
+      },
+      {
+        "author_name": "Thùy Trang Trần",
+        "author_url": "https://www.google.com/maps/contrib/108428539860085455422/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL672wWECHWVo3zmBhoBQIPT1g-8Q95wgHk6ILego6eoJZsh5Y=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ uống ngon, không gian đẹp, nhân viên nhiệt tình",
+        "time": 1708325469,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Nguyễn Thảo",
+        "author_url": "https://www.google.com/maps/contrib/112656017448676374105/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz8iLvi3lkWDzwgHXE7iLgf4HuAVEmjVqHXG76rcOEZTUGBQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ uống ngon xỉu, không gian thoáng, sẽ ủng hộ thêm nha",
+        "time": 1708331705,
+        "translated": false
+      },
+      {
+        "author_name": "xuanthuysw",
+        "author_url": "https://www.google.com/maps/contrib/108573702839077903067/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5YD4KPau1Od0WPbg1EM00r1aIM6sFUEWG1wd1qB4T2lBi2g_L=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán ở khu vực tấp nập, phía sau có 1 sân rộng ngoài trời ngồi thoải mái và yên tĩnh. Cà phê pha máy ngon. Quán đã đổi tên khác",
+        "time": 1732236662,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 73
+  },
+  "harvested_at": "2026-04-26T16:51:19.211379"
+}

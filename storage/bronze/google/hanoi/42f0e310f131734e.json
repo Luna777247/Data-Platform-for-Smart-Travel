@@ -1,0 +1,173 @@
+{
+  "u_key": "42f0e310f131734e",
+  "original_osm_name": "Cà Phê Cham",
+  "google_raw": {
+    "formatted_phone_number": "0924 941 232",
+    "geometry": {
+      "location": {
+        "lat": 21.0107281,
+        "lng": 105.8321235
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0120640802915,
+          "lng": 105.8335020802915
+        },
+        "southwest": {
+          "lat": 21.0093661197085,
+          "lng": 105.8308041197085
+        }
+      }
+    },
+    "name": "Chấm. Cà Phê",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:30",
+        "Thứ Ba: 08:00–22:30",
+        "Thứ Tư: 08:00–22:30",
+        "Thứ Năm: 08:00–22:30",
+        "Thứ Sáu: 08:00–22:30",
+        "Thứ Bảy: 08:00–22:30",
+        "Chủ Nhật: 08:00–22:30"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Thúy Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/117941149612253137388/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrKexQcYP3Bv8wX-zuGarqBBusB5qCAbtijGinD2xpdzbr6HUn=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Điểm cộng:\nNv nhiệt tình, dễ thương, không gian quán thoáng, rất chill cho buổi cf ngoài trời\nĐiểm trừ:\nbàn ghế hơi bẩn, nước tệ quá nhất món coldbrew dứa",
+        "time": 1768722073,
+        "translated": false
+      },
+      {
+        "author_name": "Yến Yến",
+        "author_url": "https://www.google.com/maps/contrib/105651154824493100904/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOSNWTCPOf8HjVY54DiJp8M4f-8agZi_Gwg16AuOeZklCPXfpB=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán cf sân vườn trong ngõ, câc b nên tìm trang cf đặng văn ngữ, quán ngay ngõ bên cạnh. Mọi thứ khá chill khi đi vào ngày nắng, đồ uống m thấy cũng bt như các quán khác và hơi đắt 1 tí",
+        "time": 1763266743,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Tuan Khoi",
+        "author_url": "https://www.google.com/maps/contrib/102699390853301713051/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbSTN7ZeVad423bNGU77IkIhDk2LCZRGBypsg_nMSLI0VvOl_9=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian đẹp, quán ngoài trời là đa số nên hơi muỗi. Bàn trong nhà thì giới hạn. Có trả thẻ",
+        "time": 1772523828,
+        "translated": false
+      },
+      {
+        "author_name": "Quyên Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/116262970658182647723/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhuA0psjUUO0eMNJPjimtZf7nCzyZucKHyQzSTLYDzUkQ37QvV=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Phù hợp để gặp gỡ giao lưu bạn bè, chắc mình phải được đánh giá thành viên active vì tuần nào cũng ngồi ở đây :)))) nhưng mình muốn menu nước và bánh đa dạng lên 1 chút, phù hợp với các gia đình có em pé. Thêm nữa là highly recommended Chấm Béo vì n ngonnn 🫶🏻🫶🏻",
+        "time": 1764430468,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Ngân Đinh",
+        "author_url": "https://www.google.com/maps/contrib/108162814964710398416/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgFa9Op6Xb0XOt4Nh-V3Cv75h9x2iq2p-LZ4sr3y4BJLTvwQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán có sân vườn rộng, thoáng, yên tĩnh. Đồ uống ngon. Cho thú cưng vào thoải mái 💯",
+        "time": 1772008230,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 186
+  },
+  "harvested_at": "2026-04-26T16:53:13.114690"
+}

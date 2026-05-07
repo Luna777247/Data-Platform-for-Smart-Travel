@@ -1,0 +1,173 @@
+{
+  "u_key": "04547bc5dfd459a1",
+  "original_osm_name": "Pizza Chorio",
+  "google_raw": {
+    "formatted_phone_number": "0916 078 107",
+    "geometry": {
+      "location": {
+        "lat": 11.9587953,
+        "lng": 108.4496568
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9601092302915,
+          "lng": 108.4509980802915
+        },
+        "southwest": {
+          "lat": 11.9574112697085,
+          "lng": 108.4483001197085
+        }
+      }
+    },
+    "name": "Pizza Chorio®",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Quỳnh Như",
+        "author_url": "https://www.google.com/maps/contrib/117328135826522243302/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwxjevGP4iiJPuOslCgQCGA5XLZbh_2kDUdCoJJ-nN-5SFta08Bw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình ghé đây với nhóm vào bữa trưa, chỗ ngồi hơi nắng một chút nhưng vẫn thoải mái, mát mẻ.\nSau khi thử các món thì mình vẫn thích pizza hơn, còn pasta hông phải gu mình lắm. Pizza nóng hổi, siêu ngon và nếu đi nhóm thì nên thử nhiều vị khác nhau á.\nCô chủ cũng dễ thương, nhiệt tình và có vibe rất Tây nhoa 🤩",
+        "time": 1772514774,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Phạm",
+        "author_url": "https://www.google.com/maps/contrib/107569312378213057685/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEX7eoMslr0n3AZGDkqzu_Tnee4tXXEEp6cfxeQk5H6tFYMQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vô tình chọn đại trên maps nhưng trộm vía ngon nhaa, quán đậm chất local, chị chủ dễ thương sang xịn mịn, thích cực, rcm nha mn 🫶🏻",
+        "time": 1772314918,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc DHLN",
+        "author_url": "https://www.google.com/maps/contrib/113906337753511965874/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuiAFv6hBVDq8F0XVGEkG-Tv9YmrQetgA_UhN1ORpHs5ivIOAs=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đến với tiệm pizza nhỏ nhờ gg map, cũng hong quáa khó tìm, vượt ngoài sự mong đợi khi đến ĐL vào dịp Tết này, không gian ấm cúng, pizza siu ngon, vỏ giòn rụmm, salad rocket cũng ngon nữaaaa 🤤🤤🤤🤤\nLần sau nhất định sẽ ghé và thưởng thức thêm nhiều món nữaaaaaa\nCảm ơn Pizza chorio nhiều 🫶",
+        "time": 1771759345,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Nguyen Bao",
+        "author_url": "https://www.google.com/maps/contrib/105085778789395371381/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB30do6eDMuZRgopVw6BjWwMG7yM0Yqyq8AKh1xV_WMoTtvu59=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian rộng rãi, thoải mái, list nhạc hay\nPizza mình thấy đều rất ngon, ngon nhất theo mình là Mexicana và Four cheese",
+        "time": 1771654221,
+        "translated": false
+      },
+      {
+        "author_name": "Hoài Thương",
+        "author_url": "https://www.google.com/maps/contrib/117723807197176954519/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVexuW6NhxL8bEp-5zNEuzkNrGYARLZmaFqpimxW_Ie6JnOaWxwJQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Hơi khó tìm với hoang mang khi tìm đường nhưng đồ ăn ok. Quán chỉ có chủ yếu là pizza với pasta. Mình gọi mì pesto với pizza half half. Đế bánh làm giòn vừa ổn. Mì ý cũng ngon. Đồ ăn lên nhanh.",
+        "time": 1757740077,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 687
+  },
+  "harvested_at": "2026-04-30T14:53:49.472859"
+}

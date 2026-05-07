@@ -1,0 +1,173 @@
+{
+  "u_key": "8fb663caccdbbf08",
+  "original_osm_name": "Cafe thiên nhiên 27 nguyễn đình chiểu",
+  "google_raw": {
+    "formatted_phone_number": "0258 3513 475",
+    "geometry": {
+      "location": {
+        "lat": 12.2410697,
+        "lng": 109.1923438
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2424183802915,
+          "lng": 109.1936520302915
+        },
+        "southwest": {
+          "lat": 12.2397204197085,
+          "lng": 109.1909540697085
+        }
+      }
+    },
+    "name": "Cafe Thiên Nhiên",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:00",
+        "Thứ Ba: 09:00–23:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–23:00",
+        "Thứ Sáu: 09:00–23:00",
+        "Thứ Bảy: 09:00–23:00",
+        "Chủ Nhật: 09:00–23:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "thu hằng lê",
+        "author_url": "https://www.google.com/maps/contrib/107023099439198489212/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJCm80m94E7wTTDr9UcnqYmfk8fhhc6-I87kZ02gpxxYHI5YEd=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Các loại chè ngon, trái cây tươi, đa dạng.\nMột ly rất nhiều luôn. Giá rẻ bất ngờ từ 25-35k tuỳ loại.\nNước cốt dừa, sữa hơi nhạt, ít béo.\nHạt đác béo, ăn giòn giòn sật sật rất hay.\nMình đi hơi trễ nên chưa thử được món có flan.\nPhù hợp với ai thích ăn nhạt nha.",
+        "time": 1756994321,
+        "translated": false
+      },
+      {
+        "author_name": "Quyet Trinh",
+        "author_url": "https://www.google.com/maps/contrib/115225083554494544347/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeS2jZ7cvV-33Qq8M32o9Iw2tPtyehGnCZjdovn1VZuc6S-tH_=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Giá rẻ so với chất lượng. Ăn no nê luôn. Hoa quả tươi, quán mát mẻ, nhân viên nhiệt tình, nhanh nhẹn.",
+        "time": 1751034075,
+        "translated": false
+      },
+      {
+        "author_name": "Tú Trần Quốc",
+        "author_url": "https://www.google.com/maps/contrib/104655358498868186451/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfiRGRV2q1lOQZNVhBDo0gCgrTMT3OTRfmVpgEfL5ljC2wpR1A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Toilet hôi, rất dơ. Nhân viên Cố chấp ko linh hoạt và thái độ liếc khách. Ngon nhưng không quay lại.",
+        "time": 1742141279,
+        "translated": false
+      },
+      {
+        "author_name": "vi na",
+        "author_url": "https://www.google.com/maps/contrib/100534699191980241382/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKQpBpai05p71kg_1pHvKVW8976DY9HZO2uF7h6lWB9fnLRbQe=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chè ngon, sữa chua phô mai thì bỏ phô mai con bò cười vô ly sữa chua chứ không phải pha trộn nhau. Nhân viên giữ xe thân thiện. Mình không đi vệ sinh nên cũng ko biết là dơ hay sạch. Nhân viên phục vụ thân thiện",
+        "time": 1742487654,
+        "translated": false
+      },
+      {
+        "author_name": "Thomas To",
+        "author_url": "https://www.google.com/maps/contrib/107978886155051747465/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTmcU-TpXKxDhFWsgUONDKVY5nj_sZ_Lq0O0uJfYeOChTbMugvwA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán sạch sẽ, chè Thái và sinh tố bơ sầu riêng ngon, giá cả rẻ. Highly recommended.",
+        "time": 1736845672,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 76
+  },
+  "harvested_at": "2026-05-02T15:29:12.941089"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "e7fde1928f9ff63a",
+  "original_osm_name": "Nhà hàng bún chả 25",
+  "google_raw": {
+    "formatted_phone_number": "0932 798 953",
+    "geometry": {
+      "location": {
+        "lat": 10.7932972,
+        "lng": 106.6407305
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.7946193802915,
+          "lng": 106.6420678802915
+        },
+        "southwest": {
+          "lat": 10.7919214197085,
+          "lng": 106.6393699197085
+        }
+      }
+    },
+    "name": "Ô Bún Chả - 25 Bàu Cát",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–21:30",
+        "Thứ Ba: 07:30–21:30",
+        "Thứ Tư: 07:30–21:30",
+        "Thứ Năm: 07:30–21:30",
+        "Thứ Sáu: 07:30–21:30",
+        "Thứ Bảy: 07:30–21:30",
+        "Chủ Nhật: 07:30–21:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Vu Tuan",
+        "author_url": "https://www.google.com/maps/contrib/111602219338615104604/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2L2zYioMY0YEWn3sm5d5zwfzIyQkfG_j0DSO1ierq_D98hA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Thức ăn ngon, lượng thức ăn vừa, nhân viên dễ thương nhanh nhẹn. Quán mới nên sạch sẽ, giá cả không thấp nhưng cũng không quá mắc",
+        "time": 1760850751,
+        "translated": false
+      },
+      {
+        "author_name": "Nhu Tuan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100403399937314275140/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWt-Ygr9lrDsasEpAK6-kA8tF_hkvsa6AWHe_rVsEMod5T0aew0=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Ăn cũng ổn giống các quán bún chả đại chúng ở hà nội hương vị không xuất sắc. Giá cao so với mặt bằng chung, bún phần chính cho ít quá gọi bún thêm thì lại phần to quá, nên tăng phần bún chính lên xíu là được đỡ phải gọi thêm rồi bỏ mứa. Thịt cũng mềm nhưng chưa phải xuất sắc đạt ăn vừa miệng còn để ngon ghiền như bún chả 29 thì chưa bằng",
+        "time": 1760617189,
+        "translated": false
+      },
+      {
+        "author_name": "Sami",
+        "author_url": "https://www.google.com/maps/contrib/112158826956186279520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUT9t_ppqyR20bvCIuJVs8qz3AK2Zr0zoWaif1cZWVFMiCjK50v=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mỗi người chỉ từ 60🐟\nQuán thật sự cần được biết đến nhiều hơn!! Thịt mềm mướt, vàng ươm, nem căng mọng khi order mới nướng nên yên tâm nóng hổi. Nước chấm vừa miệng, ấm nóng. Rau bún được bày trí sạch sẽ, bắt mắt. Nem cua bể thật sự là điểm sáng khi phần nhân đầy đặn, vỏ mỏng giòn tan kết hợp với nước chấm ăn kèm rau và bún rất tuyệt.\nKhông gian thoáng đãng, mát mẻ, có điều hoà, phù hợp cho các bạn muốn hộ mặt gia đình, bạn bè và tổ chức tiệc luôn nha.",
+        "time": 1759472999,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Hai Pham",
+        "author_url": "https://www.google.com/maps/contrib/100213609498794578756/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0Z6aPgheeidIqjaHt5Bgz85hb9cPFKH6WWvSfRV5FNb4mi9OZ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán bún chả trên đường Bàu Cát, món ăn trang trí đẹp mắt, thịt ngon!\nKhông gian quán nhỏ, hơi nóng, bù lại nhân viên phục vụ rất dễ thương và tận tình!",
+        "time": 1761474626,
+        "translated": false
+      },
+      {
+        "author_name": "Lewis Hoang Long",
+        "author_url": "https://www.google.com/maps/contrib/118095740154572355755/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPaqYLZyL_A9RV9I74CQWxgVzDuBCgDCEVLFJiRmiC9MUwf348=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Thật sự mình rất thất vọng . Đi ngang nhìn bề ngoài quán rất ok .nhưng mà đồ ăn phải nói là rất rất dở , k tươi , còn làm lâu . Không chuyên nghiệp . Giá cao, 2 phần gần 200k không xứng đáng với chất lượng ,về mình phải mua bánh mì ăn .",
+        "time": 1764469355,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 125
+  },
+  "harvested_at": "2026-04-28T16:27:23.853878"
+}

@@ -1,0 +1,171 @@
+{
+  "u_key": "5170e0f5dea79e25",
+  "original_osm_name": "1975 кафе , milano 799",
+  "google_raw": {
+    "formatted_phone_number": "0869 614 830",
+    "geometry": {
+      "location": {
+        "lat": 12.2707705,
+        "lng": 109.2018834
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2721249802915,
+          "lng": 109.2031353802915
+        },
+        "southwest": {
+          "lat": 12.2694270197085,
+          "lng": 109.2004374197085
+        }
+      }
+    },
+    "name": "Milano XT Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "hay hoahong Socola",
+        "author_url": "https://www.google.com/maps/contrib/116482437376727505631/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-2jfAtu0V_jyycTmC2pIK0h70u1IbJxpXGLNx-cQd6_ydPmoC9g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán không gian thoáng mát..view đẹp..nhân viên phục vụ nhiệt tình.nước chất lượng..giá hạt dẻ lun.😍😍",
+        "time": 1624378332,
+        "translated": false
+      },
+      {
+        "author_name": "Mỷ Duyên",
+        "author_url": "https://www.google.com/maps/contrib/102375514426420512784/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVA8Ytr8EewGZUUmvitrvvdCVhZruI7CyjyUYlXk61HhUYnmb8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán có view xinh xắn,nhất là view tầng trên,chiều chiều ngồi phiêu là đúng bài, giá cả sinh viên. Tấm ảnh này chụp lúc đang ngồi thì trời đổ mưa, hẳn là góc nhỏ, đẹp ở Nha Trang. Địa điểm đáng ghé lại của các bạn trẻ ",
+        "time": 1623147963,
+        "translated": false
+      },
+      {
+        "author_name": "Xuân Tài Võ",
+        "author_url": "https://www.google.com/maps/contrib/115248951859741646266/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxt_vS0c29KypeRZ_W-in23AxPGbLFLkvV3HRQovmY-xmNyXY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Buổi trưa mát mẻ nhờ dàn phun sương cực mạnh ngay trên đầu. Good",
+        "time": 1624511469,
+        "translated": false
+      },
+      {
+        "author_name": "cường nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101685360849170797594/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICD_KLeiaTTsNXpWG4X0ERqieH_YVu8ecTNBdJHBlmDKh1CA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Uống cf đc, sinh tố bơ ngon , không gian thoáng mát",
+        "time": 1624508031,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Anh Nguyễn Đức",
+        "author_url": "https://www.google.com/maps/contrib/102918204320923420993/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBeamSNV_wGy_rO5YI9XXfY1N8WM4hFbBS63MvkKdJCni4YnGU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1666884941,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 10
+  },
+  "harvested_at": "2026-05-02T15:36:21.864105"
+}

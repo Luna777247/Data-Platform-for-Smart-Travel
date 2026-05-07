@@ -1,0 +1,174 @@
+{
+  "u_key": "4015ae264381c6cf",
+  "original_osm_name": "Thiet 168 Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0263 3521 139",
+    "geometry": {
+      "location": {
+        "lat": 11.9477207,
+        "lng": 108.4359128
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9490779302915,
+          "lng": 108.4372411302915
+        },
+        "southwest": {
+          "lat": 11.9463799697085,
+          "lng": 108.4345431697085
+        }
+      }
+    },
+    "name": "Thiết 168",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–22:30",
+        "Thứ Ba: 09:30–22:30",
+        "Thứ Tư: 09:30–22:30",
+        "Thứ Năm: 09:30–22:30",
+        "Thứ Sáu: 09:30–22:30",
+        "Thứ Bảy: 09:30–22:30",
+        "Chủ Nhật: 09:30–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Thảo Yên Lê Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/109577522791069191740/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0rJ7TL4IHIiSqKC-sh3YIDNBKBAG013CuzkMIjUHFGayXkSmulw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình khách từ nơi khác tới, được người dân Đà Lạt chỉ quán, quả là xuất sắc\n- Món nào cũng ngon, thích nhất là món mực rim, giá cả cũng phải chăng\n- Quán lâu đời nhưng rất sạch sẽ\n- Nhà vệ sinh sạch\n- Nhân viên thân thiện, phục vụ chu đáo",
+        "time": 1764942152,
+        "translated": false
+      },
+      {
+        "author_name": "wyabuh jospyroll",
+        "author_url": "https://www.google.com/maps/contrib/103913895071485074972/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAB4EJn3qlMXWH67grkE4WpHQn-AX4MMtZeIP85nMnoyM50eBavg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn làm khá ok, mình ăn nhiều lần. Tuy nhiên lần này làm dĩa ếch mà ko đều gì cả toàn cho phần trên. Ko có tới 1 cái đùi… định lấy đùi cho 2 đứa nhỏ ăn cũng ko có\nMình hỏi lịch sự ngta nói lảng lảng, rồi nvien khác cũng khó chịu khi mình hỏi sao đồ ăn lên lâu quá, ko nói chuyện dễ nge còn nạt lại\nThái độ phục vụ chán.\nChắc là lần cuối ăn đây",
+        "time": 1768135271,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Anh Vũ",
+        "author_url": "https://www.google.com/maps/contrib/106340009094240931490/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf8qj8T8gUuBcc508lHo8-E7G2OTwvi_dJKVIbtkFISIFyrlqg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán Ăn Thiết 168 là một địa điểm ẩm thực Việt Nam khá quen thuộc, đặc biệt với người dân địa phương tại Đà Lạt, nổi tiếng với sự bình dân, giá cả phải chăng và thực đơn đa dạng.\nĐiểm cộng lớn nhất của Thiết 168 là sự đa dạng của các món ăn Việt Nam truyền thống và món nhậu, từ gỏi, xào đến lẩu. Nhiều thực khách địa phương đánh giá cao các món như Gỏi Bao Tử, Gỏi Dồi Trường hay các món lẩu. Đây là lựa chọn lý tưởng cho các buổi họp mặt gia đình, bạn bè với không gian rộng rãi. Quán thường xuyên đông khách vào buổi tối.\nTuy nhiên, chất lượng món ăn đôi khi không đồng đều. Một số món được khen là đậm đà, trong khi một số khác lại bị nhận xét là thiếu hương vị hoặc không đúng như mô tả (ví dụ: món chả giò). Do lượng khách đông, quán đôi khi gặp vấn đề về tốc độ phục vụ.\nThiết 168 là quán ăn đáng cân nhắc nếu bạn tìm kiếm một địa điểm ăn uống kiểu gia đình, giá rẻ, tập trung vào món Việt bình dân giữa lòng Đà Lạt. Hãy chuẩn bị tinh thần cho một không gian sôi động và có thể phải chờ đợi vào giờ cao điểm",
+        "time": 1759452241,
+        "translated": false
+      },
+      {
+        "author_name": "CAO SangR",
+        "author_url": "https://www.google.com/maps/contrib/100951882416791736931/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtVqYoy_rTvBSjOD1hQRl8_5oAosUo_bTbAEo9yDgaiQEGjIHZ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán ăn lâu năm ở Đà Lạt\nLà địa điểm thích hợp để lai rai cùng bạn bè\nMón ăn tương đối hợp khẩu vị\nGiá cả bình dân, niêm yết rõ ràng\nChỗ đậu xe hạn chế vì ở mặt đường chính",
+        "time": 1749482824,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Travel",
+        "author_url": "https://www.google.com/maps/contrib/117167958492991034297/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxot94Jf-fWOWaa4Ztv3cOAiIBvmPDSS_RjiFXHmTj-lESFVap=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán ăn thân quen lần nào gia đình ra Đà Lạt đều ghé.\nĐồ ăn ngon dễ ăn đa dạng loại từ cơm gia đình đến món lai rai.\nPhục vụ vui vẻ lịch sự, không khí rất ấm áp vui vẻ.",
+        "time": 1709385847,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 563
+  },
+  "harvested_at": "2026-04-29T13:37:54.405649"
+}

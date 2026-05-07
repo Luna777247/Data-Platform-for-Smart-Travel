@@ -1,0 +1,173 @@
+{
+  "u_key": "f74ce1d5be29a823",
+  "original_osm_name": "Nhà Hàng Mỹ Phồ",
+  "google_raw": {
+    "formatted_phone_number": "0982 932 368",
+    "geometry": {
+      "location": {
+        "lat": 21.0304636,
+        "lng": 105.8476887
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0318501802915,
+          "lng": 105.8490155802915
+        },
+        "southwest": {
+          "lat": 21.0291522197085,
+          "lng": 105.8463176197085
+        }
+      }
+    },
+    "name": "Mỳ Phố",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–23:30",
+        "Thứ Ba: 06:30–23:30",
+        "Thứ Tư: 06:30–23:30",
+        "Thứ Năm: 06:30–23:30",
+        "Thứ Sáu: 06:30–23:30",
+        "Thứ Bảy: 06:30–23:30",
+        "Chủ Nhật: 06:30–23:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Tam Thanh",
+        "author_url": "https://www.google.com/maps/contrib/113030103845156968814/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2KUR92bXQrlFntWfchwDV0ruqAQmKpmBCekrPYNPrdU12BvI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "1. Món ăn đa dạng: phở, mỳ, nem cuốn, cơm rang...\n2. Giá cả tầm 60-70k/món (T2/2026)\n3. Phục vụ nhanh\n4. KH có thể quan sát bếp qua cửa kính, khá thú vị",
+        "time": 1771071728,
+        "translated": false
+      },
+      {
+        "author_name": "T'challa Udaku",
+        "author_url": "https://www.google.com/maps/contrib/105543683478348995736/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiBYDFaqqKWrysWWagr52joEI-H_4vS1QChKdkzkIlLjWekzM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn ổn\nCác cô chú phục vụ đáng yêu ❤️\nMình ăn cơm rang và sủi cảo tôm tươi khá oke nha. Giá cũng oke so với phố cổ.",
+        "time": 1758374614,
+        "translated": false
+      },
+      {
+        "author_name": "Andy Chen",
+        "author_url": "https://www.google.com/maps/contrib/110949876857856701762/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe-Lmq7Gs-daCpazacLkpVTTy3IWlYaOimTZhtRUn-DEpUll0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đồ ăn ngon , giá cả thì 50k cho đến 60k cho một phần bún trộn và mỳ trộn . Tuy nhiên suất ăn  ít vì mình phải gọi 2 phần ăn mới đủ tính ra là 110k cho bữa trưa . Quán có cả khách nước ngoài và khách Việt , cô bán hàng lớn tuổi thân thiện nên mình góp ý chút về phần ăn . Lần khác tới sẽ thử thêm các món ăn khác",
+        "time": 1749356593,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Lan Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103901128289919989918/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVIC13lNwpiZ8GAAmLBfF1gHTdOKq9BIvY4L1p_kfjD_aetow=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đồ ăn dạo này khác với những năm trước từ khi quán sửa chữa lại thì sáng sủa hơn , giá cũng tăng thêm 15k một suất , trước mình ăn 1 bát mỳ trộn là 40k-45k giờ tăng lên 55k-60k . Các bác chủ quán lớn tuổi không thấy nữa mà giờ là các bạn trẻ .  Ko biết có thay đổi chủ gì ko mà cũng ảnh hưởng một chút khẩu vị",
+        "time": 1749268105,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Quang",
+        "author_url": "https://www.google.com/maps/contrib/101608524589182245203/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyOegQJFt52uL7HuoywWg3UG7kRO43komeoSo7zl9cpcs6FJJmjg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "Thưc sự rất bức xúc, hôm nay mình và vợ  có đến quán ăn, mà mình ăn ở quán rất nhiều lần rồi. Mình có gọi 1 xuất cơm bò sôt tiêu đen và 1 bát mỳ vằn thắn. Lúc sau cô chủ bê ra bát mỳ và xuất cơm của vợ mình. Bát mỳ thì ok như bao ngày. Còn xuất cơm thì nhân viên đơm đầy như cơm cúng, 2 bát trồng úp lên. Mình có góp ý bảo là, cô ơi sao lại để như thế này. Bà chủ cười và nói, mấy đứa bếp nó trêu cô ấy mà. Thực sự trêu một cách rất vô duyên. Mình có bảo với cô là, cháu vào quán cô thì cháu là khách, cô có thể trêu đùa với nhân viên ở trong bếp. Nhưng khi mang ra cho cháu cô không thể để như vậy. Cô xem có khác gì cơm cúng không. Bà chủ xử lý tính huống rất kém, đưa cho mình 1 cái bát tự chút ra chứ không có ý định mang vào decor lại phần ăn. Nói thật giữa đất thủ đô, tọa lạc giữa phố Hàng Bông. Đón tiếp hàng trăm lượt khách nước ngoài. Cách thức trêu đùa và xử lý như vậy là rất xứng đáng 1 sao. Chào thân ái cô chủ nhé.",
+        "time": 1756317265,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 470
+  },
+  "harvested_at": "2026-04-28T16:31:14.049753"
+}

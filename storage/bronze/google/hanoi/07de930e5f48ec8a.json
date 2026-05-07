@@ -1,0 +1,109 @@
+{
+  "u_key": "07de930e5f48ec8a",
+  "original_osm_name": "VIET VILLAGE HOTEL",
+  "google_raw": {
+    "formatted_phone_number": "0943 999 287",
+    "geometry": {
+      "location": {
+        "lat": 21.2043302,
+        "lng": 105.8309809
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.2057035302915,
+          "lng": 105.8323473802915
+        },
+        "southwest": {
+          "lat": 21.20300556970849,
+          "lng": 105.8296494197085
+        }
+      }
+    },
+    "name": "Viet Village Hotel & Travel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Hoàng Hồ",
+        "author_url": "https://www.google.com/maps/contrib/102465502145807134801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInBl9UXviYMzStfErjKApHHIERlsc92euvw4XfI7zOLnjLvw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "khách san gần sân bay đi 5 phút tiện cho khách bay lối chuyến phòng sạch wc rộng sạch anh chú phục vụ nhiệt tình vui vẻ rất chuyên nghiệp bạn muốn ăn ở khách san anh chủ xăn sàng phục vụ những món ăn đơn giản mà ngon tôi rất hài lòng",
+        "time": 1718863715,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102033818251830340141/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK38Ni72qh8tr00so_b0yhqD3u8WZSj2tPJgr2riTRKj3fWVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Chuyến bay bị hoãn nên mình phải ở lại sân bay 1 và đã lựa chọn Airport Hotel Hanoi - Convenient & friendly vì khoảng cách rất ngần và có xe điện đón miến phí. phòng sạch,wifi tốt và giá phòng đã bao gồm bữa sáng với nhiều lựa chọn. Cảm ơn khách sạn nếu có dịp mình xẽ quay lại.",
+        "time": 1568464825,
+        "translated": false
+      },
+      {
+        "author_name": "Mạnh Trần",
+        "author_url": "https://www.google.com/maps/contrib/110100281460756591577/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_jLnHLaY2oPqGTKtvkjstGSsch0-tsU4Y-rn0aQwmJG75Ig=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Khách sạn ngần sân bay nội bai, Thuận tiện cho chuyến bay sớm, phòng sạch,wifi tốt, giá 500k bao gồm ăn sáng buffet và xe điện đưa đến sân bay miến phí.có dịp xẽ quay lại lần nữa",
+        "time": 1569463772,
+        "translated": false
+      },
+      {
+        "author_name": "Barry Garrett",
+        "author_url": "https://www.google.com/maps/contrib/101762993170824429762/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiFqQce7ucW_4sUMVEGgqZMLHhM-zoOfgxivwN1WkWpdmjkNP1=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Tôi Thấy khách sạn này ở gần sân bay rất thuận tiện với tôi, va moi người, khách sạn đẹp , phòng sạch sẽ và có đầy đủ thiết bị trong phòng ! nhân viên rất thân thiện với khách hàng 🤝🤝👏",
+        "time": 1666231583,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Vương Gia Bảo",
+        "author_url": "https://www.google.com/maps/contrib/107640669876722814027/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWawLM6QmTfPainPDvVryabaOPhx2QYAscCHcoSPVvcnXh4z3g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "khách sạn tốt, vị trí cách sân bay 800m, wifi hoạt đọng tốt, giá có 450k ++++ cho 2 người đã bao gồm ăn và xe đón miến phí. Quan trọng nhất phòng rất sạch xẽ và có dịp ra hanoi tôi lại ghé qua 1 lần nữa.",
+        "time": 1568281420,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 134
+  },
+  "harvested_at": "2026-04-27T19:58:23.916980"
+}

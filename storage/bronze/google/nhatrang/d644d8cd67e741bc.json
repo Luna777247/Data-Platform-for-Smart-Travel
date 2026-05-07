@@ -1,0 +1,173 @@
+{
+  "u_key": "d644d8cd67e741bc",
+  "original_osm_name": "Tippy's Mexican Food",
+  "google_raw": {
+    "formatted_phone_number": "0354 759 810",
+    "geometry": {
+      "location": {
+        "lat": 12.2392051,
+        "lng": 109.1936983
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2405455802915,
+          "lng": 109.1949428802915
+        },
+        "southwest": {
+          "lat": 12.2378476197085,
+          "lng": 109.1922449197085
+        }
+      }
+    },
+    "name": "Tippy's Mexican Food Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:00",
+        "Thứ Ba: 11:00–23:00",
+        "Thứ Tư: 11:00–23:00",
+        "Thứ Năm: 11:00–23:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 11:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Hoang Ha",
+        "author_url": "https://www.google.com/maps/contrib/107637231860691040901/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUY96WZPzhbtA-ZtAS50FqbS3R2Y3acZWz43hZjes0K2w6TY1cA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Không gian ấm cúng khu vực phố Tây của Nha Trang, quán nhỏ nhưng bài trí gọn gàng. Nhân viên vui vẻ, nhiệt tình, tư vấn rõ ràng và giới thiệu chi tiết. Trải nghiệm món ngon Mexico tại Nha Trang. Nằm trong hẻm nên đi xe máy hoặc đi bộ thuận tiện hơn. Món ngon, lạ miệng và chất lượng lắm.",
+        "time": 1749214809,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Vy",
+        "author_url": "https://www.google.com/maps/contrib/107102588972625545054/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnZ1v3UAHE0UKHf463j-fVRow0fOR84oOP-f1sq4RZeKdogg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn ngonnnn mng ăn thử tacos cá ik, nhân viên phục vụ dễ thương, nhiệt tình ",
+        "time": 1762365757,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Le",
+        "author_url": "https://www.google.com/maps/contrib/101684760595409511883/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKO8gE0y4slOjpl2S7WiA2_8ij0LEzJyhVtPKgS153L_tgaNvV=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhân viên rất thân thiện, thức ăn rất ngon v authentic. Giống mình ăn lúc còn ở Mỹ.\nRecommend fish n steak tacos.\ncó daily promotion, khá rẻ.",
+        "time": 1725963282,
+        "translated": false
+      },
+      {
+        "author_name": "Adam Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106446620465236359437/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIsIDPiy6aivmbK8jtX1LFvoAq_YR6_DS_iRww23jIEk2wOfjrOg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Món ăn good.! Chỉ là vị trí nhà hàng hơi khuất trong một con hẻm. Nếu chỉ vì muốn thưởng thức món ăn Mexico thì đây là lựa chọn tuyệt vời cho bạn.",
+        "time": 1758194471,
+        "translated": false
+      },
+      {
+        "author_name": "Tôn Minh",
+        "author_url": "https://www.google.com/maps/contrib/104487811518821989042/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbnzWGz3DBTpP0gfr8OPFoRHDfFDue9Q1k0hu6fW5SKpreX2qC=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhân viên oder nhiệt tình, dễ thương, chu đáo. Món ăn ngon đậm đà, đối với mình, Tacos bò ngon.",
+        "time": 1736257269,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 433
+  },
+  "harvested_at": "2026-05-02T15:39:23.268221"
+}

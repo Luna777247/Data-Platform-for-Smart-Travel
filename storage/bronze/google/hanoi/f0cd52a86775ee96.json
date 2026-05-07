@@ -1,0 +1,173 @@
+{
+  "u_key": "f0cd52a86775ee96",
+  "original_osm_name": "Khách Sạn Mig21",
+  "google_raw": {
+    "formatted_phone_number": "0911 590 655",
+    "geometry": {
+      "location": {
+        "lat": 20.9945012,
+        "lng": 105.5231449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9958902802915,
+          "lng": 105.5246261802915
+        },
+        "southwest": {
+          "lat": 20.9931923197085,
+          "lng": 105.5219282197085
+        }
+      }
+    },
+    "name": "MIG21 Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–00:00",
+        "Thứ Ba: 06:00–00:00",
+        "Thứ Tư: 06:00–00:00",
+        "Thứ Năm: 06:00–00:00",
+        "Thứ Sáu: 06:00–00:00",
+        "Thứ Bảy: 06:00–00:00",
+        "Chủ Nhật: 06:00–00:00"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Chi Vu",
+        "author_url": "https://www.google.com/maps/contrib/104181760707493800819/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZb-J2BSZF235lX0y0rwHf0er94jiHt_Bb1f2fOK-MKYX6Iw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thuận tiện di chuyển khu công nghệ cao , chỗ để xe rộng , nhiều cây xanh",
+        "time": 1771817503,
+        "translated": false
+      },
+      {
+        "author_name": "ACCOUNT TEST",
+        "author_url": "https://www.google.com/maps/contrib/103777208284522865682/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJv8OdDAj-ooipqDsWX9rJIoG7xqjEAMOyaYK1dBNzkGhG7Kg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Gia đình mình gồm 2 người lớn, 2 trẻ em ở phòng 2 giường rất thoải mái. Gần các quán ăn địa phương nên không lo chuyện ăn uống. Rất thích vì lễ tân hỗ trợ gọi taxi và dặn dò chỗ ăn ngon. Sẽ giới thiệu cho bạn bè!",
+        "time": 1750817898,
+        "translated": false
+      },
+      {
+        "author_name": "Luong Nguyen Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115583621494348246492/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpc-MopVkBr8h2R_4EilhDw-JxFJju45jhHOH_Ot1fSGtL9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng sạch sẽ, đúng như hình. Vị trí quá tiện, bước ra là thấy quán ăn sáng, cà phê đầy đủ. Mình đi gia đình 4 người thấy rất hài lòng, chắc chắn sẽ quay lại nếu có dịp.",
+        "time": 1750817780,
+        "translated": false
+      },
+      {
+        "author_name": "Mạnh Tuấn",
+        "author_url": "https://www.google.com/maps/contrib/110348785624028657718/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMXk9wHOanDAjG1v2-RgZAoCt5p7ZGESr3Ji4_DTwD1YxU_oNp=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Điểm cộng:\nPhòng sạch sẽ. Dịch vụ tốt.\nGiá cả hợp lý.\nSân quá rộng và thoáng mát.\nMay mắn được gặp chị chủ khách sạn. Giúp đỡ quá nhiệt tình cho khách hàng.\n\nĐiểm trừ duy nhất: vị trí hơi bất tiện. Nếu có oto phải quay lại khá xa nếu muốn quay đầu xe.",
+        "time": 1666750482,
+        "translated": false
+      },
+      {
+        "author_name": "Yen Vi Pham",
+        "author_url": "https://www.google.com/maps/contrib/108299324900032382525/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoAnC5bH4GgfB1F0XVMiHj_BlYVH1My6AMKvmHNSysJg30Zg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Phòng ổn, nhưng cách âm không được tốt, khá nhiều tiếng ồn từ bên ngoài. Phục vụ chưa chất lượng, giá cả cũng không tương xứng với chất lượng phục vụ mình nhận được",
+        "time": 1657253658,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 54
+  },
+  "harvested_at": "2026-04-27T19:58:33.647330"
+}

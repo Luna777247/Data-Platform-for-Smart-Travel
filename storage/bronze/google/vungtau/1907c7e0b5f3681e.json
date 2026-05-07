@@ -1,0 +1,45 @@
+{
+  "u_key": "1907c7e0b5f3681e",
+  "original_osm_name": "Vung Tau P&T",
+  "google_raw": {
+    "formatted_phone_number": "0773 511 511",
+    "geometry": {
+      "location": {
+        "lat": 10.3411126,
+        "lng": 107.0741136
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3425529802915,
+          "lng": 107.0754252302915
+        },
+        "southwest": {
+          "lat": 10.3398550197085,
+          "lng": 107.0727272697085
+        }
+      }
+    },
+    "name": "P&T Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    }
+  },
+  "harvested_at": "2026-05-03T19:47:29.984606"
+}

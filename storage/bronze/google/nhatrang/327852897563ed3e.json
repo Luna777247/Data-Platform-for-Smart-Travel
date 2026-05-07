@@ -1,0 +1,173 @@
+{
+  "u_key": "327852897563ed3e",
+  "original_osm_name": "TS house",
+  "google_raw": {
+    "formatted_phone_number": "0904 777 618",
+    "geometry": {
+      "location": {
+        "lat": 12.2167202,
+        "lng": 109.1988121
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2181667802915,
+          "lng": 109.2001229802915
+        },
+        "southwest": {
+          "lat": 12.2154688197085,
+          "lng": 109.1974250197085
+        }
+      }
+    },
+    "name": "Tí 's House Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–00:00",
+        "Thứ Ba: 06:30–00:00",
+        "Thứ Tư: 06:30–00:00",
+        "Thứ Năm: 06:30–00:00",
+        "Thứ Sáu: 06:30–00:00",
+        "Thứ Bảy: 06:30–00:00",
+        "Chủ Nhật: 06:30–00:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Chi Hieu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108624380481875091593/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJb2WOL1-BNDpd9NRcWqO1qEjtSr52KqhvbquL3ick9lwvfw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Vị trí mặt đường, không gian thoáng mát, nhân viên lịch sự, đồ uống ngon, giá bình dân, có TV xem bóng đá",
+        "time": 1767985745,
+        "translated": false
+      },
+      {
+        "author_name": "việt anh nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108390416553198617856/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5TCcKcnRbv1UmJRlgOMTh30u-9UsmnlnSnMcGXaPhGul0lCPp=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Mặt tiền đường Dã Tượng rộng rãi, thoáng mát\nPha chế khá ngon\nGiá 20 - 40k tuỳ món uống",
+        "time": 1681009183,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Kim Quách",
+        "author_url": "https://www.google.com/maps/contrib/101231750153174286974/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYNut1fWM6kOQ_M6lugFd16SYKcvLWTcAOvV2WKx0Xx8o9oQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Chất",
+        "time": 1624183691,
+        "translated": false
+      },
+      {
+        "author_name": "Sergey Bragin",
+        "author_url": "https://www.google.com/maps/contrib/110223703767808591129/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqn53R_9ZLWV0X3cAZV-0F09kJNbZhojdLJ526jBwfoMa2e3WW=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không gian tuyệt vời, đồ uống ngon, giá cả phải chăng, và đặc biệt thú vị khi đến xem bóng đá!\nBạn chắc chắn nên ghé qua để thưởng thức đồ uống và món Bánh Mì đặc trưng của quán, vì tin tôi đi, chắc hẳn bạn chưa từng được thưởng thức món nào ngon như thế này đâu.",
+        "time": 1760057521,
+        "translated": true
+      },
+      {
+        "author_name": "Vadim",
+        "author_url": "https://www.google.com/maps/contrib/113963502577491580541/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs_rUvOezI5xKHYqos5xt_AnBnjcBxXF7Nc0eagyXrvRuXrls=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Sinh tố không tệ chút nào. Giá cả hợp lý.",
+        "time": 1768304899,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 8
+  },
+  "harvested_at": "2026-05-02T15:26:17.722028"
+}

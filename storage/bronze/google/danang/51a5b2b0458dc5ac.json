@@ -1,0 +1,223 @@
+{
+  "u_key": "51a5b2b0458dc5ac",
+  "original_osm_name": "Red Dragon Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0236 3797 777",
+    "geometry": {
+      "location": {
+        "lat": 16.0483722,
+        "lng": 108.2270056
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0496379302915,
+          "lng": 108.2284094302915
+        },
+        "southwest": {
+          "lat": 16.0469399697085,
+          "lng": 108.2257114697085
+        }
+      }
+    },
+    "name": "The Golden Dragon",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 11:30–14:00, 17:30–21:00",
+        "Thứ Tư: 11:30–14:00, 17:30–21:00",
+        "Thứ Năm: 11:30–14:00, 17:30–21:00",
+        "Thứ Sáu: 11:30–14:00, 17:30–21:00",
+        "Thứ Bảy: 11:30–14:00, 17:30–21:00",
+        "Chủ Nhật: 11:30–14:00, 17:30–21:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Huy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114331780170620632952/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUPUL2HfntRw33CHrIXupxKbCaZ49bVIO3Ocf8IjVFrMrKZdHE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán trang trí ổn, phong cách Trung Hoa. Giá buffet weekend là 569k, bao gồm 1 ly nước. Dimsum thì ngon, còn các món khác mình ăn thấy không hợp. Buffet Dimsum thì theo kiểu gọi món, nhân viên mang lên tận bàn.",
+        "time": 1756718152,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Thanh Tam",
+        "author_url": "https://www.google.com/maps/contrib/106677702654127833585/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEmXwrbKj2QUz2h0YE8zMzgVD1sSSZ1jykd04xo5_ryZsFDoJQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng nằm trong khách sạn Grand Macure, không gian lịch sử , yên tĩnh.\nPhục vụ tận tình chu đáo\nMình qua đây ăn buffet Dimsum, giá hợp lý bao gồm 1 đồ uống. Tuy nhiên, dimsum không phải quá suất xắc, có món ngon có món không",
+        "time": 1740875475,
+        "translated": false
+      },
+      {
+        "author_name": "Uyên Lê",
+        "author_url": "https://www.google.com/maps/contrib/101232520921854574143/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxGyn02zuI_9_A8O7hyp4Ky4zBYVAz2ntGyvaZnhwH_DVIPoHJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng Trung nhưng dimsum dở tệ, chưa bh đi ăn nhà hàng mà hấp dimsum tệ hơn quán lề đường, cái nào cũng vỡ hết bột nhão nhẹt ra, vừa đem ra gắp lên là nhân với vỏ chào nhau mình chia tay, vị cũng k ngon, và là ở nhà hàng thì phải nói là quá tệ, riêng cái món sủi cảo ghẹ 60k 1 cục mà cái nước như nước bột gia vị, còn cái sủi cảo thì thôi siêu dở, như đồ đông lạnh lâu ngày đem ra bán cho khách\n\nMón mì cá còn tệ hơn, mẹ ơi, 1 tô 180k mà sợi mì là mì trứng đóng gói mua ngoài siêu thị, chứ không phải mì thủ công, lạy hồn, cá cũng k tươi ăn k ngọt gì nổi, 180k, vâng 180k siêu dở, cái nước thì mặn mùi bột ngọt, haiz\n\nĐiều đáng nói là chai nước suối 80k + 80k phí non alcohol :))) là 160k cho chai nước suối :v\n\nĐồ ăn hết 480k và 150k cho tiền phí :)))), dở dở dở tệ\n\nĐược cái duy nhất là không gian cũng ok, nhân viên phục vụ tốt",
+        "time": 1742268725,
+        "translated": false
+      },
+      {
+        "author_name": "Thương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108739984188749644706/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXxzHwp5E3Z4y0_X77TcDS7aHJ30misI5SX48ugedEg_w9jg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phục vụ rất tệ. Đi ăn buffe dimsum nhưng lên đồ ăn rất chậm. 12 người ngồi 1 bàn. Để ra số tiền lớn nhưng không hài lòng",
+        "time": 1767270408,
+        "translated": false
+      },
+      {
+        "author_name": "Anna Uyen",
+        "author_url": "https://www.google.com/maps/contrib/110554068056842418510/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYrhtkU44L9owONi9HLMXJKswSDWf4Q3jGyfGvbO5HkmRSlzxzKA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Từng là khách quen và ăn hơn 2 năm nhưng gần đây cảm thấy chất lượng đi xuống.\n\nKhông có sự đổi mới và sáng tạo từ bếp nấu, menu không thay đổi nhiều và chất lượng cũng ko được nâng cao.\n\nVề giá đối với khách sạn thì không phải quá cao, nhưng khó tiếp cận đối với khách thường nếu đem so sánh với chất lượng dịch vụ.\n\nNhân viên dễ thương nhưng thật sự cần niềm nở hơn.",
+        "time": 1758195660,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 155
+  },
+  "harvested_at": "2026-04-28T16:39:46.267492"
+}

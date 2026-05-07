@@ -3,35 +3,79 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-.venv/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
 venv/
 ENV/
-env/
+env.bak/
+venv.bak/
 
-# Environment variables
-.env
-
-# Storage - Data Lakehouse (Exclude large datasets)
-storage/bronze/
-storage/silver/
-storage/gold/
-storage/logs/
-!storage/configs/
-
-# Airflow runtime logs
-infra/logs/
-
-# Node/Frontend
-node_modules/
-dist/
-.next/
-
-# Local artifacts
-*.log
-*_out.txt
-*_err.txt
-tmp_*.py
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
 # OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+data/
+*.db
+*.sqlite3
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+out/
+
+# Docker
+.dockerignore
+
+# Airflow
+airflow/logs/
+airflow/dags/__pycache__/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Temporary files
+*.tmp
+*.temp

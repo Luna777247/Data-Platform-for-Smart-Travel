@@ -1,0 +1,163 @@
+{
+  "u_key": "1e96de92335ffd6a",
+  "original_osm_name": "Capsule Hotel",
+  "google_raw": {
+    "formatted_phone_number": "0236 3575 655",
+    "geometry": {
+      "location": {
+        "lat": 16.0724358,
+        "lng": 108.2399336
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0737891802915,
+          "lng": 108.2412286302915
+        },
+        "southwest": {
+          "lat": 16.0710912197085,
+          "lng": 108.2385306697085
+        }
+      }
+    },
+    "name": "Da Nang Capsule Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 09:00–17:00",
+        "Thứ Tư: 09:00–17:00",
+        "Thứ Năm: 09:00–17:00",
+        "Thứ Sáu: 09:00–17:00",
+        "Thứ Bảy: 09:00–17:00",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Nhuận Nguyễn Đức",
+        "author_url": "https://www.google.com/maps/contrib/117786437928942649520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9V5tIVd76AezSvBVJT_MmQ0zG2NtAVWGyvPgWmG5lmfxVVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Tôi cùng gia đình đã đến đây, trải nghiệm những món ăn rất ngon, phục vụ tốt và thân thiện",
+        "time": 1772897393,
+        "translated": false
+      },
+      {
+        "author_name": "Cao Thái Dương",
+        "author_url": "https://www.google.com/maps/contrib/101708040877219129112/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFa1X8UW6_SIgRlfcYci2ulJX4LYydgjDkbHvYbW0OLfcHCDwb=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "nhân viên thái độ, phòng bẩn, nhà vệ sinh hôi",
+        "time": 1771593885,
+        "translated": false
+      },
+      {
+        "author_name": "Tú Anh",
+        "author_url": "https://www.google.com/maps/contrib/100686247654181338910/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUnlBSpyTXKjhzrvBNu0tciTYM6SneJvbaSnkJe8LaK4M5X2kJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 tháng trước",
+        "text": "Phòng dơ, vỏ chăn vỏ gối rách, nhà wc mùi hôi, gỉ không sạch sẽ, bình nước siêu tốc rửa ra toàn thứ gì đen đen, nước trong tủ lạnh hết hạn, điều hoà hư không mát phải báo sửa mãi mới được\nỞ tận 4 ngày mà k dọn dẹp vệ sinh phòng, không chà tolet không thay khăn mới và ga giường cho tới khi phải nhắc nhở nhân viên",
+        "time": 1753164536,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Huyen",
+        "author_url": "https://www.google.com/maps/contrib/103115672118625280834/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXamReKlkJIWLQv7XI6vu2BF0QuJe83t5dVHyHE50Eh2m5SJuI=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "10 tháng trước",
+        "text": "Mình ở phòng 603, không có trải nghiệm tốt lắm về vấn đề tâm linh khi ngủ ở đây. Mình đặt qua điện thoại, giá bị cao hơn so với giá niêm yết của Ks. Mình thanh toán 600k/đêm ngày thường. Check in 8h tối, check out 8h sáng.\nPhòng sạch sẽ, tiện nghi đầy đủ, gần biển, cách biển 900m",
+        "time": 1749867264,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Oanh Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/106741809076591798482/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUj0QAWxVu2ftB_O-4TUpX44wYhu4--HCEsblH2_JB02gOWqTM=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "9 tháng trước",
+        "text": "Nhà tắm thì mốc cống bốc mùi nhân viên mặt thì kiểu khó chịu k ưa nchung là thái độ nên đọc kĩ đánh giá hãng đặt nhé mngg ơii =))) vòi tắm thì giò dỉ!!! hôm đấy vội nên đặt k tìm hiểu kĩ và cái kết🙏🏻🙏🏻🙏🏻",
+        "time": 1753379969,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 271
+  },
+  "harvested_at": "2026-04-28T16:37:18.097019"
+}

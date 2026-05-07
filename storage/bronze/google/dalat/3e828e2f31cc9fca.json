@@ -1,0 +1,163 @@
+{
+  "u_key": "3e828e2f31cc9fca",
+  "original_osm_name": "Kiri Izakaya",
+  "google_raw": {
+    "formatted_phone_number": "0348 808 986",
+    "geometry": {
+      "location": {
+        "lat": 11.9446349,
+        "lng": 108.4347907
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9460382302915,
+          "lng": 108.4361237302915
+        },
+        "southwest": {
+          "lat": 11.9433402697085,
+          "lng": 108.4334257697085
+        }
+      }
+    },
+    "name": "Kiri Izakaya",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–02:00",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 17:00–02:00",
+        "Thứ Năm: 17:00–02:00",
+        "Thứ Sáu: 17:00–02:00",
+        "Thứ Bảy: 17:00–02:00",
+        "Chủ Nhật: 17:00–02:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Nhung Phan",
+        "author_url": "https://www.google.com/maps/contrib/111476775623152708627/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzzcNGdZ8de-rd_ZrXldXt2YqMeVtADSSB9X5iwRfOk_s6jTc=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán nằm ở mặt tiền khu trung tâm Phan Đình Phùng. Không gian quán kiểu Nhật rất chill, ấm cúng và sạch sẽ.\n\nMón ăn lên nhanh, trình bày đẹp, các món đều vừa vị với mình - đặc biệt thích món đậu khuôn và xiên nướng, sashimi tươi ngon. Nhân viên dễ thương, phục vụ tận tình, nói chuyện nhẹ nhàng và gợi ý món rất có tâm.\n\nMình thích cảm giác ngồi nhâm nhi 1 ly với đồ nhắm nóng hổi, đúng kiểu izakaya Nhật luôn. Giá cả cũng hợp lý so với chất lượng và không gian.\n\nRất đáng để quay lại cùng bạn bè sau giờ làm hay cuối tuần",
+        "time": 1762338928,
+        "translated": false
+      },
+      {
+        "author_name": "Gia nguyen Dang",
+        "author_url": "https://www.google.com/maps/contrib/105516015923234025110/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsOM5eT5QrvFUXAmaDY-yCbtj_o2ScDRw6kX6hLX_e3Y2pwUQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Các món nướng ngon, đậm vị (được nướng bằng than thì sẽ tuyệt hơn nữa).\nVới mình sashimi ở mức tươi, nhưng chưa hấp dẫn bằng các món nướng.\nCó cơm heo chiên ngon và mềm.\nCác bạn nhân viên thân thiện và lịch sự.\nKhông gian dễ chịu và có đầu tư.",
+        "time": 1761314807,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Hoa Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108759389045638418325/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBIBg40Yd4hCBPjns78k-XCFOvm9wAQrxNhkqx3AvuiXc8Jg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, giá hợp lý, không gian thoải mái dễ chịu, nhạc rất chill chill, nhân viên thân thiện dễ thương.",
+        "time": 1767963068,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Trần",
+        "author_url": "https://www.google.com/maps/contrib/107513340321089428776/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvv5mbj7Ho1BPt0Bs11DHntyI8tOGTDZlkQfdzrXOOB-GzcA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn rất ngon, xiên thịt nướng mềm ẩm, rất vừa miệng, sashimi tươi mới, cơm và mì udon ngon. Rượu mơ thơm, đầm vị, dịu miệng. Nhân viên dễ thương, nhiệt tình, nhạc hay.",
+        "time": 1761556016,
+        "translated": false
+      },
+      {
+        "author_name": "Nghi Cao",
+        "author_url": "https://www.google.com/maps/contrib/108559716446866120368/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsMa64AKhPQdhiFCgmkjrZhUIbsrHDQRop7wzwFA-5A52pWkpx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Lần đầu mình được trải nghiệm một quán chuẩn vibe Nhật tại Đà Lạt, đồ ăn được nêm vừa vị, nhân viên take care rất là nhiệt tình và nhạc của quán cũng rất có gu nữa 🫶🏻",
+        "time": 1760156696,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 80
+  },
+  "harvested_at": "2026-04-30T15:00:36.877670"
+}

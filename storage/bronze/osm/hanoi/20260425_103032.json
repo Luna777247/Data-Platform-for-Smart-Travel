@@ -1,0 +1,6502 @@
+[
+  {
+    "u_key": "609d5292718dffe5",
+    "name": "Khách Sạn Đức Thái",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0340035,
+      "lon": 105.8471444
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9df7e9a2a02da5c2",
+    "name": "Khách Sạn Prince",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0273109,
+      "lon": 105.8435309
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e58f8f6b9475babd",
+    "name": "Somerset Grand Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hai Bà Trưng",
+    "location": {
+      "lat": 21.0258326,
+      "lon": 105.8463672
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4a766fb15074386f",
+    "name": "Thành Công",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0137437,
+      "lon": 105.8132213
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "de1e2d3b68890315",
+    "name": "Khách Sạn Đông Á",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0353948,
+      "lon": 105.8533211
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2020682aebb4fe47",
+    "name": "Thu Giang Guest House",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0316783,
+      "lon": 105.8479749
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f856f22514873b4e",
+    "name": "Real Darling Cafe Guesthouse",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0326388,
+      "lon": 105.8495639
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7ca8e995dce5fecd",
+    "name": "Khách Sạn Classic 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Lương Ngọc Quyến",
+    "location": {
+      "lat": 21.0346495,
+      "lon": 105.8517404
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b2c586b8afcee327",
+    "name": "Khách Sạn Indochina Queen",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0354757,
+      "lon": 105.8527489
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6a3dd88d54d077b2",
+    "name": "Khách Sạn Hanoi Backpackers",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0293871,
+      "lon": 105.8480711
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "51130875b3e9800f",
+    "name": "Khách Sạn Hanoi Phoenix II",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0354506,
+      "lon": 105.8525879
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "39978b7b31d01227",
+    "name": "Phu Hoa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Lương Văn Can",
+    "location": {
+      "lat": 21.0334478,
+      "lon": 105.8500291
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "df741bd0130e4b18",
+    "name": "Khách Sạn Little Hanoi Diamond",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Bát Đàn",
+    "location": {
+      "lat": 21.033677,
+      "lon": 105.8476149
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "80a826b5e4c30623",
+    "name": "Khách Sạn Little Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0349399,
+      "lon": 105.8469714
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d74173932cb298cc",
+    "name": "Prince Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0347507,
+      "lon": 105.8516905
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e26a5049436a6e41",
+    "name": "Khách Sạn Classic",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Bè",
+    "location": {
+      "lat": 21.032831,
+      "lon": 105.8539652
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a77464611bbb98f4",
+    "name": "Prince 57 Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0326352,
+      "lon": 105.8539615
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4875907d65fcca45",
+    "name": "Khách Sạn Hanoi Youth",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0331149,
+      "lon": 105.8504878
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f3169765d46c95f9",
+    "name": "Tien Thuy Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0321235,
+      "lon": 105.8549831
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b5f530642d99a616",
+    "name": "Khách Sạn Hanoi Gecko 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0334005,
+      "lon": 105.85244
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "265b0e799551308c",
+    "name": "Khách Sạn Golden Lotus",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0308292,
+      "lon": 105.8493639
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bb6be8a1f031d571",
+    "name": "Zephyr Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0256167,
+      "lon": 105.8514292
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "83f095f51b1d6c0a",
+    "name": "Khách Sạn Bạch Tùng Điệp",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0329471,
+      "lon": 105.847996
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0a5cdc9271b00891",
+    "name": "Khách Sạn Camellia",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.033588,
+      "lon": 105.852824
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "297b29ee1dc5e076",
+    "name": "Khách Sạn Hanoi Gecko III",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Bát Đàn",
+    "location": {
+      "lat": 21.0336704,
+      "lon": 105.8473559
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b60a387004a01ff4",
+    "name": "The Drift Backpackers Hostel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0191472,
+      "lon": 105.8484037
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5b5ca4d369263efe",
+    "name": "Khách Sạn Maison D'Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0311045,
+      "lon": 105.8494873
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "187047baf1ac4124",
+    "name": "Hanoi Balcony Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302108,
+      "lon": 105.8566089
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "088ff3bf2dd20f43",
+    "name": "Rising Dragon",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0324116,
+      "lon": 105.8539573
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a51ecb24ceceeafa",
+    "name": "Khách Sạn Hanoi Elegance 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0346906,
+      "lon": 105.8535697
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "933d38f05acf43c9",
+    "name": "Sunshine Palace",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0350341,
+      "lon": 105.8533618
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2940b56fb8e6354d",
+    "name": "Khách Sạn Joseph's",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0282816,
+      "lon": 105.8483502
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "667f8a3931ca06c7",
+    "name": "Khách Sạn Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0379401,
+      "lon": 105.8518102
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5fdf14d0151f14d7",
+    "name": "Khách Sạn Blue Star",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Bát Đàn",
+    "location": {
+      "lat": 21.0336734,
+      "lon": 105.8474742
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bc73921084b9292d",
+    "name": "Khách Sạn Hanoi Cozy 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0327548,
+      "lon": 105.8537342
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5f1abdfd15a03c9c",
+    "name": "Sheraton Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0597444,
+      "lon": 105.8320123
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9bb5edbd9d9212d0",
+    "name": "Khách Sạn Thaison I",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Vôi",
+    "location": {
+      "lat": 21.0305739,
+      "lon": 105.8564189
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "83de8c9c908cf861",
+    "name": "Khách Sạn Hà Nội Emerald",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0339948,
+      "lon": 105.8535544
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "be530a1352cda654",
+    "name": "Sunshine 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0343564,
+      "lon": 105.8533288
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "07f76b92e4bd286b",
+    "name": "Khách Sạn Especen",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bè",
+    "location": {
+      "lat": 21.0333592,
+      "lon": 105.8537508
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "984461c2e29ad1ab",
+    "name": "Khách Sạn Bamboo",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bè",
+    "location": {
+      "lat": 21.0331185,
+      "lon": 105.8537687
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c3574d4b3ed2066a",
+    "name": "Khách Sạn Golden Wings",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0340122,
+      "lon": 105.8532958
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6c1151d134d01ca0",
+    "name": "Khách Sạn Friendly",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0347247,
+      "lon": 105.8533643
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5f5099b924c3d6d3",
+    "name": "Khách Sạn Hoà Bình Palace",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Bè",
+    "location": {
+      "lat": 21.0330675,
+      "lon": 105.8539845
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "1d184293f576390a",
+    "name": "Khách Sạn Allura",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Bạc",
+    "location": {
+      "lat": 21.0338753,
+      "lon": 105.8536358
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2959082ec025f97e",
+    "name": "Khách Sạn Golden Wings II",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0341376,
+      "lon": 105.8535652
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "499c15bc5d0cfc7c",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Cầu Gỗ",
+    "location": {
+      "lat": 21.0323364,
+      "lon": 105.8527534
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "db2947b3398c0624",
+    "name": "Salute Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Dầu",
+    "location": {
+      "lat": 21.0319667,
+      "lon": 105.8540409
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "adf1259d2e1606cc",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.032344,
+      "lon": 105.8525425
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b57257a3bd077b06",
+    "name": "Phú Long Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Cầu Gỗ",
+    "location": {
+      "lat": 21.0323049,
+      "lon": 105.8534066
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "13d5df23f0c737f4",
+    "name": "Khách Sạn Hanoi A1",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0320927,
+      "lon": 105.8536784
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "920e699eac4cea26",
+    "name": "Khách Sạn Indochina",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0315137,
+      "lon": 105.8547329
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ed1fee71ecef3fae",
+    "name": "Khách Sạn Asia Palace",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Tre",
+    "location": {
+      "lat": 21.0317015,
+      "lon": 105.8556478
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a86f9dcc0d2394f3",
+    "name": "Khách Sạn Gia Bảo Grand",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Lò Sũ",
+    "location": {
+      "lat": 21.0314953,
+      "lon": 105.8549091
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3b316842a2b6044e",
+    "name": "Khách Sạn Hanoi Elegance",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0314996,
+      "lon": 105.854844
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6b3a72b43f447751",
+    "name": "Khách Sạn Hanoi Happy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Lò Sũ",
+    "location": {
+      "lat": 21.0314439,
+      "lon": 105.8552823
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fb0db1708a6743b2",
+    "name": "Khách Sạn Boss",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Lò Sũ",
+    "location": {
+      "lat": 21.0314436,
+      "lon": 105.8552453
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "765887cb64f37d24",
+    "name": "Khách Sạn Astoria",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0292242,
+      "lon": 105.8454081
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b2b671b8974f120c",
+    "name": "Trang An",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0321562,
+      "lon": 105.85026
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c3b0c56bbaae734f",
+    "name": "Khách Sạn Nam Hải",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Thành",
+    "location": {
+      "lat": 21.0312401,
+      "lon": 105.8472175
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2e153d1580672737",
+    "name": "PAN",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0286011,
+      "lon": 105.8437682
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "986a0d401ac5edf7",
+    "name": "Khách Sạn Hanoi Stars",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0337024,
+      "lon": 105.8542552
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8609d11137ba7154",
+    "name": "Khách Sạn Bảo Anh",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Phủ Doãn",
+    "location": {
+      "lat": 21.0294692,
+      "lon": 105.8479138
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a0eeb32d54673ea9",
+    "name": "Rose Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Thành",
+    "location": {
+      "lat": 21.0311286,
+      "lon": 105.8472821
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "69cb7b6b25a2863a",
+    "name": "Trung Nam Hải",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Phủ Doãn",
+    "location": {
+      "lat": 21.029546,
+      "lon": 105.8479124
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "eb3721678e1a911e",
+    "name": "Khách Sạn Hanoi Backpackers Palace",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Bát Đàn",
+    "location": {
+      "lat": 21.0336742,
+      "lon": 105.8475063
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fd2ab729792410e8",
+    "name": "Khách Sạn Hanoi Spark",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Thùng",
+    "location": {
+      "lat": 21.0323652,
+      "lon": 105.8547395
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "69a0339a8f1e4e66",
+    "name": "Khách Sạn Cozy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Bè",
+    "location": {
+      "lat": 21.0324325,
+      "lon": 105.8537078
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f1dc37b5b63e0b53",
+    "name": "Khách Sạn Asia Palace",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Hữu Huân",
+    "location": {
+      "lat": 21.0324639,
+      "lon": 105.8544065
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "872ed1eb73195d15",
+    "name": "Khách Sạn Hanoi Orchid",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Bè",
+    "location": {
+      "lat": 21.0327409,
+      "lon": 105.8539635
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "03876cb60f3bbb38",
+    "name": "Khách Sạn Hanoi Elegance",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0319655,
+      "lon": 105.848102
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "27afc19083248e68",
+    "name": "Khách Sạn Charming",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0319242,
+      "lon": 105.8479383
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d53f32e25e726494",
+    "name": "Khách Sạn Hanoi Eclipse",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Quạt",
+    "location": {
+      "lat": 21.0328812,
+      "lon": 105.8495832
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "64d3efda066558bc",
+    "name": "Vanmieu Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Quốc Tử Giám",
+    "location": {
+      "lat": 21.0266394,
+      "lon": 105.8370864
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e033c0012e8be422",
+    "name": "Khách Sạn Hanoi Deluxe",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0346071,
+      "lon": 105.8472826
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6f2eb862727ab506",
+    "name": "Khách Sạn Heart",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0315071,
+      "lon": 105.8505621
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0eb0c7c0bc5f73f2",
+    "name": "Khách Sạn Golden Sunrise",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0314747,
+      "lon": 105.850246
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "18516788989ed8dc",
+    "name": "Khách Sạn Morning Star",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0317073,
+      "lon": 105.8507545
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5e9216a4994b8306",
+    "name": "Win Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Hành",
+    "location": {
+      "lat": 21.0314317,
+      "lon": 105.8502016
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0f8562393a6c654c",
+    "name": "Royal Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Cháo",
+    "location": {
+      "lat": 21.0295866,
+      "lon": 105.8349908
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "416dd944a0939868",
+    "name": "Especen Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Thọ Xương",
+    "location": {
+      "lat": 21.029055,
+      "lon": 105.8485059
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bd1f41f50cd9bd19",
+    "name": "Silk Path",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0288266,
+      "lon": 105.844549
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bae6d10e0691873e",
+    "name": "Rising Dragon Villa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Bát Sứ",
+    "location": {
+      "lat": 21.0345522,
+      "lon": 105.8474998
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b9085754eb2c1db7",
+    "name": "Khách Sạn Golden LakeView",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0315942,
+      "lon": 105.8507125
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c798dd7dd050ab5a",
+    "name": "Hanoi Blue Sky",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0378367,
+      "lon": 105.8472526
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "87b7d4336f5f8a93",
+    "name": "Khách Sạn Calypso Grand",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Cửa Đông",
+    "location": {
+      "lat": 21.0344421,
+      "lon": 105.8462418
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "09e246e289814e7d",
+    "name": "Khách Sạn La Dolce Vita",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bồ",
+    "location": {
+      "lat": 21.0338037,
+      "lon": 105.8489454
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "477634868e58b8a9",
+    "name": "Khách Sạn Danly",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Đào Tấn",
+    "location": {
+      "lat": 21.0326893,
+      "lon": 105.8088142
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "51a07e8877dc8a4b",
+    "name": "Khách Sạn Mai",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0332046,
+      "lon": 105.846031
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c24b5fcad63b3ecc",
+    "name": "Khách Sạn Green Diamond",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Bạc",
+    "location": {
+      "lat": 21.0340919,
+      "lon": 105.8515126
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3fb1275f88d042b4",
+    "name": "Media Central",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bạc",
+    "location": {
+      "lat": 21.0341357,
+      "lon": 105.8513362
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "92a678655ca90320",
+    "name": "Khách Sạn Asian Ruby",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Lương Ngọc Quyến",
+    "location": {
+      "lat": 21.0346357,
+      "lon": 105.852058
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2af73fed0fe2c8c8",
+    "name": "Khách Sạn Hanoi Moment",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Cân",
+    "location": {
+      "lat": 21.0346758,
+      "lon": 105.8497899
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3792984793a0bd41",
+    "name": "Nhà Hàng Essence",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngô Hai Tuong",
+    "location": {
+      "lat": 21.0345271,
+      "lon": 105.852037
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fb0cbffe4cf62fec",
+    "name": "Khách Sạn Indochina Queen II",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Thuốc Bắc",
+    "location": {
+      "lat": 21.0346204,
+      "lon": 105.8481915
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9739f5ab10dac1b4",
+    "name": "Oscar Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Thiếc",
+    "location": {
+      "lat": 21.0333615,
+      "lon": 105.8479638
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ead11cb34f732076",
+    "name": "Quoc Hoa Hanoi Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Bát Đàn",
+    "location": {
+      "lat": 21.0338392,
+      "lon": 105.8476882
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bc12951a93f73f95",
+    "name": "Khách Sạn Golden Sun Palace",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Quạt",
+    "location": {
+      "lat": 21.0326664,
+      "lon": 105.8496242
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "baaa25b5db9735a7",
+    "name": "Victory Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Quạt",
+    "location": {
+      "lat": 21.0329421,
+      "lon": 105.8502358
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "33d7ee04e8adc255",
+    "name": "Rainbow Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Cân",
+    "location": {
+      "lat": 21.0348688,
+      "lon": 105.8495282
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c29fa796a67e08e6",
+    "name": "Khách Sạn A25",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Thiếc",
+    "location": {
+      "lat": 21.0331192,
+      "lon": 105.8477167
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "620a4bb6642aeece",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Lương Văn Can",
+    "location": {
+      "lat": 21.0335655,
+      "lon": 105.8500019
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ec5fe21e2471567e",
+    "name": "Khách Sạn Đông Thanh",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.034422,
+      "lon": 105.8463831
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "aecdb093e9027f9f",
+    "name": "Ngog Mai Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0344071,
+      "lon": 105.8464358
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "27c3a949a5870c19",
+    "name": "Khách Sạn First Eden",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bún",
+    "location": {
+      "lat": 21.0417959,
+      "lon": 105.8451291
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d3a3491e86f46c4d",
+    "name": "Khách Sạn Green Park",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Trần Nhân Tông",
+    "location": {
+      "lat": 21.0171605,
+      "lon": 105.848638
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8d8508715836571e",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0235107,
+      "lon": 105.8449269
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9e15f446c8b4016f",
+    "name": "Khách Sạn Hanoi Holiday Silver",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0295372,
+      "lon": 105.8488609
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "51d733328c846b10",
+    "name": "Khách Sạn Hanoi 3B",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0342102,
+      "lon": 105.8535067
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ace2997af2bd1300",
+    "name": "Khách Sạn Friendly Backpacker",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0346404,
+      "lon": 105.8544732
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ce818edf31301f70",
+    "name": "Khách Sạn Golden Cyclo",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ Trạm, Hang Bong Street",
+    "location": {
+      "lat": 21.030567,
+      "lon": 105.845517
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6a5e7b8b914d6225",
+    "name": "Khách Sạn Art Trendy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Bút",
+    "location": {
+      "lat": 21.0349537,
+      "lon": 105.8480111
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "dd23665da91fccd9",
+    "name": "Tu Linh Palace Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Gà",
+    "location": {
+      "lat": 21.0364254,
+      "lon": 105.8470343
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "66794637bbd7faa9",
+    "name": "Khách Sạn Cầu Giấy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0325542,
+      "lon": 105.7992324
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2d525c187236ba5e",
+    "name": "Santa Barbara Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Quán Thánh",
+    "location": {
+      "lat": 21.0411871,
+      "lon": 105.8444866
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e92bc3b111bf3d73",
+    "name": "Khách Sạn Hồ Hoàn Kiếm",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0305634,
+      "lon": 105.8495539
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d1856a0349a7703d",
+    "name": "Khách Sạn Moon View",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Cửa Bắc",
+    "location": {
+      "lat": 21.042821,
+      "lon": 105.8428755
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "13a675813cd3a540",
+    "name": "Khách Sạn Marriotte Ibiz City Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Lương Ngọc Quyến",
+    "location": {
+      "lat": 21.0347635,
+      "lon": 105.8518089
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7d88665c0f91ef80",
+    "name": "Nhà Khách Madam Moon 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0315703,
+      "lon": 105.8506713
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b07ac1c9c2774fd5",
+    "name": "Nhà Khách Hanoi Guesthouse",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0344162,
+      "lon": 105.8535098
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "26b15f62b323c3f9",
+    "name": "Khách Sạn Hanoi Golden Moon",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Hữu Huân",
+    "location": {
+      "lat": 21.0327085,
+      "lon": 105.8545846
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2172430ee63a8f01",
+    "name": "Khách Sạn Medallion",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0360324,
+      "lon": 105.8532614
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "754ac00fd54d6a5f",
+    "name": "Lavender Central Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bạc",
+    "location": {
+      "lat": 21.0337956,
+      "lon": 105.8530368
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ed1c114b1f84e8a8",
+    "name": "Oriental Suites Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Đào",
+    "location": {
+      "lat": 21.0330899,
+      "lon": 105.8510332
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7697fc85ed435bb1",
+    "name": "Khách Sạn Art Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Điếu",
+    "location": {
+      "lat": 21.0323445,
+      "lon": 105.8469581
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4b1796de5daf8c20",
+    "name": "Hanoi La Palm Premier Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Quạt",
+    "location": {
+      "lat": 21.0325304,
+      "lon": 105.8493275
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "18178a9387ef3c5f",
+    "name": "The Palmy Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Bảo Khánh",
+    "location": {
+      "lat": 21.0305847,
+      "lon": 105.8501334
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a60d80d5ba3fc677",
+    "name": "Khách Sạn Aurora",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0349803,
+      "lon": 105.8531725
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6d6887218f345be2",
+    "name": "Tirant Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0331407,
+      "lon": 105.8524023
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fac105ef81dbedce",
+    "name": "Khách Sạn Hanoi Holiday Gold",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Mành",
+    "location": {
+      "lat": 21.0317751,
+      "lon": 105.8482993
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b02d821dd803cafd",
+    "name": "Khách Sạn Box",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Buồm",
+    "location": {
+      "lat": 21.03609,
+      "lon": 105.8525434
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "89dd1c4b54764a2c",
+    "name": "Khách Sạn Rendezvous",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Điếu",
+    "location": {
+      "lat": 21.0331384,
+      "lon": 105.8470696
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0f617c12145537fe",
+    "name": "Khách Sạn Camel City",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0353948,
+      "lon": 105.8525004
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "265f6a63167173e5",
+    "name": "Khách Sạn Mercure",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0261665,
+      "lon": 105.8416648
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f88156114ef1824e",
+    "name": "Nhà Khách Hanoi Lucky",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0352497,
+      "lon": 105.847496
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "07de930e5f48ec8a",
+    "name": "VIET VILLAGE HOTEL",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Võ Nguyên Giáp",
+    "location": {
+      "lat": 21.204441,
+      "lon": 105.8302191
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5bcc8baba8b04282",
+    "name": "Khách Sạn Hanoi Imperial",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Hành",
+    "location": {
+      "lat": 21.0312566,
+      "lon": 105.849998
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "02f188cac31d03d0",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0348225,
+      "lon": 105.8455716
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d30807e008666e37",
+    "name": "Khách Sạn Golden Diamond",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Trần Nhật Duật",
+    "location": {
+      "lat": 21.0391927,
+      "lon": 105.8511387
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9045d00c554f2fbd",
+    "name": "Khách Sạn Le Petit",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302942,
+      "lon": 105.8489131
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e58f0e7e46321414",
+    "name": "Splendid Star Grand Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Thọ Xương",
+    "location": {
+      "lat": 21.0291318,
+      "lon": 105.8487007
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c26e325cbe35870b",
+    "name": "Skyline Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ Trung Yên",
+    "location": {
+      "lat": 21.0335223,
+      "lon": 105.8524153
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "338a023ef50fa152",
+    "name": "Khách Sạn New Amely & Resident",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Lê Đức Thọ",
+    "location": {
+      "lat": 21.0290827,
+      "lon": 105.769259
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "97aea7804a2ea92b",
+    "name": "Khách Sạn Hanoi Old Town",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.036835,
+      "lon": 105.8497883
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "63352e6561f3068d",
+    "name": "Khách Sạn Hanoi Alibaba",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0327185,
+      "lon": 105.8537322
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "871439d9431b8ab0",
+    "name": "Khách Sạn Và Spa Matilda Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0345574,
+      "lon": 105.8535202
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "143ea382872cf4b1",
+    "name": "Khách Sạn Hanoi Serenity Diamond",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Cửa Đông",
+    "location": {
+      "lat": 21.0344096,
+      "lon": 105.8467548
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6e6194dfc36cacfb",
+    "name": "Oasis Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Láng Hạ",
+    "location": {
+      "lat": 21.0210013,
+      "lon": 105.8183853
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "137f8edb5c412ef2",
+    "name": "Khách Sạn Luxury",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0300134,
+      "lon": 105.8481407
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bc31349ffa8bffff",
+    "name": "Khách Sạn La Siesta",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Mã Mây",
+    "location": {
+      "lat": 21.0342811,
+      "lon": 105.8533216
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9b4152046c437333",
+    "name": "Khách Sạn Hanoi Party Backpacker",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Thành",
+    "location": {
+      "lat": 21.0330335,
+      "lon": 105.8460897
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cb556b2431b385de",
+    "name": "Khách Sạn Family Transit",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2167372,
+      "lon": 105.7810839
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b9e91c418076cecf",
+    "name": "Khách Sạn Somerset Grand Hà Nội",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hai Bà Trưng",
+    "location": {
+      "lat": 21.0262404,
+      "lon": 105.8458094
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "870bc308a7df4031",
+    "name": "Riverside",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0338284,
+      "lon": 105.8540754
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2a346536696160c7",
+    "name": "Khách Sạn Apt Ez",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0293318,
+      "lon": 105.8437457
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "58ea8eda4591caec",
+    "name": "Smart Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0325525,
+      "lon": 105.7898087
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5882c0df1908ce94",
+    "name": "Khách Sạn Hanoi Street",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0292917,
+      "lon": 105.8438984
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d5aef3e40fdc29a8",
+    "name": "Khách Sạn Camellia 4",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0347412,
+      "lon": 105.851258
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c12ff19f79065d5b",
+    "name": "Khách Sạn Box",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0360245,
+      "lon": 105.8524028
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "698d04f56c19546e",
+    "name": "Noi Quy Nha Nghi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.8210983,
+      "lon": 105.8831974
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "669732e740887098",
+    "name": "Khách Sạn Hanoi Friends Inn",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Gà",
+    "location": {
+      "lat": 21.0350153,
+      "lon": 105.8470454
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2e14cfdea13e28e7",
+    "name": "Hanoi Serene Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Yên Thái",
+    "location": {
+      "lat": 21.0319863,
+      "lon": 105.8476813
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d220a46e4e51f1d0",
+    "name": "Khách Sạn Toàn Thắng",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phan Dang Luu",
+    "location": {
+      "lat": 21.081243,
+      "lon": 105.905685
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d6463c429a346045",
+    "name": "Khách Sạn Hanoi Old Centre",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Hành",
+    "location": {
+      "lat": 21.0314694,
+      "lon": 105.850497
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e74aceb10636803f",
+    "name": "Khách Sạn Hà Nội 123",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Nam Ngư",
+    "location": {
+      "lat": 21.0265829,
+      "lon": 105.8424048
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "050e28a9488f87db",
+    "name": "Thang Long Opera Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Tông Đản",
+    "location": {
+      "lat": 21.0282603,
+      "lon": 105.857367
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2e76bfab42776147",
+    "name": "Khách Sạn B&B",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Thùng",
+    "location": {
+      "lat": 21.0322584,
+      "lon": 105.8549018
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fa40c47d23f28122",
+    "name": "Khách Sạn Hanoi Old Quarter Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đào Duy Từ",
+    "location": {
+      "lat": 21.0368593,
+      "lon": 105.8524202
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "82cf9a9f71702b6a",
+    "name": "Khách Sạn Hanoi Charm",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Tô Tịch",
+    "location": {
+      "lat": 21.032895,
+      "lon": 105.8501494
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c8a3545268c26bf7",
+    "name": "Tomodachi House",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Tống Duy Tân",
+    "location": {
+      "lat": 21.0295113,
+      "lon": 105.8439755
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "badc6e6afde47134",
+    "name": "Khách Sạn Lele & Frog",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Tống Duy Tân",
+    "location": {
+      "lat": 21.0297333,
+      "lon": 105.844296
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3b5e94eb582c44a0",
+    "name": "Khách Sạn La Siesta Trendy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Quang Bích",
+    "location": {
+      "lat": 21.0322779,
+      "lon": 105.8457887
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9fbbc4c67314d443",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ Huyện",
+    "location": {
+      "lat": 21.0293065,
+      "lon": 105.8481951
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "66e3ea0232939263",
+    "name": "Khách Sạn Golden Snake",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ Huyện",
+    "location": {
+      "lat": 21.0292494,
+      "lon": 105.8481334
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "30e677b75548393d",
+    "name": "Le Foyer",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0329803,
+      "lon": 105.8523362
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b5cab24e9a647c9e",
+    "name": "Khashc Sạn Fantasea",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.032621,
+      "lon": 105.8466932
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bd41a5836bcc35e4",
+    "name": "Khach Sạn Sao Băng",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 61 Lạc Trung",
+    "location": {
+      "lat": 21.0028522,
+      "lon": 105.8667059
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a178ad100a3cdaf3",
+    "name": "Khách Sạn Hà Đông",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9658636,
+      "lon": 105.7660238
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "411cc6c3709093bc",
+    "name": "Pod hotel Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0371003,
+      "lon": 105.8511156
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f5444f252ca0fa9a",
+    "name": "Khách sạn Bình Minh",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 84 Ngọc Khánh",
+    "location": {
+      "lat": 21.0260095,
+      "lon": 105.8160956
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "48b8b09d45494b6f",
+    "name": "Khách Sạn Green Street",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0356102,
+      "lon": 105.8533151
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7f2f0d7d977b0532",
+    "name": "Khách Sạn Hanoi Heart",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0327685,
+      "lon": 105.8504022
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a9d45fb9d8cc9e0a",
+    "name": "Thanh Binh Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Đào",
+    "location": {
+      "lat": 21.0328004,
+      "lon": 105.8514379
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "235ac227c0e74284",
+    "name": "Khách Sạn Emerald Waters & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0349625,
+      "lon": 105.8503869
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c15afa2cf0e67579",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.032392,
+      "lon": 105.853957
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "86b93df11b3fde00",
+    "name": "Khách Sạn Legacy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0358438,
+      "lon": 105.8512432
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "15a859b73c273195",
+    "name": "Hanoi Romance Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Dinh Liet Str.",
+    "location": {
+      "lat": 21.0334153,
+      "lon": 105.852308
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a6501ab7d654d790",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0208257,
+      "lon": 105.8245525
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "aa77091b86df83dc",
+    "name": "Khách Sạn Hoa Trà",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Lãn Ông",
+    "location": {
+      "lat": 21.0353254,
+      "lon": 105.8493216
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "edb9076861e21a54",
+    "name": "Khách Sạn Hanoi Impressive",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Ấu Triệu",
+    "location": {
+      "lat": 21.0285359,
+      "lon": 105.8482354
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9d0bcea2aa6d399c",
+    "name": "Camella Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "34 Lãn Ông",
+    "location": {
+      "lat": 21.0304522,
+      "lon": 105.8484482
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f79ac2b2c030c562",
+    "name": "Nha nghi Hung Van",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.6134522,
+      "lon": 105.7848633
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a941c4c606817374",
+    "name": "Khách Sạn Hanoi Focus",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Tô Tịch",
+    "location": {
+      "lat": 21.0328135,
+      "lon": 105.8500162
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4597f6a57ef47c52",
+    "name": "Khách Sạn Prince",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Tô Tịch",
+    "location": {
+      "lat": 21.0327666,
+      "lon": 105.8500458
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f11f1a3171dd9df3",
+    "name": "Khách Sạn Golden Holiday",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Đồng",
+    "location": {
+      "lat": 21.0358209,
+      "lon": 105.8478557
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cb1e63d5d90bbf56",
+    "name": "Khách Sạn Hanoi Fantasy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Nón",
+    "location": {
+      "lat": 21.0324764,
+      "lon": 105.8482285
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8e522300f5d79bca",
+    "name": "Nova",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0320494,
+      "lon": 105.8469688
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "594adbf17576ac37",
+    "name": "Khách Sạn New Airport aka New Airport Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2050339,
+      "lon": 105.8311936
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9f000d4824b2244f",
+    "name": "Khách Sạn Airbnb",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Phạm Ngũ Lão",
+    "location": {
+      "lat": 21.022611,
+      "lon": 105.8594376
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "540442ad6612ac70",
+    "name": "Khách Sạn Morning",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Hành",
+    "location": {
+      "lat": 21.0316062,
+      "lon": 105.8507332
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f0cd52a86775ee96",
+    "name": "Khách Sạn Mig21",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đại Lộ Thăng Long",
+    "location": {
+      "lat": 20.9942189,
+      "lon": 105.5213894
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "73735eabacbe757c",
+    "name": "Khách Sạn Amorito",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.031894,
+      "lon": 105.8540481
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c048837078c64566",
+    "name": "Khách Sạn Dragon Hotel Airport",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2189546,
+      "lon": 105.7833584
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9cf39ac27c2da8a0",
+    "name": "Nhà Của Huy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 5 Tùng Thiện",
+    "location": {
+      "lat": 21.1135558,
+      "lon": 105.4974819
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8e0766ca8dbdc7bc",
+    "name": "Khách Sạn Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0278391,
+      "lon": 105.8214573
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "80bfea0bab0ad22a",
+    "name": "Khách Sạn Bách Đại Lộc",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.1069612,
+      "lon": 105.4343142
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ca2ca4c47ac88da2",
+    "name": "Hanoi Panda Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Mắm",
+    "location": {
+      "lat": 21.0337894,
+      "lon": 105.854991
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "846afef8ca322111",
+    "name": "Khách Sạn Đức Hiếu",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2191012,
+      "lon": 105.7839653
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a377ba8bbde5e3b0",
+    "name": "Khách Sạn Ats",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phạm Ngũ Lão",
+    "location": {
+      "lat": 21.0200525,
+      "lon": 105.8601709
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7ddf61e38ee0833c",
+    "name": "Khách Sạn 103",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9652392,
+      "lon": 105.7930406
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "174f7576c6ac9ad8",
+    "name": "Diamond Legend Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0370377,
+      "lon": 105.8472405
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3d289bd43fcd17bc",
+    "name": "Maya Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đào Duy Từ",
+    "location": {
+      "lat": 21.0369127,
+      "lon": 105.852404
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4dc0c006c5d40047",
+    "name": "Resort Hồ Tiên Sa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0969762,
+      "lon": 105.3886751
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0bb8171de6f67862",
+    "name": "Paradise Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Bạc",
+    "location": {
+      "lat": 21.0339811,
+      "lon": 105.8524431
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "88d3be8263a50dcc",
+    "name": "Khách Sạn Cầu Am 1",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9738541,
+      "lon": 105.778161
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "574f69e79f47ed7e",
+    "name": "Khách Sạn Hanoi Sky",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0290494,
+      "lon": 105.843326
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7f3a03b96ef334ac",
+    "name": "Serene Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Bát Sứ",
+    "location": {
+      "lat": 21.0351499,
+      "lon": 105.8474121
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "005a38c4b28211f0",
+    "name": "Real Hanoi Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.033513,
+      "lon": 105.8525019
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f730f4931d91b697",
+    "name": "Nhà nghỉ Đại Phú Anh",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Cầu Vĩnh Thịnh",
+    "location": {
+      "lat": 21.1546875,
+      "lon": 105.4836865
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "66d7983bfd3fe29d",
+    "name": "Rising Dragon Villa Hotel 43A Bat Su Street",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.034609,
+      "lon": 105.8475127
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cae42c7198472845",
+    "name": "Khách Sạn Hanoi Nostalgia",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.03478,
+      "lon": 105.8530341
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "43e26da08d5f454d",
+    "name": "Khách Sạn Hanoi Bella Rosa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Cầu Gỗ",
+    "location": {
+      "lat": 21.0321562,
+      "lon": 105.8533235
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8aeed2b1f3c88057",
+    "name": "Nhà Khách Hanoi Lucky 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Mã",
+    "location": {
+      "lat": 21.0365271,
+      "lon": 105.8468653
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6347f1286148540e",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0322443,
+      "lon": 105.8544266
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d7588dac9061fe37",
+    "name": "Khách Sạn La Paz",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0211689,
+      "lon": 105.6400258
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d96e607f7105ceea",
+    "name": "Nhà Khách Dreamcatcher",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ha Hoi, Hoan Kiem",
+    "location": {
+      "lat": 21.0212785,
+      "lon": 105.8474164
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "69ea1ec8ac1109a7",
+    "name": "Khách Sạn Golden Charm",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hang Quat",
+    "location": {
+      "lat": 21.032931,
+      "lon": 105.8497236
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a03e48aa5f8dfc7f",
+    "name": "Khách Sạn Bodega",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0294113,
+      "lon": 105.8457184
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d251dbebc6aae617",
+    "name": "녹 칸 장보",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0250184,
+      "lon": 105.818607
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c5af6209be61bf26",
+    "name": "Khách Sạn An",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0367493,
+      "lon": 105.8521171
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a89f7503b4e1ea07",
+    "name": "Nova Luxury Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0358507,
+      "lon": 105.8472106
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "098a3bd7f51f86be",
+    "name": "Hanoi Capella Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Lò Sũ",
+    "location": {
+      "lat": 21.0313991,
+      "lon": 105.8549407
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "574a23ec0b587636",
+    "name": "Khách Sạn BB's",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0363629,
+      "lon": 105.8527973
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ae31436d306084a5",
+    "name": "Summer Place Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Lý Nam Đế",
+    "location": {
+      "lat": 21.0330997,
+      "lon": 105.8448419
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "50764937cb22163e",
+    "name": "Khách Sạn Helios Legend",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Thành",
+    "location": {
+      "lat": 21.0333758,
+      "lon": 105.8459461
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ed3ce0ee3a31f35e",
+    "name": "Khách Sạn Hanoi Golden",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Nguyễn Siêu",
+    "location": {
+      "lat": 21.0363074,
+      "lon": 105.8509473
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2a75ed6eeb5a7539",
+    "name": "Khách Sạn Hanoi La Storia",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Đồng",
+    "location": {
+      "lat": 21.0357127,
+      "lon": 105.847721
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c2d7b6c64028f412",
+    "name": "Noble & Swan boutique hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Thành",
+    "location": {
+      "lat": 21.0326769,
+      "lon": 105.8462814
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "772ab7a322cab8f4",
+    "name": "Khách Sạn Hanoi Cristina",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0353443,
+      "lon": 105.8541414
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "64dc1ff9c4e163bb",
+    "name": "Khách Sạn Douceur de l'aube",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Yên Ninh",
+    "location": {
+      "lat": 21.0431653,
+      "lon": 105.8441778
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7dfeb82140d87331",
+    "name": "La Siesta Central Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Cầu Gỗ",
+    "location": {
+      "lat": 21.0319322,
+      "lon": 105.8535289
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b6cbcb1e2de73290",
+    "name": "Khách Sạn Emerald Waters & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.03147,
+      "lon": 105.8535125
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "814046028947788f",
+    "name": "Splendid Holiday Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0291837,
+      "lon": 105.848789
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5524396968855821",
+    "name": "Khách Sạn Inearth",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Dịch Vọng Hậu",
+    "location": {
+      "lat": 21.0325773,
+      "lon": 105.7873161
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ee6fb4b244417177",
+    "name": "Hanoï sincerity guest house",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.033127,
+      "lon": 105.8503996
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b924bfaf9d15b682",
+    "name": "Skylark boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Phan Đình Phùng",
+    "location": {
+      "lat": 21.0400107,
+      "lon": 105.8451439
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b68f9b1e9eb6abba",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.030843,
+      "lon": 105.8503621
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5742a89e5d60fdea",
+    "name": "Khách Sạn Golden Sun Villa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0303268,
+      "lon": 105.8497191
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b763f67a05794bde",
+    "name": "Khách sạn Somerset",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0667456,
+      "lon": 105.826109
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "dc382d3ba38f7414",
+    "name": "Hanoi Grandeur Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Than",
+    "location": {
+      "lat": 21.0405774,
+      "lon": 105.8476545
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "df101a77a3258b59",
+    "name": "Khách Sạn La Belle Vie",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.0429057,
+      "lon": 105.8439397
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8ac50343f8f73235",
+    "name": "Sunny Hotel 1",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0275724,
+      "lon": 105.8127702
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b6391e98b5749742",
+    "name": "Khách Sạn Ngọc Lan",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.017303,
+      "lon": 105.8264037
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3899fc11139508d4",
+    "name": "Khách Sạn Blue 29",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Giảng Võ",
+    "location": {
+      "lat": 21.0237006,
+      "lon": 105.8205593
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "19e84409ffb499ec",
+    "name": "Khách Sạn Quê Hương",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.973466,
+      "lon": 105.8364802
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e059bda37519ecc2",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0278387,
+      "lon": 105.8406823
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ecb41ec00d56aa7f",
+    "name": "Nhà Nghỉ Hải Thành",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0271207,
+      "lon": 105.8402648
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "15b2451eeec6f4a1",
+    "name": "Khách Sạn Hanoi Emotion",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ Hàng Bột",
+    "location": {
+      "lat": 21.0292439,
+      "lon": 105.8343303
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "30673789776c4c76",
+    "name": "Quang Hiep Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0365315,
+      "lon": 105.8530672
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "70e39d95b1c9a633",
+    "name": "INTER Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Văn Ngọc",
+    "location": {
+      "lat": 21.0337072,
+      "lon": 105.8111568
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "878e19f55c62ffb3",
+    "name": "Khách Sạn Hanoi Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0363923,
+      "lon": 105.8504145
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "80eda9bebfee3b97",
+    "name": "Khách Sạn Hanoi Passion Suite",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Trần Nhật Duật",
+    "location": {
+      "lat": 21.0378996,
+      "lon": 105.8523642
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8fa7814bf826493e",
+    "name": "Thanh Son Noi Bai Airport Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2152249,
+      "lon": 105.7810611
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6e477cb110f5baa4",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0270133,
+      "lon": 105.8503468
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "15f199b09930b4e3",
+    "name": "Khách Sạn Antique Angel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Đồng",
+    "location": {
+      "lat": 21.0357504,
+      "lon": 105.8475761
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c2a2335c4519871f",
+    "name": "Khách Sạn CucKu",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0510661,
+      "lon": 105.8447043
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fc8d287dfd0c70e9",
+    "name": "Khách Sạn Centre Point Hà Nội",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Hành",
+    "location": {
+      "lat": 21.0314469,
+      "lon": 105.850458
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d807c5e2c3a88743",
+    "name": "The Artisan Lakeview Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Hành",
+    "location": {
+      "lat": 21.0314959,
+      "lon": 105.8505427
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "097c0f44310ceb0a",
+    "name": "Khách Sạn Hanoi Stella",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Tre",
+    "location": {
+      "lat": 21.0320281,
+      "lon": 105.8555718
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8fb64bf850ccf467",
+    "name": "Nhà Nghỉ Hoàng Long",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.985344,
+      "lon": 105.9312026
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "571b594b2549e6f4",
+    "name": "Khách Sạn & Căn Hộ Lyn Luxury",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Quảng Khánh",
+    "location": {
+      "lat": 21.0607878,
+      "lon": 105.8193781
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "76957deec8287d7f",
+    "name": "Khách Sạn Dinh",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0231777,
+      "lon": 105.8531269
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "74383e42a9e31b21",
+    "name": "golden sun",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.030085,
+      "lon": 105.849888
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "afb2f5220e285978",
+    "name": "Golden Moon Suite Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0320854,
+      "lon": 105.8482032
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9799c4f9d016ef55",
+    "name": "Khách Sạn 7 Fridays Westlake",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0623479,
+      "lon": 105.8288443
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0340e88b59d18fb6",
+    "name": "Khách Sạn Hanoi Gratitude",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0298151,
+      "lon": 105.8461839
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7f448eb4eb0e4075",
+    "name": "Khách Sạn Hanoi Friendly House",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Võ Chí Công",
+    "location": {
+      "lat": 21.0686025,
+      "lon": 105.8077767
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "682c36eb2bb14d00",
+    "name": "Hanoi Hotel Royal",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phat Loc",
+    "location": {
+      "lat": 21.0347188,
+      "lon": 105.8539766
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "970e4b3b0e6765b6",
+    "name": "Khách Sạn Hanoi Buddy Inn",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bồ",
+    "location": {
+      "lat": 21.0339204,
+      "lon": 105.8486352
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a96e2cba713ca86d",
+    "name": "Khách Sạn Bavi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0875996,
+      "lon": 105.3968148
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5559e14c293f0f95",
+    "name": "HD house",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2183128,
+      "lon": 105.7825183
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cef984850de6f8ea",
+    "name": "May Flower",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Rươi",
+    "location": {
+      "lat": 21.0370283,
+      "lon": 105.848014
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "489e1955276ad243",
+    "name": "Hanoi Prime Center Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.035395,
+      "lon": 105.8455078
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4ccc6e2a25c70b52",
+    "name": "@HOME",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0365304,
+      "lon": 105.8283403
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c64fa41bce2520f3",
+    "name": "The Tent B&B Hanoi Opera",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0224176,
+      "lon": 105.8590972
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f6191eb0c8eebbd7",
+    "name": "Khách Sạn Chân Cầm",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302872,
+      "lon": 105.8484761
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8eae0eff78fa5f9d",
+    "name": "Joye Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Lương Ngọc Quyến",
+    "location": {
+      "lat": 21.0347504,
+      "lon": 105.8518391
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "915906e17b892dd8",
+    "name": "Hanoi Little Town",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Lược",
+    "location": {
+      "lat": 21.0370945,
+      "lon": 105.8485393
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cce584a10544552d",
+    "name": "Mimi Homestay",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0230844,
+      "lon": 105.8474052
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "90ee7f852156307a",
+    "name": "Hanoi Asia Guest House",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Thuốc Bắc",
+    "location": {
+      "lat": 21.0349779,
+      "lon": 105.8482727
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c3ad5fb44d805ccc",
+    "name": "Khách Sạn Mỹ Vân",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Lê Văn Hưu",
+    "location": {
+      "lat": 21.0179262,
+      "lon": 105.8544434
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5dae7c15eabc180d",
+    "name": "Khách Sạn Hằng My",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hang Quat",
+    "location": {
+      "lat": 21.032496,
+      "lon": 105.8492523
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ef9937dbfc7a5370",
+    "name": "Hang bac backpacker hostel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0340048,
+      "lon": 105.8513944
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6c34dbd56b560382",
+    "name": "Khách Sạn Hanoi Lavender",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0285285,
+      "lon": 105.843651
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "918944f48e653f3c",
+    "name": "Khách Sạn Kalon",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Thọ Lão",
+    "location": {
+      "lat": 21.0115753,
+      "lon": 105.8588794
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c611b1259cb9a782",
+    "name": "Khách Sạn Lemon",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0419661,
+      "lon": 105.8437014
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "18e4cd2a79d556bd",
+    "name": "Khách Sạn Boss Legend",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0322493,
+      "lon": 105.8548553
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "477954dc01ffa340",
+    "name": "Serenity Villa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.029997,
+      "lon": 105.848361
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "91d4bd2ed0127cf8",
+    "name": "Khách Sạn Conifer Grand",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Thọ Xương",
+    "location": {
+      "lat": 21.0289149,
+      "lon": 105.8482786
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "251482a4605ed46b",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0048061,
+      "lon": 105.8066122
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a46df98c2f929aa0",
+    "name": "Queen Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0294309,
+      "lon": 105.8484873
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ecc2982c33f7622f",
+    "name": "A Letter Home",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 33 Tân Ấp",
+    "location": {
+      "lat": 21.0470486,
+      "lon": 105.8451953
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d386cdfe6c431354",
+    "name": "22land Residence Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0303106,
+      "lon": 105.8473701
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "859a8ad2cbc697e2",
+    "name": "OYO 210 Saki Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "28 Pho Dich Vong Hau",
+    "location": {
+      "lat": 21.0329883,
+      "lon": 105.7875764
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "606916f2b4d28452",
+    "name": "Khách Sạn HC Old Quarter View House",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0285134,
+      "lon": 105.8481091
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bbd6f2ba910ac563",
+    "name": "Khách Sạn Dragon",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 60 Đường Khuê",
+    "location": {
+      "lat": 21.035148,
+      "lon": 105.7714799
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0d16a1ee46491c49",
+    "name": "Khách Sạn Hoàng Anh",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 28 Đường Khuê",
+    "location": {
+      "lat": 21.0357833,
+      "lon": 105.7716425
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "30c2599c35ea163d",
+    "name": "Khách Sạn A25",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Phan Đình Phùng",
+    "location": {
+      "lat": 21.0400754,
+      "lon": 105.8448084
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "09b71aa4fe1cffce",
+    "name": "Khách Sạn A25",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 32 An Dương",
+    "location": {
+      "lat": 21.0512205,
+      "lon": 105.8411459
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3713c5811eade2ab",
+    "name": "Khách Sạn Adamas Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.042174,
+      "lon": 105.8456896
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8c6329fb0a4c6465",
+    "name": "Khách Sạn Hải Nam",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.0419654,
+      "lon": 105.8468758
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "907ad19a003b177b",
+    "name": "Thang Long Espana Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.0422934,
+      "lon": 105.8451417
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d509fe60c64450a3",
+    "name": "SkyLark Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Phan Đình Phùng",
+    "location": {
+      "lat": 21.0399953,
+      "lon": 105.8452644
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7f6192a97710048f",
+    "name": "Khách Sạn & Căn Hộ Newstyle",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0111646,
+      "lon": 105.8083433
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2c6f01228afe2ac1",
+    "name": "Khách Sạn Hestia Legend",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.041453,
+      "lon": 105.8449333
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8fb7052da08d1bd8",
+    "name": "Tam hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0453769,
+      "lon": 105.8412648
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8e01c663039703c0",
+    "name": "Khách Sạn A25",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0456555,
+      "lon": 105.8420458
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "be8e70a0aad2e3e1",
+    "name": "Khách Sạn Bảo Sơn Gold",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0460589,
+      "lon": 105.8421231
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cc05adfe14e8736d",
+    "name": "burrow",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0323561,
+      "lon": 105.8488498
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "13caed035b4c09aa",
+    "name": "burrow",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.032534,
+      "lon": 105.848869
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c3936944df965032",
+    "name": "Lotte Hotel Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0321679,
+      "lon": 105.8124934
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9345313528fa79ad",
+    "name": "zostay hostel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0344659,
+      "lon": 105.8547224
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "085acedb2485a945",
+    "name": "Khách Sạn Diệu Hồng",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9918658,
+      "lon": 105.4940398
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8d9e4e83040a3ee7",
+    "name": "Sunway Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phạm Đình Hổ",
+    "location": {
+      "lat": 21.0162522,
+      "lon": 105.8571655
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3c23b87ecba63862",
+    "name": "Khách Sạn Âu Cơ Art Classic",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ Huyện",
+    "location": {
+      "lat": 21.0295393,
+      "lon": 105.8481716
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f72699a96e1d9cf8",
+    "name": "Khách Sạn An Phú 1",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0299774,
+      "lon": 105.7750391
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0215a09b2da30540",
+    "name": "Khách Sạn An Phú 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0301758,
+      "lon": 105.7753454
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7ac664bbf61f2878",
+    "name": "Khách Sạn La Maison D'orient",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ Huyện",
+    "location": {
+      "lat": 21.0298354,
+      "lon": 105.8485193
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f83b8be1b9eca800",
+    "name": "Khách Sạn An Phú 3",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0291122,
+      "lon": 105.7755266
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d6c2dd74bd912352",
+    "name": "Khách Sạn & Spa Acoustic",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0276503,
+      "lon": 105.8446362
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6829eb8cffa71ce8",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.035563,
+      "lon": 105.8477231
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c567904e683f52c9",
+    "name": "Khách Sạn Pacific",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9067375,
+      "lon": 105.5785405
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d9a1fe4991eae7be",
+    "name": "Iris Legend Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.028409,
+      "lon": 105.8480757
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6a6486a4d3d745a5",
+    "name": "Hanoi Luxury House and Travel Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.039715,
+      "lon": 105.8490243
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b67549ad8c9ee046",
+    "name": "La Hause",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0018844,
+      "lon": 105.8529176
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fefa8a20de6c549c",
+    "name": "Khách Sạn & Spa Alise",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0304675,
+      "lon": 105.8564879
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e28121a849c1ec13",
+    "name": "Khách Sạn Prince II",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0348148,
+      "lon": 105.8511981
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f66e08b82b2bc325",
+    "name": "Khách Sạn Light",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0197709,
+      "lon": 105.8622336
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "652d9e1c223096fe",
+    "name": "The Q Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Hữu Huân",
+    "location": {
+      "lat": 21.0346916,
+      "lon": 105.8542148
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8b0c26aadc01abe5",
+    "name": "Khách Sạn Á Đông",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0348414,
+      "lon": 105.8515157
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "1f14915b3a1fb32f",
+    "name": "Khách Sạn A25",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0347222,
+      "lon": 105.8514189
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "460a17975c39ea3d",
+    "name": "Parkside Sunline Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.008392,
+      "lon": 105.8472847
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "90b95ed93fda85c9",
+    "name": "Khách Sạn Hanoi Elpis",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0318801,
+      "lon": 105.8556062
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cda252b9d4ac66ac",
+    "name": "340-342 Trần Khát Chân",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0093405,
+      "lon": 105.8582953
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "25bd67f3b09b690f",
+    "name": "Nhà nghỉ An Phú",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0505917,
+      "lon": 105.7828337
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5dd6d1f93c9b0c32",
+    "name": "Khách Sạn Huy Hoàng",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.6096161,
+      "lon": 105.779997
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4499accf0b87a0ac",
+    "name": "Khách Sạn Lucky 3",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0300647,
+      "lon": 105.8469646
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "1a23650f4a07b411",
+    "name": "Khách Sạn Lucky",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.031145,
+      "lon": 105.8491386
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e22dac5d7b7b3d2e",
+    "name": "Khách Sạn Church Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0315287,
+      "lon": 105.8496467
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ae2d6c4abfb9cad8",
+    "name": "Khách Sạn Lavender Old Quarter",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0352883,
+      "lon": 105.845912
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "07982e3419c78cdc",
+    "name": "Khách Sạn La Cascada House",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0395688,
+      "lon": 105.8494053
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9b09276b633abda4",
+    "name": "Silk Queen Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0315778,
+      "lon": 105.849374
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "335f355ee74d3112",
+    "name": "Khách Sạn Charming",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hang Thiec",
+    "location": {
+      "lat": 21.0332502,
+      "lon": 105.8479433
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "64fcf27bf81d36ba",
+    "name": "Khách Sạn Cozy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0388162,
+      "lon": 105.8463983
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f6e5e22658bcfda9",
+    "name": "Resort Nhà hàng Phan Thị",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hồ Đồng mô",
+    "location": {
+      "lat": 21.0732055,
+      "lon": 105.4775324
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5930d9e9a5b78a50",
+    "name": "Khách Sạn Hana",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Phan Kế Bính",
+    "location": {
+      "lat": 21.036281,
+      "lon": 105.8082493
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d281dad8a9f0c890",
+    "name": "Khách Sạn New Sky Airport",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Quốc lộ 2, Cầu Đen",
+    "location": {
+      "lat": 21.2148821,
+      "lon": 105.7813644
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f408748e472b0f04",
+    "name": "Khách Sạn Anatole Hà Nội",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0281503,
+      "lon": 105.8497388
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "56aaf21a58f1afd5",
+    "name": "Khách Sạn Solaria Hà Nội",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0301863,
+      "lon": 105.8504246
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "57769c668557f094",
+    "name": "Khách Sạn - Căn Hộ Bảo Hùng",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0334194,
+      "lon": 105.7880569
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e63c72dde197961d",
+    "name": "Khách sạn La Siesta Premium",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0331348,
+      "lon": 105.8539771
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "13568a3b333569c9",
+    "name": "Khách Sạn Hoa Dương",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0338425,
+      "lon": 105.8552115
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "71de218f19ec0239",
+    "name": "Charming Moon Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0332723,
+      "lon": 105.8518686
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7d8443580cd8205a",
+    "name": "Hanoi Media Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0318307,
+      "lon": 105.8540486
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e53cad755bc84b79",
+    "name": "Le Jardin Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "46A Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.0430496,
+      "lon": 105.8438519
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8ae9bac5ccfc648d",
+    "name": "Peridot Grand Luxury Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0330476,
+      "lon": 105.8462971
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "287527f0be58dd02",
+    "name": "Somerset Hoa Binh Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Hoàng Quốc Việt",
+    "location": {
+      "lat": 21.0465195,
+      "lon": 105.7950819
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "efe992b04dee4d17",
+    "name": "GM Premium Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0307612,
+      "lon": 105.8481999
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4f65b6bbf57d1f42",
+    "name": "Hai Bay",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0308515,
+      "lon": 105.8485437
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "73ec12550cb2a4ca",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0795675,
+      "lon": 105.8187938
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f564336934435216",
+    "name": "Anova Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2045086,
+      "lon": 105.8296141
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4e7e9624683ce682",
+    "name": "Mina Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Buồm",
+    "location": {
+      "lat": 21.0361526,
+      "lon": 105.8517615
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "255e65130c292a5c",
+    "name": "Khách sạn Grand Plaza Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Trần Duy Hưng",
+    "location": {
+      "lat": 21.0074185,
+      "lon": 105.7968704
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3ec5eae31910e661",
+    "name": "Hotel Hoàng Thắng",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngách 467/139/34 Lĩnh Nam",
+    "location": {
+      "lat": 20.985829,
+      "lon": 105.884038
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6512004b9b70ab0b",
+    "name": "Aira Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0306236,
+      "lon": 105.8418157
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8612a0c9b4f9b1f0",
+    "name": "22Land Residence Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0309521,
+      "lon": 105.8493198
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "3e6834b66b473fde",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2168229,
+      "lon": 105.7811348
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2eb7125c53e1eb37",
+    "name": "Bendecir Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0312405,
+      "lon": 105.8555918
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8542a3e90bc48939",
+    "name": "Western Skyline Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0035223,
+      "lon": 105.7804708
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "226ed1f548a0c7ec",
+    "name": "The Noble Swan Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302329,
+      "lon": 105.8479992
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "223e3dbad8bff9d1",
+    "name": "Gallant Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0140699,
+      "lon": 105.8642173
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "876371781d762b28",
+    "name": "Paragon",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2189594,
+      "lon": 105.7830978
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "13f8c4f93d92281a",
+    "name": "Hanoi Lotus hôtel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0344833,
+      "lon": 105.8474409
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f32446990eabe893",
+    "name": "Golden Sun Hotel Trendy",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Hành",
+    "location": {
+      "lat": 21.0311589,
+      "lon": 105.8500711
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2222c19f221570ad",
+    "name": "Khách sạn Lieber",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9699561,
+      "lon": 105.7854278
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "60fe14508f8563ce",
+    "name": "Hanoi Aria Central Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Lê Duẩn",
+    "location": {
+      "lat": 21.0268455,
+      "lon": 105.8416146
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "83248191a707cd3b",
+    "name": "La sinfonia majesty hotel spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0321322,
+      "lon": 105.8538075
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b453810a609b9ebf",
+    "name": "Luxury Airport Hotel Noibai",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Quốc lộ 2",
+    "location": {
+      "lat": 21.1982769,
+      "lon": 105.83269
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "70e2c24afd745031",
+    "name": "Nhà Phố Hà Nội 437 Hồng Hà Sinsoledad",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Hồng Hà",
+    "location": {
+      "lat": 21.03648,
+      "lon": 105.8542595
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a52fd78d727ba57f",
+    "name": "The Bloom",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.032962,
+      "lon": 105.7874104
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2ad505e7a28b9a73",
+    "name": "Gia Thinh Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bạc",
+    "location": {
+      "lat": 21.0334999,
+      "lon": 105.8534863
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5351fc90447cb806",
+    "name": "Le Jardin Haute Courture",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0431314,
+      "lon": 105.8433319
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2e79fe7ce77b77a3",
+    "name": "Madelise Palace Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.035517,
+      "lon": 105.850451
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e22e652c293ce152",
+    "name": "Trang Trang Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0325862,
+      "lon": 105.8530341
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "da4d672aa68975f9",
+    "name": "Tryst Apartment Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0425731,
+      "lon": 105.844567
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "89e98618389f4621",
+    "name": "San Grand Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0327824,
+      "lon": 105.8529466
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "c921c2cd1206db92",
+    "name": "Garden Golf",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0421931,
+      "lon": 105.8429991
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "00863e3e5e5eb1a9",
+    "name": "Hotel 64",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0433828,
+      "lon": 105.842985
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "191cc1d70c181c41",
+    "name": "Aviary Hanoi Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0334289,
+      "lon": 105.8523436
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "17915e92986f9d95",
+    "name": "Aquamarine Hotel & Travel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0327423,
+      "lon": 105.8504093
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b1293272ea635995",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0414498,
+      "lon": 105.8282915
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7c0428c41ac37b79",
+    "name": "Hanoi High Five hostel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0334204,
+      "lon": 105.8548044
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "08136918077050cb",
+    "name": "Holiday Suites Hotel&Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Nguyễn Siêu",
+    "location": {
+      "lat": 21.0367433,
+      "lon": 105.8523734
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9dc45f33f2cbabed",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0323207,
+      "lon": 105.8547447
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a76b42a6e086b9be",
+    "name": "Suddha Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0296316,
+      "lon": 105.848958
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6c640f803bb8ab23",
+    "name": "Hanoi Center Silk Classic Hotel & Travel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Bát Sứ",
+    "location": {
+      "lat": 21.0346438,
+      "lon": 105.8474933
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a91c2472b911404b",
+    "name": "Khách sạn Khoang Xanh",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0464276,
+      "lon": 105.3959595
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "86b482dbbc6e7836",
+    "name": "Beryl Signature Hotel and Travel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0288522,
+      "lon": 105.8462316
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b18af4847612fc18",
+    "name": "Golden Legend Diamond Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302537,
+      "lon": 105.848142
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cb358ad7c208ace3",
+    "name": "L7 Hotels by Lotte West Lake Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 683 Lạc Long Quân",
+    "location": {
+      "lat": 21.0748062,
+      "lon": 105.8123756
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bcde78ffccb901b0",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0318432,
+      "lon": 105.8490159
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cf5b5e0736c19991",
+    "name": "Shining Central Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Lò Sũ",
+    "location": {
+      "lat": 21.0314862,
+      "lon": 105.8552357
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fdb814d3a5800abc",
+    "name": "delica hôtel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Quạt",
+    "location": {
+      "lat": 21.0325541,
+      "lon": 105.8491611
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6ddc4b7bc70e4ed7",
+    "name": "The Lapis Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0196877,
+      "lon": 105.8559604
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "624d1fa1ce8cb252",
+    "name": "Royal Hotel II",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0078738,
+      "lon": 105.7308686
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "250e149b7b20b32c",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0344128,
+      "lon": 105.8469619
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7fa182b0cb6c8cac",
+    "name": "Golden Silk Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Gai",
+    "location": {
+      "lat": 21.0314609,
+      "lon": 105.8493899
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "47b24c9da2253dd0",
+    "name": "Azumaya Linh Lang",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0364602,
+      "lon": 105.8104645
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "35b5e9ee91e0ffc1",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0349689,
+      "lon": 105.8146973
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5dd4fee40388a360",
+    "name": "Hanvet Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ Huyện",
+    "location": {
+      "lat": 21.0293411,
+      "lon": 105.8483228
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "21aa46afb8fa162c",
+    "name": "NNT Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 6 Trần Quốc Hoàn",
+    "location": {
+      "lat": 21.0422792,
+      "lon": 105.7869705
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a8165b18e4717226",
+    "name": "Hotel An Hưng",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 33 Phạm Tuấn Tài",
+    "location": {
+      "lat": 21.0441975,
+      "lon": 105.7861397
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cc45aac681e26a2b",
+    "name": "HANA Stay",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 6 Trần Quốc Hoàn",
+    "location": {
+      "lat": 21.0427389,
+      "lon": 105.7870023
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d33cea7514fd2a57",
+    "name": "Perfect Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9756951,
+      "lon": 105.7807645
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "00c5fc4166a4fa9e",
+    "name": "Au Coeur d'Hanoi Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bè",
+    "location": {
+      "lat": 21.032385,
+      "lon": 105.8537954
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b8b1853899f7588d",
+    "name": "Ngọc Linh Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Triệu Việt Vương",
+    "location": {
+      "lat": 21.0141617,
+      "lon": 105.8503075
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "12d9c0794d9f0417",
+    "name": "ZEDD HOTEL HA NOI",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "ngõ 44 Đỗ quang",
+    "location": {
+      "lat": 21.0104971,
+      "lon": 105.7976913
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e38f85dd7fa5882f",
+    "name": "Khách sạn Seoul",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0095995,
+      "lon": 105.7958703
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ff0daf76dfd731a2",
+    "name": "NT Elysian Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Chiếu",
+    "location": {
+      "lat": 21.0371792,
+      "lon": 105.8518554
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "bfb20fa234d9dc3b",
+    "name": "Amira Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0364617,
+      "lon": 105.8507594
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "582cc6bfb418d9b3",
+    "name": "The Castle Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.040874,
+      "lon": 105.8690893
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9bd19797413e661a",
+    "name": "Cristina Center Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0369629,
+      "lon": 105.8523607
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "eaa15f8498b9b579",
+    "name": "Esalen Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0354774,
+      "lon": 105.7861144
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "2e9773c08b1c7d20",
+    "name": "Thuỳ Ngư Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.035168,
+      "lon": 105.7855773
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d6c07ac6a0a0e5e1",
+    "name": "Toa Nha Allure",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0353492,
+      "lon": 105.8529411
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "31e4644eef612089",
+    "name": "Kingdom Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0350202,
+      "lon": 105.853015
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "95c658214a9a450a",
+    "name": "Khach San",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0364933,
+      "lon": 105.8516265
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8d283518c5093539",
+    "name": "Hanoi Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0362491,
+      "lon": 105.850483
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9c723cc72b526ebe",
+    "name": "Classy Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0360741,
+      "lon": 105.8487942
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "04c036aa5dc71d3d",
+    "name": "Amira Hotel Hanoi",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0363065,
+      "lon": 105.8507373
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0349d7a63b57ba6e",
+    "name": "Carillon Boutique Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0359308,
+      "lon": 105.8477681
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f353c093d520769e",
+    "name": "Vacanza Premier Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0353571,
+      "lon": 105.8481543
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8a17ddae83dae8e6",
+    "name": "Sol Flora",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0354901,
+      "lon": 105.8479426
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "551413b8badb22aa",
+    "name": "Golden Sail Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Buồm",
+    "location": {
+      "lat": 21.0357668,
+      "lon": 105.8515879
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "adf7b572b1697057",
+    "name": "Classy Holiday Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0352693,
+      "lon": 105.8488745
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "7d4eb7d64d11177e",
+    "name": "Golden Rooster Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0359648,
+      "lon": 105.8471292
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0a0de52490268144",
+    "name": "20 Hotel & Appartment",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Đội Cấn",
+    "location": {
+      "lat": 21.034582,
+      "lon": 105.8292804
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0202781959c58a17",
+    "name": "Khách sạn An",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Giấy",
+    "location": {
+      "lat": 21.0396246,
+      "lon": 105.8477139
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0285e1291cb060d7",
+    "name": "Hà Nội Posh Boutique",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Giấy",
+    "location": {
+      "lat": 21.0398034,
+      "lon": 105.8477526
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "962b06872acd0d00",
+    "name": "FTE Ba Dinh Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0387239,
+      "lon": 105.807245
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cb0b419eb3d364eb",
+    "name": "Royal Palace Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0299524,
+      "lon": 105.8466987
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "1fbb2f68994c9bcf",
+    "name": "Grandiose Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0351581,
+      "lon": 105.8146465
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "19f673892598bab3",
+    "name": "Amara",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Quạt",
+    "location": {
+      "lat": 21.0329655,
+      "lon": 105.8498347
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "031ea28f36c9fcdd",
+    "name": "Libré Homestay Đào Tấn",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0342202,
+      "lon": 105.8057862
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "1b9f40eb1cb4d65b",
+    "name": "Scent Premium",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Hàng Hành",
+    "location": {
+      "lat": 21.0313517,
+      "lon": 105.8503184
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "77a2adb93fb4c777",
+    "name": "Golden Sail Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Buồm",
+    "location": {
+      "lat": 21.0357637,
+      "lon": 105.8515223
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "650cfce9730b25e0",
+    "name": "Minasi premium Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.0421882,
+      "lon": 105.8455857
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6849f6f62ab04ad8",
+    "name": "Lakeside House 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "P. Đội Cấn",
+    "location": {
+      "lat": 21.0358146,
+      "lon": 105.8278108
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "cd30dd5fd320ecbd",
+    "name": "A25 Hotel - 23 Quan Thanh",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Quán Thánh",
+    "location": {
+      "lat": 21.0412233,
+      "lon": 105.8444571
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4e31199faecb18e2",
+    "name": "Amazing stay- homestay, city view, near center Hanoi, NK Cau Giay",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "91b Nguyễn Khang, Cau Giay, Ханой, Вьетнам",
+    "location": {
+      "lat": 21.0190151,
+      "lon": 105.8012974
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b210d202946848dd",
+    "name": "Era Apartment Nguyễn Khánh Toàn",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0391221,
+      "lon": 105.8011718
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "261b3ea2325b14bc",
+    "name": "Romantique de Hanoi Hôtel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0347201,
+      "lon": 105.8475343
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9e7874d13ded35c1",
+    "name": "Unnamed",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2036065,
+      "lon": 105.8318698
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fcc8b7a06193ab3e",
+    "name": "Blue Home Homestay",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0362031,
+      "lon": 105.7991975
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "01ed465bcc361453",
+    "name": "InterContinental Hanoi Landmark72",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Phạm Hùng",
+    "location": {
+      "lat": 21.0169899,
+      "lon": 105.7836904
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "07810adf908bc10a",
+    "name": "Era Apartment Khuc Thua Du",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0340693,
+      "lon": 105.7930895
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d7a36396f13be42f",
+    "name": "Chios Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.21526,
+      "lon": 105.7802923
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "dc8c99af3773ea84",
+    "name": "Vinh Son Noi Bai Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2154114,
+      "lon": 105.7806681
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "dfacb02ca5b2e891",
+    "name": "Kawasaki Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2161425,
+      "lon": 105.7807798
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "f7c4d09d7838cc41",
+    "name": "Duc Hieu Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2155089,
+      "lon": 105.780472
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "e2f68d5a25864271",
+    "name": "Indochina Airport Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2150309,
+      "lon": 105.7806597
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "4f774f54104b188e",
+    "name": "Khach San Bao Long Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2153875,
+      "lon": 105.7805498
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d4d87b67a064f8a3",
+    "name": "The King Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2139844,
+      "lon": 105.7821205
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d7e96cbbfc300ad9",
+    "name": "Euphoria Hotel / Label6 Studio",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Ngõ 9 Phố Đặng Thai Mai",
+    "location": {
+      "lat": 21.0631866,
+      "lon": 105.827599
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0b77a2b95ee55f2d",
+    "name": "Silk Hanoi Moment Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0317882,
+      "lon": 105.8483705
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0ba9f69e0f8d6f2e",
+    "name": "Airport Classic Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Võ Nguyên Giáp",
+    "location": {
+      "lat": 21.2048187,
+      "lon": 105.8292477
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a3f4fab85e2e7d92",
+    "name": "22Land Residence Hotel 2",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Đình Hoàn",
+    "location": {
+      "lat": 21.0458397,
+      "lon": 105.8049916
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "412b39f3b4070292",
+    "name": "22Housing Moon Westlake Residence",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Trích Sài",
+    "location": {
+      "lat": 21.0527053,
+      "lon": 105.8124844
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6facca7976a6ba57",
+    "name": "DE LA SOIE Hotel & Travel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Đào",
+    "location": {
+      "lat": 21.0323531,
+      "lon": 105.8514105
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0f1d803bd9c1aaf3",
+    "name": "Thanh Huong 99",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.218325,
+      "lon": 105.7818931
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b4e1efc6aa954dc5",
+    "name": "Anh Duong Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Võ Văn Kiệt",
+    "location": {
+      "lat": 21.2182876,
+      "lon": 105.7824734
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "ce4ca29af9245429",
+    "name": "My House Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Đường Trần Khát Chân",
+    "location": {
+      "lat": 21.0094118,
+      "lon": 105.858114
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "54822b2b2251d95a",
+    "name": "Atlantis Motel & Apartment",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Nguyễn Thái Học",
+    "location": {
+      "lat": 21.0300999,
+      "lon": 105.836998
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "6bc97bea2a7ba390",
+    "name": "Singita Classy Boutique Hotel & Travel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Đường Thành",
+    "location": {
+      "lat": 21.0326087,
+      "lon": 105.8463273
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "865d15a0a44b040a",
+    "name": "Hong Ngoc Dynastie Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Mành",
+    "location": {
+      "lat": 21.0315321,
+      "lon": 105.8483464
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "79c0d3fb51fdae79",
+    "name": "Lushstay",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0233166,
+      "lon": 105.8433082
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0c621c96675a1012",
+    "name": "Lake Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2123764,
+      "lon": 105.8660003
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "32983aa3035e8deb",
+    "name": "Royal Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0522035,
+      "lon": 105.8390415
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "9d961e4c3057be39",
+    "name": "AMI Old Quarter hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hàng Quạt",
+    "location": {
+      "lat": 21.0324091,
+      "lon": 105.8487216
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b03cb46d35bc1a95",
+    "name": "Hanoi Old town guest palace",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0313574,
+      "lon": 105.8474956
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "b8174c31b9fce867",
+    "name": "Sonata Premier Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0336825,
+      "lon": 105.847295
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "a0360168ad4cdc27",
+    "name": "Golden Art Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0350169,
+      "lon": 105.8476197
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "18312d7819bc3df3",
+    "name": "Nesta - The Grand Haonam",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Phố Hào Nam",
+    "location": {
+      "lat": 21.0239821,
+      "lon": 105.8262223
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "dc1f72671b143632",
+    "name": "Sen Grand Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0394455,
+      "lon": 105.8024641
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "5e4d1af83380b324",
+    "name": "Hotel Old Quarter 1961",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0304911,
+      "lon": 105.8559205
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "0d9444dbbcde5523",
+    "name": "Madelise Hanoi View Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.02767,
+      "lon": 105.8393626
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "d02f68756e2f1fbf",
+    "name": "Dream Premium Hotel & Spa",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.027811,
+      "lon": 105.8420516
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "997de56685119870",
+    "name": "Lhana",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0273418,
+      "lon": 105.839898
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "fa5f94b6aa3be307",
+    "name": "Amber Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0353378,
+      "lon": 105.8524268
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  },
+  {
+    "u_key": "8534511f38c6e03d",
+    "name": "Hanoi Amber Hotel",
+    "type": "hotel",
+    "city": "hanoi",
+    "address": "Dao Duy Tu Street",
+    "location": {
+      "lat": 21.0353134,
+      "lon": 105.8522786
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:30:32.715028"
+  }
+]

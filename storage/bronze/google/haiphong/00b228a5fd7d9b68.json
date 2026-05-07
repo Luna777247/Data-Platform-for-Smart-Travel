@@ -1,0 +1,108 @@
+{
+  "u_key": "00b228a5fd7d9b68",
+  "original_osm_name": "Cau Dang",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.676406,
+        "lng": 106.512547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.67781008029151,
+          "lng": 106.5139202802915
+        },
+        "southwest": {
+          "lat": 20.6751121197085,
+          "lng": 106.5112223197085
+        }
+      }
+    },
+    "name": "Cầu Đăng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Đoàn Trọng Khoa",
+        "author_url": "https://www.google.com/maps/contrib/112997378742743498119/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVq0gVaiFnPFKckbFpps5tYscSOY33zIPv9ZtuzXRj9wIvgodFL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đia điểm rất đẹp",
+        "time": 1752975414,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Thành Dương",
+        "author_url": "https://www.google.com/maps/contrib/103199284172449332134/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlzfkfSiCvLt7bijtSUQD5I3RtPrmPG0z8CF9-9_DKIc0qeoAkNg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhà Thành Trâm",
+        "time": 1765633309,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Vu",
+        "author_url": "https://www.google.com/maps/contrib/114770684497176960551/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTYxJouKlla5l89Demj2Y_1nZNe50X5vO9KiZ85NXtjnQ5sZ8=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Add : bắc phong -kiến thiết - tiên lãng -hp.     * Là cây cầu nối giữa hai huyện VĨNH BẢO và TIÊN LÃNG",
+        "time": 1568612585,
+        "translated": false
+      },
+      {
+        "author_name": "Ke Pham",
+        "author_url": "https://www.google.com/maps/contrib/110781958494324883817/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_zgfgoT3vdti4bsqsjyz8Sxjp2tK19pngBnTKA8oTV84MR0Ed=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Thuận tiện cho việc đi lại từ Vĩnh Bảo sang Tiên Lãng và ngược lại.",
+        "time": 1576384690,
+        "translated": false
+      },
+      {
+        "author_name": "MinhTu Luu",
+        "author_url": "https://www.google.com/maps/contrib/104023715221427537163/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRiSOJlRw4cSLAPezIUhCJUtln8zui1iUhhyBhY2gqSN88Q_dG0g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Là cây cầu nối giữa tt Vĩnh Bảo đi Tiên Lãng! Cầu đã thông xe đc gần năm nhưng hai bên cầu mặt đường vẫn đang thi công... các phương tiện qua lại vất vả và người dân vẹn đường phải hít nhiều bụi bẩn!",
+        "time": 1564367046,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 98
+  },
+  "harvested_at": "2026-04-30T15:19:38.754868"
+}

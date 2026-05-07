@@ -1,0 +1,173 @@
+{
+  "u_key": "ba026fdd3e2309dc",
+  "original_osm_name": "Hein Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0913 404 345",
+    "geometry": {
+      "location": {
+        "lat": 16.0375772,
+        "lng": 108.2205258
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0389753302915,
+          "lng": 108.2218647302915
+        },
+        "southwest": {
+          "lat": 16.0362773697085,
+          "lng": 108.2191667697085
+        }
+      }
+    },
+    "name": "Hiên Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–21:00",
+        "Thứ Ba: 06:00–21:00",
+        "Thứ Tư: 06:00–21:00",
+        "Thứ Năm: 06:00–21:00",
+        "Thứ Sáu: 06:00–21:00",
+        "Thứ Bảy: 06:00–21:00",
+        "Chủ Nhật: 06:00–21:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Sâu gạo",
+        "author_url": "https://www.google.com/maps/contrib/106220286906646358987/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPj7vbuP5mNQgHiRie42cmI0LRxx1bZ4iPf5gFeE2wv039LEdxEQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán nhỏ không gian 1 tầng, quán 2 mặt tiền Nam Sơn 1 và Nam Sơn 2. Bị ấn tượng bởi cái biển Hiên màu cam đơn giản nên ghé thử. Quán này chắc chủ yếu người dân địa phương, mình ghé buổi sáng thì khách chủ yếu là cô chú lớn tuổi, gia đình nhóm nhỏ, hoặc bạn bè nhóm nhỏ, hssv khá ít. Không gian quầy pha chế mở. Cf từ 16k, trung bình các món là 25-38k. Cf muối 30k, cf thơm nhưng kem muối bt ko ăn nhập vs cf cho lắm. Cô chủ dễ thương, nc nhẹ nhàng.",
+        "time": 1708740023,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Doãn",
+        "author_url": "https://www.google.com/maps/contrib/116720199081494533432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjmCs9VA0NzmeznYYOnBRSOIipG9rGZu9FZ2Myw12yxEaAnsZD6A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "- Menu: cơ bản đầy đủ món\n- Mức giá: 25-45k\n- Cảm nhận: Quán nhỏ nằm ngay góc đường.\nKhông gian mở mát mẻ cảm giác nhẹ nhàng không quá cầu kỳ. Đồ uống ổn. Giá cả hợp lý.\n- Gợi ý: thích hợp cf nhẹ nhàng buổi sáng.",
+        "time": 1724220202,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Trần Quốc",
+        "author_url": "https://www.google.com/maps/contrib/105861175539068925642/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIcIFotCFVmCxf5RdGSpN1CWguw0ukhog_VSyR2bRf5ztiENo=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán cafe chill chill đúng gu mình thích\nMát mẻ, không quá ồn ào\nĐồ uống tạm ổn\nNgay trung tâm\n\nCafe Hiên\nCafe Đà Nẵng",
+        "time": 1717902635,
+        "translated": false
+      },
+      {
+        "author_name": "Cá Chạy Rông Rông",
+        "author_url": "https://www.google.com/maps/contrib/112306920628798240153/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj9dzdr15ZfIUDZ5dsQNg6enLUTh_evr6oZ0owoK2pASUSzjsc=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán thân thiện, dễ ngồi, giá thành hợp lý, nước uống vừa phải.",
+        "time": 1710427515,
+        "translated": false
+      },
+      {
+        "author_name": "Cẩm Duyên Ngô",
+        "author_url": "https://www.google.com/maps/contrib/112183777939297303230/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3pSIiQgiZ6wkb9wRmJSATBwOMSRdoVQBu1JYXAp_FzltVLx4=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Mưa nên mình tiện ghé qua quán gần nhất trú mưa. Không gian nhỏ xinh. Nhạc  piano ngắm mưa chill chill. Coffee capuchino thì tương đối .",
+        "time": 1697162046,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 28
+  },
+  "harvested_at": "2026-04-29T10:51:02.759453"
+}

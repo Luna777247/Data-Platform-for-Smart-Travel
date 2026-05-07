@@ -1,0 +1,174 @@
+{
+  "u_key": "f7f9bfa7845f91e2",
+  "original_osm_name": "quán nướng Cu Đức",
+  "google_raw": {
+    "formatted_phone_number": "0962 686 848",
+    "geometry": {
+      "location": {
+        "lat": 11.9513164,
+        "lng": 108.4355114
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9526281302915,
+          "lng": 108.4369249802915
+        },
+        "southwest": {
+          "lat": 11.9499301697085,
+          "lng": 108.4342270197085
+        }
+      }
+    },
+    "name": "Quán nướng ngói Cu Đức",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Tran Trong Huy Thong",
+        "author_url": "https://www.google.com/maps/contrib/117925968771438833969/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWETbOyHm1d9hmczLL1fZWaRFB_k0WQDJ6W4L-GEsfZ3QUpPdYKig=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 tháng trước",
+        "text": "Thịt nhím không ngon. Có chút xương nhỏ trong thịt. Bù lại thịt heo và thịt dê thì tuyệt vời. Lòng phèo ăn rất chán mọi người đừng gọi. Nướng nó bắn văng tứ tung. Salad ổn. Hơi ngộp khói khiến không gian quán hơi bí bách. Lần tới có đi ăn sẽ thử thịt cá sấu. À mà thịt nai thịt ngựa đã không còn trong menu",
+        "time": 1759803056,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Long",
+        "author_url": "https://www.google.com/maps/contrib/112802595133478711506/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3fVCyX_n5v5Y1Ino86b0-rekxla-NvROxdAqrLTFTIkEBX2aU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán nướng khá lâu đời và truyền thống.\nKhông gian trong nhà khá bình thường và hơi bí.\nTuy nhiên thì đồ nướng ngon, một phần khá nhiều nên các bạn cân nhắc khi gọi món.\n\nNgoài ra thì nướng ngói nên mình cảm thấy giống chiên xào hơn.\n\nCác món khác như salad, mì xào, … cũng ổn, nên thử.",
+        "time": 1752896873,
+        "translated": false
+      },
+      {
+        "author_name": "tran duy",
+        "author_url": "https://www.google.com/maps/contrib/101607489011027235109/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzj-5gzDW3DuTuzNxAHNjqikxeu0CKvw57hPYQpTA4AYcpCo3E=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn khá ngon và đa dạng. Mình đặc biệt ấn tượng với món thịt nhím và ngựa. Thịt mềm thơm và không dai. Nhân viên phục vụ vui vẻ , khá chu đáo và nhanh nhẹn.",
+        "time": 1773072644,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Nhut Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108851370586583736189/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_j103UOVzk8KY9VA_Rpt-PsjVbPqsVb8X6zSfGWm1ybDfXHpX=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán ưa thích của mình khi đến đà lạt. Nhiều món nướng lựa chọn cho menu đa dạng phong phú. Có chỗ để xe hơi bên ngoài. Giá cả phải chăng. Có đặc sản thịt nhím và nai. Tuy nhiên nhược điểm xử lý khói hơi tệ nên nhiều khói. Ăn xong người thơm phức luôn.",
+        "time": 1749555462,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Anh Trần",
+        "author_url": "https://www.google.com/maps/contrib/104895862665202658623/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7yIvYsh0y0dJFQDOGtK9qubLyHtBRB-mMQXJjv5IWbyHFveKp=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán Nướng Ngói Cu Đức. Quán nướng = ngói lâu năm và đầu tiên của Đà Lạt.\nMình biết đến quán chắc cỡ cũng gần 15 năm. Thời mà xem review quán ăn trên Blog 360. Nhớ rõ là Blog Diadiemanuong 🥹🥹🥹. Thời đó, quán chủ yếu bán cho dân địa phương ăn. Quán lúc đó cũng đông lắm nhưng dc cái các bạn phục vụ rất nhiệt tình, còn nướng phụ cho khách. Phần ăn của quán rất nhiều, giá cả thì phải chăng. Những lần sau mình còn dẫn cả đại gia đình hơn 30 người đến quán ăn khi đi Đà Lạt… Bẵng đi 1 thời gian sau mình ko ghé quán, mặc dù có đi Đà Lạt thường xuyên. Lúc này cũng có nghe phong độ của quán xuống nhiều, đồ ăn ko còn tươi, phục vụ thì vẫn còn tạm.\nTết 2025 vừa rồi mình mới ghé lại quán (chợt nhớ ra). Lúc đến vậy mà còn quen đi lên lầu khu cũ. Cô nhân viên mới nhắc là trên đó ko còn nữa qua khu nhà mới rồi…. 🥲🥲🥲\nCác món nướng vẫn như cũ, vị vẫn ngon, đồ khá tươi, quán rất đông khách nhưng các bạn nhân viên vẫn cố gắng phục vụ 1 cách tốt nhất.\nGiá cả từng món vẫn phải chăng, 1 phần ăn cũng nhiều. Có vẻ như quán đã lắng nghe và sửa đổi.\nKết: nếu bạn cần tìm 1 quán nướng ngói cổ điển thuần địa phương ko trend triết, thì quán nướng ngói Cu Đức là 1 lựa chọn thích hợp.",
+        "time": 1740672884,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 733
+  },
+  "harvested_at": "2026-04-29T21:18:38.216017"
+}

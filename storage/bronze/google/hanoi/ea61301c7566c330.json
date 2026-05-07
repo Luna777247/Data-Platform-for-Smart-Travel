@@ -1,0 +1,173 @@
+{
+  "u_key": "ea61301c7566c330",
+  "original_osm_name": "tung lau",
+  "google_raw": {
+    "formatted_phone_number": "0946 636 399",
+    "geometry": {
+      "location": {
+        "lat": 21.0310466,
+        "lng": 105.8450956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0324073302915,
+          "lng": 105.8463813302915
+        },
+        "southwest": {
+          "lat": 21.0297093697085,
+          "lng": 105.8436833697085
+        }
+      }
+    },
+    "name": "Tùng Lẩu Ngõ Trạm",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–03:30",
+        "Thứ Ba: 09:30–03:30",
+        "Thứ Tư: 09:30–03:30",
+        "Thứ Năm: 09:30–03:30",
+        "Thứ Sáu: 09:30–03:30",
+        "Thứ Bảy: 09:30–03:30",
+        "Chủ Nhật: 09:30–03:30"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Hướng Dương",
+        "author_url": "https://www.google.com/maps/contrib/101203951325070522457/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3wc1Ms3ijk0OrO6F59FCEZgPZ-GCuIQgks-EwE8QxRovyDKtr=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán lẩu đường tàu ăn ngon, nước lẩu đậm vị, đồ nhúng tươi. Ngồi vừa ăn vừa ngắm tàu chạy qua nên cảm giác khá chill, lạ và vui. Giá ổn, phục vụ nhanh. Hơi ồn chút lúc tàu tới nhưng đổi lại được trải nghiệm hay ho, đáng thử.",
+        "time": 1764815958,
+        "translated": false
+      },
+      {
+        "author_name": "Nhung Embe",
+        "author_url": "https://www.google.com/maps/contrib/115745567592678756415/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVy-ftZc2YhH-5nHrrRWeUm6JPfQLhjzOG7faV2xWOZ-zTaLI76=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "tối qua mình có ăn lẩu riêu, gọi set 350 2 người ăn no lun, thịt tươi, nước lẩu rất vừa ko bị mặn, lên đồ khá nhanh",
+        "time": 1770199387,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Võ",
+        "author_url": "https://www.google.com/maps/contrib/116517742281201256751/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAAtt1R-Glb-QN_IeZetRV0IhMYM4bGZqbVmq_j5ppmDZXoqA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "8 tháng trước",
+        "text": "Ban đầu chỉ định ghé vào ăn để kịp chuyến bay. 2 người kêu 1 phần lẩu riêu cua thêm 1 đĩa thịt bò. Nhận xét lẩu riêu nấu vừa vị, riêu tương đối ngon, thịt bò và đồ ăn kèm tốt so với mức giá, 2 người ăn hết tầm 400k. Không gian hơi nhỏ và ồn.",
+        "time": 1754451129,
+        "translated": false
+      },
+      {
+        "author_name": "My Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112058590754849901766/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUn2Lz8T0bpKuJSc9cYPt2bZd8uN9QZR-F1JFHsS-heeZBWJvXy=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Menu đa dạng giá tầm trung, đồ ăn bình thường 😅 nhân viên thái độ hơi ngáo , được cái vị trí trung tâm gần đường tàu thi thoảng hóng Tây xem tàu đi qua",
+        "time": 1737361580,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Huyền Đỗ Thị",
+        "author_url": "https://www.google.com/maps/contrib/103423439581722593366/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXw4Eu3gYFaBurfwAmild0mkFZsB3MT_6WZOXjZy4DyHfn7i6Dx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nằm mặt đường Phùng Hưng nên dễ tìm. Không gian tuy không rộng, nội thất đơn giản nhưng gọn gàng, sạch sẽ, phòng có quạt và điều hoà.\nĐiểm cộng của quán:\n- Nhà mình 2 người gọi Nồi lẩu thái Tomyum size nhỏ 300k nhưng ăn rất no và ngon. Đồ nhúng lẩu tươi ngọt, sạch, tuy có 1 số đồ đông lạnh nhưng chất lượng vẫn tốt. Điểm nhấn là nước dùng đậm đà, rất chất lượng, sốt chấm cũng rất phù hợp.\n- Quản lý và nhân viên đều rất lịch sự, chu đáo và nhiệt tình.\n- Giá thành rẻ so với mặt bằng và chất lượng đồ ăn.\nQuán đông khách nên hơi ồn.\nRất khuyến khích mọi người trải nghiệm.",
+        "time": 1724506096,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 76
+  },
+  "harvested_at": "2026-04-28T16:31:19.810800"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "b1fe7ced163c0243",
+  "original_osm_name": "Coffee Quê 79",
+  "google_raw": {
+    "formatted_phone_number": "0969 111 188",
+    "geometry": {
+      "location": {
+        "lat": 12.2416584,
+        "lng": 109.1668701
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2430541302915,
+          "lng": 109.1682376802915
+        },
+        "southwest": {
+          "lat": 12.24035616970849,
+          "lng": 109.1655397197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Quê 79",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:30",
+        "Thứ Tư: 07:00–22:30",
+        "Thứ Năm: 07:00–22:30",
+        "Thứ Sáu: 07:00–22:30",
+        "Thứ Bảy: 07:00–22:30",
+        "Chủ Nhật: 07:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Ho Hoang Nam",
+        "author_url": "https://www.google.com/maps/contrib/102325887785244830701/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJihpy_uzJ77a8clJH9-F7aGbmr4s2rspOPeBovV4B5lyFo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Là khách đc mời, nhưng bất ngờ về món ngon tại quán. Hải sản và đầu bếp chế biến các món nhậu rất ngon. Không gian rộng rãi, nv thân thiện.",
+        "time": 1730732494,
+        "translated": false
+      },
+      {
+        "author_name": "Sang Tan",
+        "author_url": "https://www.google.com/maps/contrib/114405216494782528817/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI8PIwye06IX2wlHxanQ3pEtgce3aTlN7wrMpiEtxdTl6_Vgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đến 1 lần và mãi mãi không bao giờ quay lại. 18h30 cả nhà hàng chỉ có mỗi bàn của mình, oder thì món có món ko, gọi 4 món thì đưa ra mãi 2 món , đến 20h đợi 1 tiếng 30p  mà 2 món sau vẫn chưa ra.  Vội quá đi về tính tiền hết xong bảo quán đóng gói thì lại bắt đợi tiếp món ăn làm chưa xog ,đành cho lại quán  trong khi cả quán chỉ có bàn mình",
+        "time": 1769358978,
+        "translated": false
+      },
+      {
+        "author_name": "Hanh Tran Duc",
+        "author_url": "https://www.google.com/maps/contrib/107347605017509946328/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdORqlF1gRuw7oEXoh-qAewLAcGqaBRjKNgUJL-FGRrAH3aA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán cafe quê 79 thật tuyệt vời với không gian xanh mát và hoàn hảo cho những người muốn tận hưởng không khí tự nhiên. Cảnh quan tại đây tuyệt đẹp, có cây xanh rợp bóng và nhiều loài vật nhỏ như thỏ, gà, chó, sóc và bồ câu. Điều này tạo ra một môi trường yên tĩnh và thư giãn, giúp khách hàng thoải mái và thư giãn tâm hồn. Ngoài ra, quán cafe cũng có không gian bày trí đẹp mắt, tạo cảm giác ấm cúng và thân thiện. Tôi thực sự yêu thích quán cafe này và chắc chắn sẽ quay lại nếu có cơ hội.",
+        "time": 1689386673,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Free7ancer",
+        "author_url": "https://www.google.com/maps/contrib/100611861704539802679/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3gsLybQtP-KE6IBfqcW2sl6r-uwxpZK0ZuzEXT-83gSB8adC6aA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Một khu vườn xanh ẩn mình giữa lòng thành phố, có thể đã đi ngang nhiều lần nhưng bạn chưa biết!\nTách mình ra khỏi những ồn ào náo nhiệt, Nhà Hàng - Cafe Quê 79 được ví như một khu vườn xanh đậm chất hương đồng gió nội với những vạt nắng vàng ươm như rót mật. Có lẽ, thời điểm đẹp nhất trong ngày để chiêm ngưỡng khu vườn chính là lúc chiều tà và rực rỡ bởi những ánh đèn lung linh, hoà cùng tiếng nhạc du dương thì lãng mạn vô cùng.\nDù là những bữa tiệc sau giờ làm hay dùng buổi tối cuối tuần cùng bạn bè người thân, thì không gian này thực sự quá tuyệt vời để vừa thưởng thức những món đặc sản trứ danh, vừa được ngắm hoàng hôn đi qua thành phố.",
+        "time": 1701507135,
+        "translated": false
+      },
+      {
+        "author_name": "Hanh Tran",
+        "author_url": "https://www.google.com/maps/contrib/109660795384038645914/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX04JxzDtiapyAqYoEChAw3QACqcyquj3y3M758CGuKnFrJ3ibU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán cafe quê 79 thực sự đáng khen ngợi với không gian cây xanh mát mẻ và sự hiện diện của các loài vật nhỏ đáng yêu như thỏ, gà, chó, sóc và bồ câu. Quán không chỉ mang đến một không gian thư thái và gần gũi với thiên nhiên mà còn tạo cảm giác bình yên và thoải mái cho khách hàng. Cảm giác ngồi trong quán với khung cảnh xanh tươi, bạn có thể thư giãn và thưởng thức cà phê thơm ngon trong không khí trong lành. Sự hiện diện của các loài vật nhỏ tạo thêm sự sống động và thú vị cho không gian, mang đến trải nghiệm độc đáo và gần gũi với thiên nhiên. Quán cafe quê 79 thực sự là một điểm đến lý tưởng để tránh xa nhịp sống hối hả của thành phố và thưởng thức khoảnh khắc yên bình và tuyệt vời.",
+        "time": 1689386442,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 176
+  },
+  "harvested_at": "2026-05-02T15:37:51.405786"
+}

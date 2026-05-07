@@ -1,0 +1,109 @@
+{
+  "u_key": "f4e6637054a1d1e3",
+  "original_osm_name": "Nha Hang Long Hoa",
+  "google_raw": {
+    "formatted_phone_number": "0263 3553 685",
+    "geometry": {
+      "location": {
+        "lat": 11.9641656,
+        "lng": 108.4481011
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9655074302915,
+          "lng": 108.4494940302915
+        },
+        "southwest": {
+          "lat": 11.9628094697085,
+          "lng": 108.4467960697085
+        }
+      }
+    },
+    "name": "Cafe Long Hoa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Phương Quỳnh Lê Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113183864389754586664/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_ke2F7qzm8H1zk9KdAkbcdx-DQ7djUxjPD6tARpaH2OAVMHxY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán rộng, trang trí ấm cúng. Tụ tập họp mặt hay làm việc đều được. Sữa chua siêu ngon.",
+        "time": 1768110078,
+        "translated": false
+      },
+      {
+        "author_name": "Bé Ba Lê Thị",
+        "author_url": "https://www.google.com/maps/contrib/101512089123596673921/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWA4N63MiRXoEyS7VGxX77tUdzfQ7vkLv7rWfv6V6pn_Md5H8xF=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bún bò thố ngon, bò bit tết hấp dẫn, cà phê thì rất phê, khung cảnh gần gũi, không gian xanh thông thoáng",
+        "time": 1770718204,
+        "translated": false
+      },
+      {
+        "author_name": "Manh Trung",
+        "author_url": "https://www.google.com/maps/contrib/103935863948244425045/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUj0EOH3_62Gm4aMt9AMA9lOpcVJNIsFb_5Q2bm86Zvj955Pfk0Bg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán đẹp và yên tĩnh, không gian rộng rãi nhiều chỗ ngồi, nhiều góc chụp hình đẹp, đồ uống khá đa dạng có thêm cả các loại đồ ăn sáng, nổi bật nhất là bún bò thố đá.\n\nBuổi sáng ghé đây ăn bún bò, xong rồi cà phê chill chill cùng bạn bè thì còn gì hơn nữa.\n\nChị chủ cũng nhẹ nhàng nhiệt tình. Giá cả cũng rất hợp lý, nên thử nhé mọi người",
+        "time": 1755048350,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Anh Pham Ha",
+        "author_url": "https://www.google.com/maps/contrib/112355035248102728892/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnppg18pwPC8D17HOvy8lp6OiySQD1F-rsDZh-uQYZ6AuLGyv9-w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ở đây có món Yaourt ngon cực kỳ luôn.\nBún bò cũng ngon nhưng với mình thì hơi mặn",
+        "time": 1762133774,
+        "translated": false
+      },
+      {
+        "author_name": "Julep Linh Hay Đi",
+        "author_url": "https://www.google.com/maps/contrib/100348085405006176076/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZzrt92YVBaTxzxl8DxwB_m9XneQ4Myno1uRfbBKNuwKLNl92K=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quá địa phương quá ngon\nBún bò thố đá chỉ 50k nhiều thịt",
+        "time": 1770393217,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 87
+  },
+  "harvested_at": "2026-04-29T13:37:17.296285"
+}

@@ -1,0 +1,87 @@
+{
+  "u_key": "5f2d926475978825",
+  "original_osm_name": "Nhà Hàng Thánh Bò Tươi",
+  "google_raw": {
+    "formatted_phone_number": "0589 596 789",
+    "geometry": {
+      "location": {
+        "lat": 12.2882399,
+        "lng": 109.2032072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2896872302915,
+          "lng": 109.2045448302915
+        },
+        "southwest": {
+          "lat": 12.2869892697085,
+          "lng": 109.2018468697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Thánh Bò Tươi .",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Kha Trúc Miên",
+        "author_url": "https://www.google.com/maps/contrib/114308868353809708119/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtMrc-Q1BMOBpITM7JStJzXTJPt3KqVKhho97Dq8-aw8pYSFUZ6g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 năm trước",
+        "text": "Các món thịt bò tạm được, nước lẩu ngon nhưng lá sách, bao tử..quá cứng không ăn được, giá cả phải chăng",
+        "time": 1660018700,
+        "translated": false
+      },
+      {
+        "author_name": "kim uyển phạm",
+        "author_url": "https://www.google.com/maps/contrib/103857221197994777823/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPZJ7E8D4G6E194wWP8U--xU3cTLRo-qw3v-YigZegrh3hDXLPRg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Đã đổi thành quán phở bò, đổi chủ",
+        "time": 1738327910,
+        "translated": false
+      },
+      {
+        "author_name": "VỆ Nguyễn Đức",
+        "author_url": "https://www.google.com/maps/contrib/106974658562856237406/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcUjxH9qaR6rwSKZszlbYAcg_BWbtbPnz1QDpH0721_xSrrY_Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Rượu ngon nữa",
+        "time": 1644713600,
+        "translated": false
+      },
+      {
+        "author_name": "Gennadii Tofiliuk",
+        "author_url": "https://www.google.com/maps/contrib/101409823384434484905/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_7mdp3zORbbrE0SWYldVzPa7CeNKoticWtC5454Z0irtNLu1y=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Phở bò ngon giá 30k 👍 cảm ơn bạn đã làm việc!",
+        "time": 1746700944,
+        "translated": true
+      },
+      {
+        "author_name": "Nam Trần",
+        "author_url": "https://www.google.com/maps/contrib/107118737508991398177/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtlOkD_ZdtinGZQZHj7O6gqvfkreSrtJ830qW2sr7IrgDupeDo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1698536207,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-05-02T15:21:02.207807"
+}

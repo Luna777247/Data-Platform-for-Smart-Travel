@@ -1,0 +1,213 @@
+{
+  "u_key": "20c3145a4e3771b3",
+  "original_osm_name": "Goom Vegan",
+  "google_raw": {
+    "formatted_phone_number": "0985 851 005",
+    "geometry": {
+      "location": {
+        "lat": 16.0147864,
+        "lng": 108.2199704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0162094802915,
+          "lng": 108.2212594302915
+        },
+        "southwest": {
+          "lat": 16.0135115197085,
+          "lng": 108.2185614697085
+        }
+      }
+    },
+    "name": "Goom healthy kitchen",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–13:00, 17:30–19:30",
+        "Thứ Ba: 11:00–13:00, 17:30–19:30",
+        "Thứ Tư: 11:00–13:00, 17:30–19:30",
+        "Thứ Năm: 11:00–13:00, 17:30–19:30",
+        "Thứ Sáu: 11:00–13:00, 17:30–19:30",
+        "Thứ Bảy: 11:00–14:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Kelvin Lee",
+        "author_url": "https://www.google.com/maps/contrib/104385957731317921500/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKN4h1And_BAktHa4kOhmO8cn0cuFHZMwcxjoiMpSHauhELZaD=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Một trong những nhà hàng chay đáng để quay lại. Mọi món ăn ở đây thực sự rất rất ngon. Chị chủ rất thân thiện khi đón tiếp chúng tôi. Trước khi đến, bạn nên gọi cho nhà hàng trước để có thể chuẩn bị món cho bạn một cách chuẩn chỉnh nhất.",
+        "time": 1707579167,
+        "translated": false
+      },
+      {
+        "author_name": "Thinh Huynh",
+        "author_url": "https://www.google.com/maps/contrib/107919176254240295929/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwO2_UckfjET4cEZsaojKVEzz76LxNGkp5m-NhCk3RTrD4sw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon\nDịch vụ tận tâm\nKhông khí thoáng mát",
+        "time": 1771251884,
+        "translated": false
+      },
+      {
+        "author_name": "Vung Vay Viet",
+        "author_url": "https://www.google.com/maps/contrib/103057157278622462426/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQfBn61kGLVptJv-UqyWDolwVW-XpOSxZ4s3k2D58FkEzYtA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Như đồ ăn trong tô. Không còn gì để chê.\nGiữa mùa hè mà quán mát mẻ dù không gian ngoài trời.",
+        "time": 1716705619,
+        "translated": false
+      },
+      {
+        "author_name": "Tâm Hồ",
+        "author_url": "https://www.google.com/maps/contrib/114105617695121439054/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGPIt60wCaqIsb-s2-25mu3cL9p2md5ZSkpLkbyFgNXqpFPMoK=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Món ăn lạ vị nhưng lại rất ngon, mình thích tinh thần quán mang lại hôm nào mình thích ăn chạy lại đến ăn.",
+        "time": 1714723563,
+        "translated": false
+      },
+      {
+        "author_name": "Diep Tran",
+        "author_url": "https://www.google.com/maps/contrib/118258901078408409872/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6-kZXuQsTiNDWORfWyGgyJJzYTSrScWc3w-OAqzRFlpk2GeU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Một quán ăn chay dễ thương, yên tĩnh và ấm cúng. Thực đơn tuy đơn giản nhưng rất vừa ý tôi. Món nào cũng ngon. Chủ quán rất dễ thương và tốt bụng. Quán nằm hơi xa khu du lịch nhưng rất đáng để ghé thăm.",
+        "time": 1759305816,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 12
+  },
+  "harvested_at": "2026-04-29T09:58:44.250950"
+}

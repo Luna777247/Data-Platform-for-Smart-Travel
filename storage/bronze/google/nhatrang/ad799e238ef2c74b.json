@@ -1,0 +1,159 @@
+{
+  "u_key": "ad799e238ef2c74b",
+  "original_osm_name": "True Friends Inn",
+  "google_raw": {
+    "formatted_phone_number": "0906 424 266",
+    "geometry": {
+      "location": {
+        "lat": 12.2357067,
+        "lng": 109.1943626
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2370444302915,
+          "lng": 109.1956527302915
+        },
+        "southwest": {
+          "lat": 12.2343464697085,
+          "lng": 109.1929547697085
+        }
+      }
+    },
+    "name": "True Friends Inn",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–00:00",
+        "Thứ Ba: 06:00–00:00",
+        "Thứ Tư: 06:00–00:00",
+        "Thứ Năm: 06:00–00:00",
+        "Thứ Sáu: 06:00–00:00",
+        "Thứ Bảy: 06:00–00:00",
+        "Chủ Nhật: 06:00–00:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "reuel Chan",
+        "author_url": "https://www.google.com/maps/contrib/100981934529875639218/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLu53ZRVoGVQ5r3wm01W5TfFXccqrnCRbPfrrRtbD-yNZruA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 năm trước",
+        "text": "Một nơi giá rẻ, sạch sẽ và thân thiện, là điểm hẹn lý tưởng cho dân du lịch bụi. Nằm ngay trên con phố dành cho dân du lịch bụi, cách bãi biển 5 phút đi bộ. Hiện tại đã đổi tên thành Reunion Hostel. Rất đáng để ghé thăm.",
+        "time": 1456399867,
+        "translated": true
+      },
+      {
+        "author_name": "Philipp",
+        "author_url": "https://www.google.com/maps/contrib/114268806102819010460/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpC_TpgJEzkBjfu-emvzKUKhlIdssx5HQjg3WeNO0xnhB9Zegx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Giá rẻ, vị trí ổn, sạch sẽ. Khá vắng khi tôi ở đó.",
+        "time": 1465679041,
+        "translated": true
+      },
+      {
+        "author_name": "Huan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/116873181691828864079/reviews",
+        "language": "vi",
+        "original_language": "nl",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKX_wB8mAKGqdSpRfH02yU13dA8Zjn2d_sybipz_3GqoerPxQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "ĐẾN",
+        "time": 1487686895,
+        "translated": true
+      },
+      {
+        "author_name": "Hoàng Nguyễn Đắc",
+        "author_url": "https://www.google.com/maps/contrib/110841891124176767847/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPgJ-7yyWQ8TEwrkGWth5uCMEhq85wpCg1CzGfJH7apb4HiA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "",
+        "time": 1486996653,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-05-02T16:10:40.308215"
+}

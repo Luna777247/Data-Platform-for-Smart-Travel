@@ -1,0 +1,174 @@
+{
+  "u_key": "b518b2acadf403d1",
+  "original_osm_name": "Chè cung đình 721 đường 2/4",
+  "google_raw": {
+    "formatted_phone_number": "0902 791 179",
+    "geometry": {
+      "location": {
+        "lat": 12.2348757,
+        "lng": 109.1826571
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2362676802915,
+          "lng": 109.1839989802915
+        },
+        "southwest": {
+          "lat": 12.2335697197085,
+          "lng": 109.1813010197085
+        }
+      }
+    },
+    "name": "Quán Chè Cung Đình Huế",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:30",
+        "Thứ Ba: 08:00–22:30",
+        "Thứ Tư: 08:00–22:30",
+        "Thứ Năm: 08:00–22:30",
+        "Thứ Sáu: 08:00–22:30",
+        "Thứ Bảy: 08:00–22:30",
+        "Chủ Nhật: 08:00–22:30"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "To Quyen",
+        "author_url": "https://www.google.com/maps/contrib/112421784245007419816/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfyxxNIZqJl_a7Th6-oFJrI1aLz8Yk6ThzPwu4DGblIYC8gYw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán chè tuổi đời lâu năm và bán xuyên suốt cả ngày. Nhiều món chè và vị riêng biệt khá là Huế.\n\nQuán thoáng mát, sạch sẽ. Gợi ý nên kết hợp chè bưởi và chè khoai môn nhé, món khoái khẩu của mình. Vị chè vẫn rất hợp nhau khi mix, xen kẽ vị bùi của khoai là vị thơm có chút the the vị vỏ bưởi.\n\nĂn ở quán hay mua về đều thuận tiện.",
+        "time": 1768058279,
+        "translated": false
+      },
+      {
+        "author_name": "Ly Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/104385265854451842043/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgGw-j2tslsZ76NiM16TToLwE5fAcnkGyGwzd1V3bAaY1gTvwx0g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Chè ngon nhe, gần đủ các vị. Tiếc là mình đi ăn hơi trễ nên hết chè hạt sen.\nKhông gian quán có trong nhà và ngoài vỉa hè, mát mẻ.\nChị chủ quán và nhân viên rất dễ thương, hiền lành.",
+        "time": 1757775171,
+        "translated": false
+      },
+      {
+        "author_name": "Lela (Lomo laca)",
+        "author_url": "https://www.google.com/maps/contrib/101298395657126426056/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXORzKCgCC2XEFGbVso-HexiaYxRxDqN-jV5TeW4MZsPP8dlIjl=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chè ngon\nKhông quá ngọt\nĐộ đậm sệt vừa vặn\nKhoai, bưởi... nhừ đều\nChỗ này thực sự quá ngon",
+        "time": 1767276200,
+        "translated": false
+      },
+      {
+        "author_name": "Xuan Anh Tang Tang",
+        "author_url": "https://www.google.com/maps/contrib/117746936270043206757/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3DJR0ByEmV8Kq5lzRiFKOoA_piySZFPqYvG1vaw6ZbHYTnQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Mình đi qua đi lại tiệm bao năm chưa bao giờ thử. Quyết thử 1 lần thì bất ngờ nha. Ko ngờ ít ngọt như vậy. Mình sợ ngọt nên ít ăn chè lắm. Mình ăn chè khoai sáp thì phải, ngon, bùi. Lần đầu ăn nên quên dặn đừng để dừa sấy vào, ăn cùng ko hợp vị. Ngồi ngoài đường thoáng mát.",
+        "time": 1755824661,
+        "translated": false
+      },
+      {
+        "author_name": "Thông Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111640711988687586554/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFiDo8-LMPKrfQh-jGQm49OvAQZ_Ro_OBaERJPJ3hxBv7-Nw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quá ngọt so với khẩu vị của mình. Mình có thử 3 loại là thập cẩm, bưởi và hạt sen. Đồng giá 17k, riêng hạt sen là 25k. Mẻ hạt sen mình ăn xào hơi quá lửa nên thành ra hơi nát, nêm nhiều đường quá làm mất vị hạt sen. Thập cẩm bình thường, có thêm không biết tinh dầu cam hay vỏ cam, vị lạ lạ. Phần chè trôi nước không ngon, khuyến nghị đổi phần trôi nước sang cốm khoai sẽ khả dĩ hơn. Chè bưởi ở mức bình thường. Tổng kết lại là đi cho biết, không có gì đặc biệt, giá với mình là cao.",
+        "time": 1765860804,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 197
+  },
+  "harvested_at": "2026-05-02T15:27:49.668599"
+}

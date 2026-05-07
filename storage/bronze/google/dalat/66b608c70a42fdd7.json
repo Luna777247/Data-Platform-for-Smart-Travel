@@ -1,0 +1,24 @@
+{
+  "u_key": "66b608c70a42fdd7",
+  "original_osm_name": "The Shelter",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9302568,
+        "lng": 108.4319844
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9316510802915,
+          "lng": 108.4334007302915
+        },
+        "southwest": {
+          "lat": 11.9289531197085,
+          "lng": 108.4307027697085
+        }
+      }
+    },
+    "name": "The Shelter"
+  },
+  "harvested_at": "2026-04-30T15:15:31.298749"
+}

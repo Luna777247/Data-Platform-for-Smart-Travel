@@ -1,0 +1,173 @@
+{
+  "u_key": "d9167f531f548f51",
+  "original_osm_name": "The Garden House",
+  "google_raw": {
+    "formatted_phone_number": "0935 139 630",
+    "geometry": {
+      "location": {
+        "lat": 16.04982,
+        "lng": 108.2400629
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0512263302915,
+          "lng": 108.2414027302915
+        },
+        "southwest": {
+          "lat": 16.0485283697085,
+          "lng": 108.2387047697085
+        }
+      }
+    },
+    "name": "Garden House Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:00",
+        "Thứ Ba: 06:30–22:00",
+        "Thứ Tư: 06:30–22:00",
+        "Thứ Năm: 06:30–22:00",
+        "Thứ Sáu: 06:30–22:00",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Cassiana I mazal",
+        "author_url": "https://www.google.com/maps/contrib/110016987472440175771/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9Y0XHU2djcFpYqbBbGGIX-6mASEbL5e4-XvTsULSlmZdJ4g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình thích phong cách trang trí, nhẹ nhàng và ấm cúng. Rất chill!",
+        "time": 1764584166,
+        "translated": false
+      },
+      {
+        "author_name": "Tố uyên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107191449838148970743/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv1RslIGuzPZ5lCzc_dsh9BqAo3P26cXFz81E4DqBH9LwJBj4F=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán có không gian thoáng mát, đồ uống ngon, giá cả hợp lý. Sẽ ghé lại lần sau 👍",
+        "time": 1589466666,
+        "translated": false
+      },
+      {
+        "author_name": "Võ An Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/103652712501337805695/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbya69gDXQYCk6VYOo_DDhMMTLV4qp-oq5LGtYWZBSPQdskpsEWQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Mình không có hình chụp tại quán nên lấy tạm tấm này. Đầu tiên phải nói đến sự thân thiện của anh chị chủ. Đây cũng chính là lí do mà mình và bạn mình hay ưu tiên chọn đây là nơi để học bài. Với mình, nước ở đây ngon, nhất là trà trái cây thậm chí khi đá tan mình uống vẫn rõ vị. Về không gian học, mình thấy ít bàn nên cũng vì lí do đó nên rất yên tĩnh khi học. Mình thấy còn có phòng để học nhóm nữa. Mọi người nên thử ghé quán xem sao nha 🥰",
+        "time": 1682268893,
+        "translated": false
+      },
+      {
+        "author_name": "Thạch Lương",
+        "author_url": "https://www.google.com/maps/contrib/100785492327586726158/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4P7RX9EUOqvEBHjW-Ny2vO5gzFetn73nzN8R_9gZxWv219fE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán thoáng mát.Đồ uống rất ngon.Giá cả hợp lý",
+        "time": 1731890495,
+        "translated": false
+      },
+      {
+        "author_name": "Duc Hoang",
+        "author_url": "https://www.google.com/maps/contrib/106689450563635924258/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3oUl0_z9VpRvYQLQedWvuniF1YhlFaWfjobnVAlU-AbAAMlvQKg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Đồ uống ngon, đa dạng, giá hợp lí.\nCó nhiều không gian khác nhau để học bài hoặc ngồi nói chuyện\nAnh chị chủ quán nhiệt tình, hiếu khách.",
+        "time": 1614221508,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 64
+  },
+  "harvested_at": "2026-04-29T09:45:51.872046"
+}

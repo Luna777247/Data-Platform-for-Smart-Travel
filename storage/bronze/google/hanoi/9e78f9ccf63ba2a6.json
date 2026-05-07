@@ -1,0 +1,173 @@
+{
+  "u_key": "9e78f9ccf63ba2a6",
+  "original_osm_name": "Tâm Quán Trà",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0194379,
+        "lng": 105.8556134
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0207779302915,
+          "lng": 105.8569590802915
+        },
+        "southwest": {
+          "lat": 21.0180799697085,
+          "lng": 105.8542611197085
+        }
+      }
+    },
+    "name": "Tâm Quán Trà",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–23:00",
+        "Thứ Ba: 07:30–23:00",
+        "Thứ Tư: 07:30–23:00",
+        "Thứ Năm: 07:30–23:00",
+        "Thứ Sáu: 07:30–23:00",
+        "Thứ Bảy: 07:30–23:00",
+        "Chủ Nhật: 07:30–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Minh Trang",
+        "author_url": "https://www.google.com/maps/contrib/104485358226483327925/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjBAahxmdRVJq30Kt-oxHJu2OY7OE7cCeo0nDUVqNRjSI1-w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ấn tượng đầu tiên là cô chủ quán và bạn nữ ở tiệm siu nhiệt tình và dễ mến mọi ngừi ơiii, mình gọi 1 Quan âm trà (nóng) và Thiên diệp liên trà (lạnh) thì phải, mình không am hiểu về trà nên chỉ nhận xét được là ngon và dễ uống lắm ạ, quan âm trà thì nhẹ nhàng dễ uống, thiên diệp liên trà uống ngọt ngọt lại hơi đắng uống mát lắm lunn.\nMình đến khoảng 2r chiều thì quán chỉ có mình bàn mình thui, nhưng trà lên cũng mất 1 lúc nha, nhưng cô chủ và bạn nhân viên đều rất dễ huông nên không thành vấn đề ạ\nQuán ở trong ngõ nhỏ nên yên tĩnh chill lắm ạ\nMọi người nên đến quán thử để ủng hộ cô nha",
+        "time": 1770822086,
+        "translated": false
+      },
+      {
+        "author_name": "trang pham",
+        "author_url": "https://www.google.com/maps/contrib/102237991593410983665/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVD7nAIX4XPs5UED9bjywotn9WDtfAhTsRTVw-KcN0T3Imfoyo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán trà dành cho người hướng nội. Trà ngon dành cho người sành. 1 cốc 40-45k mà đầy chặt nhân + 1 phích nước sôi châm thêm thoải mái. Uống hết nước mà nhân vẫn còn đậm, mình ăn được luôn. Chị chủ quán thì vô cùng thân thiện, tình cảm. Quán yên tĩnh, thoáng đãng. Buổi trưa có thể hơi đông dân văn phòng xung quanh vào chút. Thời gian còn lại it người thì mình có thể làm việc, đọc sách, hoặc thiền vô tư.",
+        "time": 1766542350,
+        "translated": false
+      },
+      {
+        "author_name": "linh vũ",
+        "author_url": "https://www.google.com/maps/contrib/101096934219996583066/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwvJ1ml41LLc8iKjgSAaN5OC-DG1gU5PDt7KsJX2ftNAak3L63=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán nhỏ, yên tĩnh dù mình ngồi giữa trưa, giữa khu trung tâm, nhiều văn phòng\nCô chủ nhiệt tình tư vấn, phục vụ nhanh nhẹn\nBọn mình thử Thích Quan Âm do được cô chủ tư vấn dành cho người mới\nTrà ngon, hậu vị ngọt\nNgồi ban công rất thoáng, nhưng bàn nhỏ, phù hợp khoảng 2-3 người",
+        "time": 1766043529,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Vũ minh",
+        "author_url": "https://www.google.com/maps/contrib/107428688035945322460/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkoXEOGczs07T7h_fJW1Z3Rd0QrZLJaA_zFvmJjx2E7_gxAA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trà ngon, không gian bình yên nhẹ nhàng mang tính hoài niệm. Mình rất thích Tâm Quán",
+        "time": 1768734916,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Công",
+        "author_url": "https://www.google.com/maps/contrib/103574514683860597257/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsoBKKz6dubPdGl8ynkAGYm09duAoigc2a9tU5mLiu-bcU4M8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Trà ngon, chủ quán thân thiện, cho kèm theo một bình nước sôi uống hết đến đâu châm thêm đến đấy. Mình bụng dạ kém, nên tìm mãi mới được một quán trà nóng như này. Tầng 3 còn có phòng ngồi bệt và nghe nhạc thiền nữa. Nói chung là rất tuyệt vời, hợp với nhóm bạn tìm nơi ấm cúng để hàn huyên tâm sự",
+        "time": 1764233617,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 129
+  },
+  "harvested_at": "2026-04-27T19:58:04.950677"
+}

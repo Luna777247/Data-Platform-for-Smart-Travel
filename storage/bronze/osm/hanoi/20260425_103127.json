@@ -1,0 +1,171 @@
+[
+  {
+    "u_key": "a4c7f66a4af62783",
+    "name": "Bảo tàng Binh chủng Thông tin liên lạc",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "Phố Giang Văn Minh",
+    "location": {
+      "lat": 21.0303429,
+      "lon": 105.8266305
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "facb1e4f70b6107b",
+    "name": "Bảo tàng Địa chất Việt Nam",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "Phố Phạm Ngũ Lão",
+    "location": {
+      "lat": 21.0235524,
+      "lon": 105.8587723
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "d61385bd0ea3e960",
+    "name": "Unnamed",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0243363,
+      "lon": 105.8217592
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "d4ff1490735e231b",
+    "name": "Bảo Tàng Hậu Cần",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0189071,
+      "lon": 105.7729992
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "31c77401e15eeed0",
+    "name": "Unnamed",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0241058,
+      "lon": 105.8383345
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "daf708909ff0dfb3",
+    "name": "Bảo tàng Thiên nhiên Việt Nam",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0480728,
+      "lon": 105.8005373
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "631e4ba057b991f1",
+    "name": "Display of Co Loa site area",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.1115692,
+      "lon": 105.8733477
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "74984b946e574fcd",
+    "name": "Bảo tàng Pháo binh",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0385013,
+      "lon": 105.8081236
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "82e1ba36e3d0b05f",
+    "name": "Khu trưng bày máy bay",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.1403976,
+      "lon": 105.5049193
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "1a9bbb8769d3abda",
+    "name": "Hanoi Zoological Museum",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0206061,
+      "lon": 105.8583797
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "2e8147d247dc3aef",
+    "name": "Bảo tàng Tố Hữu",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0398614,
+      "lon": 105.7938659
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "57a33cda1cc8c981",
+    "name": "Unnamed",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0332194,
+      "lon": 105.7882508
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  },
+  {
+    "u_key": "c02867936a53a697",
+    "name": "Unnamed",
+    "type": "museum",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0235557,
+      "lon": 105.8587701
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:31:27.532314"
+  }
+]

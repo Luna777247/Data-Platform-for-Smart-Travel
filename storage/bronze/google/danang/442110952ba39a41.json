@@ -1,0 +1,156 @@
+{
+  "u_key": "442110952ba39a41",
+  "original_osm_name": "Sông Thu",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.1099778,
+        "lng": 108.2450707
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.1113517302915,
+          "lng": 108.2465182302915
+        },
+        "southwest": {
+          "lat": 16.1086537697085,
+          "lng": 108.2438202697085
+        }
+      }
+    },
+    "name": "Tổng công ty Sông Thu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–17:00",
+        "Thứ Ba: 07:30–17:00",
+        "Thứ Tư: 07:30–17:00",
+        "Thứ Năm: 07:30–17:00",
+        "Thứ Sáu: 07:30–17:00",
+        "Thứ Bảy: 07:30–17:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Phim Rạp",
+        "author_url": "https://www.google.com/maps/contrib/100402510544513694146/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwvehP0N4Z7Q6OW3K0v46_kqfVBEUUNnfuJHQT84yA1d6nnGse=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 năm trước",
+        "text": "Nhạc mở cả ngày xung quanh đau hết cả đầu",
+        "time": 1650356012,
+        "translated": false
+      },
+      {
+        "author_name": "Bùi Tương",
+        "author_url": "https://www.google.com/maps/contrib/111124367475677722291/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwZTpZlP0QtbdMTVNQVNBIuSiXE9Cni6d2l8bXRjn_Y104JHiu=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Cty to",
+        "time": 1617466763,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Thái Nghiêm Thị",
+        "author_url": "https://www.google.com/maps/contrib/114083141226633366463/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJiHlPI363fgfKd7XfKQZEKvUc3wivVdUyFWHGF_RxpQ8VrKTn4Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1708855152,
+        "translated": false
+      },
+      {
+        "author_name": "Long Vũ",
+        "author_url": "https://www.google.com/maps/contrib/104103777324531753229/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgmISiYJVQ16t4VENR7hzlgFgLlwYSQxdfhfqHuKboa7xhnDlf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1700809917,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Đức Lưu",
+        "author_url": "https://www.google.com/maps/contrib/107155131746423865707/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJo0Q1seRP81ZASRq2q3_gfAWrX8l9sR_3Y3SdxJ_gPIoXJIA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "",
+        "time": 1604532577,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-04-29T09:47:56.388623"
+}

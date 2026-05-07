@@ -1,0 +1,173 @@
+{
+  "u_key": "dcb90b976640a73a",
+  "original_osm_name": "Cho Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0867 529 144",
+    "geometry": {
+      "location": {
+        "lat": 21.0328409,
+        "lng": 105.8088605
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0341884802915,
+          "lng": 105.8102140302915
+        },
+        "southwest": {
+          "lat": 21.0314905197085,
+          "lng": 105.8075160697085
+        }
+      }
+    },
+    "name": "Cho Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:30",
+        "Thứ Ba: 09:00–22:30",
+        "Thứ Tư: 09:00–22:30",
+        "Thứ Năm: 09:00–22:30",
+        "Thứ Sáu: 09:00–22:30",
+        "Thứ Bảy: 09:00–22:30",
+        "Chủ Nhật: 09:00–22:30"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Hải Hà Cao",
+        "author_url": "https://www.google.com/maps/contrib/115958593675310418382/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBp_O_qZNCyyBYsLF8KVWuAOY1h423oBwAO63SsBDH0crDDSYqnA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một quán cafe nhỏ, không gian rất chill, nhân viên thân thiện. Coldbrew quýt ở đây rất ngon.",
+        "time": 1769589665,
+        "translated": false
+      },
+      {
+        "author_name": "LT _Phuong",
+        "author_url": "https://www.google.com/maps/contrib/103665926562433579018/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqxvf5iLr4cIPB5MxhohaFddA99r2b1aStwWyJNgEFBtoYMQ4ReQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán trong ngõ yên tĩnh phù hợp làm việc hoặc gặp gỡ riêng tư á, có nhiều cửa sổ lấy ánh sáng tự nhiên nên kgian k bị tối đâu, rất ưng, đồ uống và giá cũng ổn, 1 lựa chọn rất okela lá lô cho ngày mưa hoặc ngày thu",
+        "time": 1751455935,
+        "translated": false
+      },
+      {
+        "author_name": "Kieu Nga Nguyen Serova",
+        "author_url": "https://www.google.com/maps/contrib/114549248097216521174/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV89UU14FIRiWekq8CO9AZng3QgyYYxD_Q86_0tl25XpTphGQ0S=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không gian quán ổn. Đồ uống quá tệ! Cần thay đổi công thức đi ạ",
+        "time": 1762487871,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Nhật",
+        "author_url": "https://www.google.com/maps/contrib/110748160207850382666/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwLyNe-yyG2WWiQgez7-_aecGOveIsfZ1Ill7d_8zOf-NrpeJ9=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "quán đẹp, đồ uống ổn. mong là quán sẽ thay đổi không dùng cốc nhựa nữa.",
+        "time": 1749294685,
+        "translated": false
+      },
+      {
+        "author_name": "Akira Nijino",
+        "author_url": "https://www.google.com/maps/contrib/106661869201392781258/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDXmE2iipwkOhkG1fbC2_uVjmJUiyTlhlF8U6HkT2AMNmS6dM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Chiếc cà phê nhỏ xinh nằm gọn trong con ngõ nhỏ phố Đào Tấn, với không gian 3 tầng gói gọn đủ các lựa chọn chỗ ngồi cho nhu cầu của bạn. Phong cách hơi hướm milimalism với tông xám cùng những đồ decor khá ấn tượng, quán làm chúng mình cảm được một chút zen nào đó rất đặc biệt. Thời gian đầu mới mở quán khá đông người check in, giờ thì yên bình hơn nhiều rồi.\n\nCác món đồ uống đều ở mức ổn và không gian yên tĩnh cùng ổ điện tiện lợi mọi nơi. Nếu bạn ở gần đó thì ghé Cho để có những buổi workdate hay học bài hiệu quả nha ^^",
+        "time": 1709018674,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 93
+  },
+  "harvested_at": "2026-04-27T19:57:53.627558"
+}

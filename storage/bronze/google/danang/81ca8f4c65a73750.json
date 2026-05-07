@@ -1,0 +1,89 @@
+{
+  "u_key": "81ca8f4c65a73750",
+  "original_osm_name": "Nhà trọ Phạm Nhật Tân",
+  "google_raw": {
+    "formatted_phone_number": "0236 3565 231",
+    "geometry": {
+      "location": {
+        "lat": 16.0296872,
+        "lng": 108.2226958
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0310587302915,
+          "lng": 108.2239657802915
+        },
+        "southwest": {
+          "lat": 16.0283607697085,
+          "lng": 108.2212678197085
+        }
+      }
+    },
+    "name": "Nhà Nghỉ Nhật Tân",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Thảo Trần",
+        "author_url": "https://www.google.com/maps/contrib/118301939382977336774/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeDl_qf65dtzZhHOJQ50EE37dqsl-zAsbSki0ocC_gUqSkrYw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "khách đi về khuya chủ tỏ thái độ",
+        "time": 1769929632,
+        "translated": false
+      },
+      {
+        "author_name": "Vương Duy",
+        "author_url": "https://www.google.com/maps/contrib/113682574530933473279/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6kVqGeL19vYhfpUCTVjozeIF_tignvFZmc2WRsZcx0TIeyrdr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Rất OK",
+        "time": 1772152737,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Xuân Toàn",
+        "author_url": "https://www.google.com/maps/contrib/106531447079538200595/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt5i603KJSaBS1_2t8M_ZmNSSTMRyhfzl_-NIId-bo4NGGtA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Wifi chưa tự động connect",
+        "time": 1488254668,
+        "translated": false
+      },
+      {
+        "author_name": "Le Quang Nhat",
+        "author_url": "https://www.google.com/maps/contrib/113671783248164055631/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvUyIgClbByENP7bCrk0gTnKBDpFHu5qDN-7TphBcqOfBja2DDPg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "9 năm trước",
+        "text": "Nhà nghỉ bình dân",
+        "time": 1470115236,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Ông",
+        "author_url": "https://www.google.com/maps/contrib/109137786600925076831/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdhpt-_IigDB8SN-ZRuR32r1Ets0Q7CThGJH82YvcB6eTonDBt=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Giá cả phù hợp",
+        "time": 1500288187,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 17
+  },
+  "harvested_at": "2026-04-28T16:35:58.292041"
+}

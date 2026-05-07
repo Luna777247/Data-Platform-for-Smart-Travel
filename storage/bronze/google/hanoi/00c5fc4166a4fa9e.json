@@ -1,0 +1,109 @@
+{
+  "u_key": "00c5fc4166a4fa9e",
+  "original_osm_name": "Au Coeur d'Hanoi Hotel",
+  "google_raw": {
+    "formatted_phone_number": "024 3935 2635",
+    "geometry": {
+      "location": {
+        "lat": 21.0323309,
+        "lng": 105.8537473
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0337008802915,
+          "lng": 105.8551342802915
+        },
+        "southwest": {
+          "lat": 21.0310029197085,
+          "lng": 105.8524363197085
+        }
+      }
+    },
+    "name": "Au Coeur d'Hanoi Boutique Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Bông",
+        "author_url": "https://www.google.com/maps/contrib/117527261430232021171/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDe_Es3TN9eI01yi9SRLxS0X9mRCxMyrXXeGBK4DM9TxQ7O1w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Phòng mình đặt ấm cúng, tuy diện tích không quá rộng nhưng đc cái nhân viên nhiệt tình lắm nhá. Gần hồ nên tiện lợi cực. Mình thích nhất là phục vụ ăn sáng ở bên nhà hàng. Hehe mình sẽ comeback",
+        "time": 1769855979,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Van Dat QP0079",
+        "author_url": "https://www.google.com/maps/contrib/104056396492351502712/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwSkhuPnSAjf4yIHQdK2oCtDJQHyEzwHn8OdCf0Fj5lsjUK6A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Gần trung tâm, phòng sạch sẽ, đồ ăn khá ổn, có menu chọn ăn kèm buffet",
+        "time": 1772944034,
+        "translated": false
+      },
+      {
+        "author_name": "Nhựt Trần",
+        "author_url": "https://www.google.com/maps/contrib/117190853496474080279/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUshEZZE3CsvknIqVH1KsePRGZZZvsfPgdBXk5y0lpHYuWoiX_L=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Khách sạn nằm trên số 62 Hàng Bè, thuận tiện đi dạo, ăn uống và mua sắm trong khu vực khố cổ.\nPhong cách cổ kính, phòng sạch sẽ, nhân viên thân thiện.\nCó phục vụ ăn sáng, có thể nhờ nhân viên chuẩn bị món mình muốn ăn trước đó.",
+        "time": 1758205631,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Trường Phòng",
+        "author_url": "https://www.google.com/maps/contrib/117432966981647264892/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiaa1jmASrSDOAaVMHaIbDXq3IrHaVgD60uASiEwR0nods5dNA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khách sạn decor hoa đẹp và có gu rất riêng, phòng yên tĩnh ngủ ngon",
+        "time": 1769521256,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Đoàn Yến",
+        "author_url": "https://www.google.com/maps/contrib/102243728821881006501/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhBK4r5X99yjmSKkmFIiOPnUC6VThEKHJnf-pnPEE7DX0jCzg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Xếp sai phòng cho khách, phản ánh thì lễ tân cãi nhem nhẻm, dịch vụ tệ",
+        "time": 1769691668,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 353
+  },
+  "harvested_at": "2026-04-27T19:59:03.568658"
+}

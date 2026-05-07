@@ -1,0 +1,174 @@
+{
+  "u_key": "053605f241d5f8bf",
+  "original_osm_name": "Wood Fish Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0905 665 058",
+    "geometry": {
+      "location": {
+        "lat": 16.063997,
+        "lng": 108.2415015
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0653493302915,
+          "lng": 108.2429112802915
+        },
+        "southwest": {
+          "lat": 16.06265136970849,
+          "lng": 108.2402133197085
+        }
+      }
+    },
+    "name": "Hải sản Mộc quán Đà Nẵng",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–22:30",
+        "Thứ Ba: 10:30–22:30",
+        "Thứ Tư: 10:30–22:30",
+        "Thứ Năm: 10:30–22:30",
+        "Thứ Sáu: 10:30–22:30",
+        "Thứ Bảy: 10:30–22:30",
+        "Chủ Nhật: 10:30–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Thu Hiền Đào Thị",
+        "author_url": "https://www.google.com/maps/contrib/102453036472408140365/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKC6dLHIoTX41Uh0iHgrim7ipiykx9H-2OrcopZij2BRyG0Wg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhân viên chu đáo nhiệt tình, dịch vụ tốt. Đồ ăn tươi ngon, chi phí hợp lí phù hợp giá tiền, bảng giá công khai, nên thử nha",
+        "time": 1772629010,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Vo",
+        "author_url": "https://www.google.com/maps/contrib/106206650229865749746/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAfF5Y-tLbpDKrpFhwzICMRgH_1nnixJkpzkekEa733fkRCrLE5g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán rất rất đông khách, mọi người nên đặt bàn nhé, không thì đợi hơi lâu nha.\nCác bạn nv phục vụ tốt, nhà vệ sinh sạch sẽ (một điểm cộng vì dù rất đông nhưng giữ vệ Sinh sạch sẽ).\nThức ăn ở đây khá đa dạng, rất nhiều sự lựa chọn, và không quá đắc đỏ. Quan trọng nữa là phần thức ăn nhiều. Mình thấy mấy quán khác họ chia phần thức ăn rất nhỏ, chừng nhúm tay, còn quán này thì lượng thức ăn nhiều, nên các bạn order ít rồi tăng dần để tránh việc ăn không hết nha.\nKhông gian quán rộng rãi, mát mẻ. High recommended mọi người nhé.",
+        "time": 1768642628,
+        "translated": false
+      },
+      {
+        "author_name": "Hien Tran",
+        "author_url": "https://www.google.com/maps/contrib/100242334428274909308/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO-OZwz94v2gGQvdkm_BqtNEKBgqlIKrz1AoviFHNcSR0swxcXHw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rộng,có  nhiều bàn cho khách và cũng rất nhiều khách đang đợi phía ngoài\nMenu quán nhiều món ăn nhất là hải sản tươi sống.\nMón ăn ngon, trang trí đẹp mắt\nNhân viên nhanh nhẹn, nhiệt tình",
+        "time": 1771856432,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Vy Trần",
+        "author_url": "https://www.google.com/maps/contrib/106285834013598517026/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU15d5kAJUrCgh1v4itKDLJU0jQBWpN_ow1NWmjYHsGqmj169FB=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình tìm đánh giá trên gg dẫn gia đình đến ăn thử dịp du lịch Đà Nẵng\n. Món ăn ngon, khẩu phần nhiều\n. Quán thoáng mát\n. Nhân viên nhiệt tình, chu đáo, vui vẻ\n. Giá cả hợp lí, không chèo kéo khách\nMình đi ăn trưa T3 nên quán cũng không quá đông, cua thì chờ tầm 30p. Nhân viên phục vụ hết k phải lo gì cả 🥰\nRất đáng trải nghiệm khi đến Đà Nẵng",
+        "time": 1768886509,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104310096950535854644/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK5diUBOxvJ10vo1pDx7DSWTyAkCG6MOXO0ElxCKCGbsAu8nyk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon,giá tương đối rẻ,chất lượng phục vụ tốt.Mình sẽ ghé lại thường xuyên nếu như ở lại Đà Nẵng.Mình rất thích quán này,dù rất đông,phần lớn là khách du lịch Hàn Quốc.",
+        "time": 1771990437,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 22045
+  },
+  "harvested_at": "2026-04-29T09:42:34.521861"
+}

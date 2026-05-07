@@ -1,0 +1,172 @@
+{
+  "u_key": "40a8a9935cacc24f",
+  "original_osm_name": "Cà Phê Affett",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.029697,
+        "lng": 105.8501778
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0310707802915,
+          "lng": 105.8515340802915
+        },
+        "southwest": {
+          "lat": 21.0283728197085,
+          "lng": 105.8488361197085
+        }
+      }
+    },
+    "name": "Affetto Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:00",
+        "Thứ Ba: 07:00–21:00",
+        "Thứ Tư: 07:00–21:00",
+        "Thứ Năm: 07:00–21:00",
+        "Thứ Sáu: 07:00–21:00",
+        "Thứ Bảy: 07:00–21:00",
+        "Chủ Nhật: 07:00–21:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "An My",
+        "author_url": "https://www.google.com/maps/contrib/112338774403432511432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzjsmscvVoxY47O8AKp6-poTXyjEpgcN9E2kj2ZYy4Ud5FFqk=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Affetto Cafe tại 106 P. Hàng Trống, Hoàn Kiếm, Hà Nội, là một viên ngọc ẩn mình giữa khu phố cổ. Quán sở hữu không gian nhỏ nhắn nhưng vô cùng ấm cúng và lãng mạn, với phong cách trang trí vintage độc đáo, tạo cảm giác hoài niệm và bình yên. Các loại đồ uống ở đây được pha chế rất tâm huyết, đặc biệt là cà phê và các loại trà, mang đến hương vị đặc trưng khó quên. Dịch vụ tận tình, nhân viên luôn sẵn lòng trò chuyện và phục vụ khách hàng một cách chu đáo. Để làm cho không gian thêm phần hoàn hảo, Affetto Cafe có thể cân nhắc sử dụng Tuneast. Tuneast sẽ giúp quán dễ dàng tạo và quản lý các playlist nhạc nền phù hợp với phong cách vintage, đồng thời khách hàng cũng có thể gửi lời chúc qua nhạc, làm tăng thêm sự lãng mạn và kết nối.",
+        "time": 1770247637,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Tuyen Vu",
+        "author_url": "https://www.google.com/maps/contrib/113872536767973286870/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjPhc6S_9bUoDamCOiiC_TTpqXkh5j3DCyvb95ecCykmuSNlZk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khách vào đợi cả buổi ko thèm đếm xỉa",
+        "time": 1765849043,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Thảo Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114306257276683059092/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ78kbTxDuwx0wUXlh-z3G1fAmQmYYzeR0WlGpl8f-bCHw1g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Đồ uống ngon, phong phú, hay có món mới. Chỗ ngồi nhỏ nhưng ấm cúng.",
+        "time": 1496296228,
+        "translated": false
+      },
+      {
+        "author_name": "N.Đ.C",
+        "author_url": "https://www.google.com/maps/contrib/101729007070537868291/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdQoOyeV3cXcdYXGtPPAgM-40-pMC6YZn5u00OAwqYpYYLZbE=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cafe ngon, menu đồ uống đa dạng có đủ cả sinh tố, smoothy, trà và nhiều đồ uống khác. Giá cả bình dân, không gian quán nhỏ nhắn, ấm cúng, có chỗ ngồi ngoài vỉa hè ngắm phố. Quán còn có bộ giàn nghe nhạc chạy bằng băng cối, luôn có những bản nhạc xưa, nhạc vàng rất hoài cổ và lãng mạn",
+        "time": 1737286916,
+        "translated": false
+      },
+      {
+        "author_name": "trang nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103141564507163014822/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPVsznyqbURwWe6-1FvkrwuTdTS3TbHh_avbAojT7RJwkQpp1pyQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Sữa chua hoa quả ngon nhưng đang ăn thì múc được sợi tóc bám ở miếng dưa hấu. Bảo với chủ hàng thì chủ bảo là tóc mới, ko dính sữa chua (ặc, tóc chứ có phải giấy đâu mà đòi thấm đc nước), chứ nhà hàng làm rất cẩn thận, ko thể có tóc rơi vào! Nói như thể khách có thời gian dứt tóc rồi thả tóc cho vào đó ko bằng?!?! Đã không nói lời tử tế còn vẫn lấy nguyên tiền 2 cốc! Làm không chuyên nghiệp, thái độ còn siêu tệ!",
+        "time": 1651816088,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 86
+  },
+  "harvested_at": "2026-04-27T19:57:58.166773"
+}

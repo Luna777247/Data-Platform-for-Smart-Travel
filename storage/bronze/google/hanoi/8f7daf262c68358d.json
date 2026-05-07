@@ -1,0 +1,173 @@
+{
+  "u_key": "8f7daf262c68358d",
+  "original_osm_name": "Nhà Hàng Hot Pot BBQ",
+  "google_raw": {
+    "formatted_phone_number": "0832 629 779",
+    "geometry": {
+      "location": {
+        "lat": 21.0386988,
+        "lng": 105.8464027
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.04003593029151,
+          "lng": 105.8478143802915
+        },
+        "southwest": {
+          "lat": 21.0373379697085,
+          "lng": 105.8451164197085
+        }
+      }
+    },
+    "name": "Urban Shanghai Grill & Hotpot",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 18:00–00:00",
+        "Thứ Ba: 18:00–00:00",
+        "Thứ Tư: 18:00–00:00",
+        "Thứ Năm: 18:00–00:00",
+        "Thứ Sáu: 18:00–00:00",
+        "Thứ Bảy: 18:00–00:00",
+        "Chủ Nhật: 18:00–00:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "anh tú phạm",
+        "author_url": "https://www.google.com/maps/contrib/114622161848013444477/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQnGJg4dsi-BEQ4xcD9TxMLgNLtJkPKYVSEMESHTC2b2NQPJA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán sạch sẽ, không gian gọn gàng và tạo cảm giác thoải mái ngay từ khi bước vào. Bàn ghế được sắp xếp hợp lý, khu vực ăn uống và bếp khá ngăn nắp nên cảm giác rất an tâm.\n\nĐiểm cộng lớn là ông chủ cực kỳ quan tâm khách hàng, nhiệt tình hỏi thăm và hỗ trợ trong suốt bữa ăn. Cách phục vụ thân thiện, gần gũi nhưng vẫn chuyên nghiệp, khiến khách cảm thấy được tôn trọng và chăm sóc chu đáo.\n\nĐồ ăn đậm vị, thơm và được chế biến cẩn thận. Nước lẩu có chiều sâu hương vị, món nướng tẩm ướp vừa phải, không quá mặn mà vẫn giữ được độ ngọt tự nhiên của nguyên liệu. Nguyên liệu tươi, lên món khá nhanh.\n\nPhù hợp để đi cùng gia đình hoặc tụ tập bạn bè. Trải nghiệm tổng thể rất hài lòng, chắc chắn sẽ quay lại.",
+        "time": 1771249623,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Tươi Ngũ",
+        "author_url": "https://www.google.com/maps/contrib/115252936783068451646/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVLFzYGxvYewOEVDfxxvHx4RXzMJ0v-jEHqJI5XGu-9ORUviFP=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, phục vụ nhiệt tình 🫶",
+        "time": 1770570461,
+        "translated": false
+      },
+      {
+        "author_name": "Hoai Thu Le",
+        "author_url": "https://www.google.com/maps/contrib/112548336292783938337/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEP2Pu7Eb6bIY8io2PcF0GSSpqg9nSsRJN1HB2qLtzqeHCpAA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ngon, chuẩn vị. Phục vụ nhiệt tình. Thịt ngon.",
+        "time": 1761486828,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Mai Xuân Cảnh",
+        "author_url": "https://www.google.com/maps/contrib/107123627005445804194/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_psd5CPknFdBE6stcomu0glmWcE6_Y6F2eWLxMVPf6PMvSA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Must try !\nQuán ăn nướng chuẩn vị vô cùng\nĐồ nướng tươi ngon\nGia vị chấm hoàn hảo\nNhân viên phục vụ nhiệt tình nướng cho bạn tại bàn!\nChủ quán rất chăm sóc khách hàng\nBọn mình đi ăn 6 người full list vẫn gọi thêm mà ăn hết veo.\nGood price and quality !",
+        "time": 1769179482,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Bùi",
+        "author_url": "https://www.google.com/maps/contrib/109679632976594032851/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUWyk5IvbL75EYLzDzlMhajGcVMLTryhkmQuh_xwD2XZex_Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ngon, chất lượng, sạch sẽ. Thích nhất là máy nướng hut khói, ko lo bị ám mùi . Sẽ quay lại trải nghiệm thêm nhiều món 👌",
+        "time": 1761200112,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 177
+  },
+  "harvested_at": "2026-04-28T16:14:15.634481"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "bc7176754e000601",
+  "original_osm_name": "An Hý",
+  "google_raw": {
+    "formatted_phone_number": "0905 916 551",
+    "geometry": {
+      "location": {
+        "lat": 15.878383,
+        "lng": 108.3290295
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8797702302915,
+          "lng": 108.3303789802915
+        },
+        "southwest": {
+          "lat": 15.8770722697085,
+          "lng": 108.3276810197085
+        }
+      }
+    },
+    "name": "An Hy Vegetarian Restaurant",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–21:00",
+        "Thứ Ba: 11:00–21:00",
+        "Thứ Tư: 11:00–21:00",
+        "Thứ Năm: 11:00–21:00",
+        "Thứ Sáu: 11:00–21:00",
+        "Thứ Bảy: 11:00–21:00",
+        "Chủ Nhật: 11:00–21:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Phong Lương Chiều",
+        "author_url": "https://www.google.com/maps/contrib/105648836741805088963/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSGfuMo-YnlL3uuaQD9fvfDZEUhDNsuFD-O1BJ4aF2UKh5zSMs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Ngày 20/06/23 trước khi ra máy bay để về Hà Nội tôi đã tới đây để ăn cơm chay.\nThật sự, đầu bếp làm món ăn quá ngon, cơm rời nhau, rất rẻo rất ngon.\nTất cả các món đều gọi là rất rất rẻ cho chúng ta trải nghiệm ăn chay.\n10/10 Hãy đến đây các bạn nhé!\n\nOn June 20, 23, before I took the plane back to Hanoi, I came here to eat vegetarian rice.\nReally, the chef makes the food so delicious, the rice is separate, very cheap and delicious.\nAll dishes are called very very cheap for us to experience vegetarianism.\n10/10 Come here guys!",
+        "time": 1687533859,
+        "translated": false
+      },
+      {
+        "author_name": "Holo Quan",
+        "author_url": "https://www.google.com/maps/contrib/112638176028246775438/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZQkyeE6OpE91C22XnUHsQ2TeArXp7eTcg78pu3APLyahAE5U=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ngon và ngon. Món ăn vừa miệng cho chiếc bụng của tôi.",
+        "time": 1723210525,
+        "translated": false
+      },
+      {
+        "author_name": "chuong nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114872661875128971219/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8E123ghXy-lgL2PXkXgLvWeioUvHJ6-lT6frIWvHt8Svltg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon hết sẩy. Làm nhanh. Ít dầu. Rất dễ ăn.",
+        "time": 1726575588,
+        "translated": false
+      },
+      {
+        "author_name": "Hong Duong",
+        "author_url": "https://www.google.com/maps/contrib/103829690118200520081/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHG6ISqUY-tCX2-64B4gDkDYjNeRIcFxBmipTTPsJBqlnGjT5v=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Món chay ở đây được chuẩn bị sạch, ko dùng gia vị và dầu mỡ nhiều. Thích nhất món cơm niêu rang cháy 😅",
+        "time": 1666093481,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Công Sanh",
+        "author_url": "https://www.google.com/maps/contrib/111973268083214820805/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKKbg72dEdteLSoYf4slddFcisZKI7R8ZgCskQ9w7j-XXuNQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Thức ăn rất ngon, nhiều. sẽ. Quán ấm cúng, sạch sẽ,  e chủ quán rất dễ thương. Đặc biệt WC rất sạch. 100 điểm!",
+        "time": 1676291759,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 379
+  },
+  "harvested_at": "2026-04-29T09:57:34.928693"
+}

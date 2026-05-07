@@ -1,0 +1,173 @@
+{
+  "u_key": "5f349e781f3f6349",
+  "original_osm_name": "My Son Valley Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0976 810 768",
+    "geometry": {
+      "location": {
+        "lat": 15.7750204,
+        "lng": 108.1089999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.7763913802915,
+          "lng": 108.1102071802915
+        },
+        "southwest": {
+          "lat": 15.7736934197085,
+          "lng": 108.1075092197085
+        }
+      }
+    },
+    "name": "MySon Cham Restaurant, Bar & Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–17:30",
+        "Thứ Ba: 07:00–17:30",
+        "Thứ Tư: 07:00–17:30",
+        "Thứ Năm: 07:00–17:30",
+        "Thứ Sáu: 07:00–17:30",
+        "Thứ Bảy: 07:00–17:30",
+        "Chủ Nhật: 07:00–17:30"
+      ]
+    },
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Luong Dong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104368828711199513235/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVF0E8zWNeDYAhegpTASba5qkCWnEMbqgcEKDrWbdX5z4m3t44=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cơm bình dân 35k có chỗ xe máy và oto miễn phí",
+        "time": 1754817685,
+        "translated": false
+      },
+      {
+        "author_name": "Duc Loi Pham",
+        "author_url": "https://www.google.com/maps/contrib/109516865307238256345/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhTVPkZMuxXhfdflmHZHc7qFThGKn4h0Ve9z2nJ1iXlMzlQQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon , nhân viên thân thiện , tuyệt vời",
+        "time": 1768725376,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Nguyễn Trường",
+        "author_url": "https://www.google.com/maps/contrib/107611433510773310894/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKjyQRQO2KX6hawvtg2cx0zbpQ1q-FF9x7-2mG43i3447_OA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chuyến ghé thăm Mỹ Sơn cùng với gia đình. Chúng tôi đã chọn nhà hàng My Sơn Cham . Đồ ăn rất ngon, cô chủ thân thiện đã tư vấn cho gia đình tôi bữa ăn hoàn hảo. Ấn tượng nhất món Bò nướng. đồ uống ở đây tươi ngon. Làn sau dến Mỹ Sơn. tôi vẫn chọn nơi này.",
+        "time": 1721308795,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Lương Báo Tiền Phong",
+        "author_url": "https://www.google.com/maps/contrib/106277809356293453701/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSypjb-Fe9zSew_Yr9OTrGXTCG48kKSnKBKDUEkUhhM8ZpZdet=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Gọi đâu xong đâu đấy 2 tô mì Quảng Tôm thịt. Nhắn khoe với thổ địa DL Vu & Trinh Ly đang rong chơi xứ cờ hoa. Quá nửa đêm bên đó vẫn rồi mà vẫn nhận được tin nhắn về gợi ý ăn mì Quảng gà Mỹ Sơn. Thôi thế là vì tô mì Quảng gà Mỹ Sơn lại có cớ để quay lại Duy Xuyên ❤️\nKhông mê tín nhưng ăn mì Quảng từ mì truyền thống đến cải biên thì cứ phải về đất Quảng mới ra gì ❤️\n\nĂn mì Quảng ở quán Chăm ngay cổng khu du lịch Thánh địa Mỹ Sơn. Ngon!",
+        "time": 1722753502,
+        "translated": false
+      },
+      {
+        "author_name": "Hòa Nguyễn Thị Khánh",
+        "author_url": "https://www.google.com/maps/contrib/110945217237139833406/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2VX5_PRCOEE5J5VzRGNZSSDFoxIoWLCx_0yJa-HCnXWCDAw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Ở đây đồ ăn và nước uống rất ngon,không gian thoáng mát, phục vụ nhiệt tình,tôi thích mì quảng ở đây.",
+        "time": 1700902135,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 76
+  },
+  "harvested_at": "2026-04-29T09:31:31.739516"
+}

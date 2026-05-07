@@ -1,0 +1,173 @@
+{
+  "u_key": "471b12fe8c6b8211",
+  "original_osm_name": "Nhà Hàng Hanoi Food Culture",
+  "google_raw": {
+    "formatted_phone_number": "0347 662 960",
+    "geometry": {
+      "location": {
+        "lat": 21.0340925,
+        "lng": 105.8538401
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0354405802915,
+          "lng": 105.8552003802915
+        },
+        "southwest": {
+          "lat": 21.0327426197085,
+          "lng": 105.8525024197085
+        }
+      }
+    },
+    "name": "Hanoi Food Culture",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Uyên Lê Văn",
+        "author_url": "https://www.google.com/maps/contrib/116814408670302659372/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGKe0GdDcjO6DW_wFdvy9FGnu6pFMdewiyuWxTguzV-5TiygXF=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, dịch vụ tốt, bầu không khí vui vẻ, thân thiện. Đặc biệt bạn Laura tư vấn nhiệt tình. Cảm ơn và sẽ quay lại.",
+        "time": 1769345830,
+        "translated": false
+      },
+      {
+        "author_name": "Ducklinglove13",
+        "author_url": "https://www.google.com/maps/contrib/111316398792589377965/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUj-jhAreP3h5VTTN2voDt4INflRVLyf5xSCDLHzhHtS8NZekE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bữa ăn rất ngon miệng, tôi là người rất hay phân vân chọn lựa nhưng thái độ của nhân viên rất kiên nhẫn giải thích và gợi ý cho tôi về các món ăn. Nhất là bạn nhân viên tên Laura. Trải nghiệm vô cùng hài lòng từ không gian quán đến dịch vụ và đương nhiên quan trọng nhất là thức ăn.",
+        "time": 1766501102,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Khánh",
+        "author_url": "https://www.google.com/maps/contrib/112549015473308574146/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZRhqIz0JYNFMqgsRGwEka7n51ZSsaams1gZHqBilHd81m3Ad5=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Một trải nghiệm tuyệt vời ở Phố cổ, không gian ấm cúng, phục vụ chu đáo, đồ ăn ngon, trình bày đẹp.",
+        "time": 1765111906,
+        "translated": false
+      },
+      {
+        "author_name": "Dartagnan NGUYEN",
+        "author_url": "https://www.google.com/maps/contrib/107105789757190221023/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU95g19LGVl0LWaiZt6qdtdhajArHaMXHETTMXTRDEmTCP4nJg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Thức ăn ngon , giá cả hợp lý..bạn phục vụ tên Đạt phục vụ rất nhiệt tình..",
+        "time": 1763359321,
+        "translated": false
+      },
+      {
+        "author_name": "Lan Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/104794027248310722429/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7VjNKV0zpGuHMtHVTHlP8oMDKWcBXhX_ec7SELdMH3L7RnH7b=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Nay ăn ngon quá nên cứ quên chụp ảnh thôi.\nĐồ ăn ngon, vừa miệng.\nEm trai mình đi ăn cùng, ăn được 3 bát cơm đầy luôn.\nHighly recommend mn nhé.",
+        "time": 1752411504,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4596
+  },
+  "harvested_at": "2026-04-28T16:31:35.382640"
+}

@@ -1,0 +1,50 @@
+{
+  "u_key": "0f617c12145537fe",
+  "original_osm_name": "Khách Sạn Camel City",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.037449,
+        "lng": 105.8522746
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03876793029151,
+          "lng": 105.8535362302915
+        },
+        "southwest": {
+          "lat": 21.0360699697085,
+          "lng": 105.8508382697085
+        }
+      }
+    },
+    "name": "Camel City Hotel",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Laos Mick",
+        "author_url": "https://www.google.com/maps/contrib/112968051375159081273/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9fuRAdklwJulyOhuPsxE5W22MIbeh3ttRjOaIxTF5-oE0O6q4LQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Tôi đã để lại đánh giá về Khách sạn Camel City Old French Quarters Hà Nội trong những chuyến đi trước đây của tôi vào năm 2016/17! Tôi nhận thấy Đánh giá của mình đã bị xóa hoặc tôi cho rằng có thể đã thay đổi chủ sở hữu của khách sạn này sau khi gia đình tôi quản lý.\n\nKhách sạn Camel City đã ở đây 3 hoặc 4 lần trong năm 2016/17. Tôi là một cô lễ tân trẻ tuổi, An Phạm, không biết cô ấy còn làm việc tại khách sạn hay không! Cô ấy rất am hiểu và nhiệt tình giúp đỡ. Tôi cũng đã đặt chuyến đi tàu hỏa đến Đà Nẵng năm 2017 và chuyến đi 3 ngày trên Vịnh Hạ Long bằng thuyền buồm gỗ kiểu cổ tuyệt đẹp. Tôi sống ở TP.HCM trước khi chuyển đến Đà Nẵng vài năm gần đây. Tôi dự định quay lại Khách sạn C C Old French Quarters vào cuối năm 2025.",
+        "time": 1763652458,
+        "translated": true
+      },
+      {
+        "author_name": "Abdellah Idelhaj",
+        "author_url": "https://www.google.com/maps/contrib/110972814038452800121/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVyE3kvaiQEm-2dmnjtZuLQInNSg0z1noLnH51puDXKoaekAl58g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1741644874,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-27T19:58:24.271332"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "e10b095f3fa3bf04",
+  "original_osm_name": "Xoi Yen",
+  "google_raw": {
+    "formatted_phone_number": "024 3926 3427",
+    "geometry": {
+      "location": {
+        "lat": 21.0337304,
+        "lng": 105.85452
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0351137802915,
+          "lng": 105.8558142802915
+        },
+        "southwest": {
+          "lat": 21.0324158197085,
+          "lng": 105.8531163197085
+        }
+      }
+    },
+    "name": "Xôi Yến",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–00:00",
+        "Thứ Ba: 06:00–00:00",
+        "Thứ Tư: 06:00–00:00",
+        "Thứ Năm: 06:00–00:00",
+        "Thứ Sáu: 06:00–00:00",
+        "Thứ Bảy: 06:00–00:00",
+        "Chủ Nhật: 06:00–00:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Hà Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109313011997497337405/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVdnhOCosRUE1JPoGHtKOJByGj8Yqg1a5Q6bJpqm4Q7_QN_8gT1Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Lần đầu tiên Đến Hà Nội và an thử món sôi ở đây khá ngon và hấp dẫn.nhan viên nhiệt tình vui vẻ cảm ơn nhiều",
+        "time": 1772508275,
+        "translated": false
+      },
+      {
+        "author_name": "ThuyKTr Phong",
+        "author_url": "https://www.google.com/maps/contrib/116874689158791209859/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnmoUeGU7rapePaCouKewot0U_1iLFCy-LNevHy2QtrvChcOU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Xôi xéo ngon nhất Hanoi. Các loại xôi khác cũng ngon nhưng xôi xéo là ngon đặc sắc nhất mà những hàng xôi khác không có. Xôi xéo xưa chỉ có gói nhỏ trong lá sen. Nay xôi ăn kèm với thịt gà, trứng quả, giò chả... rất ngon. Quán 3 tầng, sạch sẽ, phục vụ nhanh, chuyên nghiệp. Có chỗ ngồi bên ngoài.\nXe máy để trên vỉa hè trước quán. Ô tô sẽ phải gửi ở gần đó...",
+        "time": 1764948468,
+        "translated": false
+      },
+      {
+        "author_name": "-Trường Đỗ- Đồng phục Bốn Mùa",
+        "author_url": "https://www.google.com/maps/contrib/100194126809556532644/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWenPK7xnGPYrIheKi1hr8QEscvpod6ei3exZcegEnlyRMTjH8czQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Xôi Yến - 1 địa chỉ quá ngon và nổi tiếng tại Hà Nội.\nLúc nào cửa hàng rất đông đúc người dân và khách du lịch đến ăn và mang về.\nXôi rất ngon với menu phong phú lựa chọn. Nhiều món xôi và món ăn kèm đặc sắc và hấp dẫn.\nPhục vụ rất nhanh và chu đáo",
+        "time": 1762679628,
+        "translated": false
+      },
+      {
+        "author_name": "Jang Dong Gun",
+        "author_url": "https://www.google.com/maps/contrib/118021798481869317707/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgB9DE8KAdGtcbT-nIgLx0tZVZdKjXMAa8UvW2U1YzNDwffULZ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Xôi ngonnnnnn!!!!\nRất đáng tiền.\nXôi xéo , pa tê rất ngon. Vị giác bùng nổ luôn. Sẽ quay lại khi đến Hà Nội.",
+        "time": 1772798890,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Hân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116121818768351216172/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzNsuXlQMPD_-w1DN2h_zoR-eL96POwdFmRZvcL1QMW4GnI1Jt=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "- Không gian quán 3 tầng, sạch sẽ.\n- Phục vụ nhanh.\n- Xôi ko còn ngon như đợt đầu mình ăn. Trước thịt kho tàu khá ngon nhưng giờ ko còn vị như trước. Hơi thất vọng!",
+        "time": 1768133137,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4388
+  },
+  "harvested_at": "2026-04-28T16:21:19.091434"
+}

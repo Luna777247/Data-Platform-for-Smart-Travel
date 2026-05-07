@@ -1,0 +1,173 @@
+{
+  "u_key": "bdca626c6135bc0a",
+  "original_osm_name": "Com Ga Noi Bo",
+  "google_raw": {
+    "formatted_phone_number": "0965 756 103",
+    "geometry": {
+      "location": {
+        "lat": 21.0151068,
+        "lng": 105.83742
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0164701302915,
+          "lng": 105.8387404802915
+        },
+        "southwest": {
+          "lat": 21.0137721697085,
+          "lng": 105.8360425197085
+        }
+      }
+    },
+    "name": "Cơm gà xối mỡ An Nhiên",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Trí Lê Minh",
+        "author_url": "https://www.google.com/maps/contrib/102190652466647141358/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5gjEiP0yRkYm67HzR58Wb-1xqwCzQUUHy97pluL9YUbj5qLc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cơm ăn vừa miệng, chỗ ngồi ổn trong hẻm chợ, máy lạnh hơi nhỏ nhưng cũng điểm cộng",
+        "time": 1759473220,
+        "translated": false
+      },
+      {
+        "author_name": "ahsoe / asote",
+        "author_url": "https://www.google.com/maps/contrib/114521525016483266580/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYmW1TfZk5nJcJ0IwVHYWkiWl-iOOFo6feXT12NjL7GyctvZs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Sau khi đọc đánh giá của quán ở phía trước, mình đã kì vọng nhiều hơn ở quán. Nhưng đã bị hụt hẫng sau đó. Lỗi do mình kì vọng quá thôi.\n*(Mình ăn cơm rang gà xối mỡ + cơm rang gà nướng)*\nCòn đồ ăn thì mình đánh giá ngon ở mức đúng trong tầm giá 35k. Chắc chắn là ở mức trên trung bình. Mọi người vẫn có thể ăn ở mức ổn.\nDịch vụ 5/5 vì quán nhỏ có 2 anh làm cả bếp + chạy bàn nhưng vẫn nhiệt tình và thân thiện.",
+        "time": 1769950940,
+        "translated": false
+      },
+      {
+        "author_name": "Hank Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/116685519833110420581/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWC5rzIup9Whn7YqXV3TVAGJ0IACkTdx_UiHoC9PQtBcN_0AiPP=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán ăn tương ổn so với giá 30-35k, đồ ăn khá ok. Không gian hẹp, hơi cũ, nhưng khá sạch sẽ. Đúng ra nên là 4 sao. Nhưng tôi muốn quán có nhiều update để thường xuyên ghé qua hơn.",
+        "time": 1765686607,
+        "translated": false
+      },
+      {
+        "author_name": "Yuuto Takasaki",
+        "author_url": "https://www.google.com/maps/contrib/114776528862858934514/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWWKtwtaNjnxHNKU7vRyVOcx9Bw2IJuyovuwWCB3jAHZSSEN69=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "highly recommend món cơm đậu sốt thịt, sốt ở đây làm ngon vc. bị cái là không hiểu s nhân viên đeo tai nghe đôi khi gọi k nghe thấy",
+        "time": 1760003061,
+        "translated": false
+      },
+      {
+        "author_name": "Từ Trần",
+        "author_url": "https://www.google.com/maps/contrib/117831722280614130836/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsF7LPjouDx9ICsP19RRqb4jNE59GZYSfJ6dgq_QmQTcGLZw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon như cơm nhà, không quán quán sạch sẽ, nhân viên nhiệt tình văn minh",
+        "time": 1740472138,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 28
+  },
+  "harvested_at": "2026-04-28T16:32:46.656394"
+}

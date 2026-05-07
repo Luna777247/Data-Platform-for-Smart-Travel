@@ -1,0 +1,173 @@
+{
+  "u_key": "3b5bb6215946d236",
+  "original_osm_name": "Quán Phở Thìn",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.018111,
+        "lng": 105.855301
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0194322302915,
+          "lng": 105.8565968802915
+        },
+        "southwest": {
+          "lat": 21.0167342697085,
+          "lng": 105.8538989197085
+        }
+      }
+    },
+    "name": "Phở Thìn",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:00–22:00",
+        "Thứ Ba: 05:00–22:00",
+        "Thứ Tư: 05:00–22:00",
+        "Thứ Năm: 05:00–22:00",
+        "Thứ Sáu: 05:00–22:00",
+        "Thứ Bảy: 05:00–22:00",
+        "Chủ Nhật: 05:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Quynh Nhu Truong",
+        "author_url": "https://www.google.com/maps/contrib/101900043964393079715/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIzO7WDniNUOXI8Nblms_0o03GlgmxjWjMX7NWkKqi66E-WzOx=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nước dùng ngon. Nhiều bánh lắm chắc ăn được nửa tô. Nhiều hành cho team mê hành như mình nhưng không hăng đâu. Thịt dai mềm nhưng không thơm mùi áp chảo như mình tưởng. Ăn một hồi thấy nó ngán vì có dầu xào. Order và thanh toán tại quầy, sau đó tìm chỗ trống ngồi ăn nhanh rồi đứng lên.",
+        "time": 1771828352,
+        "translated": false
+      },
+      {
+        "author_name": "Vy Yến",
+        "author_url": "https://www.google.com/maps/contrib/116827321566926674109/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4aslEEae3lSrIZrW52j1piBRqb8TUCK2hSKYk6yaz7kMqzIAT=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thái độ nhân viên quán cực kỳ tệ, coi thường khách, hỏi có thêm quẩy trứng j ko sau khi bảo ko thì nhìn khách rồi đảo mắt một vòng, khách hỏi bn tiền rồi vẫn hất mã qr lên bĩu môi quét ở đây này, khách ngồi ăn thì đứng từ đằng sau nhòm ngó.\n80k một bát phở thường. Lần đầu tiên ăn ko hành còn tính thêm tiền 10k là 90k một bát. Vị ngấy nước dùng ko có vị ngọt của thịt, thịt bò vụn gần như băm ko thể gắp, tổng quan lại là ko có vị bò cũng chả có mùi bò luôn chỉ cảm thấy vị của muối\nKhông gian quán bé, hơi cũ\nNói chung là không có chuyện quay lại lần hai, bỏ tiền ra ăn còn rước bực vào người\n2/2026",
+        "time": 1770050898,
+        "translated": false
+      },
+      {
+        "author_name": "Diễm Hằng Phạm",
+        "author_url": "https://www.google.com/maps/contrib/111521056068038079132/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeGvPk8FBuMSTu3o94yptS9yFBCcZ1uGHLtzIvVGuOYegLRIH7=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Phở 10 điểm. Giá 85k/ tô. Trước khi vào quán là phải trả tiền trước ở ngoài cửa. Nhân viên phục vụ không được nhiệt tình, quát khách hàng. Chỗ ngồi chật chội, phù hợp đến để ăn, không phù hợp đến để ngồi trò chuyện.",
+        "time": 1771040256,
+        "translated": false
+      },
+      {
+        "author_name": "Thái Nguyên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115064544536604010162/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMWTWbjef4as8C9yLSEC7hHzfgsuUqzwpT311aI0VKOQmwrLY=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Lần đầu ra Hà Nội và cũng là lần đầu ăn phở ngoài Hà Nội.\nQuán rất đông khách nhưng mình không phải đợi lâu để có bàn, đồ ăn ra nhanh, bàn ghế thì khách thay liên tục nhưng ít được dọn thường.\nChất lượng đồ ăn cao, xứng đáng với giá tiền, cảm nhận nước dùng rất đậm đà và phần thịt bò dùng là bò tái lăn, mềm, ngon.\nThanh toán ngay lúc gọi và phải tự tìm chỗ ngồi.\nLần mình ăn thì cảm nhận không có nhiều lựa chọn về menu mà chỉ có lựa chọn phở tái tiêu chuẩn.",
+        "time": 1773052918,
+        "translated": false
+      },
+      {
+        "author_name": "Lưu Quang Minh",
+        "author_url": "https://www.google.com/maps/contrib/113604762261906788381/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU93sZXNPP9uujaQL36kCKXq754KWKCy1qZpzN2UwyZXYopc4Cv=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Phở Thìn Lò Đúc là địa chỉ phải ghé một lần trong đời khi đến Hà Nội. Quán nổi tiếng với phở tái lăn gia truyền – thịt bò được xào lăn thơm lừng, đậm vị, chan vào bát phở nóng là dậy mùi đặc trưng không lẫn đi đâu được.\n\nNước dùng béo nhẹ, thơm nức mùi bò xào, sợi phở mềm vừa, ăn cùng chút hành lá và giấm tỏi thì đúng chuẩn “hương vị Hà Nội xịn”. Bát phở nóng hổi, mùi thơm bốc lên là chỉ muốn ăn ngay.\n\nKhông gian lúc nào cũng đông nhưng phục vụ nhanh, giá xứng đáng với chất lượng.\nAi đến Hà Nội muốn trải nghiệm phở chuẩn – ngon – nổi tiếng thì nhất định phải ghé Phở Thìn 13 Lò Đúc!",
+        "time": 1764636495,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1346
+  },
+  "harvested_at": "2026-04-28T16:31:43.350321"
+}

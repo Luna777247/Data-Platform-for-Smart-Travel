@@ -1,0 +1,174 @@
+{
+  "u_key": "feefbf8ee8b9a997",
+  "original_osm_name": "La Cala",
+  "google_raw": {
+    "formatted_phone_number": "0965 446 445",
+    "geometry": {
+      "location": {
+        "lat": 12.2387325,
+        "lng": 109.1927062
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2400876802915,
+          "lng": 109.1941137302915
+        },
+        "southwest": {
+          "lat": 12.2373897197085,
+          "lng": 109.1914157697085
+        }
+      }
+    },
+    "name": "La Cala - Gusto Italiano",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–22:30",
+        "Thứ Ba: 11:00–22:30",
+        "Thứ Tư: 11:00–22:30",
+        "Thứ Năm: 11:00–22:30",
+        "Thứ Sáu: 11:00–22:30",
+        "Thứ Bảy: 11:00–22:30",
+        "Chủ Nhật: 11:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Đạt Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111229138113026792651/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjRuXkFSQVfpTSmNQ6PGT-Xd-hcotKILgi3q9fSPrNWNAhJWpl=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon tuyệt vời, đặc biệt Mì ý mực, đậm bà béo, không một tí mùi tanh. Món bánh mì khai vị rất ngon bùng vị giác.\nCác bạn phục vụ rất dễ thương luôn tươi cười, mang lại cảm giác thân thiện.\nSẽ quay lại.",
+        "time": 1766307677,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Vy Đặng",
+        "author_url": "https://www.google.com/maps/contrib/104480078134580978704/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIP_pKHXNmYjRaAz2fr6c-1drarNVudnHHZ8AkLQO3soNjbV4K=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "ăn buổi trưa nên vắng, gọi 1 pizza với 1 mì ý mà 2 người ăn không hết. đối với vị pizza tươi thì mình thích vị ở đây cực",
+        "time": 1763084854,
+        "translated": false
+      },
+      {
+        "author_name": "Lien Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/113985717895396645211/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKk_p8oyQx4vPSa17rrAre-1zNnsjj4lzam8w8C50ROjZ6m7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán pizza nhất định phải ghé khi đến Nha Trang nhé. Rấtttt ngon và các anh chị hỗ trợ rất nhiệt tình và dễ thương ❤️ Ảnh cuối ấn tượng nhất haha",
+        "time": 1754806593,
+        "translated": false
+      },
+      {
+        "author_name": "Xuan Anh Tang Tang",
+        "author_url": "https://www.google.com/maps/contrib/117746936270043206757/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3DJR0ByEmV8Kq5lzRiFKOoA_piySZFPqYvG1vaw6ZbHYTnQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Mình ăn ở quán 2 năm rồi. Từ khi biết đến quán thì gần như khó ăn được pizza và lasagna chỗ khác. Chất lượng vẫn ổn định từ đồ ăn đến phong cách phục vụ. Hôm nay ghé quán mình vẫn ăn 2 món như thường lệ là pizza hải sản và salad. Ăn một món mới là mỳ Squid Ink. Ngon hơn mình mong đợi, vị rất ngon, mình dặn mì vừa tới, ko mềm, không cứng. Menu ở đây mình ăn gần hết rồi, mỗi lần đi ăn mình sẽ thử 1 món mới và ăn lại các món mình hay ăn là pizza, salad và lagsana.",
+        "time": 1753773317,
+        "translated": false
+      },
+      {
+        "author_name": "Frédéric Bouchard",
+        "author_url": "https://www.google.com/maps/contrib/102917177490920557050/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF1GRF2JrQ7dFTbFB6She8EftMRGwYG2vMfNpNpXFe69W1lBHR=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "I have visited Nha Trang more than 5 times in the last 3 years and La Cala has always been one of my favorite restaurants. I have been there more than 3-4 times and I have very good memories. Unfortunately, during my last stay at this place, I was unfortunately surprised by my experience. First, when I received my bread, I asked for butter to eat it. However, I was told that the establishment did not have butter even though I had received some during my previous visit. My salad was completely drowned in oil and the meals I ordered - a lasagna and ravioli - were tasteless, bland. I also received all my dishes only 5 minutes after ordering, which seems rather strange to me. Finally, I hope this review will help the establishment improve because I really liked this place. 🥺\n\nTôi đã đến Nha Trang hơn 5 lần trong 3 năm qua và La Cala luôn là một trong những nhà hàng yêu thích của tôi. Tôi đã đến đó hơn 3-4 lần và có rất nhiều kỷ niệm đẹp. Thật không may, trong lần lưu trú gần đây nhất ở nơi này, tôi đã rất ngạc nhiên vì trải nghiệm của mình. Đầu tiên, khi nhận được bánh mì, tôi đã yêu cầu cho thêm bơ để ăn cùng. Tuy nhiên, tôi được thông báo rằng cơ sở này không có bơ, mặc dù tôi đã nhận được một ít trong lần ghé thăm trước. Món salad của tôi ngập đầy dầu và các món tôi gọi - lasagna và ravioli - đều vô vị và nhạt nhẽo. Trên thực tế, tôi đã nhận được toàn bộ bữa ăn của mình chỉ 5 phút sau khi gọi món, điều này có vẻ khá kỳ lạ với tôi. Cuối cùng, tôi hy vọng bài đánh giá này sẽ giúp cơ sở cải thiện hơn vì tôi thực sự thích nơi này. 🥺",
+        "time": 1744701616,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2765
+  },
+  "harvested_at": "2026-05-02T15:18:18.468242"
+}

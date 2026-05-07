@@ -1,0 +1,173 @@
+{
+  "u_key": "ca214f36b478da8f",
+  "original_osm_name": "quan pho hong",
+  "google_raw": {
+    "formatted_phone_number": "0988 782 341",
+    "geometry": {
+      "location": {
+        "lat": 16.077659,
+        "lng": 108.2219165
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0789424802915,
+          "lng": 108.2232517302915
+        },
+        "southwest": {
+          "lat": 16.0762445197085,
+          "lng": 108.2205537697085
+        }
+      }
+    },
+    "name": "Quán Phở Hồng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–20:00",
+        "Thứ Ba: 06:30–20:00",
+        "Thứ Tư: 06:30–20:00",
+        "Thứ Năm: 06:30–20:00",
+        "Thứ Sáu: 06:30–20:00",
+        "Thứ Bảy: 06:30–20:00",
+        "Chủ Nhật: 06:30–20:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "pt d",
+        "author_url": "https://www.google.com/maps/contrib/115291461312214164482/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjc-3HaLrhw89nmZe2NTY0MwcNz1u7MFMylhdx9ZvQxGsTcA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn thức uống rất ngon, trình bày đẹp mắt, view tuyệt vời và thái độ phục vụ siêu dễ thương ưng ý",
+        "time": 1769673222,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Pham",
+        "author_url": "https://www.google.com/maps/contrib/104237765671347819893/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpQ-GyilYAg3tOnwwCgAjiyszQw2VCwUDEfwm5SBotWBRnrA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Phở bò nước súp nghe mùi k ngọt.Phở gà nước súp như nước lạnh.Giá 2 tô phở lớn 140k quá đắt .Giá tiền k đi đôi với chất lượng.Sợ luôn.",
+        "time": 1763875423,
+        "translated": false
+      },
+      {
+        "author_name": "Tài Lê",
+        "author_url": "https://www.google.com/maps/contrib/117536878734020629535/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8fLMQWM2y4nME7IN6lcPh918iNYdQe5JuVwIonMyVkuTkoQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "Hướng dẫn và lái xe đưa khách vào ăn\nTính tiền hdv với lái xe giá như khách\nKhắp cả đà nẵng chưa có quán nào như vậy…\nThôi cũng né",
+        "time": 1759643085,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Lê",
+        "author_url": "https://www.google.com/maps/contrib/115477736299669566941/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINnxDu9FwyYYI6tswE2TstIxeWMMSw8b5STAwZFXXhy134wA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "Nòi nước dùng măn chát mà cũng đem bán cho khách ăn tô phở 60k chu đâu có rẻ",
+        "time": 1759468508,
+        "translated": false
+      },
+      {
+        "author_name": "Brian Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104079800624630221121/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2q6a6Y3d7bvrpY0SB9Bpkgwz8NewZNDzCa1hepTj64bAnRFNzLg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Dở và lấy giá quá đắt. Một trong những chỗ chống chỉ định khi ăn uống ở Đà Nẵng.",
+        "time": 1762680317,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4543
+  },
+  "harvested_at": "2026-04-29T09:43:37.847296"
+}

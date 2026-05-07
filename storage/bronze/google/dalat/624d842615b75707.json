@@ -1,0 +1,123 @@
+{
+  "u_key": "624d842615b75707",
+  "original_osm_name": "Ca phe nguyen chat",
+  "google_raw": {
+    "formatted_phone_number": "0988 295 590",
+    "geometry": {
+      "location": {
+        "lat": 11.9483689,
+        "lng": 108.5081907
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.94965328029151,
+          "lng": 108.5094292302915
+        },
+        "southwest": {
+          "lat": 11.9469553197085,
+          "lng": 108.5067312697085
+        }
+      }
+    },
+    "name": "Lareen coffee - Tư vấn,cung cấp và sửa chữa máy pha cà phê,sản xuất cà phê rang xay nguyên chất, cà phê đặc sản Đà Lạt.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: 09:00–17:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Ánh Lê",
+        "author_url": "https://www.google.com/maps/contrib/104815937966417211448/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjKmqs4s6aIxkbaYPi5TJjHIxHk2iUQLeO9n7CsjIpgfLtg35qig=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cafe đặc sản thơm ngon, vị đậm đà chất lượng, giá cả bình dân, có bán cafe rang xay, máy pha cafe đủ loại,…có mô hình nhượng quyền. Quán có view sau đẹp, ông chủ nhiệt tình dễ thương lắm. Recommend cho mọi người ạ❤️",
+        "time": 1696572544,
+        "translated": false
+      },
+      {
+        "author_name": "tran vinh doan",
+        "author_url": "https://www.google.com/maps/contrib/115192595765313235060/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBdbtNArK6TZtFo2WD0KOMq62IFIx7zDzhOh-VfAOcrdInRQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cafe sạch, thơm ngon đậm đà. Giá cả bình dân. Cung cấp đầy đủ từ cafe bột, hạt, cho đến máy xay, máy pha nhiều chủng loại. Ông chủ vui tính, nhiệt tình.",
+        "time": 1685717712,
+        "translated": false
+      },
+      {
+        "author_name": "EO는 어떤 사람을 두려워하지 않는 등 재생",
+        "author_url": "https://www.google.com/maps/contrib/108119300101746900835/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGXktZl4OyTylBO3zyIsZ-MLo23Ox38T_uYi0Jc7IsfBfnxCyIGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "máy đẹp giao hàng tận nơi người bán hàng vui tính chỉ dạy rất nhiệt tình",
+        "time": 1715049006,
+        "translated": false
+      },
+      {
+        "author_name": "Evie .Infor",
+        "author_url": "https://www.google.com/maps/contrib/108848857368921610408/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITGxM5viK70RwdGAXAu_yDyT5lyjZYvuKQhDrqaBnUsDoyMQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Máy pha cà phê chuyên nghiệp, đầy đủ các loại theo từng nhu cầu khách hàng. Tư vấn nhiệt tình. Có cả cà phê rang xay nguyên chất siu chất lượng. 10 điểm cho sự chuyên nghiệp này.",
+        "time": 1687869240,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Tt",
+        "author_url": "https://www.google.com/maps/contrib/111650995683015191117/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV7FtIhDvMG6j9xz46xE5rfpNvzSkeQTQ5trN74qUeFkHf5w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Cafe sạch. Ngon đậm đà. Thơm.\nGiá bình dân.\nView đẹp. Ngắm cảnh thư giản",
+        "time": 1644333739,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 21
+  },
+  "harvested_at": "2026-04-30T15:06:19.073879"
+}

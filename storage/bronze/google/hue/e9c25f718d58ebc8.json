@@ -1,0 +1,173 @@
+{
+  "u_key": "e9c25f718d58ebc8",
+  "original_osm_name": "BarLab",
+  "google_raw": {
+    "formatted_phone_number": "0934 932 339",
+    "geometry": {
+      "location": {
+        "lat": 16.4684224,
+        "lng": 107.59642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.4697832302915,
+          "lng": 107.5977858302915
+        },
+        "southwest": {
+          "lat": 16.46708526970849,
+          "lng": 107.5950878697085
+        }
+      }
+    },
+    "name": "BarLab",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:00–00:00",
+        "Thứ Ba: 16:00–00:00",
+        "Thứ Tư: 16:00–00:00",
+        "Thứ Năm: 16:00–00:00",
+        "Thứ Sáu: 16:00–00:00",
+        "Thứ Bảy: 16:00–00:00",
+        "Chủ Nhật: 16:00–00:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Nghĩa Võ Đình",
+        "author_url": "https://www.google.com/maps/contrib/107227952060652159334/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqCsWW-EzD7kOlZhCvhFK35lETTn1oAAifXIKjP7mQR21a2yY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "View: nhìn chung khá ổn\nNước uống: 7/10\nNhân viên nhẹ nhàng vui vẻ\nKhông khí và nhạc chill phù hợp hẹn hò, riêng tư, chút men để câu chuyện tiến triển sâu hơn.",
+        "time": 1772280683,
+        "translated": false
+      },
+      {
+        "author_name": "Phan Nhật Hạ",
+        "author_url": "https://www.google.com/maps/contrib/115791975027499378161/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2wviwRsfkoyfbmJVwYZofdH_1l91BLBNp3Bvd13vS0D1S3A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán nằm ở tầng 2 cùng toà với PLao, quán rất hợp gu mình, bầu không khí ấm cúng, view đường phố rất chill, cocktail cũng ngon. Nhân viên nhẹ nhàng. Phù hợp để đi cùng bạn bè trò chuyện nhẹ nhàng.",
+        "time": 1770749967,
+        "translated": false
+      },
+      {
+        "author_name": "Tom Pham",
+        "author_url": "https://www.google.com/maps/contrib/100080686885297713691/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQmcl6GbG4TdgAfv6J5g4KZOQ8BKmoELF6UsMsrJhpPGWFgsDmeQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bầu không khí: thoải mái, HÒA ĐỒNG, view rất đẹp\nBartender: rất funny, nói chuyện, phục vụ chỉnh chu\nKhông gian: sạch sẽ, thơm mát, không ồn ào, dễ trò chuyện.\nNên ghé lại nha mọi người",
+        "time": 1770812948,
+        "translated": false
+      },
+      {
+        "author_name": "Như Quỳnh Phan",
+        "author_url": "https://www.google.com/maps/contrib/105498663855623393865/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIGgd0zxZLKsEvRmV8ns5UEcypIj1xiY9nlxvB0Kbne-zWw75Pw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán Bar nhỏ ấm cúng, nhân viên rất dth. Có A Khoa pha rượu ngon và nói chuyện vui hehe. Quán nhỏ nhưng có gu, nhẹ nhàng chuyện trò bạn bè hay dating đều được",
+        "time": 1764941641,
+        "translated": false
+      },
+      {
+        "author_name": "CWT",
+        "author_url": "https://www.google.com/maps/contrib/107198015506129261339/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTxsCc7Xu6VzxS2xVZQ0qxaQmJUjmZHIHFCKQfJiy-rt1AfV6d=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Chủ quán là nghệ sĩ nên có con mắt setting quán khá xinh. Vị trí tuyệt vời rooftop nhìn ra phố. Bartender có nói chuyện với khách tạo không khí. Nước uống dễ chịu.",
+        "time": 1759656877,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 204
+  },
+  "harvested_at": "2026-04-30T16:07:10.348147"
+}

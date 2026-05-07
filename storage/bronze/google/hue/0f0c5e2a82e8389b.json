@@ -1,0 +1,243 @@
+{
+  "u_key": "0f0c5e2a82e8389b",
+  "original_osm_name": "Mr.Lee",
+  "google_raw": {
+    "formatted_phone_number": "9018 0992",
+    "geometry": {
+      "location": {
+        "lat": 1.3111742,
+        "lng": 103.859768
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.312498930291502,
+          "lng": 103.8611504802915
+        },
+        "southwest": {
+          "lat": 1.309800969708498,
+          "lng": 103.8584525197085
+        }
+      }
+    },
+    "name": "HUE restaurant",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–15:00, 18:00–23:30",
+        "Thứ Ba: 11:00–15:00, 18:00–23:30",
+        "Thứ Tư: 11:00–15:00, 18:00–23:30",
+        "Thứ Năm: 11:00–15:00, 18:00–23:30",
+        "Thứ Sáu: 11:00–15:00, 18:00–23:30",
+        "Thứ Bảy: 11:00–15:00, 18:00–23:30",
+        "Chủ Nhật: 11:00–15:00, 18:00–23:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "poromomo",
+        "author_url": "https://www.google.com/maps/contrib/118392668335850089386/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQaDVgijl1rZIkEk-LN5_PMgR8Gl7XiY0MvrjcWRGHIy1GX2w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian quán được thiết kế đẹp mắt và nhân viên phục vụ rất lịch sự và nhã nhặn. Chúng tôi gọi suất ăn cho 4 người và các món ăn khá độc đáo với một vài điểm nhấn bất ngờ, đặc biệt là món \"không phải tom yum\"! Nhìn chung, hương vị khá đậm đà và rất hợp với cơm trắng.\n\nCá nhân tôi rất thích món tráng miệng sago. Sago có mùi thơm dừa dễ chịu, kết hợp với lớp bánh quy giòn trắng, cùng với một viên kem sorbet ở dưới, tạo nên một món tráng miệng cân bằng, không quá ngọt nhưng vẫn giữ được đầy đủ hương vị. 👍🏻",
+        "time": 1772807587,
+        "translated": true
+      },
+      {
+        "author_name": "J T (Jez)",
+        "author_url": "https://www.google.com/maps/contrib/104005054637990384522/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnkA5Hs9f9uwoZX_kiR66ZYwtWhlZREK3myCOB9_O5z-tDDK66=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Hàu giá 1 đô la tươi ngon và mọng nước. Chúng tôi cũng gọi món gà tẩm gia vị Thái thơm lừng, sườn bò Wagyu Shimo, cơm trộn và món tráng miệng Mango Go đẹp mắt và tươi mát, mỗi món đều được chế biến kỹ lưỡng và rất ngon miệng.\n\nMột địa điểm tuyệt vời cho bữa tối thư giãn, uống đồ với bạn bè hoặc một đêm vui chơi sôi động với không khí tuyệt vời và đồ ăn ngon.",
+        "time": 1766032160,
+        "translated": true
+      },
+      {
+        "author_name": "мιѕѕувєlα2828",
+        "author_url": "https://www.google.com/maps/contrib/101478562766424777257/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_BmLE0CDb3vkPew2hlOPZDHhXFniVfU5vhDYUu0EGQjzJJ85b=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chúng tôi đã có một bữa ăn ngon miệng tại nhà hàng Hue. Chúng tôi gọi món súp Tom Yum, bít tết sườn bò Angus (chín tái), miến đất với tôm sú và thịt xông khói, và chè xoài sago cho món tráng miệng.\n\nMón súp Tom Yum rất đậm đà với sự cân bằng tốt giữa vị chua và cay. Bít tết sườn bò Angus được chế biến vừa phải, chín tái – chỉ hơi béo một chút so với sở thích của chúng tôi. Miến đất thơm ngon, phần ăn khá nhiều, tuy nhiên tôm sú có thể tươi hơn để món ăn thêm phần hấp dẫn. Món tráng miệng kết thúc bằng món chè xoài sago thanh mát.\n\nNhìn chung, một trải nghiệm ăn uống thú vị, mặc dù giá cả hơi cao hơn so với dự kiến. Chúng tôi sẽ quay lại để thử các món khác.",
+        "time": 1766760364,
+        "translated": true
+      },
+      {
+        "author_name": "Chew Chee Chin",
+        "author_url": "https://www.google.com/maps/contrib/110673035627675792942/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEHpgpYEsN1Ih8UDfva7eUhNayW0ErvDsP1jmIUS3LSHV7VNLZwA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Thực đơn tái hiện hương vị Thái quen thuộc qua lăng kính hiện đại, cân bằng giữa sự thoải mái và sáng tạo. •Món khai vị\n- Dưa lưới khai vị\n- Hàu\n- Bạch tuộc nhỏ\n•Món đặc trưng của Huế\n- Tom Yum: Một món tom yum đậm đà, mang đến hương vị sâu lắng mà không quá cay hoặc chua.\n\n•Món từ đất liền và trên không\n- Ba chú heo con: Thịt ba chỉ giòn tan với lớp sốt rau mùi thơm nồng.\n\n- Thịt bò Wagyu Shimo: Nướng nhẹ, mềm và thanh mát.\n\n- Gà rán gia vị Thái: Gà rán vàng giòn được phủ một hỗn hợp gia vị Thái đặc trưng.\n\n•Món hải sản\n- Cơm chiên cua: Cơm chiên thơm mùi nghệ với thịt cua, thêm trứng cá tobiko và tôm sakura ebi tạo nên hương vị và độ giòn.\n\n- Tôm tỏi thơm ngon: Tôm sú xào bơ tỏi. • Đồ uống\n- Red Hurricane\n- Butterfly Effect\n- Thai Milky Way\n\n@cheechin.chew trên Instagram",
+        "time": 1769519108,
+        "translated": true
+      },
+      {
+        "author_name": "sunix J",
+        "author_url": "https://www.google.com/maps/contrib/108621552647902233323/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuAxnZvQkelO_dpe2LdhNBzRrofOZi0lJalhZIndJqFTSnLwoH=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "Súp không nóng khi được phục vụ và thịt bò hơi dai. Hàu tươi và tôi đã gọi 25 con và ăn hết sạch. Món ba chú heo con thì bình thường. Sẽ ngon hơn nếu thịt bò mềm hơn và thức ăn được phục vụ nóng hơn!",
+        "time": 1770996212,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 764
+  },
+  "harvested_at": "2026-04-30T16:06:37.068591"
+}

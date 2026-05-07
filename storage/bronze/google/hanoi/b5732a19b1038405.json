@@ -1,0 +1,24 @@
+{
+  "u_key": "b5732a19b1038405",
+  "original_osm_name": "Son Tay",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.1458783,
+        "lng": 105.488828
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.17173205462748,
+          "lng": 105.524598032868
+        },
+        "southwest": {
+          "lat": 21.11267505196918,
+          "lng": 105.4505449281391
+        }
+      }
+    },
+    "name": "Sơn Tây"
+  },
+  "harvested_at": "2026-04-26T12:45:14.984475"
+}

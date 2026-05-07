@@ -1,0 +1,109 @@
+{
+  "u_key": "7ddf61e38ee0833c",
+  "original_osm_name": "Khách Sạn 103",
+  "google_raw": {
+    "formatted_phone_number": "024 3564 3213",
+    "geometry": {
+      "location": {
+        "lat": 20.9653156,
+        "lng": 105.7931028
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9665667802915,
+          "lng": 105.7943909802915
+        },
+        "southwest": {
+          "lat": 20.9638688197085,
+          "lng": 105.7916930197085
+        }
+      }
+    },
+    "name": "Khách sạn 103 Hà Đông",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Ngọc Bích",
+        "author_url": "https://www.google.com/maps/contrib/116682362830078322894/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVs0gVtlz_Wc1rrfOazd5HWGgLPVXTSgkeD8Qniq3YK6KjhbJAI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng sạch sẽ, nhân viên nhiệt tình, có đỗ xe ô tô thoải mái.",
+        "time": 1750918878,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103262506295124150096/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe2bRT5OaWCR7_TOOlMF1fpJNRLFwBqW5RDEii9-ZTSJSmNeh2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Phòng sạch sẽ, giá cả phải chăng,nhân viên nhiệt tình thân thiên,gần 2 bệnh viện lớn có chỗ đỗ xe ra vào thuận tiện.",
+        "time": 1734939124,
+        "translated": false
+      },
+      {
+        "author_name": "quy nguyen",
+        "author_url": "https://www.google.com/maps/contrib/116685734440199148434/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrAdf6Ho7dwTxfkYaQwIGPMQvybTMB2X6hCoRb6UshGjYVFtE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Ở Hà Nội.. Gần các bệnh viện lớn. Giá tương đối ổn : rẻ nhất 300k/20h-9h hôm sau.\nNhà vệ sinh sạch sẽ. Điều hoà mát.\nGần quán kâraoke nên ai khó ngủ là hơi phiền.\nĐồ ăn đồ uống sẵn. Giá hợp lý.\nVị trí mặt đường dễ tìm. Đỗ xe oto thoải mái.",
+        "time": 1718211104,
+        "translated": false
+      },
+      {
+        "author_name": "Xuân Tiệp Triệu",
+        "author_url": "https://www.google.com/maps/contrib/109776153740025358632/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqxPWCDNveelwW_Vvv4rfYHK53PuWWcQoGkUH54nXfKqlamOE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Chỗ để xe, gần bệnh viện, sạch sẽ",
+        "time": 1761469941,
+        "translated": false
+      },
+      {
+        "author_name": "Luyến Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115767231111169019897/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXY1GaL-RFiyO3GGvazUddM7G1775O_BbINhLXfgJNtD_poDgGe=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn ngay mặt đường rất tiện, vị trí rễ tìm, có chỗ để xe ô tô, phòng sạch sẽ thoảng mát, nhân viên rất thân thiện, mỗi lần đến mjk toàn book phòng ở đây",
+        "time": 1720148761,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 127
+  },
+  "harvested_at": "2026-04-27T19:58:35.852383"
+}

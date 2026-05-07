@@ -1,0 +1,174 @@
+{
+  "u_key": "77c1e463b921bf50",
+  "original_osm_name": "Grill garden",
+  "google_raw": {
+    "formatted_phone_number": "0908 079 077",
+    "geometry": {
+      "location": {
+        "lat": 12.2297843,
+        "lng": 109.1985323
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2311019302915,
+          "lng": 109.1999679802915
+        },
+        "southwest": {
+          "lat": 12.2284039697085,
+          "lng": 109.1972700197085
+        }
+      }
+    },
+    "name": "Vườn Nướng Grill Garden 2 (BBQ Buffet)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–22:00",
+        "Thứ Ba: 17:00–22:00",
+        "Thứ Tư: 17:00–22:00",
+        "Thứ Năm: 17:00–22:00",
+        "Thứ Sáu: 17:00–22:00",
+        "Thứ Bảy: 17:00–22:00",
+        "Chủ Nhật: 17:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Thị thanh thùy Phan",
+        "author_url": "https://www.google.com/maps/contrib/107946996594326137337/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmbJR2ro6_diqyWtpVU8RwKtiQqUrCsdl3yBzD4feU1r-dGyqz=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "1 lần trãi nghiệm nhớ đời. Thịt thì tôi ko rành nhưng hải sản thật sự ko tươi dù đây là khu vực biển. Lần đầu tiên trong đời dính phải 1 chỗ ăn Buffe tệ như vậy. Tôm thì nướng nên xong rồi cảm nhận được sự bỡ của nó nhưng cũng ăn thử và mùi hôi khăn giấy ướt thuốc tẩy như hồ bơi ở đâu đó thật sự mắc ói. Ko biết bên này bảo quản hải sản như thế nào mà để tình trạng tồi tệ như vậy xảy ra. Chồng mình ăn về bị đau bụng nữa nguyên buổi tối mình chỉ ăn chỗ này rồi về thôi\nĐổi lại anh Quản Lý nhiệt tình và thân thiện nhưng nó không thể nào đủ để đổi lại lần trãi nghiệm nhớ đời này 🥲🥲🥲😭\nHèn gì bước vào không có người Việt Nam nào toàn khách nước ngoài 😂 thật sự nếu họ cũng trãi nghiệm như tôi không biết họ đánh giá như thế nào về dịch vụ tại Việt Nam!",
+        "time": 1772917429,
+        "translated": false
+      },
+      {
+        "author_name": "Yuki Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103924201771598046798/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgX5rZU4buVvnuInytgEaY0p8CXcGyOAtVhrxEusZMyB7uEik9=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn hợp khẩu vị. Ngay đường Trần Phú. Giá cả hợp lý 👍",
+        "time": 1772109967,
+        "translated": false
+      },
+      {
+        "author_name": "phuong ngoc",
+        "author_url": "https://www.google.com/maps/contrib/106151260507660907457/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXoXTeSMy4c9Lj3-Xugs-RcS__sp_JCS5SPNuni4dcRgk1DM8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình và những người bạn thân vừa ghé tối nay, phải nói buổi tối quá tuyệt vời, món ăn phong phú, không khí thoáng mát, nhất là nhân viên ở đây rất rất chuyên nghiệp và chu đáo 👍😍 tặng 10 * . Nếu có quay lại Nha Trang mình cũng sẽ ghé GRILL GARDEN trên đường Trần Phú. Ở đây Đặc Biệt có cá sấu nướng than hồng ngon tuyệt 👍🍾",
+        "time": 1759821133,
+        "translated": false
+      },
+      {
+        "author_name": "uyển nhi trần phạm",
+        "author_url": "https://www.google.com/maps/contrib/111729337567935659391/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKR4-6-nm_J11yKRuuLA3Qjf70ZlWUSGi1Etu1x5ExQeD1Cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đồ ăn đa dạng, ngon lắm luôn, không gian mát mẻ.Món ăn món nào cũng tươi, hết món là lên món liền lun.Nhân viên nhiệt tình nựaaa 10 đỉm (cần lắm in4 cụa anh Alen ạa) 🥹",
+        "time": 1750478359,
+        "translated": false
+      },
+      {
+        "author_name": "KoDoiThu",
+        "author_url": "https://www.google.com/maps/contrib/107481827414496969223/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwipj99AvNgv-xCTGzGOnROyToNb8bAVGWx4pZhQlMxpj0zjU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Menu buffet đa dạng, nhân viên phục vụ chu đáo 👍🏻",
+        "time": 1770875431,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1307
+  },
+  "harvested_at": "2026-05-02T15:31:58.057149"
+}

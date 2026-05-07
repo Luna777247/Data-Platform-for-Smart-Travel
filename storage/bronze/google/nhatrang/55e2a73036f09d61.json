@@ -1,0 +1,173 @@
+{
+  "u_key": "55e2a73036f09d61",
+  "original_osm_name": "Cóm Zo Zo",
+  "google_raw": {
+    "formatted_phone_number": "0358 570 000",
+    "geometry": {
+      "location": {
+        "lat": 12.2708536,
+        "lng": 109.2015928
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2721997302915,
+          "lng": 109.2029920802915
+        },
+        "southwest": {
+          "lat": 12.2695017697085,
+          "lng": 109.2002941197085
+        }
+      }
+    },
+    "name": "Cơm nhà ZOZO",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–20:00",
+        "Thứ Ba: 10:00–20:00",
+        "Thứ Tư: 10:00–20:00",
+        "Thứ Năm: 10:00–20:00",
+        "Thứ Sáu: 10:00–20:00",
+        "Thứ Bảy: 10:00–20:00",
+        "Chủ Nhật: 10:00–20:00"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Hồng Hưng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102974521810920707369/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmqS7euUOkbgHmhuwavjkUPN0PnnCg93eUyIjGTW2JPr__m5zJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán hộp cơm như này mà lấy 25k , gà công nghiệp mà tưởng đâu gà trên rừng đem xuống",
+        "time": 1772967615,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán cơm bình dân giá trung bình 20,000 -25,000 vnd/ dĩa.\nPhần mình ăn gọi nhiều đồ ăn giá 45,000 vnd.\nKhi gọi cơm bạn gắp đồ ăn sẽ đưa phiếu giá tiền cho khách, ăn xong sẽ thanh toán.\nĐồ ăn ổn, giá tiền với số lượng thức ăn 5*, vị món ăn 4*.\nQuán để hũ cà pháo ngâm để khách tự lấy ăn trên bàn.\nBạn bán quán thân thiện.",
+        "time": 1756279127,
+        "translated": false
+      },
+      {
+        "author_name": "bi luong",
+        "author_url": "https://www.google.com/maps/contrib/114052446160323911766/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbeFQzgxZ7wBpfijL3tQyqe-NM5heVetvmknhZjwdhMowrZg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tháng trước",
+        "text": "Phần cơm 25k chỉ vỏn vẹn nhiêu đó, rau củ không bỏ cho khách. Thái độ nhân viên khinh khỉnh như là muốn làm cho xong rồi ngồi bấm điện thoại. 3 người bán không chuẩn bị canh cho khách.",
+        "time": 1772860961,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Nhật Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/116473891734942433286/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9BNbmnmWhFTbbrWdCVOzM9-3lSND6_LjUKoQ5jfss_I55Dg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Hợp khẩu vị , cơm ngon phù hợp với người lao động và sinh viên",
+        "time": 1773137479,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Huỳnh Thùy",
+        "author_url": "https://www.google.com/maps/contrib/114947651564877429376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwxOhQ-AxaXTTGA2pWwtCKFWAI1U24B20x9ryPkIek5DOcrw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình ăn ở đây nhiều lần rồi vì cơm ngon rẻ hợp với sinh viên, mấy bạn nhân viên cũng dễ thương nữa",
+        "time": 1773138019,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 101
+  },
+  "harvested_at": "2026-05-02T15:41:32.113177"
+}

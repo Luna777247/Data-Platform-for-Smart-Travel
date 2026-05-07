@@ -1,0 +1,173 @@
+{
+  "u_key": "ea67c05e189aff69",
+  "original_osm_name": "4 Mua - juice bar and snacks",
+  "google_raw": {
+    "formatted_phone_number": "0905 355 750",
+    "geometry": {
+      "location": {
+        "lat": 12.2418681,
+        "lng": 109.193158
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2432010802915,
+          "lng": 109.1945709802915
+        },
+        "southwest": {
+          "lat": 12.2405031197085,
+          "lng": 109.1918730197085
+        }
+      }
+    },
+    "name": "Vitamin Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–21:00",
+        "Thứ Ba: 09:30–21:00",
+        "Thứ Tư: 09:30–21:00",
+        "Thứ Năm: 09:30–21:00",
+        "Thứ Sáu: 09:30–21:00",
+        "Thứ Bảy: 09:30–21:00",
+        "Chủ Nhật: 09:30–21:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Funny Tiger",
+        "author_url": "https://www.google.com/maps/contrib/116447384797706178169/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKf7blPIz3W2B8zj61Xdth-qwtaSYPpcrFGqS1HvxEde6byZhn=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Thích nhất là món smoothies xoài và chanh dây, các món healthy smoothies ở đây rất ngon và chất lượng, mình có thể uống thay cho bữa ăn rất tiện, giá cả lại phải chăng, giá từ 25k đến 45k thôi.",
+        "time": 1719750357,
+        "translated": false
+      },
+      {
+        "author_name": "son le",
+        "author_url": "https://www.google.com/maps/contrib/116638228013048006754/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU6JBTPZpJ8-OoEalGRlWfQ7BzNkSK3xNz3bTKjHdweMmLuWak=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nước ngon,trái cây tươi, nước ép không có đường và pha nước nên uống rất chất lượng",
+        "time": 1719748918,
+        "translated": false
+      },
+      {
+        "author_name": "Xuan Duy Phan",
+        "author_url": "https://www.google.com/maps/contrib/107931758532297739304/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLH9Zlyo2iFVh4QHgogGxcvgJiECSKR6GoRWGzsVJhhMu285Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Trái cây tươi, sinh tố rất ngon. Tôi rất thích!",
+        "time": 1719753820,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Lê",
+        "author_url": "https://www.google.com/maps/contrib/113941898561022566795/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-8lINmRzeQl9y-O2dDCyWiqcCpeNbkRFeA-dz7IkA_gW_Wog=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Sinh tố xoài mix chanh dây siêu ngon.",
+        "time": 1719754147,
+        "translated": false
+      },
+      {
+        "author_name": "Phung Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114590779659990754288/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT26eGkiJFxB-KgEXfWmOnLJH84jzHGG-J8L_5AcAw-TphMQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán mới nhưng nước rất ngon, chất lượng",
+        "time": 1719749257,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 92
+  },
+  "harvested_at": "2026-05-02T15:32:17.110461"
+}

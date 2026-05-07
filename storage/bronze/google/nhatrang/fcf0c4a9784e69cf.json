@@ -1,0 +1,173 @@
+{
+  "u_key": "fcf0c4a9784e69cf",
+  "original_osm_name": "Da Fernando",
+  "google_raw": {
+    "formatted_phone_number": "0258 3880 000",
+    "geometry": {
+      "location": {
+        "lat": 12.24639,
+        "lng": 109.1958309
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2477388302915,
+          "lng": 109.1974324802915
+        },
+        "southwest": {
+          "lat": 12.2450408697085,
+          "lng": 109.1947345197085
+        }
+      }
+    },
+    "name": "Altitude Rooftop Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 15:00–00:00",
+        "Thứ Ba: 15:00–00:00",
+        "Thứ Tư: 15:00–00:00",
+        "Thứ Năm: 15:00–00:00",
+        "Thứ Sáu: 15:00–00:00",
+        "Thứ Bảy: 15:00–00:00",
+        "Chủ Nhật: 15:00–00:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Thu Pham",
+        "author_url": "https://www.google.com/maps/contrib/117635600547374971548/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI54Y-AuKg972Pl3mc1KaMPbsYakCtCp3r6qxH1roS3EUJT-vI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Merry Chirstmas nha cả nhà cùng với Alt Bar. DJ sôi đông , nước uống bắt mắt và ngon miệng . View sang xịn . Anna rất nhiệt tình",
+        "time": 1766585958,
+        "translated": false
+      },
+      {
+        "author_name": "Thi Thanh Thao Le",
+        "author_url": "https://www.google.com/maps/contrib/112326152063627806845/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgcidCI86xeK-wAgVoh4OWeFTuuj7ZILX5FYJ0RmSmC0Iy0qw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không gian ở đây thật sự đẳng cấp – view toàn cảnh thành phố Nha Trang và biển nhìn từ trên cao rất ấn tượng, đặc biệt là lúc hoàng hôn. Âm nhạc chill, ánh sáng vừa phải, tạo cảm giác thư giãn nhưng vẫn sang trọng.\nĐồ uống pha chế rất tinh tế, cocktail vừa miệng và trình bày đẹp mắt. Nhân viên phục vụ thân thiện, chuyên nghiệp và luôn mỉm cười, khiến mình cảm thấy được chào đón ngay từ khi bước vào.",
+        "time": 1760630263,
+        "translated": false
+      },
+      {
+        "author_name": "Tuan Nguyen Anh",
+        "author_url": "https://www.google.com/maps/contrib/109964024232101111784/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpLFKOAR4eYlpVS8D6Smc9Eea6mwyRGDr5Aoxqo162PuSOrg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Altitude Rooftop Bar sở hữu view đẹp và không gian sang trọng. Cocktail được pha hợp khẩu vị mình . Điểm sáng là đội ngũ phục vụ mang đến cảm giác chu đáo tận tình như là Anh Long- chị An rất nhiệt tình đón tiếp chuyên nghiệp, chu đáo. Trải nghiệm tổng thể: nên thử và đáng giá tiền.",
+        "time": 1761581338,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Thái",
+        "author_url": "https://www.google.com/maps/contrib/116801106150563992999/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuOTx9PaEfAyin6Gwkzm69Uk6r_wjfEWnslx5Wr6o3CqdZ5SQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhạc nước đều ổn, , đồ ăn ngon, dv chu đáo , 10đ ko có nhưng. (Anna và mọi người )",
+        "time": 1771515320,
+        "translated": false
+      },
+      {
+        "author_name": "Chung Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100051737533887227024/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOrShm4F6d_od79Rr-gxz7ogjzx2xMTy2R_pkVRII0ok9_XOo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian thoáng mát ngắm được toàn cảnh thành phố Nha Trang, menu đa dạng món. Cảm ơn bạn Ngân đã tư vấn món nước phù hợp với mình. Đáng để trải nghiệm, có dịp tôi sẽ quay lại 😍",
+        "time": 1765070381,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1843
+  },
+  "harvested_at": "2026-04-30T16:08:14.388066"
+}

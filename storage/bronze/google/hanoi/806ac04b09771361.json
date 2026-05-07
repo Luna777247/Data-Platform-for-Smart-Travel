@@ -1,0 +1,88 @@
+{
+  "u_key": "806ac04b09771361",
+  "original_osm_name": "2A Coffee",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0404287,
+        "lng": 105.8454592
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0417710302915,
+          "lng": 105.8468053802915
+        },
+        "southwest": {
+          "lat": 21.0390730697085,
+          "lng": 105.8441074197085
+        }
+      }
+    },
+    "name": "2A Coffee",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Cường Phạm",
+        "author_url": "https://www.google.com/maps/contrib/116907554342254119639/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUikz-cyHzmLCrKrO0wCM_p9-1wq64hL1mhHwPg8K9PeLOswM1Z=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Vị trí đẹp, dễ tìm, không gian tạm ổn để làm việc cũng như trò chuyện với bạn bè.",
+        "time": 1678606237,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Ngọc Tân",
+        "author_url": "https://www.google.com/maps/contrib/117113035543200015789/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcLyJHhCawxF1yXCMvM_Sl_ZzXMRqvTw4f6bn9-JDzKx16bEQeQw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán nhỏ\ngần công viên\nAC chủ quán nhiệt tình\ncà phê ngon",
+        "time": 1678606103,
+        "translated": false
+      },
+      {
+        "author_name": "Mr. Q",
+        "author_url": "https://www.google.com/maps/contrib/100439302731428722128/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBhARPDZhmaFRAKtTJR02E0q4GmZR3IYI-tLy67sPA68VtdY-c=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một điểm đến tuyệt vời ở Hà Nội. Không gian ngoài trời rất thoải mái chuẩn phong cách đường phố Hà Nội. Thiết kế của quán mang phong cách hiện đại nhưng vẫn giữ được nét tinh tế và gần gũi. Thực đơn đồ uống phong phú với nhiều loại cà phê và đồ uống hoa quả chất lượng. Đặc biệt, cà phê ở đây có vị thơm ngon, đậm đà và vừa miệng. Nhân viên thân thiện, nhiệt tình và phục vụ nhanh chóng.",
+        "time": 1723620571,
+        "translated": false
+      },
+      {
+        "author_name": "Đỗ Hiền Giang",
+        "author_url": "https://www.google.com/maps/contrib/103619156081895146075/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsRe5Fb4P8awKoxgZ6hAE-rhTg8jBoGgZA2LIQvy_8HMXMOEz93w=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Cà phê pha máy, không phải máy Italy nhưng nếu cần uống sớm khi các quán pha máy khác chưa mở thì đây là lựa chọn tốt. Hạt, máy xay, máy pha ở mức pre-intermediate.",
+        "time": 1651190451,
+        "translated": false
+      },
+      {
+        "author_name": "N.Đ.C",
+        "author_url": "https://www.google.com/maps/contrib/101729007070537868291/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdQoOyeV3cXcdYXGtPPAgM-40-pMC6YZn5u00OAwqYpYYLZbE=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Cafe ngon, đậm, chỗ ngồi ngay góc phố view đẹp",
+        "time": 1607848879,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23
+  },
+  "harvested_at": "2026-04-26T16:53:12.469766"
+}

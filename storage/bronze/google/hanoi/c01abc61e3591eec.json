@@ -1,0 +1,173 @@
+{
+  "u_key": "c01abc61e3591eec",
+  "original_osm_name": "Coffee 24",
+  "google_raw": {
+    "formatted_phone_number": "0989 348 598",
+    "geometry": {
+      "location": {
+        "lat": 21.0338096,
+        "lng": 105.8473867
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0351366802915,
+          "lng": 105.8487517802915
+        },
+        "southwest": {
+          "lat": 21.0324387197085,
+          "lng": 105.8460538197085
+        }
+      }
+    },
+    "name": "Coffee 24",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–22:30",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "F&B",
+        "author_url": "https://www.google.com/maps/contrib/110158589841725007136/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI23Zl_BcUPNDEA3xxPiRp_XYu6geSlh8kAL54xgeYDJVaJqRk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "món khác thì mình chưa thử, mình chỉ uống cf trứng (đá), vị siêu ngon. Đến HN lần nào cũng ghé uống, ngon hơn các quán cf trứng nổi tiếng khác các bạn ạ.",
+        "time": 1738401187,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh My Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109696955442290209553/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXd7dPGyjDKsqDWuLxkF-mNC1dLiL2WjVprq3UqzI2Gi56ew=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "- Đồ uống: Mình gọi Cappuchino lạnh. Cũng không mấy khi có quán làm Cappu lạnh mà mình thấy gật gù nà. Batender cũng đẹp \"trai\", da trắng... à lạc đề rồi.. - Đồ ăn: Khoai tây lắc phô mai là món rất được yêu thích tại quán. Trên sa bàn đồ ăn đồ uống bình bình của hà đông thì quán này view đẹp, sáng sủa, phục vụ chu đáo. Giá cả mềm hơn hẳn một số quán trong kdt văn quán. . Recommend uống ở đây. Cả đồ ice blended cũng rẻ và chất hơn hẳn nhiều quán. . - Có ngồi ngoài trời, vì là mùa đông nên phù hợp với các đôi chim cu. Thích hợp selfie, sống ảo tí, dân văn phòng.. ^_^. Quán giữ phong độ ạ.. - Trà đào sữa cũng rất ok, nhiều, đẹp mắt, thích hợp cho các tâm hồn hồng hường và các bà mẹ mơ mộng.",
+        "time": 1585690952,
+        "translated": false
+      },
+      {
+        "author_name": "2013 myhamix",
+        "author_url": "https://www.google.com/maps/contrib/100576850912610383730/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCQfaYZ9FXMpYyd7DPzUZOndbLu9JEjQnq7qP96vzJcoxv375unw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán bán nước không để giá, lúc sáng mua 1 ly nước ép dưa hấu bán 35k, chiều cũng như vậy bán 40k nửa ly và có thêm đá. Mẹ mình thắc mắc thì ng bán ko trả lời và coi như không quan tâm .",
+        "time": 1712651262,
+        "translated": false
+      },
+      {
+        "author_name": "duc manh luu",
+        "author_url": "https://www.google.com/maps/contrib/103844971512406285521/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhNZ6hegEAevQ8pTrZrTwWNfy8KT10DFjhQAZ22uWMETSaSdk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Nơi tuyệt vời để ăn sáng và bắt đầu buổi sáng của bạn. Chất lượng tốt và dịch vụ tuyệt vời. Chủ yếu là khách du lịch ở đây nhưng vẫn là một bầu không khí địa phương.\nThực phẩm tuyệt vời và cà phê trứng! Dịch vụ cũng xuất sắc bởi chị Loan và cũng rất thân thiện! Thực phẩm và cà phê rẻ tiền và ngon. Chắc chắn giá trị đồng tiền. Muốn giới thiệu cho tất cả!",
+        "time": 1581497566,
+        "translated": false
+      },
+      {
+        "author_name": "Anouk van Hamersveld",
+        "author_url": "https://www.google.com/maps/contrib/118316053483301223313/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLK4lWRRnWHPA03kX23icJn_BhV7y0mt7qsGfsovGcjMgUvEho=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Had a great Bánh Mỳ here!",
+        "time": 1751093543,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 262
+  },
+  "harvested_at": "2026-04-27T19:58:13.456653"
+}

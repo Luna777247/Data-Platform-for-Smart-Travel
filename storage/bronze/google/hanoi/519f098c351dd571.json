@@ -1,0 +1,174 @@
+{
+  "u_key": "519f098c351dd571",
+  "original_osm_name": "Quán Bia Hơi Cường Hói",
+  "google_raw": {
+    "formatted_phone_number": "0975 363 355",
+    "geometry": {
+      "location": {
+        "lat": 21.0448863,
+        "lng": 105.8168911
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0462653802915,
+          "lng": 105.8182353802915
+        },
+        "southwest": {
+          "lat": 21.04356741970849,
+          "lng": 105.8155374197085
+        }
+      }
+    },
+    "name": "Bia hơi Cường Hói",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Phạm Huy",
+        "author_url": "https://www.google.com/maps/contrib/108092147395999292635/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnj9tTlnUGgY1-08PBtrwMlkF9s0QrCOnwM3q-tDZ-9lL-wj8D=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "quán luôn đông khách, khuyến khích mọi người nên đến sớm hoặc đặt chỗ trước. Ngoài ra nếu ngồi bên ngoài có view hồ Tây, bên trong rộng và có cả phòng kín điều hoà.",
+        "time": 1767111837,
+        "translated": false
+      },
+      {
+        "author_name": "Kieu Thi Hoai Linh",
+        "author_url": "https://www.google.com/maps/contrib/114442142861169141257/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo7SQkvD3DGq7ejLRsPUv5Mf8hqFOXLPEbgTtcgWbcvZXfK7V3CA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Giá hơi cao 1 xíu xíu thôi, chắc do vị trí quán đẹp 🤣 Đồ ăn cũng ổn.",
+        "time": 1768891374,
+        "translated": false
+      },
+      {
+        "author_name": "Nhu Thang Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/118221568727057465372/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWskIyRTy8bzvzY_ZiF9mdhvF9glRoAQGsTT_DXtTHKaiKvNPP9=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Bia hơi Hùng Hói Hồ Tây Hà Nội rất OK, quán lúc nào cũng đông nghẹt khách; tôi có chuyến công tác ra đây và anh em đã cùng nhau nhậu ở quán này, không khí vui và đồ uống cực kỳ chuẩn vị Hà Nội",
+        "time": 1764290151,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Quang Nhân",
+        "author_url": "https://www.google.com/maps/contrib/103672612627417440525/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaOPo0ANHU1Fh3UU3RHV7_TSrhrjnAhiOVS_6drGccsb92OVMRyw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phù hợp tất cả! Quán này đông khách! Lần thứ 3 mình ghé quán này! (Ngày 18/01/2026)",
+        "time": 1768805301,
+        "translated": false
+      },
+      {
+        "author_name": "Tung Ngo",
+        "author_url": "https://www.google.com/maps/contrib/103833683344806568277/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPNsKbQKrvgKjzJ6Z3xkn0PX-vsjJlbp9-s1JvjrTCV0fgtEGV=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Dịch vụ tốt: nhân viên quan sát khách, bia gần hết là mang thêm cho khách\nBia ngon\nQuán đông khách\nĐồ ăn ngon",
+        "time": 1768958666,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2653
+  },
+  "harvested_at": "2026-04-28T16:32:04.658490"
+}

@@ -1,0 +1,109 @@
+{
+  "u_key": "4499accf0b87a0ac",
+  "original_osm_name": "Khách Sạn Lucky 3",
+  "google_raw": {
+    "formatted_phone_number": "024 3938 1988",
+    "geometry": {
+      "location": {
+        "lat": 21.030068,
+        "lng": 105.8470878
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0314824802915,
+          "lng": 105.8483773802915
+        },
+        "southwest": {
+          "lat": 21.0287845197085,
+          "lng": 105.8456794197085
+        }
+      }
+    },
+    "name": "Khách sạn Lucky 3",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Mai Phạm",
+        "author_url": "https://www.google.com/maps/contrib/117577382670677555979/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK08_Ym3VD7rm8fECOYjtxqhQOuVc0Jgj2ZrOVEMio2O7JXhQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Mình có một kỳ nghỉ tuyệt vời tại Lucky 3 Hotel & Travel! Phòng Deluxe rộng rãi, sàn gỗ sáng bóng, decor ấm cúng và có ban công nhỏ ngắm phố cổ rực nắng. Giường rất êm, điều hòa mát và wifi cực nhanh – làm việc, gọi video thoải mái. Vị trí đắc địa: chỉ 5 phút đi bộ đến Hồ Hoàn Kiếm, Nhà thờ Lớn, Train Street và vô số quán cà phê, hàng ăn. Nhân viên lễ tân rất thân thiện và chuyên nghiệp, hỗ trợ check‑in sớm, giữ hành lý sau giờ checkout, đặt tour xe Hạ Long – Sapa cực kì nhanh chóng. Bữa sáng ngon với phở, trứng ốp la, bánh mì, trái cây tươi ăn buffet hoặc gọi món. Spa và rooftop cũng rất dễ chịu để thư giãn. Giá phòng rất hợp lý so với chất lượng, nhất định sẽ quay lại!",
+        "time": 1751514599,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Yen Nhi Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/117439044097332656817/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsbuGkFE5glVblh0ILIHC71i_8Q3Ye5mkfcHYwFgI2XHglRBKv=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "Phòng quá hôi, ẩm thấp, yêu cầu đổi phòng nhưng nhân viên ko hỗ trợ, quá tệ",
+        "time": 1759515393,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104200109304371931372/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFcrBA6cJ7-n60cEZJHHYuiS_yCZjreIA8fq4bkreAGKGdm6Q5VA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mọi thứ đều tuyệt vời, mình có chuyến đi du lịch ở Hà Nội và khách sạn đã đón tiếp, phục vụ mình rất chu đáo. Nhân viên nice, dịch vụ tốt, phòng rất sạch sẽ và ấm ấp, vibe rất Hà Nội nha, lần sau ghé Hà Nội mình sẽ quay lại khách sạn này",
+        "time": 1743589918,
+        "translated": false
+      },
+      {
+        "author_name": "Tùng Anh",
+        "author_url": "https://www.google.com/maps/contrib/113716773971297031748/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnUdpDmnqda8-eFZUxAkntCMNR7EORbDq-Cxd6rRDcJN_j6w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Dịch vụ và phòng ko như trong ảnh.phong quá trật như nhà nghỉ 1 sao.nguồn nước có vẻ ko sạch.mang tiếng 3 sao.đi 1 lần và ko quay lại nữa.",
+        "time": 1750381325,
+        "translated": false
+      },
+      {
+        "author_name": "nguyen anh",
+        "author_url": "https://www.google.com/maps/contrib/105403556474321282448/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI31uwVv7pWaQON3e7zxxy_JShlg0ek2Rq3Y0-equ7xh_O4iw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "8 tháng trước",
+        "text": "Vị trí trung tâm, tuy nhiên các thiết bị đã cũ, có muỗi, hệ thống thoát nước chảy rất ồn",
+        "time": 1754817843,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 275
+  },
+  "harvested_at": "2026-04-28T16:09:47.869735"
+}

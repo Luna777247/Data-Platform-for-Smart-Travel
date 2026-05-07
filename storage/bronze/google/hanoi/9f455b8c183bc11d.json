@@ -1,0 +1,174 @@
+{
+  "u_key": "9f455b8c183bc11d",
+  "original_osm_name": "Cà Phê DC",
+  "google_raw": {
+    "formatted_phone_number": "0948 128 181",
+    "geometry": {
+      "location": {
+        "lat": 21.0116786,
+        "lng": 105.8082991
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0130799802915,
+          "lng": 105.8096975802915
+        },
+        "southwest": {
+          "lat": 21.0103820197085,
+          "lng": 105.8069996197085
+        }
+      }
+    },
+    "name": "DC Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Long Quang Pham",
+        "author_url": "https://www.google.com/maps/contrib/102347596730989506819/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOCCZZctdGMICvG6q08ojtyJ1Vt5AII8Ob8psIYRW94uovDWPw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 năm trước",
+        "text": "Cafe rang xay khá ổn. Hạt rubosta nhưng được rang xay mộc, không tẩm ướp thêm. Chỗ ngồi thoải mái, được hút thuốc lá. Giá thành hợp lý và thích hợp ngồi cafe, ăn cơm văn phòng không quá sang chảnh.",
+        "time": 1649050883,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Lai",
+        "author_url": "https://www.google.com/maps/contrib/118180463345181281297/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXXp4Y0vZvC-EPiV3QRDmaGB8qZJu9I84e6M-yCTAjUgGSQXnZLw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán có view khá mát mẻ, có điều hòa, có band nhạc sống chuyên nghiệp và những người bạn yêu âm nhạc có thể tới vào sáng T7 hàng tuần để giao lưu âm nhạc nhé",
+        "time": 1538593733,
+        "translated": false
+      },
+      {
+        "author_name": "Lập Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109837329745547288676/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZTT_qf5NVYq6pj0SdHK5sUuVr2M1QFtn0BtuseD3quwLjV32v=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Không gian cũng được giá hợp lý, ghế ngồi khá thoải mái.",
+        "time": 1553750597,
+        "translated": false
+      },
+      {
+        "author_name": "Đỗ Trần Hạnh Dung",
+        "author_url": "https://www.google.com/maps/contrib/115926882438911160198/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKyHx1pw59JIvreWd36a3k-eUDdR4hSPo9BFSaty9q1b7Vc6dh=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Đây là quán cà phê văn phòng.\nĐồ uống vừa phải chất lượng. Tuy không xuất sắc nhưng pha chế vừa miệng khách. Không bị pha tạo quá nhiều. Như bình thường mình uống ở ngoài chỉ có 1/10 ly là dứa thì ở đây được 2/5 ly là dứa. Như mình lần sau ghé sẽ chọn bơ vì cảm thấy ngon hơn.\nHôm đó tìm quán cà phê gần tòa nhà 167 Nguyễn Ngọc Vũ để tiếp khách thì thấy quán này là sạch sẽ khang trang nhất. Vệ sinh quán cũng rất sạch. Đây là điểm cộng to đùng dành cho quán.\nGiá cả thì không phải rẻ các bạn có thể cân nhắc từ ảnh hóa đơn của mình.",
+        "time": 1561217348,
+        "translated": false
+      },
+      {
+        "author_name": "khanh ngoc",
+        "author_url": "https://www.google.com/maps/contrib/110447159922039086095/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNo-LLQBCMB2fRtXQIw42LDnon9EA-hf56UtUpB4c-_GYguCMq=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Cũng dk là nơi tám chuyện tốt đồ uống basic thôi",
+        "time": 1628438627,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 131
+  },
+  "harvested_at": "2026-04-27T19:57:58.886944"
+}

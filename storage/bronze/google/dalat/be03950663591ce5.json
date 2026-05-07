@@ -1,0 +1,174 @@
+{
+  "u_key": "be03950663591ce5",
+  "original_osm_name": "Com Chay Thanh Dam",
+  "google_raw": {
+    "formatted_phone_number": "0979 435 516",
+    "geometry": {
+      "location": {
+        "lat": 11.9494645,
+        "lng": 108.4378441
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9507525302915,
+          "lng": 108.4392694802915
+        },
+        "southwest": {
+          "lat": 11.9480545697085,
+          "lng": 108.4365715197085
+        }
+      }
+    },
+    "name": "Cơm chay Thanh Đạm",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1830"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1830"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1830"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1830"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1830"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1830"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–18:30",
+        "Thứ Ba: 06:30–18:30",
+        "Thứ Tư: 06:30–18:30",
+        "Thứ Năm: 06:30–18:30",
+        "Thứ Sáu: 06:30–18:30",
+        "Thứ Bảy: 06:30–18:30",
+        "Chủ Nhật: 06:30–18:30"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Ngọc Thảo Bách",
+        "author_url": "https://www.google.com/maps/contrib/114458233156703128188/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWYKxFIgxJO9uoZTI45yr05zgu9ylQ5v7XMZ465RPIGfjy05q6=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán dễ tìm ngay mặt lộ, có chỗ đậu xe máy,lại gần chùa. Đa dạng món ăn, mùi vị hấp dẫn. Khá hợp vị mình.\nCó bán thêm bánh, chè, gỏi cuốn...\nGiá cả thì tương đối. Mình ăn phở bò viên 30k, ngon nha!!! Lần sau lên sẽ thử món khác",
+        "time": 1763869886,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Tran",
+        "author_url": "https://www.google.com/maps/contrib/106435911227192700440/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJiSDWcvZZWlogLScEShzHbabxGXFB-hfJtjTwHoRfjaHp7GQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Hộp bún trộn như này không có thứ gì hết mà 35k quá mắc ( mình hay ăn quán này chỉ có 20k một hộp thôi )",
+        "time": 1771890479,
+        "translated": false
+      },
+      {
+        "author_name": "徳善",
+        "author_url": "https://www.google.com/maps/contrib/111058395293899355647/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvB64d7iWSfcvToU_pztHFbkX-ePyurC-PrdjMA37raDOXO6QM=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán nhỏ, bàn ghế hơi ít, giá thì bình dân. Đồ ăn ở đây ổn. Nhưng do gần đường nên hơi ồn ào 1 chút, được cái gần sát chùa Linh Sơn nên có thể để đi chùa về rồi ăn cơm chay phát nguyện được",
+        "time": 1748062481,
+        "translated": false
+      },
+      {
+        "author_name": "TRỌNG PHAN",
+        "author_url": "https://www.google.com/maps/contrib/107137128096086080762/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7iRnWJ1goD-joEzIMV2Bdzyo7o2Aty-ZD7r0Zy5NJ4rhC5f6-=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhiều món đa dạng, có cả các loại bánh gói, bánh cuốn. Giá cả cũng bình dân. Đồ ăn khẩu vị hơi đậm đà. Có lẽ là khẩu vị chung của người dân bản địa nơi đây. Ông chủ tiệm vui vẻ. Nhân viên cũng nhiệt tình.",
+        "time": 1725256190,
+        "translated": false
+      },
+      {
+        "author_name": "Trọng Kim Ng",
+        "author_url": "https://www.google.com/maps/contrib/100662366061959161181/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVq7AXg4sYwwpn_SawstfUUkRVtgrByl1cFgkjP35Gqr4e0ZXHY=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cơm thập cẩm 35k ăn khá là no đồ ăn cũng nhiều khách địa phương đông",
+        "time": 1760343848,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 313
+  },
+  "harvested_at": "2026-04-29T21:18:57.656492"
+}

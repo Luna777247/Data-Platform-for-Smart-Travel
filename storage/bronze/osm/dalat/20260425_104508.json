@@ -1,0 +1,132 @@
+[
+  {
+    "u_key": "352e11d6adbe21e0",
+    "name": "KDL Đá Tiên",
+    "type": "park",
+    "city": "dalat",
+    "address": "Hoa Hồng",
+    "location": {
+      "lat": 11.8829659,
+      "lon": 108.417803
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "7fa838bec4c7dbc7",
+    "name": "Vườn hoa thành phố Đà Lạt",
+    "type": "park",
+    "city": "dalat",
+    "address": "Trần Nhân Tông",
+    "location": {
+      "lat": 11.9502809,
+      "lon": 108.4499447
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "8bceaf4b365fcd55",
+    "name": "Làng hoa thái phiên",
+    "type": "park",
+    "city": "dalat",
+    "address": "Ngô Gia Tự",
+    "location": {
+      "lat": 11.9726307,
+      "lon": 108.4824558
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "1278fec5ca22b304",
+    "name": "Đồi trà cầu đất",
+    "type": "park",
+    "city": "dalat",
+    "address": "Quốc lộ 20",
+    "location": {
+      "lat": 11.8822454,
+      "lon": 108.5574775
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "4e3deaef254dfbe0",
+    "name": "RỪNG NA UY cafe",
+    "type": "park",
+    "city": "dalat",
+    "address": "Hùng Vương",
+    "location": {
+      "lat": 11.9381909,
+      "lon": 108.4833207
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "8cf774e04da77db0",
+    "name": "Unnamed",
+    "type": "park",
+    "city": "dalat",
+    "address": "Tự Phước",
+    "location": {
+      "lat": 11.9424801,
+      "lon": 108.4867175
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "00feafd158a1351b",
+    "name": "Villa Biệt Thự Đỏ",
+    "type": "park",
+    "city": "dalat",
+    "address": "Trịnh Hoài Đức",
+    "location": {
+      "lat": 11.9484903,
+      "lon": 108.4829426
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "92347262fd4f5845",
+    "name": "Giọt Sương Bay Lên Home Garden",
+    "type": "park",
+    "city": "dalat",
+    "address": "Trần Thái Tông",
+    "location": {
+      "lat": 11.9418356,
+      "lon": 108.4724005
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "eb6f1fbf3e591708",
+    "name": "Villa Hotel Thao Nguyen",
+    "type": "park",
+    "city": "dalat",
+    "address": "võ trường toản",
+    "location": {
+      "lat": 11.9592463,
+      "lon": 108.4435099
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  },
+  {
+    "u_key": "79ddd54075941e38",
+    "name": "Reo 20° Chill in Dalat",
+    "type": "park",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8881164,
+      "lon": 108.4129067
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:45:08.142773"
+  }
+]

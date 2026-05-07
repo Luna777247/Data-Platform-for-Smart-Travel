@@ -1,0 +1,173 @@
+{
+  "u_key": "8b8051045d0eb85a",
+  "original_osm_name": "Quan Minh Tý",
+  "google_raw": {
+    "formatted_phone_number": "0964 141 168",
+    "geometry": {
+      "location": {
+        "lat": 16.0325805,
+        "lng": 108.2189684
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0338748802915,
+          "lng": 108.2203237302915
+        },
+        "southwest": {
+          "lat": 16.0311769197085,
+          "lng": 108.2176257697085
+        }
+      }
+    },
+    "name": "Minh Quán",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "TRUNG TRAINER",
+        "author_url": "https://www.google.com/maps/contrib/109475415073469891376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7GLl03TWFwOshD570bqXrmoK0xrrfPyKwnIeoQxdMlHlquHVU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán đồ ăn ngon, nhất là hàu mỡ hành\nNằm ngay vị trí mặt tiền thoáng mát",
+        "time": 1767291274,
+        "translated": false
+      },
+      {
+        "author_name": "Thạch Nguyễn Đức",
+        "author_url": "https://www.google.com/maps/contrib/110805202132177921747/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2Lkw6SoVI1qdjdJhgwoJLud2hCb4LJcQsteVdPMRul8xA7Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán đồ ăn sạch sẽ, ngon miệng, anh chủ quán nhiệt tình. 5 sao cho quán. Đi du lịch Đà Nẵng lại chắc chắn sẽ ghé quán tiêp.",
+        "time": 1753370910,
+        "translated": false
+      },
+      {
+        "author_name": "appquanlycongviec",
+        "author_url": "https://www.google.com/maps/contrib/108864166827010200941/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGNJCFQx4YOYWhmkCaShqmObfIldZWkSNh05whvmk6ubJKU5Y=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nhiều món ngon, tươi. Chế biến hợp gu. Có bia không độ. Có phòng cho nhóm 20 người. Mặt bằng chỗ này rộng thoáng. Tiếc là quên chụp ảnh. Hôm nào ghé lại tiếp rồi chụp vài cái hình, cho chủ quán 5*",
+        "time": 1763528421,
+        "translated": false
+      },
+      {
+        "author_name": "Tín Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117089903234121697154/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvNtwo9M-hM9uJhttOzzkDzTdw4Ezq0YuYscfRYL5LD5-G-Nw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quá tuyệt vời. Từ không gian, đến đồ ăn, cách phục vụ và set up rất chỉnh chu và ngon miệng. Sẽ luôn ghé tới quán để giao lưu",
+        "time": 1763531098,
+        "translated": false
+      },
+      {
+        "author_name": "Thêm Xem",
+        "author_url": "https://www.google.com/maps/contrib/108514698711089202483/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKX9zqZutdkspbC-ctDJe2xJhNFTNVZIEDN0ONOOeLLy8Vwzh_=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Mọi món ăn rất ok. Riêng món sườn que nướng không chấp nhận được. Không giống món nướng, mà như là hầm cho nhừ xong mang ra hơ qua lửa. Không có cảm nhận tốt về quán.",
+        "time": 1749637668,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 72
+  },
+  "harvested_at": "2026-04-29T09:55:27.349439"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "7abdf42ff00e8226",
+  "original_osm_name": "Cà Phê Countryside",
+  "google_raw": {
+    "formatted_phone_number": "0378 534 927",
+    "geometry": {
+      "location": {
+        "lat": 21.0336365,
+        "lng": 105.8472338
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0350380802915,
+          "lng": 105.8485765802915
+        },
+        "southwest": {
+          "lat": 21.0323401197085,
+          "lng": 105.8458786197085
+        }
+      }
+    },
+    "name": "Countryside Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–00:30",
+        "Thứ Ba: 10:00–00:30",
+        "Thứ Tư: 10:00–00:30",
+        "Thứ Năm: 10:00–00:30",
+        "Thứ Sáu: 10:00–00:30",
+        "Thứ Bảy: 10:00–00:30",
+        "Chủ Nhật: 10:00–00:30"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Dương Duyên",
+        "author_url": "https://www.google.com/maps/contrib/100701215564167740741/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS2pjXDTXLsCT7QCTcijixOGQ1Z5hYPyW4tBPp_YviTNzcqBM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhà hàng trung tâm . Cuối tuần chúng tôi đi chơi phố cổ . Nhà hàng mở muộn 11h45pm chúng tôi ghé qua họ vẫn mở cửa .đồ ăn ngon , nhân viên nhiệt tình",
+        "time": 1772365881,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Trung Tâm",
+        "author_url": "https://www.google.com/maps/contrib/110418029158313644627/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8iqVC68XZ65usKCKOUN6v7b54w81STH8-645fiPwkUSqXzv0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhà hàng trung tâm , chủ yếu món ăn địa phương . Họ mở rất muộn , khi chúng tôi đến rất nhiều du khách cũng ở tại đây",
+        "time": 1772434274,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Quân",
+        "author_url": "https://www.google.com/maps/contrib/114939508274201301334/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvxdxrZQdCIXPjEDKrSCrxMX2L6PrSg1R9NF8F--bJBMQqK68=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhà hàng trung tâm phố cổ , họ mở muộn nhất . Chúng tôi hỏi nhân viên họ báo 11h55pm mới đóng bếp . Tuyệt vời chúng tôi đang rất đói   tìm chỗ ăn mà không có . Chúng tôi được thưởng thức đồ ăn địa phương thật ngon , dịch vụ chu đáo tận tình . Địa chỉ uy tín",
+        "time": 1772355572,
+        "translated": false
+      },
+      {
+        "author_name": "Teaa",
+        "author_url": "https://www.google.com/maps/contrib/104074018029895098046/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcWR649ApowEH1gjBdBaWvZ3rPNZ9ncQnV9UQClvZrHy0zXQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn của nhà hàng rất ngon . Trung tâm phố cổ . Họ cũng thông báo mở cả dịp tết và sẽ phụ thu 10% tổng hóa đơn .",
+        "time": 1770905138,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Tuan",
+        "author_url": "https://www.google.com/maps/contrib/109711379466470975640/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIk10Q3MA2zHJb_bng--kRj0HvHaet8FopsQW_rRp-FqaIP4Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn đồng quê địa phương rất ngon hợp khẩu vị du khách quốc tế . Dịch vụ tận tình , hướng dẫn du khách",
+        "time": 1762176820,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1002
+  },
+  "harvested_at": "2026-04-26T16:52:38.127779"
+}

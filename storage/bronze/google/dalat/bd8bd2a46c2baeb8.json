@@ -1,0 +1,173 @@
+{
+  "u_key": "bd8bd2a46c2baeb8",
+  "original_osm_name": "Bun Cha Ha Noi",
+  "google_raw": {
+    "formatted_phone_number": "0978 707 484",
+    "geometry": {
+      "location": {
+        "lat": 11.9425529,
+        "lng": 108.4290536
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9439743802915,
+          "lng": 108.4304152302915
+        },
+        "southwest": {
+          "lat": 11.9412764197085,
+          "lng": 108.4277172697085
+        }
+      }
+    },
+    "name": "bún chã Hà Nội",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0615"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:15–17:00",
+        "Thứ Ba: 06:15–17:00",
+        "Thứ Tư: 06:15–17:00",
+        "Thứ Năm: 06:15–17:00",
+        "Thứ Sáu: 06:15–17:00",
+        "Thứ Bảy: 06:15–17:00",
+        "Chủ Nhật: 06:15–17:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Binh Nguyen Internet",
+        "author_url": "https://www.google.com/maps/contrib/104104812249054626531/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4-tSj9qFjixj87q7YHr6Ao1sclMLy25edbAgznRZ0TKP7tR-6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Chả nướng cũng rất hà nội. Nước chấm vừa ăn. Vợ mình rất thích món chả thịt nướng ở đây. Tụi trẻ con thì chỉ ăn bún và nước mắm 😁",
+        "time": 1729820251,
+        "translated": false
+      },
+      {
+        "author_name": "Tường Anh",
+        "author_url": "https://www.google.com/maps/contrib/112090540154197028326/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwG-c5jxAxmYFaA5mCKDcbZp3ZxbzFb4D4_aG3BbTpeABmKf72=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán đẹp, đồ ăn món nào cũng ngon, giá ok",
+        "time": 1736082526,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109857920604998515055/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIoiQVVqk6f8N6UwZt_YlYbT_fBt_ma1fsQz2Zfx2ZkF64-Qg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Thịt nướng tại chỗ, ngon, giá cả so với mặt bằng chung",
+        "time": 1724290561,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112544259048708852599/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIi523Ey5wTwaZA9aE1XEN4GS5gO9QZxIdqNtsN9qbNlsSHhw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "So với mặt bằng chung tại Đà Lạt thì mình thấy giá cả ổn, thịt nướng tại chỗ nóng ngon",
+        "time": 1728264309,
+        "translated": false
+      },
+      {
+        "author_name": "Lap Hoang",
+        "author_url": "https://www.google.com/maps/contrib/102116331846341729929/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQoDXvnjmdfbDcNz2dspVIme6RaC9r0QMkAhyNDsAtml1gmQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Quá mắc.ai ăn rồi sẻ thấy tệ ntn.nói chung ko dám quay lai :))",
+        "time": 1712288230,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 12
+  },
+  "harvested_at": "2026-04-29T21:19:51.101336"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "9c80cf15f93140ea",
+  "original_osm_name": "Tom's coffe",
+  "google_raw": {
+    "formatted_phone_number": "0905 779 311",
+    "geometry": {
+      "location": {
+        "lat": 12.2944009,
+        "lng": 109.1837454
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2957164802915,
+          "lng": 109.1850889802915
+        },
+        "southwest": {
+          "lat": 12.29301851970849,
+          "lng": 109.1823910197085
+        }
+      }
+    },
+    "name": "Tom's Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Huyy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111913310701976903831/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFgjmyjhwDH11Io4HoTNXlKBG3ZJETU8bp3B-UkvH8YFbqgtE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không gian với vibe Đà Lạt giữa lòng thành phố biển Nha Trang. Nhà gỗ cùng với lối trang trí cổ điển, phù hợp với những người yêu sự yên tĩnh.\n\nThời điểm phù hợp nhất có thể đến quán là chiều tà và sáng sớm, ngắm nhìn Nha Trang từ trên cao.\n\nCây xanh xung quanh tạo cảm giác mát mẻ và ấm cúng.\n*Sẵn ghé ủng hộ tiệm tạp hoá của ngoại ở kế quầy cafe nhe 😍",
+        "time": 1769910181,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Đình Mạnh Đạt (Arima)",
+        "author_url": "https://www.google.com/maps/contrib/110950829033309687433/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVh5KtQugxRwJ8445094whWO5NX2OSGBV3xAPqcOfRXwV-V0oqmbw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tuy ở Nha Trang nhưng rất là Đà Lạt, muốn bước vô quán này thì các bạn phải để ý cái bảng chỉ dẫn 1 tí, ở đây không gian quán rất yên tỉnh, chỉ có khung giờ sáng thường là quán sẽ rộn ràng tí, ở đây T7 Chủ Nhật hằng tuần sẽ có ca nhạc,với nước uống thì theo đánh giá của tôi là tạm ổn, xung quanh có rất nhiều thú cưng, chúng rất thân thiện bạn có thể thoái mái sờ chúng, ngoài ra thôi ấy có quầy bán đồ ăn vặt nữa",
+        "time": 1771175810,
+        "translated": false
+      },
+      {
+        "author_name": "Tịch Nguyễn Văn",
+        "author_url": "https://www.google.com/maps/contrib/103135566620593875770/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaNQB2eE-IWoycp699sWlXtBfomZMUoTMk-lE3aH7P-VM1FyPT=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán view rất đẹp ngắm về thành phố, nằm trên núi, view chill, nước ngon giá ổn",
+        "time": 1772026013,
+        "translated": false
+      },
+      {
+        "author_name": "Irina Khmylnikava",
+        "author_url": "https://www.google.com/maps/contrib/118107843260881084981/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtRkyQWwxlLoctq3IlNU5nRIqXXLaCyHPC50j4vVLi__ACBMg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "quán cà phê yên tĩnh. các chàng trai mỉm cười. bà đan cây thông Noel và đồ chơi. đồ uống rất ngon. quang cảnh thành phố. Tuyệt vời cho những cuộc hẹn hò. Tôi nghĩ chúng ta có thể có những ngày nghỉ.",
+        "time": 1765243881,
+        "translated": false
+      },
+      {
+        "author_name": "Huyen Mai",
+        "author_url": "https://www.google.com/maps/contrib/112170576795662798022/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQ6Y0A7_FhEpsR6n-1JftcQ4iMSZX3gFli6ibg5WCrec4qwYdW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khá bất ngờ cách ngay TT Nha Trang chưa tới 10km có quán cafe chill chill ntn. Cảm nhận như đang ngồi giữa thiên nhiên Đà Lạt vậy. Giá đồ uống rất dễ chịu, em Hương chủ quán thì siêu dễ thương và chiều khách.\n\nGóc nào lên hình cũng yêu, cảm nhận rõ không khi Noel rồi.",
+        "time": 1764977929,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 337
+  },
+  "harvested_at": "2026-05-02T15:38:40.359208"
+}

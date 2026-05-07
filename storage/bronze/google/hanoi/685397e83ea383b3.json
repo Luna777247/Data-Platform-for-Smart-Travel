@@ -1,0 +1,61 @@
+{
+  "u_key": "685397e83ea383b3",
+  "original_osm_name": "Nhà nghỉ Hạ Vy",
+  "google_raw": {
+    "formatted_phone_number": "0865 338 456",
+    "geometry": {
+      "location": {
+        "lat": 21.0451116,
+        "lng": 105.7857535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0465296802915,
+          "lng": 105.7871017802915
+        },
+        "southwest": {
+          "lat": 21.0438317197085,
+          "lng": 105.7844038197085
+        }
+      }
+    },
+    "name": "Nhà Nghỉ Hạ Vy 2",
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Thu Tran",
+        "author_url": "https://www.google.com/maps/contrib/109284970334105748161/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZwyn3nSLV5jO_XF8Az9pIPxTYMA_wOl8NNxw_C-7jVSzm1g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Khá tốt với giá tiền, chỉ có chủ nhà nghỉ hay quên đặt phòng 😄",
+        "time": 1753525793,
+        "translated": false
+      },
+      {
+        "author_name": "Kien Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/113140413232655207545/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLQ-pUyHtb-yQgxatOEBZKASx_Q66ujiLp-XXgcDzj0pmsHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "11 tháng trước",
+        "text": "",
+        "time": 1748474593,
+        "translated": false
+      },
+      {
+        "author_name": "Cương Mai",
+        "author_url": "https://www.google.com/maps/contrib/100975222880444483170/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh5RRXzwlCZQ0I7Tyto_5ji1-sHKVaqx74x3uJAiC7fMVHyg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1728199837,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-04-26T12:45:02.984058"
+}

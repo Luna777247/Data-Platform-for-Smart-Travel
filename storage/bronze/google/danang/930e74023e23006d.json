@@ -1,0 +1,173 @@
+{
+  "u_key": "930e74023e23006d",
+  "original_osm_name": "Hi Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0363 886 668",
+    "geometry": {
+      "location": {
+        "lat": 16.0441228,
+        "lng": 108.2458593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0454756302915,
+          "lng": 108.2472059802915
+        },
+        "southwest": {
+          "lat": 16.0427776697085,
+          "lng": 108.2445080197085
+        }
+      }
+    },
+    "name": "Hi Coffee & Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Ly Đàm",
+        "author_url": "https://www.google.com/maps/contrib/110220978900204839962/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI65WMDXnBKVGlp1dxjpXVR_p_D58TP8-cir5h0ZsFF-orJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Tôi tới đây hàng ngày cafe trưng và cafe muối rất ngon có cả đồ ăn cũng vậy tôi đã ăn gần hết các món trong menu của họ\nKhông gian thoáng có hồ cá rất tự nhiên đáng để chúng tôi đến thư giãn\nNhân viên thân thiện rất hữu ích",
+        "time": 1773133291,
+        "translated": false
+      },
+      {
+        "author_name": "Nga Huynh Thi Thanh",
+        "author_url": "https://www.google.com/maps/contrib/102841750290883346687/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIV1tgV7m55JOStjMIWHgINyng_BFlkCxD1Tjn1g40j4x5nkzQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán dễ thương, không gian xanh mát, rất thư giãn cho 1 ngày cuối tuần. Các bạn nhân viên dễ thương ạ.",
+        "time": 1763190413,
+        "translated": false
+      },
+      {
+        "author_name": "Diệp Anh Phạm",
+        "author_url": "https://www.google.com/maps/contrib/107367108559349351168/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJt6y3uk7LpUDmLKcqZ8EMzA5SZ8rsNuUs3amlyhCBgFk_qhBc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Trải nghiệm rất tuyệt vời. Khung cảnh chill chill tiếng nước chảy róc rách cá bơi lượn lờ rất đẹp, đồ ăn đồ uống rất ngon. Không gian thoáng đãng rất mát mẻ. Nhân viên siêu thân thiện dễ thương, giá hợp lý",
+        "time": 1754580387,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Hoangthikim",
+        "author_url": "https://www.google.com/maps/contrib/100878326494473208491/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDfyA5qZ4vfRnumvRDX9JcvrvLJjFUOTd_RmQHXY_PXnF_Jg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đây là quán mà tôi thường đến hàng tuần. Không gian quán rộng rãi, nhân viên thân thiện và đồ uống ngon.",
+        "time": 1768113224,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Trung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108731936673658045050/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnJKUeudMPFGhDm73D8lgTCeEoK_ARrfQZhs7rJ3NLGUT6oA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trải nghiệm các món ăn rất ngon. Tất cả đều nhẹ nhàng và hài lòng",
+        "time": 1767280614,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 83
+  },
+  "harvested_at": "2026-04-29T09:38:00.848073"
+}

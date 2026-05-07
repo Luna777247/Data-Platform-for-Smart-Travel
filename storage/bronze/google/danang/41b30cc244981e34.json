@@ -1,0 +1,173 @@
+{
+  "u_key": "41b30cc244981e34",
+  "original_osm_name": "Hai (Mì Quang - Cao Lâu)",
+  "google_raw": {
+    "formatted_phone_number": "0356 838 772",
+    "geometry": {
+      "location": {
+        "lat": 16.077239,
+        "lng": 108.2430206
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0785852802915,
+          "lng": 108.2442837302915
+        },
+        "southwest": {
+          "lat": 16.0758873197085,
+          "lng": 108.2415857697085
+        }
+      }
+    },
+    "name": "Mỳ Quảng Cao lầu Hà",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–18:00",
+        "Thứ Ba: 06:00–18:00",
+        "Thứ Tư: 06:00–18:00",
+        "Thứ Năm: 06:00–18:00",
+        "Thứ Sáu: 06:00–18:00",
+        "Thứ Bảy: 06:00–18:00",
+        "Chủ Nhật: 06:00–18:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Dương Vianh",
+        "author_url": "https://www.google.com/maps/contrib/116531915418724140773/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIxCkwvoyfhVVsxRz3tayMtKjMZWLYDvV7G2kHcReiwGMLpsXqyQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần đầu tiên trong cuộc đời mình ăn mì quảng :))) nhưng quán này rất ngon nhé: thịt rất thơm chứ k bị hoy như 1 số đánh giá đâu ( chắc do hên ) bát mình gọi là đầy đủ, fen nào mà ăn được ít có thể gọi các bán 1 topping thui tại mình gọi bán này là ăn k hết 100% đâu á! Nên thử nha các fen ngon lắmm 😋",
+        "time": 1772012982,
+        "translated": false
+      },
+      {
+        "author_name": "Vui Song",
+        "author_url": "https://www.google.com/maps/contrib/110104103528046981473/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1xeX0qVlISbkWV9ZHXoK23YZAlKQfvAu3pBa8ba-eeIIdHRRn=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mỳ quảng ngon, quán sạch sẽ sáng sủa, phục vụ nhanh, giá hợp lý, nhưng với mình hay ăn nhạt thì món thịt, trong mỳ mặn nên cảm giác ngon của mình giảm đáng kể",
+        "time": 1759455554,
+        "translated": false
+      },
+      {
+        "author_name": "Ký Sự Du Lịch",
+        "author_url": "https://www.google.com/maps/contrib/115410719559011821766/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr36PbKwLz_ksMVLd_hlQyxGriHzUAnwGZAabzO0swFDwvf4_s=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cao lầu và mỳ quảng đều ngon. Rất đậm vị. Quán lịch sự, giá cả hợp lý",
+        "time": 1754617598,
+        "translated": false
+      },
+      {
+        "author_name": "Long Hoang",
+        "author_url": "https://www.google.com/maps/contrib/117589169843827601975/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIwQVXM_0QoY668VOjX9I66BPP86uo8unsOU23EOwMOBBAMvAj=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Cao lầu rất ngon, thịt hơi mặn chút so với khẩu vị mình. Có món nước tía tô khá lạ, phải làm hẳn 2 chai đem đi :v",
+        "time": 1751457249,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111321819707611580064/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrxidTm3hKNbmYpenQ_ywFcK2k_B3_zjhdXOppNb9CCYyXLwW8=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ăn ở đây cách 2 năm lúc mới hết dịch, năm nay đi lại thấy quán đã được xây sửa lên đẹp hơn. Về chất lượng thì cá nhân mình thấy ngon hơn rất nhiều những chỗ mà được quảng cáo trên mạng nhưng giá thì siêu bình dân, phục vụ nhiệt tình.\nMỗi năm đi Đà Nẵng là phải ghé quán này ăn, năm nay đổi vị ăn cao lầu, bỏ nhiều ớt (tôi thích ăn cay) ăn ngon lắm.",
+        "time": 1741166670,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 58
+  },
+  "harvested_at": "2026-04-29T09:56:04.273919"
+}

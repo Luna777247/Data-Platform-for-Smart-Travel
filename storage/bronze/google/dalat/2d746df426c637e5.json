@@ -1,0 +1,174 @@
+{
+  "u_key": "2d746df426c637e5",
+  "original_osm_name": "Hoa Sen",
+  "google_raw": {
+    "formatted_phone_number": "0263 3567 999",
+    "geometry": {
+      "location": {
+        "lat": 11.9394216,
+        "lng": 108.421489
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9407978802915,
+          "lng": 108.4227979302915
+        },
+        "southwest": {
+          "lat": 11.9380999197085,
+          "lng": 108.4200999697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Chay Hoa Sen",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–21:00",
+        "Thứ Ba: 06:00–21:00",
+        "Thứ Tư: 06:00–21:00",
+        "Thứ Năm: 06:00–21:00",
+        "Thứ Sáu: 06:00–21:00",
+        "Thứ Bảy: 06:00–21:00",
+        "Chủ Nhật: 06:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Đức Anh Lý",
+        "author_url": "https://www.google.com/maps/contrib/112718004349029826826/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYKYqxKU6sUa1MGTltlVKh6b0QNO7Uz47UvQCPwmXxuJHVrg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình ghé quán 2 lần.\nBún thái, phở, canh khoai ngọt, thịt bằm-dê kho ăn vs cơm tuyệt vời. Nhưng k biết sao quán lại vắng khách",
+        "time": 1772366761,
+        "translated": false
+      },
+      {
+        "author_name": "Đăng Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/118298602532608264949/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0hrunyuEUNjkgAIlndvxIR5YI9ZqrtYI64O-ak9_0-dkc8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tháng trước mình có đi Đà Lạt chơi ghé ăn tô bún thái chay ở đây ngon nha, view đẹp sạch sẽ mà nv rất tận tình luôn nhất cử nhất động là nv tới k cần mình kêu luôn =))",
+        "time": 1757636905,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyên Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/104748090856121366363/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXaY65KeWXeHfcFZFUgCmgA5RMpzmtXwLTCI3uHMxDsl8Lp_g=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "nhà hàng chay sạch đẹp sẽ, thoáng đẹp. nhân viên nhiệt tình vui vẻ",
+        "time": 1755006394,
+        "translated": false
+      },
+      {
+        "author_name": "Tín Lê",
+        "author_url": "https://www.google.com/maps/contrib/104916317237103641104/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYksjYyUns2RDLg6z5_TJzIrNerRfzfJZq8qG5bLGUViL7qxg7=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Thức ăn giá dao động từ 60-100k. Ăn cũng tạm, điểm trừ là dùng nấm khô trong thức ăn thay vì nấm tươi. Quán nên cải thiện nhé.\nQuán ở mặt tiền đường nên bãi đỗ xe hạn chế, oto thì đậu sát lề.\nKhông gian cho những ai thích sự yên tĩnh thì đánh giá 5 sao.\nMình chọn dùng thử món bún trộn và hủ tiếu.",
+        "time": 1700459313,
+        "translated": false
+      },
+      {
+        "author_name": "An Nhiên Huỳnh Thị",
+        "author_url": "https://www.google.com/maps/contrib/111549295474138276458/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoPbEgkklHoEwS-zsEJawPfzPljH521XbkqBlhV6a-BQUMA5zUKQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "LẨU CÙ LAO CHAY HOA SEN, ở tại đường số 3, khu dân cư Bắc Hà Hoàng Hổ, phường Mỹ Hòa, thành phố Long Xuyên, tỉnh An Giang. Nhà hàng thoáng mát, yên tĩnh, thức ăn ngon, giá cả phải chăng. Phục vụ thân thiện, WC sạch sẽ. Phù hợp họp nhóm, bàn công việc & hàn huyên tâm sự. Nhà hàng có thức uống ngon, bổ, rẻ nhé các bạn sinh viên. Thức ăn bao ngon của nhà hàng mà giá cả sinh viên ạ 👍",
+        "time": 1731212131,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1078
+  },
+  "harvested_at": "2026-04-29T13:38:12.825391"
+}

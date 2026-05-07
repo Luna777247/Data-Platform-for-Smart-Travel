@@ -1,0 +1,89 @@
+{
+  "u_key": "1aca74cf61b5631a",
+  "original_osm_name": "Café Hoàng Dung",
+  "google_raw": {
+    "formatted_phone_number": "0235 3858 263",
+    "geometry": {
+      "location": {
+        "lat": 15.5587524,
+        "lng": 108.4879966
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.5600203302915,
+          "lng": 108.4893943802915
+        },
+        "southwest": {
+          "lat": 15.5573223697085,
+          "lng": 108.4866964197085
+        }
+      }
+    },
+    "name": "Cà Phê Hoàng Dung",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Thanh Xuân",
+        "author_url": "https://www.google.com/maps/contrib/102886301723971043015/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8zQdeM2hA-SQpFIyVa-5OORIOHEQtQCY2TcADeMehC7KEQWY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Cafe ngon, giá cả hợp lí. ❤️❤️❤️",
+        "time": 1620052288,
+        "translated": false
+      },
+      {
+        "author_name": "Phan Quỳnh Như",
+        "author_url": "https://www.google.com/maps/contrib/117915405081001823207/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKm3Ut-2LbNhyvNRsqEoLUo0hJ9TSjZHlC9uV2w7QcUFp8nKGr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 năm trước",
+        "text": "Cafe Hoàng Dung ngon tuyệt vời! Còn có wifi miễn phí nữa!!",
+        "time": 1400397430,
+        "translated": false
+      },
+      {
+        "author_name": "Tung Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105184970389422887863/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTCEyMG-bzyA3OxGOalIJFR2UQFBN0_mq6uPTUNdGmiWZ0hA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Cafe ngon lắm °-°",
+        "time": 1639802280,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Huynh",
+        "author_url": "https://www.google.com/maps/contrib/105461092026326320587/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAOj7UVJ0viHD7V9qCyPPhgnPugYNd7h4MD1cjiQzPT7DDCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Cafe rất ngon",
+        "time": 1585383292,
+        "translated": false
+      },
+      {
+        "author_name": "khanh phan dinh",
+        "author_url": "https://www.google.com/maps/contrib/101191275634875972071/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_KzFXqY6GJVIG9ijJsofL7KCXHuZM8CahIyQjN0MUxI9LLQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Cafe chất lượng",
+        "time": 1511927982,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 10
+  },
+  "harvested_at": "2026-05-02T15:23:46.645639"
+}

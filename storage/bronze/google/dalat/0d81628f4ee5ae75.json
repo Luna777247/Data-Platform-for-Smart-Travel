@@ -1,0 +1,173 @@
+{
+  "u_key": "0d81628f4ee5ae75",
+  "original_osm_name": "Su Thai Pizza",
+  "google_raw": {
+    "formatted_phone_number": "0814 436 686",
+    "geometry": {
+      "location": {
+        "lat": 11.9332715,
+        "lng": 108.4331042
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9346391302915,
+          "lng": 108.4344285802915
+        },
+        "southwest": {
+          "lat": 11.9319411697085,
+          "lng": 108.4317306197085
+        }
+      }
+    },
+    "name": "Pizza SuSi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 14:00–23:00",
+        "Thứ Ba: 14:00–23:00",
+        "Thứ Tư: 14:00–23:00",
+        "Thứ Năm: 14:00–23:00",
+        "Thứ Sáu: 14:00–23:00",
+        "Thứ Bảy: 14:00–23:00",
+        "Chủ Nhật: 14:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Tony Art",
+        "author_url": "https://www.google.com/maps/contrib/111547852453782833799/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgL1kO5tWNM3BYXMwOmTa8PFSsrNpSiM2xTfe2qZLQAK4EO0zV=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nếu bạn đang tìm một quán pizza chuẩn vị Ý, giá dễ chịu ngay trung tâm Đà Lạt thì Susi Pizza là lựa chọn đáng thử. Quán nhỏ nhưng ấm cúng, phong cách đúng kiểu homemade, đặc biệt là mùi lò nướng thơm “nức mũi” ngay khi bước vào.\n\nĐiểm cộng lớn nhất là đế pizza mỏng – giòn – thơm, topping phủ đầy nhưng không bị ngấy. Các vị bán chạy như hải sản, bò bằm và xúc xích đều nêm vừa miệng, phô mai kéo sợi đã luôn. Ngoài pizza, quán còn có mì Ý và salad ăn kèm cho đủ no.\n\nService thân thiện, đồ ra khá nhanh dù khách đông. Giá từ 120–180k/1 bánh, cực hợp cho nhóm bạn hoặc cặp đôi muốn ăn tối nhẹ nhưng chất lượng.\n\nTóm lại: ngon – rẻ – chuẩn vị Ý – không gian dễ thương, rất đáng để ghé nếu đang ở Đà Lạt và muốn đổi gió một bữa pizza đơn giản mà chất.",
+        "time": 1764075941,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Lữ Minh Anh",
+        "author_url": "https://www.google.com/maps/contrib/107191180150057970251/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDqYEXkQegBRsLEsLxXUnMdSNpDH_aTY4vxEdONKgcJyGvm1Nv=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tiệm pizza nhỏ xinh trên Đà Lạt. Quán trang trí rất có gu, ấm cúng, dễ chịu. Pizza giá hạt dẻ và ngon bất ngờ ✨ Cảm ơn chị chủ",
+        "time": 1770898604,
+        "translated": false
+      },
+      {
+        "author_name": "phuong quynh tran nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114026924717171487220/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVF9JnI3DrXMWjmyPPuAzbZj0iGuzYh6rYCdgX19RmIfblBzvI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn ngon mà giá rất mềm nha các bạn, nhân viên dễ thương, chỉ 1 điểm trừ nhỏ là quán không thoáng mùi lắm. Quán nghiên cứu khử mùi thêm một chút là ổn",
+        "time": 1759307313,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Lê Huỳnh Phương",
+        "author_url": "https://www.google.com/maps/contrib/105562231752301386512/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJF7j3IsPmbg_p9ajFYkvyyUbOVhONdICfmpqq62dEBOyk2qA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon, giá cả hợp lý. Chị chủ nhiệt tình. 10 điểm",
+        "time": 1766240929,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Lê Quyền",
+        "author_url": "https://www.google.com/maps/contrib/113410050391885286796/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7MiNG3_QwEGUApoPp-KHBu1_lB4Vb_wYepTmOMgdVqK0Ul-0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Pizza ngon lắm nha mng không gian cũng cheo nữa deco đẹp 🤠",
+        "time": 1770908047,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 154
+  },
+  "harvested_at": "2026-04-30T15:07:43.475090"
+}

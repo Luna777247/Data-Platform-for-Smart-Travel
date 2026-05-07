@@ -1,0 +1,109 @@
+{
+  "u_key": "1ebdea313b463bda",
+  "original_osm_name": "Lucky D's Hostel",
+  "google_raw": {
+    "formatted_phone_number": "0263 6543 579",
+    "geometry": {
+      "location": {
+        "lat": 11.9410018,
+        "lng": 108.4290595
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9423474802915,
+          "lng": 108.4304078302915
+        },
+        "southwest": {
+          "lat": 11.9396495197085,
+          "lng": 108.4277098697085
+        }
+      }
+    },
+    "name": "Lucky House Hostel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Chung Anh Hào",
+        "author_url": "https://www.google.com/maps/contrib/113362379833709265754/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOuvaIjm-yX4RVpgRW1m32GIkQGYd8vhkOPFlwsxWOuDCs9uY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Khách sạn tuy nhỏ, nhưng anh chủ rất thân thiện, view đẹp, sát bên là bờ sông thơ mộng với thác nước nhỏ xíu 😂, còn phía đối diện là lẩu bò Quán Gỗ rất nổi tiếng. Đặc biệt là có sân thượng nhìn xuống rất đẹp,có 2 em hamster nhỏ nhỏ xinh xinh nữa 😍, giá cả rất bình dân, các bạn muốn du lịch đà lạt tiết kiệm tiền mà view đẹp thì nên tới đây, sẽ tiết kiệm được kha khá tiền phòng.",
+        "time": 1549787842,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Như",
+        "author_url": "https://www.google.com/maps/contrib/110235363087441769880/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOSlPsJJ9ASqFDZmoDfe2SXSa8dsMzbZ3PB9OretgdUBr8qr0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "A chủ nhiệt tình, vui vẻ, giá phòng \"siêu quyến rũ\" 😍😍😍😍, nhà vệ sinh chung nhưng sạch sẽ, Nhất định sẽ tiếp tục chọn nơi này khi đến đl",
+        "time": 1528600942,
+        "translated": false
+      },
+      {
+        "author_name": "Tường Vi",
+        "author_url": "https://www.google.com/maps/contrib/102519498137521598461/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU87vCfxVrKcwuwZKQCNfn2oPcvq0dzRrob73CS4wkztvEiGlE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Chủ hiền, thân thiện, nhiệt tình, giá cả phải chăng, gần trung tâm, rất thuận tiện đi lại. Chắc chắn sẽ ghé khi quay lại Đà Lạt!",
+        "time": 1650808962,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh Nguyen Le",
+        "author_url": "https://www.google.com/maps/contrib/115601233133783602015/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWr1Ny0mqJsJwv3taYR02tWlePCOBCQ6a7Kxsf2Ka2q0ikEh7geOg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Phòng giá cực tốt, tiện khu trung tâm. Vệ sinh sạch sẽ",
+        "time": 1521713405,
+        "translated": false
+      },
+      {
+        "author_name": "CaféRacer Play",
+        "author_url": "https://www.google.com/maps/contrib/117011450851559321574/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhm69qDbYU-OIy8m4iCkQ5vD9PNH2g2VCwG75AYd06yqSwr1g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Tạm thôi",
+        "time": 1522587617,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 24
+  },
+  "harvested_at": "2026-04-30T15:15:15.145992"
+}

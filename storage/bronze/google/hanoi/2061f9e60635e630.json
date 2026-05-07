@@ -1,0 +1,173 @@
+{
+  "u_key": "2061f9e60635e630",
+  "original_osm_name": "little OpenAir restaurants",
+  "google_raw": {
+    "formatted_phone_number": "0912 173 472",
+    "geometry": {
+      "location": {
+        "lat": 21.0334527,
+        "lng": 105.8537377
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0348021302915,
+          "lng": 105.8551133302915
+        },
+        "southwest": {
+          "lat": 21.0321041697085,
+          "lng": 105.8524153697085
+        }
+      }
+    },
+    "name": "Little Hanoi Restaurant – Traditional Hanoi Cuisine & Vegetarian",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–23:00",
+        "Thứ Ba: 10:30–23:00",
+        "Thứ Tư: 10:30–23:00",
+        "Thứ Năm: 10:30–23:00",
+        "Thứ Sáu: 10:30–23:00",
+        "Thứ Bảy: 10:30–23:00",
+        "Chủ Nhật: 10:30–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "QuynhAnh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111337707943070487190/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7tVFzRo0sdT1lnczZM2_rg31zAgww1ok1qB6iB70aQAnW8g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng chuẩn vị ẩm thực Việt Nam, gia đình mình đã ghé nhà hàng rất nhiều. Nhân viên phục vụ chu đáo, đồ ăn lên nhanh. Đáng để trải nghiệm khi đi ăn cùng gia đình hoặc bạn bè ❤️",
+        "time": 1738074060,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Thuý Nhàn",
+        "author_url": "https://www.google.com/maps/contrib/110602499082419413279/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKSwilWjcO7fVzKQA7n2YK0MS4vko03hDZKRVUGf17IB1ttg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Lần nào mình đến đây cũng đều cảm thấy vô cùng hài lòng bởi chất lượng món ăn và giá cả hợp lí,\nmón ăn đa dạng dành cho nhu cầu khác nhau của khách hàng nhưng vẫn giữ chuẩn vị Việt, đặc biệt là mình thích không gian ở đây vì đem lại cho mình cảm giác thoải mái, ấm cúng, nhân viên thì cũng rất nhiệt tình và thân thiện.",
+        "time": 1738081316,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Huy 7",
+        "author_url": "https://www.google.com/maps/contrib/112446387661712980706/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4FuSLVvA10qncZOkIsWhjWXcoXpl4mvY6ZSywIcXpGj8Z=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, giá hợp lý với phố cổ Hà Nội, quán ra đồ nhanh, nhân viên thân thiện, sẽ quay lại nhiều lần nữa",
+        "time": 1729168869,
+        "translated": false
+      },
+      {
+        "author_name": "Đàm Xuân Vinh",
+        "author_url": "https://www.google.com/maps/contrib/100185526204605870344/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrzcx0W3uprcL1lScs8xuT8VjlbkMxrgJKmoSSnx8mMU0J96U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Mình đã ăn thử món Gà Rán và Cà tím nướng do chính nhân viên tư vấn. Mình thấy đây là món thực sự rất ngon!! Nhân viên tại đây rất nhiệt tình mọi người có thể qua 16 Hàng Bè để thử trải nghiệm nhé 😙😙",
+        "time": 1685583501,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Thị Mỹ Linh",
+        "author_url": "https://www.google.com/maps/contrib/113625709240686814550/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzsHSR-GkqShz76ZS1gOL8RPoUOpbRO3kRhIB8k83GZPfJdA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Mình vừa mới tới đây ăn, thấy đồ ăn ở đây rất ngon nên cho nhà hàng đánh giá 5 sao liền. MÌnh đặc biệt thích món gà, tẩm ướp rất vừa, giá cả hợp lý. Nhân viên thì thân thiện, nhiệt tình. Mình sẽ còn quay lại nữa",
+        "time": 1687248560,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 444
+  },
+  "harvested_at": "2026-04-28T16:27:55.898550"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "63241baf225dda4d",
+  "original_osm_name": "Cafe giải khát số 1 tô vĩnh diện",
+  "google_raw": {
+    "formatted_phone_number": "0862 329 839",
+    "geometry": {
+      "location": {
+        "lat": 12.2450367,
+        "lng": 109.1821585
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2464171802915,
+          "lng": 109.1835022802915
+        },
+        "southwest": {
+          "lat": 12.2437192197085,
+          "lng": 109.1808043197085
+        }
+      }
+    },
+    "name": "1Cup Coffee & Tea",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Trang Đặng Thu",
+        "author_url": "https://www.google.com/maps/contrib/106945822355445986029/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLl2XeYRTlPRdd7dDkDTXooyAyYIK9boijhZDVnMdBqI5i09g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán nhân viên dễ thương , nhiệt tình , bạn nào có muốn chụp ảnh thì quán có hỗ trợ chụp free nhaaa . Mình đi 5 đứa được tặng 2 bánh ngon quá trời . Thank you quán nhoooooo😍",
+        "time": 1768117587,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Hoàng Ngọc Minh",
+        "author_url": "https://www.google.com/maps/contrib/103203588264772525986/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXFiOcQJGNxrGykzS-Lu5loJwi-ayE6yjv6b0FLQpABb0rBJM6Jw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không gian quán rộng rãi và thoáng mát.\nChất lượng đồ uống hợp vị\nGiá thành phải chăng",
+        "time": 1767614810,
+        "translated": false
+      },
+      {
+        "author_name": "Hạc Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/118015322748710005586/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHIqMjtNbXpa9j-WAv12ZSbrWdC3cfQkb33D7bKrhjDgjuCVa6ww=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Trải nghiệm quán tốt, thoáng, gợi nhớ những năm 80. Menu nước và thức ăn giá hợp lý",
+        "time": 1771468318,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Tuấn Vũ",
+        "author_url": "https://www.google.com/maps/contrib/102408356585767851494/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_ScQdu0KdjvsLhkC-8pNHWUFhk-6stKbvWpZfjVOLte4GtZXgSg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian quán rất chill. Phù hợp cho tụ tập bạn bè gia đình vào những ngày nghỉ để relax. Có khu vực cho những người làm việc văn phòng cần ngồi làm việc với máy tính. Mình ghé qua đúng hôm gặp ông chủ và được tặng 1 bộ ảnh rất tuyệt vời cùng con trai.",
+        "time": 1771914716,
+        "translated": false
+      },
+      {
+        "author_name": "EDM Dance Music Immortal Song",
+        "author_url": "https://www.google.com/maps/contrib/109856563444950369414/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHsBG-3nY_ZPn6GiCdC-oXGTZAwILmPRTNw8GaFHrM4E9Ter7IYw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian thoáng đãng, sạch sẽ, có nhiều góc để chill 1 mình, tái ngộ bạn bè, có không gian làm việc kết hợp thư giãn đủ riêng tư, coffee nguyên chất rang xay tại quầy, những thứ đồ gia dụng mộc mạc hoài niệm 8x-9x",
+        "time": 1771673983,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 59
+  },
+  "harvested_at": "2026-05-02T15:30:08.279020"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "5ab908663f7a8e05",
+  "original_osm_name": "Nông trại vui vẻ",
+  "google_raw": {
+    "formatted_phone_number": "0854 868 616",
+    "geometry": {
+      "location": {
+        "lat": 11.9680625,
+        "lng": 108.4124375
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9694131302915,
+          "lng": 108.4137734302915
+        },
+        "southwest": {
+          "lat": 11.9667151697085,
+          "lng": 108.4110754697085
+        }
+      }
+    },
+    "name": "Nông trại hoa Huyền Vũ Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–17:00",
+        "Thứ Ba: 09:00–17:00",
+        "Thứ Tư: 09:00–17:00",
+        "Thứ Năm: 09:00–17:00",
+        "Thứ Sáu: 09:00–17:00",
+        "Thứ Bảy: 09:00–17:00",
+        "Chủ Nhật: 09:00–17:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "KẾ TOÁN DOANH NGHIỆP",
+        "author_url": "https://www.google.com/maps/contrib/102025830893513395525/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1760N1F4Hhgz7b0wTMvGdjEzluFk1kDBgkZsNLM8jUyXpGA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không phải địa điểm tham quan, k nên đi, đường siêu xấu, ai tai lái yếu nên cẩn thận",
+        "time": 1767244406,
+        "translated": false
+      },
+      {
+        "author_name": "K61 TRẦN XUÂN TRƯỜNG",
+        "author_url": "https://www.google.com/maps/contrib/103207258606174481154/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzWXH1vAyUOR4ERb3avVbIhAhewFFVDuirvRnEvKB80VcE6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Em là Trần Xuân Trường, sinh viên ở trường Sư Phạm 2 Hà Nội. Mấy hôm cuối tuần thì em với gia đình đi từ Xuân Hoà về Đà Lạt thì có ghé qua nông trại vì được người quen giới thiệu.\n\nĐến nơi thì em phải nói rằng là đẹp mê hồn ạ. Cỏ xanh ngắt như trong tranh, trời trong vắt như trong thơ và hoa lá nở mọc như tâm hồn của em khi được mặt trời chân lý chói qua tim ạ.\n\nĐịa điểm 10/10, nhất định phải ghé qua mỗi khi đi chơi Đà Lạt ạ!",
+        "time": 1676625977,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105509936084156962713/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9jUIh_SIrsw4MA1YUEh-6XO_d0VG9v-jW2o0oR5eRHT4MC1I4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đi sáng sớm chưa có nắng nên hơi âm u, tầm 7h nắng bắt đầu to dần, quang cảnh thật sự y như trong ảnh, so beautiful honey, khuyến khích nên đặt trước vé. MÁI IUUU",
+        "time": 1680772566,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Bích",
+        "author_url": "https://www.google.com/maps/contrib/111664923401764286277/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6F7MgDBm-QXlQbAmYjf5Jb2sCtaZ6wzYZTDGbiYyh4i3tC3OU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Nông trại hoa Huyền Vũ này thực sự quá tuyệt vời luôn. Mình cảm thấy rất thoải mái khi đến với nông trại hoa Huyền Vũ Đà Lạt. Mọi người có thời gian nhất định nên thử đến trải nghiệm một lần nhé.",
+        "time": 1680772385,
+        "translated": false
+      },
+      {
+        "author_name": "QP0203 Do Thanh Truc",
+        "author_url": "https://www.google.com/maps/contrib/102378875203213045129/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8UIa5u7O7IZq28Kcik4wMngJGYDH9p37VPpB9swAiRoApUiAhIw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Có tâm 😍Nếu bạn muốn trải nghiệm một kỳ nghỉ tại Đà Lạt với một môi trường yên tĩnh, Nông Trại Hoa Huyền Vũ Đà Lạt là một lựa chọn tuyệt vời. Các hoạt động dã ngoại tại đây cũng giúp du khách cảm nhận được thiên nhiên tươi đẹp.",
+        "time": 1680772086,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 276
+  },
+  "harvested_at": "2026-04-30T15:05:05.714650"
+}

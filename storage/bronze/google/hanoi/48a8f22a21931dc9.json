@@ -1,0 +1,109 @@
+{
+  "u_key": "48a8f22a21931dc9",
+  "original_osm_name": "Nhà nghỉ Thủy Tiên",
+  "google_raw": {
+    "formatted_phone_number": "0934 451 858",
+    "geometry": {
+      "location": {
+        "lat": 21.0458319,
+        "lng": 105.7844864
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0471228802915,
+          "lng": 105.7857496302915
+        },
+        "southwest": {
+          "lat": 21.0444249197085,
+          "lng": 105.7830516697085
+        }
+      }
+    },
+    "name": "Nhà Nghỉ Thủy Tiên",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Cam Ta Công ty cổ phần",
+        "author_url": "https://www.google.com/maps/contrib/117277655080505194130/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRGBgxwKrqzPRvUQbGnP9mRFl2PRz0lCVHPvGVCRnG4q3y1i16=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Phòng đẹp, giá bình dân. Đươc cái nhân viên nhiệt tình. Có chỗ để xe Oto đỡ 250k gửi xe.",
+        "time": 1772423891,
+        "translated": false
+      },
+      {
+        "author_name": "kenh conh",
+        "author_url": "https://www.google.com/maps/contrib/113887542364651213715/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgFiso4u3XVZJa2AIpC3Hvk6l5qbBWMKGG3v0Od_XC7Lpacw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhân viên nhiệt tình thoải mái ,phòng sạch sẽ    có dịp sẽ ghé lại",
+        "time": 1772825685,
+        "translated": false
+      },
+      {
+        "author_name": "Son Truonghong",
+        "author_url": "https://www.google.com/maps/contrib/109665263442605162873/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBZRJAnWajNwhEqJmsGQyW9ijYGXwAXcYrpU3ZOS3o2dBv71U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Giá cả hợp lý sạch sẽ gọn gàng sẽ quay trở lại",
+        "time": 1772600459,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyên Lê",
+        "author_url": "https://www.google.com/maps/contrib/109329836555593224385/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNA6wW6zwzJ4BcRJlrwuvG_kQczUwQWtZFGxqhJUoBhVsWehc=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Thuê phòng 4g sáng đến 3h chém 750 k hơn ăn cướp",
+        "time": 1764851529,
+        "translated": false
+      },
+      {
+        "author_name": "Đinh Duy Dũng",
+        "author_url": "https://www.google.com/maps/contrib/117873874715101650934/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKbCXeEmPr7E21bSG5tQB_tM4CpHC00jaXlzXHXjQUkPasB_U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Giá cả hợp lý, nhân viên nhiệt tình",
+        "time": 1772635089,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 16
+  },
+  "harvested_at": "2026-04-26T12:45:00.800320"
+}

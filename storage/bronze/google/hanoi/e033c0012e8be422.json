@@ -1,0 +1,109 @@
+{
+  "u_key": "e033c0012e8be422",
+  "original_osm_name": "Khách Sạn Hanoi Deluxe",
+  "google_raw": {
+    "formatted_phone_number": "0989 014 721",
+    "geometry": {
+      "location": {
+        "lat": 21.0320742,
+        "lng": 105.848136
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0333931302915,
+          "lng": 105.8494965802915
+        },
+        "southwest": {
+          "lat": 21.0306951697085,
+          "lng": 105.8467986197085
+        }
+      }
+    },
+    "name": "Little Hanoi Deluxe Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Khang Nguyễn Hồng",
+        "author_url": "https://www.google.com/maps/contrib/105559510833148289825/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9pQ9FJwOaBJkFpUAp1KacI7yA6DmJjvdwjdBTAm4X1lOuu3bYJg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khách sạn sạch sẽ, vị trí tuyệt vời để đi ra hồ gươm. Mình ở trong nam đặt phòng được anh Minh hỗ trợ nhiệt tình. Lúc trả phòng ngày 1/1 mình có để quên 1 loa đắt tiền khách sạn có liên hệ và giữ lại để mùng 3 mình về lại HN ghé lấy. Dù đã trả phòng lâu nhưng anh Minh khách sạn vẫn hỗ trợ cho gửi hành lí trước giờ ra sân bay. Sẽ ghé lại ks nếu có dịp ra ngoài HN.",
+        "time": 1767421748,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114701295565749645095/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGRlvugmKQNDqSfug7EdmEAVpYHtR3Rf4YYIokWKfOyjZrYNw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Khách sạn phục vụ nhiệt tình, đặc biệt là đầu bếp mặc áo đen, anh ấy nấu món trứng rất tuyệt. Tôi đã ở khách sạn 3 ngày và thực đơn mỗi ngày đều làm tôi bất ngờ. Với kinh nghiệm là 1 đầu bếp 20 năm, tôi rất bất ngờ với khối kiến thức khồng lồ của anh ấy. Một người làm việc có tâm và có tầm.",
+        "time": 1752286166,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Minh Ho",
+        "author_url": "https://www.google.com/maps/contrib/110158684428732276777/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDD9PMQYpwGlHVsJgDxbRV_s7705mF5AEjJffSzQwRRQzo8A4nHA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn ổn, phòng không mới nhưng ổn, các bạn lễ tân phục vụ rất tốt, bạn Hiền dễ thương",
+        "time": 1742347636,
+        "translated": false
+      },
+      {
+        "author_name": "Thuận Mai",
+        "author_url": "https://www.google.com/maps/contrib/105202176793757435827/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRqiHh8JiM-OysK8gFkMwCfdltZTsfeSyfluMzoJ2psE1E-lwz=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 năm trước",
+        "text": "Tiện nghi, thích hợp cho chuyến đi công tác, du lịch vì gần phố cổ, dễ dàng di chuyển đến các địa điểm du lịch",
+        "time": 1621589466,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116837830915830915658/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJph3k4GeVOh9ERMBbPMGg9pTcn8x0xIPPbcQ-CCNhy-vbx6g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Chất lượng dịch vụ tại khách sạn rất tốt, nhân viên luôn tươi cười, niềm nở, và thân thiện với khách!",
+        "time": 1554697213,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 288
+  },
+  "harvested_at": "2026-04-27T19:58:57.624923"
+}

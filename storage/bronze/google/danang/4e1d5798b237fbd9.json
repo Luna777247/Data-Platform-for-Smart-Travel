@@ -1,0 +1,173 @@
+{
+  "u_key": "4e1d5798b237fbd9",
+  "original_osm_name": "Green Chili",
+  "google_raw": {
+    "formatted_phone_number": "0907 449 966",
+    "geometry": {
+      "location": {
+        "lat": 15.882163,
+        "lng": 108.3248663
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8835777802915,
+          "lng": 108.3262789802915
+        },
+        "southwest": {
+          "lat": 15.8808798197085,
+          "lng": 108.3235810197085
+        }
+      }
+    },
+    "name": "GREEN CHILI RESTAURANT ( ỚT XANH)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Hoàng Trần",
+        "author_url": "https://www.google.com/maps/contrib/111681312155735549833/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIvO2pibI2AHHeCmvCNsxr-W6mahMorp1BQrJpWzC_2tL6GrY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Thức ăn rất tốt.nhân viên phục vụ nhiệt tình.không khí nhà hàng lãng mạng,sang trọng.",
+        "time": 1723809899,
+        "translated": false
+      },
+      {
+        "author_name": "Viên NGUYEN",
+        "author_url": "https://www.google.com/maps/contrib/100958536768098417344/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK07WebhNyNiKsjCxOoZ1OSioJlsx8DOqXj6iQI3657I_Xm=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "Nên đọc trước khi ăn và né ra\nNhân viên phục vụ chán lắm\nĐồ ăn mắc dở\nLy trà đá 15k\nHội An ĐN còn nhiều chỗ dêz thương hơn",
+        "time": 1755770121,
+        "translated": false
+      },
+      {
+        "author_name": "thuy pham",
+        "author_url": "https://www.google.com/maps/contrib/117049443818126325532/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX1cHcXWnXqoERe9M7eS3Yg9G4wl5wLM4TfzVO0fH6xgLdNwsz=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Thức ăn ngon, nhân viên tận tình, giá cả phải chăn, địa điểm gần phố cổ, đầu bếp thân thiện sẽ luôn giới thiệu tất cả bạn bè về nhà hàng này.",
+        "time": 1728959794,
+        "translated": false
+      },
+      {
+        "author_name": "Viết lực Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103758535762445903292/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWdLG_nqvGTOC2hPMNEIubuBucz6iAcDNZF6BO4YA27OE-8g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tuần trước",
+        "text": "Cảm ơn tất cả tuyệt vời",
+        "time": 1775130876,
+        "translated": false
+      },
+      {
+        "author_name": "Richard B.",
+        "author_url": "https://www.google.com/maps/contrib/117398440005356851477/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7gpDjtxT6N7lqo40W7iv3H4fF4cqdehpad1GwLjggG2kDhTU=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Một nhà hàng tuyệt vời ở Hội An, ngay bên ngoài Phố Cổ (chỉ cần đi bộ).\nBạn sẽ cảm thấy được chào đón nồng nhiệt và đồ ăn thì tuyệt vời. Từ các món ăn truyền thống Việt Nam đến món Ý với một chút biến tấu. Thực đơn có đủ lựa chọn cho mọi chế độ ăn.\nTôi khuyên bạn nên ghé qua đây cho bữa trưa hoặc bữa tối.",
+        "time": 1759410992,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 93
+  },
+  "harvested_at": "2026-04-29T09:30:54.902546"
+}

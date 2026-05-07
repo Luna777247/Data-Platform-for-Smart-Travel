@@ -1,0 +1,174 @@
+{
+  "u_key": "85b3fdced8e6b1d0",
+  "original_osm_name": "Nhà Hàng Foodshop 45",
+  "google_raw": {
+    "formatted_phone_number": "0903 429 128",
+    "geometry": {
+      "location": {
+        "lat": 21.0437943,
+        "lng": 105.8380061
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0452172802915,
+          "lng": 105.8393620802915
+        },
+        "southwest": {
+          "lat": 21.0425193197085,
+          "lng": 105.8366641197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Foodshop 45 - Indian Cuisine",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:30",
+        "Thứ Ba: 10:00–22:30",
+        "Thứ Tư: 10:00–22:30",
+        "Thứ Năm: 10:00–22:30",
+        "Thứ Sáu: 10:00–22:30",
+        "Thứ Bảy: 10:00–22:30",
+        "Chủ Nhật: 10:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "mmi",
+        "author_url": "https://www.google.com/maps/contrib/109919303359701430763/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHFiinQxFL4IGkIyfN4MgOpq6eJudPp4PafDFg3Bme-FZiLPMQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bánh samosa ngon nì. Mình ăn thử cả roti, chapati và cheese naan đều ôk, ko bị bở hay khô đâu. Curry thì beef curry dễ ân như bò kho, còn butter chicken cũm ngon nma kh đc thơm ngậy bằng mọi chỗ khác mình ăn. Nước xoài ngon nhen",
+        "time": 1772177397,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Tú Tạ",
+        "author_url": "https://www.google.com/maps/contrib/118388001623233548050/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYJqbUAe1sWwGvM4m3oIJQ53EhISDFAV1GnsjNj706x0QpLNDzEg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhà hàng này mang hơi hướng khá gia đình rất ấm cúng và chill cực kì. Tôi thấy rất nhiều review tốt trên tiktok nên đã tò mò trải nghiệm thử đồ ăn Ấn Độ - thủ phủ gia vị sẽ ntn và nhìn chung khá là hài lòng, đặc biệt là về dịch vụ, mình được 1 cô lớn tuổi tư vấn với một thái độ cực kì chuyên nghiệp và tận tình, cô chủ cũng rất thân thiện và luôn luôn tươi cười.\n\nĐồ ăn đã được gia giảm hương vị để phù hợp hơn với số đông khách hàng. Tôi gọi Beef Samosa, Cheese Nan, Butter Curry Chicken, Matta Rice và tất cả đều rất hợp khẩu vị. Duy chỉ có phần trà sữa Ấn Độ là ko hợp với tôi lắm, cảm giác như đang uống nước gừng vậy.\n\nMột trải nghiệm khá đáng để thử.",
+        "time": 1767543136,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Giang",
+        "author_url": "https://www.google.com/maps/contrib/101211722731670623376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVNj0m7aMCJzaofUisj1ybd00tVFpfVQVu0n1QfM2utowOHy7xqg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "\"Đồ Ấn khó ăn lắm\" \"Đồ Ấn nhiều gia vị, khô và cay nữa\" ~\n\nOops! Nếu bạn là người đã từng biết đến foodshop45 bạn sẽ chỉ có thể thốt lên ồ wow đồ Ấn ngon đến vậy sao 🙏🏼\n\nMình đi ăn nhiều rồi nhưng chưa có thời gian viết review chỉnh chu cho foodshop45 ạ. Mình ăn từ hồi còn làm trợ lý cho sếp cũ cách đây ngót chục năm, đi xa xứ mấy năm mới quay về đây ăn lại mà hương vị vẫn như xưa, tuyệt cú mèo 😋.\n\nBạn nào sợ khó ăn hãy gọi y những món trong ảnh này nhé, đảm bảo ăn không ngừng được lại muốn gọi thêm.\n\nPhải gọi sườn nướng! Phải gọi sườn nướng! Phải gọi sườn nướng!  (Cái gì quan trọng nhắc lại 3 lần). Sườn cực kì mềm và mọng nước. Vắt 1 ít chanh cho hoà quyện mùi thịt nướng thơm thơm cắn ngập răng miếng sườn Juicy tôi không thể nào ngừng lại ở 1 đĩa đâu ạ 😳.\n\nQuán có chị chủ super nice và các bạn nhân viên cũng nhiệt tình nữa. Các bạn sẽ tư vấn món có tâm nên ai băn khoăn đừng ngại hỏi thử nhé.\n\nTiếc là chưa chụp được nhiều ảnh không gian quán. Không gian quán không quá mới do quán hoạt động đã lâu năm nhưng để hẹn hò bạn bè và dẫn người iu đi ăn vẫn akelo nhé (confirmed) 🤭.\n\nXin cảm ơn và mãi iu foodshop45 ạ.",
+        "time": 1758912465,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Luân",
+        "author_url": "https://www.google.com/maps/contrib/117003597213858946377/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFqspO0Gnf5WuNldQrFA289uvSWAZmfbBFwdVNU3QGCgy31M5XAQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Một trong quán Ấn có đồ ăn ngon hợp khẩu vị nhất vs ng HN, mọi thứ đều nêm nếm gia vị vừa phải, có ghé đến bên quán vài lần, món butter chicken, tikka masala và cơm gà bryani là must try, thêm cả cốc sữa chua lassi và tráng miệng gulab jamun ngon đó. Chắc chắn mình sẽ ghé lại lần nữa, đánh giá 5⭐️",
+        "time": 1759159048,
+        "translated": false
+      },
+      {
+        "author_name": "quân trần phan minh",
+        "author_url": "https://www.google.com/maps/contrib/116411317828866736128/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4-1dy8IkX_3a-jVoDlEewNj05xCAe9Mmg1bwIcOUldWSD5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn dù cho đã được làm cho hợp khẩu vị người Việt hơn nhưng vẫn giữ đc bản sắc tinh thần của đồ Ấn. Cà ri bò và gà rất ngon must try. Phục vụ lịch sự và nhanh nhẹn. Quán ở đối diện hồ trúc bạch có view khá đẹp",
+        "time": 1770382687,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 392
+  },
+  "harvested_at": "2026-04-28T16:21:55.629250"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "2816c7b8e57ef5df",
+  "original_osm_name": "Thang 10",
+  "google_raw": {
+    "formatted_phone_number": "0985 570 021",
+    "geometry": {
+      "location": {
+        "lat": 21.0440376,
+        "lng": 105.821208
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0454003802915,
+          "lng": 105.8225615302915
+        },
+        "southwest": {
+          "lat": 21.0427024197085,
+          "lng": 105.8198635697085
+        }
+      }
+    },
+    "name": "Cafe Tháng 10",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Yen Vo",
+        "author_url": "https://www.google.com/maps/contrib/103565445875060598013/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu55TgQE3TaB06Otdd7Ufvj0fKjGk9GunR3LG5frxbfnkIm96g=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 tháng trước",
+        "text": "Từng ngồi vài lần hnay quay lại thấy xuống cấp hẳn.. bụi bặm ẩm mốc k dc chăm\nSóc. Sàn nhà ghế đều bụi. Ngồi định lv nhưng phải đi vì nhức mũi vì bụi.. nhện trên trần nhà giăng chằng chịt.. bai",
+        "time": 1767166397,
+        "translated": false
+      },
+      {
+        "author_name": "hoàng hưng đinh",
+        "author_url": "https://www.google.com/maps/contrib/110975761558372878091/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcBrGmvlHAxDNwNSumvXbxK7u0GHciW-ZWUlz7hCR1U5iPpQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đồ uống của quán cũng được. Quán có view ra Hồ Tây trên tầng chill vãi chưởng. Ngồi ngoài ban công lêu hêu điếu thuốc cốc nước ngồi ngắm hồ Tây chiều tà ngày gió về. Khá là chill. Quán cũng dễ tìm. Chỗ để xe thì hơi đông và chật. Nên trải nghiệm cái view ban công của quán.!!!!",
+        "time": 1750907531,
+        "translated": false
+      },
+      {
+        "author_name": "thịnh tiến",
+        "author_url": "https://www.google.com/maps/contrib/112252062676128638949/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfEeWiyamQPkv_2qJ09yhDRIjxZp8BGqdvxVAAhsEzHitKBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "nước uống không hợp với giá tiền, view quán nhìn ra hồ tây cũng chill tuy nhiên quán hơi bẩn, nhà wc có mùi khó chịu, lúc quán đông đợi đồ lâu(30p), có đàn để chơi lúc đợi nước, có chuột🐀 và nhiều gián🪳có tượng để tô.",
+        "time": 1757929415,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Anh Chíp Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/101056842814717416741/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcN8qM7pzqDpP79m2k8uAHOb2FHp4zQy-VwBntSwsoKtnhvKHn=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Tôi đã từng đến không gian này cả gần chục năm gắn bó. Và nó vẫn gợi lại cho tôi những kỷ niệm xưa cũ.",
+        "time": 1763103392,
+        "translated": false
+      },
+      {
+        "author_name": "Kiều Phạm",
+        "author_url": "https://www.google.com/maps/contrib/105870655241528096127/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTv5qJXAt8Y9JdVBtk9NCAHJpi9AwLYsMLdBFhgxouD25so3A=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cafe Tháng 10 là một không gian quán cà phê ấm cúng, thân thiện, rất phù hợp cho những buổi gặp gỡ bạn bè hoặc làm việc cá nhân. Quán có thiết kế đơn giản nhưng tinh tế, tạo cảm giác thoải mái cho khách hàng. Đồ uống ở đây khá ổn, hương vị cà phê đậm đà, các loại nước ép và sinh tố cũng tươi ngon. Nhân viên phục vụ nhiệt tình, chu đáo. Nếu bạn đang tìm kiếm một nơi yên tĩnh để thư giãn, đây là một lựa chọn đáng cân nhắc. Quán có thể nâng cao trải nghiệm khách hàng bằng cách sử dụng Tuneast để tạo không gian âm nhạc riêng, cho phép khách hàng chọn bài hát và gửi lời chúc, làm cho không khí quán thêm phần sinh động và cá nhân hóa.",
+        "time": 1770833897,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 337
+  },
+  "harvested_at": "2026-04-26T16:52:39.184213"
+}

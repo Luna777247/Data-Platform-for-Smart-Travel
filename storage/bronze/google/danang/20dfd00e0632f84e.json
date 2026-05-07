@@ -1,0 +1,174 @@
+{
+  "u_key": "20dfd00e0632f84e",
+  "original_osm_name": "Nhà hàng hải sản Bé Anh",
+  "google_raw": {
+    "formatted_phone_number": "0905 516 726",
+    "geometry": {
+      "location": {
+        "lat": 16.0690368,
+        "lng": 108.242905
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0704005302915,
+          "lng": 108.2443621802915
+        },
+        "southwest": {
+          "lat": 16.0677025697085,
+          "lng": 108.2416642197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Bé Anh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Bích Trang Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115997698882952342989/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQNNw3EZBNNmMki0d7CkOY5byoFCO17TTlSo_a2nEFKGgBgjG5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Hải sản tươi nhưng chế biến thì không đánh giá cao. Nhất là các món lẩu, dở nha, vừa mặn vừa không ra vị lẩu mà giá là 500k/cái. Món mà mình thấy ngon là tôm rang muối, mực nướng sa tế và ốc hương vì tươi.\nGiá thì tầm 70k cho rau, 120k cho gỏi, hải sản theo thời giá tầm 700k trở lên cho tôm, mực, ốc hương.\nQuán rộng, có phòng VIP, tuy nhiên, quán nên xem lại hệ thống karaoke vì loa nhạc siêu dở. Phụ thu thêm 1 triệu nhưng không hát được bài nào hết bài vì loa quá rè và chát, chán quá nên thôi ko hát nữa. Và nhân viên thì cần nên đào tạo lại, bạn phục vụ tại bàn thì ok, nhưng bạn quản lý thì thái độ không phù hợp lắm. Nếu nói có quay lại hay không thì với mình là không, vì với mức giá này thì mình có thể tìm được những quán khác tại Đà Nẵng.",
+        "time": 1725241228,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111321819707611580064/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrxidTm3hKNbmYpenQ_ywFcK2k_B3_zjhdXOppNb9CCYyXLwW8=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "Quán không gian mở nên khá nóng, không gian chật nên đi lấy đồ ăn khá bất tiện. Hải sản tươi nhưng chế biến bình thường không có gì đặc biệt. Mấy món khác rất bình thường kiểu mấu cho có, quầy tráng miệng chán. Giá buffet không đi đôi chất lượng cho lắm.",
+        "time": 1724034066,
+        "translated": false
+      },
+      {
+        "author_name": "Thắng Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/106446748904943066649/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKHawq28q45WQXQswixug4MZlT1sC_aK3MVMfjI5SKoWtZYA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán chuyên hải sản , đồ ăn tươi ngon , giá cả không rẽ so vs chất lượng , tầm 500k cho 1 người , nhà mình kêu phần cơm chiên hải sản mà quá trời tôm vs mực bao chất lượng luôn",
+        "time": 1716685858,
+        "translated": false
+      },
+      {
+        "author_name": "vien phanthanh",
+        "author_url": "https://www.google.com/maps/contrib/109210921195076065134/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOqJC_igDRnnm_syQ39Mt-UT3TiqfXcPwDBAW2N0oZzh98PRc5=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ở đây tất cả đều tươi sống, lên món nhanh, phục vụ ổn, view thì đẹp, không gian thoáng đãng,\nGiá thì tất nhiên sẽ mắc hơn so với những chỗ khác,\nRất đáng để trải nghiệm",
+        "time": 1728819788,
+        "translated": false
+      },
+      {
+        "author_name": "gấu vs ba mẹ",
+        "author_url": "https://www.google.com/maps/contrib/111475398400538915881/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqtr1suh7uJgJxXEzUzRVXSwnIvGThHlV5f8vumy-OXlfJ8qo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Hải sản tươi ngon- view thoáng mát- món ăn hợp vị",
+        "time": 1742650563,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2821
+  },
+  "harvested_at": "2026-04-28T16:40:46.931749"
+}

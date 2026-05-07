@@ -1,0 +1,63 @@
+{
+  "u_key": "ca7ac0c1e92691ea",
+  "original_osm_name": "Cơm Cường",
+  "google_raw": {
+    "formatted_phone_number": "0961 710 550",
+    "geometry": {
+      "location": {
+        "lat": 10.216183,
+        "lng": 103.968421
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.2174013302915,
+          "lng": 103.9696912302915
+        },
+        "southwest": {
+          "lat": 10.2147033697085,
+          "lng": 103.9669932697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Cơm Cường Hà Nội",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Hùng Cường",
+        "author_url": "https://www.google.com/maps/contrib/105212740998878958992/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu_KuqLhsFfYc9VJpfqB2MGb-idjZDgvH72o3zTuKFkWJ9y4Q_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Cơm ngon, giá hợp lý, nhân viên vui vẻ.",
+        "time": 1527572548,
+        "translated": false
+      },
+      {
+        "author_name": "Tri Local Guide",
+        "author_url": "https://www.google.com/maps/contrib/103806349628469010186/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpMMAZ53_d4yXi5w39L08_0UqwqWsm_of2AQEJECal_ZptEAb9YA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán ngon, sạch sẽ",
+        "time": 1560153572,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Le",
+        "author_url": "https://www.google.com/maps/contrib/101250156273861376442/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyKA_Z75qcfDYnUIc3pbbfO51SWz-I-7eEZCsgEz_yuAgTXUea=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1558109042,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-04-28T16:18:33.815951"
+}

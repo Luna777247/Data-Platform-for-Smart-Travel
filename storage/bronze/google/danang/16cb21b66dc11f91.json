@@ -1,0 +1,174 @@
+{
+  "u_key": "16cb21b66dc11f91",
+  "original_osm_name": "loving hut - vegan restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0934 969 461",
+    "geometry": {
+      "location": {
+        "lat": 16.0538197,
+        "lng": 108.2445011
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0551541802915,
+          "lng": 108.2458020302915
+        },
+        "southwest": {
+          "lat": 16.0524562197085,
+          "lng": 108.2431040697085
+        }
+      }
+    },
+    "name": "Loving Vegan Restaurant Da Nang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:00",
+        "Thứ Ba: 09:00–21:00",
+        "Thứ Tư: 09:00–21:00",
+        "Thứ Năm: 09:00–21:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–21:00",
+        "Chủ Nhật: 09:00–21:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Ông Thị Thuỷ Tiên",
+        "author_url": "https://www.google.com/maps/contrib/118029963019647999481/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYs7oH11Bm2qJrpav3fUunZar6M9rERarczT8P_VolpVNQrg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình ita khi review lắm, mà gặp quán sang xịn, mịn quá. thật sự! Đồ ăn ngon, lên món nhanh, nhân viên dễ thương cực kỳ. Giá cả hợp lý so với chất lượng. Ăn một lần là muốn quay lại lần nữa. Cho quán 5⭐ không suy nghĩ!",
+        "time": 1772103371,
+        "translated": false
+      },
+      {
+        "author_name": "Lua",
+        "author_url": "https://www.google.com/maps/contrib/101985144582640487309/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIuTKjMJJ_fbSFHYq1SHyW8SPes07D5faVbt-Ttcm_OPMYT4A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn siêu ngon, không gian ấm áp, mọi thứ trọn vẹn và đủ đầy với tình yêu thương. Mình ăn pizza, mì quảng, khoai tây chiên xốt cheese. Tropical bowl so good…",
+        "time": 1764070025,
+        "translated": false
+      },
+      {
+        "author_name": "Ông Epal Vlog",
+        "author_url": "https://www.google.com/maps/contrib/103737478565908304188/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEdgXEHJCVegsM12l2haS9pd6dSXSwXnV2eCLXKVK5J29X29rF=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, đa dạng món và rất sạch sẽ, thoáng mát.",
+        "time": 1769258459,
+        "translated": false
+      },
+      {
+        "author_name": "Jessyxngn",
+        "author_url": "https://www.google.com/maps/contrib/116931981399848679896/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURQve78PsC1_ULKAaIxVaLn3GWHRQd-Fc7kOTyu51iZ7SxzzWN=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn rất ngon, ăn món nào cũng vừa miệng. Xiên que thì nước sốt thấm, ngon giống như là mình ăn thịt mặn z, nấm chiên xù, phô mai que cx rất ngon. Sốt mayo chay làm béo vừa phải. Có điều mì ý hơi mặn xí. 9/10, 2 người gọi 5 món ăn k hết lun á",
+        "time": 1755770932,
+        "translated": false
+      },
+      {
+        "author_name": "Leo Sanza",
+        "author_url": "https://www.google.com/maps/contrib/107739600893992246002/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWev7AeihCA89e28HDc_F27gtlX348bLNzAlVeDwByoLwwVvBVX=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chỗ ăn chay yêu thích của mình. Lúc nào có bạn bè mới là mình lại rủ qua vì đồ ăn siêu ngonnnn! Hồi xưa mình tưởng đồ ăn chay thì sẽ ngán hơn đồ mặn, nhưng mà đi ăn ở quán này về là cứ thèm ăn chay mãi thôi",
+        "time": 1769751375,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1796
+  },
+  "harvested_at": "2026-04-29T09:57:50.071399"
+}

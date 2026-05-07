@@ -1,0 +1,50 @@
+{
+  "u_key": "95ea7780150705dc",
+  "original_osm_name": "Burgerbbq&grill",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2350984,
+        "lng": 109.1955432
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2364596802915,
+          "lng": 109.1969504302915
+        },
+        "southwest": {
+          "lat": 12.2337617197085,
+          "lng": 109.1942524697085
+        }
+      }
+    },
+    "name": "Nhà hàng Burger BBQ & Grill",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Johnny Tria",
+        "author_url": "https://www.google.com/maps/contrib/102095260347448856072/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7A_Hzh_tcCjQVoy6uf4nu5lvPE8iYzWy8qA5TeHtzeKOJ2BD5=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "an uong",
+        "time": 1481877527,
+        "translated": false
+      },
+      {
+        "author_name": "quốc trương cường",
+        "author_url": "https://www.google.com/maps/contrib/115602369039859467906/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG3nQgYYjP3j83KNPU_A9rDoAfsHyRfPHn2Q-Qcj500Mk10X32=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1572999991,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-05-02T15:10:13.686797"
+}

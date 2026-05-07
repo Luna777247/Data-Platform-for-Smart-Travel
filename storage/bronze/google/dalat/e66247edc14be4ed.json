@@ -1,0 +1,174 @@
+{
+  "u_key": "e66247edc14be4ed",
+  "original_osm_name": "Still Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0869 275 079",
+    "geometry": {
+      "location": {
+        "lat": 11.9443445,
+        "lng": 108.4543587
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9455881302915,
+          "lng": 108.4557864802915
+        },
+        "southwest": {
+          "lat": 11.9428901697085,
+          "lng": 108.4530885197085
+        }
+      }
+    },
+    "name": "Still Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–21:00",
+        "Thứ Ba: 08:00–21:00",
+        "Thứ Tư: 08:00–21:00",
+        "Thứ Năm: 08:00–21:00",
+        "Thứ Sáu: 08:00–21:00",
+        "Thứ Bảy: 08:00–21:00",
+        "Chủ Nhật: 08:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Nguyên Phạm",
+        "author_url": "https://www.google.com/maps/contrib/116411767506186603149/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4MB649HuGCEy1UQ7r1G2j8jVtiDW7HdqYDar3ythyCFT198nC=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "[18.11.2025 • Đà Lạt]\n📍Quán cách chợ Đà Lạt khoảng 2.5km (gần ga Đà Lạt). Nằm trong khu tổ hợp của Still coffee bao gồm rất nhiều tiệm khác nhau như mì, bánh, đồ lưu niệm,… được thiết kế chủ yếu theo phong cách Nhật Bản.\n🥤Đồ uống khá đa dạng, giá thành ở đây khá nhỉnh hơn bên ngoài. Về chất lượng thì ở mức ổn, sinh tố hợp khẩu vị, không quá ngọt. Không gian quán được decor khá đẹp, có nhiều góc để checkin, khu trên lầu rất nhiều sách. Mọi người có thể kết hợp ăn uống luôn ở trong cùng khu vực.\n💁‍♀️ Nhân viên nhiệt tình, thân thiện.",
+        "time": 1769869648,
+        "translated": false
+      },
+      {
+        "author_name": "RUAN",
+        "author_url": "https://www.google.com/maps/contrib/104451654856569867446/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9t8ojZZPGMvwv_unJnd8TZzsZ-l2xmbmgrzkj3cKXvJ71Hry2cA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mấy bạn phải đến quán này thay vì đi mấy quán cafe 1000 cái như 1 ở Đà Lạt. Ta nói nước nó ngon điên, giá cả hợp li. cảnh lại đẹp , mát mẻ. Anyway, nên ăn bánh sừng bò bên đây đi, nó ngon lắm luôn highly rcm cho mấy bạn á.\nVề phần quán mì và cơm cà ri thì mình ko đánh giá cao, vì chắc có lẽ mình ăn qua nhiều quá rồi. Nhưng tìm 1 nơi vừa có nước , vừa có đồ ăn và tiểu cảnh chụp hình. Mình nghĩ các bạn phải đến đây. Sẽ không thật vọng đâu.",
+        "time": 1772958189,
+        "translated": false
+      },
+      {
+        "author_name": "BinNa Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115892374331734201219/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS8tQq_0R1VmwPctksDIEaNgcgPsPDrH8GRCE4TsVke_SzrvqeQg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Có những lúc, bình yên không phải là trốn chạy khỏi cuộc đời\nmà là ngồi yên giữa đời, thở chậm lại và mỉm cười 🍃\n\nỞ một góc nhỏ của Đà Lạt,\nquán Still Cafe mang phong cách Nhật Bản nhẹ nhàng,\nmọi thứ dường như chậm hơn một nhịp:\ntiếng gió lùa qua tán cây, mùi gỗ cũ,\nvà cả những suy nghĩ trong đầu cũng thôi vội vã.\n\nBình yên hóa ra rất giản đơn:\nmột chỗ ngồi vừa đủ,\nvà một trái tim cho phép mình được an nhiên.\n\n🌿 Đà Lạt – Still Cafe\nQuán này như 1 khu tổ hợp nhỏ của ở Nhật vại á, có quán cafe, 2 tiệm mì ramen ngon, quầy lưu niệm, quầy quần áo, quầy đá phong thủy nữa~ khách nước ngoài ghé cũng nhìu lém ☺️☺️ai cũng đi lại, nói chuyện nhẹ nhàng\nTầm giá tầm ~70k, có nhiều chỗ ngồi chill lắm, gửi xe free cách quán 10m~\n\n#dalat #달랏 #stillcafe",
+        "time": 1769267204,
+        "translated": false
+      },
+      {
+        "author_name": "Tri Vo",
+        "author_url": "https://www.google.com/maps/contrib/111332073759165584030/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaJOBezqoyq09tH94XgrNSB2xNMgCXjVo_zHMVAxPs5_y0fhAHpw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "📸 Still Coffee - Khu tổ hợp phong cách Nhật gần ga Đà Lạt\n🗓️ Đi cà phê một ngày mưa lạnh\n..\nQuán nằm gần ga Đà Lạt, thực chất là một khu tổ hợp (complex) bao gồm quán cà phê, tiệm ăn và bán đồ lưu niệm. Không gian được trang trí đậm chất Nhật Bản, được ví như \"ngôi làng Ghibli thu nhỏ\", cảnh quan rất xinh và nhiều góc chụp ảnh đẹp. Hôm mình đi trời mưa lạnh nên không khí hơi trầm và quán cũng không quá đông đúc.\nVề menu, ở đây có phục vụ cả đồ ăn (cơm cà ri) và các loại trà, bánh. Cá nhân mình thấy cà ri vị bình thường, không quá đặc sắc. Đồ uống thì pha hơi bị ngọt, bánh cũng chỉ ở mức tạm ổn. Giá cả thì chấp nhận được so với mặt bằng chung các điểm du lịch.\nNói chung, chỗ này chủ yếu phù hợp để đến chụp ảnh \"sống ảo\", ngắm cảnh hoặc mua đồ lưu niệm xinh xắn, chứ nếu để thưởng thức chuyên về ẩm thực thì mình sẽ không quay lại. 🍵\nFood: 4 | Service: 4 | Atmosphere: 5",
+        "time": 1765886510,
+        "translated": false
+      },
+      {
+        "author_name": "Ber",
+        "author_url": "https://www.google.com/maps/contrib/107340276938852690359/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQdOjZPjIVlEg0U-9Rwj8ySHFifwQ-WkuovsN_RYUoJyxm5SkI=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không gian nhẹ nhàng rộng rãi.\n\nNước oki, đồ ăn oki. Có tiệm bán đồ trang sức các loại đá ngọc, đẹp và nhân viên tư vấn nhiệt tình.\n\nCác bé mèo rất dễ thương, từ tốn và quấn người. Mình có thể mua súp thưởng tại quán nước và đút các bé.\n\nCó bé mèo nhỏ trắng xám sọc dưa, bị nấm hơi tội. Mong bé mau khoẻ mạnh để lần sau mình có thể đến chơi với bé tiếp.",
+        "time": 1769399521,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2973
+  },
+  "harvested_at": "2026-04-30T15:05:03.098461"
+}

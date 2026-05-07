@@ -1,0 +1,173 @@
+{
+  "u_key": "09b950d2506f9cb2",
+  "original_osm_name": "Cà Phê Cô Hoa Cơm",
+  "google_raw": {
+    "formatted_phone_number": "0988 841 263",
+    "geometry": {
+      "location": {
+        "lat": 21.047215,
+        "lng": 105.7501934
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0485784302915,
+          "lng": 105.7516087302915
+        },
+        "southwest": {
+          "lat": 21.0458804697085,
+          "lng": 105.7489107697085
+        }
+      }
+    },
+    "name": "Cô Hoa - Cơm Gà & Đồ Ăn Vặt, Gà Rán - Khoai Lắc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Ngọc Diệu",
+        "author_url": "https://www.google.com/maps/contrib/105548918225967651967/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8y2iS0acR1Fr8ynpNESF3vGmLBAbvgdmU6jfe_mYNiijo9Qgd=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "cơm và gà thì khá ngon, chỉ có điều mình mua mang về, và cái salad rau bị thiếu sốt, mong quán chú ý hơn",
+        "time": 1758864440,
+        "translated": false
+      },
+      {
+        "author_name": "Vui Tính Độc Thân",
+        "author_url": "https://www.google.com/maps/contrib/115398365349538875318/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAdgJw7iX2KTK1kwnE1NoZRX1nH25gI6fX3x01_iIF3rs2Sw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Gà viên chiên vỏ ngoài giòn, bên trong mềm ăn khá ok, sốt ngon hợp khẩu vị mình, cơm hơi lạ nhưng cũng khá vừa miệng.",
+        "time": 1757251304,
+        "translated": false
+      },
+      {
+        "author_name": "Hanh An",
+        "author_url": "https://www.google.com/maps/contrib/107632331840678493270/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbteUApzYjdOVo0eM21jYvW7Lj6ydElVBHr04BTGGeFsJDwJw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Tết về gió mới sang xuân,\nChúc quán mình mãi ân cần, rộn vui.\nKhách quen khách mới ghé hoài,\nBuôn may bán đắt, lộc tài đầy năm.\n\nAn khang sức khỏe âm thầm,\nViệc gì cũng thuận, trăm năm vẹn tròn.\nXuân sang giữ trọn sắc son,\nMột năm phát đạt, một mùa bình an.",
+        "time": 1767181117,
+        "translated": false
+      },
+      {
+        "author_name": "Trà My Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107634405067247021854/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCwh-N2cuiY9TVyClbC2OBwbodOiWZ_me-X_lac6VLflkvn6Kx=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "8 tháng trước",
+        "text": "mình cũng ăn ở đây 1 vài lần rồi, thấy đồ ăn chất lượng khá oke, nhưng hôm nay 06/08 mình có đến quán ăn, và có gọi thêm 1 bát kim chi thì bạn nhân viên lại bảo hết kim chi, trong khi hộp kim chi to lù lù trước mặt mình:))) cũng k hiểu cho lắm, rồi lúc mình muốn gọi đổi đồ từ tok gà sốt chua ngọt sang phủ phô mai, bạn nhân viên lại lấy lí do là lỡ làm rồi thì mình có bảo là hay giờ phủ sốt lên giúp em được k? thì bạn ấy bảo là gần đến giờ đóng cửa rồi, trong khi 10h đóng cửa và lúc mình bảo bạn ấy đổi là 9h20?? mong quản lí kiểm tra lại về khâu phục vụ của nhân viên, chứ đồ ăn ngon mà nhân viên phục vụ tệ thì cũng vứt",
+        "time": 1754491661,
+        "translated": false
+      },
+      {
+        "author_name": "Huế Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109567742200732722032/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjwVBsBKzM6yPHPbMMV88bkRsGNuak44Wb6lxYV9llm5D45Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Xuân sang gõ cửa hiên nhà,\nChúc quán mình Tết nở trăm hoa, rộn ràng.\nSớm chiều đỏ lửa thơm lành,\nKhách vô ghé lại, an tâm quay về.\n\nNăm mới thuận gió xuôi bề,\nBuôn bán suôn sẻ, say mê việc làm.\nLộc về như nước tràn sang,\nTiền vô đủ đầy, nụ cười nở hoa.\n\nAn khang sức khỏe cả nhà,\nViệc chi cũng vẹn, đường xa hóa gần.\nXuân này giữ trọn chữ thân,\nMột năm phát đạt, muôn phần bình yên.",
+        "time": 1767181115,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 125
+  },
+  "harvested_at": "2026-04-26T12:45:25.164684"
+}

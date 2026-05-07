@@ -1,0 +1,174 @@
+{
+  "u_key": "b81c529d65c2fe14",
+  "original_osm_name": "Pizza Hut",
+  "google_raw": {
+    "formatted_phone_number": "1900 1822",
+    "geometry": {
+      "location": {
+        "lat": 12.2476169,
+        "lng": 109.1891808
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2489624302915,
+          "lng": 109.1906216802915
+        },
+        "southwest": {
+          "lat": 12.2462644697085,
+          "lng": 109.1879237197085
+        }
+      }
+    },
+    "name": "Pizza Hut Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Anh Ngoc",
+        "author_url": "https://www.google.com/maps/contrib/117679272325199609661/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9qczbUNcCji_5nK7vy5A5YAPHzHYkh3AVbZ6LeRhdGC7a6NOC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhân viên của pizza hut vô cùng tận tình, còn pizza thì ngon, lúc nào cũng là sự lựa chọn đầu tiên của mình",
+        "time": 1770638404,
+        "translated": false
+      },
+      {
+        "author_name": "Xuan Le Thanh",
+        "author_url": "https://www.google.com/maps/contrib/100945912810171637929/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpbzwR-h3pLGeEisEPxoHSFATL-4L-NE8gU7qBjTb-ggnAeA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Chào admin, mình mới sử dụng dịch vụ tại đây. Thật sự thì đồ khăn khá ngon, nhưng mong quán xem xét lại dịch vụ và đồ uống đi kèm. Mình vào thì nv quán có đưa menu xong quay đi ngay lập tức, nhưng sau gần 20-25p chẳng thấy bạn nào quay lại hỏi order. Lúc đó có khoảng 4-5 nv nhưng chỉ có 4 bàn khách. Trà vải thì thật sự quá tệ. Mình dùng Pizza hut ở cả SG và Đa Nẵng rồi nên mình biết chắc chắn trà ở đây có vấn đề. Vải bên trong thì kiểu hết hạn, mùi hôi nồng và nhão nhẹt. Trà thì như kiểu chỉ có trà và đường. Trước đó khoảng 1 tháng mình có dùng trà đào cũng bị tương tự, nhưng lúc đó mình chỉ nghỉ đơn giản là do mình để lâu đá tan ra nên mất ngon. Sau dùng bữa thì mình báo tính tiền. Nv cũng ra đưa bill rồi quay lại quầy đứng tiếp. Khoảng 5p sau mình chủ động xin mã thanh toán thì mới nói hôm nay chuyển khoản không được và yêu cầu mình thanh toán tiền mặt và phải lại quầy thanh toán ??? . Thật sự các bạn nv cũng trẻ thôi, sai sót là bình thường. Nhưng mong quán training để nâng cấp dịch vụ.",
+        "time": 1759291439,
+        "translated": false
+      },
+      {
+        "author_name": "HaNa Vu",
+        "author_url": "https://www.google.com/maps/contrib/103468425192049984206/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCReoNU7dLBYUTaLXgJ4UTGfbjAjYje5hqr8WfiVCentbqOYs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán sạch đẹp, nhân viên nhiệt tình, đồ ăn nóng hổi, 2 bé nhà mình rất thích",
+        "time": 1765103091,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Tram Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102061125912380502349/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBx7SOUFIcZul5K4G7yMHazOhOTmiyQJI6TeEwbWJqhP0hgXfuxw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Món pizza yêu thích hay ăn nhất của bé nhà mình ở đây là pizza tôm bơ tỏi. Quán ở vị trí trung tâm thành phố rất dễ tìm, nhân viên thân thiện, không gian thoải mái. Món gà mắm tỏi và mì Ý rau củ sốt pesto ăn cũng khá ổn.",
+        "time": 1748170322,
+        "translated": false
+      },
+      {
+        "author_name": "Dino Park",
+        "author_url": "https://www.google.com/maps/contrib/100016426520548370054/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSZceXxpJ_CB2cvd3jYl_gfXn8LdLtKwxHrSGvcwJxWJwtv-AF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Pizza ngon mlem mlem mlem quá, ăn 2 miếng rồi vẫn muốn ăn thêm 2 suất nữa hệ hệ",
+        "time": 1759405837,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1814
+  },
+  "harvested_at": "2026-05-02T15:25:21.957198"
+}

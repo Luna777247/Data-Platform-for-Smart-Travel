@@ -1,0 +1,153 @@
+{
+  "u_key": "bea593a305aa25f0",
+  "original_osm_name": "Vibe Bar",
+  "google_raw": {
+    "formatted_phone_number": "9835 8897",
+    "geometry": {
+      "location": {
+        "lat": 1.2843147,
+        "lng": 103.8511593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.285963130291502,
+          "lng": 103.8525404802915
+        },
+        "southwest": {
+          "lat": 1.283265169708498,
+          "lng": 103.8498425197085
+        }
+      }
+    },
+    "name": "VIBE Bistro",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:30–22:00",
+        "Thứ Ba: 11:30–22:00",
+        "Thứ Tư: 11:30–22:00",
+        "Thứ Năm: 11:30–22:00",
+        "Thứ Sáu: 11:30–22:00",
+        "Thứ Bảy: Đóng cửa",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Veenoth Kumar",
+        "author_url": "https://www.google.com/maps/contrib/116746009162032861721/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDMHpiXZi5XIRv7GEIM77vRelnY4WQn3PicEfiwdA_8WDbat_3=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không gian thoải mái, dễ chịu với thực đơn kết hợp hấp dẫn. Nhạc nền nhẹ nhàng và lối trang trí yên tĩnh với nhiều cây xanh tạo nên cảm giác thư giãn tuyệt vời. Màu sắc nhà hàng dễ chịu, bàn ghế thoải mái cho cả bữa trưa và bữa tối.\n\nNhân viên chu đáo và lịch sự. Prida phục vụ chúng tôi rất tốt — cô ấy thậm chí còn giới thiệu một số món ăn tuyệt vời. Tôi thực sự đánh giá cao kỹ năng bán thêm của cô ấy vì điều đó cho thấy cô ấy thực sự quan tâm đến việc kinh doanh và trải nghiệm của khách hàng.",
+        "time": 1764762368,
+        "translated": true
+      },
+      {
+        "author_name": "Louis Chua",
+        "author_url": "https://www.google.com/maps/contrib/117094971820689536949/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRhmNHntuwHj3lO0QdZp87gvi2zE3bpicYD9w6O8Bsgpj0JA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tôi rất thích đồ ăn và dịch vụ ở Vibe!\n\nMón đầu tiên tôi thử là Pad Thai. Hôm nay tôi gọi Mì xào khô và cà phê Mocha ngon tuyệt của quán. Giờ ăn trưa quán luôn đông khách nên tốt nhất là nên đặt bàn trước khi đến.",
+        "time": 1770787640,
+        "translated": true
+      },
+      {
+        "author_name": "Clio Lim",
+        "author_url": "https://www.google.com/maps/contrib/104089675979286061626/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO_EWtULneDBu7pUAWbsWet6kakm4LgWcZO3GEaULa2fBBVlsP=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bữa tối tại VIBE Bistro 🍽️ Tôi gọi vài món ăn và đồ uống — tất cả đều ngon, nhưng điểm nổi bật là món bò stroganoff đậm đà, khoai tây chiên nấm truffle và gà sả, món gà Numb Numb (La Zi Ji) có phần ăn lớn với những miếng gà to, và bánh mì kẹp gà pratawich là một bất ngờ thú vị.\n\nKhông gian thư giãn, thoải mái và một cái bụng no nê để kết thúc buổi tối 😌",
+        "time": 1768918255,
+        "translated": true
+      },
+      {
+        "author_name": "Valerie Lim",
+        "author_url": "https://www.google.com/maps/contrib/117690095895258506218/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJis5IQxx1vSJNZV9xrV6BUrVT6OHFVzTaH4p-fdYzgn33bh-Xtg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Tôi vừa ăn món cá và khoai tây chiên tệ nhất trong đời. Đừng bao giờ gọi món này ở đây. Hãy nhìn lớp bánh mì dày cộp được dùng làm \"bột chiên\" kìa… 😂 Tôi phải gỡ bỏ hết lớp bột chiên và chỉ ăn phần thịt cá (thực ra rất ít, tỷ lệ 1:5).",
+        "time": 1769148478,
+        "translated": true
+      },
+      {
+        "author_name": "Winston Ho",
+        "author_url": "https://www.google.com/maps/contrib/109087882208981210478/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpYx85U5FJwEDY5Qr79-M2uYMSC36deCpgp6tlw_xhR9Dugw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tôi đến Raffles Place dự một cuộc họp và đã tổ chức tại nhà hàng này.\n\nNhà hàng có khu vực trong nhà máy lạnh và khu vực ngoài trời (bàn ghế cao).\n\nChúng tôi chọn ngồi trong nhà vì yên tĩnh hơn.\n\nTôi gọi một ly cà phê flat white (6 đô la) và nó khá ngon.\n\nĐây là một địa điểm tốt để ngắm người qua lại và thư giãn ở Raffles Place.",
+        "time": 1757581161,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 408
+  },
+  "harvested_at": "2026-05-03T19:49:55.279051"
+}

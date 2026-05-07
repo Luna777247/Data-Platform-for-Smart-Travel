@@ -1,0 +1,173 @@
+{
+  "u_key": "fa55c23043634a5c",
+  "original_osm_name": "The Coffee House",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2476983,
+        "lng": 109.1948555
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2489977802915,
+          "lng": 109.1961495302915
+        },
+        "southwest": {
+          "lat": 12.2462998197085,
+          "lng": 109.1934515697085
+        }
+      }
+    },
+    "name": "The Coffee House",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Ngoc Nguyen Thi",
+        "author_url": "https://www.google.com/maps/contrib/117894312826844487410/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPxoxGJSMtyVm96m78AJMypT9N00gRBsIM_Z253_OObhbdCF2r=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 tháng trước",
+        "text": "Matcha đá xay dở nhất mình từng uống với giá 65k. Các bạn nv làm ẩu, đá còn cục to, nhạt nhẽo và tách nước không biết có phải món frappe ko hay là matcha xay với đá thôi =[[[",
+        "time": 1769331035,
+        "translated": false
+      },
+      {
+        "author_name": "Kieu Nguyen thi thu",
+        "author_url": "https://www.google.com/maps/contrib/117424996757526726021/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjUHU352Si8Y5SNybkYec076n1LZhXj4PqJIedIGFR19jxYA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "5 tháng trước",
+        "text": "M đã oder Combo mỳ thịt heo nướng và latte bạc xĩu . Đây có lẽ là combo dỡ nhất đã từng ăn ở đây , đồ ăn quá mặn , nước vì có Caphe nên có lẽ bay mùi khét . Nhưng dù sao cũng có món nước bạc xĩu caramel cũng rất ngon",
+        "time": 1763872349,
+        "translated": false
+      },
+      {
+        "author_name": "_ Winston _ Duy Dũng",
+        "author_url": "https://www.google.com/maps/contrib/116540946829055645693/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG_eqLhcZ_ZUKJ7Nf3WKuB37hw1Pd3fG0P8uabV9WlN0XGx7cP=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình đã thử món nước \" Matcha Tây Bắc \", khá hợp vị của mình. Đậm đà vị matcha hoà vào vị sữa nhẹ nên rất ngon.",
+        "time": 1767351227,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Thạch Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117948429823758444690/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQVbty4jhKIw1LIxREOnpk75xxGnfZph9r8W0_JzTXZj6CjsyE=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Hôm nay đi cafe là trải nghiệm quá tệ cho dịch vụ. Gia đình bạn bè mình hẹn cafe vài lần trong tuần ở đây vì tụi mình có con nhỏ thích đi Siêu thị Goldcost này. Hôm nay order nước xin cái ly giấy nhỏ (ly giấy size nhỏ này thường để lấy nước lọc uống ở các quán như highland… không phải là ly để đựng thức uống mang đi) để lấy nước uống con mà Nv không cho, giải thích là không cho được và đưa cho cái ly thuỷ tinh, mình nói con nít đưa cái ly thuỷ tinh này nó vứt bể nguy hiểm. Nhưng NV vẫn nhất quyết là không cho…đúng thật là quá tệ cho dịch vụ khách hàng, dịch vụ ưu tiên cho con nít…😡😡😡",
+        "time": 1743828776,
+        "translated": false
+      },
+      {
+        "author_name": "TrgTrieu",
+        "author_url": "https://www.google.com/maps/contrib/113399332820146962835/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQAQBwjV4a_XsaiZ_rQM_weARJNBKIKg-TjLYE14nBwrR4nA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhân viên rất thân thiện, đồ ăn và nước uống tuyệt vời. 10 Điểm",
+        "time": 1769418998,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 419
+  },
+  "harvested_at": "2026-05-02T15:40:30.651813"
+}

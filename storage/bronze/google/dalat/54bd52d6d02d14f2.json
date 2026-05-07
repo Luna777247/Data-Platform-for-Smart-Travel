@@ -1,0 +1,73 @@
+{
+  "u_key": "54bd52d6d02d14f2",
+  "original_osm_name": "Hai Dung",
+  "google_raw": {
+    "formatted_phone_number": "0985 636 339",
+    "geometry": {
+      "location": {
+        "lat": 11.9433611,
+        "lng": 108.430976
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9448014802915,
+          "lng": 108.4323248802915
+        },
+        "southwest": {
+          "lat": 11.9421035197085,
+          "lng": 108.4296269197085
+        }
+      }
+    },
+    "name": "Cửa Hàng Dụng Cụ Y Khoa Hải Đăng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Rosie Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110110459732991778458/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc6wUPcrVkzK29Ts8Pn_KVGtN1C6gqyObv7AbPgC1rsP536H6mmA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Shop làm việc nhanh, nhiệt tình, uy tín.",
+        "time": 1675561729,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh My",
+        "author_url": "https://www.google.com/maps/contrib/107202830797617638900/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI662jyy49nZSAQAq5nqIU37gYiQ6xZenPiPKRzKtBEdih6PQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Giá cả tốt, phục vụ ân cần, vui vẻ",
+        "time": 1547294024,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-30T15:04:39.748016"
+}

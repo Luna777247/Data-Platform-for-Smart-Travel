@@ -1,0 +1,89 @@
+{
+  "u_key": "629e801e2ae657ee",
+  "original_osm_name": "Van Viet Cafe",
+  "google_raw": {
+    "formatted_phone_number": "024 3939 3188",
+    "geometry": {
+      "location": {
+        "lat": 21.0232179,
+        "lng": 105.8514746
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0244506802915,
+          "lng": 105.8529272302915
+        },
+        "southwest": {
+          "lat": 21.0217527197085,
+          "lng": 105.8502292697085
+        }
+      }
+    },
+    "name": "Văn Việt cafe",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "English Master",
+        "author_url": "https://www.google.com/maps/contrib/105294495070720930337/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZwJIq04Yt_Rjd-mM9IxN_1xGgCzNvSFU7IwfwHAbpa_pODiM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Này thì kem cá. Quán kem cá này có vẻ khá nổi tiếng. Nằm trong ngõ khu gia ngư gần hàng bông. Quán kem khá bé nhỏ lại đông nên hơi ồn ào náo nhiệt mùa hè chỉ muốn ngất. Vỏ kem cá giòn thơm ăn khá ngon nhưng vì vỏ nóng nên kem khá nhanh chảy.  Vị kem bình thường ki có gì nổi bật kem sữa vani ngon hơn. Giá 45k/ 1 kem cá quá chát cho 1 cuộc tình :((*",
+        "time": 1463592947,
+        "translated": false
+      },
+      {
+        "author_name": "Luong Tam",
+        "author_url": "https://www.google.com/maps/contrib/108856545918549281194/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9UohhWMxtakfSqPiZLJ5jHC-eoVzVWIAG15p5lZPW9exOM8ZrFg=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "Quán hẹp, không gian ấm cúng. Đồ uống không có gì đặc biệt.",
+        "time": 1478415009,
+        "translated": false
+      },
+      {
+        "author_name": "VETVACO JSC",
+        "author_url": "https://www.google.com/maps/contrib/106024099166018866738/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3mHrh-tYmtT3G-lmUT7Zy3lWvA0ujHnxdIn-r3PLtutHQj5KS=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "13 năm trước",
+        "text": "Không gian lịch sự, thoáng mát",
+        "time": 1361506229,
+        "translated": false
+      },
+      {
+        "author_name": "Hai Pham",
+        "author_url": "https://www.google.com/maps/contrib/108588877786019485262/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW78KpquM8w9k-xk5eXZ2Ts4neM-6gQFiuSnfdGxEv_WFPidPN2=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Đã đóng cửa! Tiếc",
+        "time": 1499842351,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Hieu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115654464765225522645/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJQbTpMfIJ7LQL6ki1vjISS67RJf5cDCfhjJx8XuK5kk9JH8OG=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Tốt",
+        "time": 1464305581,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 5
+  },
+  "harvested_at": "2026-04-26T12:45:31.531473"
+}

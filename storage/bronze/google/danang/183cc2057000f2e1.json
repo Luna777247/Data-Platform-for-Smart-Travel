@@ -1,0 +1,174 @@
+{
+  "u_key": "183cc2057000f2e1",
+  "original_osm_name": "Little Flower",
+  "google_raw": {
+    "formatted_phone_number": "0935 278 648",
+    "geometry": {
+      "location": {
+        "lat": 15.8757922,
+        "lng": 108.3469577
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8772145802915,
+          "lng": 108.3482983302915
+        },
+        "southwest": {
+          "lat": 15.87451661970849,
+          "lng": 108.3456003697085
+        }
+      }
+    },
+    "name": "Little Flower Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Cubot Cusoc",
+        "author_url": "https://www.google.com/maps/contrib/114624406972523767974/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVRodDQzCY4vjcyXPOSaNC_jLoI1SDFrmx_AM2QSDbVaVAGFSl=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, nhân viên thân thiện. Đồ ăn măm măm nấu nên rất ưng ý!",
+        "time": 1737523998,
+        "translated": false
+      },
+      {
+        "author_name": "Tam Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100985404956133349256/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVv2U4FnWYr18rMtWhRyKt6riKs5Xu06S-RUskE-EA9XEgUQZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng không gian mát mẻ, sạch sẽ. Đồ ăn ngon, nhân viên nhà hàng siêu thân thiện, nhiệt tình. Lần sau có dịp mình sẽ quay lại thêm để trải nghiệm❤️",
+        "time": 1720703176,
+        "translated": false
+      },
+      {
+        "author_name": "Hien Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102933756942165679930/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJouKzm7c6OKxhe-Z263S_dKbea9LNqLnLFm0Y_tnKuK2Qo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn ngon, chủ quán dễ thương, giá hợp lý, không gian đẹp. 10 điểm ❤️",
+        "time": 1756550467,
+        "translated": false
+      },
+      {
+        "author_name": "Ha Thu",
+        "author_url": "https://www.google.com/maps/contrib/112260974189154142200/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUR0gse5gR-tCMiCdf8Qd-3GLlbpGrY4U17_L-JxCWyCKewG6g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Lần đầu tiên đến đây trải nghiệm món ăn rất ngon , chủ nhà hàng thân thiện, sẽ quay lại",
+        "time": 1720866802,
+        "translated": false
+      },
+      {
+        "author_name": "Bard Khoa",
+        "author_url": "https://www.google.com/maps/contrib/113937558372599468118/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUEQs3ixkxBec-K61apoohFlVWml2xCaGr3dGNy8xzfqPbnca34w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Món ăn ổn, chả giò ngon. Tươi\nHơi chậm.\nNv và chủ nhiệt tình dễ thương\nVài món giá hơi cao, vài món giá ok",
+        "time": 1677578981,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 725
+  },
+  "harvested_at": "2026-04-29T10:51:10.677905"
+}

@@ -1,0 +1,160 @@
+{
+  "u_key": "4d54deb08ca91143",
+  "original_osm_name": "Cà Phê Bar Barista Frank",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0295501,
+        "lng": 105.8478593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0308988302915,
+          "lng": 105.8491661802915
+        },
+        "southwest": {
+          "lat": 21.0282008697085,
+          "lng": 105.8464682197085
+        }
+      }
+    },
+    "name": "Barista Frank Coffee Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Dinh Phuong Nu",
+        "author_url": "https://www.google.com/maps/contrib/104481833997578220576/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx6JUfQzXcLfYRZfZ2LjVyiLezmozy0DLXd5L0STdaevYE9zFd=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "7 tháng trước",
+        "text": "Pha chế chán èo, đồ uóng giá cao nhưng uống như dở hơi",
+        "time": 1756830067,
+        "translated": false
+      },
+      {
+        "author_name": "The Charles Lloyd",
+        "author_url": "https://www.google.com/maps/contrib/116817432687430873817/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs-NewgrWec-GnMa5k-ylUhK_tvlov4P1dB3XeoJ9GwQBJIkfTeA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Một cô phục vụ rất duyên dáng đã phục vụ chúng tôi, cà phê sữa đá thật tuyệt vời và cà phê Americana cũng vậy. Có rất nhiều loại cà phê nóng hoặc lạnh để lựa chọn. Thực đơn đồ ăn khá ít, tôi đã gọi bữa sáng kiểu Việt Nam, súp bò với rau củ và nước sốt rất ngon. Nếu bạn không thích đồ ăn địa phương, hãy thử bánh mì kẹp thịt xông khói và trứng rất ngon hoặc tất cả những món ăn quen thuộc. Phòng tắm sạch sẽ, chỗ ngồi ngoài trời và có máy lạnh. Nếu bạn đi ngang qua và muốn nghỉ ngơi một chút, hãy ghé qua đây, bạn sẽ không hối hận đâu.",
+        "time": 1564456576,
+        "translated": true
+      },
+      {
+        "author_name": "10Death",
+        "author_url": "https://www.google.com/maps/contrib/117213755943050199508/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW25pZDuEE9xulETYhkudZmzHrQyOpAM8FiFhUII8JcCl_nUldH=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán cà phê yên tĩnh có ban công.",
+        "time": 1704899961,
+        "translated": true
+      },
+      {
+        "author_name": "Vikk",
+        "author_url": "https://www.google.com/maps/contrib/108150457444666898037/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh9ej045n_OxAeA8Ko-WLKvd9YvaF1wgnjGgp317scwO_wkvtb=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán cà phê ngoài trời nằm trong khu du lịch đông đúc. Nơi lý tưởng để thưởng thức cà phê và đồ ăn nhẹ.",
+        "time": 1538666886,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-26T12:45:20.321768"
+}

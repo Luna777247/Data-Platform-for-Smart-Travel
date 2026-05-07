@@ -1,0 +1,244 @@
+{
+  "u_key": "9583f6365bed6ba3",
+  "original_osm_name": "Korean Food",
+  "google_raw": {
+    "formatted_phone_number": "1900 9440",
+    "geometry": {
+      "location": {
+        "lat": 11.9495429,
+        "lng": 108.4385743
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9508434302915,
+          "lng": 108.4399532802915
+        },
+        "southwest": {
+          "lat": 11.9481454697085,
+          "lng": 108.4372553197085
+        }
+      }
+    },
+    "name": "Fungi Chingu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1345"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1345"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1345"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1345"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1345"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1345"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1345"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–13:45, 17:00–21:30",
+        "Thứ Ba: 11:00–13:45, 17:00–21:30",
+        "Thứ Tư: 11:00–13:45, 17:00–21:30",
+        "Thứ Năm: 11:00–13:45, 17:00–21:30",
+        "Thứ Sáu: 11:00–13:45, 17:00–21:30",
+        "Thứ Bảy: 11:00–13:45, 17:00–21:30",
+        "Chủ Nhật: 11:00–13:45, 17:00–21:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "An",
+        "author_url": "https://www.google.com/maps/contrib/112640385607068808131/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUAxeKiJDvUdrf--kyZfjDXIW3rkO7qGl-qX3atxjEHRN_4WU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "món ăn ngon, sạch sẽ\ndịch vụ thân thiện.\nở đây các bạn nhân viên chủ yếu là sinh viên, các bạn chịu khó, năng động và nhanh nhẹn.\ngiá cả ok.\nbãi xe thoải mái.",
+        "time": 1764483921,
+        "translated": false
+      },
+      {
+        "author_name": "Dolphin",
+        "author_url": "https://www.google.com/maps/contrib/110570119420369087138/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjwcXJBs1TXIxGo52T2-aea1OVbdGQooBxvvFzSULtjmNUEG0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình tới đầu chiều, quán chưa có ai. Nhân viên cho đợi xíu vào cb là khách sẽ vào nhận bàn liền. Mn phục vụ rất tốt, có nướng giúp khách tại bàn. Đông đúc và vui vẻ thân thiện. Giá cả rất phù hợp.\nSữa gạo thơm, các món ăn kèm cungz ngon. Nói chung tuyệt vời. Mn nên ghé quán nhé",
+        "time": 1768922259,
+        "translated": false
+      },
+      {
+        "author_name": "My Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108285228796561116795/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK90fjsmgVmlP8RrVKRGILsIv4nBI3zre5trP-65zwBY0PtBg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "-không gian: tạm ổn nhưng giờ ăn thì rất đông, nên đặt bàn trước nhé vì mau hết bàn\n-đồ ăn: chưa có gì đặc sắc. sữa gạo dễ uống. thịt đông lạnh bình thường. sốt cũng bình thường luôn. nhưng là quán Hàn hiếm hoi ăn tạm ổn tại Đà Lạt",
+        "time": 1772029729,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Nghi",
+        "author_url": "https://www.google.com/maps/contrib/111622386078560724072/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWWOH9cfbD5DcwPiNLD1NaHqZMWGUu1jrnTsUXLEX5BJW9PeVGSQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhân viên thân thiện, dễ thương. Hỗ trợ hết mình.\nĐồ ăn ở đây okila, giá cả cũng trung bình. Mình hay ăn ở đây khi đến đà lạt.\nPanchan free, rau free, hết thig fill lẹ lứm.\nSữa gạo ở đây ngon xỉu. Thịt cũng mềm nè, kimbap ngon, nhưng mà mì tương đen hơi dở với mình :v\nThịt được nướng trên chảo gang có hình thù cũng lạ :v ở đây đặc biệt oki hơn mấy chỗ khác vì phần thịt ba chỉ bò quán mang ra là thịt nhiều hơn mỡ nhe, thái thịt vừa phải chứ ko mỏng dính như ở SG :)))",
+        "time": 1771823250,
+        "translated": false
+      },
+      {
+        "author_name": "nhat duy vo",
+        "author_url": "https://www.google.com/maps/contrib/115238430468920927568/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7mx-9aJhtqNL3JTDwBhelWbfN7mArs2NHsN_qNLTxF_B7ymk4cA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn 7/10, không gian okie, phục vụ tốt. Chỗ để xe rộng.",
+        "time": 1762958562,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1477
+  },
+  "harvested_at": "2026-04-29T21:18:49.214764"
+}

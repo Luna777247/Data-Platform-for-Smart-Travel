@@ -1,0 +1,174 @@
+{
+  "u_key": "a23e385cd3a0ce12",
+  "original_osm_name": "Café 43",
+  "google_raw": {
+    "formatted_phone_number": "0905 250 990",
+    "geometry": {
+      "location": {
+        "lat": 15.8828971,
+        "lng": 108.327105
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8842328802915,
+          "lng": 108.3284471802915
+        },
+        "southwest": {
+          "lat": 15.8815349197085,
+          "lng": 108.3257492197085
+        }
+      }
+    },
+    "name": "Cafe 43 – Local Restaurant & Craft Beer Hội An",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–22:00",
+        "Thứ Ba: 17:00–22:00",
+        "Thứ Tư: 17:00–22:00",
+        "Thứ Năm: 17:00–22:00",
+        "Thứ Sáu: 17:00–22:00",
+        "Thứ Bảy: 17:00–22:00",
+        "Chủ Nhật: 17:00–22:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Jemand",
+        "author_url": "https://www.google.com/maps/contrib/107824309611549901765/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrSZrPI7gXGEl4uzSqLQl0DDf48hhPJl263KrlzlhxYFJkqw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "sehr authentische Essen, super lecker, sehr empfehlenswert!\n\nvery authentic food, super tasty, highly recommended!\n\nthức ăn rất chân thực, siêu ngon, rất khuyến khích!",
+        "time": 1693142461,
+        "translated": false
+      },
+      {
+        "author_name": "Van Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112664972835208502820/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHdASvXC8nngVW2veVgC3IYSxdGZ52kHfQzmm_a8NndP9j0oaV=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán ăn yêu thích của gia đình mình. Đặc biệt món cary gà.",
+        "time": 1665669473,
+        "translated": false
+      },
+      {
+        "author_name": "Luân Trần xuân",
+        "author_url": "https://www.google.com/maps/contrib/109013337520402283793/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI9uM2ZOqXsQeFQXIdvcKpU_YQ5N7ng5ozW3QedI6-w02rzGeJ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Quán có phong cảnh đẹp, yên tĩnh. Nhân viên phục vụ nhiệt tình. Chu đáo",
+        "time": 1483245996,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Võ",
+        "author_url": "https://www.google.com/maps/contrib/102025285632167213722/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqZheYm_RP3ciN4Oelxw6d9hODjX2IRLJV7DNkvGY2a4uXVVx3yQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Nhân viên phục vụ tốt.",
+        "time": 1520090164,
+        "translated": false
+      },
+      {
+        "author_name": "Phan Tu",
+        "author_url": "https://www.google.com/maps/contrib/115594658216473270290/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnw9HerzU-PIrECffwWb4HzYIe04hOUNDn0RxubBVpN7_krA=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Tạm ổn",
+        "time": 1584415696,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 858
+  },
+  "harvested_at": "2026-04-29T09:39:35.883269"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "346af30f0b04f004",
+  "original_osm_name": "Nhà hàng Lẩu dê Tuấn Hằng",
+  "google_raw": {
+    "formatted_phone_number": "024 3674 0335",
+    "geometry": {
+      "location": {
+        "lat": 21.0438276,
+        "lng": 105.8984141
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0451446302915,
+          "lng": 105.8997679302915
+        },
+        "southwest": {
+          "lat": 21.0424466697085,
+          "lng": 105.8970699697085
+        }
+      }
+    },
+    "name": "Lẩu Dê Tuấn Hằng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Trang Huyền",
+        "author_url": "https://www.google.com/maps/contrib/109563165234290055906/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJjQqJIqivSodeud3nk_6WISESTlJ0LwcPMk4LtcSLwMP6moPC=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán khá cũ, có vẻ là địa điểm quen thuộc của cư dân gần đây. Đồ ăn ở mức trung bình, vị không giống mình ăn trước đây tại các quán dê Ninh Bình. Gia đình mình khoảng 9 người lớn, 2 trẻ con ăn hết hơn 2tr hay gần 3tr mình k nhớ",
+        "time": 1764785716,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Minh Duc",
+        "author_url": "https://www.google.com/maps/contrib/107322968121694803598/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMgQxlQsRAuQ_xyhtMWbpe2Ezt7FoFoyXy0BKljIgMroXGQFtm=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Mình đã ăn ở quán này chắc phải trên 13 năm.\nLần này quay lại, t9 2024, cảm nhận đầu tiên là quán quá vắng vẻ, khác hẳn trước kia luôn tấp nập kẻ vào người ra.\nTối mình ăn mà chỉ có khoảng 3 bàn gia đình, không bia rượu.\nCó phải chăng do lệnh cấm bia rượu hay do chất lượng đi xuống nên vắng khách??? Theo cá nhân mình là cả hai.\nQuán đã đến lúc phải thay đổi bộ mặt cho sang trọng bắt mắt hơn vì có lẽ đã 10 năm nay vẫn khung cảnh cũ kỹ đó, bàn ghế cũ, tường ẩm mốc, nhân viên cũng có lẽ vắng khách mà chả ai tươi cười, mặt cứ buồn buồn.\nĐồ ăn thì theo mình vẫn chất lượng, món ngon mà mình thích là nầm dê chiên và lẩu dê nhừ vẫn Ok.\nMón nhà hàng cần cải tiến là cơm cháy, nước sốt không ngon, không hợp với cơm, cần cải thiện độ chua giảm đi, thêm kiểu như topping vào mới quyện với cơm được.\nGiá cả thì tùy cảm nhận mỗi người, mà với mình thì OK.\nHơi tiếc cho một thương hiệu đã quá lâu năm mà nay có dấu hiệu trầm lắng như vậy.",
+        "time": 1727151927,
+        "translated": false
+      },
+      {
+        "author_name": "my linh",
+        "author_url": "https://www.google.com/maps/contrib/110268054054136158861/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVitNQbevXPMk8qu9ljsLskyXID-rygZjMTBAewwvb6TskfxDQZ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Search quán ăn quanh khu vực Long biên thấy nhiều review cũ từ 3 năm trc nhà mình qua, nhưng đến ăn thấy đồ nấu chán thật, cơm cháy để lâu ỉu, rau sống héo và ko sạch. Đến khi mang đồ ăn ra món nào cũng chán trừ món thịt hầm nhừ còn tạm được. Món dê ủ trấu thì thực sự thảm họa...",
+        "time": 1690027568,
+        "translated": false
+      },
+      {
+        "author_name": "Con Chú Lợn",
+        "author_url": "https://www.google.com/maps/contrib/117565691046473337092/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcWw4Lg9v58JT1-XxfSynWW7Ld7LmHBNo565avlp1ndB1ARkVf=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán nhiều móm ngon về dê\nTôi ăn cũng rất nhiều lần rồi vẫn hương vị cũ thật ngon.\nNhân viên phục vụ nhiệt tình.\nChất lượng tốt",
+        "time": 1580828506,
+        "translated": false
+      },
+      {
+        "author_name": "Gacha life",
+        "author_url": "https://www.google.com/maps/contrib/103245151064160442998/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQ-W_QN6wyerx3d8KvuGcb0Jyf1uefYMmRpynLrau2hhSK3hfc=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Ưu điểm\nCó chỗ đỗ xe ô tô rộng rãi vì nằm trong khu sài đồng\nĐồ ăn ngon, thực đơn đa dạng và đa phần là khá ngon.\nGiá cả hợp lý không đắt không rẻ.\nNhược điểm\nXa trung tâm\nVị trí không nằm mặt phố lớn mà nằm trong khu Sài Đồng.\nNhân viên quản lý hay tập trung chơi điện tử không để ý khách gọi đồ.",
+        "time": 1734450009,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 566
+  },
+  "harvested_at": "2026-04-28T16:13:46.187333"
+}

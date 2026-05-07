@@ -1,0 +1,173 @@
+{
+  "u_key": "93bb8957bc3d2105",
+  "original_osm_name": "Cửa Hàng Chè Xưa Và Nay",
+  "google_raw": {
+    "formatted_phone_number": "0966 044 408",
+    "geometry": {
+      "location": {
+        "lat": 20.98614,
+        "lng": 105.8132805
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9875432802915,
+          "lng": 105.8146435302915
+        },
+        "southwest": {
+          "lat": 20.9848453197085,
+          "lng": 105.8119455697085
+        }
+      }
+    },
+    "name": "Chè Xưa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 2.9,
+    "reviews": [
+      {
+        "author_name": "Diệp Phương",
+        "author_url": "https://www.google.com/maps/contrib/110260082988691434157/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1MoDOWAn1b5TBYJihoAgpzPGefPfOYRBgJIzYCUeTYuoZOgdh=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chưa baoh ăn cốc chè sầu nào dở nnay :)) chè 3 (!?) nhưng vị nhạt như nhau, sầu cấp đông bỏ riêng vô túi zip nhỏ chắc dc 1 thìa ăn cơm. Thề chứ siêu thất vọng thạch dở 😔",
+        "time": 1770646350,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Tâm Đinh",
+        "author_url": "https://www.google.com/maps/contrib/106881200269062652555/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTeUT_lLaDri5ksVKnPDVFrLXK93XDtb6_faCZi_06Y86udw8=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "*ưu điểm: Thái độ niềm nở vs khách hàng, bánh mì nhìn đẹp mắt\n* nhược điểm: bánh mì pate xá xíu: bánh mì ỉu, không nóng giòn, pate tanh, thịt xá xíu thì như thịt luộc, lạnh ngắt không có mùi vị xá xíu. Ncl ăn dở ẹc, quán lúc đó không đông nhưng phải đợi rất lâu, mình có mua thêm cả nước chanh leo uống, thật sự cảm thấy thật vọng, uống như nước lọc, nhạt nhẽo\nMong rằng quán sẽ tiếp nhận đánh giá này để quán được cải thiện ngày một tốt hơn. Hy vọng lần tới ghé quán, bmi sẽ ngon và đậm đà hương vị xưa. Chúc quán buôn may bán đắt.",
+        "time": 1759375105,
+        "translated": false
+      },
+      {
+        "author_name": "Khánh Linh",
+        "author_url": "https://www.google.com/maps/contrib/101541535778785651207/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKivbh9HQEjfbffvyTyTKINB3_h4hY8l-xlJjOehgZ-gIy0FQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Són đc tí chè thu 25k :))) bảo sao nhanh giàu. Bột năng thì nhiều bát thì nông tẹt",
+        "time": 1765621241,
+        "translated": false
+      },
+      {
+        "author_name": "Đậu Huy Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/118436194188949350235/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU8t7cJ0uXo0Pl6UgtHkOWsXHm3AYUTO2HqPwzqu7VVqbea7G1mw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Chè hơi nhạt, chất lượng chưa ổn, giá tb 30-35k / suất, nhân viên thái độ tốt, chắc cũng thử 1 lần cho biết",
+        "time": 1717386571,
+        "translated": false
+      },
+      {
+        "author_name": "Dinh Linh",
+        "author_url": "https://www.google.com/maps/contrib/109004078140554624497/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9RY9b32SPc_DRtzKMXRkUGWFe-XHV29iHElqciI5oTbWMxJ1W=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "K gian và nhân viên ok.\n\nĐồ ăn thì độ ngọt vừa phải, được cái mình thấy sạch sẽ. Còn k quá ngon, ăn được thôi. Riêng caramen thì k ngon tí nào, quán nên đổi chỗ mua caramen hoặc nếu tự làm thì thay cách làm.",
+        "time": 1698684562,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 48
+  },
+  "harvested_at": "2026-04-28T16:26:03.940860"
+}

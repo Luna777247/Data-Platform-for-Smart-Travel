@@ -1,0 +1,173 @@
+{
+  "u_key": "3d4b6f928d876b42",
+  "original_osm_name": "Cà Phê Bạch Thảo",
+  "google_raw": {
+    "formatted_phone_number": "0398 915 579",
+    "geometry": {
+      "location": {
+        "lat": 21.041716,
+        "lng": 105.8331505
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0431548302915,
+          "lng": 105.8344974302915
+        },
+        "southwest": {
+          "lat": 21.04045686970849,
+          "lng": 105.8317994697085
+        }
+      }
+    },
+    "name": "Cafe Bách Thảo",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–17:30",
+        "Thứ Ba: 07:00–17:30",
+        "Thứ Tư: 07:00–17:30",
+        "Thứ Năm: 07:00–17:30",
+        "Thứ Sáu: 07:00–17:30",
+        "Thứ Bảy: 07:00–17:30",
+        "Chủ Nhật: 07:00–17:30"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "ThamMyVien Hki",
+        "author_url": "https://www.google.com/maps/contrib/104968634091226920866/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz_f5JsggE_rVM0MgSWU0CYlND5YDliIkXCeFFysElXH1_K_pI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Bách Thảo Cafe có cà phê không đường, cà phê có đường, cà phê sữa đá, cà phê sữa nóng, bạc Sửu, cà phê muối, các loại trà, các đồ uống hoa quả tươi.",
+        "time": 1734579169,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102613148799373124660/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8KiyyOLB7n7O16rEvA0U4tasAcKDvmBN5Ks40OcvalyTOZLs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Vị trí thoáng mát, không khí trong lành, yên tĩnh. Thuận tiện nghỉ ngơi sau khi thể dục nhẹ, và đi bộ thư giãn, đồ ăn uống hơi ít lựa chọn, nhưng cũng tạm ổn. Nhân viên thân thiện !!!",
+        "time": 1687344326,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100848594495986978229/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVha-jEViXwQK66OJ7Kr6fFn5OOWpp7RRb7Ky_bOne_VxVcgDQa=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Từng mua nước ép ở quán rồi uống trong khuôn viên vườn Bách Thảo. Đồ uống cơ bản không có gì đặc sắc, mua vì tiện ở trong công viên",
+        "time": 1767538095,
+        "translated": false
+      },
+      {
+        "author_name": "Hanh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101374778282222352904/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5ZJlKgk4FbgHiySF3WTkmClJSIXNAB4Ch84Sbf7xsyR-dsw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán rộng, sạch sẽ, thoáng đãng, có cả chỗ ngồi trong nhà và ngoài trời. Có nhiều loại đồ uống và đồ ăn với các món bánh mì sốt vang, phở bò sốt vang, phở bò tái, bánh mì trứng. Món bò sốt vang ở đây nấu ngon. Giá vừa phải 35k. Đến ăn hoặc uống nước có thể gửi xe không mất tiền để vào công viên, có chỗ thay đồ để chụp ảnh. Nhân viên phục vụ thân thiện, nhiệt tình. Phù hợp cho người đi nhóm nhỏ hay đông người. Là địa điểm nên trải nghiệm khi đi vườn Bách Thảo hay gần vị trí này.",
+        "time": 1607638968,
+        "translated": false
+      },
+      {
+        "author_name": "Ja",
+        "author_url": "https://www.google.com/maps/contrib/101615530985770676880/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_2k2JAjPuRjHGSxxvlLzo8NbhSSssBveawa8E9r-FRVquYS96=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "I politely addressed a waitress. She was rude and unprofessional, waved her hand and left.\n\nTôi lịch sự hỏi cô hầu bàn thô lỗ và thiếu chuyên nghiệp điều gì đó, cô ta vẫy tay và bỏ đi. Không thể chấp nhận được.",
+        "time": 1735348523,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 188
+  },
+  "harvested_at": "2026-04-26T16:52:25.528577"
+}

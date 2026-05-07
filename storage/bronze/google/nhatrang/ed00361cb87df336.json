@@ -1,0 +1,109 @@
+{
+  "u_key": "ed00361cb87df336",
+  "original_osm_name": "Cafe Thuần Việt",
+  "google_raw": {
+    "formatted_phone_number": "0934 058 911",
+    "geometry": {
+      "location": {
+        "lat": 12.6886285,
+        "lng": 109.2239668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.6898848302915,
+          "lng": 109.2252314302915
+        },
+        "southwest": {
+          "lat": 12.6871868697085,
+          "lng": 109.2225334697085
+        }
+      }
+    },
+    "name": "Cafe Thuần Việt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Shopvatnuoi. vn",
+        "author_url": "https://www.google.com/maps/contrib/102687531474047224899/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9rTvZGZNFK2zU1FafSdNeCu71fmZvpR91YIkBWFPe-4TYk7abBQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "\"Đừng bao giờ hứa trong lúc vui vẻ.\nĐừng bao giờ hứa nếu không thể giữ lời.\"",
+        "time": 1767933224,
+        "translated": false
+      },
+      {
+        "author_name": "Lương Mạnh",
+        "author_url": "https://www.google.com/maps/contrib/107377821517959195751/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWD5NKZGUrP4L1kvBxxreQ_wKM03G0N-xwpJjy0YWpC1sYQ1VSn=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Nếu đến Vạn Ninh du lịch (có đảo Điệp Sơn khá đẹp) thì nên dành thời gian ghé các quán cafe ở đây.. 1 thị trấn nhỏ có rất nhiều quán cafe vườn rộng thênh thang. Có quán rộng cả vài ngàn m2.\nĐây cũng là 1 địa điểm khá oke để thưởng thức cafe và không khí biển ( cách biển tầm 100m)",
+        "time": 1552167472,
+        "translated": false
+      },
+      {
+        "author_name": "Mỹ Hoa Trương",
+        "author_url": "https://www.google.com/maps/contrib/106570799540674198507/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5k-MhUOMlruDSXsiSTfhSkzakob9SOBDrd8yzB8N4wJXiHK0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "Lần đầu ghé, ngồi 15 phút không thấy nhân viên ra, quán phụ vụ tệ , không ai thấy khách vào ,",
+        "time": 1727575815,
+        "translated": false
+      },
+      {
+        "author_name": "giahuy",
+        "author_url": "https://www.google.com/maps/contrib/106967705276670338335/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmxd2HYl92ZJQS67y2LCgrgH3G1dsQfW_PX2Zt-qbMhVrY6bI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Nước thì đắt.1 chai nước ngọt 24k, tới ngồi xem họ chơi game thì đuổi buột bắt đống tiền với giá 18k để ngồi lại",
+        "time": 1735454728,
+        "translated": false
+      },
+      {
+        "author_name": "Muôn Chiều Lá Đổ",
+        "author_url": "https://www.google.com/maps/contrib/114582723552224668762/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJfzeJEeBO6ElLUZV_VdCgfIVzugcQNp-JieWgZ911v9jj6FLIqw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán đẹp nhất về ban đêm.",
+        "time": 1545535938,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 27
+  },
+  "harvested_at": "2026-05-02T15:31:26.693062"
+}

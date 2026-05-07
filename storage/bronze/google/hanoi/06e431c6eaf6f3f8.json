@@ -1,0 +1,172 @@
+{
+  "u_key": "06e431c6eaf6f3f8",
+  "original_osm_name": "Cà Phê Moonlight",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0171728,
+        "lng": 105.8271211
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0184470802915,
+          "lng": 105.8284396302915
+        },
+        "southwest": {
+          "lat": 21.01574911970849,
+          "lng": 105.8257416697085
+        }
+      }
+    },
+    "name": "Moonlight Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:00",
+        "Thứ Ba: 09:00–23:00",
+        "Thứ Tư: 09:00–23:00",
+        "Thứ Năm: 09:00–23:00",
+        "Thứ Sáu: 09:00–23:00",
+        "Thứ Bảy: 09:00–23:00",
+        "Chủ Nhật: 09:00–23:00"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Minh Trần",
+        "author_url": "https://www.google.com/maps/contrib/102729442360336371212/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo7D_MjBNeAurRYrQfR0WXhfkQYtmvrAJ-SGv7-T6QH1zzkw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "đồ uống đơn giản, thông thường nhưng giá cả hợp lý. Thái độ phục vụ nhân viên rất tốt k chê đc điểm gì!",
+        "time": 1572609865,
+        "translated": false
+      },
+      {
+        "author_name": "Dat Minh",
+        "author_url": "https://www.google.com/maps/contrib/114819874676916538639/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKac0YzC3nTTliQYbV9B4H2wWvoGys9FHTd_eKv2ANeSp4BOMi=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán cafe kiểu hiện đại, yên tĩnh, rẻ và ngon, thích hợp cho việc uống cafe trước khi đi làm",
+        "time": 1548591362,
+        "translated": false
+      },
+      {
+        "author_name": "Phạm Hữu Phúc",
+        "author_url": "https://www.google.com/maps/contrib/100115612621187172149/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWa-SIk8-vKQ8rmV7ob9Jet75AkrgTiowwOglp5Xqahsq4nKmI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "quán gần vườn hoa 1/6\nkhông gian hơi hẹp vì vẫn là mặt ngõ.\ncà phê ngon",
+        "time": 1476508813,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Vuong Tran",
+        "author_url": "https://www.google.com/maps/contrib/105993163601872482012/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGpVBJKrfevLupKUKUaz5AUJB7Pel3HtBiEGeKqbXi8H3dmc_1=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Cafe ngon, chủ quán nhiệt tình phục vụ tốt.",
+        "time": 1519196221,
+        "translated": false
+      },
+      {
+        "author_name": "cô Oanh",
+        "author_url": "https://www.google.com/maps/contrib/108915895259942386102/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIir2CJc8t60Cd83kylHqf3nhrVfi0tnspZEMMw2L38MqtW=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Ngon bo re\nNhiet tinh& chu dao",
+        "time": 1573176943,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 54
+  },
+  "harvested_at": "2026-04-27T19:58:07.902360"
+}

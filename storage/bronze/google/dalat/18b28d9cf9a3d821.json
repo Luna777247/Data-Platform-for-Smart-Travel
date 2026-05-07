@@ -1,0 +1,174 @@
+{
+  "u_key": "18b28d9cf9a3d821",
+  "original_osm_name": "Mọt BBQ & Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0988 395 896",
+    "geometry": {
+      "location": {
+        "lat": 11.9350034,
+        "lng": 108.4321749
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9363630302915,
+          "lng": 108.4334046302915
+        },
+        "southwest": {
+          "lat": 11.9336650697085,
+          "lng": 108.4307066697085
+        }
+      }
+    },
+    "name": "BBQ Mọ Tề",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Phước Sang Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/110080717309901023511/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxympaEaL67WPsgcBZQMSSmmNrSh760eFb8bEq52P5wyWCAqip=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khung gian quán ấm cúng, sạch sẽ\nNhân viên phục vụ nhiệt tình và rất nhanh, mặc dù thời điểm mình vào quán khá là đông khách.\nĐồ ăn nêm vừa với khẩu vị của mình, trình bày có chăm chút và gọn gàng.\nVề giá cả, đây là điều đặc biệt, giá phải nói là cực kỳ phải chăng.\nSẽ quay lại vào lần kế tiếp ghé Đà Lạt.",
+        "time": 1769435879,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Trúc Nguyễn Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/109874010657204764420/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVa8A-yN52i6aju1MOYMk4HmwOuTy-pvdH5y5xHlSc2J0CEx9Pnzg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình được bạn giới thiệu thấy quán okila lắm từ không gian decor quán tới nhân viên đều nhiệt tình dễ thương lắm, để ý khách cực. Giá cũng ổn nữa, khẩu phần đồ ăn oki. Cái bao tử nướng đỉnh của chóp luôn, rất là nên thử luôn. Quán có hút mùi nên hong sợ hôi tóc luôn. Nhất định sẽ quay lại hehe. À combo hải sản cũng ổn lắm nha",
+        "time": 1763271898,
+        "translated": false
+      },
+      {
+        "author_name": "nguyet nguyen",
+        "author_url": "https://www.google.com/maps/contrib/113466500620135392961/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMutwGeM4X3N-4X_5QUTRn8tcLTLuNOihMPVrHdkbS2YAVcQjU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình đã gọi 3 món và món nào cũng ngon, quán nhìn cũng ấm áp, lại có thêm 1 địa điểm để ghé ăn rồi, tuyệt vời",
+        "time": 1769574482,
+        "translated": false
+      },
+      {
+        "author_name": "Nhân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107862203099707621517/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxhu-K1oarveFadKoSYppws5x6pswecDBHfMmQzvN_z233VA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán phục vụ không ok nhân viên không tôn trọng khách hàng quản lý thì lơ đãn đùn đẩy trách nhiệm khi gọi món thì cứ làm cho qua loa lên món lâu cả tiếng hơn ch lên món đợi đứng dạy bỏ về mới chịu làm món cho khách tính tiền không trung thật mùng7 r mà vẫn tính phụ thu mà 1 bill lại tính tới hai lần nhắt thì kiu nhầm tính lại thì vẫn cố tình dấu phần phụ thu ở cuối zô bill nói thì kiu do kế toán sai sót xem thường khách khi bàn mình vô đàu tiên mà lại là bàn được lên món cuối cùng bàn vô sau lại được lên trước hết bếp làm ăn không hợp lí khi không biết xem bill và chia món cho các bàn nên khá thất vọng về quán sẽ ko ghé lại quán lần nào nữa và cũng khuyên mọi người xem sét kĩ rồi hẳn ăn các quán như thế này và phần dịch vụ mình không cho sao nào chứ nếu có âm sao mình cũng cho âm sao lun rồi quán quá tệ hết sức tệ 😮‍💨\nSay bye quán lần đàu cũng như lần cuối quán làm mình thất vọng về đà lạt quá",
+        "time": 1772033358,
+        "translated": false
+      },
+      {
+        "author_name": "Phi Yến",
+        "author_url": "https://www.google.com/maps/contrib/107022485674548718241/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaq0JzH5M7_Pc0ZTeFKYB-foinRDGg0iz3hCk-1oaSy_0zqeTI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đặt bàn từ 7h30 tối, tới nơi thì nv nói hết bàn đợi dọn phải tầm 15p mới được ngồi vào bàn. 8h bắt đầu order mà 8h50 chưa có 1 món nào chỉ mang lên vài lon nước ngọt, xin cái ly thì đợi tầm 20p không mang ra, gọi nhân viên rõ to mà nhân viên bơ, mặt thì cứ cười cợt, đợi lâu quá mới kêu nhân viên thanh toán mấy lon nước thì cũng phải đợi 20p nữa mới mang bill ra, nhân viên không một ai xin lỗi, nói quản lý ra thì cho 1 người ra cũng chẳng xin lỗi 1 câu , tụi mình nhắc thì mới xin lỗi. Thái độ phục vụ quá tệ, làm dịch vụ mà như vậy thực sự không chấp nhận nổi",
+        "time": 1771598842,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1277
+  },
+  "harvested_at": "2026-04-30T15:08:53.091048"
+}

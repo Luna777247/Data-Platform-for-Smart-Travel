@@ -1,0 +1,174 @@
+{
+  "u_key": "7fdb849822a8fbe3",
+  "original_osm_name": "Nhà hàng Mẹt Đồng Quê",
+  "google_raw": {
+    "formatted_phone_number": "0965 191 311",
+    "geometry": {
+      "location": {
+        "lat": 21.0330894,
+        "lng": 105.8523135
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0344369302915,
+          "lng": 105.8536624802915
+        },
+        "southwest": {
+          "lat": 21.0317389697085,
+          "lng": 105.8509645197085
+        }
+      }
+    },
+    "name": "MẸT Vietnamese restaurant & Vegetarian Met 4",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:30",
+        "Thứ Ba: 10:00–22:30",
+        "Thứ Tư: 10:00–22:30",
+        "Thứ Năm: 10:00–22:30",
+        "Thứ Sáu: 10:00–22:30",
+        "Thứ Bảy: 10:00–22:30",
+        "Chủ Nhật: 10:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112981717229712834405/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcU-6nMly1RVyNEpx02RKnFnt-JOigyNjUWC4YGXg3633cO2U=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tháng trước",
+        "text": "Tệ hết sức tệ từ đồ ăn đến nhân viên. Gọi bao nhiêu câu mới đến oder cho khách trong khi chỉ đứng chơi không làm gì. Đồ ăn thì hết sức tệ bạc giá thành thì không phải chăng. Đồ ăn thì toàn đồ đông lạnh. Lại còn bèo bạt như vậy. Không thể chấp nhận được",
+        "time": 1772869486,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Đoàn Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/100421228863799378130/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaSXcO0azmwXnVWDx4BIZLZaenMoO6Rb1REpm0bQ1qcnmJCXIu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán sạch sẽ đẹp đẽ, nhân viên phục vụ nhiệt tình .Bún trộn gà nướng làm mình woa thực sự. Không có sự định ghé vào nhưng quán làm mình bất ngờ về sốt trộn.",
+        "time": 1765176102,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Hạnh Trần",
+        "author_url": "https://www.google.com/maps/contrib/100564709034394221731/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuG7dnUBM0TFuedZZdOHVOijTYQSqJuEKfnyW4zuTojGswswtD=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Bánh xèo là 1 món ăn đặc sắc ở đây,  mình được người nước ngoài giới thiệu chứ là người Việt Nam thì mình cũng không ăn ở đây. Gà nướng chưa đậm vị lắm và không có sốt hay muối chấm. Gỏi cuốn khá đầy đặn.",
+        "time": 1759247650,
+        "translated": false
+      },
+      {
+        "author_name": "Journey FG",
+        "author_url": "https://www.google.com/maps/contrib/113293562519625174887/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG6wW_oVlxu5eUOrzLwG8RETjNB87wV8JZLuzFBlzzlmqO5Zs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Nấu ăn khá ngon, bếp làm được kho quẹt là món miền Nam rất ổn.\nQuán nhỏ nhưng chuẩn hương vị món ăn Việt Nam. Phù hợp cho trải nghiệm của khách nước ngoài.",
+        "time": 1753683289,
+        "translated": false
+      },
+      {
+        "author_name": "R RR",
+        "author_url": "https://www.google.com/maps/contrib/103979812836345150135/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBrQvy8QDHreYA0WuGCX7cMjE_4lUQwAvf2fVlShxRoz3fyIZn=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "@jack\nCảm ơn vì những món ăn ngon và thời gian tuyệt vời",
+        "time": 1763739128,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 19218
+  },
+  "harvested_at": "2026-04-28T16:26:56.909928"
+}

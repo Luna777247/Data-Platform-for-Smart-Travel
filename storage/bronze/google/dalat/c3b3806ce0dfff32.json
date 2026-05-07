@@ -1,0 +1,24 @@
+{
+  "u_key": "c3b3806ce0dfff32",
+  "original_osm_name": "Cozy Nook Hostel",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9426116,
+        "lng": 108.4335758
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9439487802915,
+          "lng": 108.4349462302915
+        },
+        "southwest": {
+          "lat": 11.9412508197085,
+          "lng": 108.4322482697085
+        }
+      }
+    },
+    "name": "Cozy Nook Hostel"
+  },
+  "harvested_at": "2026-04-30T15:14:32.403252"
+}

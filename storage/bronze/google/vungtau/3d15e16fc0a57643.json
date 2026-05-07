@@ -1,0 +1,88 @@
+{
+  "u_key": "3d15e16fc0a57643",
+  "original_osm_name": "Nhà nghỉ Ngân Hàng Công Thương",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 10.3466261,
+        "lng": 107.0954166
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3480322302915,
+          "lng": 107.0968134802915
+        },
+        "southwest": {
+          "lat": 10.3453342697085,
+          "lng": 107.0941155197085
+        }
+      }
+    },
+    "name": "Nhà nghỉ dưỡng Công đoàn Ngân hàng Chính sách xã hội Vũng Tầu",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Tuấn Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112102056607521085720/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmz1M2CQ4AqqpZCE0Qpzh0tkE1BM5BhyJUEp_pLwRDGi-N4g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Vị trí lý tưởng để khám phá bãi sau. Phòng ốc sạch đẹp…",
+        "time": 1751415689,
+        "translated": false
+      },
+      {
+        "author_name": "thang636007 Hoang",
+        "author_url": "https://www.google.com/maps/contrib/110812333342473811865/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJKZE4XRUYU3nDFuwyDMbOyVk6TDrQ3CLqY43UbydmoTdOmXBDgg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Sạch sẽ, cạnh trung tâm Vũng Tàu.... đi ăn uống, nhậu.... chơi bời rất tiện",
+        "time": 1733625673,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoan Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102029254900269662335/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGm3a2Vza2B0hr4o8Qqi6_PX4UW3hFz4nxe5BN3ymnlf6ncvjD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Tiện nghi đầy đủ",
+        "time": 1773059647,
+        "translated": false
+      },
+      {
+        "author_name": "Oanh Ma",
+        "author_url": "https://www.google.com/maps/contrib/109140452246151044645/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoMycGRQqqGecelgxC793gsbXUNJG6sf1nR17cHOk8VXQxv3Sr=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Sạch sẽ hiện đại ngon bổ rẻ a",
+        "time": 1722177001,
+        "translated": false
+      },
+      {
+        "author_name": "Long Kim",
+        "author_url": "https://www.google.com/maps/contrib/105063911149175634478/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV15MExdRa3-4HWOugRmAIIxew5FS7rqVVxPpewQVJLXi-wyG7FpQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Khách sạn tốt, rộng và mát mẻ sạch sẽ. Nhưng lâu lâu có vài xe ô tô dừng đỗ không có ý thức, chắn ngang cửa ra vào của mặt tiền khách sạn gây cản trở giao thông và khó khăn di chuyển.",
+        "time": 1774692503,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 14
+  },
+  "harvested_at": "2026-05-03T19:45:18.220410"
+}

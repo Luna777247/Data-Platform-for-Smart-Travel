@@ -1,0 +1,172 @@
+{
+  "u_key": "73fdbbd46b69b11e",
+  "original_osm_name": "Cà Phê Kiến",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0178922,
+        "lng": 105.8260601
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0192379302915,
+          "lng": 105.8274071802915
+        },
+        "southwest": {
+          "lat": 21.0165399697085,
+          "lng": 105.8247092197085
+        }
+      }
+    },
+    "name": "Hang Kiến Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:30",
+        "Thứ Ba: 08:00–22:30",
+        "Thứ Tư: 08:00–22:30",
+        "Thứ Năm: 08:00–22:30",
+        "Thứ Sáu: 08:00–22:30",
+        "Thứ Bảy: 08:00–22:30",
+        "Chủ Nhật: 08:00–22:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "lamkaoo",
+        "author_url": "https://www.google.com/maps/contrib/113273621855683517051/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuOq24ifzX5yDFmm-dMJ2a8t_KtYVYYFbWvCCaWDEkjTEt1a5wwg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhìn từ bên ngoài, quán có vẻ hơi nhỏ nhưng khi bước vào trong thì không gian lại bất ngờ rộng rãi với nhiều khu vực riêng tư khác nhau, rất phù hợp cho những ai cần sự yên tĩnh để làm việc hoặc tâm sự. Vì mình tới khá sớm nên quán còn vắng, không khí cực kỳ thoải mái và dễ chịu.\n\nVề dịch vụ, các bạn nhân viên ở đây phục vụ rất nhanh nhẹn và lịch sự, không để khách phải chờ đợi lâu. Chất lượng đồ uống theo mình đánh giá là ổn và hoàn toàn tương xứng với giá thành.",
+        "time": 1770219140,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Ngan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108233421955341124931/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWaMEqXHwqNR2eelC3m93AmSYV15LxaZg8FsVA2Ri7hHJVdoe9=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian ngồi hơi bí, có phân chia không gian trong nhà và ngoài trời nhưng mùi thuốc lá vẫn bay vào bên trong khá nhiều. Nhân viên cũng thân thiện, nhưng chưa chú ý phần khói thuốc có thể bay vào bên trong. Nvs cũng chỉn chu đầy đủ đồ cho các bạn nữ dùng. Đồ uống tạm, theo cảm quan cá nhân là k ngon cho lắm. Tường cũng bị cũ và vỡ lớp sơn nên mình thấy k chỉn chu dù tranh trí các thứ cũng khá sáng tạo",
+        "time": 1764860798,
+        "translated": false
+      },
+      {
+        "author_name": "Nhung Phạm",
+        "author_url": "https://www.google.com/maps/contrib/114377177402781282039/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbE5yTO7U1EOdZsdaot4fECQFl8nGRzGEyf7XwAR39MhY4_ToYFA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ uống bình thường nhưng ko gian oke, nhân viên thì rất nhiệt tình nên mình cũng thường xuyên tới. Nhưng mình nghĩ quán có thể đầu tư thêm đệm ghế cho đỡ ê mông với đau lưng khi ngồi lâu :)))) quán cân nhắc nha",
+        "time": 1765762481,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Anh Vũ",
+        "author_url": "https://www.google.com/maps/contrib/108479250794102341388/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWw8JOGWwPZiIoeWtbeNNU9_i9P7k9oVKipdnOKllBUFEnqzpE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Vừa oder xong vào chỗ thì có bé mèo đi theo sau đáng yêu lắm, nhân viên meo đấy là nhiệt tình nhất luôn. Ko gian khá ấm cúng và yên tĩnh, nếu đến sớm sẽ chọn đc bàn ngay cửa sổ chill lắm. Mình gọi trà quả mọng khá ngon, Brownie thì ko quá ngọt mà thiên đắng nhiều hơn và đc lm ấm trước khi mang ra. Nhân viên nhẹ nhàng, giá ok ko cao đâu",
+        "time": 1752478486,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Anh Pham Thi",
+        "author_url": "https://www.google.com/maps/contrib/111107899721412602804/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZbkLuN93knmEg811EHWDF0SLmLCagqt_DY9JMdGOBFSeW9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Không gian quán khá chill, có cả khoảng sân rộng để ngồi, nhân viên nhiệt tình đáng iu nhất là nhân viên Rô meo meo, đồ uống ok hợp khẩu vị mình",
+        "time": 1756120387,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 130
+  },
+  "harvested_at": "2026-04-26T12:45:26.630744"
+}

@@ -1,0 +1,24 @@
+{
+  "u_key": "d6765eeb0f9d9b42",
+  "original_osm_name": "The Old House Hostel",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9517799,
+        "lng": 108.4316442
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9531055802915,
+          "lng": 108.4329360802915
+        },
+        "southwest": {
+          "lat": 11.9504076197085,
+          "lng": 108.4302381197085
+        }
+      }
+    },
+    "name": "The Old House Hostel"
+  },
+  "harvested_at": "2026-04-30T15:13:59.757533"
+}

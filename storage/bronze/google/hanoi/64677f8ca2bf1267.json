@@ -1,0 +1,168 @@
+{
+  "u_key": "64677f8ca2bf1267",
+  "original_osm_name": "T+ Beer Club",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0196427,
+        "lng": 105.8458343
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0210471302915,
+          "lng": 105.8471889302915
+        },
+        "southwest": {
+          "lat": 21.0183491697085,
+          "lng": 105.8444909697085
+        }
+      }
+    },
+    "name": "68 Beer Club",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:00",
+        "Thứ Ba: 09:00–23:00",
+        "Thứ Tư: 09:00–23:00",
+        "Thứ Năm: 09:00–23:00",
+        "Thứ Sáu: 09:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 09:00–23:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Данг Бинь",
+        "author_url": "https://www.google.com/maps/contrib/112517212797614877510/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTaLU4xZvt9AdwtpBggGktBVVPCo2Yyg1OyvsTAsrXYxeYgCkr=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Ở một vị trí khá đẹp gần hồ Thiền Quang, tuy nhiên đỗ xe là hơi khó. Đồ uống có cả bia nhập, bia nội và bia hơi Hà nội nếu đặt trước.\nĐồ nhậu ko phong phú cho lắm, ở mức bình dân và tạm chấp nhận được. Tuy nhiên sạch sẽ, vệ sinh.\nNhân viên ít, thái độ tương đối ổn.\nGiá cả cao hơn chỗ khác, có thể gọi là chát so với chất lượng của quán!",
+        "time": 1535257817,
+        "translated": false
+      },
+      {
+        "author_name": "Thiên Âu Dương",
+        "author_url": "https://www.google.com/maps/contrib/118086561764419935642/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX0milUqExGYiHUN0_p61ljPNMJrqtbRkpONQnRpUjM0TxeA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "View đẹp . Rất văn minh",
+        "time": 1577004761,
+        "translated": false
+      },
+      {
+        "author_name": "Vĩnh Hưng",
+        "author_url": "https://www.google.com/maps/contrib/108133984095168765196/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQn6FrjgeIHjdz8b_gBiBJjCtrsFf4o-_yNROMIozDh3HiOU-e=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "quán vắng khách",
+        "time": 1515722992,
+        "translated": false
+      },
+      {
+        "author_name": "Thủy Trần đỗ lệ",
+        "author_url": "https://www.google.com/maps/contrib/116727923493980746790/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJaKWY6g5NkChsLysY_6_C89ZQ1CTqwJRkTPs3pmmRGnZNyg=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1698316087,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Tuấn Anh",
+        "author_url": "https://www.google.com/maps/contrib/109446476798114166783/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7qyAoxDfNqB9zCfyRa6SRzRHNrHZyLJDGqEtRLP-up7n99_DSAg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1581156354,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 16
+  },
+  "harvested_at": "2026-04-28T16:23:57.102825"
+}

@@ -1,0 +1,184 @@
+[
+  {
+    "u_key": "127962ac27d0ee4d",
+    "name": "Thích ca Phật Đài",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.3746285,
+      "lon": 107.0705354
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "c9302f7cd3262c04",
+    "name": "Cổng Khu du lịch Chí Linh",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.3710949,
+      "lon": 107.1196423
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "2200ecab66fe015f",
+    "name": "Đài Liệt sĩ",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.3489051,
+      "lon": 107.0927071
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "d28fc4a29941d776",
+    "name": "French Fort",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.3804741,
+      "lon": 107.0587039
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "c3092a5b1f91ee67",
+    "name": "Bãi tắm Thủy Tiên",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.371436,
+      "lon": 107.1242939
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "ab731b4846501987",
+    "name": "Hầm Thủy Lôi",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 10.3793526,
+      "lon": 107.0591897
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "696410f5d0b5fb84",
+    "name": "Cáp treo Vũng Tàu",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.3511062,
+      "lon": 107.0663621
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "5924cb8e205adcab",
+    "name": "Đường Sách Vũng Tàu",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.3476497,
+      "lon": 107.0735975
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "030ae55a0b93ef1e",
+    "name": "Ancient Artillary Battlefield",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.3286782,
+      "lon": 107.0826765
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "338a456eca81e4d1",
+    "name": "Công viên Bãi Trước",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "Quang Trung",
+    "location": {
+      "lat": 10.3438666,
+      "lon": 107.0742356
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "87fc406fa14e1d9b",
+    "name": "Bạch Dinh",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 10.3507783,
+      "lon": 107.0685886
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "7e9a47fa6253cc24",
+    "name": "Tượng Chúa Kitô Vua",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "",
+    "location": {
+      "lat": 10.3265012,
+      "lon": 107.0845207
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "3c3d17291d1d55bd",
+    "name": "Niết Bàn Tịnh Xá",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "Hạ Long",
+    "location": {
+      "lat": 10.3306313,
+      "lon": 107.0767986
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  },
+  {
+    "u_key": "48d043ac04b067a3",
+    "name": "Nhà thờ Vũng Tàu",
+    "type": "attraction",
+    "city": "vungtau",
+    "address": "Thống Nhất",
+    "location": {
+      "lat": 10.3461195,
+      "lon": 107.0773646
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:24.826544"
+  }
+]

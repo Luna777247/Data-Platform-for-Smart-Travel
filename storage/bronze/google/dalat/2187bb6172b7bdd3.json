@@ -1,0 +1,174 @@
+{
+  "u_key": "2187bb6172b7bdd3",
+  "original_osm_name": "Mi Quang Thanh",
+  "google_raw": {
+    "formatted_phone_number": "0838 131 153",
+    "geometry": {
+      "location": {
+        "lat": 11.9563831,
+        "lng": 108.4349684
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9577599302915,
+          "lng": 108.4363272302915
+        },
+        "southwest": {
+          "lat": 11.9550619697085,
+          "lng": 108.4336292697085
+        }
+      }
+    },
+    "name": "Mì Quảng Nhà Shin- Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–20:00",
+        "Thứ Ba: 06:00–20:00",
+        "Thứ Tư: 06:00–20:00",
+        "Thứ Năm: 06:00–20:00",
+        "Thứ Sáu: 06:00–20:00",
+        "Thứ Bảy: 06:00–20:00",
+        "Chủ Nhật: 06:00–20:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Joey Journeys",
+        "author_url": "https://www.google.com/maps/contrib/100012297400297269300/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJZUd8tMH95M0UNZS_AkDJ2lUHj3RO4K4f30kXFDR-6NzUPFM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Một quán mì Quảng ngon ở ĐL\n\nĐồ ăn/ Nước uống : 8.5/10. Mình ăn hợp vị nước lèo ở đây, hơi nồng mùi nghệ nhưng đậm đà, topping tươi, ngon\n\nKhông gian & phục vụ : 8/10.\n\nGiá cả : 8/10. Hơi cao xí thui, vẫn hợp lí\n\nMình đi loanh quanh, ăn, chơi, khám phá và chia sẻ. ➡️ Joey Journeys ⭐️ (Tiktok)",
+        "time": 1759899283,
+        "translated": false
+      },
+      {
+        "author_name": "tuan nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115856863068010561481/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqtgXsfjm6F8d0k1WyYia-bERAzkMyhkX9zQUZXB3kHKi1Bg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán Mỳ hương vị chuẩn Quảng, tôi là người gốc Quảng xa quê nên mỗi lần ăn lại nhớ quê, sợi mì dai ngon thấm vị, nước dùng đậm đà và rau ăn kèm tươi mát. Quán có nhiều loại mì như gà, bò, lươn, cá lóc, ếch, tô đặc biệt, cùng với không gian bình dân, ấm cúng. Nhân viên vui vẻ, nhiệt tình và giá cả hợp lý. Mong quán sớm lên định danh Michelin Guide để bạn bè yêu ẩm thực biết đến nhiều hơn",
+        "time": 1760260945,
+        "translated": false
+      },
+      {
+        "author_name": "Shinichi Kudo",
+        "author_url": "https://www.google.com/maps/contrib/111469082198150598468/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZhHde62RvsrF2fq85kpea8NCyxuF8kqgUsaFmNawCoxgYV68=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mì quảng ăn cũng bình thường, không đặc sắc lắm. Nước dùng hơi mặn chút xíu, nói chung chỉ ăn ở mức tạm ổn. Giá cả cũng khá cao so với bình dân, phần mình gọi là phần phú chiêm. Nói chung ăn để biết chứ vị không giống mì quảng lắm nhé.",
+        "time": 1759665249,
+        "translated": false
+      },
+      {
+        "author_name": "vy",
+        "author_url": "https://www.google.com/maps/contrib/117212137396776973458/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9f6QaqF4SNDZ4pKPg8MuFsnEzgwBNVTj3U8ZWYcmv3oojjfb94A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ăn ở đây 2 ngày liên tiếp vì hợp với khẩu vị của mình, nhà mình miền trung cũng nấu đậm vị nghệ giống vậy, tuy nhiên mong quán luôn giữ nước dùng nóng sẽ ngon hơn",
+        "time": 1769277934,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104512070221641302447/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNs2XcgZrIZ44-hy8n7IVzWLf9CR8lT09zNHBh8bY1W4vkw245=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Gia đình vào quán buổi tối. Khá muộn bà là những khách cuối cùng trong ngày. Đợi chế biến hơi lâu 1 chút nhưng xứng đáng.\n\nQuán ngay mặt đường dễ tìm. 10/10\nQuán sạch sẽ 9/10\nNhân viên phục vụ chu đáo 8/10\nMón mì quảng đa dạng lựa chọn, gia vị ngon đậm đà. 9/10\nĐánh giá chung 9/10.",
+        "time": 1752584763,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 409
+  },
+  "harvested_at": "2026-04-30T14:55:26.848125"
+}

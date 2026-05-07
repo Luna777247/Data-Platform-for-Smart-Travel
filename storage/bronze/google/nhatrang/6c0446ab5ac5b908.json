@@ -1,0 +1,233 @@
+{
+  "u_key": "6c0446ab5ac5b908",
+  "original_osm_name": "sushi mania",
+  "google_raw": {
+    "formatted_phone_number": "0964 006 838",
+    "geometry": {
+      "location": {
+        "lat": 12.2414197,
+        "lng": 109.192685
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2428023802915,
+          "lng": 109.1941337302915
+        },
+        "southwest": {
+          "lat": 12.2401044197085,
+          "lng": 109.1914357697085
+        }
+      }
+    },
+    "name": "SushiMania",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:00–22:00",
+        "Thứ Ba: 11:00–14:00, 16:00–22:00",
+        "Thứ Tư: 11:00–14:00, 16:00–22:00",
+        "Thứ Năm: 11:00–14:00, 16:00–22:00",
+        "Thứ Sáu: 11:00–14:00, 16:00–22:00",
+        "Thứ Bảy: 11:00–14:00, 16:00–22:00",
+        "Chủ Nhật: 11:00–14:00, 16:00–22:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "MY NGUYEN",
+        "author_url": "https://www.google.com/maps/contrib/111597832187630178970/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvYsOzBjiOLvylZKiFTiCUceWfz2oDpdhSx0z35xwR2UyYBDk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon, giá hợp lý.\nQuán không quá đông nhưng đồ ăn ngon và phục vụ tốt.",
+        "time": 1765460710,
+        "translated": false
+      },
+      {
+        "author_name": "Phi long Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102557784087911285657/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVnJF5iMwB_Uh3g3Vq9JNljx1xs8oYZ1xUsYey5bmVoxud-w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đồ ăn ngon , không gian thoải mái phục vụ nhiệt tình. Mọi thứ rất tuyệt",
+        "time": 1751538334,
+        "translated": false
+      },
+      {
+        "author_name": "Trí Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102733387196314941486/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpeEEuFiJXQG1ocPEXt04guPxaGGm3Dhn9LMHbprjG1C1Y9eg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Hãy cập nhật địa chỉ trên app đặt xe , tối chủ nhật ngày 27/7 tôi có chở 2 cô gái nói tiếng Nga đến nhà hàng của mình, nhưng trên app đặt xe thì lại là địa chỉ khác , họ cho rằng tôi sai , tôi phải giải thích một hồi lâu 2 cô ấy mới chiệu đi vào .",
+        "time": 1753625671,
+        "translated": false
+      },
+      {
+        "author_name": "Thục Trần Hiền",
+        "author_url": "https://www.google.com/maps/contrib/107852060460260807424/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_SoxZENxEbFbo0sHLU9mu-1CH2fAFwYfb51jlz7Kd1AAdtS2M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán nhỏ xinh. Đồ ăn ngon, có món chín và sashimi tươi",
+        "time": 1751633692,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Trần Văn",
+        "author_url": "https://www.google.com/maps/contrib/113243348993328477098/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIgwYTmteFwZExPwtIT6Tf2QnblOIgLQ5ouyYCI7DkJlAn2OQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tuần trước",
+        "text": "Chờ món lâu bỏ mẹ",
+        "time": 1776779624,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 67
+  },
+  "harvested_at": "2026-05-02T15:35:09.039075"
+}

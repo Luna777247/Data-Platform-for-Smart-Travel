@@ -1,0 +1,89 @@
+{
+  "u_key": "fd1691122dc97508",
+  "original_osm_name": "Homestay Hoang Thu",
+  "google_raw": {
+    "formatted_phone_number": "0235 3928 789",
+    "geometry": {
+      "location": {
+        "lat": 15.8860529,
+        "lng": 108.3282393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.88743308029151,
+          "lng": 108.3296245802915
+        },
+        "southwest": {
+          "lat": 15.8847351197085,
+          "lng": 108.3269266197085
+        }
+      }
+    },
+    "name": "Hoàng Thu Homestay",
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Ngô Huyền",
+        "author_url": "https://www.google.com/maps/contrib/105017175364182605073/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSkkj4KBxO6Pqr65xfU4RnP7-xi5rWiH1NQQ1Tia22N82y-LAc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Mình đặt phòng 2 giường đôi nhưng thực tế đến chỉ có 1 giường đôi và 1 giường đơn. Ngoài vấn đề đó thì phòng khá sạch sẽ, trước phòng tầng 2 có cây lộc vừng rất đẹp. Vị trí hơi xa so với trung tâm. Chủ thân thiện.",
+        "time": 1573480755,
+        "translated": false
+      },
+      {
+        "author_name": "Ngo Anchua",
+        "author_url": "https://www.google.com/maps/contrib/109625323245325083688/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT201ciEwdX8jkp2_clj3JJKimuKjYMSFvS46jW8wyYdy0Vw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Homestay đẹp , phòng rộng rãi , thoáng , sạch sẽ , nhân viên phục vụ chu đáo .",
+        "time": 1624520920,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Anh Bùi",
+        "author_url": "https://www.google.com/maps/contrib/112081650356604058529/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV88bGZKBHKJw9j-TiwRbq-h5ESW6DDYfK_oE7QQ4Gl84Z9u8qdTw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Phòng sạch sẽ, rộng rãi, phục vụ nhiệt tình.",
+        "time": 1561508979,
+        "translated": false
+      },
+      {
+        "author_name": "DinhHoang",
+        "author_url": "https://www.google.com/maps/contrib/108616812069475368780/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtuAvncMxdwIOxnvNxhHSFOd3ZmzSdhftDoyFw69-uuB1INfJ1xQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "chỗ ở tốt",
+        "time": 1533704117,
+        "translated": false
+      },
+      {
+        "author_name": "EDM Hay",
+        "author_url": "https://www.google.com/maps/contrib/116282494116291054076/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTOgYXfn9hkDwXfp78n7iwINvBp3FAMEoTzDDX6WhxfTZ2f1-8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Phòng rộng, sạch. Hơi cũ",
+        "time": 1566481027,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 99
+  },
+  "harvested_at": "2026-04-28T16:38:08.854704"
+}

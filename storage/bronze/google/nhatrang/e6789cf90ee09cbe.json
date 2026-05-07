@@ -1,0 +1,174 @@
+{
+  "u_key": "e6789cf90ee09cbe",
+  "original_osm_name": "Loteria",
+  "google_raw": {
+    "formatted_phone_number": "1900 6778",
+    "geometry": {
+      "location": {
+        "lat": 12.252117,
+        "lng": 109.1902744
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2535281802915,
+          "lng": 109.1916459302915
+        },
+        "southwest": {
+          "lat": 12.2508302197085,
+          "lng": 109.1889479697085
+        }
+      }
+    },
+    "name": "Lotteria Thống Nhất Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Thao Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100878592434110696249/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFv6UcqjFZMw5dXDXyVAZ9JfpByZTbI9jlP20VMacGgyam=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ở đây rất ngon luôn ạ, không có gì để chê, nhân viên nhiệt tình vui vẻ ạ",
+        "time": 1767264213,
+        "translated": false
+      },
+      {
+        "author_name": "Vivian Kim",
+        "author_url": "https://www.google.com/maps/contrib/112959878863447898313/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrIa5PfhyMhjgYqBswKb4onC-_MZiXzhmMT_KWx8xzfRxITGo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Gà miếng rất to và giòn ngon . Phần gà gia đình 6 miếng cả nhà 3 người ăn là no . Giá chỉ 200k . Nếu thỉnh thoảng trẻ nhỏ thèm ăn gà rán thì cả nhà có thể cùng ăn với nhau . Hợp lí .",
+        "time": 1771776284,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Duy Bùi",
+        "author_url": "https://www.google.com/maps/contrib/116933752243747639631/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7dJl21T00UJVWcDwejqgiQnN0bE2XS3ukk8EvCuGgWdoD-SPC=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian của quán rộng rãi thoáng mát có máy lạnh. Đồ ăn ngon và làm nhanh. Nhân viên rất là nhiệt tình vui vẻ. Sẽ ghé lại vào lần sau.",
+        "time": 1766643921,
+        "translated": false
+      },
+      {
+        "author_name": "thu tran",
+        "author_url": "https://www.google.com/maps/contrib/108753234527176143326/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJn1B30ONFlnxNHMLK5ApsQFGKDBu5W1-ESj7YOo4JcinMdTFo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ham bò / tôm ngon ạ. Mì ý tuyệt vời lun. Bé nhà mình rất thích ăn ở đây. Nhân viên thân thiện nữa ạ.",
+        "time": 1769509084,
+        "translated": false
+      },
+      {
+        "author_name": "Na Na",
+        "author_url": "https://www.google.com/maps/contrib/101213157757388009995/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIMcblx5VBu5sZDkLMWsp8n24tFiuWUEGIyGgRUPuxtFLkTw=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vào ngày 6/2 lúc 11:41 phút tôi có tới cửa hàng order đem về 1 phần cơm gà và 1 ly nước . Nhân viên kêu tôi đợi 10 phút nhưng hơn 15 phút tôi vẫn chưa có, trong khi đó những khách tới sau tôi lại có trước tôi(tôi không hề đề cập tới shipper, tôi chỉ nói khách hàng mua trực tiếp) . Có bạn nhân viên xin lỗi nhưng cũng có bạn nhân viên thái độ không tôn trọng khách hàng và không hề có 1 câu xin lỗi . Tôi đến đây để ăn và trả tiền chứ không phải đến để xin. Mong cửa hàng xem lại thái độ và cách làm việc của bạn đó.",
+        "time": 1770354659,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1669
+  },
+  "harvested_at": "2026-05-02T15:23:38.324200"
+}

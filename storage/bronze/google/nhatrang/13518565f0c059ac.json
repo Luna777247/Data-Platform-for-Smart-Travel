@@ -1,0 +1,173 @@
+{
+  "u_key": "13518565f0c059ac",
+  "original_osm_name": "Морячок 2",
+  "google_raw": {
+    "formatted_phone_number": "0911 466 601",
+    "geometry": {
+      "location": {
+        "lat": 12.2261092,
+        "lng": 109.1999648
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2274410302915,
+          "lng": 109.2013228802915
+        },
+        "southwest": {
+          "lat": 12.2247430697085,
+          "lng": 109.1986249197085
+        }
+      }
+    },
+    "name": "Кафе Морячок",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–21:30",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Генри Форд",
+        "author_url": "https://www.google.com/maps/contrib/100871324338739040138/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfcgj_ir969I5mrVyHYXCqxj4gCiDJV-YK71HgTFRFEssZtyw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán cà phê tuyệt vời! Vợ chồng tôi đến đây vào ngày 19 tháng 10 năm 2025. Cô phục vụ khá nghiêm túc, nhưng phục vụ rất nhanh – đồ ăn được mang ra chỉ trong 5 phút. Bàn ghế sạch sẽ và thoải mái. Vợ tôi thử món đậu bắp xào mù tạt và rất thích. Chúng tôi gọi cà tím chiên kiểu Việt Nam và bún xào hải sản: rau nướng và mực rất mềm – ngon tuyệt vời! Cơm cá cũng ngon, dù cơm thì bình thường. Món tráng miệng với các loại hạt và sữa đặc, tuy không giống ở Nga nhưng vẫn ngon. Chúng tôi trả 405.000 đồng cho tất cả mọi thứ – một mức giá tuyệt vời cho những phần ăn lớn và ngon miệng!",
+        "time": 1760866930,
+        "translated": true
+      },
+      {
+        "author_name": "Ksenya Mi",
+        "author_url": "https://www.google.com/maps/contrib/107704581471231922165/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVq34H0C2fh_cEOO-vxuG2DTuxtL31QO5w5OyzRFj6E62afjo8CIg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "6 tháng trước",
+        "text": "Khẩu phần thì nhiều, nhưng đồ ăn thì không ngon. Chúng tôi gọi tom yum và yêu cầu không có nước cốt dừa, nhưng nó lại có sữa, và nó chẳng cay chút nào. Có hai con tôm trong súp 😄. Bọn trẻ được ăn bánh mật ong, và nó thực sự rất ngon - rất ngon. Chúng tôi gọi món cá sấu nướng với rau củ - rất ngon, nhưng chồng tôi nói nó không có vị cá sấu. Họ phục vụ cơm với tất cả các món ăn, và cơm thì nguội ngắt và dính. Tóm lại, chúng tôi sẽ không quay lại Moryachok nữa. Tôi có đính kèm ảnh kèm giá cả.",
+        "time": 1760929868,
+        "translated": true
+      },
+      {
+        "author_name": "Ольга Матвеева",
+        "author_url": "https://www.google.com/maps/contrib/108734555430510213016/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvcjVYwWCzjdKXWZSeJjVEzpSQhiWxC0fSjiXgrP-d0rDXEA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Món chebureki và thịt bò hầm rất ngon. Chúng tôi gọi món vareniki, nhưng nó lại dính bết, hoàn toàn kinh khủng. Món pelmeni chiên cũng dày cộp, chỉ đạt điểm C, và chúng tôi liên tục phải yêu cầu đá trong đồ uống cocktail. Quán rất đông khách, thực đơn phong phú, nhưng không phải món nào cũng ngon. Chúng tôi lấy món vareniki, và ba phút sau họ mang ra lại chính những miếng đó, nhưng đã được luộc lại. Không thể ăn nổi, nên tôi lập tức hạ điểm đánh giá xuống – chúng quá tệ!",
+        "time": 1771761650,
+        "translated": true
+      },
+      {
+        "author_name": "Natalya S",
+        "author_url": "https://www.google.com/maps/contrib/111987278675498870699/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKw0TMLPn1A0-DpzTiPT0I6rB-tWDvhdbC2CWUoP3HHuStwyg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "9 tháng trước",
+        "text": "Chúng tôi gọi hai phần súp Tom Yum: cá lóc hầm rau và ếch cay với khoai tây chiên. Tổng cộng là 360 VND.\n\nƯu điểm: Phần ăn lớn, nhiều thịt/cá mỗi phần, cơm được phục vụ kèm với hầu hết các món, thời gian chờ đợi ngắn và quán rất nổi tiếng.\n\nNhược điểm:\nĐùi ếch, chứ không phải phi lê, bị mặn quá mức; súp Tom Yum không thể ăn được; tôm chưa bóc vỏ thì tạm ổn, nhưng không chỉ hai con tôm mỗi phần đều chưa bóc vỏ, mà họ còn băm nhỏ cả rễ và sả không ăn được – mỗi thìa đều có thứ gì đó bạn phải nhổ ra.\n\nTheo công thức, tất cả các phần không ăn được của rễ, gia vị và sả phải được loại bỏ sau khi nấu, vì vậy họ không băm nhỏ chúng, hoặc băm nhỏ quá thô.\n\nHọ đã xin lỗi về nhận xét của tôi, và tôi hy vọng những khách hàng sau này sẽ may mắn hơn. Một điểm trừ khác: nước cốt dừa trong súp Tom Yum có thể đã được thay thế bằng kem chua – đó là cảm nhận của tôi. Bức ảnh cho thấy một đống thức ăn thừa còn lại từ bữa tối mà tôi muốn thưởng thức theo lời khuyên của những người đồng hương.",
+        "time": 1752672089,
+        "translated": true
+      },
+      {
+        "author_name": "Надежда Мальцева",
+        "author_url": "https://www.google.com/maps/contrib/100658471339915229750/reviews",
+        "language": "ru",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIP3U-J2nLh7MvYY643mtQUPtbd0eXTJTBP83iab07j0ABwwA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Посещали регулярно на протяжении всего отдыха. Огромный ассортимент по меню, подача отличная, еда вкусная!",
+        "time": 1767956728,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 183
+  },
+  "harvested_at": "2026-05-03T20:28:10.617492"
+}

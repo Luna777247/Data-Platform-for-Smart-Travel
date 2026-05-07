@@ -1,0 +1,173 @@
+{
+  "u_key": "d7f591f9144c050a",
+  "original_osm_name": "Nhà Hàng Bang Mi",
+  "google_raw": {
+    "formatted_phone_number": "0829 893 993",
+    "geometry": {
+      "location": {
+        "lat": 21.0302232,
+        "lng": 105.8468053
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0315311302915,
+          "lng": 105.8481775802915
+        },
+        "southwest": {
+          "lat": 21.0288331697085,
+          "lng": 105.8454796197085
+        }
+      }
+    },
+    "name": "Bánh mì BamiDee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–21:30",
+        "Thứ Ba: 08:00–21:30",
+        "Thứ Tư: 08:00–21:30",
+        "Thứ Năm: 08:00–23:30",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Story T’s",
+        "author_url": "https://www.google.com/maps/contrib/110484215193867462012/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4alCp86Z-IdJNb3Z-DQC9aYZWJ9pESkanRL9nvX0g0NlDhw-FDQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cửa hàng nhỏ xinh, bánh mỳ giòn, vị đầm đà, giá hơi cao (phù hợp với khách nước ngoài). Order không cay nhưng vẫn cay không biết là do nhân viên quên hay không có sốt thường😂 nhưng vẫn ngon nhaa",
+        "time": 1770974481,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Anh Phạm",
+        "author_url": "https://www.google.com/maps/contrib/102365411071926200670/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9jEJprvBIEGsd2q4gTgDAyGqCHaTpor2lXt4QU8Ua4kLM4g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bánh ngon đầy đặn, anh chị chủ thân thiện, 10 đỉm!!!",
+        "time": 1764655330,
+        "translated": false
+      },
+      {
+        "author_name": "Hien Anh Cong",
+        "author_url": "https://www.google.com/maps/contrib/117558786740183894528/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqOoWzAGplInMYW6Vg5XTLi0Wazu1I5QCHU7cdiDCqU6jDnA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn sạch sẽ và rất ngon.mọi người nên thử",
+        "time": 1765436076,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Trương Như Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/110607939333424026306/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIA7Wy0G8ojn9e-ZmlQMoQbhSjxtuGYrJKOgT8_PN4gDZMwXGc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ngon đấy . Đừng thử không là nghiện đó.",
+        "time": 1764649443,
+        "translated": false
+      },
+      {
+        "author_name": "Hoai Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106157620856128636305/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0rn9vYaqTFb0rROLGOnZpWooCVy9A_cM_JC4ezEGjrC2WHw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đã ăn . Vote 5 sao. Địa điểm đẹp, đồ ngon sạch . Nên thử nha.!!",
+        "time": 1764661818,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 146
+  },
+  "harvested_at": "2026-04-28T16:17:17.027518"
+}

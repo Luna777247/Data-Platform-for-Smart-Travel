@@ -1,0 +1,109 @@
+{
+  "u_key": "8e522300f5d79bca",
+  "original_osm_name": "Nova",
+  "google_raw": {
+    "formatted_phone_number": "024 3823 8477",
+    "geometry": {
+      "location": {
+        "lat": 21.0356391,
+        "lng": 105.8472244
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0369947302915,
+          "lng": 105.8484888302915
+        },
+        "southwest": {
+          "lat": 21.0342967697085,
+          "lng": 105.8457908697085
+        }
+      }
+    },
+    "name": "Nova Luxury Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Thùy Trang (Tem)",
+        "author_url": "https://www.google.com/maps/contrib/104457309180534507545/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLRRZ2YHbFUOyPTuG9qiuo6vq_s28aS0nS_mgIBESJwH20s151=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Tình cờ khách sạn đặt trên booking đang sửa chữ nên được sắp xếp đổi qua Siva. Khách sạn nằm ngay trung tâm phố cổ, đi đâu cũng tiện. Bước ra đường là có siêu nhiều đồ ăn. Khuya cũng không sợ đói nữa.\n\nẤn tượng nhất là sáng mình trả phòng sớm, các bạn lễ tân còn đang ngủ vẫn thức dậy hỗ trợ nhanh nhẹ và rất nhiệt tình để không lỡ lịch trình của mình.! ❤",
+        "time": 1666063950,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Thị Kim Ngân",
+        "author_url": "https://www.google.com/maps/contrib/110091237587330224819/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8ie-OpYZsGM_REcUrVtW9lQ8u4YjASAngsXMzhsdzl5KZrFM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Nova Luxury Hotel vừa mới khai trương. Khách sạn nằm ngay trong phố cổ Hà Nội, rất thuận tiện để đi thăm các danh lam thắng cảnh. Phòng rất sạch sẽ, nhân viên thân thiện, nhiệt tình.",
+        "time": 1515831886,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Chiến Thắng",
+        "author_url": "https://www.google.com/maps/contrib/113172504149386379187/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcrrNGZA9lpYshfhb-Lekuyq08WLR0zv16YL6XGkPhR1RVMg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "7 năm trước",
+        "text": "Nam tren pho co , thuan tien cho di choi ha noi va an uong. Phong nho va binh thuong , gia khoang tu 800/ngay dem , ko co cho do xe rat bat tien",
+        "time": 1545308347,
+        "translated": false
+      },
+      {
+        "author_name": "thanh ngoc",
+        "author_url": "https://www.google.com/maps/contrib/115760948768262133591/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSSSJI1_fMOPlbH9Bt7q77VTRBy6l9XgHg_65BACg14jh_AUQR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Tôi đã ở đây. Dịch vụ rất tốt cùng với giá cả hợp lý. Rất hài lòng ^^",
+        "time": 1515812742,
+        "translated": false
+      },
+      {
+        "author_name": "TuDu “Nơi ấy” PA",
+        "author_url": "https://www.google.com/maps/contrib/104541722718932241047/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb37bGdrvrfZKglYAnM_ZUQBsj3HVoca2pa2P2z9AiD0BIVw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Đến 1 lần nên chưa biết luxury ở điểm gì",
+        "time": 1550534534,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 269
+  },
+  "harvested_at": "2026-04-27T19:58:32.877315"
+}

@@ -1,0 +1,90 @@
+{
+  "u_key": "404ac351c02f5629",
+  "original_osm_name": "Lam Vien Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0236 3959 171",
+    "geometry": {
+      "location": {
+        "lat": 16.0419381,
+        "lng": 108.2461343
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0433926802915,
+          "lng": 108.2476162302915
+        },
+        "southwest": {
+          "lat": 16.0406947197085,
+          "lng": 108.2449182697085
+        }
+      }
+    },
+    "name": "Lam Vien Restaurant",
+    "price_level": 2,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "APL APLMARIT",
+        "author_url": "https://www.google.com/maps/contrib/110763753253963586841/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWvefkYcjQ5BYbCsH3GGG3E_aQXOOjfgDLTN9d8RMKqvmO1ig=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán trang trí đẹp, không phô trương, rộng rãi thích hợp cho đoàn hoặc nhóm gia đình. Món ăn khá ngon, đúng khẩu vị Miền Trung, không quá mặn. Nhân viên phục vụ khá ổn",
+        "time": 1648052669,
+        "translated": false
+      },
+      {
+        "author_name": "이천석",
+        "author_url": "https://www.google.com/maps/contrib/105812561061489976360/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNf_ZyTTsYBla6rlEDSWt6SIN3kARhIecYq9qSLHEZrn13N4-4CQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Không khí tốt và ngon quá",
+        "time": 1568975644,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Anh",
+        "author_url": "https://www.google.com/maps/contrib/106131194158933448403/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEB-_yezG8_3bHbXqGFf64v_uDbYcZCi5cBH2w73j3E76ezbmk=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Nhà hàng ấm cúng, dễ thương",
+        "time": 1568367621,
+        "translated": false
+      },
+      {
+        "author_name": "Danaking Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102217442190499307930/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkS2pe0qPLdD94oXUDdZwpkC9L1-pIMPr54jKhNiy219Iy2N9uUA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán có không gian rộng rãi, thiết kế đơn giản nhưng rất đẹp. Nhân viên dễ thương. Một địa điểm nên tới các bánh ah.",
+        "time": 1563781301,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Viết Rin",
+        "author_url": "https://www.google.com/maps/contrib/112925173391601693235/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe5cFPeqDTs3kKDKkNCFjmF9MydFCdbBesg3kKrUZGtLnK2_KZ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "6 năm trước",
+        "text": "Phục vụ quá tệ. Gọi món thì đợi ít nhất 40 phút. Nếu giới thiệu cho khách hay bạn bè thì tôi nhất quyết không chọn địa điểm này",
+        "time": 1562692024,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1810
+  },
+  "harvested_at": "2026-04-28T16:40:49.494067"
+}

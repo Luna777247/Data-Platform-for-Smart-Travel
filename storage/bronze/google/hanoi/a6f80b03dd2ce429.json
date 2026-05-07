@@ -1,0 +1,173 @@
+{
+  "u_key": "a6f80b03dd2ce429",
+  "original_osm_name": "Nhà Hàng Gia Ngu",
+  "google_raw": {
+    "formatted_phone_number": "024 3927 9907",
+    "geometry": {
+      "location": {
+        "lat": 21.0329966,
+        "lng": 105.8526794
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0343598302915,
+          "lng": 105.8540289802915
+        },
+        "southwest": {
+          "lat": 21.0316618697085,
+          "lng": 105.8513310197085
+        }
+      }
+    },
+    "name": "Gia Ngư Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:00",
+        "Thứ Ba: 06:30–22:00",
+        "Thứ Tư: 06:30–22:00",
+        "Thứ Năm: 06:30–22:00",
+        "Thứ Sáu: 06:30–22:00",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Anh Đỗ lan",
+        "author_url": "https://www.google.com/maps/contrib/115624086269018278258/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3ZeKYssq79XfywnvGwXybqtCppnJG1AVpn2uhFb_TJhe-eg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Không gian ấm cúng, món ăn trình bày đẹp mắt và hương vị tuyệt vời, sẽ quay lại vào lần tới",
+        "time": 1749284925,
+        "translated": false
+      },
+      {
+        "author_name": "Kiên Béo",
+        "author_url": "https://www.google.com/maps/contrib/105126100897824849512/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrMYhPF-kvwE5wzzrLqG6gGSp9i2QbbQBtSus1Ni3VwV9P-rMJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nhà hàng phục vụ bún chả và bánh mì rất ngon, chuẩn vị truyền thống. Thịt nướng thơm, nước mắm đậm đà, bánh mì nhân đầy đặn. Nhân viên thân thiện, phục vụ nhanh nhẹn. Tuy có vẻ đắt hơn so với quán đường phố nhưng tôi nghĩ đây là quán đáng để thử",
+        "time": 1758630642,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Nhung",
+        "author_url": "https://www.google.com/maps/contrib/102697251503227037397/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrgqtHiKkdG4QC0zAYTPNpL6ZjHdPypptHFT0gDFZJwh19dM0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Trải nghiệm tại Gia Ngư Restaurant là một điều tuyệt vời, tôi chắc chắn sẽ quay lại để thưởng thức thêm nhiều món ăn ngon khác và giới thiệu cho bạn bè của mình. Nếu bạn đang tìm kiếm một nơi để thưởng thức những món ăn chất lượng và dịch vụ tuyệt vời, Gia Ngư chắc chắn là lựa chọn không thể bỏ qua!",
+        "time": 1765015586,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Chi Đặng Trần",
+        "author_url": "https://www.google.com/maps/contrib/110372019005721645348/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDD6wN_APt5j7I9vgFg55H0M9jdu1Iou7CsT0xVstcwM4kdHE3Xg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Ốc và bánh mì ngon, quán nhân viên lên đồ nhanh , sạch sẽ tuy nhiên không gian hơi bé",
+        "time": 1710488132,
+        "translated": false
+      },
+      {
+        "author_name": "PT Đào",
+        "author_url": "https://www.google.com/maps/contrib/116562128269380538661/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXENg5ytrcnZvQPhkOB6fp9sD5Wt0xCUyaC-PAk4VrBV805yQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Mình vừa dùng bữa tại Gia Ngư Restaurant và thật sự hài lòng với cả không gian lẫn món ăn. Hai món mình ấn tượng nhất là bò nướng ống tre và bún chả. Bò nướng ống tre được tẩm ướp đậm đà, thơm lừng mùi lá rừng và ống tre, khi mở ra vẫn giữ được độ nóng và độ mềm hoàn hảo của thịt – rất độc đáo và đậm chất vùng cao. Bún chả thì chuẩn vị Hà Nội, thịt nướng vàng đều, nước mắm pha vừa miệng, ăn kèm bún và rau sống rất hài hòa. Không gian nhà hàng ấm cúng, trang trí tinh tế, sạch sẽ và dễ chịu. Nhân viên phục vụ chuyên nghiệp, lịch sự, luôn niềm nở và sẵn sàng hỗ trợ. Giá cả tương xứng với chất lượng món ăn và trải nghiệm. Nếu bạn muốn tìm một nơi để thưởng thức các món Việt được chăm chút cả về hương vị lẫn cách trình bày, Gia Ngư là lựa chọn rất đáng thử.",
+        "time": 1748708790,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 197
+  },
+  "harvested_at": "2026-04-28T16:13:56.936046"
+}

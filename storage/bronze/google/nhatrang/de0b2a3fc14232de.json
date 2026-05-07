@@ -1,0 +1,174 @@
+{
+  "u_key": "de0b2a3fc14232de",
+  "original_osm_name": "Cơm Quỳnh Anh | Seafood Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0794 562 283",
+    "geometry": {
+      "location": {
+        "lat": 12.2385478,
+        "lng": 109.1919056
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2399002302915,
+          "lng": 109.1932585302915
+        },
+        "southwest": {
+          "lat": 12.2372022697085,
+          "lng": 109.1905605697085
+        }
+      }
+    },
+    "name": "Cui Seafood (Cui Quan) | Steak & Vietnamese Food",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "thuỷ đặng thị",
+        "author_url": "https://www.google.com/maps/contrib/114050907563492664401/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOOsPKYh4lcewfOmiP-K_gCJXduf7r8pzhy-BhSP5SCbTAHA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tối qua nhóm mình vừa làm bữa tất niên tại đây, thực sự là một trải nghiệm quá ưng ý nên sáng nay phải vào viết review ngay. Nhóm quyết định ghé quán vì nghe danh bếp trưởng từng làm ở nhiều khách sạn lớn, và đúng là món ăn ở đây đẳng cấp thật.\n\nMón tôm hùm nướng phô mai phải nói là đỉnh của đỉnh! Tôm siêu tươi, thịt chắc nịch và mọng nước, không hề bị khô hay bở tí nào. Lớp phô mai béo ngậy, tan chảy trong miệng, ăn cực kỳ dính.\n\nĐiểm mình thích nhất là quán rất tâm lý, có sẵn ghế cho trẻ em nên mấy gia đình trong nhóm đi cùng con nhỏ ngồi ăn rất thoải mái. Các bạn nhân viên thì siêu dễ thương, nhiệt tình và chu đáo từng chút một. Khách du lịch đến Nha Trang mà muốn tìm chỗ ăn tối chất lượng thì đừng bỏ qua chỗ này nhé!",
+        "time": 1771033925,
+        "translated": false
+      },
+      {
+        "author_name": "Xd Kieu",
+        "author_url": "https://www.google.com/maps/contrib/103890729858661653603/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIQ4FNmHenBxXABltDUgHPVpMP_blPvGzRHE3D22GFB11__w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán có k gian ấm cúng, riêng tư. Đồ ăn cũng oke, có món cua sốt tiêu ngon. Nhân viên siêu nhiệt tình. Mọi người ghé trải nghiệm ủng hộ quán nha.",
+        "time": 1772976386,
+        "translated": false
+      },
+      {
+        "author_name": "Duyên Mỹ",
+        "author_url": "https://www.google.com/maps/contrib/106694560659017576487/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW02Vt5ytPnexgifH1bcOraGcvLGXOOdG4JSjrKn7hAsJXrbf8K=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình vừa trải nghiệm bữa tối tại Nhà hàng Củi Seafood và cảm thấy rất hài lòng. Quán nằm ở vị trí dễ tìm, không gian sạch sẽ và thoáng mát, chỗ để xe cũng khá rộng rãi. Hải sản được trưng bày tươi sống ngay phía ngoài để khách lựa chọn trực tiếp, tạo cảm giác yên tâm về chất lượng. Mình gọi tôm nướng muối ớt, hàu phô mai, mực hấp gừng và lẩu hải sản. Tất cả món đều tươi, nêm nếm vừa miệng và lên món nhanh. Đặc biệt, tôm giữ được độ ngọt, hàu phô mai béo nhưng không ngấy, còn nước lẩu thì thanh và topping rất nhiều.\n\nNhân viên phục vụ cũng là điểm cộng lớn. Các bạn rất nhiệt tình, lễ phép, luôn để ý dọn dẹp, thay chén đĩa và hỏi thăm khách suốt bữa ăn. Thái độ thân thiện tạo cảm giác thoải mái từ lúc bước vào đến khi ra về. Giá cả mình thấy hợp lý so với chất lượng món và dịch vụ. Tất cả đều được niêm yết rõ ràng, không phát sinh thêm. Nhìn chung, Củi Seafood là địa điểm ăn hải sản đáng thử, và mình chắc chắn sẽ quay lại trong những lần tới.",
+        "time": 1765266537,
+        "translated": false
+      },
+      {
+        "author_name": "Lan LeNgoc",
+        "author_url": "https://www.google.com/maps/contrib/107976183849490415741/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2bxbxBl-cCK04iXacmQw6nnTMedn6_2JOKnRnoe0oNMqg2DKd=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ăn từ tối qua mà giờ vẫn thấy ưng cái bụng. Tôm hùm nướng phô mai ở đây làm rất khéo, thịt tôm ngọt lịm, mọng nước chứ không bị khô như mấy chỗ mình từng ăn. Phô mai thì thơm béo, ăn rất vừa miệng.\n\nĐiểm cộng cực lớn là nhân viên rất chu đáo và tâm lý. Biết đầu bếp là người nổi tiếng nên yên tâm hẳn về chất lượng. Khách du lịch đến Nha Trang nên ghé đây ăn tối nhé, rất xứng đáng 5 sao!",
+        "time": 1771033777,
+        "translated": false
+      },
+      {
+        "author_name": "relaxinggirl",
+        "author_url": "https://www.google.com/maps/contrib/111582630533604347124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwVV6fhF4Ui0akZKTA5Oy9CXqK4zAXSgsHET6voG1VVexdkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình đã đến tiệm vào tối hôm qua, được công ty rủ đi ăn và thấy thật sự ấn tượng với dịch vụ tại quán. Lúc đó quán khá đông nhưng nhân viên rất niềm nở chào đón đội mình (nhóm 5 6 người) và được nhân viên dẫn đến tận bàn.\n\nMón ăn lên cũng không quá lâu, và bạn nhân viên cũng có ngỏ ý xin lỗi nếu đồ ăn lên trễ do quán đông. Đồ ăn ngon đúng như review, team minh ăn có trải nghiệm tốt tại quán. Cám ơn Củi nhiều nhé. Sẽ giới thiệu thêm bạn đến tiệm trải nghiệm hải sản lần nữa.",
+        "time": 1770434481,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2985
+  },
+  "harvested_at": "2026-05-02T15:17:45.992029"
+}

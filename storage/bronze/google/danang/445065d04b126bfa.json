@@ -1,0 +1,161 @@
+{
+  "u_key": "445065d04b126bfa",
+  "original_osm_name": "Solo",
+  "google_raw": {
+    "formatted_phone_number": "0763 423 664",
+    "geometry": {
+      "location": {
+        "lat": 16.0744386,
+        "lng": 108.2290493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0757865302915,
+          "lng": 108.2303150302915
+        },
+        "southwest": {
+          "lat": 16.0730885697085,
+          "lng": 108.2276170697085
+        }
+      }
+    },
+    "name": "VR Another World Danang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Khanh Phan Quoc",
+        "author_url": "https://www.google.com/maps/contrib/116474660651339669452/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLC8xS7jIu0mPsqz_zgc__DH42zl4fHEkZJtbF9y-q5gMgwbg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tuần trước",
+        "text": "Quá vui quá hay cho bé 6+ và gia đình. Nhân viên nhiệt tình, thân thiện. Thiết bị mới, vệ sinh sạch sẽ👍 sẽ quay lại để chơi game khác",
+        "time": 1776597190,
+        "translated": false
+      },
+      {
+        "author_name": "Jo Jo",
+        "author_url": "https://www.google.com/maps/contrib/113299746807919365982/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbgkI2DF0MYpNJ2ghNpHtNCCMtG0_GChL5ioPzvTmZT6mkpQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "trong tuần trước",
+        "text": "",
+        "time": 1777403912,
+        "translated": false
+      },
+      {
+        "author_name": "Анна Евтушенко",
+        "author_url": "https://www.google.com/maps/contrib/112602182898515206854/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWut7kRNJexI8CBnOjxPXpo2-RZK822nz1qaH7n9RJiIZ-0y80CxA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "trong tuần trước",
+        "text": "Great place to get together with friends and experience different reality ! Friendly stuff, help with everything if needed . Interesting games , even if you don’t like shooting or come to the game room with kids , you can find easily a game that would be fun for all !",
+        "time": 1777383933,
+        "translated": false
+      },
+      {
+        "author_name": "Dmitry (koozoo)",
+        "author_url": "https://www.google.com/maps/contrib/108926443024263230896/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgRe8MWg_COS02wUUqC_Xdn7U_qlUhBIu3Hh780SqXURYQ5kC6=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "trong tuần trước",
+        "text": "Ban đầu tôi hơi hoài nghi về ý tưởng này, vì đã nghe nhiều về những thứ tương tự. Tuy nhiên, nó rất hay và thú vị! Tôi đang cân nhắc mua một bộ về nhà. Chắc chắn tôi sẽ quay lại để thử các trò chơi khác và mọi thứ nữa. 🎉 Nhân viên rất thân thiện!",
+        "time": 1777363792,
+        "translated": true
+      },
+      {
+        "author_name": "shawn mcleod",
+        "author_url": "https://www.google.com/maps/contrib/107983006713669416325/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhNoZONiR1gQnk-dhWb9-O551EEOIb6hL-gzzdtNu62glQrQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "trong tuần trước",
+        "text": "Rất thú vị với giá cả phải chăng. Nhân viên rất nhiệt tình và có rất nhiều trò chơi khác nhau để lựa chọn.",
+        "time": 1777353577,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 50
+  },
+  "harvested_at": "2026-04-29T13:28:28.286364"
+}

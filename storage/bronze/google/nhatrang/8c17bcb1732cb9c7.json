@@ -1,0 +1,172 @@
+{
+  "u_key": "8c17bcb1732cb9c7",
+  "original_osm_name": "Amore Garden",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2564563,
+        "lng": 109.1931525
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2578114302915,
+          "lng": 109.1944847802915
+        },
+        "southwest": {
+          "lat": 12.2551134697085,
+          "lng": 109.1917868197085
+        }
+      }
+    },
+    "name": "Amore Gardens",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Cường Khỉ",
+        "author_url": "https://www.google.com/maps/contrib/102104049822543920973/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfT_14qvFacdoSxLp40GHCdRKMD_ndcwGeUKnni-9LuG0HGnI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Chuyển qua địa chỉ mới rồi, không gian rộng rãi hơn, có khu riêng cho mấy bé cún. Ngồi cũng chill hơn. Quán giờ tênnPom coffee mọi người ghé nha. À có bán hoa tươi và hoa gói nữa",
+        "time": 1767577221,
+        "translated": false
+      },
+      {
+        "author_name": "Hau Bich",
+        "author_url": "https://www.google.com/maps/contrib/108193005005429613064/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0h3Tre2lH37TwwxF284RIlLymIpGE1ZlyPeaVIhgOfqJZiHsAPg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Lâu rồi mới quay lại chơi với mấy đứa nhỏ (cún, mèo) này thật sự không làm mình thất vọng mà.🥰🥰🥰\nQuán dời qua 27Chu Văn An có không gian rộng rãi hơn, mấy em cún mèo cũng có chỗ vui chơi thoải mái🐈‍⬛🐈🐈‍⬛🐈 kiểu này chắc qua thăm mấy ẻm quài luôn quá🤭🤭🤭😍😍😍\nMấy bé luôn được vệ sinh thường xuyên nên không có mùi gì luôn á, mọi người phải qua địa chỉ mới để trải nghiệm nha.\n🍒🍒 không còn ở Pasture nữa mà dời qua 27 Chu Văn An nha 🍒🍒",
+        "time": 1763472029,
+        "translated": false
+      },
+      {
+        "author_name": "Twee Phu McRae",
+        "author_url": "https://www.google.com/maps/contrib/102293275859264511549/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVODVgKKBLAoe64JIbNXmKcJyUkfD8JvarPhsMdrVJWJj7BNedvBg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nước uống ngon, giá cả hợp lý, không gian dễ thương cộng thêm nhân viên phục vụ 4 chân cực đáng yêu",
+        "time": 1769256919,
+        "translated": false
+      },
+      {
+        "author_name": "Quế Anh",
+        "author_url": "https://www.google.com/maps/contrib/101966415935020985536/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQLV6eOYVl8Eyv8JyVkbktQV_5vzGmTWiL_AnsGkwJsEAGfDQZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "ghé quán hồi tháng 7 mà siêu ấn tượng về quán luôn. quán sạch, thơm, cẩu viên nhiệt tình dễ thưn. quán có nhiều cây xanh nên bước dô là thấy tách biệt với đường phố ồn ào bên ngoài liền. định hè năm tới ghé lại mà nay thấy post quán tạm nghỉ bùn nhiều chút. mong quán sớm tìm được mặt bằng mới để hè năm sau em lại vào NT tới chơi với mấy bé nha",
+        "time": 1759409845,
+        "translated": false
+      },
+      {
+        "author_name": "Vi Tường",
+        "author_url": "https://www.google.com/maps/contrib/105602473945729425104/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYBfBbI3PHEJneFvxNk3bErpDJvjHiVErZhSbaU7y_Cm4mMS2W=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "6 tháng trước",
+        "text": "Kiểu bất ngờ á vừa mua chưa kịp ăn luôn 55k cho một phần cá viên, cam đoan 100% ch đụng vào một miếng luôn á. 2 sao này là cho mấy b chó mèo đáng yêu thôi á",
+        "time": 1760276660,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 468
+  },
+  "harvested_at": "2026-05-02T16:07:57.258806"
+}

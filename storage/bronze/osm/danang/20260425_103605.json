@@ -1,0 +1,249 @@
+[
+  {
+    "u_key": "7144e6c074bf82cb",
+    "name": "Nhà cổ Đức An",
+    "type": "museum",
+    "city": "danang",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 15.8770533,
+      "lon": 108.3273582
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "a7c2adbd574d48a6",
+    "name": "Nhà cổ Quân Thắng",
+    "type": "museum",
+    "city": "danang",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 15.8770968,
+      "lon": 108.3292876
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "5216cfef4433b249",
+    "name": "Boa tang gom su mau dich",
+    "type": "museum",
+    "city": "danang",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 15.8772671,
+      "lon": 108.329548
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "19b274ac8f245cb9",
+    "name": "Sa Huynh",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8770347,
+      "lon": 108.3264247
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "fabf42b4f4c1add5",
+    "name": "Nhà cổ Phùng Hưng",
+    "type": "museum",
+    "city": "danang",
+    "address": "Nguyễn Thị Minh Khai",
+    "location": {
+      "lat": 15.8772193,
+      "lon": 108.3257902
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "92a553207bc87fec",
+    "name": "Unnamed",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0525132,
+      "lon": 108.2323794
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "1f4679c4606dc11d",
+    "name": "Nhà thờ Tộc Nguyễn Văn",
+    "type": "museum",
+    "city": "danang",
+    "address": "Xuân Đông",
+    "location": {
+      "lat": 15.8200578,
+      "lon": 108.062161
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "776b61a984ee090b",
+    "name": "Terracotta Park",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8778967,
+      "lon": 108.3001365
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "93eb72aadb4120cd",
+    "name": "Diep Dong Nguyen",
+    "type": "museum",
+    "city": "danang",
+    "address": "Nguyễn Thái Học",
+    "location": {
+      "lat": 15.8766285,
+      "lon": 108.3285601
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "2929a08b9bb4fb4e",
+    "name": "Art in Paradise Da Nang 3D Museum",
+    "type": "museum",
+    "city": "danang",
+    "address": "Trần Nhân Tông",
+    "location": {
+      "lat": 16.0953807,
+      "lon": 108.2430769
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "8c3b752a804563ef",
+    "name": "Hoi An Museum of Traditional Medicine",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8766492,
+      "lon": 108.3298384
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "c2f67eb88c335831",
+    "name": "Sauce Nuoc Mam",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8651646,
+      "lon": 108.3889609
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "7a9c97894c5dcc8a",
+    "name": "Bảo tàng Phật giáo",
+    "type": "museum",
+    "city": "danang",
+    "address": "Đường Sựvăn Hanh",
+    "location": {
+      "lat": 15.9994308,
+      "lon": 108.2545831
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "cb3f2b84529927d8",
+    "name": "Dinh Dong Museum and Café",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.1012126,
+      "lon": 108.2755096
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "75668cc24addc8df",
+    "name": "Precious Heritage Art Gallery Museum",
+    "type": "museum",
+    "city": "danang",
+    "address": "Phan Bội Châu",
+    "location": {
+      "lat": 15.8771754,
+      "lon": 108.3342411
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "b7f29465841712e8",
+    "name": "Marble Mountains Museum",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.003907,
+      "lon": 108.2660314
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "b2eab21df304b358",
+    "name": "Nhà Trưng bày Hoàng Sa",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0935205,
+      "lon": 108.2512559
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "4f6360937ce601a5",
+    "name": "Bảo Tàng Thó Sản",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8771924,
+      "lon": 108.3297946
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  },
+  {
+    "u_key": "81323a0dde235f33",
+    "name": "Driftwood Village",
+    "type": "museum",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.9008735,
+      "lon": 108.3280816
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:05.845873"
+  }
+]

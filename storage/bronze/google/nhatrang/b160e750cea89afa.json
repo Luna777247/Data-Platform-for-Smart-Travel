@@ -1,0 +1,163 @@
+{
+  "u_key": "b160e750cea89afa",
+  "original_osm_name": "TT Pilates Nha Trang",
+  "google_raw": {
+    "formatted_phone_number": "0368 258 059",
+    "geometry": {
+      "location": {
+        "lat": 12.2340567,
+        "lng": 109.1794258
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2354151302915,
+          "lng": 109.1808189302915
+        },
+        "southwest": {
+          "lat": 12.2327171697085,
+          "lng": 109.1781209697085
+        }
+      }
+    },
+    "name": "Be Strong Nha Trang - Pilates & Gym",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:00–21:00",
+        "Thứ Ba: 05:00–21:00",
+        "Thứ Tư: 05:00–21:00",
+        "Thứ Năm: 05:00–21:00",
+        "Thứ Sáu: 05:00–21:00",
+        "Thứ Bảy: 05:00–21:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Quang Lê",
+        "author_url": "https://www.google.com/maps/contrib/104014327443313597357/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjoWN5qyRegwjGqQjPBZ-MyjP9SuYIwvpzavBD8ww6YUV3BTYS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Phòng gym sạch sẽ, thiết bị hiện đại, huấn luyện viên nhiệt tình và hỗ trợ rất tận tâm. Không khí lúc nào cũng năng lượng và thân thiện. Rất đáng để trải nghiệm 💪💪💪",
+        "time": 1761220901,
+        "translated": false
+      },
+      {
+        "author_name": "Hung Ngn",
+        "author_url": "https://www.google.com/maps/contrib/106397310009757679626/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIEUpKvn6WS9Pq12Y2PcjYluUrMoGHvreOsUYQbZGBs_ACttOV=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Phòng tập sạch mới, đầy đủ máy móc tiện nghi. Rất thoáng. Nhân viên rất thân thiện. Anh chủ PT Jimmy  rất tích cực giúp đỡ, kỹ thuật rất tốt. Mình rất hài lòng với phòng tập này!",
+        "time": 1766477307,
+        "translated": false
+      },
+      {
+        "author_name": "Thái Vinzxje Phan",
+        "author_url": "https://www.google.com/maps/contrib/111982839927924726668/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbTN5YfO6GqG5oJBr7WIlH9JYUCbIza_rTzHSi78Bj6xdADv5T=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian phòng tập thoáng mát và được dọn dẹp sạch sẽ mỗi ngày. Đặc biệt, phòng còn có mùi thơm nhẹ giúp bạn thoải mái, dễ chịu khi luyện tập. Hệ thống máy tập được bố trí theo trật tự rõ ràng. Bên cạnh đó, đội ngũ huấn luyện viên, nhân viên tại Be Strong rất chuyên nghiệp và nhiệt tình nhất là bạn lễ tân mini ❤",
+        "time": 1735355952,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106210259050464645540/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPdvVwrkVi5C6lJXrPk2PiUet4nGRNLq0di4qInI6o7tEN6A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Các bạn HLV ở đây luôn nhiệt tình, vui vẻ, cơ sở vật chất sạch đẹp, mới, xịn. Nhìn sang trọng đẳng cấp lắm mn. Phòng tập có máy lạnh nữa, thoáng và ko có mùi mồ hôi hihi",
+        "time": 1769262406,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115608982718253702138/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIntIzBokK1mN1Hylq7pKiqwVhj9F4OfqB2V8WULUR-j6-QLQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Lễ Tân dễ thương, phòng thoáng và luôn sạch sẽ, HLV siêu nhiệt tình và hõ trợ tận tình kể cả người mới.  Không gian tập thoải mái không bị áp lực",
+        "time": 1769593450,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 108
+  },
+  "harvested_at": "2026-05-02T15:18:45.006979"
+}

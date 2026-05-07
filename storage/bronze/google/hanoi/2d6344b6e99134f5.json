@@ -1,0 +1,174 @@
+{
+  "u_key": "2d6344b6e99134f5",
+  "original_osm_name": "V+ Banh Mi",
+  "google_raw": {
+    "formatted_phone_number": "024 6664 6886",
+    "geometry": {
+      "location": {
+        "lat": 20.9996163,
+        "lng": 105.8700143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0008557302915,
+          "lng": 105.8712083302915
+        },
+        "southwest": {
+          "lat": 20.9981577697085,
+          "lng": 105.8685103697085
+        }
+      }
+    },
+    "name": "Bánh mỳ V+",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Hường Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116926489119099037715/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUi4w7NiOsmFk46vK8xqGstc5_uIOGFovxt7k0XjsQNhSOiY60=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "bánh mì trung bình ổn\nthái độ phục vụ cũng tạm ổn",
+        "time": 1752335235,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa Vũ",
+        "author_url": "https://www.google.com/maps/contrib/112703857896665878888/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdrR9Xmtg1SoGkTuMAOw2YJ8BxY_qFfk90-0R-VjvMEtwUWh4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Sáng mua bánh mì thập cẩm tại đây, nhân khá lèo tèo, thịt còn bị thiu nữa dù mới 8h sáng. Bạn NV nữ thái độ phục ko ổn",
+        "time": 1684311507,
+        "translated": false
+      },
+      {
+        "author_name": "Tài Đặng Trần",
+        "author_url": "https://www.google.com/maps/contrib/108403859238374066533/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM2sHaVBmlo-YCbVoX5OqYzvhdnBJKQOh1UG3WGYTnavV5kCkw6g=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Đang có chương trình khuyến mại 1 bánh mì tặng 1 nước",
+        "time": 1543361500,
+        "translated": false
+      },
+      {
+        "author_name": "Tath",
+        "author_url": "https://www.google.com/maps/contrib/112166067719851701186/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFYhjsC7MdA1Cp3kF3P4re9WvNflikGHhAHSwvAft5NR96MXg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Bánh mì ăn rất ngon, tuy nhiên quán phục vụ không được tốt cho lắm, và nhìn vào thì thấy vệ sinh của quán cũng k sạch sẽ. Nhưng bánh mì ngon nên cứ thèm và mua ăn và k cần suy nghĩ.",
+        "time": 1576853334,
+        "translated": false
+      },
+      {
+        "author_name": "Tâm Lê (Tâm Râu)",
+        "author_url": "https://www.google.com/maps/contrib/113155883576129218007/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNhr9ovgD8Th62mxEfkt1FzA3IY-AimlTH0FN7QWlfH-Ww88qI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Ca sáng nay, có 1 bạn nữ bán hàng. Thái độ với khách không thân thiện, khách vào không hỏi, khách hỏi thì trả lời khinh khỉnh. Thái độ không tốt không chỉ với 1 khách. Khách đi mua hàng chứ không phải ăn xin. Là 1 khách hàng của bánh mỳ v+ từ lúc cửa hàng hình thành tới giờ, mua rất nhiều lần nhưng lần này thật sự thất vọng về cách cư xử bán hàng của nhân viên với khách. Trong khi đó cùng ca, có bạn nv nam đeo kính thái độ rất tốt và nhiệt tình. Chỉ riêng bạn nữ là làm tôi không muốn quay lại nữa. Yêu cầu cửa hàng làm việc lại với nhân viên nữ đấy để chất lượng của cửa hàng được nâng cao hơn !!!",
+        "time": 1673066124,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 131
+  },
+  "harvested_at": "2026-04-28T16:13:09.087723"
+}

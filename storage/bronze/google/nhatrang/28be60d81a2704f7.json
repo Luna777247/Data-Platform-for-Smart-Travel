@@ -1,0 +1,172 @@
+{
+  "u_key": "28be60d81a2704f7",
+  "original_osm_name": "Pho nhat",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2882275,
+        "lng": 109.2047054
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2896920802915,
+          "lng": 109.2060717802915
+        },
+        "southwest": {
+          "lat": 12.2869941197085,
+          "lng": 109.2033738197085
+        }
+      }
+    },
+    "name": "Phở Nhật",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–10:00",
+        "Thứ Ba: 06:00–10:00",
+        "Thứ Tư: 06:00–10:00",
+        "Thứ Năm: 06:00–10:00",
+        "Thứ Sáu: 06:00–10:00",
+        "Thứ Bảy: 06:00–10:00",
+        "Chủ Nhật: 06:00–10:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Emma Le",
+        "author_url": "https://www.google.com/maps/contrib/100806174462433903868/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpLEkKKbOX5iz2_gWeMT9VRX21BF5bBhTXrmG0g62venMrTA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Phở ngon đậm vị , không gian thoáng mát , sạch sẽ . Rất đáng để thử và trải nghiệm 👍👍👍",
+        "time": 1713879776,
+        "translated": false
+      },
+      {
+        "author_name": "minh duy lê",
+        "author_url": "https://www.google.com/maps/contrib/111678427455180107829/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAjb4UNUa7BLTSy9qtd3pC2T5Pnt1PQxCzhQ5bIJtrQFNavg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Phở ngon , nước trong , chủ lại nhiệt tình . Vô cực điểm nha mọi người ❤️❤️❤️",
+        "time": 1708687878,
+        "translated": false
+      },
+      {
+        "author_name": "David Khoi",
+        "author_url": "https://www.google.com/maps/contrib/103416977585969785223/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpwn1zCmJ0L6xFjCGmHfRycD1e1mVgKw5RqWvI5FrfQSF6BhH1=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán rộng rãi, thoáng mát, đồ ăn rất vừa miệng. Có một hồ cá và rất nhiều cây, ăn buổi sáng không khí cực kì hợp lí. Đũa muỗng sạch sẽ và ông chủ nhiệt tình, vui tính.",
+        "time": 1709804776,
+        "translated": false
+      },
+      {
+        "author_name": "Nhinhi Pham",
+        "author_url": "https://www.google.com/maps/contrib/118385976302739209342/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxCSBdeJNk1V4d8kLqA6JcTpiYScdzgX1cnU1W9UG4p8Jhk8o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán rất sạch sẽ và thoáng mát.\nPhở hương vị rất ngon, có cả phở bắc và phở nam.\nGiá cả thực sự rẻ so với chất lượng luôn.\nPhục vụ rất nhiệt tình nha.\nBạn nào du lịch hoặc gia đình nào du lịch mà thích phở thì nên ghé ăn thử nhen.",
+        "time": 1719647492,
+        "translated": false
+      },
+      {
+        "author_name": "Елизавета",
+        "author_url": "https://www.google.com/maps/contrib/115631402784883780948/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLw9qtyshpcYtk18omTedBcAXOOHvgqb720tzAB9LXcOKoq2g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Có vài lần chúng tôi không vào được vì đến muộn. Có lần, quán đã đóng cửa lúc 9 giờ. Cố gắng đến trước giờ đó nhé - rất đáng. Phở ngon, thịt mềm, chủ quán thân thiện, sạch sẽ và gọn gàng. Giá cả rất phải chăng. Khu vườn rất đẹp.",
+        "time": 1746341997,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 15
+  },
+  "harvested_at": "2026-05-02T15:19:12.647702"
+}

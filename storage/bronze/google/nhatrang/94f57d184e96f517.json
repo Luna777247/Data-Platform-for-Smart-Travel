@@ -1,0 +1,163 @@
+{
+  "u_key": "94f57d184e96f517",
+  "original_osm_name": "Ania Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0382 632 146",
+    "geometry": {
+      "location": {
+        "lat": 12.2976583,
+        "lng": 109.2135437
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2991017802915,
+          "lng": 109.2148936802915
+        },
+        "southwest": {
+          "lat": 12.2964038197085,
+          "lng": 109.2121957197085
+        }
+      }
+    },
+    "name": "Ania Coffee",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1430"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1430"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1430"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1430"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1430"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–14:30",
+        "Thứ Ba: 08:00–14:30",
+        "Thứ Tư: 08:00–14:30",
+        "Thứ Năm: 08:00–14:30",
+        "Thứ Sáu: Đóng cửa",
+        "Thứ Bảy: 08:00–14:30",
+        "Chủ Nhật: 08:00–14:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Bánh mì sandwich ăn khá ổn. Vị vừa ăn, giá tốt.",
+        "time": 1757332090,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Anh",
+        "author_url": "https://www.google.com/maps/contrib/111333735710816074916/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrfpwTgtk6Xk34mcnZ0tH7qPu7xT9eguzMTGT26Eh8JRSS3g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Bánh sandwich bơ và cà phê ngon. 2 bạn phục vụ dễ thương, thân thiện nhiệt tình. Quán có nhiều khách nga",
+        "time": 1754231478,
+        "translated": false
+      },
+      {
+        "author_name": "hanna bui",
+        "author_url": "https://www.google.com/maps/contrib/100998054947152093239/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM-W3ySshhzlF_NPYyg3PLNDqmHv1sYyyu78UjD6Atfv1XEXz3=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán mới mở. Ở đây có brownie và nước ngon nha.",
+        "time": 1774145302,
+        "translated": false
+      },
+      {
+        "author_name": "Ak",
+        "author_url": "https://www.google.com/maps/contrib/102873738934801008402/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEYneb95cT2F4GwpLQYy9CcdICyuyNk8f5b0aeM-v40B3Fpif0Og=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đây là một quán cà phê xinh xắn, thân thiện với chó, có khu vườn đẹp. Họ phục vụ bữa sáng cả ngày, và tôi đã gọi món bánh mì kẹp thịt viên, khá ngon, đặc biệt là với giá 35.000 đồng. Khu vực này không có nhiều chỗ tốt để thư giãn, vì vậy đây là một lựa chọn tuyệt vời. Tôi đã thấy một chú chó poodle nhỏ xíu dễ thương ở đây trong chuyến thăm của mình.",
+        "time": 1757341648,
+        "translated": true
+      },
+      {
+        "author_name": "Анастасия Юдина",
+        "author_url": "https://www.google.com/maps/contrib/102504203481546974620/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9C4roEjqcY5xy8gCQ21mV96CJvkwpj5eCgH8Mj9MiOqYS0BTR=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Ania Coffee, một quán ăn sáng bình dân ở phía bắc.\n\nChúng tôi gọi món qua cửa sổ và ngồi vào khu vực ăn uống ngoài trời thoáng đãng, xanh mát, đúng kiểu truyền thống Nha Trang.\n\nMột khởi đầu ngày mới tuyệt vời: Bánh mì sandwich, trứng bác và trứng ốp la, khoảng 30 đồng. Tôi muốn thêm một chút bơ. Có lựa chọn trứng ốp la: thêm trứng, bơ và phô mai.\n\nCappuccino cũng ngon, nhưng hơi nóng.\n\nCảm ơn vì sự đón tiếp nồng nhiệt, món ăn rất ngon 🥪\n\n#LoveGuestsReviews @yudinacare - dịch vụ khiến khách hàng quay lại.",
+        "time": 1760866381,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 70
+  },
+  "harvested_at": "2026-05-02T15:38:54.196475"
+}

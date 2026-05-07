@@ -1,0 +1,174 @@
+{
+  "u_key": "ed063a81c7095a57",
+  "original_osm_name": "Cà Phê Mayfaire",
+  "google_raw": {
+    "formatted_phone_number": "0366 663 489",
+    "geometry": {
+      "location": {
+        "lat": 21.0256108,
+        "lng": 105.8544466
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0269786302915,
+          "lng": 105.8558175302915
+        },
+        "southwest": {
+          "lat": 21.0242806697085,
+          "lng": 105.8531195697085
+        }
+      }
+    },
+    "name": "Cafe de Mayfair",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:30",
+        "Thứ Ba: 07:00–23:30",
+        "Thứ Tư: 07:00–23:30",
+        "Thứ Năm: 07:00–23:30",
+        "Thứ Sáu: 07:00–23:30",
+        "Thứ Bảy: 07:00–23:30",
+        "Chủ Nhật: 07:00–23:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "Bui Alsits",
+        "author_url": "https://www.google.com/maps/contrib/103749135771560185495/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU1N3_CB6stgNDKSssQaS1S7j95uZJCVh7M4JhI5HzuRGFQmM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán gần Bờ Hồ, phù hợp ngồi buổi tối, phục vụ tốt, 2 món nước mình order không quá đặc sắc.",
+        "time": 1764163937,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Vy",
+        "author_url": "https://www.google.com/maps/contrib/106339471543952054910/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVONDt11cPOy1FnvHmJUTWNVyWQR4NqTW2e15b8jLR5DYlRdWE=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cafe de Mayfair là một quán cà phê sang trọng và tinh tế, mang đến trải nghiệm đẳng cấp cho thực khách. Không gian quán được bài trí theo phong cách châu Âu cổ điển, với những chi tiết trang trí cầu kỳ và hệ thống ánh sáng ấm áp, tạo nên một bầu không khí lãng mạn và yên bình. Thực đơn đồ uống đa dạng, từ cà phê hảo hạng đến các loại trà và bánh ngọt hấp dẫn. Dịch vụ chuyên nghiệp, nhân viên lịch sự và am hiểu về sản phẩm. Cafe de Mayfair là nơi lý tưởng cho những ai muốn tận hưởng khoảnh khắc thư giãn trong một không gian sang trọng. Để nâng cao trải nghiệm, quán có thể sử dụng Tuneast để tạo ra một danh sách nhạc độc đáo, phù hợp với không gian, cho phép khách hàng đóng góp ý kiến hoặc gửi lời chúc, tạo nên sự tương tác thú vị.",
+        "time": 1770829650,
+        "translated": false
+      },
+      {
+        "author_name": "Sao Mai Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/113541124292531272320/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQC5zBOjenbsAFTa_ZUMZScPfmABoO_wISOWPEg19IvCigOwSw8g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình tâm đắc nhất ở quán là không gian được thiết kế kiểu Châu Âu, đẹp, có vị trí ngay trung tâm quận Hoàn Kiếm- vừa là phố sách vừa là phố đi bộ và view đẹp. Quán có không gian cả bên trong và bên ngoài chill chill.\n\nQuán có phục vụ món bún sườn mọc vị khá ổn. Nếu bạn đến ăn trưa vừa ngồi cafe luôn rất tiện lợi. Đặc biệt ở bạn đến trung tâm bờ Hồ Hoàn Kiếm này, vừa chơi, ăn kem Tràng Tiền, mua sắm, tham quan thì bạn nghỉ chân ở đây ăn/uống hợp lý.\n\nNhân viên phục vụ ổn. Biết ơn quán rất nhiều. Chúc quán sẽ phục vụ nhiều khách với món ăn chỉn chu hơn nữa, phù hợp sự sang trọng của quán",
+        "time": 1720465464,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Dat (refrez)",
+        "author_url": "https://www.google.com/maps/contrib/117024735163981579656/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcPvG6YnpA3vryqI5sJksOQWLGSzj0QdfQWNgEVCAgoSD4UYJgw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Menu đồ uống nghèo nàn, giá cao 70k++, phục vụ không niềm nở nhiệt tình, chỗ ngồi đẹp trong khu phố sách nên cuối tuần yên tĩnh nhờ phố đi bộ. Sáng ăn bún sườn hay phở gà gọi bên cạnh",
+        "time": 1742805231,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Ngọc Lê",
+        "author_url": "https://www.google.com/maps/contrib/100343819007247870111/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOIDeMgQrZ6Ii0FI8ZD4Ta0bUnJMoiGeaP9uxR6cvN0CaCQiQT=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "7 tháng trước",
+        "text": "ưu điểm: vị trí đẹp, decor ổn.\nnhược điểm: menu không đặc sắc, đồ uống giá thành cao do vị trí đẹp nhưng chất lượng đồ uống nếu không muốn nói là quá tệ.",
+        "time": 1756784025,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 283
+  },
+  "harvested_at": "2026-04-27T19:58:02.827627"
+}

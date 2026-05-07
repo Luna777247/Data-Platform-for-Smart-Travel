@@ -1,32 +1,21 @@
-# Build stage
-FROM node:22-alpine AS builder
+FROM node:20-alpine AS builder
 
-# Install pnpm
-RUN npm install -g pnpm
-
-# Set working directory
 WORKDIR /app
 
-# Copy package files
-COPY package*.json pnpm-lock.yaml ./
+# Install dependencies
+COPY package*.json ./
+RUN npm ci
 
-# Install dependencies using pnpm
-RUN pnpm install
-
-# Copy source code
+# Build
 COPY . .
-
-# Build the application
-RUN pnpm run build
+RUN npm run build
 
 # Production stage
-FROM node:22-alpine AS runner
+FROM node:20-alpine AS runner
 
-# Install pnpm
-RUN npm install -g pnpm
-
-# Set working directory
 WORKDIR /app
+
+ENV NODE_ENV=production
 
 # Create non-root user
 RUN addgroup --system --gid 1001 nodejs
@@ -37,16 +26,9 @@ COPY --from=builder /app/public ./public
 COPY --from=builder --chown=nextjs:nodejs /app/.next ./.next
 COPY --from=builder /app/node_modules ./node_modules
 COPY --from=builder /app/package.json ./package.json
-COPY --from=builder /app/pnpm-lock.yaml ./pnpm-lock.yaml
 
-# Create .env.local for production (Docker network service name)
-RUN echo "NEXT_PUBLIC_API_BASE_URL=http://backend:8000" > .env.local
-
-# Switch to non-root user
 USER nextjs
 
-# Expose port
-EXPOSE 3001
+EXPOSE 3000
 
-# Start the application
-CMD ["pnpm", "start"]
+CMD ["npm", "start"]

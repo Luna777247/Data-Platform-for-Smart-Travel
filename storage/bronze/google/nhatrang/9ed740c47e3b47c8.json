@@ -1,0 +1,164 @@
+{
+  "u_key": "9ed740c47e3b47c8",
+  "original_osm_name": "Cheers bar",
+  "google_raw": {
+    "formatted_phone_number": "0258 3525 688",
+    "geometry": {
+      "location": {
+        "lat": 12.2347254,
+        "lng": 109.1944034
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2360823302915,
+          "lng": 109.1957870302915
+        },
+        "southwest": {
+          "lat": 12.2333843697085,
+          "lng": 109.1930890697085
+        }
+      }
+    },
+    "name": "Nhà hàng Cheers",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:30",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 09:00–22:30",
+        "Thứ Năm: 09:00–22:30",
+        "Thứ Sáu: 09:00–23:00",
+        "Thứ Bảy: 09:00–23:30",
+        "Chủ Nhật: 09:00–23:30"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Khoi Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100227743010247878535/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTHICPxE6Ktdo7vp6zVL6_K7qNbyN9niDM4YduA_i7sQemilU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn rất ngon rất hợp khẩu vị á, pizza làm rất đậm đà, nv nhiệt tình, giá cả phải chăng. Mk đi 4 người mua 1 pizza chia giá ra oke lắm",
+        "time": 1721401047,
+        "translated": false
+      },
+      {
+        "author_name": "van Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/116267932948036064584/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgu-Z2fSIpt64JyTsR6LnpSazCiNah0F-CA48rOmN2VG4AoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Tôi đã đến đây và k có tuyệt vời hon khi mọi thứ đều tốt đẹp, chủ quán thân thiện và đồ an hon cả mong đợi",
+        "time": 1713940241,
+        "translated": false
+      },
+      {
+        "author_name": "alexa Anderson",
+        "author_url": "https://www.google.com/maps/contrib/114962124055641726269/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCcrCFpprSHI5E24E3Ffwk646aHzcknR5J36cLrLdUckjS5pM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "ngon",
+        "time": 1752158925,
+        "translated": false
+      },
+      {
+        "author_name": "Riley Francis",
+        "author_url": "https://www.google.com/maps/contrib/116078679906437516044/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_bxiVqRCF6H8053euFFPdhvmlLRsVb4znQ5XGl_FUrHLM1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "best bar in nha trang",
+        "time": 1715158582,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Checker",
+        "author_url": "https://www.google.com/maps/contrib/109982181485609490916/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLAfdFCWgC8PifwbenEGcD1QpjxgUsVBr9Igw5ykxOTGPf8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "dịch vụ tốt\n-t-",
+        "time": 1500541217,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 397
+  },
+  "harvested_at": "2026-05-03T19:40:35.937147"
+}

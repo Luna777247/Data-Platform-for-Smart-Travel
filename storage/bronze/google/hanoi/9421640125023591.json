@@ -1,0 +1,173 @@
+{
+  "u_key": "9421640125023591",
+  "original_osm_name": "Aventus Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0816 679 222",
+    "geometry": {
+      "location": {
+        "lat": 21.0212216,
+        "lng": 105.8033286
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0225694802915,
+          "lng": 105.8046734302915
+        },
+        "southwest": {
+          "lat": 21.0198715197085,
+          "lng": 105.8019754697085
+        }
+      }
+    },
+    "name": "Aventus Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:30",
+        "Thứ Ba: 07:00–23:30",
+        "Thứ Tư: 07:00–23:30",
+        "Thứ Năm: 07:00–23:30",
+        "Thứ Sáu: 07:00–23:30",
+        "Thứ Bảy: 07:00–23:30",
+        "Chủ Nhật: 07:00–23:30"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "VYNH NGUYỄN",
+        "author_url": "https://www.google.com/maps/contrib/104619509646966246153/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVT-eEY-qGgIYZKfSVTWeKwL8PlocBAz53fwG2to40ylzo0MHvZaA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rộng, nhiều không gian checkin, nv nhiệt tình. Mn order giảm đá hoặc ko đá có vơi cũng đừng giật mình nha 😁",
+        "time": 1769861227,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Đặng",
+        "author_url": "https://www.google.com/maps/contrib/103622915178451655644/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG6AxU-eyru9aZ3ud_G3O4FQEar7qeM_qZEhVBWa6O9RdEqHrqHQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ uống rất ngon\n\nRecommend món bơ dừa. Matcha dừa cũng ngon nha. Ny mình gọi trà cam gì đó đắng đắng uống cũng lạ nhma hợp",
+        "time": 1765379870,
+        "translated": false
+      },
+      {
+        "author_name": "intienson",
+        "author_url": "https://www.google.com/maps/contrib/109292122875654210411/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiKwYBjBbzSgt4gN7CqSjj-gA6-y-0BEqwdgc3a9dn4FyzUjU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "quán có view đẹp. phù hơp với nhiều nhóm bạn . đa dạng đồ uống. order hơi lâu",
+        "time": 1762853407,
+        "translated": false
+      },
+      {
+        "author_name": "Đồng Mai Lan",
+        "author_url": "https://www.google.com/maps/contrib/104804754497597549963/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_Xb_DSvETX8K_xV5NlzK2wLiC0L8ZtxThl4wDhcDion0D_BRw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán rất đông, đến vào giờ chiều thì toàn tệp khách trẻ. Checkin phụ kiện rất là nhiều luôn :)))))) Bọn mình ord dưới tầng 1, lên tầng 2 ngồi chờ quá là lâu, đến mấy lượt khách đến sau đều có đồ uông rồi nhưng lúc mình hỏi thì bảo nhầm đơn :)) Thấy khó chịu ghê. Đồ uống thì bình thường. Được cái không gian rộng, ngồi làm việc cũng oke. Nhưng cũng chỉ đến 1 lần.",
+        "time": 1756715705,
+        "translated": false
+      },
+      {
+        "author_name": "Mạnh Dũng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106231826868731422855/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmGuSfBaJmXGHni0aYCRkmnKHx6SO6NAENJW8slnU-LlW4xuyb=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán rộng, nhiều không gian ngồi lẫn checkin tốt, phù hợp đi theo nhóm.\nĐa phần những lần mình đến, quán đều tương đối đông, nên đồ uống lên cũng khá chậm.\nBảng giá trung bình cao, nên bảo nhân viên giảm bớt đá nhé, có giảm hay không thì hên xui 🤣 giảm xong mà cốc vơi quá cũng không nên bất ngờ",
+        "time": 1760841060,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 518
+  },
+  "harvested_at": "2026-04-27T19:58:02.098925"
+}

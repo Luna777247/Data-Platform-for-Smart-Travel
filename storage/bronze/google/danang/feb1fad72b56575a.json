@@ -1,0 +1,173 @@
+{
+  "u_key": "feb1fad72b56575a",
+  "original_osm_name": "Giac NGO",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.053308,
+        "lng": 108.2204506
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0546906802915,
+          "lng": 108.2217215302915
+        },
+        "southwest": {
+          "lat": 16.0519927197085,
+          "lng": 108.2190235697085
+        }
+      }
+    },
+    "name": "GIÁC Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Bảo Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/112010077868051931284/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkBo6ErroutQNCpzZwZLLuXQIbJPZyrJcZqe0gN7DxzYSjw234=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "To rộng thoáng mát như thế là đủ điểm cho 1 quán cf giữa trung tâm thành phố rồi.\nGiá cả thì bình thường, do chỉ thử mỗi 1 món nên cũng không dám nhận xét gì nhiều..",
+        "time": 1759219028,
+        "translated": false
+      },
+      {
+        "author_name": "Petrus Nguyễn Thái Học",
+        "author_url": "https://www.google.com/maps/contrib/109193338034759531463/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNo6BUIkhrVBL32R4krnqoowae4M5sZTc8dfkVZ9FNEgAsm6Dj=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán rộng rãi, thoáng mát. Có hai khu bên ngoài và bên trong, bàn ghế dễ dàng ngồi laptop. Thoải mái trò chuyện.",
+        "time": 1766244493,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Minh Tuan",
+        "author_url": "https://www.google.com/maps/contrib/107138955775511673051/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCWJ2cx2AGCMzCSpAkTd0KnglojXfyMlnqe5DicIg1avADkg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cafe không gian rất thoáng mát ở ngoài trời và khu vực phòng lạnh khá rộng rãi, có nhiều ổ cắm để làm việc nếu cần, mặt tiền rộng dễ tìm, bãi đỗ xe cũng rộng. Quán trang trí rất đẹp với những tấm tranh tường cỡ lớn. Mình thấy quán còn có khu vực riêng có tô tượng để dẫn trẻ nhỏ theo.\n\nGiá nước trung bình từ 30k trở lên, cũng OK so với không gian và mặt bằng. Quán dùng ly thủy tinh thân thiện môi trường. Nhân viên lịch sự - nhanh nhẹn. Chất lượng nước thì tạm ổn chứ không xuất sắc.",
+        "time": 1720285160,
+        "translated": false
+      },
+      {
+        "author_name": "Uk H",
+        "author_url": "https://www.google.com/maps/contrib/108604022277822393637/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLbiqLKnP87JsSWbFUA1J0wfCYu1CSCmD8L0XbJQlDpREXJE0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Trải nghiệm tuyệt vời! Mình thích cách quán trang trí quán bằng các bức vẽ mang đậm vị \"Đà Nẵng\", có lẽ vì thế mà ly cacao muối mình gọi nó mới thơm nồng, vừa vị như vậy! Nhân viên cũng nhiệt tình nữa!",
+        "time": 1754242345,
+        "translated": false
+      },
+      {
+        "author_name": "Bao Tran",
+        "author_url": "https://www.google.com/maps/contrib/101782044885162839953/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSx_EksZV-wPt1k8LGDf8SBIszdcOEr9nd8kFJCh3TmHDuCDLjzA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán cafe có khuôn viên rất rộng rãi, thiết kế vừa phải.\nThực đơn nhiều loại, giá phù hợp.",
+        "time": 1751894662,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 403
+  },
+  "harvested_at": "2026-04-29T09:56:43.535314"
+}

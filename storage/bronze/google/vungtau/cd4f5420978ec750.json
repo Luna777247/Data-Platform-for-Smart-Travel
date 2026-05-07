@@ -1,0 +1,173 @@
+{
+  "u_key": "cd4f5420978ec750",
+  "original_osm_name": "Ga Lang",
+  "google_raw": {
+    "formatted_phone_number": "0934 311 944",
+    "geometry": {
+      "location": {
+        "lat": 10.3646972,
+        "lng": 107.0842317
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3661004802915,
+          "lng": 107.0855276302915
+        },
+        "southwest": {
+          "lat": 10.3634025197085,
+          "lng": 107.0828296697085
+        }
+      }
+    },
+    "name": "GA VUNG TAU coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Tiên Dương",
+        "author_url": "https://www.google.com/maps/contrib/115945969407271798162/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJQ1q9iBOvlX9HV7oAdf1-DwYpCBSxml0Fom1kHR25KII7fsNs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Có phòng ốc sạch sẽ thoáng mát. Không gian mang phong cách retro, ấm cúng, thích hợp để nhâm nhi món nước yêu thích vào cuối tuần. Nhưng điểm cộng lớn nhất phải là sự phục vụ nhiệt tình và vô cùng dễ thương của cô chủ.",
+        "time": 1727483835,
+        "translated": false
+      },
+      {
+        "author_name": "Cỏ Ven Sông",
+        "author_url": "https://www.google.com/maps/contrib/102174054287459763187/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXK2mUIaT2Do_SY0CsOVlWLmjDsjb5Tnpysleh6FEKMCo_ijicdhg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Không gian quán đẹp, yên tĩnh và nước uống khá ngon. Phù hợp để tổ chức các buổi giao lưu, gặp mặt hội nhóm hoặc câu lạc bộ.",
+        "time": 1504024784,
+        "translated": false
+      },
+      {
+        "author_name": "Nhàn Pham",
+        "author_url": "https://www.google.com/maps/contrib/103910308048914409728/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9dwOWAZkn2EK5py1Wsv_YBCh91FqPt1ssbzFsQoC0edfk4Ggi=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ ăn ngon lắm, phục vụ đỉnh  ủa chóp 1000/100",
+        "time": 1657104552,
+        "translated": false
+      },
+      {
+        "author_name": "TT Linh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104088662911525109357/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLd8FKG1h3DivFdyAVt3jlF6RfZbmXh-1w3bgK2VaKqNEiLUA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán dễ thương, lúc mình đến coi tarot đúng.",
+        "time": 1651656702,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Giang Bạch Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/103502752353261993256/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUn-B-Yv1dcRi7Org4XIwrKK2dKyOtkB-2VKkyh2vE4wSCyMW6E=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Trên tầng có máy lạnh phòng ốc rộng rãi",
+        "time": 1651310065,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 56
+  },
+  "harvested_at": "2026-05-03T19:50:02.993253"
+}

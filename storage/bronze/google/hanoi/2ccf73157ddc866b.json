@@ -1,0 +1,173 @@
+{
+  "u_key": "2ccf73157ddc866b",
+  "original_osm_name": "Cà Phê Hát Cho Nhau Nghe",
+  "google_raw": {
+    "formatted_phone_number": "0903 221 664",
+    "geometry": {
+      "location": {
+        "lat": 21.0234126,
+        "lng": 105.8384729
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0247672802915,
+          "lng": 105.8398234302915
+        },
+        "southwest": {
+          "lat": 21.0220693197085,
+          "lng": 105.8371254697085
+        }
+      }
+    },
+    "name": "Hát Cho Nhau Nghe - Sound Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–00:00",
+        "Thứ Ba: 08:00–00:00",
+        "Thứ Tư: 08:00–00:00",
+        "Thứ Năm: 08:00–00:00",
+        "Thứ Sáu: 08:00–00:00",
+        "Thứ Bảy: 08:00–00:00",
+        "Chủ Nhật: 08:00–00:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "luongkhac linh",
+        "author_url": "https://www.google.com/maps/contrib/110956273417264665891/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXF-SQTEdLLldG5mR9-HGDSenJ8XmBSTMuL2fDbugvoev1S_pI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Rất vui",
+        "time": 1772978669,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Đức",
+        "author_url": "https://www.google.com/maps/contrib/108034110811534137356/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLdrM-10-VnyubtuqxhcknaU0cfTXu0vm6zssHo4Tosgp7nuQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tuần trước",
+        "text": "Quán ổn,view đẹp",
+        "time": 1776273928,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Doan",
+        "author_url": "https://www.google.com/maps/contrib/110009402797305072238/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIM926wclr5Di42zPvqVHhLRh1oqn-uUcnxwFQjeXU1Cthu6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tuần trước",
+        "text": "Quán mặt hồ linh quang rất thuận tiện",
+        "time": 1776212319,
+        "translated": false
+      },
+      {
+        "author_name": "WAG WAG",
+        "author_url": "https://www.google.com/maps/contrib/101983389377821039477/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhRbEX2_BAi45b9CCahhllwuPQHsYl2GsNp_cMoSG_BkDcP5k=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tuần trước",
+        "text": "Rất vui, đáng để đi",
+        "time": 1775886004,
+        "translated": false
+      },
+      {
+        "author_name": "Tú Hoa Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115085650794015614531/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbnAtxAfOPcMkk57FU4rFQEQ3oBLZ61Fo0j1zmuGsXz1TilQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tuần trước",
+        "text": "Âm thanh ok",
+        "time": 1775143376,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "harvested_at": "2026-04-26T12:45:19.315485"
+}

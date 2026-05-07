@@ -1,0 +1,110 @@
+{
+  "u_key": "9602c0179eb30b74",
+  "original_osm_name": "Gâu Garden",
+  "google_raw": {
+    "formatted_phone_number": "0988 651 357",
+    "geometry": {
+      "location": {
+        "lat": 11.9420569,
+        "lng": 108.4669705
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9433715302915,
+          "lng": 108.4682889302915
+        },
+        "southwest": {
+          "lat": 11.9406735697085,
+          "lng": 108.4655909697085
+        }
+      }
+    },
+    "name": "Cafe 24h GâuGarden",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "O B I",
+        "author_url": "https://www.google.com/maps/contrib/101255103333904351978/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo_1Rc26EgOsUBoiRtIEhdZKR7EBVuTA55e78YwtAhHu0Rxck=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ngày đông không biết sao, nhưng mình đi ngày trung tâm đang đông khách. Quán khá vắng khách, trông decor không được chăm sóc kĩ cho lắm, kiểu decor có phần bão hoà và bình thường so với các quán khác, hoa cỏ tàn, nước uống cũng cũng. Đồ uốg giá k thấp.",
+        "time": 1770821932,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Tran",
+        "author_url": "https://www.google.com/maps/contrib/115798073729831945723/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWT6GaA_D43xwxvh6MiwgNKnjY7BilBDO-Wl5VnCswns3uwxQi=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán có view đẹp nhìn ra đồi thông và núi non, không gian quán khá rộng, bãi đậu xe thoải mái.\n\nĐiểm nhấn tất nhà mấy em gâu. Chủ làm dịch vụ nên mấy em này hiền lành và rất thân thiện. Tuy nhiên một số em lông xù thì có mùi.\n\nMenu của quán khá đa dạng, giá vừa ổn. Nhân viên nhanh nhẹn nhiệt tình.\n\nQuán decor theo hướng hiện đại, nhiều cây cỏ hoa lá xanh mát, nhiều góc chụp hình sống ảo, đặc biệt là có thiết kế nhiều gương. Buổi tối lên đèn rực rỡ.",
+        "time": 1761267294,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Anh Hồ Yến",
+        "author_url": "https://www.google.com/maps/contrib/108947822590115650840/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRHuNU_G9_WyEZFJUCjbNwLG7WuNtL-PCSvUJwLG_ExpWNy0fc=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán đi hơi khó tìm, phải qua mấy con dốc vs mình là hơi khó đi. Không gian quán có nhiều góc ngồi, view núi đồi hùng vĩ. Quán có tầm 5 con Alaska, 1 Corgi(hôm mình đi thì thấy vậy). Cún khá thân thiện vs khách. Menu giá như thị trường (min 65k), đồ uống pha ngon. Tuy nhiên quán mở nhạc trẻ thiên về mấy bài thất tình nên mình ko thích lắm.",
+        "time": 1767409807,
+        "translated": false
+      },
+      {
+        "author_name": "Mih Huy Phạm",
+        "author_url": "https://www.google.com/maps/contrib/108457565798621027334/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqsj2hMoyIAM8KuwJcwHswssY1uaEx4JK6GXWA1ryqNgku-Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán đẹp , nước ngon. Nhma nhân viên lo ngủ ngái khò khò , kh phục vụ khách :)",
+        "time": 1772639850,
+        "translated": false
+      },
+      {
+        "author_name": "An An",
+        "author_url": "https://www.google.com/maps/contrib/116645234722257536591/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhS8cZjZW0-95jYQrCSxBN10VuKjpwqHvuH38NvWMP18nlAQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán thay đổi qá nhiều so với trc kia mình đi. Ko còn dc thoáng nhìn view trọn vẹn như trc, thay đổi decor luôn, mấy e cún thì hơi có mùi mặc dù khi mấy e đi tè sẽ có nhân viên dọn ngay.\nGiá cũng khá cao, nếu dc hỏi có quay lại ko thì có lẻ mình sẽ trả lời ko( khi mà giá cao, nhưng view lại ko tương xứng).\nTuy nhiên bạn nào thích cún thì cũng nên ghé chơi nhé.",
+        "time": 1754763161,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 944
+  },
+  "harvested_at": "2026-04-30T15:04:21.351900"
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "u_key": "58e0a265c064fde9",
+    "name": "The Noble House",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.724682,
+      "lon": 107.0496053
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "aedbe0dd9ea6218c",
+    "name": "Bia Rau Bình Dân",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8301891,
+      "lon": 106.6945619
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "9409c23715f32dea",
+    "name": "Bia Hoi",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7264836,
+      "lon": 107.0459975
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "f6c9d73c55901bb2",
+    "name": "Hoang gia restaurant",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "Đường 1/4",
+    "location": {
+      "lat": 20.7256635,
+      "lon": 107.0477639
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "2ceac82de58de5e0",
+    "name": "Mona's Rooftop",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7258264,
+      "lon": 107.0471319
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "e388c79d52412a80",
+    "name": "Peerace Bar",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.856198,
+      "lon": 106.6871132
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "b129a8d524e3c612",
+    "name": "Jungle Bar",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7873588,
+      "lon": 107.0006935
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "5d033f70be497065",
+    "name": "Quán chim to dần",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.850012,
+      "lon": 106.6274583
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "3f99ab987a2b46f6",
+    "name": "Chill Bar",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.9418827,
+      "lon": 106.3278877
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "c60068c7b46edc7b",
+    "name": "Sky Beer",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8580049,
+      "lon": 106.672823
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "af30cc02dec55a84",
+    "name": "Chill",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.857263,
+      "lon": 106.6737357
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "ac4a8fd0af763df7",
+    "name": "Tiệp Xì Draft Beer",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7363785,
+      "lon": 107.0429076
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  },
+  {
+    "u_key": "edf2ac0c6f7ea9f0",
+    "name": "Binh's Motorcycle Bar",
+    "type": "bar",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7502345,
+      "lon": 106.9961334
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:41:41.520290"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "u_key": "4b2a3b338365dc09",
+  "original_osm_name": "Nhà trọ Huỳnh Đinh Dũng",
+  "google_raw": {
+    "formatted_phone_number": "0345 743 818",
+    "geometry": {
+      "location": {
+        "lat": 15.9480321,
+        "lng": 108.2622307
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9494185802915,
+          "lng": 108.2635654302915
+        },
+        "southwest": {
+          "lat": 15.9467206197085,
+          "lng": 108.2608674697085
+        }
+      }
+    },
+    "name": "Nhà Trọ Thúy Định",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Yến Vi",
+        "author_url": "https://www.google.com/maps/contrib/105738670906167510773/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUSUPSAnVfv2pt41Y3xv5dE4S8QkXx7JxRymi0wOcjDsfa31_Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cho e hỏi còn phòng trống hk ạ",
+        "time": 1755346665,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Khắc Định",
+        "author_url": "https://www.google.com/maps/contrib/105248593912171265087/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMbkCHnJkn-9Luq1sE1RNtPX6Ll_Wy2txuBM61gK3I4ulv_B_GKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Tốt",
+        "time": 1709389564,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-28T16:36:01.163470"
+}

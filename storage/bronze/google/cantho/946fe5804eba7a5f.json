@@ -1,0 +1,38 @@
+{
+  "u_key": "946fe5804eba7a5f",
+  "original_osm_name": "Nhà trọ Bà Năm",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 10.0156285,
+        "lng": 105.7672458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.0170081802915,
+          "lng": 105.7684576802915
+        },
+        "southwest": {
+          "lat": 10.0143102197085,
+          "lng": 105.7657597197085
+        }
+      }
+    },
+    "name": "Nhà trọ Bà Năm",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "NC2019 Nguyên",
+        "author_url": "https://www.google.com/maps/contrib/113072270882504223739/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4NhdhwzPttxGFuol_W2fkTlCEzTHrHib4u3s-gwdEreuIbA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "",
+        "time": 1771456751,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-30T15:17:48.520481"
+}

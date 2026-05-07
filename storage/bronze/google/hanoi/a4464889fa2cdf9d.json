@@ -1,0 +1,49 @@
+{
+  "u_key": "a4464889fa2cdf9d",
+  "original_osm_name": "lycuti house",
+  "google_raw": {
+    "formatted_phone_number": "0947 919 173",
+    "geometry": {
+      "location": {
+        "lat": 21.0358911,
+        "lng": 105.8533695
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0372252802915,
+          "lng": 105.8546786302915
+        },
+        "southwest": {
+          "lat": 21.0345273197085,
+          "lng": 105.8519806697085
+        }
+      }
+    },
+    "name": "Lycuti House",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Sarah",
+        "author_url": "https://www.google.com/maps/contrib/116458792267162685146/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKALJqM7lH5FWowEDkwCnFN1zpSBd3_omjWhGxRihT6A-fo24s=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1571136850,
+        "translated": false
+      },
+      {
+        "author_name": "Łukasz Ożga",
+        "author_url": "https://www.google.com/maps/contrib/105442223466013380973/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJA8CgOjPGDsWo9bodsHLqAJOgDgZSlirdk0Gatf09BcQhTiw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1535339971,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-28T16:25:53.555793"
+}

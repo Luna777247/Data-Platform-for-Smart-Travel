@@ -1,0 +1,86 @@
+{
+  "u_key": "aedbe0dd9ea6218c",
+  "original_osm_name": "Bia Rau Bình Dân",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.8377132,
+        "lng": 106.7041058
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.83902893029151,
+          "lng": 106.7055130302915
+        },
+        "southwest": {
+          "lat": 20.8363309697085,
+          "lng": 106.7028150697085
+        }
+      }
+    },
+    "name": "Quán bia rau",
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Nam Anh Phạm Hải",
+        "author_url": "https://www.google.com/maps/contrib/104644824354696758398/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdBVbTehTx-Lcj_tytRH_G51-NNWr8uP1yvroZIZkDNNwrfoCobw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Phục vụ tốt, bia và đồ nhắm cũng khá rẻ",
+        "time": 1532367089,
+        "translated": false
+      },
+      {
+        "author_name": "Tiến Thành Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103710080158017730410/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYcOW_iKcXvrB-ZRzzy1tDRS6YPqY6ebWyr9L9VEDdwncF9I6-=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "8 năm trước",
+        "text": "Giá rẻ",
+        "time": 1519124894,
+        "translated": false
+      },
+      {
+        "author_name": "David P",
+        "author_url": "https://www.google.com/maps/contrib/101444292775789840094/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFEv16UvAQT2wQDe-sdU9SZH1HTVLVR5hclJ7MidEb7Yi1yGqw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Cũng tạm",
+        "time": 1507381538,
+        "translated": false
+      },
+      {
+        "author_name": "Phạm Công Văn",
+        "author_url": "https://www.google.com/maps/contrib/112101644858100180587/reviews",
+        "language": "vi",
+        "original_language": "ro",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRZM2KZ0ppVbFzN8YrZSJ7tlMtIyI6adCeu87NtkHCklyFrICS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "tất nhiên rồi",
+        "time": 1532367234,
+        "translated": true
+      },
+      {
+        "author_name": "Nguyễn Tiến Trung Offical",
+        "author_url": "https://www.google.com/maps/contrib/114320625144969861819/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4Bs_NAaMdDnMvDQLQMbGJE57AUz0DCeM1qcflSBpthpYqOpI6XQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1584691655,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 11
+  },
+  "harvested_at": "2026-04-30T15:22:09.937532"
+}

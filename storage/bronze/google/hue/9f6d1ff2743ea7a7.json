@@ -1,0 +1,173 @@
+{
+  "u_key": "9f6d1ff2743ea7a7",
+  "original_osm_name": "Brown Eyes Bar",
+  "google_raw": {
+    "formatted_phone_number": "0813 665 088",
+    "geometry": {
+      "location": {
+        "lat": 16.468547,
+        "lng": 107.5962946
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.4699181302915,
+          "lng": 107.5976752802915
+        },
+        "southwest": {
+          "lat": 16.4672201697085,
+          "lng": 107.5949773197085
+        }
+      }
+    },
+    "name": "Brown Eyes Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–03:00",
+        "Thứ Ba: 07:00–03:00",
+        "Thứ Tư: 07:00–03:00",
+        "Thứ Năm: 07:00–03:00",
+        "Thứ Sáu: 07:00–03:00",
+        "Thứ Bảy: 07:00–03:00",
+        "Chủ Nhật: 07:00–03:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Quynh Ho (Hồ Thị Thuý Quỳnh)",
+        "author_url": "https://www.google.com/maps/contrib/115474321767336275097/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTFiRCUXdIi-YIlWk4M8v5Y1uYfzcVoR9a9_M6nQP5PN0V9n6juA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "pub mang không khí Tây nhiều hơn, phong cách cổ điển. không gian cũng nhẹ nhàng dễ chịu, có bàn chơi bia để mọi người thi với nhau, mọi người vào chủ yếu chill nghe nhạc, chơi các trò chơi đơn giản. có các chương trình giảm giá đến 10h tối. nhân viên nhiệt tình.",
+        "time": 1749871761,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Trần",
+        "author_url": "https://www.google.com/maps/contrib/107152871124315057231/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaQCcu0zcVxIMpZ_DlLRj5GHmjnYyHIZKJhG89leXeK6-RQWeM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Mình thì không hay đi bar búng các thứ, nhưng chỉ duy nhất 1 pub mà mình rất thích có thể nói là siêng đi là brown eyes, lúc học sinh viên cứ lâu lâu cứ rủ thằng bạn thân qa đây ngồi không biết chán là gì, sau này mình làm ở xa lâu lâu vào huế cũng hay ghé ở đây, phong cách tây nên chơi rất thoải mái vào mỗi người gọi một lon bia thôi cũng đã đủ vui rồi, trai gái , tây ta nhảy chung với nhau lẫn lộn rất vui, nhạc EDM remix những bài top hot nước ngoài nữa nghe mãi không chán luôn ý, vào đây còn đc ngắm các cô xinh đẹp nhảy mà không phải ngại nữa, nói chung là môi trưởng chơi thật tuyệt, đáng đồng tiền bát gạo để chơi, mình sẽ còn ủng hộ dài dài và mơ ước được mở một quán như brown eyes ^^",
+        "time": 1555131455,
+        "translated": false
+      },
+      {
+        "author_name": "Hoài Phạm (Xoài An)",
+        "author_url": "https://www.google.com/maps/contrib/117800635404355405245/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5DuVp_OS3CTnfQ3t1HitnNbLmJo6YQb5TzyFYKjbCI950sAUB=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Bar thuần tuý vui chơi lành mạnh, lần đầu vào quán cũng là lần đầu đi bar. Đồ uống khá ngon, nhân viên rất nhiệt tình. Khách chủ yếu là tây, nhạc hay. Có anh áo đen đứng quầy duyên, nhiệt tình chơi cùng 2 đứa mình luônnn",
+        "time": 1658853198,
+        "translated": false
+      },
+      {
+        "author_name": "Kieu Anh Nguyen Ho",
+        "author_url": "https://www.google.com/maps/contrib/109424622704038251358/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWttSxzwUvKqC86KkV7pOusZv_IdB2m1sIZwbvV49TNYQTPM_Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán xinh nhân viên dễ thương nhiệt tình ạ 😍",
+        "time": 1772264449,
+        "translated": false
+      },
+      {
+        "author_name": "TRUNG TRAINER",
+        "author_url": "https://www.google.com/maps/contrib/109475415073469891376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7GLl03TWFwOshD570bqXrmoK0xrrfPyKwnIeoQxdMlHlquHVU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Mọi thử đều ổn trừ nhạc ko phù hợp khẩu vị mình lắm, phù hợp cho người nước ngoài nhiều hơn\nNhân viên nhiệt tình, giá cả cũng hợp lí",
+        "time": 1693716608,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 719
+  },
+  "harvested_at": "2026-04-30T16:06:47.563369"
+}

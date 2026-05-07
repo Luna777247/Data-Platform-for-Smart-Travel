@@ -1,0 +1,97 @@
+{
+  "u_key": "1991e2509d1b5214",
+  "original_osm_name": "River House Homestay and Hostel - Correct Location",
+  "google_raw": {
+    "formatted_phone_number": "0987 636 391",
+    "geometry": {
+      "location": {
+        "lat": 16.1376299,
+        "lng": 108.0286049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.1389973302915,
+          "lng": 108.0299641302915
+        },
+        "southwest": {
+          "lat": 16.1362993697085,
+          "lng": 108.0272661697085
+        }
+      }
+    },
+    "name": "The River House",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Viễn Thân",
+        "author_url": "https://www.google.com/maps/contrib/112471576685688391711/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTKGRrrljil_6rhZKguPB5koLd1Yc_yEl5keSILxD3sGJOe6VR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Một nơi như thế này chắc chắn khiến tâm hồn trở nên thư thái và tĩnh lặng, rất thích hợp để nghỉ dưỡng hoặc tìm cảm hứng sáng tác. Nguồn năng lượng ở đây thật sự sạch.",
+        "time": 1752747634,
+        "translated": false
+      },
+      {
+        "author_name": "Đoàn Thanh Thanh",
+        "author_url": "https://www.google.com/maps/contrib/115060499735073041939/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ56NjEZ5cTk3yWOzfnU62DuldNLIGXLuEGSSZg18THg8BTTA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cảnh đẹp, nhiều cây rất thích luôn ấy ạ. Đồ ăn ngon, nhân viên nhiệt tình thân thiện. Phù hợp đi đoàn đông ngừoi",
+        "time": 1755507034,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Nguyễn hữu",
+        "author_url": "https://www.google.com/maps/contrib/107296821873230795206/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4f8J4UuhbOfliSJ8dIhQQuR0-_aMDfQ2zqIofGuDE18EmVQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "đầy đủ tiện nghi, sạch sẽ, mát mẻ, nhiều cây",
+        "time": 1755506927,
+        "translated": false
+      },
+      {
+        "author_name": "Nin Ph",
+        "author_url": "https://www.google.com/maps/contrib/111049433012184365179/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcLXIFvNGemnE2LEWGJjzFi7rgdGa9wXwBZhe0DuvW0VOULmnR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cảnh đẹp thích hợp cho cả những ngày nắng và ngày mưa.",
+        "time": 1755506779,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-28T16:34:37.967463"
+}

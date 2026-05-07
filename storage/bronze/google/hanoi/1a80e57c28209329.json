@@ -1,0 +1,40 @@
+{
+  "u_key": "1a80e57c28209329",
+  "original_osm_name": "Khách Sạn Hanoi Massive",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0291567,
+        "lng": 105.8484635
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0304880302915,
+          "lng": 105.8497698302915
+        },
+        "southwest": {
+          "lat": 21.02779006970849,
+          "lng": 105.8470718697085
+        }
+      }
+    },
+    "name": "Hanoi Massive Hostel",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Sagi Feuer",
+        "author_url": "https://www.google.com/maps/contrib/104145153152059082266/reviews",
+        "language": "vi",
+        "original_language": "iw",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIwcTvC3tgBJ3ILhRr73-FiOxIYOYD4UeHydsgKvCmVsTlkSg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Doomingo là sản phẩm tuyệt vời nhất từ ​​trước đến nay\nKhăn lau tóc của tiệm làm tóc Hearing Crazy\nKhuyến nghị",
+        "time": 1745231661,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-26T12:44:56.962951"
+}

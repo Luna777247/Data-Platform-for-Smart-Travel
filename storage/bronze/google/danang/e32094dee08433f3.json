@@ -1,0 +1,83 @@
+{
+  "u_key": "e32094dee08433f3",
+  "original_osm_name": "Nhà trọ Trần Hùng Sang",
+  "google_raw": {
+    "formatted_phone_number": "0906 000 000",
+    "geometry": {
+      "location": {
+        "lat": 16.0369825,
+        "lng": 108.2142652
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0383257302915,
+          "lng": 108.2155590302915
+        },
+        "southwest": {
+          "lat": 16.0356277697085,
+          "lng": 108.2128610697085
+        }
+      }
+    },
+    "name": "Nhà Trọ Hùng",
+    "rating": 3.2,
+    "reviews": [
+      {
+        "author_name": "Khanh Diệp",
+        "author_url": "https://www.google.com/maps/contrib/104913539604640493228/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYdW7rKqU1YkqRJPqm0BxcDhc4o4gkEHDW7HMlX18KrMfM8YoB=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "9 tháng trước",
+        "text": "Tại sao lại lấy số điện thoại của tôi đăng lên trá hình như vậy?",
+        "time": 1753533702,
+        "translated": false
+      },
+      {
+        "author_name": "NGƯỜI VẬN CHUYỂN",
+        "author_url": "https://www.google.com/maps/contrib/101448785841271631060/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQWClfha_cF1QpUNl7sQELMBVVaXqo7MScNa5nZ1mhU-mEUw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Được rồi",
+        "time": 1640587744,
+        "translated": true
+      },
+      {
+        "author_name": "Anh Phan",
+        "author_url": "https://www.google.com/maps/contrib/111204129877731136097/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnTjvbQ3Nv5MpidvPTKWwlgRwROCfCPpbUHM9AGGy45ljbKw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1711163983,
+        "translated": false
+      },
+      {
+        "author_name": "Lifa Nagasaki",
+        "author_url": "https://www.google.com/maps/contrib/111629175317653829246/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4Oe5aS8mT5aNzL1gOdAkWLmaVrzbRC2NU9ZyHCA1m0GfQKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "5 năm trước",
+        "text": "",
+        "time": 1602831124,
+        "translated": false
+      },
+      {
+        "author_name": "Phuongthet Moom",
+        "author_url": "https://www.google.com/maps/contrib/111377917154031678933/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPO9h9cO5UTI5R1h_IydUWbj_xg_wDMMTwEVNcj5HtoEycfw=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1541905688,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5
+  },
+  "harvested_at": "2026-04-28T16:35:36.854000"
+}

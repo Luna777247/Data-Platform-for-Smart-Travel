@@ -1,0 +1,173 @@
+{
+  "u_key": "660f982d182cc6e0",
+  "original_osm_name": "Pasta Food",
+  "google_raw": {
+    "formatted_phone_number": "0969 145 670",
+    "geometry": {
+      "location": {
+        "lat": 11.9468834,
+        "lng": 108.4550008
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9482235802915,
+          "lng": 108.4563999302915
+        },
+        "southwest": {
+          "lat": 11.9455256197085,
+          "lng": 108.4537019697085
+        }
+      }
+    },
+    "name": "Pasta Fresca Da Lat",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–22:00",
+        "Thứ Ba: 10:30–22:00",
+        "Thứ Tư: 10:30–22:00",
+        "Thứ Năm: 10:30–22:00",
+        "Thứ Sáu: 10:30–22:00",
+        "Thứ Bảy: 10:30–22:00",
+        "Chủ Nhật: 10:30–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Anh Thư",
+        "author_url": "https://www.google.com/maps/contrib/115231546307136916099/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXI_UE6b63eDGnX_0P0NLSIn3CFgUt7-q4vdrsAme6cZDgGw8G90g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán dễ thương, đồ ăn hợp khẩu vị mặn + ngọt nhưng mà lạt với mình 🫰🏻🌿🌺🌸☘️🍄🌷🌼",
+        "time": 1772863349,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Khanh",
+        "author_url": "https://www.google.com/maps/contrib/113234823063415886531/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAbLekgDyQMSdEFHOHVrsTMFzTfmrXkLbQmVrOBlRQaHFGtQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán đẹp, hợp gu, ấm cúng. Đồ ăn ngon quá nên mải ăn quên chụp hình",
+        "time": 1772364730,
+        "translated": false
+      },
+      {
+        "author_name": "Hu Da",
+        "author_url": "https://www.google.com/maps/contrib/118374899291500937781/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIwbG37L-dBEPzilo_b8vnZa-L-KYTaff9_IcOf4qfbHk9ug=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon. Khách quen của quán ở SG nay lên Đà Lạt có dịp thử. Tuyệt đối ngon",
+        "time": 1770011377,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Anh Trần Phạm Hà",
+        "author_url": "https://www.google.com/maps/contrib/102467198440435121602/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAuy1Wxb7RrRpc0zK44LZhdDdJ_w1UwCIdZMF4XNRexz8mxg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "đi nhiều quán nhưng mà thấy quán nì đồ ăn ngon và ra nhanh, bầu không khí thoải mái và nhân viên dễ thương, các bạn nhớ đánh giá quán để dc cái bánh ngon ngon nha các b. sẽ ghé đây quài quài",
+        "time": 1772367165,
+        "translated": false
+      },
+      {
+        "author_name": "Tuyết Lê Nga",
+        "author_url": "https://www.google.com/maps/contrib/108858407140264334921/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6lBedqHTWzuwm6LvWrvbsZpnfvVa94fRSL84mH7Hjts6vjPW8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Vô tình thấy quán trên map nên ghé qua ăn thử, không nghĩ pasta ngon đến vậy. Không gian decor đậm chất Ý. Mình rất mong chờ 1 dịp khác lên Đà Lạt để có thể đến thử pizza ở đây. Mình có order 2 pasta và 1 phần steak, một bữa trưa no nê 😆",
+        "time": 1772692421,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 303
+  },
+  "harvested_at": "2026-04-29T21:18:35.910867"
+}

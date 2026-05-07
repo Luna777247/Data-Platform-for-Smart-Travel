@@ -1,0 +1,109 @@
+{
+  "u_key": "6d6887218f345be2",
+  "original_osm_name": "Tirant Hotel",
+  "google_raw": {
+    "formatted_phone_number": "024 6265 5999",
+    "geometry": {
+      "location": {
+        "lat": 21.0331527,
+        "lng": 105.8523247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0344537802915,
+          "lng": 105.8536687802915
+        },
+        "southwest": {
+          "lat": 21.03175581970849,
+          "lng": 105.8509708197085
+        }
+      }
+    },
+    "name": "Tirant Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Mau Pham",
+        "author_url": "https://www.google.com/maps/contrib/100279671794193083822/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_jdoc3SKOFEY9yd_qGUpsEVuMlY-aS1QXS2bkf_3kSUqCVMVg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đã có khoảng thời gian tuyệt vời ở đây,bữa sáng rất tuyệt, cảm ơn con gái Ivy về sự phục vụ tận tâm 🥰 sẽ quay lại vào khoảng thời gian gần nhất",
+        "time": 1769217346,
+        "translated": false
+      },
+      {
+        "author_name": "Dieu Hong",
+        "author_url": "https://www.google.com/maps/contrib/110019576380856888319/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiIijZNTp4xaQjvSaCxBKd6qR1qZjwsungenTUcwOHeLxB0A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nhạc sống rất hay vào cuối tuần, thời tiết mát mẻ và quang cảnh tuyệt vời",
+        "time": 1762612350,
+        "translated": false
+      },
+      {
+        "author_name": "tuan dung truong",
+        "author_url": "https://www.google.com/maps/contrib/114232551870797796167/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh5Av2l2P3nRksF7ztWDctgnuKsns5OkWY3kC8niCQAs6t6nk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trung tâm phố cổ. Rất tiện tham quan và trải nghiệm",
+        "time": 1767594305,
+        "translated": false
+      },
+      {
+        "author_name": "Truong Huy",
+        "author_url": "https://www.google.com/maps/contrib/115788791009639133389/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPtmMpM-sdUdWy0SJoljg3qrT3sx3U15CmVUWHwcX4x40zcFJW=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Vị trí thuận tiện nhất cho Du lịch phố cổ Hà Nội",
+        "time": 1768006114,
+        "translated": false
+      },
+      {
+        "author_name": "NGUYEN DUY DUC",
+        "author_url": "https://www.google.com/maps/contrib/108091555385023185342/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGUMH5ekBXTlsuTCrut82yyOzpam2aYLdC2R2F-f2ndYBKMDeu=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn ở vị trí ở trong ngõ nhưng rất dễ tìm. Chất lượng dịch vụ tốt, phòng ốc sạch sẽ, chăn ga gối đệm thay mới liên tục. Nhân viên nhiệt tình với khách, giá cả hợp lý, có chỗ đỗ xe miễn phí ( có người trông ).",
+        "time": 1725192980,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1764
+  },
+  "harvested_at": "2026-04-27T19:58:22.524004"
+}

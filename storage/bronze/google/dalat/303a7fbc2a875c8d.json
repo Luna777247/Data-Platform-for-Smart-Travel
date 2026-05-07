@@ -1,0 +1,109 @@
+{
+  "u_key": "303a7fbc2a875c8d",
+  "original_osm_name": "Pho Ha Noi",
+  "google_raw": {
+    "formatted_phone_number": "0388 727 193",
+    "geometry": {
+      "location": {
+        "lat": 11.9397025,
+        "lng": 108.4363345
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9410274302915,
+          "lng": 108.4376908302915
+        },
+        "southwest": {
+          "lat": 11.9383294697085,
+          "lng": 108.4349928697085
+        }
+      }
+    },
+    "name": "Phở số 1 Hà Nội",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Kh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113630169473232626196/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbVacRrU5dEEi_fgtu_uF-kBStSWjqoEhZBExTdYzmLA6QDf8_=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Hương vị đặc trưng hà nội không gian rộng rãi vị trí gần trung tâm",
+        "time": 1686786194,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Nicolas",
+        "author_url": "https://www.google.com/maps/contrib/114336877879352727960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXM22z4Txk8l__J4eB5zJ0hx4MV2Mgrypk4wccs_IQLAfcItlWbYA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cơm rang dưa bò rất ngon 😋\nPhở nấu vị miền Bắc 👍",
+        "time": 1687617247,
+        "translated": false
+      },
+      {
+        "author_name": "Hien Duong Duy",
+        "author_url": "https://www.google.com/maps/contrib/109544253185477235168/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0dIGtbdq0lnST_sOzpyqmGUC-EpUDsFlye93YSFBMg8fuaUP97g=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán ăn nhỏ, cạnh vườn hoa Ánh Sáng. Chất lượng ổn, phục vụ tốt. Giá cả chấp nhận được.",
+        "time": 1697433223,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Lê",
+        "author_url": "https://www.google.com/maps/contrib/110974842604632510360/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULe6Trofv8IVouBxYT7gPa_FYqctEUyUv31JVc-JEy18e8UyXC=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "3 năm trước",
+        "text": "Hòi trước còn ở đà lạt ăn hoài cũng ok. Mà 1 năm sau ghé ngang qua thấy chán.",
+        "time": 1674581934,
+        "translated": false
+      },
+      {
+        "author_name": "Happy",
+        "author_url": "https://www.google.com/maps/contrib/103876041169853234835/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-B32fl92NIRnyIx2vDLA_nb_2npTHe64ZsN30nuaa4b8z6A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Phở quá dở",
+        "time": 1714636669,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 35
+  },
+  "harvested_at": "2026-04-29T21:18:38.600754"
+}

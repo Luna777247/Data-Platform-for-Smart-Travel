@@ -1,0 +1,174 @@
+{
+  "u_key": "441f1dd838c6e466",
+  "original_osm_name": "Pizza Hut",
+  "google_raw": {
+    "formatted_phone_number": "1900 1822",
+    "geometry": {
+      "location": {
+        "lat": 21.026013,
+        "lng": 105.8332408
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0273327802915,
+          "lng": 105.8346236302915
+        },
+        "southwest": {
+          "lat": 21.0246348197085,
+          "lng": 105.8319256697085
+        }
+      }
+    },
+    "name": "Pizza Hut Tôn Đức Thắng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:30",
+        "Thứ Ba: 10:00–21:30",
+        "Thứ Tư: 10:00–21:30",
+        "Thứ Năm: 10:00–21:30",
+        "Thứ Sáu: 10:00–21:30",
+        "Thứ Bảy: 10:00–21:30",
+        "Chủ Nhật: 10:00–21:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Đồng Mai Lan",
+        "author_url": "https://www.google.com/maps/contrib/104804754497597549963/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_Xb_DSvETX8K_xV5NlzK2wLiC0L8ZtxThl4wDhcDion0D_BRw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nửa đêm đói quá nằm xem mukbang tiện thể nhớ vừa ăn Pizza Hut hôm thứ 3. Rất lâu rồi, cụ thể là 6-7 năm rồi mình chưa ăn lại. Tiện buổi meeting đi ăn gần đó, rất bất ngờ vì mọi thứ cảm giác ngon hơn. Pizza mang ra miếng naod cũng thơm, mình ăn tận 4 miếng :))))) Nghiện phomai lắm, nhưng mà nếu so với ngày trước có Cowboy’s Jack thì không bằng. Nhưng tổng thể thì mình thấy ngon lắm nha. Món nào cũng ngon, gà cay, cơm chiên dẻo dính luôn. Mì ý cũng ngon, chắc giờ sẽ thường xuyên ăn Pizza Hut hơn rồi :)))",
+        "time": 1758735406,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Long Vũ",
+        "author_url": "https://www.google.com/maps/contrib/106314476177786850075/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuZeIF9O7gfVImWcduyXwMb9VlXcD4dE7NKspbTWGFqRCVQH8B=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Các loại pizza ở đây ăn khá ngon, mình thích nhất là pizza hải sản, các món khác ăn cũng đều ok nhá, quán cũng khá rộng, giá cả cũng hợp lý, nhân viên phục vụ nhanh.",
+        "time": 1769151115,
+        "translated": false
+      },
+      {
+        "author_name": "Chi (PNC)",
+        "author_url": "https://www.google.com/maps/contrib/111338838261063766911/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_qTc5bsDWLTFSkTCMfDhif-dc6d2EU9NPGi6rG5gp1zCgzT77=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "đồ ăn ngon, nhân viên phục vụ chu đáo nhiệt tình",
+        "time": 1765072617,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Hoa Nguyen Ninh",
+        "author_url": "https://www.google.com/maps/contrib/103667730526068954191/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeK2mAPf8vW_2IULf5HKCXF58VDRvTEpQocE1YS2k3QJRCdeo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Pizza Hut Tôn Đức Thắng cũng khá ổn cho những ai thích pizza kiểu “ăn chắc mặc bền”. Không gian quán rộng vừa phải, sáng sủa, đi nhóm bạn hay gia đình thì thoải mái. Nhân viên ở đây dễ thương, nhiệt tình, đồ ra cũng không quá lâu, kể cả lúc đông khách.\n\nVề đồ ăn thì pizza vẫn giữ phong độ của Pizza Hut – đế dày mềm, topping nhiều, phô mai kéo sợi đã miệng. Mình hay gọi combo nên tính ra giá cũng ổn, đi nhóm chia ra khá rẻ. Ngoài pizza thì mì Ý và gà rán ở đây cũng ngon, đặc biệt gà sốt cay ăn bắt miệng lắm.\n\nĐiểm trừ nho nhỏ: quán ở mặt đường nên hơi ồn, giữ xe có lúc hơi chật. Ngoài ra, nếu ai thích đế mỏng giòn thì ở đây sẽ chưa “đã” lắm vì đặc trưng của Pizza Hut vẫn thiên về đế dày.\n\nTóm lại, Pizza Hut Tôn Đức Thắng vẫn là điểm hẹn quen thuộc nếu muốn ăn pizza chuẩn thương hiệu, đồ ra đều tay, giá hợp lý cho nhóm bạn hay gia đình.",
+        "time": 1758612594,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115917544412249064989/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUb7iy5Cpx9OcN0tQND1Mj7vJcJA6z1sCWxCojuQu5W0vwcF5aDDw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Mình đi cùng gia đình vào cuối tuần, quán khá đông nhưng phục vụ vẫn nhanh và chu đáo. Các bé rất thích pizza hải sản và mì Ý ở đây. Không gian rộng rãi, có chỗ ngồi thoải mái. Rất phù hợp cho những bữa ăn gia đình!",
+        "time": 1748742662,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2322
+  },
+  "harvested_at": "2026-04-28T16:20:11.251071"
+}

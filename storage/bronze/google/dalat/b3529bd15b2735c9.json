@@ -1,0 +1,108 @@
+{
+  "u_key": "b3529bd15b2735c9",
+  "original_osm_name": "Hien Nha Co May - Tiem Ca Phe",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.8928213,
+        "lng": 108.5691477
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.8940599302915,
+          "lng": 108.5703921302915
+        },
+        "southwest": {
+          "lat": 11.8913619697085,
+          "lng": 108.5676941697085
+        }
+      }
+    },
+    "name": "Hiên Nhà Có Mây - Tiệm Cà Phê",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "huynh nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106060759865011293635/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbe2JmKERXuNtVY8agmCxIjeXxm9UVtA7JG8Vy-Kyjne0fYrr5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Trải nghiệm cảnh đẹp 200k 1 người bao coffe ăn sáng. Bạn dậy từ 4 giờ có xe đón lên",
+        "time": 1759014651,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Lion",
+        "author_url": "https://www.google.com/maps/contrib/112117953494822090684/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgI87k9kWpDag4FC4Sca3sSDxDaLd_buYt54RszxllAoSL711nww=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Một nơi nghỉ dưỡng tuyệt với nhân viên nhiệt tình dễ thương, đi một mình ăn buffet no xỉu luôn .",
+        "time": 1772625089,
+        "translated": false
+      },
+      {
+        "author_name": "linh pdn",
+        "author_url": "https://www.google.com/maps/contrib/111293795217044446375/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocId2UNzxOI2dS1odCRUp26OaGLcRytcmLi27sfWk1lZ1g7yKg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "view đẹp, căn nhà gỗ mái tôn cũ xì rất hay. cành hoa đào trông rất sượng.",
+        "time": 1741392900,
+        "translated": false
+      },
+      {
+        "author_name": "An Nguyễn Trường",
+        "author_url": "https://www.google.com/maps/contrib/109634706252667032056/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKlBk-iKORr9au63nfhuUW4X9G9KGdUANNPIkJLtjtUJa_PuezOg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Trang trí ok. Nói chung đi ĐL ghé chổ lạ cho dzui thì đc chứ đừng kỳ vọng quá...",
+        "time": 1735032773,
+        "translated": false
+      },
+      {
+        "author_name": "kiet nguyen",
+        "author_url": "https://www.google.com/maps/contrib/117653139863567827809/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHHskEzsQHQOCbpnXOMZYuFwoNkE1VQ9A2NdKTJpBEXZMlozo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "Đã có wie đẹp làm ơn làm đồ uống oke khách sẽ đến. Chứ vì chiếc wie thì ng ta chỉ đến đúng 1 lần",
+        "time": 1733719086,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 11
+  },
+  "harvested_at": "2026-04-30T15:10:31.786923"
+}

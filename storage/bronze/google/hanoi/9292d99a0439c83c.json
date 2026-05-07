@@ -1,0 +1,77 @@
+{
+  "u_key": "9292d99a0439c83c",
+  "original_osm_name": "Yo sushi bar",
+  "google_raw": {
+    "formatted_phone_number": "024 2268 0666",
+    "geometry": {
+      "location": {
+        "lat": 21.0368063,
+        "lng": 105.8527015
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0381242302915,
+          "lng": 105.8539747302915
+        },
+        "southwest": {
+          "lat": 21.03542626970849,
+          "lng": 105.8512767697085
+        }
+      }
+    },
+    "name": "yo Sushi Bar",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Griet Blondeel",
+        "author_url": "https://www.google.com/maps/contrib/102491325959006411954/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyvvMlUYpm4uGsDttfwbGOJQIK4UuY-vCHuuvz4aOzpiPVCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Sushi tuyệt vời và phục vụ chu đáo, với nụ cười thân thiện!\nChắc chắn đáng ghé thăm khi bạn đến Hà Nội!",
+        "time": 1498484684,
+        "translated": true
+      },
+      {
+        "author_name": "שי ברזילי",
+        "author_url": "https://www.google.com/maps/contrib/110535010493978588888/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMqKV4HAELjCot21ZVjQCT1FK7OzTgJEAyt1ul78IckTyIyi6r=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Sushi rất ngon và tươi!",
+        "time": 1490610165,
+        "translated": true
+      },
+      {
+        "author_name": "Sam Richardson",
+        "author_url": "https://www.google.com/maps/contrib/116794986113524260851/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNET6Qjk22DvL1Xg7l0rdNjU9SRedYRzLvo_yjhmoc1yeRo53k=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "A quick bite but a great bite.",
+        "time": 1494569529,
+        "translated": false
+      },
+      {
+        "author_name": "백호",
+        "author_url": "https://www.google.com/maps/contrib/103749589171903526577/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4uf9bK_8bc8cVxIP3flulhuEsDAVCPj_uX_tBNC6QP7ZniXw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Hoàn thành",
+        "time": 1492324047,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-28T16:29:43.658178"
+}

@@ -1,0 +1,70 @@
+{
+  "u_key": "f74fd1f3528c6a58",
+  "original_osm_name": "Khu tập thể 23B Hàng Tre",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0314489,
+        "lng": 105.8559789
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0327692302915,
+          "lng": 105.8572402802915
+        },
+        "southwest": {
+          "lat": 21.0300712697085,
+          "lng": 105.8545423197085
+        }
+      }
+    },
+    "name": "Chung Cư 23b Hàng Tre",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Minh Tuan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107606571701360451869/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVPPL1Th9ud9MxgaItWzzZGFdxSR5We394nil1P8nuEmdbpP8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Vị trí trung tâm phố cổ tuyệt vời",
+        "time": 1746398983,
+        "translated": false
+      },
+      {
+        "author_name": "sally Duke",
+        "author_url": "https://www.google.com/maps/contrib/108757605510259638339/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4QB7jvKjsbjlAvpKQHNfm224TnfPDwZhBMB3ueSpyLTM5VQsP=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1661522308,
+        "translated": false
+      },
+      {
+        "author_name": "Thục Anh Lã",
+        "author_url": "https://www.google.com/maps/contrib/108820786666805831372/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmNOjhEQzpeBAL70jcdJ5x5rKfVvWvtk_Sf0nrLH5kl4PU9PQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1549533473,
+        "translated": false
+      },
+      {
+        "author_name": "thắng đinh",
+        "author_url": "https://www.google.com/maps/contrib/114673670622174653201/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB9z1UaGl93wD485gfrKnuPkwVAhQ-bQO-wOj-o15YwwbZK3v8=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1527906838,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-26T12:45:08.479609"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "69c0fd1bd820055f",
+  "original_osm_name": "Yellow House Homestay",
+  "google_raw": {
+    "formatted_phone_number": "0795 594 112",
+    "geometry": {
+      "location": {
+        "lat": 15.8767121,
+        "lng": 108.346086
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8780696802915,
+          "lng": 108.3475011302915
+        },
+        "southwest": {
+          "lat": 15.8753717197085,
+          "lng": 108.3448031697085
+        }
+      }
+    },
+    "name": "Yellow House Homestay",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–23:00",
+        "Thứ Ba: 06:00–23:00",
+        "Thứ Tư: 06:00–23:00",
+        "Thứ Năm: 06:00–23:00",
+        "Thứ Sáu: 06:00–23:00",
+        "Thứ Bảy: 06:00–23:00",
+        "Chủ Nhật: 06:00–23:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Lệ Diễm Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/116063298619395541213/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5bS58ISX-TnO5rAH9iVgK2S3GmB2h_2V2y7HhfR2Zk-eaJ90n=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Gđ chủ thân thiện, phòng sạch sẽ, mh đi đúg hôm mưa nên hơi ẩm, nc phòng k thoáng lắm, giá rẻ, hợp lý",
+        "time": 1511609997,
+        "translated": false
+      },
+      {
+        "author_name": "Thang Huynh",
+        "author_url": "https://www.google.com/maps/contrib/108491682235581275200/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVagY9AekvVcc6TWaHXNGLVcga69TunS_PJuWCfaPY68e2cUuJ8wg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Homestay giá tốt, thân thiện nhiệt tình",
+        "time": 1737196461,
+        "translated": false
+      },
+      {
+        "author_name": "Na Lê",
+        "author_url": "https://www.google.com/maps/contrib/103175642195341458841/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJAry9rwpAmuBXLWz3Zgj17uO5zPrvPtO3x4iviAGfR8ghXgax=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Phòng ốc tiện nghi, sạch sẽ. Gia chủ rất dễ thương, hoà đồng. 5 sao cho chất lượng.",
+        "time": 1557801542,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Thắng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103052315961186975893/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS5zZwpIo9mu1rfmg9N_drl1dqZCu657khtWjHTn2nq88uVDiZoQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Gia đình chủ vui vẻ, k quá xa phố cổ, sạch sẽ giá hợp lý",
+        "time": 1511057962,
+        "translated": false
+      },
+      {
+        "author_name": "Duong Vuong Anh",
+        "author_url": "https://www.google.com/maps/contrib/102789241847353261400/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyKIQEaVQ7n8o-DayfYlf6k4W_oetOSG45LIWGu9sTbieEgigY=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Chủ nhà thân thiện, chỗ ở rộng rãi khá tốt.",
+        "time": 1546419949,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 67
+  },
+  "harvested_at": "2026-04-28T16:37:55.054419"
+}

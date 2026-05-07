@@ -1,0 +1,173 @@
+{
+  "u_key": "6c10f931cba83783",
+  "original_osm_name": "OiShi Ngon",
+  "google_raw": {
+    "formatted_phone_number": "0367 046 551",
+    "geometry": {
+      "location": {
+        "lat": 21.016645,
+        "lng": 105.8055624
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0180187802915,
+          "lng": 105.8069413802915
+        },
+        "southwest": {
+          "lat": 21.0153208197085,
+          "lng": 105.8042434197085
+        }
+      }
+    },
+    "name": "Oishi Sushi(Tiệm đồ ăn Nhật)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:30",
+        "Thứ Ba: 09:00–22:30",
+        "Thứ Tư: 09:00–22:30",
+        "Thứ Năm: 09:00–22:30",
+        "Thứ Sáu: 09:00–22:30",
+        "Thứ Bảy: 09:00–22:30",
+        "Chủ Nhật: 09:00–22:30"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Thao Ng",
+        "author_url": "https://www.google.com/maps/contrib/113668559411759233593/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhy5Qz0KZF8CsBvAbxRIbiys0Pa9QF98WlfzAm_w3vzsx-fpzF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán nhỏ trong ngõ nhỏ nhưng dễ tìm. Anh chủ siêu thân thiện nhiệt tình, đồ ăn ngonn. Maki phủ lươn rất ngon, sashimi thái dày. Giá cả phải chăng, canh và trà được free. +1 quán tủ ạa",
+        "time": 1766583898,
+        "translated": false
+      },
+      {
+        "author_name": "CunnieDang TonizPham",
+        "author_url": "https://www.google.com/maps/contrib/104352236330434433629/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSgmsw_48wFZMPvNUx5rVcdoimeCxldEyKbvKTb8Z08507LYM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Ngon ngon lắm quý zị ơi\nAnh chủ nice có 1 mình nhưng vẫn rất vui vẻ nhiệt tình\nQuán trong ngõ hơi nhỏ xíu nhưng tụi mình sẽ quay lại vài chục trăm lần nữaaaaaa",
+        "time": 1757850553,
+        "translated": false
+      },
+      {
+        "author_name": "Hao Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109052440702419699095/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKjhRr2fvRirYXJQDdlWLoy4tqU_YCpatWPytzQO433BG-T8M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ngon lắm nha mí bạn, giá cũng rẻ so với đồ Nhật bình thường, anh chủ có 1 mình thôi nên sẽ phải chờ 1 lúc, vedette trong lòng mình là roll nerima và cơm lươn. Ăn tại quán ngon hơn là đặt ship về",
+        "time": 1763722639,
+        "translated": false
+      },
+      {
+        "author_name": "Lucas VNLOGS LOGISTICS IN VIETNAM",
+        "author_url": "https://www.google.com/maps/contrib/110538674132030961297/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrGtjcwJpOm8SnQ_i8COrd08Na5a2HCsuWTAtIgRq26msOw7o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Anh chủ quán tốt bụng hôm nọ mình để quên đồ ăn không lấy xong rồi anh ấy bù cho mình đơn khác ..cá và nguyên liệu  tươi ngon khuyến khích nên ăn luôn không nên để bảo quản quá lâu. 5 sao",
+        "time": 1765088973,
+        "translated": false
+      },
+      {
+        "author_name": "Long Trần Văn",
+        "author_url": "https://www.google.com/maps/contrib/115341804880408546580/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHIaK5SRPj3lCzVoxjF0n4jjVdZByRLH4ebiAyRT5PKlw9xHzw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Chủ quán thân thiện.\nTrong ảnh là set Hạ. Đồ ăn ngon, các miếng sashimi rất dày và tươi ngon. Canh miso gọi thêm thoải mái.",
+        "time": 1767192360,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 50
+  },
+  "harvested_at": "2026-04-28T16:14:12.914634"
+}

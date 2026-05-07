@@ -1,0 +1,173 @@
+{
+  "u_key": "cc781f6cfaa2c0a8",
+  "original_osm_name": "Coffee Time",
+  "google_raw": {
+    "formatted_phone_number": "0326 412 721",
+    "geometry": {
+      "location": {
+        "lat": 12.2397706,
+        "lng": 109.1869054
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2410819802915,
+          "lng": 109.1882983302915
+        },
+        "southwest": {
+          "lat": 12.2383840197085,
+          "lng": 109.1856003697085
+        }
+      }
+    },
+    "name": "TIME COFFEE",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:00",
+        "Thứ Ba: 06:30–22:00",
+        "Thứ Tư: 06:30–22:00",
+        "Thứ Năm: 06:30–22:00",
+        "Thứ Sáu: 06:30–22:00",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Leduchuy",
+        "author_url": "https://www.google.com/maps/contrib/115087191904872473433/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxykUVCVcZrLnY0jNM1IwEfDTMSwMHeA6Lpy0Acdbqg8VuICI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tìm quán cafe chill chill, nước uống rất ngon, chuẩn vị, dịch vụ nhanh nhẹn, mê cái ly =)) không gian yên tĩnh nx💓💓",
+        "time": 1771726798,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Trần Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/100339313905718164501/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX9guRDialzy40QmUGflPpVoMaxL1njmFTHk1cyJz4Cpa8rzg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nước uống ngon, t thích phần kem ở chỗ này nè, kem trứng thì hỏng bị tanh,còn kem muối thì mặn mặn uống ngon lắm",
+        "time": 1766916256,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Phan",
+        "author_url": "https://www.google.com/maps/contrib/115750834744024330244/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKS7JMc8a6OLibsLMCM4VlFSjnIHJKgdyitXVPOwBjcjFdWMA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nước uống ngon và rẻ, không gian thoáng mát",
+        "time": 1762421684,
+        "translated": false
+      },
+      {
+        "author_name": "SICILIAN-AMERICAN",
+        "author_url": "https://www.google.com/maps/contrib/105840348049779128534/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHzXxeOvaexoz_Ann214mxTwV2KHgo8v76k6rpCF0AMHqE6vy6=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cà phê đẹp với thực đơn đồ uống phong phú và giá cả hợp lý. WiFi rất nhanh. Quán có không gian mở, thoáng mát. Nhân viên thân thiện và chu đáo. Đây là một nơi tốt để thư giãn và nghỉ ngơi. Được tặng kèm trà đá khi mua hàng. Rất đáng để ghé thăm.",
+        "time": 1769504434,
+        "translated": true
+      },
+      {
+        "author_name": "Christina Lutzmann",
+        "author_url": "https://www.google.com/maps/contrib/112539550684671563861/reviews",
+        "language": "vi",
+        "original_language": "de",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJIU125FdVPa-wFvtx49g2zitrjL3sbEg3C2BVrJCai1m__CQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một quán cà phê đáng yêu. Một nơi thực sự đặc biệt với những người chủ dễ mến.",
+        "time": 1771386811,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 8
+  },
+  "harvested_at": "2026-05-02T15:30:59.238986"
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "u_key": "c0376593623a1fc8",
+    "name": "Phan Kim Chi Art Gallery",
+    "type": "gallery",
+    "city": "danang",
+    "address": "Lê Lợi",
+    "location": {
+      "lat": 15.8774754,
+      "lon": 108.3285499
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:32.183059"
+  },
+  {
+    "u_key": "fa5d86eb212cfd01",
+    "name": "Art Gallery",
+    "type": "gallery",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0857203,
+      "lon": 108.2194277
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:32.183059"
+  },
+  {
+    "u_key": "79131606e83b5d32",
+    "name": "TASY STUDIO",
+    "type": "gallery",
+    "city": "danang",
+    "address": "36A",
+    "location": {
+      "lat": 15.9256934,
+      "lon": 108.2939032
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:32.183059"
+  },
+  {
+    "u_key": "79b7979a07170d55",
+    "name": "CSO Gallery",
+    "type": "gallery",
+    "city": "danang",
+    "address": "Cua Dai",
+    "location": {
+      "lat": 15.8855958,
+      "lon": 108.3505685
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:32.183059"
+  },
+  {
+    "u_key": "683034e4e2b28314",
+    "name": "Unnamed",
+    "type": "gallery",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0580514,
+      "lon": 108.2231677
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:36:32.183059"
+  }
+]

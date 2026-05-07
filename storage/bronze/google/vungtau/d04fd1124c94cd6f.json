@@ -1,0 +1,99 @@
+{
+  "u_key": "d04fd1124c94cd6f",
+  "original_osm_name": "Trí Đức",
+  "google_raw": {
+    "formatted_phone_number": "028 3973 6369",
+    "geometry": {
+      "location": {
+        "lat": 10.7847384,
+        "lng": 106.6401947
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.7861399802915,
+          "lng": 106.6415065302915
+        },
+        "southwest": {
+          "lat": 10.7834420197085,
+          "lng": 106.6388085697085
+        }
+      }
+    },
+    "name": "Công ty CP DV GD Trí Đức",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–17:00",
+        "Thứ Ba: 06:00–17:00",
+        "Thứ Tư: 06:00–17:00",
+        "Thứ Năm: 06:00–17:00",
+        "Thứ Sáu: 06:00–17:00",
+        "Thứ Bảy: 06:00–17:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    }
+  },
+  "harvested_at": "2026-05-03T19:45:04.737462"
+}

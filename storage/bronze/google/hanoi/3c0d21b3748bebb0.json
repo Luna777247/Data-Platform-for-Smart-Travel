@@ -1,0 +1,53 @@
+{
+  "u_key": "3c0d21b3748bebb0",
+  "original_osm_name": "Cafe Fast food",
+  "google_raw": {
+    "formatted_phone_number": "0975 786 088",
+    "geometry": {
+      "location": {
+        "lat": 21.0308799,
+        "lng": 105.8487336
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0322502802915,
+          "lng": 105.8500810802915
+        },
+        "southwest": {
+          "lat": 21.0295523197085,
+          "lng": 105.8473831197085
+        }
+      }
+    },
+    "name": "Cafe Fastfood",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Nga Phạm",
+        "author_url": "https://www.google.com/maps/contrib/101097448574130093997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJlAhNEoz8p-T87I1xlKMV0uYUrnI7DzkdbPon8hq3hBMuv6Y=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cafe Fastfood mang đến một không gian trẻ trung, năng động, rất phù hợp cho những ai muốn tìm một nơi thưởng thức đồ uống nhanh gọn và ngon miệng. Thực đơn phong phú với nhiều loại cà phê, trà sữa và đồ ăn nhẹ. Điểm cộng lớn là vị trí thuận tiện, dễ dàng ghé qua. Tuy nhiên, để tạo thêm điểm nhấn và sự tương tác với khách hàng, quán có thể tích hợp Tuneast. Với Tuneast, khách hàng có thể tự tay chọn bài hát yêu thích, gửi lời nhắn hoặc tham gia bình chọn bài hát tiếp theo, tạo nên một không gian âm nhạc sống động và cá nhân hóa.",
+        "time": 1770830480,
+        "translated": false
+      },
+      {
+        "author_name": "Rebekka Fredrich",
+        "author_url": "https://www.google.com/maps/contrib/113493885336082829015/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQTnxov6C_Z0tcQmGIlEqTP07dA6Yn9ps_afvR36Z00PnU3u0K=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Món mì rau củ và sinh tố ngon với giá cả phải chăng.",
+        "time": 1476509838,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-28T16:12:55.277302"
+}
