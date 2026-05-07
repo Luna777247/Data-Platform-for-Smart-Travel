@@ -1,0 +1,1912 @@
+{
+  "city": "osaka",
+  "category": "hotel",
+  "timestamp": "20260507_151529",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 521649530,
+      "lat": 34.6939683,
+      "lon": 135.5325897,
+      "timestamp": "2023-10-16T17:41:40Z",
+      "version": 10,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "ホテルモントレ ラ・スール大阪",
+        "name:zh": "大阪蒙特利姐妹酒店",
+        "tourism": "hotel",
+        "wikidata": "Q111406802",
+        "wikimedia_commons": "Category:Hotel Monterey La Soeur Osaka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 683929708,
+      "lat": 34.7016138,
+      "lon": 135.4959249,
+      "timestamp": "2023-10-16T17:41:40Z",
+      "version": 13,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "level": "18;19;20;21;22;23;24;25;26",
+        "name": "ホテル グランヴィア 大阪",
+        "name:en": "Hotel Granvia Osaka",
+        "name:ja": "ホテル グランヴィア 大阪",
+        "name:vi": "khách sạn Granvia osaka",
+        "phone": "+81 6 6344 1235",
+        "tourism": "hotel",
+        "website": "https://www.granvia-osaka.jp/",
+        "wheelchair": "yes",
+        "wikidata": "Q11337863",
+        "wikimedia_commons": "Category:Hotel Granvia Osaka",
+        "wikipedia": "ja:ホテルグランヴィア大阪"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1124806356,
+      "lat": 34.6812658,
+      "lon": 135.5126922,
+      "timestamp": "2025-05-26T04:24:07Z",
+      "version": 6,
+      "changeset": 166758182,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "addr:postcode": "540-0011",
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "fax": "06 4791 1046",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "東横イン大阪船場東",
+        "name:en": "Toyoko Inn Osaka Senba Higashi",
+        "name:ja": "東横イン大阪船場東",
+        "old_name": "東横イン大阪堺筋本町中央大通 (Toyoko Inn Osaka Sakaisuji-Honmachi Chuo-Odori)",
+        "old_name:en": "Toyoko Inn Osaka Sakaisuji-Honmachi Chuo-Odori",
+        "old_name:ja": "東横イン大阪堺筋本町中央大通",
+        "operator": "Toyoko Inn",
+        "phone": "06 4790 1045",
+        "ref": "39",
+        "smoking": "separated",
+        "tourism": "hotel",
+        "website": "https://www.toyoko-inn.com/hotel/00039/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1158848996,
+      "lat": 34.3417797,
+      "lon": 135.3756175,
+      "timestamp": "2012-12-02T14:51:26Z",
+      "version": 2,
+      "changeset": 14125588,
+      "user": "nnh",
+      "uid": 323333,
+      "tags": {
+        "name": "犬鳴温泉センター",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423000009,
+      "lat": 34.465036,
+      "lon": 135.595702,
+      "timestamp": "2023-05-11T00:34:48Z",
+      "version": 2,
+      "changeset": 135955657,
+      "user": "kamataryo",
+      "uid": 2539845,
+      "tags": {
+        "addr:block_number": "880",
+        "addr:city": "富田林市",
+        "addr:housenumber": "1",
+        "addr:postcode": "584-0053",
+        "addr:province": "大阪府",
+        "addr:quarter": "龍泉",
+        "brand": "亀の井ホテル",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "亀の井ホテル 富田林",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "2022年にかんぽの宿から亀の井ホテルにリブランドされた。https://kamenoi-hotels.com/tondabayashi/",
+        "phone": "+81-0721-33-0700",
+        "source": "KSJ2;公式サイト",
+        "source_ref": "https://kamenoi-hotels.com/tondabayashi/",
+        "tourism": "hotel",
+        "website": "https://kamenoi-hotels.com/tondabayashi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1734162679,
+      "lat": 34.7068941,
+      "lon": 135.4972938,
+      "timestamp": "2025-04-15T10:33:36Z",
+      "version": 2,
+      "changeset": 164977755,
+      "user": "Shinji Enoki",
+      "uid": 420519,
+      "tags": {
+        "check_date": "2025-04-15",
+        "name": "新阪急ホテルアネックス",
+        "source": "Knowledge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1735250350,
+      "lat": 34.7058718,
+      "lon": 135.5196296,
+      "timestamp": "2023-07-15T07:51:11Z",
+      "version": 2,
+      "changeset": 138533881,
+      "user": "MaryHiroshige",
+      "uid": 151227,
+      "tags": {
+        "name": "大阪リバーサイドホテル",
+        "source": "Knowledge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1735966768,
+      "lat": 34.6903621,
+      "lon": 135.515578,
+      "timestamp": "2022-07-02T06:54:20Z",
+      "version": 4,
+      "changeset": 123109002,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "name": "大阪キャッスルホテル",
+        "name:en": "Osaka Castle Hotel",
+        "source": "Survey",
+        "tourism": "hotel",
+        "wikidata": "Q111866498"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1737872938,
+      "lat": 34.6631864,
+      "lon": 135.4987406,
+      "timestamp": "2012-05-02T00:41:54Z",
+      "version": 1,
+      "changeset": 11475444,
+      "user": "ribbon",
+      "uid": 192905,
+      "tags": {
+        "name": "グランパスinn大阪",
+        "source": "image;Bing,2008-03",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1738269364,
+      "lat": 34.6832856,
+      "lon": 135.5012755,
+      "timestamp": "2023-10-16T17:41:40Z",
+      "version": 4,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "セントレジスホテル大阪",
+        "source": "Knowledge",
+        "tourism": "hotel",
+        "wikidata": "Q11314818",
+        "wikimedia_commons": "Category:St. Regis Osaka",
+        "wikipedia": "ja:セントレジスホテル大阪"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1738303910,
+      "lat": 34.6757641,
+      "lon": 135.5037592,
+      "timestamp": "2025-10-07T14:07:33Z",
+      "version": 3,
+      "changeset": 172961480,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "name": "IP City Hotel Osaka",
+        "tourism": "hotel",
+        "website": "https://www.iphotel.co.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1741085102,
+      "lat": 34.7041372,
+      "lon": 135.5120112,
+      "timestamp": "2026-02-17T13:35:44Z",
+      "version": 2,
+      "changeset": 178680553,
+      "user": "happy_m",
+      "uid": 23101821,
+      "tags": {
+        "name": "HOTEL AVANCER 天満",
+        "source": "Knowledge",
+        "tourism": "hotel",
+        "website": "https://nonono6201.cloud-line.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1742842908,
+      "lat": 34.7078635,
+      "lon": 135.4963351,
+      "timestamp": "2023-07-23T08:33:02Z",
+      "version": 7,
+      "changeset": 138883364,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "addr:block_number": "9",
+        "addr:city": "大阪市",
+        "addr:housenumber": "15",
+        "addr:neighbourhood": "芝田二丁目",
+        "addr:postcode": "530-0012",
+        "name": "ホテルナチュレ 大阪梅田",
+        "name:en": "Hotel Nature Osaka Umeda Hotel",
+        "operator": "紀州鉄道グループ",
+        "phone": "06-6375-0131",
+        "source": "Knowledge",
+        "tourism": "hotel",
+        "website": "kitetsu-hotel.jp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1864023533,
+      "lat": 34.6615089,
+      "lon": 135.506137,
+      "timestamp": "2023-10-30T06:23:44Z",
+      "version": 7,
+      "changeset": 143345734,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "name": "ホテルヒラリーズ",
+        "name:en": "Hotel Hillarys",
+        "tourism": "hotel",
+        "website": "https://hillarys.jp/",
+        "wikidata": "Q111866538"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1915244833,
+      "lat": 34.6990509,
+      "lon": 135.5090314,
+      "timestamp": "2022-10-24T14:52:28Z",
+      "version": 3,
+      "changeset": 128001127,
+      "user": "KasaiToushi2004",
+      "uid": 15251517,
+      "tags": {
+        "branch": "大阪梅田東",
+        "branch:ko": "오사카 우메다 히가시",
+        "ele": "8",
+        "internet_access": "wired;wlan;terminal",
+        "name": "東横INN",
+        "smoking": "isolated",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1976143877,
+      "lat": 34.6975791,
+      "lon": 135.4919126,
+      "timestamp": "2023-10-30T06:32:51Z",
+      "version": 4,
+      "changeset": 143346136,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "contact:fax": "+81 6-6346-3006",
+        "contact:phone": "+81 6-6346-1177",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "セカンド・イン梅田",
+        "name:en": "Second Inn Umeda",
+        "smoking": "isolated",
+        "source": "Bing, 2011-4; survey",
+        "tourism": "hotel",
+        "website": "https://www.2nd-inn.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2074442139,
+      "lat": 34.572762,
+      "lon": 135.482462,
+      "timestamp": "2019-03-31T03:46:00Z",
+      "version": 2,
+      "changeset": 68714447,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "atm": "no",
+        "internet_access": "wired",
+        "name": "ダイワロイネットホテル",
+        "source": "Survey 2012-12-19",
+        "tourism": "hotel",
+        "website": "https://www.daiwaroynet.jp/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2075578029,
+      "lat": 34.681015,
+      "lon": 135.5165,
+      "timestamp": "2023-07-08T11:36:01Z",
+      "version": 3,
+      "changeset": 138260447,
+      "user": "Revert De Niro",
+      "uid": 19802346,
+      "tags": {
+        "name": "Apa Vila hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2075578262,
+      "lat": 34.680093,
+      "lon": 135.516939,
+      "timestamp": "2025-05-26T04:24:07Z",
+      "version": 4,
+      "changeset": 166758182,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "name": "東横イン",
+        "name:en": "Toyoko Inn",
+        "name:ja": "東横イン",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2098114883,
+      "lat": 33.7310112,
+      "lon": 135.3814925,
+      "timestamp": "2014-10-11T12:06:19Z",
+      "version": 2,
+      "changeset": 26002485,
+      "user": "kyashii",
+      "uid": 2392489,
+      "tags": {
+        "name": "アルティエホテル紀伊田辺",
+        "name:en": "Altier Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2125723724,
+      "lat": 34.674851,
+      "lon": 135.504907,
+      "timestamp": "2013-01-23T22:38:08Z",
+      "version": 2,
+      "changeset": 14763328,
+      "user": "hayashi",
+      "uid": 621319,
+      "tags": {
+        "atm": "no",
+        "name": "サンプレイン長堀",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2136873294,
+      "lat": 34.684142,
+      "lon": 135.517032,
+      "timestamp": "2016-06-05T05:16:46Z",
+      "version": 2,
+      "changeset": 39809362,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "name": "ホテル サンホワイト",
+        "name:en": "Hotel Sun White",
+        "name:ja": "ホテル サンホワイト",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2207940661,
+      "lat": 33.6807441,
+      "lon": 135.3710222,
+      "timestamp": "2013-03-18T09:45:01Z",
+      "version": 1,
+      "changeset": 15405760,
+      "user": "yamasan",
+      "uid": 32308,
+      "tags": {
+        "name": "New Port Club",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2246286033,
+      "lat": 34.6673266,
+      "lon": 135.5040028,
+      "timestamp": "2023-07-08T14:09:10Z",
+      "version": 4,
+      "changeset": 138265313,
+      "user": "Revert De Niro",
+      "uid": 19802346,
+      "tags": {
+        "name": "フローラルイン難波",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2275188463,
+      "lat": 34.5782771,
+      "lon": 135.4686572,
+      "timestamp": "2013-04-23T13:59:50Z",
+      "version": 2,
+      "changeset": 15837170,
+      "user": "tzuchiya",
+      "uid": 662183,
+      "tags": {
+        "atm": "no",
+        "name": "スーパーホテル 堺マリティナ",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2275349167,
+      "lat": 34.5796857,
+      "lon": 135.4666665,
+      "timestamp": "2013-04-21T14:27:27Z",
+      "version": 1,
+      "changeset": 15811465,
+      "user": "tzuchiya",
+      "uid": 662183,
+      "tags": {
+        "name": "コンフォートホテル堺",
+        "source": "survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2309361210,
+      "lat": 34.705493,
+      "lon": 135.511109,
+      "timestamp": "2013-05-18T09:27:39Z",
+      "version": 1,
+      "changeset": 16177573,
+      "user": "u_kubota",
+      "uid": 421504,
+      "tags": {
+        "name": "ホテルダイキ",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2310548836,
+      "lat": 34.6894111,
+      "lon": 135.5062924,
+      "timestamp": "2025-01-04T08:46:38Z",
+      "version": 6,
+      "changeset": 160977070,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "addr:block_number": "2",
+        "addr:housenumber": "14",
+        "addr:neighbourhood": "高麗橋二丁目",
+        "name": "ダイワロイネットホテル大阪北浜",
+        "name:en": "Daiwa Roynet Hotel Osaka-Kitahama",
+        "name:ja": "ダイワロイネットホテル大阪北浜",
+        "tourism": "hotel",
+        "website": "https://www.daiwaroynet.jp/osaka-kitahama/",
+        "wheelchair": "yes",
+        "wikidata": "Q111406818"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2326967162,
+      "lat": 34.792661,
+      "lon": 135.4429786,
+      "timestamp": "2019-02-18T13:06:42Z",
+      "version": 2,
+      "changeset": 67314855,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "addr:full": "大阪府豊中市蛍池西町2-12-27",
+        "name": "ホテルA.P大阪空港前 (Hotel A.P)",
+        "name:en": "Hotel A.P",
+        "name:ja": "ホテルA.P大阪空港前",
+        "phone": "+81 6 68435209",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2336877497,
+      "lat": 34.7186447,
+      "lon": 135.479311,
+      "timestamp": "2023-11-25T14:04:19Z",
+      "version": 4,
+      "changeset": 144442078,
+      "user": "Yusuke1109",
+      "uid": 7538595,
+      "tags": {
+        "addr:block_number": "17",
+        "addr:city": "大阪市",
+        "addr:housenumber": "20",
+        "addr:neighbourhood": "1丁目",
+        "addr:province": "大阪府",
+        "addr:quarter": "十三本町",
+        "addr:suburb": "淀川区",
+        "branch": "十三",
+        "internet_access": "yes",
+        "name": "Minn",
+        "rooms": "42",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "https://minn.asia/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2349203844,
+      "lat": 34.6692572,
+      "lon": 135.5054272,
+      "timestamp": "2021-02-02T13:42:59Z",
+      "version": 2,
+      "changeset": 98582428,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "name": "かねよし旅館",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2357501984,
+      "lat": 34.6098935,
+      "lon": 135.4636344,
+      "timestamp": "2019-03-31T03:44:43Z",
+      "version": 4,
+      "changeset": 68714437,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "internet_access": "wlan;wired",
+        "internet_access:fee": "no",
+        "name": "ホテルグラッドワン南大阪",
+        "name:en": "Hotel Glad One Minami Osaka",
+        "source": "survey, 2013/6/20;Bing 2010/8/27-2011/4/4",
+        "tourism": "hotel",
+        "website": "https://www.gladonehotels-minamiosaka.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2389341943,
+      "lat": 34.684186,
+      "lon": 135.502861,
+      "timestamp": "2025-11-03T14:53:24Z",
+      "version": 2,
+      "changeset": 174151804,
+      "user": "magratsk",
+      "uid": 17653825,
+      "tags": {
+        "name": "トラベロッジ本町大阪",
+        "name:en": "Travelodge Honmachi Osaka",
+        "tourism": "hotel",
+        "website": "https://www.travelodgehotels.asia/travelodge-honmachi-osaka/jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2389350541,
+      "lat": 34.6845985,
+      "lon": 135.5030859,
+      "timestamp": "2025-01-25T01:03:32Z",
+      "version": 3,
+      "changeset": 161732550,
+      "user": "Shinji Enoki",
+      "uid": 420519,
+      "tags": {
+        "check_date": "2025-01-25",
+        "name": "ヴィアーレ大阪",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2391165939,
+      "lat": 34.683197,
+      "lon": 135.515512,
+      "timestamp": "2025-07-03T09:15:46Z",
+      "version": 3,
+      "changeset": 168434872,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q17191643",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2398108600,
+      "lat": 34.691757,
+      "lon": 135.502897,
+      "timestamp": "2024-04-06T08:28:17Z",
+      "version": 2,
+      "changeset": 149644196,
+      "user": "Wish_F",
+      "uid": 6972989,
+      "tags": {
+        "check_date": "2024-04-06",
+        "name": "WELCOME INN YODOYABASHI",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2450231413,
+      "lat": 34.678168,
+      "lon": 135.504831,
+      "timestamp": "2013-09-08T07:40:09Z",
+      "version": 1,
+      "changeset": 17727896,
+      "user": "u_kubota",
+      "uid": 421504,
+      "tags": {
+        "name": "チサンイン",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2492271827,
+      "lat": 34.7065249,
+      "lon": 135.494557,
+      "timestamp": "2023-10-16T17:41:41Z",
+      "version": 6,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "インターコンチネンタルホテル大阪",
+        "name:en": "InterContinental Osaka",
+        "name:zh": "大阪洲际酒店",
+        "tourism": "hotel",
+        "wikidata": "Q11287461",
+        "wikimedia_commons": "Category:InterContinental Osaka",
+        "wikipedia": "ja:インターコンチネンタルホテル大阪"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2508059058,
+      "lat": 34.2159297,
+      "lon": 135.5848344,
+      "timestamp": "2025-04-15T03:29:30Z",
+      "version": 5,
+      "changeset": 164963842,
+      "user": "corporatespam",
+      "uid": 22769219,
+      "tags": {
+        "addr:city": "Koya",
+        "addr:county": "Ito District",
+        "addr:housenumber": "657",
+        "addr:postcode": "648-0211",
+        "addr:province": "Wakayama",
+        "addr:quarter": "Kōyasan",
+        "name": "福智院",
+        "name:en": "Fukuchi-in",
+        "name:fr": "Fukuchiin",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2512705743,
+      "lat": 34.7587476,
+      "lon": 135.4982971,
+      "timestamp": "2020-11-08T09:02:10Z",
+      "version": 3,
+      "changeset": 93731449,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "name": "江坂セントラルホテル",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2546432328,
+      "lat": 34.682204,
+      "lon": 135.514002,
+      "timestamp": "2025-05-26T04:24:07Z",
+      "version": 2,
+      "changeset": 166758182,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "brand": "Super Hotel",
+        "brand:wikidata": "Q11313858",
+        "name": "スーパーホテル",
+        "name:en": "Super Hotel",
+        "name:ja": "スーパーホテル",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2769375452,
+      "lat": 34.5732166,
+      "lon": 135.468491,
+      "timestamp": "2014-04-05T11:52:24Z",
+      "version": 1,
+      "changeset": 21512453,
+      "user": "mds878",
+      "uid": 563872,
+      "tags": {
+        "name": "サンルート堺",
+        "name:en": "SUNROUTE SAKAI",
+        "source": "Bing",
+        "tourism": "hotel",
+        "website": "http://sunroute-sakai.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2789738154,
+      "lat": 34.7190027,
+      "lon": 135.4142282,
+      "timestamp": "2016-07-21T04:02:27Z",
+      "version": 3,
+      "changeset": 40910907,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "addr:full": "兵庫県尼崎市西御園町１１９－１",
+        "contact:phone": "+81-6-6412-8001",
+        "internet_access": "wlan",
+        "name": "ホテルリブマックス尼崎",
+        "name:en": "Hotel LiveMax",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2794707537,
+      "lat": 34.6461404,
+      "lon": 135.5122057,
+      "timestamp": "2023-07-08T13:49:51Z",
+      "version": 6,
+      "changeset": 138264707,
+      "user": "Revert De Niro",
+      "uid": 19802346,
+      "tags": {
+        "addr:city": "大阪市 (Osaka)",
+        "addr:housenumber": "1-5",
+        "addr:postcode": "545-0052",
+        "addr:street": "Abenosuji Abeno Ward",
+        "name": "ホテルトラスティ大阪阿倍野",
+        "name:en": "Hotel Trusty Osaka Abeno",
+        "name:ja": "ホテルトラスティ大阪阿倍野",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3030699787,
+      "lat": 33.7307238,
+      "lon": 135.3856739,
+      "timestamp": "2014-10-11T12:08:51Z",
+      "version": 4,
+      "changeset": 26002529,
+      "user": "appleroad",
+      "uid": 2278957,
+      "tags": {
+        "addr:city": "和歌山県田辺市",
+        "addr:housenumber": "739-7",
+        "addr:postcode": "646-0031",
+        "addr:street": "湊",
+        "name": "美吉屋旅館",
+        "name:en": "Japanese Inn Miyoshiya",
+        "operator": "美吉屋旅館",
+        "source": "Knowledge;Bing",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3202591661,
+      "lat": 34.3684525,
+      "lon": 135.6004887,
+      "timestamp": "2014-11-30T03:57:24Z",
+      "version": 2,
+      "changeset": 27124670,
+      "user": "taki3hira",
+      "uid": 1948193,
+      "tags": {
+        "name": "紀伊見荘",
+        "source": "Bing; survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3219910149,
+      "lat": 34.6974555,
+      "lon": 135.50869,
+      "timestamp": "2015-12-07T08:49:41Z",
+      "version": 2,
+      "changeset": 35801121,
+      "user": "tadaben",
+      "uid": 652696,
+      "tags": {
+        "name": "ホテルイルグランデ梅田",
+        "name:en": "HOTEL IL GRANDE",
+        "tourism": "hotel",
+        "website": "http://www.ilgrande.com/index.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3219910151,
+      "lat": 34.696818,
+      "lon": 135.509119,
+      "timestamp": "2019-03-31T03:48:35Z",
+      "version": 4,
+      "changeset": 68714483,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "level": "8",
+        "name": "ドーミーイン梅田東",
+        "name:en": "Dormy Inn Umeda Higashi",
+        "name:ko": "도미인 우메다 히가시",
+        "opening_hours": "24/7",
+        "tourism": "hotel",
+        "website": "https://www.hotespa.net/hotels/umedahigashi/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3235677327,
+      "lat": 33.7345891,
+      "lon": 135.3739018,
+      "timestamp": "2014-12-15T06:06:49Z",
+      "version": 1,
+      "changeset": 27474817,
+      "user": "s-nakayama ATC",
+      "uid": 2277417,
+      "tags": {
+        "addr:city": "田辺市",
+        "addr:housenumber": "紺屋町７４",
+        "name": "紺屋町家",
+        "note": "古民家ゲストハウス",
+        "operator": "南紀みらい株式会社",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3345303265,
+      "lat": 34.3135077,
+      "lon": 135.6004927,
+      "timestamp": "2015-02-12T07:53:56Z",
+      "version": 1,
+      "changeset": 28789418,
+      "user": "bulehart",
+      "uid": 2651787,
+      "tags": {
+        "name": "ルートイン",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3483549542,
+      "lat": 34.6960639,
+      "lon": 135.5142073,
+      "timestamp": "2015-12-07T08:49:41Z",
+      "version": 2,
+      "changeset": 35801121,
+      "user": "tadaben",
+      "uid": 652696,
+      "tags": {
+        "name": "糸や（ゲストハウス）",
+        "name:en": "Tenma Itoya Guest house",
+        "tourism": "hotel",
+        "website": "http://tenma-itoya.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3696771536,
+      "lat": 34.2153366,
+      "lon": 135.5872302,
+      "timestamp": "2024-06-02T09:35:16Z",
+      "version": 4,
+      "changeset": 152151436,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "name": "本覚院",
+        "name:en": "Hongakuin Temple",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3771478857,
+      "lat": 34.577813,
+      "lon": 135.46211,
+      "timestamp": "2023-03-28T06:05:28Z",
+      "version": 2,
+      "changeset": 134203571,
+      "user": "aerozel",
+      "uid": 17473913,
+      "tags": {
+        "addr:block_number": "11",
+        "addr:city": "堺市",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "3丁",
+        "addr:postcode": "590-0974",
+        "addr:province": "大阪府",
+        "addr:quarter": "大浜北町",
+        "addr:suburb": "堺区",
+        "air_conditioning": "yes",
+        "fax": "+81-72-221-7931",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "ビジネスホテル ニュー大浜",
+        "name:en": "Business Hotel New Ohama",
+        "name:ja": "ビジネスホテル ニュー大浜",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+81-72-221-2515",
+        "reservation": "yes",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "https://www.new-ohama.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3806171879,
+      "lat": 34.3136846,
+      "lon": 135.6099559,
+      "timestamp": "2024-06-03T00:32:43Z",
+      "version": 2,
+      "changeset": 152179993,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "name": "はとや旅館",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3806171880,
+      "lat": 34.313674,
+      "lon": 135.6097518,
+      "timestamp": "2024-06-03T00:32:42Z",
+      "version": 2,
+      "changeset": 152179993,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "name": "末広呂旅館",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3812373520,
+      "lat": 34.6847648,
+      "lon": 135.5165287,
+      "timestamp": "2016-06-30T05:45:48Z",
+      "version": 2,
+      "changeset": 40381985,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "name": "ビジネスイン 谷町",
+        "name:ja": "ビジネスイン 谷町",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3921510962,
+      "lat": 34.6756839,
+      "lon": 135.4972589,
+      "timestamp": "2024-06-11T01:16:32Z",
+      "version": 6,
+      "changeset": 152520489,
+      "user": "pseek",
+      "uid": 21586509,
+      "tags": {
+        "addr:block_number": "4-12",
+        "addr:city": "大阪市",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "550-0013",
+        "addr:province": "大阪府",
+        "addr:quarter": "新町",
+        "addr:suburb": "西区",
+        "name": "ホテルヴィアイン心斎橋長堀通",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3921523958,
+      "lat": 34.677828,
+      "lon": 135.496019,
+      "timestamp": "2016-01-01T07:09:39Z",
+      "version": 1,
+      "changeset": 36293558,
+      "user": "u_kubota",
+      "uid": 421504,
+      "tags": {
+        "name": "ダイワロイネットホテル",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3922986659,
+      "lat": 34.674657,
+      "lon": 135.495518,
+      "timestamp": "2020-07-25T01:44:21Z",
+      "version": 2,
+      "changeset": 88481198,
+      "user": "fuk",
+      "uid": 550066,
+      "tags": {
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "brand:wikipedia": "en:Toyoko Inn",
+        "name": "東横イン",
+        "name:en": "Toyoko Inn",
+        "name:ja": "東横イン",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3940966880,
+      "lat": 34.6974104,
+      "lon": 135.4848196,
+      "timestamp": "2019-03-31T03:46:45Z",
+      "version": 3,
+      "changeset": 68714461,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "email": "osaka@j-hoppers.com",
+        "internet_access": "wlan",
+        "level": "5",
+        "name": "J-Hoppers",
+        "name:en": "J-Hoppers Osaka Guesthouse",
+        "phone": "+81-6-6453-6669",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "https://osaka.j-hoppers.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4198573943,
+      "lat": 34.2124563,
+      "lon": 135.5903393,
+      "timestamp": "2019-10-03T22:59:29Z",
+      "version": 7,
+      "changeset": 75255033,
+      "user": "Carlos_N",
+      "uid": 3242739,
+      "tags": {
+        "name": "持明院",
+        "name:en": "Jimyo-in Shukubo",
+        "name:es": "Jimyo-in",
+        "name:ja": "持明院",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4237440706,
+      "lat": 34.6917508,
+      "lon": 135.496017,
+      "timestamp": "2025-01-04T08:46:39Z",
+      "version": 4,
+      "changeset": 160977070,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "name": "リーガ中之島イン",
+        "name:en": "Rihga Place Higobashi",
+        "tourism": "hotel",
+        "wheelchair": "limited",
+        "wikidata": "Q111406823"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4260333991,
+      "lat": 34.6632437,
+      "lon": 135.5136255,
+      "timestamp": "2019-03-31T03:44:09Z",
+      "version": 5,
+      "changeset": 68714437,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "5-39",
+        "addr:postcode": "543-0071",
+        "internet_access": "wlan",
+        "name": "Hotel Zen",
+        "phone": "06-6772-3987",
+        "tourism": "hotel",
+        "website": "https://osaka-zen.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4269938553,
+      "lat": 34.656865,
+      "lon": 135.4993,
+      "timestamp": "2016-06-28T15:31:58Z",
+      "version": 1,
+      "changeset": 40346524,
+      "user": "박정권",
+      "uid": 4183088,
+      "tags": {
+        "addr:housenumber": "06-6211-5767",
+        "name": "dormy inn hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4317927695,
+      "lat": 34.6594071,
+      "lon": 135.37055,
+      "timestamp": "2016-07-24T07:59:31Z",
+      "version": 1,
+      "changeset": 40985656,
+      "user": "Fausto Barbieri",
+      "uid": 4064337,
+      "tags": {
+        "addr:street": "yodoyabashi",
+        "name": "unizo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4341922089,
+      "lat": 34.5634282,
+      "lon": 135.4554969,
+      "timestamp": "2016-08-09T00:29:11Z",
+      "version": 1,
+      "changeset": 41335611,
+      "user": "Fatima Silva",
+      "uid": 4389770,
+      "tags": {
+        "addr:postcode": "592-8333",
+        "addr:street": "1-1-5 hamadera ishizu-cho nishi-ku",
+        "name": "fine garden",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4347075946,
+      "lat": 34.6989727,
+      "lon": 135.5055003,
+      "timestamp": "2023-07-23T08:33:02Z",
+      "version": 3,
+      "changeset": 138883364,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "addr:block_number": "3",
+        "addr:city": "大阪市",
+        "addr:housenumber": "5",
+        "addr:neighbourhood": "西天満六丁目",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "大阪ゲストハウス桜",
+        "name:en": "Osaka Guesthouse SAKURA",
+        "phone": "06-6313-6700",
+        "tourism": "hotel",
+        "website": "https://www.guesthouse-sakura-hostel.osaka.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4437306589,
+      "lat": 34.376296,
+      "lon": 135.449879,
+      "timestamp": "2019-12-01T06:26:05Z",
+      "version": 3,
+      "changeset": 77773691,
+      "user": "くっすん",
+      "uid": 3403151,
+      "tags": {
+        "name": "牛滝温泉 四季まつり",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4464322490,
+      "lat": 34.5745774,
+      "lon": 135.4670462,
+      "timestamp": "2016-10-26T04:07:09Z",
+      "version": 1,
+      "changeset": 43181455,
+      "user": "roy008188",
+      "uid": 4783646,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4539233489,
+      "lat": 34.6998351,
+      "lon": 135.5123254,
+      "timestamp": "2016-12-05T08:57:32Z",
+      "version": 1,
+      "changeset": 44176961,
+      "user": "tadaben",
+      "uid": 652696,
+      "tags": {
+        "internet_access": "yes",
+        "name": "ホステルSAKURALAAN",
+        "operator": "桜ら庵",
+        "tourism": "hotel",
+        "website": "http://www.sakuralaan.jp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4563513465,
+      "lat": 34.7356132,
+      "lon": 135.5633123,
+      "timestamp": "2016-12-20T13:13:57Z",
+      "version": 1,
+      "changeset": 44541024,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "name": "ビジネスホテル シャンブル朝美",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4563516640,
+      "lat": 34.7385883,
+      "lon": 135.5817671,
+      "timestamp": "2022-10-24T11:13:28Z",
+      "version": 2,
+      "changeset": 127991602,
+      "user": "aki24053",
+      "uid": 17472095,
+      "tags": {
+        "name": "アパホテル〈大阪門真市駅前〉",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4584804997,
+      "lat": 34.65251,
+      "lon": 135.513366,
+      "timestamp": "2017-01-02T04:35:33Z",
+      "version": 1,
+      "changeset": 44836281,
+      "user": "u_kubota",
+      "uid": 421504,
+      "tags": {
+        "name": "スーパーホテル",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4631860830,
+      "lat": 34.6644799,
+      "lon": 135.5053598,
+      "timestamp": "2017-01-25T11:00:12Z",
+      "version": 1,
+      "changeset": 45471432,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "name": "わが家",
+        "name:en": "Wagaya",
+        "source": "メモ #346658",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4728788123,
+      "lat": 34.6727261,
+      "lon": 135.4874452,
+      "timestamp": "2017-03-11T07:07:06Z",
+      "version": 1,
+      "changeset": 46756262,
+      "user": "petd",
+      "uid": 4206375,
+      "tags": {
+        "name:en": "Apartamento que ficarei hoapedado",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4734403121,
+      "lat": 34.6691591,
+      "lon": 135.4911009,
+      "timestamp": "2017-03-14T15:06:27Z",
+      "version": 1,
+      "changeset": 46843657,
+      "user": "Ike Iker",
+      "uid": 5484486,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4742621923,
+      "lat": 34.7220443,
+      "lon": 135.55377,
+      "timestamp": "2017-03-19T08:42:42Z",
+      "version": 1,
+      "changeset": 46974422,
+      "user": "柯雄能",
+      "uid": 5515340,
+      "tags": {
+        "name:en": "Space osaka",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4744348321,
+      "lat": 34.6631672,
+      "lon": 135.5083802,
+      "timestamp": "2023-04-07T01:09:00Z",
+      "version": 2,
+      "changeset": 134596610,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "name": "ウイークリー翔ホテルなんば",
+        "name:en": "Weekly Sho Hotel Namba",
+        "name:ja": "ウイークリー翔ホテルなんば",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4746923021,
+      "lat": 34.2121519,
+      "lon": 135.5774837,
+      "timestamp": "2024-06-02T09:37:59Z",
+      "version": 5,
+      "changeset": 152151436,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "Hoon-in",
+        "name:en": "Hoon-in",
+        "name:ja": "報恩院",
+        "phone": "+81 736-56-2350",
+        "religion": "buddhist",
+        "tourism": "hotel",
+        "website": "https://www.hoon-in.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4769011225,
+      "lat": 34.6871061,
+      "lon": 135.4876161,
+      "timestamp": "2017-04-01T06:54:22Z",
+      "version": 1,
+      "changeset": 47346491,
+      "user": "Klembot",
+      "uid": 5392103,
+      "tags": {
+        "name": "Osaka house",
+        "name:ja": "Osaka house",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780805021,
+      "lat": 34.2149759,
+      "lon": 135.5864419,
+      "timestamp": "2019-04-24T14:16:22Z",
+      "version": 4,
+      "changeset": 69528101,
+      "user": "Carlos_N",
+      "uid": 3242739,
+      "tags": {
+        "name": "無量光院",
+        "name:en": "Muryoko-in",
+        "name:es": "Muryoko-in",
+        "name:fr": "Muryoko-in",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4789525535,
+      "lat": 34.6692171,
+      "lon": 135.5064878,
+      "timestamp": "2023-07-08T13:53:43Z",
+      "version": 4,
+      "changeset": 138264831,
+      "user": "Revert De Niro",
+      "uid": 19802346,
+      "tags": {
+        "air_conditioning": "yes",
+        "name": "大和屋本店",
+        "operator": "大和屋本店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4807613477,
+      "lat": 34.6461111,
+      "lon": 135.5132439,
+      "timestamp": "2025-08-05T06:17:14Z",
+      "version": 8,
+      "changeset": 169986772,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "addr:block_number": "1",
+        "addr:city": "大阪市",
+        "addr:housenumber": "43",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "545-0052",
+        "addr:province": "大阪府",
+        "addr:quarter": "阿倍野筋",
+        "addr:suburb": "阿倍野区",
+        "air_conditioning": "yes",
+        "brand": "Marriott",
+        "brand:wikidata": "Q3918608",
+        "contact:facebook": "osaka.m.miyako",
+        "contact:instagram": "osakamarriott_miyakohotel",
+        "contact:phone": "+81 6-6628-6111",
+        "contact:tripadvisor": "5607013",
+        "contact:website": "https://www.miyakohotels.ne.jp/osaka-m-miyako/",
+        "contact:youtube": "UCY5IjE-IJFh6EQ6rdhvNblw",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "18;19;37;38;39;40;41;42;43;44;45;46;47;48;49;30;51:52:53:54;56",
+        "name": "大阪マリオネット都ホテル",
+        "name:en": "Osaka Marriott Miyako",
+        "name:fr": "Marriott Miyako",
+        "name:ja-Hira": "おおさかマリオットみやこホテル",
+        "name:ja-Latn": "Osaka Marriotto Miyako Hoteru",
+        "operator": "Marriott Hotels & Resorts",
+        "operator:wikidata": "Q3918608",
+        "rooms": "360",
+        "stars": "5",
+        "start_date": "2014-03-07",
+        "tourism": "hotel",
+        "wikidata": "Q11439995",
+        "wikimedia_commons": "Category:Osaka Marriott Miyako Hotel",
+        "wikipedia": "ja:大阪マリオット都ホテル"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4824582421,
+      "lat": 33.7346743,
+      "lon": 135.3810976,
+      "timestamp": "2019-03-18T05:20:23Z",
+      "version": 2,
+      "changeset": 68247058,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "building": "yes",
+        "name": "Hotel Hanaya",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "https://www.hotel-hanaya.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4868685806,
+      "lat": 34.2181268,
+      "lon": 135.5816384,
+      "timestamp": "2025-05-11T02:19:22Z",
+      "version": 4,
+      "changeset": 166091415,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "蓮華定院",
+        "name:en": "Rengejoin",
+        "religion": "buddhist",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4891530752,
+      "lat": 34.6935934,
+      "lon": 135.4954682,
+      "timestamp": "2025-07-03T09:15:46Z",
+      "version": 10,
+      "changeset": 168434872,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "addr:block_number": "2",
+        "addr:city": "大阪市",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "中之島三丁目",
+        "addr:postcode": "530-0005",
+        "addr:province": "大阪府",
+        "addr:suburb": "北区",
+        "brand": "Conrad",
+        "brand:wikidata": "Q855525",
+        "contact:facebook": "https://www.facebook.com/conradosaka",
+        "contact:instagram": "https://www.instagram.com/conradosaka/",
+        "contact:website": "https://conrad.hiltonhotels.jp/hotel/kansai/conrad-osaka",
+        "contact:youtube": "https://www.youtube.com/channel/UCREQNQROvCerdbVbjZLGWKw",
+        "email": "osaci.hotel@conradhotels.com",
+        "fax": "+81 6 62220110",
+        "internet_access": "yes",
+        "name": "コンラッド大阪",
+        "name:en": "Conrad Osaka",
+        "operator": "Hilton",
+        "phone": "+81 6 62220111",
+        "rooms": "164",
+        "stars": "5",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q65266128"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945460921,
+      "lat": 34.7542046,
+      "lon": 135.4622744,
+      "timestamp": "2025-11-23T23:47:14Z",
+      "version": 2,
+      "changeset": 175046339,
+      "user": "icaro98",
+      "uid": 18455010,
+      "tags": {
+        "name:en": "Sari Toyonaka Love Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5025094923,
+      "lat": 34.2142932,
+      "lon": 135.5860281,
+      "timestamp": "2019-04-24T14:14:22Z",
+      "version": 5,
+      "changeset": 69528023,
+      "user": "Carlos_N",
+      "uid": 3242739,
+      "tags": {
+        "name": "一乗院",
+        "name:en": "Ichijo-in",
+        "name:es": "Ichijo-in",
+        "name:fr": "Ichijo-in",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5035293721,
+      "lat": 33.681115,
+      "lon": 135.3777669,
+      "timestamp": "2017-08-14T19:15:45Z",
+      "version": 1,
+      "changeset": 51118918,
+      "user": "David Cheung",
+      "uid": 6482564,
+      "tags": {
+        "internet_access": "wlan",
+        "name:en": "Panda Village Hotel",
+        "phone": "+81 739421100",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040222986,
+      "lat": 34.665693,
+      "lon": 135.5050365,
+      "timestamp": "2021-03-30T11:58:12Z",
+      "version": 2,
+      "changeset": 101983333,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "name": "ホテル味園",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470091,
+      "lat": 34.2120395,
+      "lon": 135.5840161,
+      "timestamp": "2025-05-20T01:53:28Z",
+      "version": 4,
+      "changeset": 166501959,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "天徳院",
+        "name:en": "Tentoku-in",
+        "religion": "buddhist",
+        "tourism": "hotel",
+        "wikidata": "Q11442594",
+        "wikipedia": "ja:天徳院 (和歌山県高野町)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470092,
+      "lat": 34.2113164,
+      "lon": 135.5821225,
+      "timestamp": "2024-06-02T09:38:29Z",
+      "version": 3,
+      "changeset": 152151436,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "成就院",
+        "name:en": "Jojuin",
+        "religion": "buddhist",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470093,
+      "lat": 34.2117334,
+      "lon": 135.5825275,
+      "timestamp": "2024-06-02T09:38:49Z",
+      "version": 3,
+      "changeset": 152151436,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "釈迦文院",
+        "name:en": "Shakamonin",
+        "religion": "buddhist",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470094,
+      "lat": 34.2124676,
+      "lon": 135.58146,
+      "timestamp": "2024-06-02T09:38:43Z",
+      "version": 5,
+      "changeset": 152151436,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "増福院",
+        "name:en": "Zofuku-in",
+        "name:es": "Zofuku-in",
+        "religion": "buddhist",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470095,
+      "lat": 34.2129777,
+      "lon": 135.5830103,
+      "timestamp": "2018-02-13T18:21:31Z",
+      "version": 2,
+      "changeset": 56330730,
+      "user": "Carlos_N",
+      "uid": 3242739,
+      "tags": {
+        "name:en": "Jokiin",
+        "name:es": "Jokiin",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470096,
+      "lat": 34.2118864,
+      "lon": 135.5801377,
+      "timestamp": "2024-06-02T09:38:11Z",
+      "version": 3,
+      "changeset": 152151436,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "遍照尊院",
+        "name:en": "Henjosonin",
+        "religion": "buddhist",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470099,
+      "lat": 34.2137585,
+      "lon": 135.5818355,
+      "timestamp": "2024-06-02T09:38:45Z",
+      "version": 5,
+      "changeset": 152151436,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "總持院",
+        "name:en": "Sojiin",
+        "name:es": "Sojiin",
+        "religion": "buddhist",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470100,
+      "lat": 34.2138117,
+      "lon": 135.5813634,
+      "timestamp": "2024-06-02T09:35:36Z",
+      "version": 4,
+      "changeset": 152151436,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "name": "親王院",
+        "name:en": "Shinnoin",
+        "name:es": "Shinnoin",
+        "religion": "buddhist",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470101,
+      "lat": 34.2142731,
+      "lon": 135.5810201,
+      "timestamp": "2021-10-02T10:25:00Z",
+      "version": 4,
+      "changeset": 111994921,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "龍光院",
+        "name:en": "Ryukoin",
+        "name:es": "Ryukoin",
+        "religion": "buddhist",
+        "tourism": "hotel",
+        "wikidata": "Q11679202",
+        "wikipedia": "ja:龍光院 (高野山)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046470102,
+      "lat": 34.2147699,
+      "lon": 135.5806178,
+      "timestamp": "2019-11-29T06:26:13Z",
+      "version": 3,
+      "changeset": 77708572,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "明王院",
+        "name:en": "Myooin",
+        "religion": "buddhist",
+        "tourism": "hotel",
+        "wikidata": "Q11512451",
+        "wikipedia": "ja:明王院 (高野山)"
+      }
+    }
+  ]
+}

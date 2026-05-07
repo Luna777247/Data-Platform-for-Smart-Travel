@@ -1,0 +1,1545 @@
+{
+  "city": "tokyo",
+  "category": "park",
+  "timestamp": "20260507_150920",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 251055433,
+      "lat": 35.6397288,
+      "lon": 139.7177804,
+      "timestamp": "2008-03-07T21:02:28Z",
+      "version": 1,
+      "changeset": 282519,
+      "user": "CvR",
+      "uid": 28052,
+      "tags": {
+        "created_by": "JOSM",
+        "leisure": "park",
+        "name": "Ntl Park Nature Study"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441594880,
+      "lat": 35.669389,
+      "lon": 139.719556,
+      "timestamp": "2009-07-16T00:18:10Z",
+      "version": 2,
+      "changeset": 1840990,
+      "user": "mightyfrog",
+      "uid": 95449,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 515619795,
+      "lat": 35.6969457,
+      "lon": 139.5842972,
+      "timestamp": "2009-10-01T05:52:40Z",
+      "version": 1,
+      "changeset": 2696188,
+      "user": "mightyfrog",
+      "uid": 95449,
+      "tags": {
+        "leisure": "park",
+        "name": "三角広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 574258569,
+      "lat": 35.6151844,
+      "lon": 139.6172493,
+      "timestamp": "2026-02-05T05:03:45Z",
+      "version": 2,
+      "changeset": 178120915,
+      "user": "快乐的老鼠宝宝",
+      "uid": 9403945,
+      "tags": {
+        "leisure": "park",
+        "name": "二子玉川緑地運動場",
+        "name:en": "Futakotamagawa Sports Ground",
+        "name:ja": "二子玉川緑地運動場",
+        "name:ja_rm": "Futakotamagawa Ryokuchi Undōjō"
+      }
+    },
+    {
+      "type": "node",
+      "id": 683112525,
+      "lat": 35.6099235,
+      "lon": 139.6595327,
+      "timestamp": "2010-04-03T10:21:11Z",
+      "version": 1,
+      "changeset": 4311409,
+      "user": "uroesch",
+      "uid": 95779,
+      "tags": {
+        "leisure": "park",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 738432134,
+      "lat": 35.6007597,
+      "lon": 139.6793543,
+      "timestamp": "2023-09-05T06:51:45Z",
+      "version": 2,
+      "changeset": 140834342,
+      "user": "asutekku",
+      "uid": 2254059,
+      "tags": {
+        "leisure": "park",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 778242550,
+      "lat": 35.6286837,
+      "lon": 139.6442682,
+      "timestamp": "2010-06-20T14:05:23Z",
+      "version": 1,
+      "changeset": 5033256,
+      "user": "uroesch",
+      "uid": 95779,
+      "tags": {
+        "leisure": "park",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 853133768,
+      "lat": 35.6314951,
+      "lon": 139.6538881,
+      "timestamp": "2010-08-10T14:37:23Z",
+      "version": 1,
+      "changeset": 5454405,
+      "user": "uroesch",
+      "uid": 95779,
+      "tags": {
+        "leisure": "park",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 867871669,
+      "lat": 35.6343194,
+      "lon": 139.6555659,
+      "timestamp": "2010-08-19T06:06:32Z",
+      "version": 1,
+      "changeset": 5532662,
+      "user": "uroesch",
+      "uid": 95779,
+      "tags": {
+        "leisure": "park",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 961344346,
+      "lat": 35.6386485,
+      "lon": 139.6066463,
+      "timestamp": "2010-10-23T09:45:49Z",
+      "version": 1,
+      "changeset": 6143284,
+      "user": "ribbon",
+      "uid": 192905,
+      "tags": {
+        "leisure": "park",
+        "name": "砧七丁目広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 961344382,
+      "lat": 35.6424198,
+      "lon": 139.6062453,
+      "timestamp": "2010-10-23T09:45:50Z",
+      "version": 1,
+      "changeset": 6143284,
+      "user": "ribbon",
+      "uid": 192905,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1705471005,
+      "lat": 35.4513104,
+      "lon": 139.5358309,
+      "timestamp": "2012-04-07T08:49:46Z",
+      "version": 1,
+      "changeset": 11210884,
+      "user": "Ryo-a",
+      "uid": 631141,
+      "tags": {
+        "leisure": "park",
+        "name": "こども自然公園",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1708129765,
+      "lat": 35.7062391,
+      "lon": 139.5411828,
+      "timestamp": "2026-01-01T19:58:40Z",
+      "version": 4,
+      "changeset": 176713616,
+      "user": "市川ゆり子",
+      "uid": 388809,
+      "tags": {
+        "leisure": "park",
+        "name": "かわばた公園",
+        "name:en": "Kawabata Park",
+        "name:ja": "かわばた公園",
+        "name:ja-Hira": "かわばたこうえん",
+        "name:ja_rm": "Kawabata Kouen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1724887147,
+      "lat": 35.6966065,
+      "lon": 139.6820456,
+      "timestamp": "2020-01-21T04:28:42Z",
+      "version": 2,
+      "changeset": 79829274,
+      "user": "makoriko",
+      "uid": 7644126,
+      "tags": {
+        "leisure": "park",
+        "name": "中野の森広場公園",
+        "operator": "中野坂上サンブライトツインビル"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1883521743,
+      "lat": 35.7094643,
+      "lon": 139.5360324,
+      "timestamp": "2026-01-01T18:05:32Z",
+      "version": 3,
+      "changeset": 176713616,
+      "user": "市川ゆり子",
+      "uid": 388809,
+      "tags": {
+        "is_in:city": "武蔵野市",
+        "is_in:hamlet": "1丁目",
+        "is_in:suburb": "桜堤",
+        "leisure": "park",
+        "name": "第２浄水場公園",
+        "name:en": "Daini Josuijo Park",
+        "name:ja": "第２浄水場公園",
+        "name:ja-Hira": "だいにじょうすいじょうこうえん",
+        "name:ja_rm": "Daini Josuijo Koen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2003875792,
+      "lat": 35.5337694,
+      "lon": 139.6938594,
+      "timestamp": "2013-01-26T18:25:51Z",
+      "version": 2,
+      "changeset": 14796087,
+      "user": "zacmccormick",
+      "uid": 492311,
+      "tags": {
+        "leisure": "park",
+        "name": "さくら公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2027423256,
+      "lat": 35.3348932,
+      "lon": 139.5752794,
+      "timestamp": "2012-11-23T04:12:29Z",
+      "version": 1,
+      "changeset": 13994236,
+      "user": "flora_ksohok",
+      "uid": 1076472,
+      "tags": {
+        "leisure": "park",
+        "name": "獅子舞"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2127046406,
+      "lat": 35.78453,
+      "lon": 139.613056,
+      "timestamp": "2016-07-31T01:27:22Z",
+      "version": 2,
+      "changeset": 41136458,
+      "user": "_Yuki_K_",
+      "uid": 3933181,
+      "tags": {
+        "leisure": "park",
+        "name": "外環丸山台広場",
+        "name:en": "Gaikan Maruyamadai Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2136834937,
+      "lat": 35.6824886,
+      "lon": 139.6891388,
+      "timestamp": "2013-03-19T12:04:17Z",
+      "version": 2,
+      "changeset": 15418916,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2148626280,
+      "lat": 35.713831,
+      "lon": 139.581905,
+      "timestamp": "2013-02-10T05:16:08Z",
+      "version": 2,
+      "changeset": 14975984,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park",
+        "name": "市立北町二丁目ポケット広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2182645881,
+      "lat": 35.6628186,
+      "lon": 139.6583106,
+      "timestamp": "2025-11-12T08:38:51Z",
+      "version": 3,
+      "changeset": 174546737,
+      "user": "Jeoriga",
+      "uid": 6081943,
+      "tags": {
+        "leisure": "park",
+        "source": "image,2013-02;Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2209719867,
+      "lat": 35.683759,
+      "lon": 139.691778,
+      "timestamp": "2013-03-19T11:27:40Z",
+      "version": 1,
+      "changeset": 15418561,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2268159510,
+      "lat": 35.6863373,
+      "lon": 139.7973776,
+      "timestamp": "2016-06-22T13:22:19Z",
+      "version": 2,
+      "changeset": 40205306,
+      "user": "_Yuki_K_",
+      "uid": 3933181,
+      "tags": {
+        "leisure": "park",
+        "name": "八名川",
+        "name:en": "Yanagawa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2268159600,
+      "lat": 35.6849691,
+      "lon": 139.7972703,
+      "timestamp": "2013-04-15T11:43:41Z",
+      "version": 2,
+      "changeset": 15736202,
+      "user": "ntppr",
+      "uid": 1338116,
+      "tags": {
+        "leisure": "park",
+        "name": "常盤二丁目児童遊園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2383825626,
+      "lat": 35.6925335,
+      "lon": 139.5223819,
+      "timestamp": "2024-04-28T19:10:07Z",
+      "version": 2,
+      "changeset": 150632967,
+      "user": "Tytsk",
+      "uid": 19118956,
+      "tags": {
+        "leisure": "park",
+        "name": "アオギリ公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2384963817,
+      "lat": 35.685325,
+      "lon": 139.715003,
+      "timestamp": "2013-07-15T05:15:58Z",
+      "version": 1,
+      "changeset": 16956788,
+      "user": "smellman",
+      "uid": 664547,
+      "tags": {
+        "leisure": "park",
+        "name": "内藤町けやき公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2403338425,
+      "lat": 35.530872,
+      "lon": 139.691295,
+      "timestamp": "2024-07-17T00:34:20Z",
+      "version": 2,
+      "changeset": 154036345,
+      "user": "torimuki",
+      "uid": 21760923,
+      "tags": {
+        "leisure": "park",
+        "name": "柳町公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2425343819,
+      "lat": 35.681146,
+      "lon": 139.68067,
+      "timestamp": "2013-08-20T11:33:31Z",
+      "version": 1,
+      "changeset": 17424926,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2425346173,
+      "lat": 35.680452,
+      "lon": 139.678809,
+      "timestamp": "2013-08-20T11:35:31Z",
+      "version": 1,
+      "changeset": 17424956,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2526068055,
+      "lat": 35.651433,
+      "lon": 139.564334,
+      "timestamp": "2013-11-10T04:19:42Z",
+      "version": 1,
+      "changeset": 18810124,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2779037621,
+      "lat": 35.7309366,
+      "lon": 139.7232691,
+      "timestamp": "2016-12-27T22:39:43Z",
+      "version": 2,
+      "changeset": 44717562,
+      "user": "_Yuki_K_",
+      "uid": 3933181,
+      "tags": {
+        "leisure": "park",
+        "name": "豊島区立 東池袋青空公園",
+        "name:en": "Higashi-Ikebukuro Playground"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2830704101,
+      "lat": 35.680583,
+      "lon": 139.48693,
+      "timestamp": "2014-05-02T04:03:10Z",
+      "version": 1,
+      "changeset": 22076433,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2830715301,
+      "lat": 35.677434,
+      "lon": 139.50174,
+      "timestamp": "2014-05-02T04:33:19Z",
+      "version": 1,
+      "changeset": 22076662,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park",
+        "name": "なかのせき広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2830735201,
+      "lat": 35.674478,
+      "lon": 139.506968,
+      "timestamp": "2014-05-02T04:57:40Z",
+      "version": 2,
+      "changeset": 22076842,
+      "user": "ao_zeal",
+      "uid": 553424,
+      "tags": {
+        "leisure": "park",
+        "name": "明ヶ代東公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2830789701,
+      "lat": 35.6799879,
+      "lon": 139.5445459,
+      "timestamp": "2019-11-29T03:57:45Z",
+      "version": 2,
+      "changeset": 77704330,
+      "user": "TokyoJoe",
+      "uid": 1973844,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3293792861,
+      "lat": 35.640631,
+      "lon": 139.752207,
+      "timestamp": "2026-03-09T07:19:23Z",
+      "version": 3,
+      "changeset": 179565866,
+      "user": "pizzaiolo",
+      "uid": 1772368,
+      "tags": {
+        "addr:quarter": "芝浦４丁目",
+        "leisure": "park",
+        "name": "プラタナス公園",
+        "operator": "港区",
+        "wikidata": "Q42311595"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3776244870,
+      "lat": 35.6447959,
+      "lon": 139.5437288,
+      "timestamp": "2015-10-07T09:27:09Z",
+      "version": 1,
+      "changeset": 34486328,
+      "user": "Fkin",
+      "uid": 3281798,
+      "tags": {
+        "addr:city": "調布市布田５丁目５３−３７",
+        "addr:housenumber": "1820024",
+        "addr:postcode": "1820024",
+        "leisure": "park",
+        "name": "古天神公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873031921,
+      "lat": 35.6438662,
+      "lon": 139.548468,
+      "timestamp": "2015-12-02T15:16:08Z",
+      "version": 1,
+      "changeset": 35708308,
+      "user": "Fkin",
+      "uid": 3281798,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3969678658,
+      "lat": 35.3002933,
+      "lon": 139.5984932,
+      "timestamp": "2020-10-03T04:43:38Z",
+      "version": 2,
+      "changeset": 91890217,
+      "user": "muramototomoya",
+      "uid": 610947,
+      "tags": {
+        "emergency": "assembly_point",
+        "leisure": "park",
+        "name": "エルデ公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4074508549,
+      "lat": 35.7206404,
+      "lon": 139.8138991,
+      "timestamp": "2016-03-23T02:33:29Z",
+      "version": 1,
+      "changeset": 38011751,
+      "user": "rsa83761",
+      "uid": 3737921,
+      "tags": {
+        "leisure": "park",
+        "name": "防災広場　一言会集会所　路地尊第６号基"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4168367105,
+      "lat": 35.6839517,
+      "lon": 139.5179515,
+      "timestamp": "2016-05-05T23:39:09Z",
+      "version": 1,
+      "changeset": 39132288,
+      "user": "noriko_u",
+      "uid": 3666440,
+      "tags": {
+        "leisure": "park",
+        "name": "多磨町広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4168377383,
+      "lat": 35.6795239,
+      "lon": 139.5205061,
+      "timestamp": "2016-05-05T23:49:48Z",
+      "version": 1,
+      "changeset": 39132372,
+      "user": "noriko_u",
+      "uid": 3666440,
+      "tags": {
+        "leisure": "park",
+        "name": "多磨町公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4224973689,
+      "lat": 35.4578932,
+      "lon": 139.4948904,
+      "timestamp": "2016-06-04T05:37:42Z",
+      "version": 1,
+      "changeset": 39791718,
+      "user": "tujikawa",
+      "uid": 4029412,
+      "tags": {
+        "addr:city": "瀬谷区",
+        "addr:housenumber": "宮沢",
+        "addr:postcode": "246-0038",
+        "leisure": "park",
+        "name": "東山の水辺"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4224975100,
+      "lat": 35.444293,
+      "lon": 139.4920942,
+      "timestamp": "2016-06-04T05:41:24Z",
+      "version": 1,
+      "changeset": 39791754,
+      "user": "tujikawa",
+      "uid": 4029412,
+      "tags": {
+        "addr:city": "瀬谷区",
+        "addr:housenumber": "宮沢4丁目",
+        "addr:postcode": "246-0038",
+        "leisure": "park",
+        "name": "宮沢遊水地"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332348161,
+      "lat": 35.6064617,
+      "lon": 139.5866745,
+      "timestamp": "2016-08-02T13:19:02Z",
+      "version": 1,
+      "changeset": 41191917,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "自然観察広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332355254,
+      "lat": 35.6041179,
+      "lon": 139.5855911,
+      "timestamp": "2016-08-02T13:27:17Z",
+      "version": 1,
+      "changeset": 41192077,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "花木広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4336652829,
+      "lat": 35.5832647,
+      "lon": 139.51882,
+      "timestamp": "2016-08-05T08:34:30Z",
+      "version": 1,
+      "changeset": 41254748,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "遠見の広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4336656694,
+      "lat": 35.5842227,
+      "lon": 139.5186527,
+      "timestamp": "2016-08-05T08:37:02Z",
+      "version": 1,
+      "changeset": 41254794,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "草っぱら広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4336658689,
+      "lat": 35.5853393,
+      "lon": 139.5192683,
+      "timestamp": "2016-08-05T08:39:25Z",
+      "version": 1,
+      "changeset": 41254848,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "芝生広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4376980455,
+      "lat": 35.5616909,
+      "lon": 139.487558,
+      "timestamp": "2017-04-27T06:00:11Z",
+      "version": 2,
+      "changeset": 48183140,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "中央広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4393368952,
+      "lat": 35.3601275,
+      "lon": 139.5889114,
+      "timestamp": "2016-09-09T11:35:39Z",
+      "version": 1,
+      "changeset": 42022806,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "瀬上市民の森"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4394440545,
+      "lat": 35.4752134,
+      "lon": 139.4908718,
+      "timestamp": "2025-05-23T03:14:29Z",
+      "version": 2,
+      "changeset": 166635861,
+      "user": "lycopene",
+      "uid": 22929346,
+      "tags": {
+        "leisure": "park",
+        "name": "和泉川 源流広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4394443357,
+      "lat": 35.5630918,
+      "lon": 139.4922815,
+      "timestamp": "2016-09-10T07:34:56Z",
+      "version": 1,
+      "changeset": 42053946,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "キュービック ランド"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4397302892,
+      "lat": 35.2509514,
+      "lon": 139.6583256,
+      "timestamp": "2019-11-18T13:25:07Z",
+      "version": 2,
+      "changeset": 77229125,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "leisure": "park",
+        "name": "衣笠山公園",
+        "wikidata": "Q11626404",
+        "wikipedia": "ja:衣笠山公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4401928612,
+      "lat": 35.6058799,
+      "lon": 139.5876766,
+      "timestamp": "2016-09-15T01:00:35Z",
+      "version": 1,
+      "changeset": 42161738,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "湿生植物園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4401937125,
+      "lat": 35.3117145,
+      "lon": 139.5787123,
+      "timestamp": "2016-09-15T01:19:34Z",
+      "version": 1,
+      "changeset": 42161869,
+      "user": "yh2016",
+      "uid": 4201656,
+      "tags": {
+        "leisure": "park",
+        "name": "久木大池公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4406717248,
+      "lat": 35.5727402,
+      "lon": 139.519102,
+      "timestamp": "2023-09-15T15:55:32Z",
+      "version": 3,
+      "changeset": 141309432,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "leisure": "park",
+        "name": "早野聖地公園",
+        "wikidata": "Q11511581",
+        "wikimedia_commons": "Category:Hayano Cemetery Park",
+        "wikipedia": "ja:早野聖地公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4406726535,
+      "lat": 35.5856913,
+      "lon": 139.520225,
+      "timestamp": "2016-09-18T11:50:27Z",
+      "version": 1,
+      "changeset": 42245575,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "多目的広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4414657438,
+      "lat": 35.3205207,
+      "lon": 139.5168788,
+      "timestamp": "2019-08-25T03:24:55Z",
+      "version": 3,
+      "changeset": 73708623,
+      "user": "hatochan",
+      "uid": 38591,
+      "tags": {
+        "leisure": "park",
+        "name": "夫婦池公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4440055761,
+      "lat": 35.509176,
+      "lon": 139.6493087,
+      "timestamp": "2016-10-10T06:03:32Z",
+      "version": 1,
+      "changeset": 42768839,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "芝生広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4440509893,
+      "lat": 35.6745006,
+      "lon": 139.489488,
+      "timestamp": "2016-10-10T11:52:12Z",
+      "version": 1,
+      "changeset": 42775215,
+      "user": "Hiro Kobayashi",
+      "uid": 3435393,
+      "tags": {
+        "leisure": "park",
+        "name": "三本木公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4471015379,
+      "lat": 35.5777711,
+      "lon": 139.4923199,
+      "timestamp": "2016-12-07T06:28:01Z",
+      "version": 2,
+      "changeset": 44226984,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "多目的広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4544601992,
+      "lat": 35.4947538,
+      "lon": 139.6146754,
+      "timestamp": "2016-12-08T10:12:50Z",
+      "version": 1,
+      "changeset": 44254794,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "ひょうたん原っぱ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4671878093,
+      "lat": 35.7418938,
+      "lon": 139.7617458,
+      "timestamp": "2017-12-10T02:40:42Z",
+      "version": 2,
+      "changeset": 54500848,
+      "user": "niantic",
+      "uid": 7193144,
+      "tags": {
+        "leisure": "park",
+        "name": "下田端夜雨"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4742515545,
+      "lat": 35.5036199,
+      "lon": 139.4979323,
+      "timestamp": "2017-03-19T06:12:03Z",
+      "version": 1,
+      "changeset": 46972503,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "アスレチック"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4742535278,
+      "lat": 35.5064053,
+      "lon": 139.4992682,
+      "timestamp": "2017-03-19T06:39:00Z",
+      "version": 1,
+      "changeset": 46972714,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "森の広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4742535279,
+      "lat": 35.506443,
+      "lon": 139.4979549,
+      "timestamp": "2017-03-19T06:39:00Z",
+      "version": 1,
+      "changeset": 46972714,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "滝の広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4742537879,
+      "lat": 35.5057098,
+      "lon": 139.4985774,
+      "timestamp": "2021-11-14T13:44:24Z",
+      "version": 2,
+      "changeset": 113763351,
+      "user": "須田夏生",
+      "uid": 14290081,
+      "tags": {
+        "description": "若葉台ショッピングタウン内にある飲食スペース\n買い物帰りに気軽に利用できるため、多くの人で賑わっている。",
+        "leisure": "park",
+        "name": "ふれあい広場",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4742537880,
+      "lat": 35.5046825,
+      "lon": 139.4987312,
+      "timestamp": "2017-03-19T06:49:06Z",
+      "version": 1,
+      "changeset": 46972801,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "わかばの広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4819455582,
+      "lat": 35.5623368,
+      "lon": 139.4869917,
+      "timestamp": "2017-04-27T05:52:04Z",
+      "version": 1,
+      "changeset": 48182956,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "自由広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4819642542,
+      "lat": 35.559254,
+      "lon": 139.4952178,
+      "timestamp": "2017-04-27T07:26:44Z",
+      "version": 1,
+      "changeset": 48185293,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "牛・羊の牧場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4861440118,
+      "lat": 35.6866264,
+      "lon": 139.6058794,
+      "timestamp": "2017-05-18T09:01:46Z",
+      "version": 1,
+      "changeset": 48784354,
+      "user": "TCGshinta",
+      "uid": 5940533,
+      "tags": {
+        "leisure": "park",
+        "name": "久我山遊友緑地"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4908183209,
+      "lat": 35.6784265,
+      "lon": 139.7196123,
+      "timestamp": "2019-11-28T04:06:42Z",
+      "version": 2,
+      "changeset": 77660411,
+      "user": "Diego Sanguinetti",
+      "uid": 309382,
+      "tags": {
+        "leisure": "park",
+        "name": "にこにこパーク",
+        "name:en": "Nico Nico Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4913812785,
+      "lat": 35.483025,
+      "lon": 139.5992198,
+      "timestamp": "2017-06-14T00:00:02Z",
+      "version": 1,
+      "changeset": 49514980,
+      "user": "hm2016",
+      "uid": 4073463,
+      "tags": {
+        "leisure": "park",
+        "name": "うさぎ山プレイパーク"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040907223,
+      "lat": 35.7643406,
+      "lon": 139.8073618,
+      "timestamp": "2017-08-17T11:18:07Z",
+      "version": 1,
+      "changeset": 51201840,
+      "user": "snicT",
+      "uid": 6489758,
+      "tags": {
+        "addr:city": "足立区",
+        "addr:housenumber": "17番4号",
+        "addr:neighbourhood": "一丁目",
+        "addr:postcode": "120-0015",
+        "addr:province": "東京都",
+        "leisure": "park",
+        "name": "足立一丁目児童遊園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080997434,
+      "lat": 35.7603349,
+      "lon": 139.4980322,
+      "timestamp": "2017-09-05T08:35:35Z",
+      "version": 1,
+      "changeset": 51741499,
+      "user": "たけちゃんでし",
+      "uid": 6602453,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5259377676,
+      "lat": 35.1472535,
+      "lon": 139.6270399,
+      "timestamp": "2018-11-28T00:50:36Z",
+      "version": 2,
+      "changeset": 64955219,
+      "user": "yoshitk",
+      "uid": 1003241,
+      "tags": {
+        "leisure": "park",
+        "name": "栄児童公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5357042876,
+      "lat": 35.3545188,
+      "lon": 139.6035853,
+      "timestamp": "2018-01-23T14:40:17Z",
+      "version": 1,
+      "changeset": 55686015,
+      "user": "muramototomoya",
+      "uid": 610947,
+      "tags": {
+        "leisure": "park",
+        "name": "こがね台広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372608137,
+      "lat": 35.5522583,
+      "lon": 139.7257697,
+      "timestamp": "2018-01-30T14:15:16Z",
+      "version": 3,
+      "changeset": 55895383,
+      "user": "Unnown",
+      "uid": 7548722,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5388041870,
+      "lat": 35.7572771,
+      "lon": 139.805376,
+      "timestamp": "2018-02-04T23:38:30Z",
+      "version": 1,
+      "changeset": 56069702,
+      "user": "roguish",
+      "uid": 1059224,
+      "tags": {
+        "leisure": "park",
+        "name": "虹の広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5423965606,
+      "lat": 35.7058677,
+      "lon": 139.4989393,
+      "timestamp": "2018-02-20T06:38:58Z",
+      "version": 1,
+      "changeset": 56511399,
+      "user": "kebi_map",
+      "uid": 7643331,
+      "tags": {
+        "leisure": "park",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5513479025,
+      "lat": 35.6903791,
+      "lon": 139.6828807,
+      "timestamp": "2018-03-29T08:42:45Z",
+      "version": 1,
+      "changeset": 57625811,
+      "user": "ninomi1",
+      "uid": 7974941,
+      "tags": {
+        "leisure": "park",
+        "name": "二軒屋児童公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5589699031,
+      "lat": 35.783761,
+      "lon": 139.6943754,
+      "timestamp": "2018-08-16T09:48:44Z",
+      "version": 2,
+      "changeset": 61709995,
+      "user": "_Yuki_K_",
+      "uid": 3933181,
+      "tags": {
+        "leisure": "park",
+        "name": "釣り堀公園",
+        "name:en": "Fishing Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5617159384,
+      "lat": 35.7501168,
+      "lon": 139.7623105,
+      "timestamp": "2019-04-05T02:02:13Z",
+      "version": 2,
+      "changeset": 68904423,
+      "user": "he qin",
+      "uid": 9143880,
+      "tags": {
+        "leisure": "park",
+        "name": "セイジョー",
+        "operator": "ココカラファイン"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5659947693,
+      "lat": 35.6530917,
+      "lon": 139.6886085,
+      "timestamp": "2018-06-03T04:51:53Z",
+      "version": 1,
+      "changeset": 59498819,
+      "user": "Favor2",
+      "uid": 8286801,
+      "tags": {
+        "leisure": "park",
+        "name": "区立氷川台児童遊園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5705181680,
+      "lat": 35.7376928,
+      "lon": 139.6006003,
+      "timestamp": "2018-06-20T12:13:15Z",
+      "version": 1,
+      "changeset": 60009331,
+      "user": "柏甜甜",
+      "uid": 8433249,
+      "tags": {
+        "leisure": "park",
+        "name": "池淵史跡公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5707501065,
+      "lat": 35.7386544,
+      "lon": 139.605088,
+      "timestamp": "2018-06-21T07:12:49Z",
+      "version": 1,
+      "changeset": 60033049,
+      "user": "柏甜甜",
+      "uid": 8433249,
+      "tags": {
+        "leisure": "park",
+        "name": "記念庭園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5895905163,
+      "lat": 35.6692424,
+      "lon": 139.5046097,
+      "timestamp": "2018-09-10T09:20:28Z",
+      "version": 1,
+      "changeset": 62446511,
+      "user": "hazelnut kingdom",
+      "uid": 370313,
+      "tags": {
+        "leisure": "park",
+        "name": "西森公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5910607683,
+      "lat": 35.7223429,
+      "lon": 139.6358126,
+      "timestamp": "2018-09-17T00:19:38Z",
+      "version": 1,
+      "changeset": 62649097,
+      "user": "loyly",
+      "uid": 8829179,
+      "tags": {
+        "leisure": "park",
+        "name": "鷺宮運動広場"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5980631914,
+      "lat": 35.6884167,
+      "lon": 139.8091077,
+      "timestamp": "2018-10-13T04:57:05Z",
+      "version": 1,
+      "changeset": 63477183,
+      "user": "StudioCherry",
+      "uid": 1808308,
+      "tags": {
+        "leisure": "park",
+        "name": "墨田区立菊川橋児童遊園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6070482396,
+      "lat": 35.2563804,
+      "lon": 139.7254246,
+      "timestamp": "2018-11-18T11:35:31Z",
+      "version": 1,
+      "changeset": 64617694,
+      "user": "muramototomoya",
+      "uid": 610947,
+      "tags": {
+        "leisure": "park",
+        "name": "小原台緑地"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6078280357,
+      "lat": 35.6502734,
+      "lon": 139.7007385,
+      "timestamp": "2018-11-21T07:02:18Z",
+      "version": 1,
+      "changeset": 64726328,
+      "user": "1988mitsuru",
+      "uid": 9125831,
+      "tags": {
+        "leisure": "park",
+        "name": "てしまのいえ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6086749795,
+      "lat": 35.4511979,
+      "lon": 139.6965228,
+      "timestamp": "2018-11-24T00:39:28Z",
+      "version": 1,
+      "changeset": 64835005,
+      "user": "しにち",
+      "uid": 8994849,
+      "tags": {
+        "description": "釣りも出来ます。",
+        "leisure": "park",
+        "name": "海釣り公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6122765848,
+      "lat": 35.7538583,
+      "lon": 139.7332928,
+      "timestamp": "2018-12-07T05:53:44Z",
+      "version": 1,
+      "changeset": 65258385,
+      "user": "payao",
+      "uid": 9068761,
+      "tags": {
+        "leisure": "park",
+        "name": "電柱"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6332665984,
+      "lat": 35.7067645,
+      "lon": 139.7899527,
+      "timestamp": "2019-03-12T08:37:49Z",
+      "version": 1,
+      "changeset": 68052941,
+      "user": "けろすけっぴ",
+      "uid": 9521755,
+      "tags": {
+        "leisure": "park",
+        "name": "清美公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6355893804,
+      "lat": 35.7130896,
+      "lon": 139.6781659,
+      "timestamp": "2019-03-23T06:00:45Z",
+      "version": 1,
+      "changeset": 68435392,
+      "user": "kj987",
+      "uid": 9554630,
+      "tags": {
+        "leisure": "park",
+        "name": "上高田台公園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6512554601,
+      "lat": 35.5699864,
+      "lon": 139.7396019,
+      "timestamp": "2021-06-30T05:58:51Z",
+      "version": 2,
+      "changeset": 107183973,
+      "user": "SteinTiter",
+      "uid": 9629870,
+      "tags": {
+        "leisure": "park",
+        "name": "時計台"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6587855259,
+      "lat": 35.6109125,
+      "lon": 139.629625,
+      "timestamp": "2025-07-03T05:53:26Z",
+      "version": 2,
+      "changeset": 168427642,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "leisure": "park",
+        "name": "原っぱ広場",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6967716728,
+      "lat": 35.6559751,
+      "lon": 139.5700688,
+      "timestamp": "2019-11-11T22:59:35Z",
+      "version": 1,
+      "changeset": 76933313,
+      "user": "matsuno",
+      "uid": 10457247,
+      "tags": {
+        "leisure": "park",
+        "name": "西つつじが丘児童遊園"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6976057324,
+      "lat": 35.3230778,
+      "lon": 139.6240124,
+      "timestamp": "2019-11-14T08:41:35Z",
+      "version": 1,
+      "changeset": 77059000,
+      "user": "渡辺　僚太",
+      "uid": 10348333,
+      "tags": {
+        "leisure": "park"
+      }
+    }
+  ]
+}

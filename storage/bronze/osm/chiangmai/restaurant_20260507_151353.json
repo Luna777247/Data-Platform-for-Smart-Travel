@@ -1,0 +1,1655 @@
+{
+  "city": "chiangmai",
+  "category": "restaurant",
+  "timestamp": "20260507_151353",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 336244522,
+      "lat": 18.7915608,
+      "lon": 98.9966779,
+      "timestamp": "2011-11-04T14:10:39Z",
+      "version": 2,
+      "changeset": 9738775,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "New Boomerang"
+      }
+    },
+    {
+      "type": "node",
+      "id": 513199451,
+      "lat": 18.7974076,
+      "lon": 98.9823128,
+      "timestamp": "2011-07-07T02:44:13Z",
+      "version": 4,
+      "changeset": 8653681,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Franco Thai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 642947027,
+      "lat": 7.7965729,
+      "lon": 98.9913528,
+      "timestamp": "2025-01-21T12:37:50Z",
+      "version": 5,
+      "changeset": 161598958,
+      "user": "claudia10",
+      "uid": 557496,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Ko Jum Seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 642947028,
+      "lat": 7.794702,
+      "lon": 98.991707,
+      "timestamp": "2010-02-17T11:04:09Z",
+      "version": 2,
+      "changeset": 3899688,
+      "user": "uli123",
+      "uid": 207910,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 654466341,
+      "lat": 7.6359981,
+      "lon": 99.0335463,
+      "timestamp": "2025-01-16T14:32:01Z",
+      "version": 4,
+      "changeset": 161421579,
+      "user": "Pan Perníček",
+      "uid": 9641379,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "The Sisters Restaurant & Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 654557901,
+      "lat": 7.6494353,
+      "lon": 99.0389983,
+      "timestamp": "2018-11-11T10:36:15Z",
+      "version": 3,
+      "changeset": 64371008,
+      "user": "DerFussi",
+      "uid": 37252,
+      "tags": {
+        "addr:city": "Sala Dan",
+        "addr:postcode": "81150",
+        "amenity": "restaurant",
+        "cuisine": "fine_dining",
+        "internet_access": "wlan",
+        "name": "The Frog Restaurant & Bar",
+        "opening_hours": "Mo-Su 17:00-22:00",
+        "outdoor_seating": "yes",
+        "wikidata": "Q58454862"
+      }
+    },
+    {
+      "type": "node",
+      "id": 674670538,
+      "lat": 18.7786807,
+      "lon": 98.988761,
+      "timestamp": "2024-03-11T05:43:12Z",
+      "version": 4,
+      "changeset": 148488948,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai;regional",
+        "level": "0",
+        "name": "ร้านอาหารปาล์มทรี",
+        "name:en": "Palm Tree Restaurant",
+        "name:th": "ร้านอาหารปาล์มทรี",
+        "website": "https://www.chiangmaigatehotel.com/facilities/restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703026684,
+      "lat": 7.6248477,
+      "lon": 99.0311712,
+      "timestamp": "2018-06-08T10:30:06Z",
+      "version": 2,
+      "changeset": 59664523,
+      "user": "DerFussi",
+      "uid": 37252,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Time for Lime",
+        "wikidata": "Q53424342"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703026690,
+      "lat": 7.6357793,
+      "lon": 99.0334672,
+      "timestamp": "2010-04-21T02:33:20Z",
+      "version": 1,
+      "changeset": 4483060,
+      "user": "Travelfish",
+      "uid": 200637,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "This Is Issan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 717785075,
+      "lat": 7.4867818,
+      "lon": 99.0831994,
+      "timestamp": "2016-02-16T22:03:06Z",
+      "version": 2,
+      "changeset": 37256295,
+      "user": "mani100",
+      "uid": 581284,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Last Beach Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 725620415,
+      "lat": 18.7775385,
+      "lon": 99.0557951,
+      "timestamp": "2015-03-29T03:23:00Z",
+      "version": 5,
+      "changeset": 29818398,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "เศรษฐศิลป์",
+        "name:en": "Setasinlp Restaurant",
+        "name:th": "เศรษฐศิลป์",
+        "opening_hours": "Mo-Su 09:00-16:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 766613470,
+      "lat": 18.7927325,
+      "lon": 98.9931261,
+      "timestamp": "2023-10-24T21:09:04Z",
+      "version": 6,
+      "changeset": 143084246,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Ginger & Kafe",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "website": "https://thehousethailand.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 773476136,
+      "lat": 18.824704,
+      "lon": 99.0111326,
+      "timestamp": "2012-12-01T05:11:53Z",
+      "version": 3,
+      "changeset": 14107472,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Mee Mee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 806537111,
+      "lat": 2.6712875,
+      "lon": 98.8614418,
+      "timestamp": "2015-03-14T17:01:34Z",
+      "version": 3,
+      "changeset": 29475980,
+      "user": "AlexTheTux",
+      "uid": 367643,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Rumba Pizza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 806537143,
+      "lat": 2.6645058,
+      "lon": 98.9313591,
+      "timestamp": "2013-02-24T13:29:08Z",
+      "version": 2,
+      "changeset": 15147435,
+      "user": "Tungmar",
+      "uid": 427807,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Hong Kong"
+      }
+    },
+    {
+      "type": "node",
+      "id": 809498666,
+      "lat": 10.580929,
+      "lon": 99.1158014,
+      "timestamp": "2017-01-09T13:52:10Z",
+      "version": 2,
+      "changeset": 45026834,
+      "user": "Aabu Sar",
+      "uid": 3788706,
+      "tags": {
+        "amenity": "restaurant",
+        "created_by": "Vespucci 0.6.5",
+        "name": "คุณสาหร่าย",
+        "name:th": "คุณสาหร่าย"
+      }
+    },
+    {
+      "type": "node",
+      "id": 820315832,
+      "lat": 18.7836346,
+      "lon": 98.9966922,
+      "timestamp": "2015-03-25T04:31:44Z",
+      "version": 3,
+      "changeset": 29719469,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Green Days",
+        "phone": "+6653449522"
+      }
+    },
+    {
+      "type": "node",
+      "id": 820792823,
+      "lat": 18.7846907,
+      "lon": 98.9936787,
+      "timestamp": "2016-02-09T03:50:41Z",
+      "version": 5,
+      "changeset": 37093614,
+      "user": "freesky",
+      "uid": 62679,
+      "tags": {
+        "addr:city": "Chiang Mai",
+        "addr:housenumber": "69",
+        "addr:postcode": "50100",
+        "addr:street": "ถนนคชสาร",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "La Terrasse",
+        "opening_hours": "Mo-Sa 17:00+",
+        "website": "http://www.laterrassechiangmai.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 821788621,
+      "lat": 18.8072089,
+      "lon": 99.0047226,
+      "timestamp": "2010-07-17T11:23:25Z",
+      "version": 1,
+      "changeset": 5241674,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "created_by": "Vespucci 0.6.5",
+        "name": "Brownie Steak & Bakery",
+        "note": "steak buffet 83 Baht"
+      }
+    },
+    {
+      "type": "node",
+      "id": 907694078,
+      "lat": 18.8658955,
+      "lon": 99.1157703,
+      "timestamp": "2015-06-06T08:56:36Z",
+      "version": 5,
+      "changeset": 31763470,
+      "user": "sungsom109",
+      "uid": 2968075,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 907695425,
+      "lat": 18.8308471,
+      "lon": 98.9943392,
+      "timestamp": "2022-11-25T12:09:00Z",
+      "version": 8,
+      "changeset": 129365914,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "addr:housenumber": "208",
+        "addr:street": "Pa Tan Road",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "description:en": "2022 Michelin Bib Gourmand Award winner",
+        "name:en": "Huan Soontaree Vechanont",
+        "name:zh": "Houn Soontaree Vechanont泰北餐厅",
+        "opening_hours": "Mo-Su 16:00-24:00",
+        "phone": "+6653872707",
+        "website": "https://www.saochiangmai.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 907784571,
+      "lat": 18.7434189,
+      "lon": 98.9625167,
+      "timestamp": "2019-03-30T22:44:28Z",
+      "version": 5,
+      "changeset": 68711426,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "MK Restaurants",
+        "cuisine": "suki",
+        "name": "MK Restaurants",
+        "name:en": "MK Restaurants",
+        "operator": "MK Restaurants",
+        "phone": "1642",
+        "website": "https://www.mkrestaurant.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 907784573,
+      "lat": 18.7432055,
+      "lon": 98.9629029,
+      "timestamp": "2010-09-12T18:35:28Z",
+      "version": 2,
+      "changeset": 5762403,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Foodpark"
+      }
+    },
+    {
+      "type": "node",
+      "id": 907784574,
+      "lat": 18.743048,
+      "lon": 98.962522,
+      "timestamp": "2010-09-12T18:35:30Z",
+      "version": 2,
+      "changeset": 5762403,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sakae Sushi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 907784575,
+      "lat": 18.7434493,
+      "lon": 98.9618998,
+      "timestamp": "2012-02-13T07:54:27Z",
+      "version": 3,
+      "changeset": 10670701,
+      "user": "keng",
+      "uid": 243308,
+      "tags": {
+        "addr:housename": "บิ๊กซี หางดง",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "ฮะจิบัง ราเมน",
+        "name:en": "Hachiban Ramen",
+        "name:th": "ฮะจิบัง ราเมน"
+      }
+    },
+    {
+      "type": "node",
+      "id": 915457026,
+      "lat": 18.7879176,
+      "lon": 99.000704,
+      "timestamp": "2015-03-25T14:45:23Z",
+      "version": 2,
+      "changeset": 29729090,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Thapae Gallery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 932462547,
+      "lat": 18.7935493,
+      "lon": 99.1045513,
+      "timestamp": "2011-02-22T08:36:41Z",
+      "version": 3,
+      "changeset": 7361169,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 955952425,
+      "lat": 18.7840701,
+      "lon": 99.0162898,
+      "timestamp": "2010-10-18T12:27:45Z",
+      "version": 1,
+      "changeset": 6081486,
+      "user": "marek kleciak",
+      "uid": 338611,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 957024840,
+      "lat": 18.6013384,
+      "lon": 98.9670073,
+      "timestamp": "2010-10-19T12:31:30Z",
+      "version": 1,
+      "changeset": 6098650,
+      "user": "Tom Layo",
+      "uid": 280679,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 964686601,
+      "lat": 18.7843991,
+      "lon": 98.992814,
+      "timestamp": "2015-11-19T18:37:38Z",
+      "version": 8,
+      "changeset": 35443016,
+      "user": "Svedje",
+      "uid": 3399277,
+      "tags": {
+        "addr:housenumber": "19/1",
+        "addr:street": "ถนนมูลเมือง",
+        "amenity": "restaurant",
+        "contact:phone": "+6653273002",
+        "contact:website": "http://www.maddogchiangmai.com/",
+        "contact:website_1": "https://www.facebook.com/Mad-Dog-Pizza-Bar-Restaurant-Chiang-Mai-Thailand-92551244826/?fref=ts",
+        "cuisine": "pizza",
+        "name": "Mad Dog",
+        "opening_hours": "Mo-Su 08:00-00:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 969762852,
+      "lat": 18.7319876,
+      "lon": 99.0945474,
+      "timestamp": "2021-05-01T08:36:30Z",
+      "version": 4,
+      "changeset": 103946913,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "ก๋วยเตี๋ยวเป็ดบ้านทุ่ง",
+        "name:en": "Kuaitiao Pet Ban Thung",
+        "name:th": "ก๋วยเตี๋ยวเป็ดบ้านทุ่ง"
+      }
+    },
+    {
+      "type": "node",
+      "id": 975735984,
+      "lat": 18.7557482,
+      "lon": 99.0741881,
+      "timestamp": "2015-01-19T17:03:01Z",
+      "version": 3,
+      "changeset": 28257052,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "กุ้งเผาสุพรรณบุรี",
+        "name:en": "Kung Phao Suphanburi",
+        "name:th": "กุ้งเผาสุพรรณบุรี"
+      }
+    },
+    {
+      "type": "node",
+      "id": 985255938,
+      "lat": 18.7858763,
+      "lon": 98.9935014,
+      "timestamp": "2017-03-26T02:15:46Z",
+      "version": 3,
+      "changeset": 47165942,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pop Coffee and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1021770412,
+      "lat": 18.7262958,
+      "lon": 99.017784,
+      "timestamp": "2010-12-05T06:08:25Z",
+      "version": 1,
+      "changeset": 6546948,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "ลุงช้าง"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1038125602,
+      "lat": 18.8173308,
+      "lon": 98.9920041,
+      "timestamp": "2010-12-14T11:14:29Z",
+      "version": 1,
+      "changeset": 6657061,
+      "user": "helenst",
+      "uid": 65599,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1041241255,
+      "lat": 18.7815739,
+      "lon": 99.0533394,
+      "timestamp": "2010-12-16T15:19:06Z",
+      "version": 1,
+      "changeset": 6677687,
+      "user": "Tom Layo",
+      "uid": 280679,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "เรือนแพ2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1041248368,
+      "lat": 18.7881758,
+      "lon": 98.9956503,
+      "timestamp": "2020-12-14T16:04:30Z",
+      "version": 5,
+      "changeset": 95816406,
+      "user": "rouelibre1",
+      "uid": 10901304,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional;thai",
+        "diet:vegetarian": "yes",
+        "name": "Ratana's Kitchen",
+        "name:th": "ครัวรัตนา"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1041278951,
+      "lat": 18.7869406,
+      "lon": 98.9936391,
+      "timestamp": "2017-03-26T02:28:23Z",
+      "version": 5,
+      "changeset": 47165942,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Rioja II"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1041280756,
+      "lat": 18.7862518,
+      "lon": 98.9935495,
+      "timestamp": "2025-11-11T11:22:53Z",
+      "version": 4,
+      "changeset": 174505918,
+      "user": "Emmeryn",
+      "uid": 23236484,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "curry;thai",
+        "name": "ร้านอาหาร อรุณไร",
+        "name:en": "Aroon Rai",
+        "name:th": "ร้านอาหาร อรุณไร",
+        "start_date": "1957"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1041391290,
+      "lat": 18.7852638,
+      "lon": 98.9984622,
+      "timestamp": "2019-08-22T10:22:36Z",
+      "version": 7,
+      "changeset": 73615858,
+      "user": "adrumillon",
+      "uid": 5780790,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "Le Bistrot",
+        "name:en": "Le Bistrot de Chiang Mai",
+        "phone": "053272712",
+        "website": "https://lebistrot-chiangmai.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1058936650,
+      "lat": 18.5756048,
+      "lon": 99.0092885,
+      "timestamp": "2014-01-01T18:57:09Z",
+      "version": 5,
+      "changeset": 19750647,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name:en": "Add Up Coffee Bar",
+        "phone": "+6653530272"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1059078014,
+      "lat": 18.5860537,
+      "lon": 99.0496857,
+      "timestamp": "2010-12-23T12:33:18Z",
+      "version": 1,
+      "changeset": 6744764,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1059078124,
+      "lat": 18.5858616,
+      "lon": 99.049797,
+      "timestamp": "2010-12-23T12:33:22Z",
+      "version": 1,
+      "changeset": 6744764,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1059132722,
+      "lat": 18.5858796,
+      "lon": 99.0518074,
+      "timestamp": "2010-12-23T20:17:42Z",
+      "version": 2,
+      "changeset": 6749282,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1059153589,
+      "lat": 18.5848675,
+      "lon": 99.0544944,
+      "timestamp": "2010-12-23T13:21:58Z",
+      "version": 1,
+      "changeset": 6745198,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1059460698,
+      "lat": 18.5880103,
+      "lon": 99.0468114,
+      "timestamp": "2010-12-23T15:43:22Z",
+      "version": 1,
+      "changeset": 6746480,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1059464020,
+      "lat": 18.588155,
+      "lon": 99.0463398,
+      "timestamp": "2010-12-23T15:44:51Z",
+      "version": 1,
+      "changeset": 6746490,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1059464076,
+      "lat": 18.5882187,
+      "lon": 99.0461093,
+      "timestamp": "2010-12-23T15:44:53Z",
+      "version": 1,
+      "changeset": 6746490,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1059469472,
+      "lat": 18.5883368,
+      "lon": 99.0458244,
+      "timestamp": "2010-12-23T15:47:04Z",
+      "version": 1,
+      "changeset": 6746506,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1062004204,
+      "lat": 18.7809651,
+      "lon": 98.994166,
+      "timestamp": "2024-10-15T15:26:22Z",
+      "version": 5,
+      "changeset": 157926369,
+      "user": "Claudius Henrichs",
+      "uid": 18069,
+      "tags": {
+        "addr:street": "ถนนศรีดอนไชย",
+        "amenity": "restaurant",
+        "cuisine": "sushi;japanese",
+        "name": "Sushi Ichiban",
+        "opening_hours": "Mo-Su 11:00-14:00,17:00-22:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1062008854,
+      "lat": 18.7824257,
+      "lon": 99.0005142,
+      "timestamp": "2013-05-12T05:24:22Z",
+      "version": 2,
+      "changeset": 16089520,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Al-Hussain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1062056665,
+      "lat": 18.7824257,
+      "lon": 99.0006027,
+      "timestamp": "2013-05-12T05:24:22Z",
+      "version": 2,
+      "changeset": 16089520,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Tironui"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1062056726,
+      "lat": 18.7824309,
+      "lon": 99.0006908,
+      "timestamp": "2010-12-24T14:59:40Z",
+      "version": 1,
+      "changeset": 6755206,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Asma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1090529197,
+      "lat": 18.8270474,
+      "lon": 98.9543473,
+      "timestamp": "2022-02-20T15:35:33Z",
+      "version": 3,
+      "changeset": 117643731,
+      "user": "DavidBroadfoot",
+      "uid": 9526540,
+      "tags": {
+        "addr:city": "Changphueak, Chiang Mai",
+        "addr:housenumber": "202/14 Moo.1",
+        "addr:postcode": "50300",
+        "addr:street": "Nong Hor Soi 19",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Kiree Thara Boutique Resort",
+        "name:th": "คีรีธารา บูติค รีสอร์ท"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1093720043,
+      "lat": 18.7658824,
+      "lon": 99.0827586,
+      "timestamp": "2011-01-09T09:41:50Z",
+      "version": 1,
+      "changeset": 6912907,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1094498309,
+      "lat": 7.6082824,
+      "lon": 99.0327754,
+      "timestamp": "2020-01-11T04:31:04Z",
+      "version": 4,
+      "changeset": 79442219,
+      "user": "tanwasunas",
+      "uid": 10643442,
+      "tags": {
+        "addr:city": "ko lanta",
+        "addr:housenumber": "472 moo 3",
+        "addr:postcode": "81150",
+        "addr:street": "tambon saladan",
+        "amenity": "restaurant",
+        "cuisine": "thai;international;pizza;burger",
+        "name": "Lym's Bar & Restaurant",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1097948377,
+      "lat": 18.78241,
+      "lon": 99.001409,
+      "timestamp": "2024-10-12T15:25:10Z",
+      "version": 2,
+      "changeset": 157801223,
+      "user": "Claudius Henrichs",
+      "uid": 18069,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood;thai",
+        "name": "Ping-Ping Seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1104297178,
+      "lat": 18.7571341,
+      "lon": 99.0762606,
+      "timestamp": "2016-05-14T18:15:57Z",
+      "version": 2,
+      "changeset": 39317088,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "source": "http://www.mapillary.com/map/im/sI3HQuKgnm4o-zFV7UU0vg/photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1104312342,
+      "lat": 18.7489344,
+      "lon": 99.0718581,
+      "timestamp": "2024-03-22T11:17:24Z",
+      "version": 3,
+      "changeset": 149007925,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1104320665,
+      "lat": 18.7471,
+      "lon": 99.0702462,
+      "timestamp": "2011-01-15T08:43:25Z",
+      "version": 1,
+      "changeset": 6974415,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1104322762,
+      "lat": 18.7489971,
+      "lon": 99.065137,
+      "timestamp": "2011-12-16T10:14:02Z",
+      "version": 2,
+      "changeset": 10129847,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1104338269,
+      "lat": 18.7562532,
+      "lon": 99.0506462,
+      "timestamp": "2014-12-26T01:11:59Z",
+      "version": 5,
+      "changeset": 27700235,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "level": "1",
+        "name:en": "Onsen Noodle",
+        "opening_hours": "Mo-Tu 10:00-16:00; Th-Su 10:00-16:00",
+        "phone": "+66870834802"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1107238261,
+      "lat": 18.782343,
+      "lon": 98.988951,
+      "timestamp": "2024-01-04T15:53:28Z",
+      "version": 7,
+      "changeset": 145887462,
+      "user": "Deciduous Waffle",
+      "uid": 12669582,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-04-18",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Tein Sieng",
+        "opening_hours": "Mo-Su 06:30-16:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1108694113,
+      "lat": 18.780733,
+      "lon": 98.9882083,
+      "timestamp": "2026-03-07T02:21:54Z",
+      "version": 4,
+      "changeset": 179470479,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "fixme": "This place is packed with tiny restaurants. Did not see this on my Apr-2012 pics. Double check.",
+        "name": "New Delhi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1118878443,
+      "lat": 18.7586456,
+      "lon": 99.1120537,
+      "timestamp": "2021-04-16T20:02:53Z",
+      "version": 3,
+      "changeset": 103079138,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "สวนอาหาร บัว",
+        "name:en": "Bua Restaurant",
+        "name:th": "สวนอาหาร บัว"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1119908665,
+      "lat": 18.7610148,
+      "lon": 99.0785277,
+      "timestamp": "2025-03-14T02:37:09Z",
+      "version": 4,
+      "changeset": 163593997,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "addr:housenumber": "202/2",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "รสทิพย์"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1127348098,
+      "lat": 18.7979914,
+      "lon": 98.9655807,
+      "timestamp": "2017-01-23T11:21:16Z",
+      "version": 3,
+      "changeset": 45396619,
+      "user": "BharataHS",
+      "uid": 706170,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bake & Bite Bakery and Restaurant",
+        "name:zh": "烘烤与品尝"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1133462359,
+      "lat": 18.7628636,
+      "lon": 99.0375754,
+      "timestamp": "2013-12-30T08:13:24Z",
+      "version": 3,
+      "changeset": 19710075,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "ครัวปูยิ้ม",
+        "name:en": "Pooyim",
+        "name:th": "ครัวปูยิ้ม"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1133607799,
+      "lat": 18.7901044,
+      "lon": 98.9917131,
+      "timestamp": "2011-02-04T01:56:31Z",
+      "version": 2,
+      "changeset": 7179656,
+      "user": "Morten Bek Ditlevsen",
+      "uid": 10936,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Eden Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1135290778,
+      "lat": 18.7548641,
+      "lon": 99.0797239,
+      "timestamp": "2011-02-04T08:15:54Z",
+      "version": 1,
+      "changeset": 7180748,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1138709494,
+      "lat": 18.7837737,
+      "lon": 98.9915253,
+      "timestamp": "2019-02-09T12:44:51Z",
+      "version": 4,
+      "changeset": 67047738,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Thapae Chill Garden",
+        "source": "https://www.mapillary.com/map/im/OjhZt1NzwlJw6fxq-9naww"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1141958628,
+      "lat": 18.7713749,
+      "lon": 99.0615652,
+      "timestamp": "2014-01-01T18:57:12Z",
+      "version": 2,
+      "changeset": 19750647,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Thai Birds Nest",
+        "phone": "+6653338265"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1146899526,
+      "lat": 18.5875686,
+      "lon": 99.0481374,
+      "timestamp": "2011-02-11T08:52:06Z",
+      "version": 1,
+      "changeset": 7252997,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1147255701,
+      "lat": 18.7906428,
+      "lon": 98.9912316,
+      "timestamp": "2021-11-27T08:08:44Z",
+      "version": 10,
+      "changeset": 114281829,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Chiang Mai Saloon",
+        "source": "http://www.mapillary.com/map/im/gW9hwRpHtxoa6DVsCjQgAA",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1157479254,
+      "lat": 18.7909208,
+      "lon": 98.9904576,
+      "timestamp": "2024-10-23T10:01:58Z",
+      "version": 7,
+      "changeset": 158245174,
+      "user": "Claudius Henrichs",
+      "uid": 18069,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai;greek;turkish",
+        "name": "Zoe in Yellow Garden",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1166339372,
+      "lat": 18.8014583,
+      "lon": 99.0170952,
+      "timestamp": "2023-02-08T06:05:38Z",
+      "version": 2,
+      "changeset": 132237150,
+      "user": "qpeso",
+      "uid": 64557,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1166351127,
+      "lat": 18.8015727,
+      "lon": 99.0177112,
+      "timestamp": "2011-02-22T12:03:16Z",
+      "version": 1,
+      "changeset": 7362746,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1166351135,
+      "lat": 18.8013463,
+      "lon": 99.017766,
+      "timestamp": "2011-02-22T12:03:18Z",
+      "version": 1,
+      "changeset": 7362746,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1173876686,
+      "lat": 18.7672365,
+      "lon": 99.0046751,
+      "timestamp": "2011-02-26T04:16:46Z",
+      "version": 1,
+      "changeset": 7396430,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1173899516,
+      "lat": 18.7683748,
+      "lon": 99.0057286,
+      "timestamp": "2011-02-26T05:00:39Z",
+      "version": 1,
+      "changeset": 7396510,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1180201811,
+      "lat": 18.762624,
+      "lon": 99.0244404,
+      "timestamp": "2021-05-31T06:17:56Z",
+      "version": 8,
+      "changeset": 105599234,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "เพลินพริ้ว เฮ้าส์",
+        "name:en": "Phloen Phrio Hao",
+        "name:th": "เพลินพริ้ว เฮ้าส์"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1182231393,
+      "lat": 18.7570304,
+      "lon": 99.0951112,
+      "timestamp": "2011-03-02T05:28:03Z",
+      "version": 1,
+      "changeset": 7435302,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "3ดี"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1184034271,
+      "lat": 18.7700223,
+      "lon": 99.0431972,
+      "timestamp": "2020-09-21T04:24:49Z",
+      "version": 6,
+      "changeset": 91197013,
+      "user": "regentcnx",
+      "uid": 11850589,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "ก๋วยเตี๋ยวศรีบัวเงิน"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1185550385,
+      "lat": 18.7721465,
+      "lon": 99.0415506,
+      "timestamp": "2015-09-16T10:57:14Z",
+      "version": 3,
+      "changeset": 34060041,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1188706384,
+      "lat": 17.8016855,
+      "lon": 98.949247,
+      "timestamp": "2016-05-22T04:16:02Z",
+      "version": 5,
+      "changeset": 39480090,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "ศูนย์อหาร",
+        "name:en": "Food Center",
+        "source": "http://www.mapillary.com/map/im/6tnlImZhB4A7pt1aer0L0w/photo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1192255011,
+      "lat": 18.7719606,
+      "lon": 99.0410553,
+      "timestamp": "2011-03-08T05:34:46Z",
+      "version": 3,
+      "changeset": 7491138,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "note": "noodle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1237366507,
+      "lat": 18.7748242,
+      "lon": 98.9994366,
+      "timestamp": "2026-03-08T13:15:52Z",
+      "version": 8,
+      "changeset": 179533106,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "addr:housenumber": "11/1",
+        "addr:postcode": "50100",
+        "addr:street": "ถนนเจริญประเทศ 12",
+        "addr:street:en": "Charoen Prathet Road Soi 12",
+        "alcohol": "yes",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "name": "Hummus Chiang Mai",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1266996972,
+      "lat": 18.7456622,
+      "lon": 99.1183584,
+      "timestamp": "2011-04-30T11:59:11Z",
+      "version": 1,
+      "changeset": 8011060,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name:en": "PJ Catering Service"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1269978838,
+      "lat": 18.8073666,
+      "lon": 99.1174069,
+      "timestamp": "2011-05-02T03:23:19Z",
+      "version": 2,
+      "changeset": 8027488,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1299300409,
+      "lat": 18.7879614,
+      "lon": 99.0399616,
+      "timestamp": "2011-07-18T05:45:02Z",
+      "version": 4,
+      "changeset": 8754546,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "ก๋วยเต๋ียวไก่ตุ๋นนัองนิสา",
+        "opening_hours": "Mo-Su 10:00-24:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1305575183,
+      "lat": 18.7913042,
+      "lon": 99.0270552,
+      "timestamp": "2013-11-05T05:30:58Z",
+      "version": 3,
+      "changeset": 18723743,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "บี่เฮียงโภชนา",
+        "name:en": "Bi-Hieng",
+        "note": "Thai Steak, not American Steak",
+        "opening_hours": "Mo-Sa 09:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1317147769,
+      "lat": 18.7252781,
+      "lon": 99.1060795,
+      "timestamp": "2021-05-01T08:36:30Z",
+      "version": 2,
+      "changeset": 103946913,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "เฮือนอ้ายบ่าว",
+        "name:en": "Huan Ay Bao",
+        "name:th": "เฮือนอ้ายบ่าว",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330373005,
+      "lat": 18.7068859,
+      "lon": 99.0262366,
+      "timestamp": "2011-06-19T04:48:02Z",
+      "version": 1,
+      "changeset": 8479947,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1333122862,
+      "lat": 18.7915642,
+      "lon": 99.02558,
+      "timestamp": "2011-07-27T05:25:49Z",
+      "version": 3,
+      "changeset": 8841724,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "ข้าวซอยต้นข่อย",
+        "note": "Khao Soi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1344116788,
+      "lat": 18.7810125,
+      "lon": 99.0382556,
+      "timestamp": "2015-08-11T05:47:05Z",
+      "version": 3,
+      "changeset": 33258263,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "นิลกําแหง",
+        "name:en": "Nilkumheng"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1344122721,
+      "lat": 18.7757236,
+      "lon": 99.0595698,
+      "timestamp": "2011-06-30T05:55:36Z",
+      "version": 1,
+      "changeset": 8587151,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "note": "Fried Bananas, sweet potato"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1349976335,
+      "lat": 18.7939206,
+      "lon": 99.0295783,
+      "timestamp": "2011-07-05T05:37:33Z",
+      "version": 2,
+      "changeset": 8635878,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "ครัวป้าน้อย",
+        "name:en": "Krua Panoi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1358863599,
+      "lat": 18.7520479,
+      "lon": 99.0088059,
+      "timestamp": "2022-04-18T03:10:34Z",
+      "version": 8,
+      "changeset": 119836127,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "ก๋วยเตี๋ยวมาลี",
+        "name:en": "Malee Noodle",
+        "name:th": "ก๋วยเตี๋ยวมาลี",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "website": "https://www.maleenoodle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1361121949,
+      "lat": 18.7744215,
+      "lon": 99.0014976,
+      "timestamp": "2023-03-18T07:11:16Z",
+      "version": 3,
+      "changeset": 133812400,
+      "user": "julcnx",
+      "uid": 11334430,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "อ้วนโอชา",
+        "name:th": "อ้วนโอชา ข้าวมันไก่ 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1365131660,
+      "lat": 18.7938605,
+      "lon": 99.0293015,
+      "timestamp": "2011-07-19T04:36:51Z",
+      "version": 2,
+      "changeset": 8764747,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai"
+      }
+    }
+  ]
+}

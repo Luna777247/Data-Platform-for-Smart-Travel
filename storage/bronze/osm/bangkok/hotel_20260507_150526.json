@@ -1,0 +1,1776 @@
+{
+  "city": "bangkok",
+  "category": "hotel",
+  "timestamp": "20260507_150526",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 257066461,
+      "lat": 13.7215136,
+      "lon": 100.516885,
+      "timestamp": "2023-09-22T06:41:55Z",
+      "version": 16,
+      "changeset": 141588915,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "addr:city": "แขวงสุริยวงศ์",
+        "addr:housenumber": "1055 State Tower",
+        "addr:postcode": "10500",
+        "addr:street": "ถนนสีลม",
+        "ele": "21",
+        "name": "lebua at State Tower",
+        "operator": "lebua Hotels and Resorts",
+        "phone": "+6626249999",
+        "tourism": "hotel",
+        "website": "https://www.lebua.com/state-tower",
+        "wheelchair": "limited",
+        "wikidata": "Q22032271",
+        "wikipedia": "en:Lebua at State Tower"
+      }
+    },
+    {
+      "type": "node",
+      "id": 280176686,
+      "lat": 13.7264888,
+      "lon": 100.56342,
+      "timestamp": "2008-07-22T08:32:22Z",
+      "version": 2,
+      "changeset": 565872,
+      "user": "Ben VdA",
+      "uid": 9796,
+      "tags": {
+        "created_by": "Potlatch 0.10",
+        "name": "House By The Pond",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 317050266,
+      "lat": 13.7462462,
+      "lon": 100.6085348,
+      "timestamp": "2018-07-14T11:37:54Z",
+      "version": 4,
+      "changeset": 60710246,
+      "user": "merylstreet",
+      "uid": 1159672,
+      "tags": {
+        "ele": "2",
+        "name": "Patra Place",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 317957633,
+      "lat": 13.7571598,
+      "lon": 100.5218859,
+      "timestamp": "2024-09-07T10:00:15Z",
+      "version": 6,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Petchburi Soi 1",
+        "comment": "usually 850B a night including wifi and breakfast",
+        "name": "Bangkok City Suite",
+        "tourism": "hotel",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476307466,
+      "lat": 13.7176464,
+      "lon": 100.5254721,
+      "timestamp": "2009-09-02T06:53:38Z",
+      "version": 2,
+      "changeset": 2345101,
+      "user": "billce",
+      "uid": 163447,
+      "tags": {
+        "name": "Heritage Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 481996223,
+      "lat": 13.7070248,
+      "lon": 100.5358115,
+      "timestamp": "2024-09-07T10:00:15Z",
+      "version": 4,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:country": "TH",
+        "addr:housenumber": "1633/2",
+        "addr:postcode": "10120",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Chan Soi 2, Chan Rd",
+        "name": "Forum Park Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 620881045,
+      "lat": 7.0061706,
+      "lon": 100.4711697,
+      "timestamp": "2016-03-30T02:05:18Z",
+      "version": 5,
+      "changeset": 38156304,
+      "user": "Pathumthani",
+      "uid": 2302962,
+      "tags": {
+        "name": "Regency",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 621287381,
+      "lat": 13.7263613,
+      "lon": 100.5373806,
+      "timestamp": "2010-01-27T16:51:10Z",
+      "version": 1,
+      "changeset": 3729574,
+      "user": "aeclark",
+      "uid": 224280,
+      "tags": {
+        "name": "Baan Sala Daeng",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 623398131,
+      "lat": 5.6136582,
+      "lon": 100.483426,
+      "timestamp": "2010-02-07T13:01:22Z",
+      "version": 2,
+      "changeset": 3813871,
+      "user": "alihms",
+      "uid": 196549,
+      "tags": {
+        "name": "Emerald Puteri Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 677534965,
+      "lat": 13.7591917,
+      "lon": 100.4964315,
+      "timestamp": "2021-11-21T06:52:07Z",
+      "version": 10,
+      "changeset": 114045359,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "name": "D&D Inn",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 776037975,
+      "lat": 13.7383661,
+      "lon": 100.5561563,
+      "timestamp": "2015-05-01T12:37:10Z",
+      "version": 4,
+      "changeset": 30690534,
+      "user": "gezginrocker",
+      "uid": 1686268,
+      "tags": {
+        "name": "Stable Lodge",
+        "name:en": "Stable Lodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 776037977,
+      "lat": 13.7410823,
+      "lon": 100.5530873,
+      "timestamp": "2024-02-12T12:05:29Z",
+      "version": 8,
+      "changeset": 147364138,
+      "user": "Bolt026",
+      "uid": 13300009,
+      "tags": {
+        "addr:housenumber": "5/5",
+        "addr:postcode": "10110",
+        "addr:street": "Soi Sukhumvit 4",
+        "name": "Dynasty Inn Bangkok Hotel",
+        "name:it": "Dynasty Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 776746014,
+      "lat": 13.7374075,
+      "lon": 100.5557504,
+      "timestamp": "2015-05-01T12:17:34Z",
+      "version": 2,
+      "changeset": 30689734,
+      "user": "gezginrocker",
+      "uid": 1686268,
+      "tags": {
+        "name": "PS Guesthouse",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 776746274,
+      "lat": 13.7601131,
+      "lon": 100.5027895,
+      "timestamp": "2024-09-07T10:00:15Z",
+      "version": 6,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housenumber": "1 6",
+        "addr:postcode": "10200",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Prachathipatai Rd, Khwaeng Ban Phan Thom, Khet Phra Nakhon, Bangkok 10200, Thaïlande",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "The Family",
+        "phone": "+66958960395",
+        "tourism": "hotel",
+        "website": "https://www.facebook.com/thefamilybkk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 933234282,
+      "lat": 13.7684973,
+      "lon": 100.6324202,
+      "timestamp": "2010-12-01T06:19:03Z",
+      "version": 2,
+      "changeset": 6500499,
+      "user": "dg7feq",
+      "uid": 16916,
+      "tags": {
+        "name": "Vaboir Lodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 942310690,
+      "lat": 13.8913703,
+      "lon": 100.5612895,
+      "timestamp": "2024-09-07T10:07:03Z",
+      "version": 5,
+      "changeset": 156306430,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:district": "หลักสี่",
+        "addr:housenumber": "54/7",
+        "addr:postcode": "10210",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:subdistrict": "ทุ่งสองห้อง",
+        "name": "โรงแรม ทีเค.พาเลซ",
+        "name:en": "TK. Palace Hotel",
+        "name:th": "โรงแรม ทีเค.พาเลซ",
+        "phone": "+66 2 5741588",
+        "source": "GPS; sign",
+        "tourism": "hotel",
+        "url": "http://www.tkpalace.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 951517623,
+      "lat": 13.7554701,
+      "lon": 100.5368263,
+      "timestamp": "2025-02-19T18:24:07Z",
+      "version": 3,
+      "changeset": 162712657,
+      "user": "AndyBay",
+      "uid": 8067713,
+      "tags": {
+        "brand": "Best Western",
+        "brand:wikidata": "Q830334",
+        "name": "Best Western Mayfair Suites",
+        "note": "Locn to be verified.",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 985068048,
+      "lat": 7.2529816,
+      "lon": 100.5489923,
+      "timestamp": "2015-01-17T12:08:41Z",
+      "version": 4,
+      "changeset": 28206227,
+      "user": "Pathumthani",
+      "uid": 2302962,
+      "tags": {
+        "addr:city": "Tambol Ching Ko, Amphoe Singhanakhon",
+        "addr:housenumber": "163/1",
+        "addr:postcode": "90110",
+        "description": "Rooms from 900B. 24-FEB-09",
+        "name": "Haad Kaew Beach Resort",
+        "phone": "07433105866",
+        "source": "GPS survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 985068061,
+      "lat": 7.2025933,
+      "lon": 100.5904564,
+      "timestamp": "2015-01-25T16:10:37Z",
+      "version": 2,
+      "changeset": 28399115,
+      "user": "Bernhard Hiller",
+      "uid": 326704,
+      "tags": {
+        "description": "Double with bath, Thai-TV and AC 8 Euro Parking inside the hotel rooms are good, friendly staff",
+        "name": "Sook Somboon 2 Hotel",
+        "source": "GPS survey",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1142880102,
+      "lat": 13.7212127,
+      "lon": 100.5154612,
+      "timestamp": "2023-10-29T20:31:53Z",
+      "version": 2,
+      "changeset": 143330576,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "name": "Bossotel Inn",
+        "tourism": "hotel",
+        "website": "https://www.bossotelinn.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1196935417,
+      "lat": 13.7150996,
+      "lon": 100.5146901,
+      "timestamp": "2026-05-06T19:00:38Z",
+      "version": 10,
+      "changeset": 182309335,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "alt_name": "7-11",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "name": "7-Eleven",
+        "name:en": "7-Eleven",
+        "name:th": "The house of Phraya Jasaen",
+        "operator": "Seven & I Holdings",
+        "shop": "convenience",
+        "tourism": "hotel",
+        "website": "https://www.7eleven.co.th/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1413490249,
+      "lat": 13.7533377,
+      "lon": 100.6224604,
+      "timestamp": "2011-10-09T06:05:28Z",
+      "version": 2,
+      "changeset": 9508737,
+      "user": "thep",
+      "uid": 287183,
+      "tags": {
+        "name": "Bangkok Inter Place Hotel",
+        "name:th": "โรงแรมบางกอกอินเตอร์เพลส",
+        "source": "bing; sign",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1534921847,
+      "lat": 13.8481932,
+      "lon": 100.582884,
+      "timestamp": "2014-11-15T11:13:52Z",
+      "version": 3,
+      "changeset": 26796173,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "addr:street": "Phaholyothin 44",
+        "name": "บ้านเฉลียงอพาทร์เมนต์",
+        "name:en": "Balcony Home",
+        "name:th": "บ้านเฉลียงอพาทร์เมนต์",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1558729777,
+      "lat": 6.9869837,
+      "lon": 100.4721756,
+      "timestamp": "2011-12-23T00:49:01Z",
+      "version": 1,
+      "changeset": 10184184,
+      "user": "iPudding",
+      "uid": 395923,
+      "tags": {
+        "name": "คอนโดหาดใหญ่",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1595862284,
+      "lat": 4.2531241,
+      "lon": 100.5467593,
+      "timestamp": "2023-05-26T10:36:00Z",
+      "version": 4,
+      "changeset": 136580992,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "brand": "Pangkor Island Beach Resort",
+        "name": "Pangkor Island Beach Resort",
+        "name:en": "Pangkor Island Beach Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1632794902,
+      "lat": 13.764882,
+      "lon": 100.5027294,
+      "timestamp": "2015-08-19T20:52:26Z",
+      "version": 3,
+      "changeset": 33449979,
+      "user": "QWE1234",
+      "uid": 3045274,
+      "tags": {
+        "name": "Swana Bangkok",
+        "tourism": "hotel",
+        "website": "http://www.swanabangkok.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1672022143,
+      "lat": 7.0005273,
+      "lon": 100.4732868,
+      "timestamp": "2012-03-12T14:13:39Z",
+      "version": 1,
+      "changeset": 10955251,
+      "user": "makissy",
+      "uid": 397712,
+      "tags": {
+        "name": "Sing Golden Place Hotel",
+        "name:en": "Sing Golden Place Hotel",
+        "name:th": "โรงแรมสิงห์โกลเด้นเพลส",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1672022145,
+      "lat": 7.0004854,
+      "lon": 100.4742073,
+      "timestamp": "2015-04-25T16:07:48Z",
+      "version": 2,
+      "changeset": 30477604,
+      "user": "RocketMan",
+      "uid": 381887,
+      "tags": {
+        "name": "โรงแรมแอมบาสเดอร์",
+        "name:th": "โรงแรมแอมบาสเดอร์",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1711215674,
+      "lat": 13.8299422,
+      "lon": 100.5638276,
+      "timestamp": "2023-10-28T20:35:48Z",
+      "version": 3,
+      "changeset": 143282629,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "name": "Northgate Ratchayothin",
+        "phone": "+66 2 9397949",
+        "tourism": "hotel",
+        "website": "https://www.northgatebangkok.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720469683,
+      "lat": 13.7328957,
+      "lon": 100.5628539,
+      "timestamp": "2024-04-24T15:04:38Z",
+      "version": 5,
+      "changeset": 150452253,
+      "user": "SColchester",
+      "uid": 2708355,
+      "tags": {
+        "brand": "Park Plaza",
+        "brand:wikidata": "Q2052550",
+        "check_date": "2024-04-24",
+        "name": "Park Plaza Hotels",
+        "name:th": "โรงแรมพาร์ค พลาซ่า",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720469685,
+      "lat": 13.7329973,
+      "lon": 100.5626018,
+      "timestamp": "2012-04-17T12:20:44Z",
+      "version": 1,
+      "changeset": 11332049,
+      "user": "Macav",
+      "uid": 661611,
+      "tags": {
+        "name": "Oakwood Apartments Trilliant",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1725736667,
+      "lat": 13.7456331,
+      "lon": 100.519515,
+      "timestamp": "2012-04-21T19:12:12Z",
+      "version": 1,
+      "changeset": 11377135,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "name": "Twin Towers Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1787922322,
+      "lat": 5.4123233,
+      "lon": 100.3348405,
+      "timestamp": "2020-06-20T07:35:04Z",
+      "version": 3,
+      "changeset": 86902825,
+      "user": "Ptrho81",
+      "uid": 10674755,
+      "tags": {
+        "name": "Page 63 hostel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1801787030,
+      "lat": 13.7425054,
+      "lon": 100.5541598,
+      "timestamp": "2012-06-25T15:28:56Z",
+      "version": 1,
+      "changeset": 12012796,
+      "user": "Silverstone",
+      "uid": 710972,
+      "tags": {
+        "name": "Fortuna",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1868784630,
+      "lat": 13.7199971,
+      "lon": 100.5150385,
+      "timestamp": "2018-05-24T09:36:23Z",
+      "version": 7,
+      "changeset": 59236046,
+      "user": "khemtittravel",
+      "uid": 8314782,
+      "tags": {
+        "name": "Center Point Silom",
+        "note": "On top of Robinson Shopping Mall",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1887121773,
+      "lat": 13.7448277,
+      "lon": 100.4912739,
+      "timestamp": "2024-04-12T11:36:19Z",
+      "version": 3,
+      "changeset": 149906318,
+      "user": "Bolt026",
+      "uid": 13300009,
+      "tags": {
+        "addr:postcode": "10200",
+        "name": "Arun Residence",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925003141,
+      "lat": 4.2598366,
+      "lon": 100.5960776,
+      "timestamp": "2024-06-07T03:04:47Z",
+      "version": 6,
+      "changeset": 152355461,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:city": "Lumut",
+        "addr:postcode": "32200",
+        "name": "SGI Villas Club",
+        "name:en": "SGI Villas Club",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1952131179,
+      "lat": 13.8743003,
+      "lon": 100.5819752,
+      "timestamp": "2012-10-08T06:11:39Z",
+      "version": 1,
+      "changeset": 13407863,
+      "user": "Arther W",
+      "uid": 957619,
+      "tags": {
+        "name": "Louis Tavern",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1955998701,
+      "lat": 13.8752617,
+      "lon": 100.5798561,
+      "timestamp": "2013-12-21T05:36:28Z",
+      "version": 2,
+      "changeset": 19561374,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "name": "Ebina House Service Apartment",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2027316841,
+      "lat": 13.6846016,
+      "lon": 100.6132914,
+      "timestamp": "2012-11-23T03:17:53Z",
+      "version": 1,
+      "changeset": 13993992,
+      "user": "mnu",
+      "uid": 264199,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Golden Pearl Bangkok",
+        "phone": "+66 2 393 2122",
+        "tourism": "hotel",
+        "website": "http://www.goldenpearlbangkok.com",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2084099084,
+      "lat": 13.738186,
+      "lon": 100.5606839,
+      "timestamp": "2024-03-23T14:40:03Z",
+      "version": 13,
+      "changeset": 149053862,
+      "user": "Dmitry Kolpakov",
+      "uid": 3795875,
+      "tags": {
+        "name": "Grande Centre Point Terminal 21",
+        "name:en": "Terminal 21 Hotel",
+        "name:es": "Hotel Gran center Point - Terminal 21",
+        "name:ja": "그랜드 센터 포인트 호텔 - 터미널21",
+        "name:ko": "터미널 21",
+        "name:zh": "航站21 飯店",
+        "tourism": "hotel",
+        "website": "https://www.terminal21.co.th/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2102550438,
+      "lat": 13.7469266,
+      "lon": 100.5698932,
+      "timestamp": "2026-03-29T06:47:39Z",
+      "version": 7,
+      "changeset": 180568420,
+      "user": "Poolert",
+      "uid": 23551998,
+      "tags": {
+        "addr:housenumber": "1880",
+        "addr:postcode": "10310",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "New Petchburi Road",
+        "air_conditioning": "yes",
+        "fax": "+66 (0) 2718 2002",
+        "name": "AVANI Atrium Bangkok",
+        "phone": "+66 (0) 2718 2000-1",
+        "rooms": "568",
+        "smoking": "outside",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2109058415,
+      "lat": 13.7193713,
+      "lon": 100.5669886,
+      "timestamp": "2013-01-13T15:57:16Z",
+      "version": 1,
+      "changeset": 14636223,
+      "user": "Paralee-Vongyimyong",
+      "uid": 1197428,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2122149474,
+      "lat": 13.7178473,
+      "lon": 100.5164637,
+      "timestamp": "2022-10-26T09:38:48Z",
+      "version": 2,
+      "changeset": 128074338,
+      "user": "Sanyapit0485",
+      "uid": 9577465,
+      "tags": {
+        "name": "Oakwood Hotel & Residence Bangkok",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2310928058,
+      "lat": 13.7521872,
+      "lon": 100.5300557,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 6,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:country": "TH",
+        "addr:housenumber": "359/1",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Soi Phayanak, Phetchaburi Rd",
+        "name": "Siam Swana",
+        "name:zh": "暹罗思瓦纳酒店",
+        "note": "Locn to be verified.",
+        "phone": "+662 6110191",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2318670330,
+      "lat": 13.718451,
+      "lon": 100.52671,
+      "timestamp": "2024-03-21T11:26:31Z",
+      "version": 2,
+      "changeset": 148957392,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "name": "Marvin Suites",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2340521136,
+      "lat": 13.7528942,
+      "lon": 100.5396364,
+      "timestamp": "2019-03-30T22:35:42Z",
+      "version": 5,
+      "changeset": 68711314,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "email": "baiyokesuite@baiyoke.co.th",
+        "fax": "+66 2254 5553",
+        "name": "Baiyoke Suite Hotel",
+        "phone": "+66 2255 7755",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://baiyokesuite.baiyokehotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2365836782,
+      "lat": 13.7523283,
+      "lon": 100.5265345,
+      "timestamp": "2013-06-29T15:34:17Z",
+      "version": 2,
+      "changeset": 16753465,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "name": "Diamond City Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2391364879,
+      "lat": 13.757402,
+      "lon": 100.5345009,
+      "timestamp": "2013-07-21T09:13:34Z",
+      "version": 1,
+      "changeset": 17033088,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "name": "Florida Hotel",
+        "stars": "2",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2391364885,
+      "lat": 13.7301766,
+      "lon": 100.5698459,
+      "timestamp": "2024-06-28T09:25:49Z",
+      "version": 5,
+      "changeset": 153283095,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:housenumber": "670",
+        "addr:street": "ถนนสุขุมวิท",
+        "email": "reservation@hotel24innbkk.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "24 Inn",
+        "phone": "+6622586815",
+        "tourism": "hotel",
+        "website": "https://www.hotel24innbkk.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2398833132,
+      "lat": 13.759476,
+      "lon": 100.4964882,
+      "timestamp": "2018-04-08T11:14:27Z",
+      "version": 11,
+      "changeset": 57910448,
+      "user": "Macim",
+      "uid": 4940981,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Dang Derm",
+        "name:en": "Himalayan Kitchen",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2403979144,
+      "lat": 13.7603473,
+      "lon": 100.4983056,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 12,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housenumber": "111/1-3",
+        "addr:postcode": "10200",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Tanee road, Taladyod, Panakorn",
+        "name": "Thai Cozy House",
+        "phone": "+66 2 629 5870",
+        "tourism": "hotel",
+        "website": "https://www.thaicozyhousekhaosan.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2403979148,
+      "lat": 13.760604,
+      "lon": 100.497904,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 11,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housenumber": "95-97",
+        "addr:postcode": "10200",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Tanee Rd",
+        "contact:email": "panee_house@yahoo.co.th",
+        "internet_access": "wlan",
+        "name": "Pannee House",
+        "phone": "66262900956",
+        "tourism": "hotel",
+        "website": "http://www.paneelodge.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2404601548,
+      "lat": 13.7590117,
+      "lon": 100.495526,
+      "timestamp": "2021-11-21T08:21:01Z",
+      "version": 7,
+      "changeset": 114045359,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "name": "Four Sons Place",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2404676300,
+      "lat": 13.759232,
+      "lon": 100.4982556,
+      "timestamp": "2021-11-21T07:49:24Z",
+      "version": 4,
+      "changeset": 114045359,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408313668,
+      "lat": 13.7303949,
+      "lon": 100.5304268,
+      "timestamp": "2023-09-09T16:31:32Z",
+      "version": 2,
+      "changeset": 141031640,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "name": "Rose Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408322605,
+      "lat": 13.7273698,
+      "lon": 100.536621,
+      "timestamp": "2023-11-17T07:54:30Z",
+      "version": 3,
+      "changeset": 144126572,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "name": "ดิ อินน์ ศาลาแดง",
+        "name:en": "The Inn Saladaeng",
+        "name:th": "ดิ อินน์ ศาลาแดง",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2408323306,
+      "lat": 13.725904,
+      "lon": 100.5342365,
+      "timestamp": "2013-08-05T22:30:55Z",
+      "version": 1,
+      "changeset": 17234149,
+      "user": "gezginrocker",
+      "uid": 1686268,
+      "tags": {
+        "name": "The Swiss Lodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2409389659,
+      "lat": 13.7261382,
+      "lon": 100.5181001,
+      "timestamp": "2013-08-07T02:33:11Z",
+      "version": 1,
+      "changeset": 17248880,
+      "user": "gezginrocker",
+      "uid": 1686268,
+      "tags": {
+        "name": "Manohra",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2409440024,
+      "lat": 13.7283342,
+      "lon": 100.5143938,
+      "timestamp": "2013-08-07T04:37:48Z",
+      "version": 1,
+      "changeset": 17248880,
+      "user": "gezginrocker",
+      "uid": 1686268,
+      "tags": {
+        "name": "P&R Residence",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2415520587,
+      "lat": 7.0116277,
+      "lon": 100.4582214,
+      "timestamp": "2013-08-12T03:03:48Z",
+      "version": 1,
+      "changeset": 17311781,
+      "user": "Mishari",
+      "uid": 686216,
+      "tags": {
+        "name": "PB Grand Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2422426052,
+      "lat": 13.7537007,
+      "lon": 100.4864322,
+      "timestamp": "2015-05-03T08:22:30Z",
+      "version": 2,
+      "changeset": 30740693,
+      "user": "gezginrocker",
+      "uid": 1686268,
+      "tags": {
+        "name": "Ibrik Resort by the River",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2428628559,
+      "lat": 13.759444,
+      "lon": 100.4986726,
+      "timestamp": "2021-11-21T07:41:16Z",
+      "version": 3,
+      "changeset": 114045359,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "name": "Pannee Guesthouse",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2428799936,
+      "lat": 13.7644516,
+      "lon": 100.4994273,
+      "timestamp": "2025-02-14T17:01:00Z",
+      "version": 8,
+      "changeset": 162510853,
+      "user": "looniverse",
+      "uid": 329294,
+      "tags": {
+        "addr:street": "113,117 Samsen road , phranakorn district Bangkok 10200",
+        "air_conditioning": "yes",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Tara Place",
+        "name:en": "Tara place",
+        "phone": "+66 2 627 1001",
+        "smoking": "isolated",
+        "swimming_pool": "no",
+        "tourism": "hotel",
+        "website": "https://www.taraplacebangkok.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2432999105,
+      "lat": 13.760228,
+      "lon": 100.4967364,
+      "timestamp": "2013-08-26T22:52:05Z",
+      "version": 1,
+      "changeset": 17527025,
+      "user": "gezginrocker",
+      "uid": 1686268,
+      "tags": {
+        "name": "Ben's House",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2484887626,
+      "lat": 13.7519311,
+      "lon": 100.537043,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 10,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housename": "Pakdee bed and breakfast",
+        "addr:postcode": "10400",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Phetchaburi 15",
+        "contact:facebook": "https://www.facebook.com/Pakdee-Bed-and-Breakfast-623965297624026/",
+        "facebook": "https://www.facebook.com/Pakdee-Bed-and-Breakfast-623965297624026/",
+        "name": "พักดี ประตูน้ำ เบดแอนด์เบรคฟาสต์",
+        "name:en": "Pakdee Bed and Breakfast",
+        "name:th": "พักดี ประตูน้ำ เบดแอนด์เบรคฟาสต์",
+        "phone": "+6626537611",
+        "tourism": "hotel",
+        "website": "http://www.pak-d.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2485971307,
+      "lat": 6.9916802,
+      "lon": 100.4852126,
+      "timestamp": "2025-12-06T12:00:26Z",
+      "version": 3,
+      "changeset": 175582625,
+      "user": "Kathyaus",
+      "uid": 1225312,
+      "tags": {
+        "building": "yes",
+        "contact:phone": "+66 74 298788",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Crystal Hotel",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.crystalhotelhatyai.com/index.php"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527522642,
+      "lat": 13.7396719,
+      "lon": 100.5558383,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 3,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housename": "Royal Express",
+        "addr:housenumber": "4/3",
+        "addr:postcode": "10110",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Sukhumvit Soi 8",
+        "name": "Royal Express",
+        "tourism": "hotel",
+        "website": "http://www.royalexpressinn.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527523786,
+      "lat": 13.7399988,
+      "lon": 100.5558556,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 3,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housename": "on8 Sukhumvit",
+        "addr:housenumber": "162",
+        "addr:postcode": "10110",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "ถนนสุขุมวิท",
+        "name": "On8 Sukhumvit",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2556677192,
+      "lat": 13.7295574,
+      "lon": 100.5719924,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 6,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:postcode": "10110",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Sukhumvit 41",
+        "brand": "iCheck Inn",
+        "internet_access": "wlan",
+        "name": "iCheck Inn Regency Sukhumvit",
+        "operator": "Aspira",
+        "rooms": "65",
+        "smoking": "outside",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2556677371,
+      "lat": 13.7295136,
+      "lon": 100.5724061,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 3,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:postcode": "10110",
+        "addr:province": "กรุงเทพมหานคร",
+        "name": "41 Suite Bangkok Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610750909,
+      "lat": 6.1225027,
+      "lon": 100.3670476,
+      "timestamp": "2025-12-31T01:12:31Z",
+      "version": 6,
+      "changeset": 176653694,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "Samila",
+        "name:en": "Samila",
+        "name:ms": "Samila",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2614630601,
+      "lat": 13.7239803,
+      "lon": 100.5220597,
+      "timestamp": "2014-01-08T11:48:18Z",
+      "version": 1,
+      "changeset": 19880814,
+      "user": "Virralata",
+      "uid": 1873478,
+      "tags": {
+        "name": "Furama Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2618434584,
+      "lat": 4.9936068,
+      "lon": 100.6598759,
+      "timestamp": "2014-01-11T11:50:57Z",
+      "version": 1,
+      "changeset": 19933201,
+      "user": "Bernhard Hiller",
+      "uid": 326704,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2620020999,
+      "lat": 5.0146797,
+      "lon": 100.5304171,
+      "timestamp": "2024-03-30T03:25:22Z",
+      "version": 2,
+      "changeset": 149336757,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "Kelisa",
+        "name:en": "Kelisa",
+        "name:ms": "Kelisa",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2623161451,
+      "lat": 7.009937,
+      "lon": 100.479391,
+      "timestamp": "2014-01-15T08:37:40Z",
+      "version": 1,
+      "changeset": 20009097,
+      "user": "larkly",
+      "uid": 295528,
+      "tags": {
+        "addr:city": "Hat Yai, Songkhla",
+        "addr:housenumber": "263",
+        "addr:postcode": "90110",
+        "addr:street": "ถนนสามชัย",
+        "name": "Hatyai Genting Hotel",
+        "phone": "+66742396514",
+        "source": "survey",
+        "tourism": "hotel",
+        "website": "http://www.hatyaigenting.com/en/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2664103703,
+      "lat": 13.8904808,
+      "lon": 100.5616559,
+      "timestamp": "2014-09-17T18:00:34Z",
+      "version": 3,
+      "changeset": 25506079,
+      "user": "RocketMan",
+      "uid": 381887,
+      "tags": {
+        "email": "delightresidence@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Delight Residence",
+        "name:en": "Delight Residence",
+        "name:th": "ดีไลท์ เรสซิเดนช์",
+        "phone": "+66 86 2281515",
+        "tourism": "hotel",
+        "website": "http://www.delightresidence.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2682789876,
+      "lat": 4.2067592,
+      "lon": 100.6327947,
+      "timestamp": "2026-02-17T10:31:58Z",
+      "version": 4,
+      "changeset": 178671566,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:city": "Lumut",
+        "addr:housenumber": "No. 1 & 2",
+        "addr:postcode": "32200",
+        "addr:street": "Jalan Permai Jaya",
+        "name": "GM Holiday Permai Jaya",
+        "name:en": "GM Holiday Permai Jaya",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2692392034,
+      "lat": 13.7192705,
+      "lon": 100.5175578,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 3,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housenumber": "28/5",
+        "addr:postcode": "10500",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Charoen Wien Road",
+        "name": "Pas Cher Hotel",
+        "phone": "+6626306401",
+        "tourism": "hotel",
+        "website": "https://www.pascherhoteldebangkok.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2730882939,
+      "lat": 6.1235567,
+      "lon": 100.3621632,
+      "timestamp": "2018-09-19T10:35:58Z",
+      "version": 3,
+      "changeset": 62725067,
+      "user": "AkuAnakTimur",
+      "uid": 1407839,
+      "tags": {
+        "name": "CB Motel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2753744885,
+      "lat": 13.7397107,
+      "lon": 100.5112057,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 5,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housenumber": "479-481",
+        "addr:postcode": "10100",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Yaowaraj Road",
+        "brand": "Burasari Hotels",
+        "internet_access": "wlan",
+        "name": "Shanghai Mansion Bangkok",
+        "operator": "Burasari Hotels",
+        "smoking": "outside",
+        "tourism": "hotel",
+        "website": "https://www.shanghaimansion.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2764876207,
+      "lat": 5.2766155,
+      "lon": 100.4656089,
+      "timestamp": "2014-04-15T12:52:03Z",
+      "version": 3,
+      "changeset": 21709112,
+      "user": "Cronostvg",
+      "uid": 1926598,
+      "tags": {
+        "name": "Hotel Tambun Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2764876215,
+      "lat": 5.2782317,
+      "lon": 100.4653038,
+      "timestamp": "2021-06-09T13:12:10Z",
+      "version": 3,
+      "changeset": 106097852,
+      "user": "angys",
+      "uid": 3191182,
+      "tags": {
+        "name": "A1 Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2768111339,
+      "lat": 13.7544598,
+      "lon": 100.5393412,
+      "timestamp": "2024-09-27T11:11:40Z",
+      "version": 3,
+      "changeset": 157165710,
+      "user": "Bolt026",
+      "uid": 13300009,
+      "tags": {
+        "addr:housenumber": "88/19",
+        "addr:postcode": "10400",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Ratchaprapop 3",
+        "alt_name": "Citin Pratunam Hotel Bangkok by Compass Hospitality",
+        "name": "Citin Pratunam",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2833193025,
+      "lat": 5.7689299,
+      "lon": 100.5105288,
+      "timestamp": "2024-07-04T14:17:29Z",
+      "version": 2,
+      "changeset": 153550413,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "Harvard Suasana Hotel",
+        "name:en": "Harvard Suasana Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2906585921,
+      "lat": 5.4157892,
+      "lon": 100.3367391,
+      "timestamp": "2026-05-05T01:18:03Z",
+      "version": 4,
+      "changeset": 182227930,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "George Town",
+        "addr:housenumber": "92",
+        "addr:postcode": "10200",
+        "addr:street": "Lebuh Armenian",
+        "name": "Straits Heritage",
+        "phone": "+604-2638128",
+        "tourism": "hotel",
+        "website": "https://www.straitsheritage.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2972694737,
+      "lat": 13.7374802,
+      "lon": 100.5093733,
+      "timestamp": "2024-09-07T10:00:16Z",
+      "version": 2,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housenumber": "550",
+        "addr:postcode": "10100",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Vanich 1",
+        "name": "Shadowinn Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2994444617,
+      "lat": 13.7095294,
+      "lon": 100.5421593,
+      "timestamp": "2014-08-03T17:23:24Z",
+      "version": 1,
+      "changeset": 24520460,
+      "user": "imagoiq",
+      "uid": 1856092,
+      "tags": {
+        "addr:housenumber": "88/2",
+        "addr:street": "Nang Lychee Rd.",
+        "name": "Rio Residence",
+        "phone": "+66 (0) 2 287 0041-9",
+        "tourism": "hotel",
+        "website": "http://rioresidencebangkok.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3040261537,
+      "lat": 13.6656977,
+      "lon": 100.4305616,
+      "timestamp": "2014-08-25T01:59:05Z",
+      "version": 1,
+      "changeset": 24993306,
+      "user": "medecember",
+      "uid": 328321,
+      "tags": {
+        "name": "ริเวอร์ไทร รีสอร์ท",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3083236050,
+      "lat": 13.7291218,
+      "lon": 100.5302892,
+      "timestamp": "2023-06-30T05:24:36Z",
+      "version": 3,
+      "changeset": 137941589,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "name": "Tarntawan Place",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3096836184,
+      "lat": 13.7402766,
+      "lon": 100.5104172,
+      "timestamp": "2016-10-23T08:55:38Z",
+      "version": 3,
+      "changeset": 43095443,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "name": "โรงแรม บรอดเวย์",
+        "name:en": "Road Way Hotel",
+        "name:th": "โรงแรม บรอดเวย์",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3096836188,
+      "lat": 13.7380641,
+      "lon": 100.5171257,
+      "timestamp": "2019-11-14T13:07:20Z",
+      "version": 3,
+      "changeset": 77074475,
+      "user": "shiftee",
+      "uid": 5589928,
+      "tags": {
+        "name": "Station Hotel",
+        "source": "survey",
+        "source:date": "2016-07-29",
+        "stars": "0",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3096873601,
+      "lat": 13.747312,
+      "lon": 100.503485,
+      "timestamp": "2014-09-26T08:25:20Z",
+      "version": 1,
+      "changeset": 25680544,
+      "user": "Globe-trotter",
+      "uid": 391953,
+      "tags": {
+        "name": "Miramar Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3133292409,
+      "lat": 13.7562403,
+      "lon": 100.5006133,
+      "timestamp": "2014-10-16T13:01:36Z",
+      "version": 1,
+      "changeset": 26117336,
+      "user": "schneibva",
+      "uid": 70145,
+      "tags": {
+        "name": "Baan Noppawong",
+        "phone": "+66 2 224 1047",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3146871952,
+      "lat": 13.7218471,
+      "lon": 100.5170661,
+      "timestamp": "2023-10-29T20:30:32Z",
+      "version": 7,
+      "changeset": 143330520,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "ele": "51",
+        "name": "Tower Club at lebua",
+        "phone": "+6626249555",
+        "tourism": "hotel",
+        "website": "https://www.lebua.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3205935776,
+      "lat": 5.3632742,
+      "lon": 100.4392548,
+      "timestamp": "2014-11-26T10:57:44Z",
+      "version": 1,
+      "changeset": 27041883,
+      "user": "RM1ONE",
+      "uid": 2068921,
+      "tags": {
+        "addr:city": "Bukit Mertajam",
+        "addr:street": "Lorong Nangka",
+        "name": "Hotel Citiria",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3240492184,
+      "lat": 7.0008455,
+      "lon": 100.4713821,
+      "timestamp": "2014-12-18T01:14:08Z",
+      "version": 1,
+      "changeset": 27542492,
+      "user": "ongwailoon",
+      "uid": 2526506,
+      "tags": {
+        "addr:city": "Hat Yai",
+        "addr:housenumber": "186",
+        "addr:postcode": "90110",
+        "addr:street": "Niphauthit 3 Rd.",
+        "name": "Sakura Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3248852701,
+      "lat": 6.9738059,
+      "lon": 100.4290495,
+      "timestamp": "2014-12-26T06:12:40Z",
+      "version": 6,
+      "changeset": 27701949,
+      "user": "Pathumthani",
+      "uid": 2302962,
+      "tags": {
+        "name": "New Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3282374061,
+      "lat": 6.4346574,
+      "lon": 100.4373058,
+      "timestamp": "2015-01-11T16:07:35Z",
+      "version": 1,
+      "changeset": 28065738,
+      "user": "Bernhard Hiller",
+      "uid": 326704,
+      "tags": {
+        "name": "Changlun Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3282374262,
+      "lat": 6.2374049,
+      "lon": 100.4232703,
+      "timestamp": "2015-01-11T16:07:36Z",
+      "version": 1,
+      "changeset": 28065738,
+      "user": "Bernhard Hiller",
+      "uid": 326704,
+      "tags": {
+        "name": "Hotel Darulaman",
+        "tourism": "hotel"
+      }
+    }
+  ]
+}

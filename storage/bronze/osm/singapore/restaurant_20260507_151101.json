@@ -1,0 +1,1917 @@
+{
+  "city": "singapore",
+  "category": "restaurant",
+  "timestamp": "20260507_151101",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 380582666,
+      "lat": 1.3594895,
+      "lon": 103.8854848,
+      "timestamp": "2023-10-17T17:27:33Z",
+      "version": 7,
+      "changeset": 142722863,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "205",
+        "addr:postcode": "530205",
+        "addr:street": "Hougang Street 21",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "level": "1",
+        "name": "Suki-ya",
+        "source": "http://suki-ya.com.sg/outlet-info/",
+        "website": "https://www.suki-ya.com.sg/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 462263947,
+      "lat": 1.3051479,
+      "lon": 103.9306772,
+      "timestamp": "2025-12-13T14:30:31Z",
+      "version": 9,
+      "changeset": 175885656,
+      "user": "user_10539745",
+      "uid": 10539745,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housename": "East Coast Seafood Centre",
+        "addr:housenumber": "1206",
+        "addr:postcode": "449883",
+        "addr:street": "East Coast Parkway",
+        "addr:unit": "#01-07/08",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "branch": "East Coast",
+        "brand": "Jumbo Seafood",
+        "brewery": "Tiger",
+        "check_date": "2025-05-19",
+        "cuisine": "seafood;chinese",
+        "diet:halal": "no",
+        "name": "Jumbo Seafood",
+        "name:zh": "珍宝海鲜楼",
+        "opening_hours": "Mo-Fr 17:00-23:45; Sa,Su,Ph 11:30-24:00",
+        "outdoor_seating": "terrace",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+6564423435",
+        "reservation": "yes",
+        "toilets": "yes",
+        "website": "http://www.jumboseafood.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q135451407",
+        "wikimedia_commons": "File:Jumbo_Seafood.JPG",
+        "wikipedia": "en:Jumbo Seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 462264013,
+      "lat": 1.2892592,
+      "lon": 103.8482726,
+      "timestamp": "2025-07-22T20:19:09Z",
+      "version": 7,
+      "changeset": 169312528,
+      "user": "DerFussi",
+      "uid": 37252,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "20",
+        "addr:postcode": "058416",
+        "addr:street": "Upper Circular Road",
+        "amenity": "restaurant",
+        "check_date": "2025-05-12",
+        "cuisine": "seafood",
+        "level": "0",
+        "name": "Jumbo Seafood",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+65 65343435",
+        "website": "http://www.jumboseafood.com.sg/",
+        "wheelchair": "yes",
+        "wikidata": "Q135440849"
+      }
+    },
+    {
+      "type": "node",
+      "id": 512070755,
+      "lat": 1.2899587,
+      "lon": 103.8458766,
+      "timestamp": "2023-05-05T04:29:26Z",
+      "version": 12,
+      "changeset": 135723751,
+      "user": "Map3787",
+      "uid": 10373200,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Hooters",
+        "brand:wikidata": "Q1025921",
+        "cuisine": "burger",
+        "name": "Hooters",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 512079198,
+      "lat": 1.3019771,
+      "lon": 103.8401899,
+      "timestamp": "2025-11-12T13:05:51Z",
+      "version": 2,
+      "changeset": 174558901,
+      "user": "kenken234",
+      "uid": 17241816,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 512079199,
+      "lat": 1.3021504,
+      "lon": 103.8402596,
+      "timestamp": "2025-11-12T13:05:51Z",
+      "version": 2,
+      "changeset": 174558901,
+      "user": "kenken234",
+      "uid": 17241816,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 512079200,
+      "lat": 1.3022845,
+      "lon": 103.8403056,
+      "timestamp": "2025-11-12T13:05:51Z",
+      "version": 2,
+      "changeset": 174558901,
+      "user": "kenken234",
+      "uid": 17241816,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 512079201,
+      "lat": 1.3024554,
+      "lon": 103.8403593,
+      "timestamp": "2025-11-12T13:05:51Z",
+      "version": 3,
+      "changeset": 174558901,
+      "user": "kenken234",
+      "uid": 17241816,
+      "tags": {
+        "amenity": "restaurant",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 512086910,
+      "lat": 1.2999047,
+      "lon": 103.8499576,
+      "timestamp": "2025-05-30T04:52:48Z",
+      "version": 4,
+      "changeset": 166951658,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Red ahous"
+      }
+    },
+    {
+      "type": "node",
+      "id": 518302541,
+      "lat": 1.3058557,
+      "lon": 103.8105878,
+      "timestamp": "2025-11-26T04:09:32Z",
+      "version": 5,
+      "changeset": 175136549,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "18A",
+        "addr:postcode": "249677",
+        "addr:street": "Dempsey Road",
+        "amenity": "restaurant",
+        "name": "Como Cuisine",
+        "phone": "+65 1800 304 6688",
+        "website": "http://comodempsey.sg/restaurant/como-cuisine",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 518302572,
+      "lat": 1.3043031,
+      "lon": 103.8099818,
+      "timestamp": "2025-11-26T04:09:32Z",
+      "version": 7,
+      "changeset": 175136549,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "11",
+        "addr:postcode": "249673",
+        "addr:street": "Dempsey Road",
+        "addr:unit": "#01-16",
+        "amenity": "restaurant",
+        "fax": "+65 6476 6329",
+        "name": "Jumbo Seafood @ Dempsey",
+        "name:en": "Jumbo Seafood @ Dempsey",
+        "opening_hours": "12:00-15:00, 17:30-23:30",
+        "phone": "+65 6479 3435",
+        "source": "Kaart Ground Survey 2017",
+        "website": "https://www.jumboseafood.com.sg/en/dempsey-hill",
+        "wikidata": "Q135741964"
+      }
+    },
+    {
+      "type": "node",
+      "id": 518302603,
+      "lat": 1.3039505,
+      "lon": 103.8102061,
+      "timestamp": "2019-03-29T16:29:44Z",
+      "version": 5,
+      "changeset": 68671017,
+      "user": "JaLooooNz",
+      "uid": 741163,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "11",
+        "addr:postcode": "249673",
+        "addr:street": "Dempsey Road",
+        "addr:unit": "#01-09",
+        "amenity": "restaurant",
+        "email": "margaritas.dempsey@gmail.com",
+        "name": "Margarita's",
+        "opening_hours": "11:30-23:00",
+        "phone": "+65 6471 3228",
+        "source": "Kaart Ground Survey 2017",
+        "website": "https://www.margaritasrestaurante.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 518303095,
+      "lat": 1.3108481,
+      "lon": 103.8352923,
+      "timestamp": "2009-10-03T06:18:31Z",
+      "version": 1,
+      "changeset": 2719368,
+      "user": "oeoeoe",
+      "uid": 178837,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pearl of India"
+      }
+    },
+    {
+      "type": "node",
+      "id": 595494442,
+      "lat": 1.2950285,
+      "lon": 103.8526175,
+      "timestamp": "2012-07-26T01:13:37Z",
+      "version": 2,
+      "changeset": 12493774,
+      "user": "JaLooooNz",
+      "uid": 741163,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 602245317,
+      "lat": 1.3149885,
+      "lon": 103.8153732,
+      "timestamp": "2024-10-03T07:38:49Z",
+      "version": 8,
+      "changeset": 157406124,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1",
+        "addr:place": "Singapore Botanic Gardens",
+        "addr:postcode": "259569",
+        "addr:street": "Cluny Road",
+        "amenity": "restaurant",
+        "name": "Roia",
+        "opening_hours": "Th-Su 12:00-15:00, We-Su 18:00-23:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 602549224,
+      "lat": 1.2819879,
+      "lon": 103.8432653,
+      "timestamp": "2017-03-29T04:51:25Z",
+      "version": 9,
+      "changeset": 47248189,
+      "user": "FrankyChing",
+      "uid": 3083009,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "335",
+        "addr:postcode": "050335",
+        "addr:street": "Smith Street #02-127 Chinatown Complex",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Liad Fan Hong Kong Soy Sauce Chicken Rice & Noodle",
+        "name:zh": "了凡香港油雞飯麵",
+        "operator": "Chan Hon Meng",
+        "website": "https://www.facebook.com/pages/了凡香港油鸡饭面/1120609891345277"
+      }
+    },
+    {
+      "type": "node",
+      "id": 602549234,
+      "lat": 1.284959,
+      "lon": 103.8425704,
+      "timestamp": "2023-05-14T12:42:05Z",
+      "version": 4,
+      "changeset": 136083733,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "People's Park Food Centre Blk 32",
+        "name:zh": "珍珠坊熟食中心（32号楼）"
+      }
+    },
+    {
+      "type": "node",
+      "id": 604357301,
+      "lat": 1.311986,
+      "lon": 103.922546,
+      "timestamp": "2010-01-04T13:32:03Z",
+      "version": 1,
+      "changeset": 3537120,
+      "user": "KatongKid",
+      "uid": 210936,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Old Beach Road Prawn Mee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 615151178,
+      "lat": 1.4588211,
+      "lon": 103.8292889,
+      "timestamp": "2014-07-08T13:43:27Z",
+      "version": 3,
+      "changeset": 24025679,
+      "user": "John Money",
+      "uid": 2172961,
+      "tags": {
+        "amenity": "restaurant",
+        "capacity": "100",
+        "cuisine": "american",
+        "name": "Terror Club",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624941334,
+      "lat": 1.0776664,
+      "lon": 103.9300801,
+      "timestamp": "2010-09-24T17:16:59Z",
+      "version": 3,
+      "changeset": 5864713,
+      "user": "Sihabul Milah",
+      "uid": 194337,
+      "tags": {
+        "amenity": "restaurant",
+        "historic": "monument",
+        "name": "Delima Seafood Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 653134902,
+      "lat": 1.3961946,
+      "lon": 103.8728672,
+      "timestamp": "2024-03-25T06:00:02Z",
+      "version": 5,
+      "changeset": 149114528,
+      "user": "Byrrus",
+      "uid": 2014681,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Thasevi Food Jalan Kayu Prata",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 673992555,
+      "lat": 1.3161183,
+      "lon": 103.8054965,
+      "timestamp": "2024-10-12T08:21:25Z",
+      "version": 5,
+      "changeset": 157783945,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "7",
+        "addr:postcode": "280007",
+        "addr:street": "Empress Road",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "cuisine": "chinese;indian;wings;western;coffee_shop;regional;asian;noodle;indonesian;malaysian",
+        "name": "Empress Road Food Centre",
+        "name:ms": "Pusat Makanan Empress Road",
+        "name:zh": "皇后路熟食中心",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 679648814,
+      "lat": 1.2928553,
+      "lon": 103.7685707,
+      "timestamp": "2017-03-14T19:37:46Z",
+      "version": 4,
+      "changeset": 46850923,
+      "user": "burtlang",
+      "uid": 4471944,
+      "tags": {
+        "addr:street": "Clementi Road",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:halal": "yes",
+        "name": "The Cheese Prata Shop",
+        "opening_hours": "24/7",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 687602970,
+      "lat": 1.2945229,
+      "lon": 103.7744754,
+      "timestamp": "2024-02-22T13:09:17Z",
+      "version": 5,
+      "changeset": 147772995,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "alt_name": "NUS Computing Canteen",
+        "amenity": "restaurant",
+        "level:ref": "1",
+        "name": "The Terrace",
+        "noname:zh": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702331551,
+      "lat": 1.08052,
+      "lon": 103.93621,
+      "timestamp": "2023-01-14T12:35:36Z",
+      "version": 3,
+      "changeset": 131263204,
+      "user": "Friendly_Ghost",
+      "uid": 10875409,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pujasera",
+        "source": "Batam Mapping Project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 702355107,
+      "lat": 1.1260264,
+      "lon": 103.9278736,
+      "timestamp": "2023-01-14T12:35:37Z",
+      "version": 4,
+      "changeset": 131263204,
+      "user": "Friendly_Ghost",
+      "uid": 10875409,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Keindahan Suasana",
+        "source": "Batam Mapping Project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 705081078,
+      "lat": 1.11073,
+      "lon": 103.94921,
+      "timestamp": "2023-01-14T12:35:37Z",
+      "version": 3,
+      "changeset": 131263204,
+      "user": "Friendly_Ghost",
+      "uid": 10875409,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Rumah Hitam Restourant",
+        "source": "Batam Mapping Project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 705081085,
+      "lat": 1.10745,
+      "lon": 103.95354,
+      "timestamp": "2023-01-14T12:35:37Z",
+      "version": 4,
+      "changeset": 131263204,
+      "user": "Friendly_Ghost",
+      "uid": 10875409,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bundo Kanduang",
+        "source": "Batam Mapping Project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775915333,
+      "lat": 1.4420102,
+      "lon": 103.8250086,
+      "timestamp": "2010-06-19T03:23:12Z",
+      "version": 1,
+      "changeset": 5020767,
+      "user": "jiemei",
+      "uid": 306260,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "MOF"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775915341,
+      "lat": 1.4478747,
+      "lon": 103.819345,
+      "timestamp": "2020-11-30T08:36:49Z",
+      "version": 4,
+      "changeset": 95028622,
+      "user": "AhmadHB",
+      "uid": 10182045,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sushi Express",
+        "name:fa": "سوشی اکسپرس"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775915349,
+      "lat": 1.4418864,
+      "lon": 103.8245461,
+      "timestamp": "2017-01-02T02:21:02Z",
+      "version": 3,
+      "changeset": 44834673,
+      "user": "Merl0",
+      "uid": 5061675,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Chick A Boo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775915351,
+      "lat": 1.4418638,
+      "lon": 103.8247615,
+      "timestamp": "2017-01-02T02:21:55Z",
+      "version": 2,
+      "changeset": 44834679,
+      "user": "Merl0",
+      "uid": 5061675,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Aston's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 783666679,
+      "lat": 1.3449077,
+      "lon": 103.9314365,
+      "timestamp": "2015-08-14T07:10:06Z",
+      "version": 2,
+      "changeset": 33330060,
+      "user": "SCPTP",
+      "uid": 3043293,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Design Pad"
+      }
+    },
+    {
+      "type": "node",
+      "id": 905099786,
+      "lat": 1.3319637,
+      "lon": 103.7745599,
+      "timestamp": "2017-04-08T04:49:42Z",
+      "version": 3,
+      "changeset": 47557975,
+      "user": "wheelmap_android",
+      "uid": 524500,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Makan Place",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 911553978,
+      "lat": 1.3327038,
+      "lon": 103.7712425,
+      "timestamp": "2010-09-14T04:56:24Z",
+      "version": 1,
+      "changeset": 5775276,
+      "user": "Charlie2",
+      "uid": 344328,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Canteen 4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 938233423,
+      "lat": 1.2956087,
+      "lon": 103.8335603,
+      "timestamp": "2010-10-26T03:41:15Z",
+      "version": 3,
+      "changeset": 6178804,
+      "user": "rizkifza2009",
+      "uid": 363094,
+      "tags": {
+        "addr:housenumber": "341",
+        "addr:postcode": "238372",
+        "addr:street": "River Valley Road",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "lavilla@lavilla.sg",
+        "fax": "+65 6836 5464",
+        "name": "La Villa",
+        "opening_hours": "Mo-Su 12:00-14:30, 18:00-22:30",
+        "operator": "Senso Group",
+        "phone": "+65 6836 5286",
+        "website": "http://www.lavilla.sg/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 965693389,
+      "lat": 1.2951492,
+      "lon": 103.8294198,
+      "timestamp": "2025-05-30T06:02:52Z",
+      "version": 8,
+      "changeset": 166953369,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "425",
+        "addr:postcode": "248324",
+        "addr:street": "River Valley Road",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "branch": "River Valley",
+        "check_date": "2024-06",
+        "cuisine": "chinese;singaporean",
+        "level": "0",
+        "name": "Boon Tong Kee 文東記",
+        "name:en": "Boon Tong Kee",
+        "name:zh-Hans": "文东记",
+        "name:zh-Hant": "文東記",
+        "opening_hours": "Mo-Su 11:30-15:00,17:00-21:30",
+        "outdoor_seating": "yes",
+        "phone": "+65 67363213",
+        "takeaway": "yes",
+        "website": "https://boontongkee.com.sg/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 966552706,
+      "lat": 1.4584857,
+      "lon": 103.8370834,
+      "timestamp": "2010-10-27T06:55:52Z",
+      "version": 1,
+      "changeset": 6191829,
+      "user": "HangYong",
+      "uid": 363613,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Buckaroo's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 971852583,
+      "lat": 1.3475169,
+      "lon": 103.867461,
+      "timestamp": "2021-08-05T03:59:27Z",
+      "version": 7,
+      "changeset": 109173011,
+      "user": "Josef73",
+      "uid": 213831,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "15",
+        "addr:postcode": "358987",
+        "addr:street": "Jalan Riang",
+        "amenity": "restaurant",
+        "contact:website": "http://www.facebook.com/thefatcatbistro",
+        "cuisine": "Thai_Cuisine",
+        "name": "Siam Society",
+        "opening_hours": "Tu-Su 11:30-14:30,17:30-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1093375761,
+      "lat": 1.2868595,
+      "lon": 103.8494116,
+      "timestamp": "2023-08-22T03:49:00Z",
+      "version": 7,
+      "changeset": 140207354,
+      "user": "Valerio_Bozzolan",
+      "uid": 1875845,
+      "tags": {
+        "amenity": "restaurant",
+        "ele": "25.12",
+        "indoor_seating": "yes",
+        "name": "Shahi Maharaja",
+        "outdoor_seating": "yes",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1125788859,
+      "lat": 1.3353326,
+      "lon": 103.8448031,
+      "timestamp": "2019-11-06T01:09:40Z",
+      "version": 5,
+      "changeset": 76672847,
+      "user": "Mith252",
+      "uid": 3767835,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "200",
+        "addr:postcode": "319642",
+        "addr:street": "Lorong 2 Toa Payoh",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Foods Treasure",
+        "phone": "+65 6250 1658",
+        "website": "http://foodstreasure.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1240497316,
+      "lat": 1.3092348,
+      "lon": 103.7767137,
+      "timestamp": "2021-03-23T06:53:06Z",
+      "version": 2,
+      "changeset": 101549735,
+      "user": "Jorisbo",
+      "uid": 1983103,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Staff Centre",
+        "note": "Food Haven The Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1285282554,
+      "lat": 1.4184857,
+      "lon": 103.7164134,
+      "timestamp": "2025-08-17T15:20:09Z",
+      "version": 3,
+      "changeset": 170572230,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "addr:housenumber": "100",
+        "addr:postcode": "719026",
+        "addr:street": "Neo Tiew Road",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/Bollywoodfarms/",
+        "contact:instagram": "https://www.instagram.com/bollywoodfarms_sg",
+        "contact:tiktok": "https://www.tiktok.com/@https:",
+        "cuisine": "local",
+        "diet:vegetarian": "yes",
+        "email": "enquiries@bollywoodfarms.com",
+        "internet_access": "no",
+        "name": "Poison Ivy Bistro",
+        "opening_hours": "We-Fr 10:00-15:00; Sa-Su,PH 07:00-18:00",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:nets": "yes",
+        "payment:paynow": "yes",
+        "phone": "+65 6898 5001",
+        "website": "https://bollywoodfarms.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1308869013,
+      "lat": 1.2925931,
+      "lon": 103.841714,
+      "timestamp": "2018-02-10T12:08:00Z",
+      "version": 5,
+      "changeset": 56238640,
+      "user": "JaLooooNz",
+      "uid": 741163,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1315969171,
+      "lat": 1.2833026,
+      "lon": 103.8582884,
+      "timestamp": "2019-06-01T11:10:52Z",
+      "version": 4,
+      "changeset": 70833035,
+      "user": "btcprox",
+      "uid": 5741766,
+      "tags": {
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Justin Flavours of Asia",
+        "name:zh": "星洲老爷"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1316095838,
+      "lat": 1.2516796,
+      "lon": 103.8172719,
+      "timestamp": "2024-05-05T06:51:38Z",
+      "version": 6,
+      "changeset": 150906331,
+      "user": "gscholz",
+      "uid": 109705,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Good Old Days",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1395064097,
+      "lat": 1.338447,
+      "lon": 103.84944,
+      "timestamp": "2024-10-12T08:21:25Z",
+      "version": 4,
+      "changeset": 157783945,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "93",
+        "addr:postcode": "310093",
+        "addr:street": "Lorong 4 Toa Payoh",
+        "amenity": "restaurant",
+        "name": "Lorong 4 Blk 93 Market and Hawker Centre",
+        "name:ms": "Pasar dan Pusat Penjaja Lorong 4 Blk 93",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1395064108,
+      "lat": 1.3378611,
+      "lon": 103.8448012,
+      "timestamp": "2011-08-11T15:05:39Z",
+      "version": 1,
+      "changeset": 8985980,
+      "user": "jaredc",
+      "uid": 378414,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1396677539,
+      "lat": 1.3040361,
+      "lon": 103.7740062,
+      "timestamp": "2023-12-04T16:31:23Z",
+      "version": 5,
+      "changeset": 144762010,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "alt_name:zh": "黃家餐厅",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "level": "0",
+        "name": "Hwang's",
+        "note:name:zh": "no obvious chinese name"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1396677548,
+      "lat": 1.30378,
+      "lon": 103.7742248,
+      "timestamp": "2023-04-27T08:24:58Z",
+      "version": 6,
+      "changeset": 135416144,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "1",
+        "addr:postcode": "138602",
+        "addr:street": "Create Way",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "level": "0",
+        "name": "Udon Don Bar",
+        "note:name:zh": "no obvious chinese name",
+        "opening_hours": "Mo-Su 11:00-21:30",
+        "phone": "+65 8875 5850",
+        "website": "https://udondonbar.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1427271785,
+      "lat": 1.2790473,
+      "lon": 103.841753,
+      "timestamp": "2017-11-16T17:37:13Z",
+      "version": 5,
+      "changeset": 53849617,
+      "user": "happy-camper",
+      "uid": 6346054,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "118",
+        "addr:street": "Neil Road",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Hongdae Korean BBQ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1572429498,
+      "lat": 1.289084,
+      "lon": 103.8556767,
+      "timestamp": "2025-11-26T04:09:32Z",
+      "version": 5,
+      "changeset": 175136549,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "addr:housenumber": "8，#01-14",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "No Signboard Seafood Restaurant",
+        "name:zh": "無招牌海鮮",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+65 6336 9959",
+        "website": "http://nosignboardseafood.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1578145683,
+      "lat": 1.3042445,
+      "lon": 103.7653067,
+      "timestamp": "2025-07-10T06:03:44Z",
+      "version": 5,
+      "changeset": 168725280,
+      "user": "wwjd2022",
+      "uid": 15298985,
+      "tags": {
+        "addr:housename": "West Coast Plaza",
+        "addr:street": "Clementi West Street 1",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Formosa Delights"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1591703134,
+      "lat": 1.4596964,
+      "lon": 103.765134,
+      "timestamp": "2012-01-15T23:33:13Z",
+      "version": 1,
+      "changeset": 10404424,
+      "user": "tonella",
+      "uid": 584795,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "several restaurants and food stalls"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1598422587,
+      "lat": 1.3403267,
+      "lon": 103.7467968,
+      "timestamp": "2012-01-20T02:35:55Z",
+      "version": 1,
+      "changeset": 10442921,
+      "user": "faqsldhij",
+      "uid": 590605,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Toh Guan Coffee Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1619745687,
+      "lat": 1.3417749,
+      "lon": 103.7447042,
+      "timestamp": "2012-02-06T04:38:22Z",
+      "version": 1,
+      "changeset": 10600117,
+      "user": "faqsldhij",
+      "uid": 590605,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Dean's Coffee Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1655661386,
+      "lat": 1.3071768,
+      "lon": 103.7935066,
+      "timestamp": "2012-07-29T05:18:54Z",
+      "version": 2,
+      "changeset": 12530587,
+      "user": "JaLooooNz",
+      "uid": 741163,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1697793234,
+      "lat": 1.2896397,
+      "lon": 103.7787485,
+      "timestamp": "2013-10-10T16:16:22Z",
+      "version": 2,
+      "changeset": 18283772,
+      "user": "Mahyarm",
+      "uid": 1761840,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "e-canteen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1697933527,
+      "lat": 1.3982014,
+      "lon": 103.8732842,
+      "timestamp": "2025-12-23T03:15:53Z",
+      "version": 3,
+      "changeset": 176289686,
+      "user": "hoizan",
+      "uid": 9378663,
+      "tags": {
+        "addr:postcode": "799487",
+        "amenity": "restaurant",
+        "name": "J.Kayu.Prata"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1697933529,
+      "lat": 1.3973556,
+      "lon": 103.8729591,
+      "timestamp": "2012-04-08T15:47:34Z",
+      "version": 2,
+      "changeset": 11226831,
+      "user": "Phoony",
+      "uid": 644937,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Jerry.Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1699394638,
+      "lat": 1.3771719,
+      "lon": 103.8280569,
+      "timestamp": "2026-02-25T01:36:43Z",
+      "version": 10,
+      "changeset": 179014092,
+      "user": "potato154",
+      "uid": 23628989,
+      "tags": {
+        "addr:housenumber": "136-138",
+        "addr:postcode": "579524",
+        "addr:street": "Casuarina Road",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "check_date": "2022-12-18",
+        "cuisine": "indian",
+        "delivery": "yes",
+        "diet:halal": "yes",
+        "email": "enquiry@casuarinacurry.com",
+        "facebook": "casuarinacurry",
+        "indoor_seating": "yes",
+        "instagram": "casuarinacurry",
+        "internet_access": "no",
+        "level": "0",
+        "name": "Casuarina Curry",
+        "opening_hours": "Mo-Su 07:00-00:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:paynow": "yes",
+        "phone": "+65 6455 9093",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.casuarinacurry.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1699512703,
+      "lat": 1.3809719,
+      "lon": 103.8409463,
+      "timestamp": "2025-04-11T22:30:18Z",
+      "version": 2,
+      "changeset": 164835728,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "FC",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1699579420,
+      "lat": 1.3738286,
+      "lon": 103.8455538,
+      "timestamp": "2017-01-21T10:02:08Z",
+      "version": 3,
+      "changeset": 45346183,
+      "user": "TGOTGO",
+      "uid": 5123276,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Jack's Place"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1699579428,
+      "lat": 1.3685274,
+      "lon": 103.8370269,
+      "timestamp": "2025-02-21T13:00:49Z",
+      "version": 6,
+      "changeset": 162779647,
+      "user": "Trip Maker",
+      "uid": 20878238,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Melben Seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1699579431,
+      "lat": 1.3709005,
+      "lon": 103.8426087,
+      "timestamp": "2012-03-31T13:02:03Z",
+      "version": 1,
+      "changeset": 11165948,
+      "user": "lzhard",
+      "uid": 273472,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Roast.Duck"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1699579432,
+      "lat": 1.3767082,
+      "lon": 103.8398356,
+      "timestamp": "2012-03-31T13:02:03Z",
+      "version": 1,
+      "changeset": 11165948,
+      "user": "lzhard",
+      "uid": 273472,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "ChenJi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1701931220,
+      "lat": 1.2851728,
+      "lon": 103.7792985,
+      "timestamp": "2012-04-05T03:18:46Z",
+      "version": 1,
+      "changeset": 11184153,
+      "user": "matx17",
+      "uid": 602634,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1703808052,
+      "lat": 1.3874537,
+      "lon": 103.8691555,
+      "timestamp": "2025-04-11T05:47:19Z",
+      "version": 4,
+      "changeset": 164797793,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "addr:unit": "02-14",
+        "amenity": "restaurant",
+        "cuisine": "western",
+        "name": "Cedele",
+        "opening_hours": "Mo-Th 10:00-21:30; Fr 10:00-22:00; Sa 08:00-22:00; PH 08:00-22:00; Su 08:00-21:30",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1703872661,
+      "lat": 1.3875365,
+      "lon": 103.8694863,
+      "timestamp": "2025-11-26T04:09:32Z",
+      "version": 4,
+      "changeset": 175136549,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "addr:unit": "02-03",
+        "amenity": "restaurant",
+        "contact:phone": "+65 6752 3688",
+        "cuisine": "thai",
+        "name": "Mai Thai Restuarant",
+        "opening_hours": "Mo-Su 11:00-22:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1703872705,
+      "lat": 1.3872893,
+      "lon": 103.8694841,
+      "timestamp": "2017-12-07T16:57:00Z",
+      "version": 3,
+      "changeset": 54436960,
+      "user": "KartoSliwka",
+      "uid": 7009958,
+      "tags": {
+        "addr:unit": "02-12",
+        "amenity": "restaurant",
+        "name": "Rakuichi Japanese Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1704471260,
+      "lat": 1.2976221,
+      "lon": 103.8384714,
+      "timestamp": "2012-07-03T20:11:28Z",
+      "version": 2,
+      "changeset": 12104083,
+      "user": "cboothroyd",
+      "uid": 255802,
+      "tags": {
+        "addr:housenumber": "131",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Crystal Cafe",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1706639102,
+      "lat": 1.4162861,
+      "lon": 103.8992089,
+      "timestamp": "2013-06-20T04:00:14Z",
+      "version": 2,
+      "changeset": 16624570,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "Ponggol.SeaFood",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1711105935,
+      "lat": 1.3327986,
+      "lon": 103.7909267,
+      "timestamp": "2012-04-11T07:29:48Z",
+      "version": 1,
+      "changeset": 11261368,
+      "user": "Swenhar",
+      "uid": 655899,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Forture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1717874563,
+      "lat": 1.296729,
+      "lon": 103.854991,
+      "timestamp": "2020-10-30T11:41:44Z",
+      "version": 4,
+      "changeset": 93288166,
+      "user": "AhmadHB",
+      "uid": 10182045,
+      "tags": {
+        "addr:city": "Singapore",
+        "amenity": "restaurant",
+        "name": "Saveur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720136373,
+      "lat": 1.3439959,
+      "lon": 103.7904986,
+      "timestamp": "2012-04-17T05:20:41Z",
+      "version": 1,
+      "changeset": 11328693,
+      "user": "matx17",
+      "uid": 602634,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1721874804,
+      "lat": 1.3318311,
+      "lon": 103.7768108,
+      "timestamp": "2019-05-26T15:01:21Z",
+      "version": 2,
+      "changeset": 70634662,
+      "user": "drainboy",
+      "uid": 10033339,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Munch"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1721919155,
+      "lat": 1.3311072,
+      "lon": 103.7754482,
+      "timestamp": "2012-04-18T15:29:59Z",
+      "version": 1,
+      "changeset": 11345079,
+      "user": "thephpdeveloper",
+      "uid": 662603,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Alumni Clubhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1725462475,
+      "lat": 1.3345564,
+      "lon": 103.8099494,
+      "timestamp": "2025-04-17T09:29:32Z",
+      "version": 2,
+      "changeset": 165062180,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "251",
+        "addr:postcode": "289848",
+        "addr:street": "Arcadia Road",
+        "addr:unit": "#01-09",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "delivery": "yes",
+        "name": "Thai Royal Cuisine",
+        "opening_hours": "Mo-Fr 12:00-15:00,16:30-22:00; Sa-Su,PH 11:30-22:00",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+6596436690",
+        "website": "https://royalthaisg.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1742816216,
+      "lat": 1.3441588,
+      "lon": 103.7602875,
+      "timestamp": "2018-06-19T07:47:35Z",
+      "version": 2,
+      "changeset": 59968229,
+      "user": "JaLooooNz",
+      "uid": 741163,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "BB 289 Food House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1743935283,
+      "lat": 1.3000559,
+      "lon": 103.8524194,
+      "timestamp": "2024-03-23T08:25:59Z",
+      "version": 6,
+      "changeset": 149041034,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:floor": "1",
+        "addr:housename": "Fortune Centre",
+        "addr:housenumber": "190",
+        "addr:postcode": "188979",
+        "addr:unit": "01-01",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "check_date": "2024-03-15",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "level": "0",
+        "name": "Su Shi Piao Xiang Vegetarian Food (素食飄香)",
+        "name:en": "Su Shi Piao Xiang Vegetarian Food",
+        "name:zh": "素食飄香",
+        "outdoor_seating": "no",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:paynow": "yes",
+        "smoking": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1746529794,
+      "lat": 1.2910861,
+      "lon": 103.8409947,
+      "timestamp": "2012-05-09T11:37:30Z",
+      "version": 1,
+      "changeset": 11548363,
+      "user": "shidababe",
+      "uid": 677905,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Shunjuu Izakaya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1764831761,
+      "lat": 1.3022755,
+      "lon": 103.858542,
+      "timestamp": "2026-04-23T02:39:02Z",
+      "version": 5,
+      "changeset": 181697241,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indonesian;indian;curry;malaysian",
+        "indoor_seating": "yes",
+        "name": "Singapore Zam Zam Murtabak",
+        "name:en": "Zam Zam Singapore",
+        "operator": "Zam Zam",
+        "outdoor_seating": "yes",
+        "phone": "+6562986320",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766486406,
+      "lat": 1.2953788,
+      "lon": 103.8536013,
+      "timestamp": "2013-06-20T03:46:26Z",
+      "version": 3,
+      "changeset": 16624570,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Long Bar Steak House",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1767392066,
+      "lat": 1.311539,
+      "lon": 103.9524847,
+      "timestamp": "2023-06-20T15:18:13Z",
+      "version": 4,
+      "changeset": 137568451,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "addr:housenumber": "1390",
+        "addr:postcode": "468961",
+        "addr:street": "East Coast Parkway",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "bar": "yes",
+        "check_date": "2023-06-18",
+        "contact:facebook": "https://www.facebook.com/hightidebistrobar",
+        "cuisine": "pizza;burger;indian",
+        "internet_access": "no",
+        "name": "High Tide Bistro & Bar",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1829431161,
+      "lat": 1.2765516,
+      "lon": 103.8430933,
+      "timestamp": "2024-10-12T08:21:25Z",
+      "version": 4,
+      "changeset": 157783945,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Tanjong Pagar Food Centre",
+        "name:ms": "Pusat Makanan Tanjong Pagar",
+        "name:zh": "丹戎巴葛美食中心"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1829571214,
+      "lat": 1.2828473,
+      "lon": 103.8493041,
+      "timestamp": "2012-07-18T10:21:20Z",
+      "version": 1,
+      "changeset": 12275424,
+      "user": "JaLooooNz",
+      "uid": 741163,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "China Square Food Court"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830331742,
+      "lat": 1.2724085,
+      "lon": 103.8220441,
+      "timestamp": "2024-10-12T08:21:25Z",
+      "version": 5,
+      "changeset": 157783945,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Telok Blangah Rise Food Centre",
+        "name:ms": "Pusat Makanan Telok Blangah Rise",
+        "name:zh": "直落布兰雅坡熟食中心"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830373025,
+      "lat": 1.2799986,
+      "lon": 103.8260191,
+      "timestamp": "2024-10-12T08:21:25Z",
+      "version": 3,
+      "changeset": 157783945,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Jalan Bukit Merah Food Centre",
+        "name:ms": "Pusat Makanan Jalan Bukit Merah",
+        "name:zh": "惹兰红山熟食中心"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830377996,
+      "lat": 1.2814319,
+      "lon": 103.8232287,
+      "timestamp": "2022-02-09T09:09:15Z",
+      "version": 2,
+      "changeset": 117192116,
+      "user": "pyramid",
+      "uid": 468895,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832093630,
+      "lat": 1.284366,
+      "lon": 103.8654257,
+      "timestamp": "2025-12-17T12:47:47Z",
+      "version": 8,
+      "changeset": 176049257,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "18",
+        "addr:postcode": "018593",
+        "addr:street": "Marina Gardens Drive",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "TungLok Seafood",
+        "outdoor_seating": "no",
+        "phone": "+65 6022 0188",
+        "website": "https://www.tunglokseafood.com/en/landing",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1832093665,
+      "lat": 1.2848639,
+      "lon": 103.8640308,
+      "timestamp": "2022-09-18T04:43:18Z",
+      "version": 6,
+      "changeset": 126317560,
+      "user": "seav",
+      "uid": 11126,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:housenumber": "18",
+        "addr:postcode": "018953",
+        "addr:street": "Marina Gardens Drive",
+        "amenity": "restaurant",
+        "email": "info@marguerite.com.sg",
+        "level": "2",
+        "name": "Marguerite",
+        "opening_hours": "We-Su 18:00-22:00; Fr-Su 12:00-15:00",
+        "phone": "+65 6604 9988",
+        "website": "https://marguerite.com.sg/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837344951,
+      "lat": 1.2829189,
+      "lon": 103.8439174,
+      "timestamp": "2023-10-17T17:24:18Z",
+      "version": 5,
+      "changeset": 142722705,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "20",
+        "addr:postcode": "058479",
+        "addr:street": "Trengganu Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese;dim_sum",
+        "email": "chinatown@yumcha.com.sg",
+        "level": "2",
+        "name": "Yum Cha Chinatown",
+        "opening_hours": "Mo-Fr 10:30-22:30; Sa,Su 09:00-22:30",
+        "phone": "+65 6372 1717",
+        "website": "https://www.yumcha.com.sg/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837544313,
+      "lat": 1.2852802,
+      "lon": 103.8459808,
+      "timestamp": "2025-10-27T06:57:14Z",
+      "version": 6,
+      "changeset": 173822995,
+      "user": "hoizan",
+      "uid": 9378663,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:postcode": "051531",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Hong Lim Food Centre",
+        "name:ms": "Pusat Makanan Hong Lim",
+        "name:zh": "歐南園炒粿條麵"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1842229144,
+      "lat": 1.3109539,
+      "lon": 103.788146,
+      "timestamp": "2024-10-12T08:21:25Z",
+      "version": 6,
+      "changeset": 157783945,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "20",
+        "addr:postcode": "270020",
+        "addr:street": "Ghim Moh Road",
+        "amenity": "restaurant",
+        "name": "Ghim Moh Road Food Centre",
+        "name:ms": "Pusat Makanan Ghim Moh Road",
+        "name:zh": "锦茂路熟食中心",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1843450674,
+      "lat": 1.3142829,
+      "lon": 103.7707969,
+      "timestamp": "2024-10-12T08:21:25Z",
+      "version": 3,
+      "changeset": 157783945,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Clementi Ave 2 Food Centre",
+        "name:ms": "Pusat Makanan Clementi Ave 2",
+        "name:zh": "金文泰2道熟食中心"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1844016090,
+      "lat": 1.3077804,
+      "lon": 103.818364,
+      "timestamp": "2024-10-03T07:38:49Z",
+      "version": 5,
+      "changeset": 157406124,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "addr:housename": "Botanic Gardens",
+        "addr:housenumber": "1",
+        "addr:postcode": "259569",
+        "addr:street": "Cluny Road",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "level:ref": "B1",
+        "name": "Fusion Spoon",
+        "website": "https://fusion-spoon-at-botanic-gardens.business.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1853832260,
+      "lat": 1.3105383,
+      "lon": 103.9462428,
+      "timestamp": "2025-11-26T04:00:28Z",
+      "version": 5,
+      "changeset": 175136379,
+      "user": "confusedbuffalo",
+      "uid": 242345,
+      "tags": {
+        "addr:city": "Singapore",
+        "addr:country": "SG",
+        "addr:housenumber": "1300",
+        "addr:postcode": "468964",
+        "addr:street": "East Coast Parkway",
+        "amenity": "restaurant",
+        "cuisine": "thai;seafood",
+        "email": "feedback@centralthai.com.sg",
+        "name": "Fico",
+        "phone": "+65 6443 5510",
+        "website": "https://www.centralthai.com.sg/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1855697477,
+      "lat": 1.3092868,
+      "lon": 103.8557553,
+      "timestamp": "2017-03-17T14:33:09Z",
+      "version": 3,
+      "changeset": 46929871,
+      "user": "thenodifier",
+      "uid": 4547543,
+      "tags": {
+        "addr:street": "Syed Alwi Road",
+        "amenity": "restaurant",
+        "name": "Sakunthala's",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1877151146,
+      "lat": 1.4591936,
+      "lon": 103.7655744,
+      "timestamp": "2018-05-12T22:54:52Z",
+      "version": 2,
+      "changeset": 58913132,
+      "user": "AndrewWizit",
+      "uid": 1800797,
+      "tags": {
+        "addr:street": "Jalan Meldrum",
+        "amenity": "restaurant",
+        "name": "Street food lane",
+        "opening_hours": "Mo-Su 17:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1880250662,
+      "lat": 1.3128194,
+      "lon": 103.765211,
+      "timestamp": "2026-05-06T02:30:25Z",
+      "version": 3,
+      "changeset": 182274356,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "wheelchair": "yes"
+      }
+    }
+  ]
+}

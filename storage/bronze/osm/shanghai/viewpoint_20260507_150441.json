@@ -1,0 +1,1495 @@
+{
+  "city": "shanghai",
+  "category": "viewpoint",
+  "timestamp": "20260507_150441",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 274938443,
+      "lat": 25.0241488,
+      "lon": 121.5852322,
+      "timestamp": "2024-01-04T21:44:44Z",
+      "version": 6,
+      "changeset": 145898638,
+      "user": "Innertia",
+      "uid": 19415963,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 286704594,
+      "lat": 14.0751373,
+      "lon": 121.3257296,
+      "timestamp": "2015-03-09T12:09:55Z",
+      "version": 7,
+      "changeset": 29351624,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 300250683,
+      "lat": 14.0743695,
+      "lon": 121.3268591,
+      "timestamp": "2022-07-17T13:48:06Z",
+      "version": 5,
+      "changeset": 123722026,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332504237,
+      "lat": 24.9637358,
+      "lon": 121.587979,
+      "timestamp": "2018-03-28T07:52:46Z",
+      "version": 5,
+      "changeset": 57590937,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "description": "Nice view to Taipiei",
+        "ele": "477",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 487520569,
+      "lat": 14.0770085,
+      "lon": 121.3253549,
+      "timestamp": "2022-07-17T13:48:06Z",
+      "version": 3,
+      "changeset": 123722026,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 487520763,
+      "lat": 14.0752665,
+      "lon": 121.3260582,
+      "timestamp": "2022-07-17T13:48:06Z",
+      "version": 2,
+      "changeset": 123722026,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 487520853,
+      "lat": 14.0748788,
+      "lon": 121.3259393,
+      "timestamp": "2024-06-11T10:37:54Z",
+      "version": 3,
+      "changeset": 152536831,
+      "user": "trainerdrei",
+      "uid": 9082139,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494767065,
+      "lat": 14.0795279,
+      "lon": 121.3246633,
+      "timestamp": "2022-07-17T13:48:06Z",
+      "version": 2,
+      "changeset": 123722026,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494767082,
+      "lat": 14.0792859,
+      "lon": 121.3246683,
+      "timestamp": "2022-07-17T13:48:06Z",
+      "version": 2,
+      "changeset": 123722026,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494767083,
+      "lat": 14.0786798,
+      "lon": 121.3247806,
+      "timestamp": "2022-07-17T13:48:06Z",
+      "version": 3,
+      "changeset": 123722026,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 494767108,
+      "lat": 14.0783194,
+      "lon": 121.324933,
+      "timestamp": "2022-07-17T13:48:06Z",
+      "version": 3,
+      "changeset": 123722026,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 698447225,
+      "lat": 25.0121727,
+      "lon": 121.5564759,
+      "timestamp": "2025-07-08T10:32:06Z",
+      "version": 8,
+      "changeset": 168642939,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 712683648,
+      "lat": 25.0133022,
+      "lon": 121.5582369,
+      "timestamp": "2024-06-13T02:30:45Z",
+      "version": 3,
+      "changeset": 152610676,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 940950223,
+      "lat": 22.6361348,
+      "lon": 121.5043735,
+      "timestamp": "2024-07-04T17:55:20Z",
+      "version": 6,
+      "changeset": 153558813,
+      "user": "alexhou00",
+      "uid": 15270809,
+      "tags": {
+        "name": "帆船鼻",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474247330,
+      "lat": 24.8250041,
+      "lon": 121.4176988,
+      "timestamp": "2015-02-19T15:15:05Z",
+      "version": 4,
+      "changeset": 28958321,
+      "user": "Vintagejhan",
+      "uid": 1224430,
+      "tags": {
+        "name": "東眼山瞭望台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1501002742,
+      "lat": 25.0271402,
+      "lon": 121.5731147,
+      "timestamp": "2024-12-18T09:09:50Z",
+      "version": 9,
+      "changeset": 160340391,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1589574837,
+      "lat": 23.9815172,
+      "lon": 121.6177994,
+      "timestamp": "2012-01-15T14:24:10Z",
+      "version": 2,
+      "changeset": 10398503,
+      "user": "zub",
+      "uid": 29818,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1686584674,
+      "lat": 25.0077832,
+      "lon": 121.5353591,
+      "timestamp": "2016-09-23T07:37:22Z",
+      "version": 4,
+      "changeset": 42366309,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "name": "林蔭大道",
+        "tourism": "viewpoint",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1727440209,
+      "lat": 24.1714339,
+      "lon": 121.6160359,
+      "timestamp": "2018-12-17T00:50:13Z",
+      "version": 2,
+      "changeset": 65534598,
+      "user": "SOWSUN123",
+      "uid": 8866893,
+      "tags": {
+        "name": "峽谷景觀",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1749810967,
+      "lat": 24.9440571,
+      "lon": 121.4455798,
+      "timestamp": "2019-06-30T09:25:51Z",
+      "version": 2,
+      "changeset": 71751717,
+      "user": "catdreamer",
+      "uid": 5286890,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1791683937,
+      "lat": 25.1486357,
+      "lon": 121.5435156,
+      "timestamp": "2024-07-16T15:46:20Z",
+      "version": 6,
+      "changeset": 154021970,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1875693634,
+      "lat": 24.9698586,
+      "lon": 121.4963718,
+      "timestamp": "2025-11-21T12:14:03Z",
+      "version": 4,
+      "changeset": 174946304,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1937699767,
+      "lat": 25.1005152,
+      "lon": 121.5969498,
+      "timestamp": "2025-11-16T07:30:12Z",
+      "version": 5,
+      "changeset": 174714851,
+      "user": "catdreamer",
+      "uid": 5286890,
+      "tags": {
+        "name": "龍船岩",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1998904445,
+      "lat": 25.0324479,
+      "lon": 121.5895871,
+      "timestamp": "2024-06-19T15:11:48Z",
+      "version": 2,
+      "changeset": 152902078,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2003037499,
+      "lat": 25.1032692,
+      "lon": 121.5301896,
+      "timestamp": "2021-06-02T17:32:09Z",
+      "version": 10,
+      "changeset": 105732753,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "name": "芝山岩",
+        "tourism": "viewpoint",
+        "wheelchair": "no",
+        "wikidata": "Q15915573",
+        "wikipedia": "zh:芝山岩"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2079970001,
+      "lat": 22.0619787,
+      "lon": 121.5735144,
+      "timestamp": "2012-12-23T14:40:05Z",
+      "version": 1,
+      "changeset": 14378833,
+      "user": "Po-Ting Chen",
+      "uid": 823042,
+      "tags": {
+        "name": "情人洞",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2086977357,
+      "lat": 24.9038768,
+      "lon": 121.4956576,
+      "timestamp": "2013-05-11T18:32:45Z",
+      "version": 2,
+      "changeset": 16084311,
+      "user": "kcwu",
+      "uid": 432265,
+      "tags": {
+        "name": "觀獅坪",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2099989904,
+      "lat": 24.9451722,
+      "lon": 121.4230252,
+      "timestamp": "2021-08-07T18:13:28Z",
+      "version": 3,
+      "changeset": 109321043,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "猴洞",
+        "name:en": "Monkey cave",
+        "name:zh": "猴洞",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2146598623,
+      "lat": 14.0626689,
+      "lon": 121.4218884,
+      "timestamp": "2026-02-09T15:42:27Z",
+      "version": 9,
+      "changeset": 178318072,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Rizal",
+        "addr:place": "Mount Cristobal Trail",
+        "addr:postcode": "4003",
+        "ele": "1463",
+        "name": "Jones Peak",
+        "source": "Camping Geeks",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2162436716,
+      "lat": 14.0653155,
+      "lon": 121.426428,
+      "timestamp": "2026-02-09T15:42:27Z",
+      "version": 4,
+      "changeset": 178318072,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:place": "Mount Cristobal Trail",
+        "addr:postcode": "4003",
+        "addr:province": "Rizal",
+        "ele": "1470",
+        "name": "Northeast Viewpoint",
+        "source": "Schadow1 Expeditions",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2163938373,
+      "lat": 14.0555886,
+      "lon": 121.4793806,
+      "timestamp": "2013-02-20T15:07:03Z",
+      "version": 1,
+      "changeset": 15101291,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "ele": "2084",
+        "name": "Banahaw Tatlong Tangke Viewpoint",
+        "source": "Schadow1 Expeditions",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2168050348,
+      "lat": 24.9730991,
+      "lon": 121.4224809,
+      "timestamp": "2013-02-22T23:31:58Z",
+      "version": 1,
+      "changeset": 15129344,
+      "user": "Vintagejhan",
+      "uid": 1224430,
+      "tags": {
+        "name": "鹿角溪人工溼地賞鳥",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2169907012,
+      "lat": 25.1371492,
+      "lon": 121.6026426,
+      "timestamp": "2025-03-12T20:41:21Z",
+      "version": 7,
+      "changeset": 163544685,
+      "user": "Jade Jossen",
+      "uid": 11571794,
+      "tags": {
+        "name": "風櫃嘴觀景台",
+        "name:en": "Observation deck",
+        "name:zh": "風櫃嘴觀景台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2172242024,
+      "lat": 25.0003668,
+      "lon": 121.4032069,
+      "timestamp": "2025-01-08T13:35:37Z",
+      "version": 3,
+      "changeset": 161134016,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "青龍嶺",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2172243244,
+      "lat": 25.0032709,
+      "lon": 121.4033032,
+      "timestamp": "2025-01-08T13:35:37Z",
+      "version": 3,
+      "changeset": 161134016,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "大同山觀景台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2269707338,
+      "lat": 24.9683451,
+      "lon": 121.5814591,
+      "timestamp": "2013-04-16T16:31:44Z",
+      "version": 1,
+      "changeset": 15752200,
+      "user": "miurahr",
+      "uid": 21118,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2274585948,
+      "lat": 16.203628,
+      "lon": 121.5108385,
+      "timestamp": "2013-04-21T02:55:04Z",
+      "version": 1,
+      "changeset": 15805651,
+      "user": "G-eMapper",
+      "uid": 462835,
+      "tags": {
+        "name": "Water Falls",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2299778942,
+      "lat": 25.1652105,
+      "lon": 121.5677443,
+      "timestamp": "2024-07-16T14:09:51Z",
+      "version": 8,
+      "changeset": 154017661,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "amenity": "shelter",
+        "building": "yes",
+        "building:levels": "2",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2299991437,
+      "lat": 24.9075055,
+      "lon": 121.4900468,
+      "timestamp": "2022-01-02T22:32:16Z",
+      "version": 2,
+      "changeset": 115687868,
+      "user": "SOWSUN123",
+      "uid": 8866893,
+      "tags": {
+        "name": "獅尾格坪",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2299991598,
+      "lat": 24.9692808,
+      "lon": 121.495726,
+      "timestamp": "2013-05-11T18:32:44Z",
+      "version": 1,
+      "changeset": 16084311,
+      "user": "kcwu",
+      "uid": 432265,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2300575316,
+      "lat": 25.134142,
+      "lon": 121.5132511,
+      "timestamp": "2024-04-19T08:48:38Z",
+      "version": 3,
+      "changeset": 150211868,
+      "user": "Innertia",
+      "uid": 19415963,
+      "tags": {
+        "description": "熱海岩場頂部，設有太陽能板",
+        "name": "熱海岩場頂部",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2300575501,
+      "lat": 25.1320092,
+      "lon": 121.5082417,
+      "timestamp": "2013-05-12T08:35:55Z",
+      "version": 1,
+      "changeset": 16091526,
+      "user": "kcwu",
+      "uid": 432265,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2310904100,
+      "lat": 25.136377,
+      "lon": 121.4254643,
+      "timestamp": "2024-03-11T07:11:52Z",
+      "version": 8,
+      "changeset": 148491032,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2338392114,
+      "lat": 25.087689,
+      "lon": 121.5329522,
+      "timestamp": "2024-02-25T02:14:54Z",
+      "version": 5,
+      "changeset": 147876037,
+      "user": "Innertia",
+      "uid": 19415963,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2345879179,
+      "lat": 24.5129277,
+      "lon": 121.6092976,
+      "timestamp": "2024-02-21T15:56:30Z",
+      "version": 5,
+      "changeset": 147739002,
+      "user": "jjlu07",
+      "uid": 14999692,
+      "tags": {
+        "ele": "1870",
+        "name": "觀景台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2351269876,
+      "lat": 24.1617692,
+      "lon": 121.6235219,
+      "timestamp": "2026-04-18T07:46:46Z",
+      "version": 8,
+      "changeset": 181486812,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "流籠中繼站",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2355932609,
+      "lat": 25.0347972,
+      "lon": 121.5835711,
+      "timestamp": "2013-06-22T12:47:57Z",
+      "version": 1,
+      "changeset": 16655972,
+      "user": "kcwu",
+      "uid": 432265,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2355932652,
+      "lat": 25.0356314,
+      "lon": 121.584121,
+      "timestamp": "2013-06-22T12:47:58Z",
+      "version": 1,
+      "changeset": 16655972,
+      "user": "kcwu",
+      "uid": 432265,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2368777222,
+      "lat": 24.1573499,
+      "lon": 121.6247798,
+      "timestamp": "2020-06-16T13:29:36Z",
+      "version": 3,
+      "changeset": 86724541,
+      "user": "reedjao",
+      "uid": 7268231,
+      "tags": {
+        "name": "休憩平台",
+        "name:tr": "Taroko National Park",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2368777223,
+      "lat": 24.1572686,
+      "lon": 121.6223919,
+      "timestamp": "2013-07-01T16:12:01Z",
+      "version": 1,
+      "changeset": 16779793,
+      "user": "JingGeocacher",
+      "uid": 153500,
+      "tags": {
+        "name": "立霧溪觀景台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2372854838,
+      "lat": 24.1782835,
+      "lon": 121.4756632,
+      "timestamp": "2018-12-19T09:24:52Z",
+      "version": 5,
+      "changeset": 65604922,
+      "user": "SOWSUN123",
+      "uid": 8866893,
+      "tags": {
+        "name": "觀景平台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2372854842,
+      "lat": 24.1810688,
+      "lon": 121.4848858,
+      "timestamp": "2018-12-19T09:24:52Z",
+      "version": 4,
+      "changeset": 65604922,
+      "user": "SOWSUN123",
+      "uid": 8866893,
+      "tags": {
+        "name": "觀景平台",
+        "name:zh": "休憩平台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2383293814,
+      "lat": 22.0631262,
+      "lon": 121.5709622,
+      "timestamp": "2013-07-13T14:27:47Z",
+      "version": 1,
+      "changeset": 16937562,
+      "user": "kcwu",
+      "uid": 432265,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2391870122,
+      "lat": 25.1875724,
+      "lon": 121.5219494,
+      "timestamp": "2024-07-16T07:35:53Z",
+      "version": 2,
+      "changeset": 154001401,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2432586872,
+      "lat": 25.1806084,
+      "lon": 121.539051,
+      "timestamp": "2023-11-28T21:51:41Z",
+      "version": 3,
+      "changeset": 144566416,
+      "user": "Innertia",
+      "uid": 19415963,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2484633966,
+      "lat": 23.7311094,
+      "lon": 121.5585614,
+      "timestamp": "2015-07-27T03:23:56Z",
+      "version": 2,
+      "changeset": 32900617,
+      "user": "Vintagejhan",
+      "uid": 1224430,
+      "tags": {
+        "name": "芭崎瞭望台",
+        "source:name": "survey",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2537772056,
+      "lat": 25.2205031,
+      "lon": 121.6404039,
+      "timestamp": "2013-11-18T11:04:15Z",
+      "version": 1,
+      "changeset": 18969266,
+      "user": "Brian Wang",
+      "uid": 62482,
+      "tags": {
+        "name": "金山老街",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2544305618,
+      "lat": 17.3505671,
+      "lon": 121.572213,
+      "timestamp": "2013-11-22T01:22:45Z",
+      "version": 1,
+      "changeset": 19047751,
+      "user": "DY3JDR",
+      "uid": 288064,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2562399289,
+      "lat": 24.932099,
+      "lon": 121.6415564,
+      "timestamp": "2024-08-25T01:51:32Z",
+      "version": 3,
+      "changeset": 155718605,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2571641409,
+      "lat": 25.1245239,
+      "lon": 121.43107,
+      "timestamp": "2013-12-08T16:27:54Z",
+      "version": 1,
+      "changeset": 19343438,
+      "user": "chihchun",
+      "uid": 973373,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2584506000,
+      "lat": 24.6739348,
+      "lon": 121.5847653,
+      "timestamp": "2014-08-14T13:39:18Z",
+      "version": 2,
+      "changeset": 24745759,
+      "user": "JingGeocacher",
+      "uid": 153500,
+      "tags": {
+        "name": "玉蘭觀景亭",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2627169816,
+      "lat": 24.993168,
+      "lon": 121.415304,
+      "timestamp": "2025-01-08T13:35:37Z",
+      "version": 2,
+      "changeset": 161134016,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2631918072,
+      "lat": 24.9990454,
+      "lon": 121.4051207,
+      "timestamp": "2025-01-08T13:35:38Z",
+      "version": 2,
+      "changeset": 161134016,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "石頭公",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2636302463,
+      "lat": 31.1305108,
+      "lon": 121.3768101,
+      "timestamp": "2014-01-25T06:59:26Z",
+      "version": 1,
+      "changeset": 20188902,
+      "user": "Jean-Pierre DAVID",
+      "uid": 648195,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2636302597,
+      "lat": 31.1290723,
+      "lon": 121.3769691,
+      "timestamp": "2014-01-25T06:59:28Z",
+      "version": 1,
+      "changeset": 20188902,
+      "user": "Jean-Pierre DAVID",
+      "uid": 648195,
+      "tags": {
+        "tourism": "viewpoint",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2636302625,
+      "lat": 31.131211,
+      "lon": 121.3764206,
+      "timestamp": "2014-01-25T06:59:29Z",
+      "version": 1,
+      "changeset": 20188902,
+      "user": "Jean-Pierre DAVID",
+      "uid": 648195,
+      "tags": {
+        "tourism": "viewpoint",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2636302646,
+      "lat": 31.132949,
+      "lon": 121.3742694,
+      "timestamp": "2014-01-25T06:59:30Z",
+      "version": 1,
+      "changeset": 20188902,
+      "user": "Jean-Pierre DAVID",
+      "uid": 648195,
+      "tags": {
+        "tourism": "viewpoint",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2636416412,
+      "lat": 24.9983173,
+      "lon": 121.4035536,
+      "timestamp": "2014-01-25T09:49:20Z",
+      "version": 1,
+      "changeset": 20190405,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "哈哈谷",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2636416443,
+      "lat": 24.9984824,
+      "lon": 121.4036613,
+      "timestamp": "2025-01-08T13:35:38Z",
+      "version": 2,
+      "changeset": 161134016,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2639519701,
+      "lat": 24.9996467,
+      "lon": 121.4040366,
+      "timestamp": "2025-01-08T13:35:38Z",
+      "version": 2,
+      "changeset": 161134016,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2639933660,
+      "lat": 24.9969443,
+      "lon": 121.4125747,
+      "timestamp": "2025-01-08T13:35:38Z",
+      "version": 2,
+      "changeset": 161134016,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "觀景台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2645583717,
+      "lat": 25.0316361,
+      "lon": 121.5111447,
+      "timestamp": "2018-01-17T07:20:02Z",
+      "version": 3,
+      "changeset": 55513448,
+      "user": "Bigmorr",
+      "uid": 6802110,
+      "tags": {
+        "name": "荷風閣",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2653719186,
+      "lat": 25.1035886,
+      "lon": 121.5327262,
+      "timestamp": "2021-04-25T05:23:50Z",
+      "version": 3,
+      "changeset": 103560022,
+      "user": "seanthlin",
+      "uid": 2913120,
+      "tags": {
+        "name": "觀景點",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2654849009,
+      "lat": 25.1037806,
+      "lon": 121.5296661,
+      "timestamp": "2020-10-20T15:54:26Z",
+      "version": 2,
+      "changeset": 92778834,
+      "user": "Valarr",
+      "uid": 8213716,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2654958913,
+      "lat": 25.1038558,
+      "lon": 121.5305161,
+      "timestamp": "2014-02-04T23:47:23Z",
+      "version": 1,
+      "changeset": 20383391,
+      "user": "chenkent",
+      "uid": 1887357,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2655145733,
+      "lat": 25.1017577,
+      "lon": 121.533306,
+      "timestamp": "2014-02-05T01:53:40Z",
+      "version": 1,
+      "changeset": 20384232,
+      "user": "chenkent",
+      "uid": 1887357,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2657329332,
+      "lat": 24.9399421,
+      "lon": 121.6328384,
+      "timestamp": "2024-08-25T01:51:34Z",
+      "version": 5,
+      "changeset": 155718605,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "鱷魚島觀景處",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2667289641,
+      "lat": 25.0532983,
+      "lon": 121.6240409,
+      "timestamp": "2025-03-06T06:40:48Z",
+      "version": 6,
+      "changeset": 163271475,
+      "user": "egret",
+      "uid": 521877,
+      "tags": {
+        "name": "汐止市區展望",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2667289701,
+      "lat": 25.0537483,
+      "lon": 121.6221283,
+      "timestamp": "2025-03-06T06:40:48Z",
+      "version": 5,
+      "changeset": 163271475,
+      "user": "egret",
+      "uid": 521877,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2667289702,
+      "lat": 25.0537869,
+      "lon": 121.6224727,
+      "timestamp": "2025-03-06T06:40:48Z",
+      "version": 5,
+      "changeset": 163271475,
+      "user": "egret",
+      "uid": 521877,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2667289703,
+      "lat": 25.0531821,
+      "lon": 121.6234149,
+      "timestamp": "2025-03-06T06:40:48Z",
+      "version": 6,
+      "changeset": 163271475,
+      "user": "egret",
+      "uid": 521877,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2753380057,
+      "lat": 14.5940806,
+      "lon": 121.3159838,
+      "timestamp": "2018-08-24T08:55:21Z",
+      "version": 2,
+      "changeset": 61946006,
+      "user": "Banjo Sofranes Aquino",
+      "uid": 7680970,
+      "tags": {
+        "name": "Masungi Rock",
+        "name:en": "Masungi Rock",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2804092339,
+      "lat": 15.7553185,
+      "lon": 121.5807114,
+      "timestamp": "2014-04-20T16:38:31Z",
+      "version": 2,
+      "changeset": 21818519,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "ele": "55",
+        "name": "Baler Bay Viewpoint",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2804092340,
+      "lat": 15.754985,
+      "lon": 121.5810331,
+      "timestamp": "2014-04-20T16:33:59Z",
+      "version": 1,
+      "changeset": 21818459,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "ele": "58",
+        "name": "Rocks Viewpoint",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2804092341,
+      "lat": 15.7551694,
+      "lon": 121.5802993,
+      "timestamp": "2014-04-20T16:33:59Z",
+      "version": 1,
+      "changeset": 21818459,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "ele": "50",
+        "name": "Sabang Beach Viewpoint",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2804199826,
+      "lat": 15.756319,
+      "lon": 121.6224984,
+      "timestamp": "2017-12-04T04:55:27Z",
+      "version": 2,
+      "changeset": 54317639,
+      "user": "MikelPC",
+      "uid": 2231957,
+      "tags": {
+        "name": "Aniao Rocks Viewpoint",
+        "source": "Schadow1 Expeditions",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2804199828,
+      "lat": 15.7642968,
+      "lon": 121.600297,
+      "timestamp": "2026-04-09T11:31:44Z",
+      "version": 2,
+      "changeset": 181092360,
+      "user": "seav",
+      "uid": 11126,
+      "tags": {
+        "name": "Diguisit Rocks Viewpoint",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2804200238,
+      "lat": 15.7643273,
+      "lon": 121.599994,
+      "timestamp": "2026-04-09T11:31:44Z",
+      "version": 2,
+      "changeset": 181092360,
+      "user": "seav",
+      "uid": 11126,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2852757446,
+      "lat": 25.0012663,
+      "lon": 121.3899617,
+      "timestamp": "2025-01-08T13:35:38Z",
+      "version": 2,
+      "changeset": 161134016,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "關公嶺展望台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2852903096,
+      "lat": 25.0320763,
+      "lon": 121.4055892,
+      "timestamp": "2014-05-12T13:43:08Z",
+      "version": 1,
+      "changeset": 22292067,
+      "user": "coolbook",
+      "uid": 2049994,
+      "tags": {
+        "name": "瞭望台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2852903689,
+      "lat": 25.0407521,
+      "lon": 121.3992109,
+      "timestamp": "2014-05-12T13:43:59Z",
+      "version": 1,
+      "changeset": 22292097,
+      "user": "coolbook",
+      "uid": 2049994,
+      "tags": {
+        "name": "水源地公園",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2880019279,
+      "lat": 25.283853,
+      "lon": 121.5147823,
+      "timestamp": "2026-04-17T04:29:02Z",
+      "version": 3,
+      "changeset": 181439131,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2915880625,
+      "lat": 23.8460609,
+      "lon": 121.4621212,
+      "timestamp": "2014-06-14T12:32:30Z",
+      "version": 1,
+      "changeset": 22924957,
+      "user": "JingGeocacher",
+      "uid": 153500,
+      "tags": {
+        "name": "觀景台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2918709725,
+      "lat": 24.9028174,
+      "lon": 121.4197543,
+      "timestamp": "2021-06-24T05:47:22Z",
+      "version": 3,
+      "changeset": 106873368,
+      "user": "mbertheau",
+      "uid": 380422,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2934166918,
+      "lat": 24.8170052,
+      "lon": 121.4493367,
+      "timestamp": "2020-06-26T05:44:49Z",
+      "version": 2,
+      "changeset": 87170931,
+      "user": "Valarr",
+      "uid": 8213716,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2949195391,
+      "lat": 25.1669557,
+      "lon": 121.5604093,
+      "timestamp": "2025-03-12T20:51:01Z",
+      "version": 3,
+      "changeset": 163545043,
+      "user": "Jade Jossen",
+      "uid": 11571794,
+      "tags": {
+        "name": "夢幻湖觀景台",
+        "name:en": "Menghuanhu Lookout",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2969976125,
+      "lat": 25.0314475,
+      "lon": 121.4067614,
+      "timestamp": "2016-03-07T17:19:38Z",
+      "version": 2,
+      "changeset": 37670415,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "觀景平台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3002746860,
+      "lat": 24.9512459,
+      "lon": 121.3556725,
+      "timestamp": "2024-11-23T12:10:03Z",
+      "version": 2,
+      "changeset": 159496710,
+      "user": "西田艾莉",
+      "uid": 20967351,
+      "tags": {
+        "name": "三鶯之心 空間藝術特區",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3027248087,
+      "lat": 24.8154024,
+      "lon": 121.3484089,
+      "timestamp": "2014-08-19T12:05:33Z",
+      "version": 1,
+      "changeset": 24857631,
+      "user": "Vintagejhan",
+      "uid": 1224430,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3029693163,
+      "lat": 24.8098724,
+      "lon": 121.3476652,
+      "timestamp": "2014-08-20T13:50:09Z",
+      "version": 1,
+      "changeset": 24885490,
+      "user": "Vintagejhan",
+      "uid": 1224430,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    }
+  ]
+}

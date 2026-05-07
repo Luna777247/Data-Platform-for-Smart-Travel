@@ -1,0 +1,2011 @@
+{
+  "city": "taipei",
+  "category": "restaurant",
+  "timestamp": "20260507_171848",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 283374379,
+      "lat": 25.1064928,
+      "lon": 121.5243721,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 9,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:full": "111台北市士林區德行西路5號",
+        "addr:housenumber": "5",
+        "addr:postcode": "111",
+        "addr:street": "德行西路",
+        "amenity": "restaurant",
+        "check_date": "2024-12-22",
+        "cuisine": "german",
+        "name": "温德德式烘焙餐館",
+        "name:en": "Wendel's bakery and bistro",
+        "name:zh": "温德德式烘焙餐館",
+        "opening_hours": "Tu-Su 09:00-22:00",
+        "phone": "+886 2 2831 4415",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 299002404,
+      "lat": 25.0321775,
+      "lon": 121.5687012,
+      "timestamp": "2024-09-29T05:08:01Z",
+      "version": 7,
+      "changeset": 157236178,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "信義區",
+        "addr:full": "110臺北市信義區三犁里14鄰信義路五段122號",
+        "addr:hamlet": "三犁里",
+        "addr:housenumber": "122",
+        "addr:neighbourhood": "14",
+        "addr:postcode": "110",
+        "addr:street": "信義路五段",
+        "amenity": "restaurant",
+        "branch": "信義象山門市",
+        "cuisine": "thai",
+        "disused:amenity": "restaurant",
+        "disused:cuisine": "american",
+        "disused:name": "N.Y.Bagels Cafe",
+        "name": "初泰",
+        "name:en": "Pikul",
+        "name:zh": "初泰"
+      }
+    },
+    {
+      "type": "node",
+      "id": 346678733,
+      "lat": 13.9333095,
+      "lon": 121.6127451,
+      "timestamp": "2023-07-17T00:25:10Z",
+      "version": 4,
+      "changeset": 138598532,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "addr:street": "Quezon Avenue",
+        "amenity": "restaurant",
+        "name": "Hacienda Inn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 349088654,
+      "lat": 14.0478943,
+      "lon": 121.5711685,
+      "timestamp": "2011-08-16T07:02:01Z",
+      "version": 3,
+      "changeset": 9033619,
+      "user": "G-eMapper",
+      "uid": 462835,
+      "tags": {
+        "amenity": "restaurant",
+        "leisure": "water_park",
+        "name": "Nawawalang Paraiso"
+      }
+    },
+    {
+      "type": "node",
+      "id": 417253542,
+      "lat": 14.3402744,
+      "lon": 121.4829218,
+      "timestamp": "2019-07-02T23:47:16Z",
+      "version": 3,
+      "changeset": 71840538,
+      "user": "PaeteMPS",
+      "uid": 10106299,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Exotik Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 457873963,
+      "lat": 13.9639175,
+      "lon": 121.5252967,
+      "timestamp": "2024-11-12T04:41:06Z",
+      "version": 8,
+      "changeset": 159035033,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:municipality": "Sariaya",
+        "addr:street": "Valderas Street",
+        "amenity": "restaurant",
+        "name": "Casa Plaza Restaurant",
+        "source": "Schadow1 Expeditions"
+      }
+    },
+    {
+      "type": "node",
+      "id": 457873965,
+      "lat": 13.9625771,
+      "lon": 121.5258423,
+      "timestamp": "2009-08-07T09:44:25Z",
+      "version": 1,
+      "changeset": 2063467,
+      "user": "ed_waypointsdotph",
+      "uid": 24250,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Don Lauro's Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 457873975,
+      "lat": 13.9622399,
+      "lon": 121.5238636,
+      "timestamp": "2009-08-07T09:44:25Z",
+      "version": 1,
+      "changeset": 2063467,
+      "user": "ed_waypointsdotph",
+      "uid": 24250,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Treat House Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 469812996,
+      "lat": 25.0420134,
+      "lon": 121.5132954,
+      "timestamp": "2025-08-22T13:40:54Z",
+      "version": 11,
+      "changeset": 170832797,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:floor": "2",
+        "addr:full": "10045臺北市中正區重慶南路一段129號2樓",
+        "addr:housenumber": "129",
+        "addr:postcode": "10045",
+        "addr:street": "重慶南路一段",
+        "amenity": "restaurant",
+        "branch": "台北重慶南店",
+        "branch:zh": "台北重慶南店",
+        "cuisine": "steak_house",
+        "delivery": "no",
+        "level": "2",
+        "name": "西堤牛排",
+        "name:en": "TASTY",
+        "name:zh": "西堤牛排",
+        "opening_hours": "Mo-Su 11:30-14:30,17:30-22:00",
+        "phone": "+886 2 2370 8292",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.tasty.com.tw/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 471718722,
+      "lat": 25.0171555,
+      "lon": 121.5331507,
+      "timestamp": "2026-02-07T14:38:59Z",
+      "version": 17,
+      "changeset": 178230721,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:full": "10673臺北市大安區新生南路三段96-1號",
+        "addr:housenumber": "96-1",
+        "addr:postcode": "10673",
+        "addr:street": "新生南路三段",
+        "amenity": "restaurant",
+        "check_date": "2026-02-06",
+        "name": "韓國時間（即將開幕）",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 515626509,
+      "lat": 14.1315004,
+      "lon": 121.4357557,
+      "timestamp": "2022-02-22T15:02:30Z",
+      "version": 2,
+      "changeset": 117731406,
+      "user": "tayuman15",
+      "uid": 10789729,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Arabela"
+      }
+    },
+    {
+      "type": "node",
+      "id": 568243320,
+      "lat": 15.765353,
+      "lon": 121.5659196,
+      "timestamp": "2025-05-14T19:41:37Z",
+      "version": 6,
+      "changeset": 166274237,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Baler",
+        "addr:postcode": "3200",
+        "addr:street": "Buton Street",
+        "amenity": "restaurant",
+        "name": "Aliya Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 569950080,
+      "lat": 25.025825,
+      "lon": 121.5690263,
+      "timestamp": "2009-11-24T11:06:59Z",
+      "version": 1,
+      "changeset": 3202851,
+      "user": "TTaipei",
+      "uid": 200988,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "various"
+      }
+    },
+    {
+      "type": "node",
+      "id": 569950081,
+      "lat": 25.0246511,
+      "lon": 121.5691845,
+      "timestamp": "2020-07-08T18:10:11Z",
+      "version": 5,
+      "changeset": 87717104,
+      "user": "cmi3j89d9o",
+      "uid": 151425,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "breakfast",
+        "name": "上品早餐坊"
+      }
+    },
+    {
+      "type": "node",
+      "id": 569950082,
+      "lat": 25.0269138,
+      "lon": 121.5686937,
+      "timestamp": "2011-10-24T01:54:38Z",
+      "version": 2,
+      "changeset": 9639705,
+      "user": "TTaipei",
+      "uid": 200988,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "description": "German",
+        "name": "Schwarzwald"
+      }
+    },
+    {
+      "type": "node",
+      "id": 569950704,
+      "lat": 25.0332576,
+      "lon": 121.5594331,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 13,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "信義區",
+        "addr:full": "110臺北市信義區信義路四段415之3號",
+        "addr:housenumber": "415之3",
+        "addr:postcode": "110",
+        "addr:street": "信義路四段",
+        "amenity": "restaurant",
+        "branch": "信義店",
+        "cuisine": "coffee_shop",
+        "disused:amenity": "restaurant",
+        "disused:cuisine": "korean",
+        "disused:name": "Honey Pig",
+        "facebook": "https://www.facebook.com/HoneyPig.tw",
+        "name": "布納咖啡館",
+        "name:en": "BUNA CAF'E",
+        "name:zh": "布納咖啡館",
+        "opening_hours": "PH,Mo-Su 08:00-01:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 738835617,
+      "lat": 25.0188742,
+      "lon": 121.5317265,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 11,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:full": "106臺北市大安區羅斯福路三段283巷28號",
+        "addr:housenumber": "28",
+        "addr:postcode": "106",
+        "addr:street": "羅斯福路三段283巷",
+        "amenity": "restaurant",
+        "cuisine": "indian;curry",
+        "disused:name": "So Free Wood Fired Pizza",
+        "name": "神燈搓一下",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 743174782,
+      "lat": 25.0188598,
+      "lon": 121.530954,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 6,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:full": "臺北市大安區羅斯福路三段283巷7弄16號",
+        "addr:housenumber": "16",
+        "addr:street": "羅斯福路三段283巷7弄",
+        "amenity": "restaurant",
+        "branch": "台大店",
+        "name": "希臘佐巴",
+        "name:en": "Greek Go",
+        "name:zh": "希臘佐巴",
+        "phone": "+886 2 2363 3925",
+        "toilets:wheelchair": "no",
+        "website": "http://www.greekgo.htm.tw",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 772366570,
+      "lat": 14.3642538,
+      "lon": 121.482545,
+      "timestamp": "2021-05-01T14:06:11Z",
+      "version": 5,
+      "changeset": 103958280,
+      "user": "SomeoneElse",
+      "uid": 61942,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Pancit Africano"
+      }
+    },
+    {
+      "type": "node",
+      "id": 796622342,
+      "lat": 14.3651671,
+      "lon": 121.4834207,
+      "timestamp": "2021-05-01T14:09:10Z",
+      "version": 6,
+      "changeset": 103958280,
+      "user": "SomeoneElse",
+      "uid": 61942,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Woodstock"
+      }
+    },
+    {
+      "type": "node",
+      "id": 868325300,
+      "lat": 25.0571098,
+      "lon": 121.6158849,
+      "timestamp": "2025-07-26T07:43:23Z",
+      "version": 10,
+      "changeset": 169490668,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "樂雅樂",
+        "brand:en": "Royal Host",
+        "brand:ja": "ロイヤルホスト",
+        "brand:wikidata": "Q11120884",
+        "brand:zh": "樂雅樂",
+        "cuisine": "japanese;italian;french",
+        "name": "樂雅樂",
+        "name:en": "Royal Host",
+        "name:ja": "ロイヤルホスト",
+        "name:zh": "樂雅樂",
+        "operator": "東元電機股份有限公司",
+        "operator:en": "TECO Electric & Machinery Co., Ltd.",
+        "operator:wikidata": "Q5964699",
+        "operator:zh": "東元電機股份有限公司",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 870621641,
+      "lat": 25.0693438,
+      "lon": 121.6286782,
+      "timestamp": "2026-03-23T12:07:24Z",
+      "version": 11,
+      "changeset": 180302237,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "汐止區",
+        "addr:full": "新北市汐止區中興路282號",
+        "addr:housenumber": "282",
+        "addr:street": "中興路",
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "name": "養生素食",
+        "religion": "buddhist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 870621648,
+      "lat": 25.0697157,
+      "lon": 121.6280007,
+      "timestamp": "2018-04-23T18:25:38Z",
+      "version": 6,
+      "changeset": 58347872,
+      "user": "TimothyFire",
+      "uid": 5312957,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 871610962,
+      "lat": 25.0716145,
+      "lon": 121.6308085,
+      "timestamp": "2015-06-21T17:28:33Z",
+      "version": 5,
+      "changeset": 32122020,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Organic Chateau"
+      }
+    },
+    {
+      "type": "node",
+      "id": 903975904,
+      "lat": 25.0693265,
+      "lon": 121.6272801,
+      "timestamp": "2015-06-21T17:28:38Z",
+      "version": 4,
+      "changeset": 32122020,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 906718322,
+      "lat": 25.0554901,
+      "lon": 121.6138715,
+      "timestamp": "2020-02-14T11:22:00Z",
+      "version": 4,
+      "changeset": 81005224,
+      "user": "cmi3j89d9o",
+      "uid": 151425,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "name": "Vegetarian Buffet",
+        "religion": "buddhist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 924214891,
+      "lat": 25.0128362,
+      "lon": 121.5368211,
+      "timestamp": "2023-01-02T21:51:35Z",
+      "version": 13,
+      "changeset": 130804705,
+      "user": "Kristjan ESPERANTO",
+      "uid": 77904,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:floor": "2",
+        "addr:full": "10673臺北市大安區羅斯福路四段85號2樓",
+        "addr:housenumber": "85",
+        "addr:postcode": "10673",
+        "addr:street": "羅斯福路四段",
+        "amenity": "restaurant",
+        "branch": "台大二活店",
+        "diet:vegetarian": "yes",
+        "level": "2",
+        "name": "小蔬杭 絕對蔬食",
+        "old_name": "茄子洋廚",
+        "old_name:en": "La Maison du Aubergine",
+        "old_name:zh": "茄子洋廚",
+        "opening_hours": "Mo-Su 11:30-21:30",
+        "phone": "+886 2 2365 0333",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 939201322,
+      "lat": 25.0697207,
+      "lon": 121.6350755,
+      "timestamp": "2015-06-21T17:28:36Z",
+      "version": 6,
+      "changeset": 32122020,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "銘記越南美食"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1022888971,
+      "lat": 14.0515701,
+      "lon": 121.5703456,
+      "timestamp": "2011-08-14T06:34:09Z",
+      "version": 2,
+      "changeset": 9012005,
+      "user": "G-eMapper",
+      "uid": 462835,
+      "tags": {
+        "addr:city": "Tayabas",
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1073099421,
+      "lat": 15.761346,
+      "lon": 121.5681578,
+      "timestamp": "2025-05-14T19:41:37Z",
+      "version": 9,
+      "changeset": 166274237,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Baler",
+        "addr:postcode": "3200",
+        "addr:street": "Buton Street",
+        "amenity": "restaurant",
+        "name": "Bahia de Baler Bar and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1081855257,
+      "lat": 25.0400885,
+      "lon": 121.5349254,
+      "timestamp": "2020-07-27T11:23:27Z",
+      "version": 2,
+      "changeset": 88548847,
+      "user": "cmi3j89d9o",
+      "uid": 151425,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "松滿樓"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1081855284,
+      "lat": 25.0403018,
+      "lon": 121.5333202,
+      "timestamp": "2015-07-31T16:46:40Z",
+      "version": 2,
+      "changeset": 33012053,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "濟南路水煎包"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1099097436,
+      "lat": 13.9297261,
+      "lon": 121.6122783,
+      "timestamp": "2018-02-20T11:43:14Z",
+      "version": 2,
+      "changeset": 56517995,
+      "user": "MikelPC",
+      "uid": 2231957,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bubble's Crispy Pata & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130834741,
+      "lat": 14.2726312,
+      "lon": 121.4552306,
+      "timestamp": "2026-02-09T19:27:53Z",
+      "version": 6,
+      "changeset": 178327201,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Pagsanjan",
+        "addr:postcode": "4008",
+        "addr:street": "J. P. Rizal Street",
+        "amenity": "restaurant",
+        "name": "Andok's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130834742,
+      "lat": 14.2699356,
+      "lon": 121.4445663,
+      "timestamp": "2026-02-09T19:27:53Z",
+      "version": 3,
+      "changeset": 178327201,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Pagsanjan",
+        "addr:postcode": "4008",
+        "addr:street": "J. P. Rizal Street",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Hana Japanese Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1250739803,
+      "lat": 13.9410633,
+      "lon": 121.6018581,
+      "timestamp": "2011-04-19T04:24:50Z",
+      "version": 1,
+      "changeset": 7903075,
+      "user": "miamuy",
+      "uid": 206066,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Okazu Garden Resort & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1254805249,
+      "lat": 13.9385185,
+      "lon": 121.5995983,
+      "timestamp": "2013-01-11T11:03:48Z",
+      "version": 2,
+      "changeset": 14608130,
+      "user": "Nickrds09",
+      "uid": 966535,
+      "tags": {
+        "addr:postcode": "4301",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "JM Tsuki Japanese Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1260418121,
+      "lat": 14.3651141,
+      "lon": 121.4835452,
+      "timestamp": "2019-06-25T11:54:19Z",
+      "version": 2,
+      "changeset": 71596901,
+      "user": "PaeteMPS",
+      "uid": 10106299,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Fema's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1260418136,
+      "lat": 14.3650173,
+      "lon": 121.4835462,
+      "timestamp": "2019-06-28T08:22:16Z",
+      "version": 3,
+      "changeset": 71698408,
+      "user": "PaeteMPS",
+      "uid": 10106299,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Albino's Goto",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1261615956,
+      "lat": 13.9428655,
+      "lon": 121.6138415,
+      "timestamp": "2025-10-13T13:53:32Z",
+      "version": 6,
+      "changeset": 173229204,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Lucena",
+        "addr:postcode": "4301",
+        "addr:street": "Doña Aurora Boulevard",
+        "amenity": "restaurant",
+        "name": "Luisa and Daughter Restaurant and Catering Services",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1268923092,
+      "lat": 14.2731303,
+      "lon": 121.4541182,
+      "timestamp": "2026-02-09T19:27:53Z",
+      "version": 6,
+      "changeset": 178327201,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Pagsanjan",
+        "addr:postcode": "4008",
+        "addr:street": "J. P. Rizal Street",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Emin and Mila's Canteen",
+        "website": "https://www.facebook.com/pages/Emin-and-Milas-Canteen/102104013204001?sk=wall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1271651969,
+      "lat": 14.2733045,
+      "lon": 121.4489222,
+      "timestamp": "2022-02-25T01:21:28Z",
+      "version": 4,
+      "changeset": 117831783,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "addr:city": "Pagsanjan",
+        "addr:postcode": "4008",
+        "addr:street": "J. P. Rizal Street",
+        "amenity": "restaurant",
+        "name": "Pico's Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1278037941,
+      "lat": 14.2740244,
+      "lon": 121.4560811,
+      "timestamp": "2026-02-09T19:27:53Z",
+      "version": 8,
+      "changeset": 178327201,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Pagsanjan",
+        "addr:postcode": "4008",
+        "addr:street": "General Taiño Street",
+        "amenity": "restaurant",
+        "name": "Durafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1281234333,
+      "lat": 25.0361253,
+      "lon": 121.5471216,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 5,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:full": "106臺北市大安區東豐街53號",
+        "addr:housenumber": "53",
+        "addr:postcode": "106",
+        "addr:street": "東豐街",
+        "amenity": "restaurant",
+        "name": "曜日",
+        "phone": "+886 2 2706-3553",
+        "website": "http://www.facebook.com/pages/DIARY/222610990124"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1281663097,
+      "lat": 25.059613,
+      "lon": 121.5373819,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 8,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:full": "104台北市中山區建國北路二段119號",
+        "addr:housenumber": "119",
+        "addr:postcode": "104",
+        "addr:street": "建國北路二段",
+        "amenity": "restaurant",
+        "cuisine": "taiwanese",
+        "name": "邊田庄",
+        "name:en": "Taipei Pien",
+        "name:zh": "邊田庄",
+        "phone": "+886 2 2501-1068",
+        "website": "http://www.pien.com.tw"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1315638419,
+      "lat": 14.1464789,
+      "lon": 121.4709527,
+      "timestamp": "2011-06-07T23:00:24Z",
+      "version": 1,
+      "changeset": 8375149,
+      "user": "G-eMapper",
+      "uid": 462835,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Titanic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1315742916,
+      "lat": 14.2731482,
+      "lon": 121.4532381,
+      "timestamp": "2026-02-09T19:27:53Z",
+      "version": 3,
+      "changeset": 178327201,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Pagsanjan",
+        "addr:postcode": "4008",
+        "addr:street": "J. P. Rizal Street",
+        "amenity": "restaurant",
+        "name": "Calle Arco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1332532610,
+      "lat": 18.3441011,
+      "lon": 121.644755,
+      "timestamp": "2018-10-31T20:07:32Z",
+      "version": 3,
+      "changeset": 64058552,
+      "user": "Mika77",
+      "uid": 75593,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Cging Ching Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1332536153,
+      "lat": 18.3549817,
+      "lon": 121.6396063,
+      "timestamp": "2011-06-20T17:31:00Z",
+      "version": 1,
+      "changeset": 8496453,
+      "user": "remzamora",
+      "uid": 84952,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Criselda's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1389755868,
+      "lat": 24.9680428,
+      "lon": 121.5951902,
+      "timestamp": "2019-09-17T21:29:36Z",
+      "version": 2,
+      "changeset": 74599541,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "相逢居"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1398644370,
+      "lat": 25.0004644,
+      "lon": 121.4634096,
+      "timestamp": "2026-03-23T12:07:24Z",
+      "version": 19,
+      "changeset": 180302237,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "板橋區",
+        "addr:floor": "-1",
+        "addr:full": "22062新北市板橋區重慶路247號-1樓",
+        "addr:housenumber": "247",
+        "addr:postcode": "22062",
+        "addr:street": "重慶路",
+        "amenity": "restaurant",
+        "disused:amenity": "pharmacy",
+        "disused:healthcare": "pharmacy",
+        "disused:name": "丁丁藥局",
+        "disused:official_name": "丁丁藥局板橋店",
+        "name": "喫鍋趣"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1408111639,
+      "lat": 24.9962803,
+      "lon": 121.4629956,
+      "timestamp": "2026-03-10T12:57:49Z",
+      "version": 7,
+      "changeset": 179638244,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "滷底撈"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411751314,
+      "lat": 24.9960355,
+      "lon": 121.4620471,
+      "timestamp": "2020-08-19T17:49:04Z",
+      "version": 4,
+      "changeset": 89648157,
+      "user": "cmi3j89d9o",
+      "uid": 151425,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "太師傅便當",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411751318,
+      "lat": 25.0002152,
+      "lon": 121.4634458,
+      "timestamp": "2017-04-24T10:00:06Z",
+      "version": 4,
+      "changeset": 48085689,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "廣香龍華樓"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411751323,
+      "lat": 24.9962654,
+      "lon": 121.4622429,
+      "timestamp": "2020-08-19T17:49:04Z",
+      "version": 3,
+      "changeset": 89648157,
+      "user": "cmi3j89d9o",
+      "uid": 151425,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "池上木片便當",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411751366,
+      "lat": 25.0021572,
+      "lon": 121.4628341,
+      "timestamp": "2011-08-27T20:06:37Z",
+      "version": 2,
+      "changeset": 9141255,
+      "user": "cwweng",
+      "uid": 504345,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "萬香台式烤鴨"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411751369,
+      "lat": 24.9965989,
+      "lon": 121.4630551,
+      "timestamp": "2026-03-10T08:01:55Z",
+      "version": 3,
+      "changeset": 179623976,
+      "user": "SuYuuuuu",
+      "uid": 23921137,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "秦記排骨便當"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412407356,
+      "lat": 25.0052134,
+      "lon": 121.4622685,
+      "timestamp": "2011-08-25T16:52:27Z",
+      "version": 1,
+      "changeset": 9122927,
+      "user": "cwweng",
+      "uid": 504345,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "華西街生炒花枝"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412407357,
+      "lat": 25.0023588,
+      "lon": 121.4625108,
+      "timestamp": "2024-12-21T01:28:29Z",
+      "version": 2,
+      "changeset": 160455340,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "錢都涮涮鍋",
+        "brand:en": "Chien Tu Hot Pot",
+        "brand:wikidata": "Q109344533",
+        "brand:zh": "錢都涮涮鍋",
+        "cuisine": "hotpot",
+        "name": "錢都涮涮鍋",
+        "name:en": "Chien Tu Hot Pot",
+        "name:zh": "錢都涮涮鍋"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1413143360,
+      "lat": 25.0277486,
+      "lon": 121.4728936,
+      "timestamp": "2011-08-26T13:46:43Z",
+      "version": 1,
+      "changeset": 9129853,
+      "user": "cwweng",
+      "uid": 504345,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "海生樓活海產"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1573939720,
+      "lat": 14.3636404,
+      "lon": 121.4841015,
+      "timestamp": "2012-01-02T12:07:31Z",
+      "version": 1,
+      "changeset": 10269950,
+      "user": "backpacking philippines",
+      "uid": 239705,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Kamalig Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1588281946,
+      "lat": 14.3641783,
+      "lon": 121.4834404,
+      "timestamp": "2019-06-27T15:54:54Z",
+      "version": 4,
+      "changeset": 71677921,
+      "user": "PaeteMPS",
+      "uid": 10106299,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Benga's Paete Eatery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1686585411,
+      "lat": 25.0073522,
+      "lon": 121.5373951,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 11,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:full": "116台北市文山區汀州路四段87號",
+        "addr:housenumber": "87",
+        "addr:postcode": "116",
+        "addr:street": "汀州路四段",
+        "amenity": "restaurant",
+        "disused:amenity": "cafe",
+        "disused:name": "深林幻境",
+        "disused:name:en": "GALVLIH Cafe",
+        "name": "諦純素主義空間",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1716390586,
+      "lat": 25.0224415,
+      "lon": 121.5267705,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 8,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:full": "106臺北市大安區浦城街55號",
+        "addr:housenumber": "55",
+        "addr:postcode": "106",
+        "addr:street": "浦城街",
+        "amenity": "restaurant",
+        "name": "早安你好",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wheelchair:description": "老闆人很好"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720014715,
+      "lat": 25.0829308,
+      "lon": 121.5609171,
+      "timestamp": "2022-06-02T10:19:07Z",
+      "version": 5,
+      "changeset": 121845541,
+      "user": "林阿凱",
+      "uid": 7535457,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "隨意鳥地方"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720014724,
+      "lat": 25.0826586,
+      "lon": 121.5613215,
+      "timestamp": "2021-06-02T17:31:20Z",
+      "version": 4,
+      "changeset": 105732753,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "水舞饌"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720016592,
+      "lat": 25.0819007,
+      "lon": 121.5516334,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 8,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:full": "104台北市中山區明水路602號",
+        "addr:housenumber": "602",
+        "addr:postcode": "104",
+        "addr:street": "明水路",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "明水三井",
+        "website": "http://www.mitsuitaipei.com.tw"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1736930339,
+      "lat": 25.0071579,
+      "lon": 121.4617031,
+      "timestamp": "2026-03-23T12:07:24Z",
+      "version": 7,
+      "changeset": 180302237,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "板橋區",
+        "addr:full": "20063新北市板橋區重慶路58號",
+        "addr:housenumber": "58",
+        "addr:postcode": "20063",
+        "addr:street": "重慶路",
+        "amenity": "restaurant",
+        "name": "四季便當",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766418755,
+      "lat": 25.0830206,
+      "lon": 121.5578886,
+      "timestamp": "2021-06-02T17:31:25Z",
+      "version": 10,
+      "changeset": 105732753,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:district": "中山區",
+        "amenity": "restaurant",
+        "brand": "金色三麥",
+        "is_in": "美麗華百樂園",
+        "microbrewery": "yes",
+        "name": "金色三麥",
+        "name:en": "Le blé d'or",
+        "name:zh": "金色三麥"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766418756,
+      "lat": 25.0835494,
+      "lon": 121.5575084,
+      "timestamp": "2023-11-13T13:52:38Z",
+      "version": 11,
+      "changeset": 143971890,
+      "user": "yurinchi",
+      "uid": 18000723,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:district": "中山區",
+        "amenity": "restaurant",
+        "brand": "TGI Fridays",
+        "brand:wikidata": "Q1524184",
+        "cuisine": "american",
+        "is_in": "美麗華百樂園",
+        "name": "TGI Fridays",
+        "name:zh": "星期五餐廳"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766472949,
+      "lat": 25.0835079,
+      "lon": 121.556778,
+      "timestamp": "2025-07-19T11:48:18Z",
+      "version": 10,
+      "changeset": 169148335,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:floor": "2",
+        "addr:full": "台北市中山區敬業三路22號2樓",
+        "addr:housenumber": "22",
+        "addr:street": "敬業三路",
+        "amenity": "restaurant",
+        "branch": "美麗華店",
+        "brand": "瓦城泰國料理",
+        "brand:en": "Thai Town",
+        "brand:wikidata": "Q130214321",
+        "brand:zh": "瓦城泰國料理",
+        "cuisine": "thai",
+        "is_in": "美麗華百樂園",
+        "name": "瓦城泰國料理",
+        "name:en": "Thai Town",
+        "name:zh": "瓦城泰國料理",
+        "operator": "瓦城泰統集團",
+        "operator:en": "TTFB Restaurant Group",
+        "operator:wikidata": "Q15927204",
+        "operator:zh": "瓦城泰統集團",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1766472950,
+      "lat": 25.083143,
+      "lon": 121.5590172,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 9,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:full": "10462臺北市中山區樂群三路285號",
+        "addr:housenumber": "285",
+        "addr:postcode": "10462",
+        "addr:street": "樂群三路",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "2011 Teppanyaki &Wine",
+        "website": "http://www.teppan-wine.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1781298151,
+      "lat": 25.0606894,
+      "lon": 121.4332573,
+      "timestamp": "2025-01-02T11:53:35Z",
+      "version": 3,
+      "changeset": 160903532,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "泰山區",
+        "addr:full": "新北市泰山區泰林路二段173巷2號",
+        "addr:housenumber": "2",
+        "addr:street": "泰林路二段173巷",
+        "amenity": "restaurant",
+        "disused:name": "頂好超市",
+        "disused:shop": "supermarket",
+        "name": "集鮮城複合式水產餐廳"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1833133779,
+      "lat": 25.1217625,
+      "lon": 121.514145,
+      "timestamp": "2017-01-25T08:53:38Z",
+      "version": 4,
+      "changeset": 45467783,
+      "user": "愛台玩",
+      "uid": 3682557,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "5F布查花園法式餐廳"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837857040,
+      "lat": 25.0845591,
+      "lon": 121.5614534,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 11,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "114臺北市內湖區內湖路一段93號",
+        "addr:housenumber": "93",
+        "addr:postcode": "114",
+        "addr:street": "內湖路一段",
+        "alt_name:en": "Lai Lai Soymilk",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "來來豆漿",
+        "name:en": "Lai Lai Dow Jang",
+        "name:zh-Latn-pinyin": "Lái Lái Dòujiāng",
+        "phone": "+886-2-27988725",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837919028,
+      "lat": 25.0839106,
+      "lon": 121.5679051,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 14,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "114臺北市內湖區內湖路一段323巷2號",
+        "addr:housenumber": "2",
+        "addr:postcode": "114",
+        "addr:street": "內湖路一段323巷",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "陽光廚房蔬食"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837919644,
+      "lat": 25.0839105,
+      "lon": 121.567374,
+      "timestamp": "2021-06-02T17:31:37Z",
+      "version": 7,
+      "changeset": 105732753,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "六姊刨冰"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837922316,
+      "lat": 25.0845907,
+      "lon": 121.567315,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 6,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "台北市內湖區內湖路一段285巷65弄6號",
+        "addr:housenumber": "6",
+        "addr:street": "內湖路一段285巷65弄",
+        "amenity": "restaurant",
+        "disused:shop": "greengrocer",
+        "name": "古早味土雞城"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837942492,
+      "lat": 25.0826272,
+      "lon": 121.5665067,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 10,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:floor": "2",
+        "addr:full": "114臺北市內湖區內湖路一段285號二樓101",
+        "addr:housenumber": "285",
+        "addr:postcode": "114",
+        "addr:street": "內湖路一段",
+        "addr:unit": "101",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "level": "2",
+        "name": "拉麵一番星",
+        "name:en": "Ramen Ichiban-boshi",
+        "name:zh": "拉麵一番星",
+        "opening_hours": "Tu-Fr 11:30-14:00, 17:30-19:00; Su 11:30-14:00; Mo, Sa off",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837943842,
+      "lat": 25.0841437,
+      "lon": 121.5672882,
+      "timestamp": "2021-06-02T17:31:41Z",
+      "version": 5,
+      "changeset": 105732753,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "金玉堂小吃店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837944568,
+      "lat": 25.0864951,
+      "lon": 121.5671244,
+      "timestamp": "2025-12-28T15:11:10Z",
+      "version": 8,
+      "changeset": 176533748,
+      "user": "crgbsly",
+      "uid": 9093997,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "永和豆漿",
+        "brand:en": "Yonghe Soy Milk",
+        "brand:wikidata": "Q11131335",
+        "brand:zh": "永和豆漿",
+        "cuisine": "chinese;breakfast",
+        "name": "永和豆漿",
+        "name:en": "Yonghe Soy Milk",
+        "name:zh": "永和豆漿",
+        "name:zh-Hans": "永和豆浆",
+        "name:zh-Hant": "永和豆漿"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837949781,
+      "lat": 25.0839155,
+      "lon": 121.5672157,
+      "timestamp": "2021-06-02T17:31:42Z",
+      "version": 6,
+      "changeset": 105732753,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "2派克"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837951128,
+      "lat": 25.0834758,
+      "lon": 121.567937,
+      "timestamp": "2021-06-02T17:31:42Z",
+      "version": 4,
+      "changeset": 105732753,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "牛耳牛肉麵"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837957011,
+      "lat": 25.0817317,
+      "lon": 121.5708687,
+      "timestamp": "2024-11-29T11:54:27Z",
+      "version": 10,
+      "changeset": 159738734,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "台北市內湖路一段411巷1號",
+        "addr:housenumber": "1",
+        "addr:street": "內湖路一段411巷",
+        "amenity": "restaurant",
+        "brand": "三商巧福",
+        "brand:wikidata": "Q10865579",
+        "brand:wikipedia": "zh:三商巧福",
+        "brand:zh": "三商巧福",
+        "cuisine": "taiwanese",
+        "disused:name": "庶民經濟便當",
+        "name": "三商巧福",
+        "name:en": "Mercuries Food",
+        "name:hak": "Sâm-sông Kháu-fuk",
+        "name:nan": "Sam-siong Kháu-hok",
+        "name:nan-Hant": "三商巧福",
+        "name:nan-Latn-pehoeji": "Sam-siong Kháu-hok",
+        "name:nan-Latn-tailo": "Sam-siong Kháu-hok",
+        "name:zh": "三商巧福",
+        "operator": "三商企業集團",
+        "operator:en": "Mercuries Group",
+        "operator:wikidata": "Q10865578",
+        "operator:zh": "三商企業集團",
+        "phone": "+886 2 8751 8887",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837958044,
+      "lat": 25.0818532,
+      "lon": 121.5709196,
+      "timestamp": "2012-07-25T18:57:46Z",
+      "version": 1,
+      "changeset": 12490161,
+      "user": "huggie",
+      "uid": 690443,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "山東餃子館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837959044,
+      "lat": 25.0811938,
+      "lon": 121.5731758,
+      "timestamp": "2023-04-11T11:33:37Z",
+      "version": 2,
+      "changeset": 134769640,
+      "user": "catdreamer",
+      "uid": 5286890,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "叮丼叮丼"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837959299,
+      "lat": 25.0822907,
+      "lon": 121.5723141,
+      "timestamp": "2012-07-25T18:59:46Z",
+      "version": 1,
+      "changeset": 12490161,
+      "user": "huggie",
+      "uid": 690443,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837963116,
+      "lat": 25.0766038,
+      "lon": 121.5788573,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 9,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "114臺北市內湖區江南街65巷45號",
+        "addr:housenumber": "45",
+        "addr:postcode": "114",
+        "addr:street": "江南街65巷",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "name": "韓膳樓"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837963996,
+      "lat": 25.0820137,
+      "lon": 121.5783866,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 8,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "114臺北市內湖區港墘路41號",
+        "addr:housenumber": "41",
+        "addr:postcode": "114",
+        "addr:street": "港墘路",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "秀羽素食",
+        "phone": "+886 2 2659 5353"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837963997,
+      "lat": 25.0821206,
+      "lon": 121.5792717,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 4,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "台北市內湖區麗山街68巷5號",
+        "addr:housenumber": "5",
+        "addr:street": "麗山街68巷",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "文湖21雞湯麵"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837963998,
+      "lat": 25.0819554,
+      "lon": 121.5781184,
+      "timestamp": "2022-08-10T14:48:55Z",
+      "version": 3,
+      "changeset": 124735630,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "三媽臭臭鍋",
+        "brand:wikidata": "Q108212222",
+        "brand:zh": "三媽臭臭鍋",
+        "cuisine": "taiwanese",
+        "name": "三媽臭臭鍋",
+        "name:en": "Gold Seight",
+        "name:zh": "三媽臭臭鍋"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837970393,
+      "lat": 25.079866,
+      "lon": 121.578805,
+      "timestamp": "2020-08-04T10:20:52Z",
+      "version": 2,
+      "changeset": 88922525,
+      "user": "cmi3j89d9o",
+      "uid": 151425,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "737豬血糕"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1837971853,
+      "lat": 25.0805122,
+      "lon": 121.5791162,
+      "timestamp": "2012-07-25T19:11:31Z",
+      "version": 1,
+      "changeset": 12490161,
+      "user": "huggie",
+      "uid": 690443,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "真味肉圓"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1838336588,
+      "lat": 25.0817285,
+      "lon": 121.569235,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 9,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "114台北市內湖區內湖路一段306號",
+        "addr:housenumber": "306",
+        "addr:postcode": "114",
+        "addr:street": "內湖路一段",
+        "amenity": "restaurant",
+        "branch": "台北內湖店",
+        "cuisine": "sushi",
+        "disused:amenity": "cafe",
+        "disused:name": "N.Y. Bagels",
+        "name": "合點壽司",
+        "opening_hours": "Mo-Su 11:00-21:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1839317299,
+      "lat": 25.0819895,
+      "lon": 121.5663255,
+      "timestamp": "2025-07-28T07:30:49Z",
+      "version": 11,
+      "changeset": 169595763,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "台北市內湖區內湖路一段246號之1",
+        "addr:housenumber": "246號之1",
+        "addr:street": "內湖路一段",
+        "amenity": "restaurant",
+        "branch": "西湖店",
+        "brand": "瓦城",
+        "cuisine": "thai",
+        "name": "瓦城",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1839319927,
+      "lat": 25.0815104,
+      "lon": 121.567268,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 10,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "114台北市內湖區洲子街183號",
+        "addr:housenumber": "183",
+        "addr:postcode": "114",
+        "addr:street": "洲子街",
+        "amenity": "restaurant",
+        "cuisine": "fish_and_chips;italian_pizza;pasta;pizza",
+        "internet_access": "wlan",
+        "name": "瓦薩比薩",
+        "name:en": "Vasa",
+        "name:zh": "瓦薩比薩",
+        "phone": "+886 2 2657 3315"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1839412164,
+      "lat": 25.0825679,
+      "lon": 121.5654262,
+      "timestamp": "2018-12-30T15:42:49Z",
+      "version": 8,
+      "changeset": 65890286,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "amenity": "restaurant",
+        "disused:name": "幾分甜",
+        "disused:shop": "bakery",
+        "name": "鮮魚湯專賣店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1844866487,
+      "lat": 25.1188847,
+      "lon": 121.5128936,
+      "timestamp": "2021-02-07T13:29:14Z",
+      "version": 4,
+      "changeset": 98849828,
+      "user": "cmi3j89d9o",
+      "uid": 151425,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "仙客來"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1846463541,
+      "lat": 25.0725201,
+      "lon": 121.5757149,
+      "timestamp": "2024-10-05T10:54:18Z",
+      "version": 8,
+      "changeset": 157494863,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "內湖區",
+        "addr:full": "台北市內湖區瑞湖街80號",
+        "addr:housename": "亞太經貿大樓A棟",
+        "addr:housenumber": "80",
+        "addr:postcode": "114",
+        "addr:street": "瑞湖街",
+        "amenity": "restaurant",
+        "branch": "內湖亞太店",
+        "brand": "樂雅樂",
+        "brand:en": "Royal Host",
+        "brand:ja": "ロイヤルホスト",
+        "brand:wikidata": "Q11120884",
+        "brand:zh": "樂雅樂",
+        "cuisine": "japanese;italian;french",
+        "name": "樂雅樂",
+        "name:en": "Royal Host",
+        "name:ja": "ロイヤルホスト",
+        "name:zh": "樂雅樂",
+        "operator": "東元電機股份有限公司",
+        "operator:en": "TECO Electric & Machinery Co., Ltd.",
+        "operator:wikidata": "Q5964699",
+        "operator:zh": "東元電機股份有限公司"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1846492775,
+      "lat": 25.0814422,
+      "lon": 121.477799,
+      "timestamp": "2013-03-27T05:26:36Z",
+      "version": 2,
+      "changeset": 15511426,
+      "user": "argetium",
+      "uid": 1306882,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "海霸王"
+      }
+    }
+  ]
+}

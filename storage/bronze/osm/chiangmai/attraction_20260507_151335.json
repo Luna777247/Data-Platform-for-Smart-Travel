@@ -1,0 +1,1681 @@
+{
+  "city": "chiangmai",
+  "category": "attraction",
+  "timestamp": "20260507_151335",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 305442093,
+      "lat": 7.4999084,
+      "lon": 99.0937994,
+      "timestamp": "2025-08-24T08:40:00Z",
+      "version": 6,
+      "changeset": 170912107,
+      "user": "PaulHaag",
+      "uid": 1220740,
+      "tags": {
+        "name": "น้ำตกคลองจาก",
+        "name:de": "Khlong-Chak-Wasserfall",
+        "name:en": "Khlong Chak Waterfall",
+        "name:th-Latn": "Nam Tok Khlong Chak",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q55594208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 497028814,
+      "lat": 18.8162463,
+      "lon": 98.8832841,
+      "timestamp": "2014-05-13T04:32:29Z",
+      "version": 4,
+      "changeset": 22304682,
+      "user": "Johnny Carlsen",
+      "uid": 38985,
+      "tags": {
+        "name": "บ้านม้งดอยปุย",
+        "name:en": "Doi Pui Tribal Village",
+        "name:th": "บ้านม้งดอยปุย",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 806537113,
+      "lat": 2.6513584,
+      "lon": 98.860585,
+      "timestamp": "2024-02-11T00:42:53Z",
+      "version": 2,
+      "changeset": 147312754,
+      "user": "km2bp",
+      "uid": 3610826,
+      "tags": {
+        "image": "https://photos.app.goo.gl/hbcTvHdkhuMeWu9WA",
+        "name": "Batak King Grave",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 820947043,
+      "lat": 2.074709,
+      "lon": 98.9443949,
+      "timestamp": "2010-07-16T17:22:30Z",
+      "version": 1,
+      "changeset": 5236391,
+      "user": "HarryS",
+      "uid": 14561,
+      "tags": {
+        "name": "Volcanic Sulpher",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1017379824,
+      "lat": 18.7877625,
+      "lon": 98.9932697,
+      "timestamp": "2025-12-19T09:42:30Z",
+      "version": 15,
+      "changeset": 176131862,
+      "user": "PaulHaag",
+      "uid": 1220740,
+      "tags": {
+        "access": "yes",
+        "entrance": "yes",
+        "historic": "city_gate",
+        "name": "ประตูท่าแพ",
+        "name:de": "Tha Phae Tor",
+        "name:en": "Thapae Gate",
+        "name:ja": "ターペア都門",
+        "name:ko": "타패 게이트",
+        "name:th": "ประตูท่าแพ",
+        "name:zh": "塔佩门",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1189423201,
+      "lat": 18.8394883,
+      "lon": 98.8661269,
+      "timestamp": "2017-05-29T04:13:28Z",
+      "version": 4,
+      "changeset": 49059316,
+      "user": "Nong Sirikate",
+      "uid": 4902065,
+      "tags": {
+        "fixme": "Approx location",
+        "name": "Buddah's Footprint",
+        "name:th": "ดอยผากลอง",
+        "source": "Local knowledge",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1619287904,
+      "lat": 18.7902299,
+      "lon": 98.9873524,
+      "timestamp": "2023-06-11T11:34:01Z",
+      "version": 10,
+      "changeset": 137201203,
+      "user": "A_Ku",
+      "uid": 3423733,
+      "tags": {
+        "historic": "monument",
+        "name": "อนุสาวรีย์สามกษัตริย์",
+        "name:en": "Three Kings Monument",
+        "name:fr": "Three Kings Monument",
+        "name:ja": "三王記念像",
+        "name:ko": "삼왕상",
+        "name:pl": "Trzej królowie",
+        "name:th": "อนุสาวรีย์สามกษัตริย์",
+        "name:zh": "三王纪念像",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q13017454"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1641043320,
+      "lat": 18.6877055,
+      "lon": 98.9475923,
+      "timestamp": "2025-03-21T13:05:39Z",
+      "version": 4,
+      "changeset": 163905384,
+      "user": "PaulHaag",
+      "uid": 1220740,
+      "tags": {
+        "addr:district": "Hang Dong",
+        "addr:place": "หมู่ที่ 7",
+        "addr:postcode": "50230",
+        "addr:province": "Chiang Mai",
+        "addr:subdistrict": "Nong Kaeo",
+        "description:en": "A marketplace selling arts and crafts, and handmade furniture",
+        "name": "บ้านถวาย",
+        "name:en": "Ban Tawai",
+        "name:th": "บ้านถวาย",
+        "name:zh": "半他崴木器市场",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2061224684,
+      "lat": 18.8044864,
+      "lon": 98.8994489,
+      "timestamp": "2020-02-04T08:53:50Z",
+      "version": 3,
+      "changeset": 80521245,
+      "user": "Mishari",
+      "uid": 686216,
+      "tags": {
+        "barrier": "gate",
+        "name:en": "Bhubing Palace",
+        "tourism": "attraction",
+        "wikidata": "Q4902096"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2086873633,
+      "lat": 7.5334949,
+      "lon": 99.0709556,
+      "timestamp": "2025-11-04T15:23:24Z",
+      "version": 5,
+      "changeset": 174199603,
+      "user": "wislander",
+      "uid": 384146,
+      "tags": {
+        "name": "Khao Mai Kaew Cave",
+        "natural": "cave_entrance",
+        "tourism": "attraction",
+        "wikidata": "Q51885698"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2100966428,
+      "lat": 14.2385271,
+      "lon": 99.0583177,
+      "timestamp": "2020-02-04T08:53:50Z",
+      "version": 9,
+      "changeset": 80521245,
+      "user": "Mishari",
+      "uid": 686216,
+      "tags": {
+        "name": "ไทรโยกน้อย",
+        "name:cs": "Sai Yok Noi Waterfall",
+        "name:en": "Sai Yok Noi Waterfall",
+        "name:ru": "Национальный парк Водопад Сай Йок",
+        "name:th": "ไทรโยกน้อย",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q38284"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2438297977,
+      "lat": 18.7370667,
+      "lon": 98.8884001,
+      "timestamp": "2013-08-30T02:57:50Z",
+      "version": 1,
+      "changeset": 17581889,
+      "user": "AlaskaDave",
+      "uid": 473104,
+      "tags": {
+        "name:en": "Lanna Valley Farm",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463501832,
+      "lat": 7.367387,
+      "lon": 98.8700202,
+      "timestamp": "2013-09-26T03:46:09Z",
+      "version": 3,
+      "changeset": 18038470,
+      "user": "gezginrocker",
+      "uid": 1686268,
+      "tags": {
+        "name": "Hin Muang",
+        "name:en": "Purple Rock",
+        "natural": "reef",
+        "sport": "scuba_diving",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2513244697,
+      "lat": 18.8957378,
+      "lon": 98.8808441,
+      "timestamp": "2017-05-21T14:57:55Z",
+      "version": 6,
+      "changeset": 48864022,
+      "user": "monena41",
+      "uid": 4633898,
+      "tags": {
+        "name": "บ้านโต้งหลวง",
+        "name:en": "Ban Tong Luang",
+        "name:th": "บ้านโต้งหลวง",
+        "place": "hamlet",
+        "tourism": "attraction",
+        "tourism_1": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2670852979,
+      "lat": 18.7073318,
+      "lon": 98.9002149,
+      "timestamp": "2014-02-14T00:29:28Z",
+      "version": 1,
+      "changeset": 20550649,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "name": "Cock Fight",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2736512416,
+      "lat": 7.523085,
+      "lon": 99.0641852,
+      "timestamp": "2025-02-07T18:02:29Z",
+      "version": 5,
+      "changeset": 162255683,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "description": "Cave trekking 100B/person",
+        "fee": "yes",
+        "name:en": "Tiger Cave",
+        "shop": "ticket",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3119943107,
+      "lat": 2.6518535,
+      "lon": 98.8608994,
+      "timestamp": "2024-02-12T08:49:57Z",
+      "version": 3,
+      "changeset": 147356610,
+      "user": "km2bp",
+      "uid": 3610826,
+      "tags": {
+        "image": "https://photos.app.goo.gl/S7u5VyAUZoWJWbqN7",
+        "name": "Patung Sigale Gale",
+        "tourism": "attraction",
+        "url": "https://youtu.be/Rpxb8krSyis",
+        "wikidata": "Q7511905",
+        "wikipedia": "en:Si Gale Gale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3153981233,
+      "lat": 18.7420809,
+      "lon": 98.9238112,
+      "timestamp": "2014-10-28T10:05:26Z",
+      "version": 1,
+      "changeset": 26383756,
+      "user": "stephankn",
+      "uid": 61891,
+      "tags": {
+        "name": "Agro Tourism Bees",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3203070545,
+      "lat": 8.0226464,
+      "lon": 98.8852468,
+      "timestamp": "2025-10-05T08:33:56Z",
+      "version": 8,
+      "changeset": 172858049,
+      "user": "DerFussi",
+      "uid": 37252,
+      "tags": {
+        "name": "สุสานหอย",
+        "name:de": "Muschelfriedhof",
+        "name:en": "Fossil Shell Beach",
+        "name:th": "สุสานหอย",
+        "tourism": "attraction",
+        "wikidata": "Q136439312"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3216591393,
+      "lat": 18.781078,
+      "lon": 99.00506,
+      "timestamp": "2025-11-26T05:04:18Z",
+      "version": 5,
+      "changeset": 175137484,
+      "user": "StopConsuming_StartProducing",
+      "uid": 5592573,
+      "tags": {
+        "addr:city": "Chiang Mai",
+        "addr:housenumber": "133",
+        "addr:postcode": "50100",
+        "addr:street": "Charoenprathet Rd., A. Muang",
+        "email": "maepingrivercruise@hotmail.com",
+        "name": "Mae Ping River Cruise",
+        "office": "travel_agent",
+        "tourism": "attraction",
+        "website": "https://maepingrivercruise.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3287950085,
+      "lat": 14.153471,
+      "lon": 99.1098332,
+      "timestamp": "2017-08-30T23:41:32Z",
+      "version": 3,
+      "changeset": 51597356,
+      "user": "MC8998",
+      "uid": 4029857,
+      "tags": {
+        "name": "Death Railway viaduct",
+        "name:en": "Death Railway",
+        "name:th": "Death Railway",
+        "name:zh": "死亡铁路",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3343042250,
+      "lat": 16.7934747,
+      "lon": 98.9203147,
+      "timestamp": "2026-02-05T14:46:30Z",
+      "version": 8,
+      "changeset": 178144122,
+      "user": "PaulHaag",
+      "uid": 1220740,
+      "tags": {
+        "circumference": "16.1",
+        "description:en": "This is the largest Khra Bak Tree in Thailand. It is approximately 700 years old, is 50 meters high and 16.1 meters in circumference at the base.",
+        "height": "50",
+        "leaf_cycle": "evergreen",
+        "leaf_type": "broadleaved",
+        "name": "ต้นขระบากใหญ่",
+        "name:en": "Giant Khrabak Tree",
+        "name:th": "ต้นขระบากใหญ่",
+        "name:th-Latn": "Ton Khrabak Yai",
+        "natural": "tree",
+        "note": "this postion averaged over 10 minutes of readings on a Garmin Montana GPS",
+        "species": "Anisoptera costata",
+        "species:en": "Kraback",
+        "species:th": "ขระบาก",
+        "species:wikidata": "Q1379636",
+        "species:wikipedia": "en:Anisoptera costata",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3394773236,
+      "lat": 18.7821442,
+      "lon": 99.0013235,
+      "timestamp": "2019-02-01T11:09:44Z",
+      "version": 6,
+      "changeset": 66829996,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "addr:street": "ถนนเจริญประเทศ ซอย 8",
+        "amenity": "nightclub",
+        "contact:email": "chiangmaicabaretanusarn@gmail.com",
+        "contact:phone": "+66852499204",
+        "contact:website": "http://www.chiangmaicabaret.com/",
+        "description": "Ladyboy Cabbaret show. Showtimes 21:30",
+        "name": "Chiang Mai Cabaret Show",
+        "opening_hours": "Mo-Su 20:00-00:00",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3868359545,
+      "lat": 18.7763085,
+      "lon": 98.9483609,
+      "timestamp": "2020-05-09T15:45:34Z",
+      "version": 3,
+      "changeset": 84942818,
+      "user": "Jkritt",
+      "uid": 11131726,
+      "tags": {
+        "name": "บ้านข้างวัด",
+        "name:en": "Baan Kang Wat",
+        "source": "knowledge",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4016501340,
+      "lat": 2.4354878,
+      "lon": 98.915736,
+      "timestamp": "2016-02-20T14:29:34Z",
+      "version": 1,
+      "changeset": 37329527,
+      "user": "Kristopel Martin",
+      "uid": 3582957,
+      "tags": {
+        "name": "Batu Guru",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4016528927,
+      "lat": 2.6177456,
+      "lon": 98.8713566,
+      "timestamp": "2016-02-20T14:39:00Z",
+      "version": 1,
+      "changeset": 37329687,
+      "user": "Kristopel Martin",
+      "uid": 3582957,
+      "tags": {
+        "name": "Latihan Paralayang",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170668800,
+      "lat": 18.6331851,
+      "lon": 98.8684512,
+      "timestamp": "2016-05-07T02:28:49Z",
+      "version": 1,
+      "changeset": 39154802,
+      "user": "Andrea Ciccone @ Galleria BKK",
+      "uid": 3895511,
+      "tags": {
+        "name": "Kad Salaa Carving Market",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170680489,
+      "lat": 18.5987303,
+      "lon": 98.8886134,
+      "timestamp": "2016-05-07T02:09:27Z",
+      "version": 1,
+      "changeset": 39154674,
+      "user": "Andrea Ciccone @ Galleria BKK",
+      "uid": 3895511,
+      "tags": {
+        "name": "Open Air Market",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4252100590,
+      "lat": 18.7809054,
+      "lon": 98.9878863,
+      "timestamp": "2025-11-26T05:04:05Z",
+      "version": 12,
+      "changeset": 175137484,
+      "user": "StopConsuming_StartProducing",
+      "uid": 5592573,
+      "tags": {
+        "addr:postcode": "50100",
+        "addr:province": "Chiang Mai",
+        "addr:street": "ถนนวัวลาย",
+        "name": "ถนนคนเดินวัวลาย",
+        "name:de": "Wua Lai Samstag-Nachtmarkt",
+        "name:en": "Wua Lai Saturday Night Walking Street Market",
+        "name:ja": "サタデーマーケット土曜日",
+        "name:ko": "우왈라이 토요마켓",
+        "name:th": "ถนนคนเดินวัวลาย",
+        "name:vi": "Chợ đêm Chủ Nhật",
+        "name:zh": "周六夜市",
+        "opening_hours": "Fr, Sa 17:00-23:00",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4277882989,
+      "lat": 8.2370034,
+      "lon": 98.982303,
+      "timestamp": "2018-08-15T05:06:08Z",
+      "version": 4,
+      "changeset": 61675416,
+      "user": "Rande EnRoute",
+      "uid": 8673374,
+      "tags": {
+        "addr:street": "Ban Khlong Suan",
+        "name": "อ่างเก็บน้ำคลองแห้ง",
+        "name:en": "Khlong Suan Lake (Reservoir)",
+        "name:ru": "Водохранилище",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4281790700,
+      "lat": 7.9046063,
+      "lon": 99.1083907,
+      "timestamp": "2019-10-18T02:22:41Z",
+      "version": 4,
+      "changeset": 75867387,
+      "user": "Денис Долгополый",
+      "uid": 8352601,
+      "tags": {
+        "name": "น้ำพุร้อนเค็ม คลองท่อม",
+        "name:en": "Saline Hot Spring Khlong Thom",
+        "name:ru": "Солевые горячие источники Кхлонг",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4307452590,
+      "lat": 18.7867043,
+      "lon": 99.0007492,
+      "timestamp": "2018-01-15T13:44:47Z",
+      "version": 6,
+      "changeset": 55462821,
+      "user": "Arrangy",
+      "uid": 4088480,
+      "tags": {
+        "addr:street": "ถนนช้างคลาน",
+        "name": "Night Bazaar",
+        "name:en": "Night Market",
+        "name:ko": "나이트 바자",
+        "name:th": "bazzar夜市",
+        "name:zh": "草垛夜市",
+        "opening_hours": "Mo-Sa 17:00-00:00",
+        "tourism": "attraction",
+        "wikidata": "Q5095199"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4308451989,
+      "lat": 14.6728279,
+      "lon": 99.0163753,
+      "timestamp": "2016-07-18T07:59:22Z",
+      "version": 1,
+      "changeset": 40812756,
+      "user": "Plejeep",
+      "uid": 4089705,
+      "tags": {
+        "name": "แพข้ามเขื่อนศรี",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4320164023,
+      "lat": 12.0892969,
+      "lon": 99.0108196,
+      "timestamp": "2017-06-19T03:01:07Z",
+      "version": 3,
+      "changeset": 49654526,
+      "user": "KNaing",
+      "uid": 2475573,
+      "tags": {
+        "historic": "monument",
+        "name": "Guardian Angel Shinma Aung Thar",
+        "name:my": "ရှင်မအောင်သာကျောက်တိုင်",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4334111744,
+      "lat": 18.6962854,
+      "lon": 98.8912087,
+      "timestamp": "2025-11-12T12:45:11Z",
+      "version": 3,
+      "changeset": 174557999,
+      "user": "PaulHaag",
+      "uid": 1220740,
+      "tags": {
+        "name": "แกรนด์แคนยอนเชียงใหม่",
+        "name:en": "Grand Cannyon Chiang Mai",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4365697492,
+      "lat": 18.7672525,
+      "lon": 99.076622,
+      "timestamp": "2016-08-25T03:45:53Z",
+      "version": 1,
+      "changeset": 41678149,
+      "user": "Cale_xox",
+      "uid": 4041099,
+      "tags": {
+        "name": "ศูนย์หัตถกรรมกระดาษสาและร่ม",
+        "name:en": "Sa Paper & Umbrella Handicraft Centre",
+        "name:th": "ศูนย์หัตถกรรมกระดาษสาและร่ม",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4369716692,
+      "lat": 7.5321403,
+      "lon": 99.0934848,
+      "timestamp": "2018-02-20T09:13:15Z",
+      "version": 4,
+      "changeset": 56514491,
+      "user": "lamacchiacosta",
+      "uid": 543072,
+      "tags": {
+        "name": "paradise in town",
+        "name:th": "paradise in town",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4406766896,
+      "lat": 14.436158,
+      "lon": 98.8505255,
+      "timestamp": "2016-09-18T13:24:44Z",
+      "version": 1,
+      "changeset": 42247255,
+      "user": "Václav Novák",
+      "uid": 4155693,
+      "tags": {
+        "name:cs": "Hausboat driving on the river",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4406803390,
+      "lat": 14.4355462,
+      "lon": 98.8544509,
+      "timestamp": "2016-10-02T12:34:16Z",
+      "version": 2,
+      "changeset": 42581491,
+      "user": "Václav Novák",
+      "uid": 4155693,
+      "tags": {
+        "name:cs": "Hot Spring Sai Yok",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4467179689,
+      "lat": 8.078329,
+      "lon": 98.9210931,
+      "timestamp": "2022-11-02T10:47:07Z",
+      "version": 7,
+      "changeset": 128384801,
+      "user": "krabi40",
+      "uid": 17438534,
+      "tags": {
+        "name": "ถ้ำเขาขนาบน้ำ",
+        "name:en": "Khao Khanap Nam Cave",
+        "name:th": "ถ้ำเขาขนาบน้ำ",
+        "natural": "cave_entrance",
+        "tourism": "attraction",
+        "wikidata": "Q13024492"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4470401889,
+      "lat": 18.7833702,
+      "lon": 98.997714,
+      "timestamp": "2016-10-29T18:48:32Z",
+      "version": 1,
+      "changeset": 43271235,
+      "user": "Fraser Crawford",
+      "uid": 4784443,
+      "tags": {
+        "name:en": "Loi Kroh Boxing Stadium",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4506413091,
+      "lat": 18.7853061,
+      "lon": 99.0010931,
+      "timestamp": "2024-03-27T18:26:36Z",
+      "version": 6,
+      "changeset": 149238453,
+      "user": "lokejul",
+      "uid": 2034065,
+      "tags": {
+        "name": "Chiang Mai Night Bazaar",
+        "name:en": "Chiang Mai Night Bazaar",
+        "name:zh": "清邁夜市",
+        "tourism": "attraction",
+        "wikidata": "Q5095199"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4515451895,
+      "lat": 7.5019654,
+      "lon": 99.1077098,
+      "timestamp": "2016-11-22T15:20:48Z",
+      "version": 1,
+      "changeset": 43873074,
+      "user": "Nadineheneweer",
+      "uid": 4799219,
+      "tags": {
+        "name:en": "Sunrise spot",
+        "name:nl": "Zonsopgang",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524382892,
+      "lat": 17.2389852,
+      "lon": 98.8647293,
+      "timestamp": "2016-11-27T10:20:29Z",
+      "version": 1,
+      "changeset": 43980176,
+      "user": "ทิว สิงห์เหลือ",
+      "uid": 4835493,
+      "tags": {
+        "name": "สันป่่าป๋วย",
+        "name:th": "สันป่่าป๋วย",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4524441889,
+      "lat": 17.2494676,
+      "lon": 98.8629086,
+      "timestamp": "2016-11-27T10:20:49Z",
+      "version": 1,
+      "changeset": 43980176,
+      "user": "ทิว สิงห์เหลือ",
+      "uid": 4835493,
+      "tags": {
+        "name": "สันป่าป๋วย",
+        "name:th": "สันป่าป๋วย",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4535095102,
+      "lat": 18.7282317,
+      "lon": 98.9417431,
+      "timestamp": "2016-12-03T02:49:32Z",
+      "version": 1,
+      "changeset": 44128736,
+      "user": "Chai Soochul",
+      "uid": 4323926,
+      "tags": {
+        "name:en": "Mu Ban World Club Land Soi 5",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4555748293,
+      "lat": 2.9544264,
+      "lon": 99.0689594,
+      "timestamp": "2020-06-10T11:19:38Z",
+      "version": 2,
+      "changeset": 86460581,
+      "user": "Hanif Al Husaini",
+      "uid": 2679746,
+      "tags": {
+        "name": "Temple with big statue",
+        "name:en": "Temple with big statue",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4583815689,
+      "lat": 17.8020669,
+      "lon": 98.9492976,
+      "timestamp": "2026-01-26T01:30:12Z",
+      "version": 2,
+      "changeset": 177703487,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "name": "อนุสาวรีย์สามครูบา",
+        "name:en": "Three Kruba Monument",
+        "name:th": "อนุสาวรีย์สามครูบา",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4590000562,
+      "lat": 14.6393292,
+      "lon": 98.9856736,
+      "timestamp": "2018-05-22T15:01:22Z",
+      "version": 6,
+      "changeset": 59182929,
+      "user": "teddy bear peterpan",
+      "uid": 4833696,
+      "tags": {
+        "name": "น้ำตกห้วยแม่ขมิ้น",
+        "name:en": "Huai Mae Khamin Waterfall",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4604984593,
+      "lat": 8.2404917,
+      "lon": 98.9143636,
+      "timestamp": "2020-02-04T08:53:50Z",
+      "version": 4,
+      "changeset": 80521245,
+      "user": "Mishari",
+      "uid": 686216,
+      "tags": {
+        "fee": "yes",
+        "name:en": "Khao Phanom Bencha National Park",
+        "tourism": "attraction",
+        "wikidata": "Q15236255"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4605157590,
+      "lat": 18.7917822,
+      "lon": 98.9929948,
+      "timestamp": "2017-07-12T07:36:37Z",
+      "version": 2,
+      "changeset": 50220741,
+      "user": "Gina Chaplin",
+      "uid": 6305447,
+      "tags": {
+        "name:en": "Cooking Market",
+        "shop": "greengrocer",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4617759389,
+      "lat": 7.5316393,
+      "lon": 99.0939319,
+      "timestamp": "2017-04-24T06:50:09Z",
+      "version": 2,
+      "changeset": 48080734,
+      "user": "misht",
+      "uid": 615059,
+      "tags": {
+        "name": "Old town",
+        "name:nl": "Oud dorpje",
+        "name:ru": "Старый город",
+        "name:th": "Old town",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4620367103,
+      "lat": 18.7795443,
+      "lon": 99.0885379,
+      "timestamp": "2017-01-20T10:00:47Z",
+      "version": 1,
+      "changeset": 45322879,
+      "user": "Richard Bourgeois",
+      "uid": 5158653,
+      "tags": {
+        "name:en": "Bo Sang Fishing Park",
+        "tourism": "attraction",
+        "website": "http://bosangfishingpark.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4679893203,
+      "lat": 18.8056414,
+      "lon": 98.9961769,
+      "timestamp": "2019-09-14T11:21:07Z",
+      "version": 2,
+      "changeset": 74469967,
+      "user": "adrumillon",
+      "uid": 5780790,
+      "tags": {
+        "name:en": "Jing Jai Sunday Farmers Market",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4724061793,
+      "lat": 18.8012038,
+      "lon": 98.9824595,
+      "timestamp": "2017-03-08T13:47:39Z",
+      "version": 1,
+      "changeset": 46680824,
+      "user": "Monreal",
+      "uid": 5450063,
+      "tags": {
+        "name:en": "Chiang Mai Boxing Stadium",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4801075732,
+      "lat": 8.0368878,
+      "lon": 98.8914489,
+      "timestamp": "2019-10-28T22:40:21Z",
+      "version": 3,
+      "changeset": 76317872,
+      "user": "Moo Keh",
+      "uid": 2186867,
+      "tags": {
+        "name:en": "Elephant trekking",
+        "name:ru": "Катание на слонах",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4813337922,
+      "lat": 18.8018111,
+      "lon": 98.9782296,
+      "timestamp": "2024-12-31T12:46:54Z",
+      "version": 2,
+      "changeset": 160831164,
+      "user": "Marcoh44",
+      "uid": 3226231,
+      "tags": {
+        "name": "วงเวียน 5 แยก สันติธรรม",
+        "name:th": "วงเวียน 5 แยก สันติธรรม",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4826561122,
+      "lat": 7.6278871,
+      "lon": 99.0491598,
+      "timestamp": "2017-04-30T08:18:18Z",
+      "version": 1,
+      "changeset": 48275288,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "name:en": "Elephant Swimming",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4841588832,
+      "lat": 18.7319854,
+      "lon": 98.9273155,
+      "timestamp": "2017-05-08T12:21:15Z",
+      "version": 1,
+      "changeset": 48500301,
+      "user": "smplontour",
+      "uid": 5811855,
+      "tags": {
+        "name:en": "CLC chiangmai life constr",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4845560029,
+      "lat": 2.490924,
+      "lon": 98.962896,
+      "timestamp": "2026-03-21T10:03:03Z",
+      "version": 2,
+      "changeset": 180197169,
+      "user": "FajrAl",
+      "uid": 2649988,
+      "tags": {
+        "name": "Rice Terraces",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4923215277,
+      "lat": 12.0866137,
+      "lon": 99.0076535,
+      "timestamp": "2017-06-19T03:01:05Z",
+      "version": 1,
+      "changeset": 49654526,
+      "user": "KNaing",
+      "uid": 2475573,
+      "tags": {
+        "name": "Traditional Dragon Boat",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4948382166,
+      "lat": 18.896291,
+      "lon": 98.8606252,
+      "timestamp": "2025-07-31T07:17:37Z",
+      "version": 2,
+      "changeset": 169753738,
+      "user": "olecky",
+      "uid": 20578352,
+      "tags": {
+        "name": "White Flower Collection",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4948382167,
+      "lat": 18.895064,
+      "lon": 98.8593377,
+      "timestamp": "2025-07-31T07:17:37Z",
+      "version": 2,
+      "changeset": 169753738,
+      "user": "olecky",
+      "uid": 20578352,
+      "tags": {
+        "name": "Palm Garden",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4952159624,
+      "lat": 2.5637983,
+      "lon": 98.8859712,
+      "timestamp": "2026-03-21T10:03:03Z",
+      "version": 2,
+      "changeset": 180197169,
+      "user": "FajrAl",
+      "uid": 2649988,
+      "tags": {
+        "name": "Rustic lakeside picnic spot",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4952173122,
+      "lat": 2.6482208,
+      "lon": 98.8625446,
+      "timestamp": "2023-03-04T10:33:15Z",
+      "version": 2,
+      "changeset": 133283934,
+      "user": "Marcoh44",
+      "uid": 3226231,
+      "tags": {
+        "name": "Kuburan di atas pohon",
+        "name:en": "Grave in a tree",
+        "name:fr": "Une tombe dans un arbre",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5021459923,
+      "lat": 18.764558,
+      "lon": 98.8755383,
+      "timestamp": "2017-08-08T05:59:08Z",
+      "version": 1,
+      "changeset": 50934032,
+      "user": "Hagar Ben David",
+      "uid": 6447891,
+      "tags": {
+        "name": "Festival",
+        "name:th": "Festival",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5114511922,
+      "lat": 18.7895294,
+      "lon": 99.00052,
+      "timestamp": "2017-09-19T07:40:00Z",
+      "version": 1,
+      "changeset": 52165861,
+      "user": "Aaron's Blog",
+      "uid": 5558435,
+      "tags": {
+        "name:en": "China Town",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5147372421,
+      "lat": 2.4681061,
+      "lon": 98.9782301,
+      "timestamp": "2026-03-21T10:03:03Z",
+      "version": 2,
+      "changeset": 180197169,
+      "user": "FajrAl",
+      "uid": 2649988,
+      "tags": {
+        "name": "Tugu Hariandja monument",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5212134926,
+      "lat": 18.8053205,
+      "lon": 98.9456395,
+      "timestamp": "2017-11-05T11:33:10Z",
+      "version": 1,
+      "changeset": 53525449,
+      "user": "Zerox3",
+      "uid": 6591900,
+      "tags": {
+        "name:en": "Panda House",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5212173521,
+      "lat": 18.8055662,
+      "lon": 98.9457075,
+      "timestamp": "2025-02-13T13:11:27Z",
+      "version": 2,
+      "changeset": 162466335,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "name:en": "Snow Buddy Winterland",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5231651421,
+      "lat": 18.7878371,
+      "lon": 98.9923552,
+      "timestamp": "2021-11-27T06:23:00Z",
+      "version": 3,
+      "changeset": 114281829,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "addr:street": "ถนนราชดำเนิน",
+        "name:en": "Sunday night market",
+        "name:ko": "선데이 워킹 스트리트 (마켓)",
+        "name:pt": "Mercado domingo à noite",
+        "opening_hours": "Su 16:00-00:00",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5292732321,
+      "lat": 8.0260348,
+      "lon": 98.9337296,
+      "timestamp": "2017-12-19T02:27:02Z",
+      "version": 1,
+      "changeset": 54746961,
+      "user": "12droelf13",
+      "uid": 7206653,
+      "tags": {
+        "name:en": "Mangrove Nature Trail",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5300256335,
+      "lat": 18.5766443,
+      "lon": 98.9218522,
+      "timestamp": "2020-12-20T07:21:48Z",
+      "version": 3,
+      "changeset": 96130360,
+      "user": "SmartKAI",
+      "uid": 12361077,
+      "tags": {
+        "name": "ศูนย์ผลิตตุ๊กตาเชียงใหม่(พิพิธภัณฑ์)​",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5321031122,
+      "lat": 18.7763213,
+      "lon": 98.948612,
+      "timestamp": "2019-05-24T22:51:38Z",
+      "version": 2,
+      "changeset": 70601128,
+      "user": "InnerPace",
+      "uid": 10028118,
+      "tags": {
+        "name": "Artist Village",
+        "source": "knowledge",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5404611621,
+      "lat": 2.5906822,
+      "lon": 99.0388632,
+      "timestamp": "2026-03-21T10:03:03Z",
+      "version": 2,
+      "changeset": 180197169,
+      "user": "FajrAl",
+      "uid": 2649988,
+      "tags": {
+        "name": "Taman eden 100",
+        "name:fr": "Taman eden 100",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5418888023,
+      "lat": 8.0160106,
+      "lon": 99.1114413,
+      "timestamp": "2018-02-17T20:36:48Z",
+      "version": 1,
+      "changeset": 56449391,
+      "user": "Durnik",
+      "uid": 7633622,
+      "tags": {
+        "name:en": "Elephant hospital",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5519553350,
+      "lat": 7.6419263,
+      "lon": 99.0203514,
+      "timestamp": "2018-04-01T02:02:27Z",
+      "version": 1,
+      "changeset": 57702563,
+      "user": "Jah Sef Mason",
+      "uid": 7684673,
+      "tags": {
+        "name": "Small cave",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5522292623,
+      "lat": 7.6479016,
+      "lon": 99.0206481,
+      "timestamp": "2018-04-02T11:20:09Z",
+      "version": 1,
+      "changeset": 57736383,
+      "user": "Jah Sef Mason",
+      "uid": 7684673,
+      "tags": {
+        "name": "No access, wall",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5522353322,
+      "lat": 7.647174,
+      "lon": 99.0197289,
+      "timestamp": "2018-04-02T11:22:13Z",
+      "version": 1,
+      "changeset": 57736420,
+      "user": "Jah Sef Mason",
+      "uid": 7684673,
+      "tags": {
+        "name": "Fantastic sunset viewpoint",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5547402124,
+      "lat": 2.6928906,
+      "lon": 98.9267182,
+      "timestamp": "2026-03-21T10:03:03Z",
+      "version": 2,
+      "changeset": 180197169,
+      "user": "FajrAl",
+      "uid": 2649988,
+      "tags": {
+        "name": "Monkey bridge",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5570751422,
+      "lat": 18.863709,
+      "lon": 99.1187306,
+      "timestamp": "2018-04-22T10:56:26Z",
+      "version": 1,
+      "changeset": 58307144,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "name:en": "CM Flying Field",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5578035123,
+      "lat": 14.0466185,
+      "lon": 98.8942047,
+      "timestamp": "2018-04-25T09:15:34Z",
+      "version": 1,
+      "changeset": 58401784,
+      "user": "Shwe Wei Ashin",
+      "uid": 5842702,
+      "tags": {
+        "name:en": "Sinbyudaing",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5585813422,
+      "lat": 7.2812706,
+      "lon": 98.8689115,
+      "timestamp": "2018-04-29T09:14:26Z",
+      "version": 1,
+      "changeset": 58522101,
+      "user": "ChrisBTBT",
+      "uid": 8193846,
+      "tags": {
+        "name": "Hin Daeng",
+        "name:en": "Red Rock",
+        "name:th": "Hin Daeng",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5587770722,
+      "lat": 14.2282877,
+      "lon": 99.0658667,
+      "timestamp": "2018-04-30T08:19:53Z",
+      "version": 1,
+      "changeset": 58546856,
+      "user": "Ania Koala",
+      "uid": 8194368,
+      "tags": {
+        "name": "Lawa cave turn off",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5596867621,
+      "lat": 10.3593467,
+      "lon": 99.0701967,
+      "timestamp": "2018-05-04T16:41:26Z",
+      "version": 1,
+      "changeset": 58684980,
+      "user": "Matthew Keys",
+      "uid": 7053277,
+      "tags": {
+        "name:en": "Pho sale waterfall",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5605618322,
+      "lat": 11.865209,
+      "lon": 99.103148,
+      "timestamp": "2018-05-08T23:09:37Z",
+      "version": 1,
+      "changeset": 58803144,
+      "user": "Shwe Wei Ashin",
+      "uid": 5842702,
+      "tags": {
+        "name:en": "Chaunglamu",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5606185823,
+      "lat": 18.7909384,
+      "lon": 99.000739,
+      "timestamp": "2023-04-15T05:01:16Z",
+      "version": 2,
+      "changeset": 134927111,
+      "user": "Big Gay Al",
+      "uid": 18807936,
+      "tags": {
+        "amenity": "marketplace",
+        "description": "Fruit market",
+        "name": "ตลาดผลไม้ (กาดหลวง)",
+        "name:en": "Fruit market",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5616623323,
+      "lat": 11.7784179,
+      "lon": 99.1093463,
+      "timestamp": "2018-05-14T07:11:05Z",
+      "version": 1,
+      "changeset": 58941676,
+      "user": "Shwe Wei Ashin",
+      "uid": 5842702,
+      "tags": {
+        "name:en": "Two zero",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5616669723,
+      "lat": 11.722416,
+      "lon": 99.087909,
+      "timestamp": "2018-05-14T07:11:04Z",
+      "version": 1,
+      "changeset": 58941676,
+      "user": "Shwe Wei Ashin",
+      "uid": 5842702,
+      "tags": {
+        "name:en": "One zero",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5619165726,
+      "lat": 8.8400363,
+      "lon": 98.96441,
+      "timestamp": "2018-05-15T08:21:01Z",
+      "version": 1,
+      "changeset": 58975379,
+      "user": "Evgeni Rogozhkin",
+      "uid": 8274331,
+      "tags": {
+        "name:en": "River in forest - Renting a Boat",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5625744721,
+      "lat": 11.9326312,
+      "lon": 99.0799,
+      "timestamp": "2018-05-18T01:48:27Z",
+      "version": 1,
+      "changeset": 59065656,
+      "user": "Shwe Wei Ashin",
+      "uid": 5842702,
+      "tags": {
+        "name:en": "Yebyu",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5661975821,
+      "lat": 2.5572642,
+      "lon": 98.913215,
+      "timestamp": "2026-03-21T10:03:03Z",
+      "version": 2,
+      "changeset": 180197169,
+      "user": "FajrAl",
+      "uid": 2649988,
+      "tags": {
+        "name": "Ecovillage Silimalombu",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5678009723,
+      "lat": 2.4071553,
+      "lon": 99.043862,
+      "timestamp": "2026-03-21T10:03:03Z",
+      "version": 2,
+      "changeset": 180197169,
+      "user": "FajrAl",
+      "uid": 2649988,
+      "tags": {
+        "name": "Siregar aek na las (small hot springs)",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5821963988,
+      "lat": 8.2379224,
+      "lon": 98.919633,
+      "timestamp": "2026-04-09T06:59:16Z",
+      "version": 4,
+      "changeset": 181081446,
+      "user": "Naraal",
+      "uid": 17303413,
+      "tags": {
+        "name": "น้ำตกห้วยโต้",
+        "name:en": "Huai To waterfall (Wang Tewada)",
+        "name:th-Latn": "Nam Tok Huai To",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q137802807"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6138549386,
+      "lat": 18.7679192,
+      "lon": 99.013466,
+      "timestamp": "2018-12-15T06:24:42Z",
+      "version": 1,
+      "changeset": 65492217,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "name:en": "Chiang Mai Auction",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6150857978,
+      "lat": 18.7160349,
+      "lon": 98.9826936,
+      "timestamp": "2018-12-21T05:17:05Z",
+      "version": 1,
+      "changeset": 65659212,
+      "user": "chatan",
+      "uid": 1487057,
+      "tags": {
+        "name": "Benny's Home Cooking Class",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168649975,
+      "lat": 9.0639569,
+      "lon": 98.86248,
+      "timestamp": "2021-07-22T11:26:23Z",
+      "version": 2,
+      "changeset": 108424618,
+      "user": "nagam_123",
+      "uid": 11659169,
+      "tags": {
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6168649976,
+      "lat": 9.0601016,
+      "lon": 98.8743996,
+      "timestamp": "2018-12-28T15:07:42Z",
+      "version": 1,
+      "changeset": 65844253,
+      "user": "Moo Keh",
+      "uid": 2186867,
+      "tags": {
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6184435937,
+      "lat": 7.8421041,
+      "lon": 98.9423937,
+      "timestamp": "2025-02-12T12:43:23Z",
+      "version": 3,
+      "changeset": 162428695,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "natural": "tree",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6196971585,
+      "lat": 18.7798881,
+      "lon": 99.0898576,
+      "timestamp": "2019-01-10T05:26:00Z",
+      "version": 2,
+      "changeset": 66183441,
+      "user": "Russ McD",
+      "uid": 346601,
+      "tags": {
+        "name:en": "Bosang Fishing Park",
+        "phone": "0833209213",
+        "tourism": "attraction"
+      }
+    }
+  ]
+}

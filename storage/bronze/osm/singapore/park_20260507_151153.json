@@ -1,0 +1,169 @@
+{
+  "city": "singapore",
+  "category": "park",
+  "timestamp": "20260507_151153",
+  "count": 10,
+  "elements": [
+    {
+      "type": "node",
+      "id": 4078020273,
+      "lat": 1.2902608,
+      "lon": 103.840378,
+      "timestamp": "2016-03-25T11:20:17Z",
+      "version": 1,
+      "changeset": 38060443,
+      "user": "Poro",
+      "uid": 3746668,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5284886057,
+      "lat": 1.3942179,
+      "lon": 103.8733463,
+      "timestamp": "2017-12-14T22:47:22Z",
+      "version": 1,
+      "changeset": 54638156,
+      "user": "AlanPhang",
+      "uid": 7241014,
+      "tags": {
+        "leisure": "park",
+        "name": "Roof Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8233004916,
+      "lat": 1.3274529,
+      "lon": 103.9147346,
+      "timestamp": "2023-05-23T05:27:00Z",
+      "version": 2,
+      "changeset": 136438299,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "fixme:zh": "6弯",
+        "leisure": "park",
+        "name": "Interim Park at Lengkong Enam",
+        "name:zh": "麟光安南临时公园"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8482680637,
+      "lat": 1.3208882,
+      "lon": 103.8671665,
+      "timestamp": "2023-05-31T02:04:25Z",
+      "version": 3,
+      "changeset": 136767917,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "leisure": "park",
+        "name": "Kallang park connector",
+        "name:zh": "加冷公园连道",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9106366465,
+      "lat": 1.3124618,
+      "lon": 103.8122789,
+      "timestamp": "2023-05-31T02:04:25Z",
+      "version": 2,
+      "changeset": 136767917,
+      "user": "leheng",
+      "uid": 15587724,
+      "tags": {
+        "leisure": "park",
+        "name": "Botanical Garden Gallop extension",
+        "name:zh": "植物园加洛普延伸区"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10002372751,
+      "lat": 1.3613679,
+      "lon": 103.8482535,
+      "timestamp": "2023-01-02T03:21:57Z",
+      "version": 2,
+      "changeset": 130770581,
+      "user": "44akbb3x",
+      "uid": 18108957,
+      "tags": {
+        "leisure": "park",
+        "name": "Event Lawn"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10797486847,
+      "lat": 1.3413963,
+      "lon": 103.6932997,
+      "timestamp": "2025-06-01T01:24:01Z",
+      "version": 5,
+      "changeset": 167032921,
+      "user": "Fizzie-DWG",
+      "uid": 461130,
+      "tags": {
+        "leisure": "park",
+        "name": "Rooftop garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12955571622,
+      "lat": 1.3450223,
+      "lon": 103.7375932,
+      "timestamp": "2025-06-27T03:40:07Z",
+      "version": 1,
+      "changeset": 168164443,
+      "user": "anthembravado",
+      "uid": 5021983,
+      "tags": {
+        "leisure": "park",
+        "name": "Yuhua Village Neighbourhood Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12955571623,
+      "lat": 1.3462164,
+      "lon": 103.7360433,
+      "timestamp": "2025-06-27T03:40:07Z",
+      "version": 1,
+      "changeset": 168164443,
+      "user": "anthembravado",
+      "uid": 5021983,
+      "tags": {
+        "leisure": "park",
+        "name": "Hong Kah East Neighbourhood Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12956597652,
+      "lat": 1.3054552,
+      "lon": 103.7779787,
+      "timestamp": "2025-06-27T15:01:52Z",
+      "version": 1,
+      "changeset": 168190491,
+      "user": "anthembravado",
+      "uid": 5021983,
+      "tags": {
+        "access": "yes",
+        "addr:city": "Singapore",
+        "addr:housenumber": "1300",
+        "addr:postcode": "139663",
+        "addr:street": "Dover Road",
+        "dog": "yes",
+        "leisure": "park",
+        "name": "Dover Meadow",
+        "opening_hours": "24/7"
+      }
+    }
+  ]
+}

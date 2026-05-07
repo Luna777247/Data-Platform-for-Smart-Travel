@@ -1,0 +1,1851 @@
+{
+  "city": "osaka",
+  "category": "museum",
+  "timestamp": "20260507_151554",
+  "count": 92,
+  "elements": [
+    {
+      "type": "node",
+      "id": 1422985375,
+      "lat": 34.463566,
+      "lon": 135.625395,
+      "timestamp": "2022-11-11T03:58:08Z",
+      "version": 2,
+      "changeset": 128758040,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "KSJ2:ADS": "大字水分266",
+        "KSJ2:AdminArea": "大阪府南河内郡千早赤阪村",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "name": "千早赤阪村郷土資料館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11405552",
+        "wikipedia": "ja:千早赤阪村立郷土資料館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422985794,
+      "lat": 34.660438,
+      "lon": 135.586191,
+      "timestamp": "2023-10-16T17:41:40Z",
+      "version": 4,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "司馬遼太郎記念館",
+        "name:en": "Shiba Ryotaro memorial museum",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11412294",
+        "wikimedia_commons": "Category:Shiba Ryotaro Memorial Museum",
+        "wikipedia": "ja:司馬遼太郎記念館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422985998,
+      "lat": 34.445059,
+      "lon": 135.453338,
+      "timestamp": "2025-07-08T08:50:13Z",
+      "version": 3,
+      "changeset": 168638221,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "KSJ2:ADS": "内田町3-6-12",
+        "KSJ2:AdminArea": "大阪府和泉市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "name": "和泉市久保惣記念美術館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q11417787",
+        "wikipedia": "ja:和泉市久保惣記念美術館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422987781,
+      "lat": 34.548011,
+      "lon": 135.559888,
+      "timestamp": "2025-04-21T11:17:58Z",
+      "version": 2,
+      "changeset": 165233621,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "KSJ2:ADS": "黒山281",
+        "KSJ2:AdminArea": "大阪府大阪市中央区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "name": "堺市立みはら歴史博物館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q133261062"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422987805,
+      "lat": 34.5342342,
+      "lon": 135.4912845,
+      "timestamp": "2022-12-28T22:10:15Z",
+      "version": 2,
+      "changeset": 130620407,
+      "user": "harumiusinc",
+      "uid": 10230643,
+      "tags": {
+        "name": "堺市立平和と人権資料館（フェニックス・ミュージアム）",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422988001,
+      "lat": 34.703536,
+      "lon": 135.623866,
+      "timestamp": "2011-09-04T13:02:00Z",
+      "version": 1,
+      "changeset": 9208567,
+      "user": "watao",
+      "uid": 393606,
+      "tags": {
+        "KSJ2:ADS": "新町13-30",
+        "KSJ2:AdminArea": "大阪府大東市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "name": "大東市立歴史民俗資料館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422988084,
+      "lat": 34.4811635,
+      "lon": 135.5805203,
+      "timestamp": "2019-12-14T01:40:21Z",
+      "version": 4,
+      "changeset": 78397436,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "name": "大阪大谷大学博物館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11440165",
+        "wikipedia": "ja:大阪大谷大学博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422988631,
+      "lat": 34.666829,
+      "lon": 135.585498,
+      "timestamp": "2019-12-14T01:40:20Z",
+      "version": 2,
+      "changeset": 78397436,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "KSJ2:ADS": "御厨栄町4-1-10",
+        "KSJ2:AdminArea": "大阪府東大阪市",
+        "KSJ2:PubFacAdmin": "民間",
+        "name": "大阪商業大学商業史博物館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11440106",
+        "wikipedia": "ja:大阪商業大学商業史博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422989271,
+      "lat": 34.693465,
+      "lon": 135.462465,
+      "timestamp": "2026-03-13T16:11:06Z",
+      "version": 5,
+      "changeset": 179818497,
+      "user": "87654321hhh",
+      "uid": 19414127,
+      "tags": {
+        "name": "大阪市下水道科学館",
+        "name:en": "Osaka City Sewerage Science Museum",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "opening_hours": "none",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11440200",
+        "wikimedia_commons": "Category:Osaka City Sewerage Science Museum",
+        "wikipedia": "ja:大阪市下水道科学館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422990011,
+      "lat": 34.6646523,
+      "lon": 135.5031573,
+      "timestamp": "2023-07-08T23:38:42Z",
+      "version": 8,
+      "changeset": 138280468,
+      "user": "Revert De Niro",
+      "uid": 19802346,
+      "tags": {
+        "alt_name": "ワッハ上方",
+        "name": "大阪府立 上方演芸資料館",
+        "name:en": "Osaka Prefectural Museum of Kamigata Comedy and Performing Arts",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11440995",
+        "wikipedia": "ja:大阪府立上方演芸資料館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422990204,
+      "lat": 34.6839942,
+      "lon": 135.5180899,
+      "timestamp": "2023-10-16T17:41:40Z",
+      "version": 8,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "大阪府立現代美術センター",
+        "name:en": "Osaka Contemporary Art Center",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q4707643",
+        "wikimedia_commons": "Category:Osaka Contemporary Art Center",
+        "wikipedia": "en:Osaka Contemporary Art Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422990934,
+      "lat": 34.497848,
+      "lon": 135.543393,
+      "timestamp": "2011-09-04T13:05:03Z",
+      "version": 1,
+      "changeset": 9208567,
+      "user": "watao",
+      "uid": 393606,
+      "tags": {
+        "KSJ2:ADS": "今熊1-94-1",
+        "KSJ2:AdminArea": "大阪府大阪狭山市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "name": "大阪狭山市立郷土資料館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422991063,
+      "lat": 34.7474436,
+      "lon": 135.5417005,
+      "timestamp": "2020-05-15T14:00:41Z",
+      "version": 3,
+      "changeset": 85265845,
+      "user": "Ayami-X",
+      "uid": 11107187,
+      "tags": {
+        "name": "KEIDAIギャラリー",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422991118,
+      "lat": 34.511825,
+      "lon": 135.630903,
+      "timestamp": "2025-04-21T11:17:56Z",
+      "version": 3,
+      "changeset": 165233621,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "name": "大阪芸術大学博物館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "website": "https://www.osaka-geidai.ac.jp/guide/museum",
+        "wikidata": "Q123508358"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422991771,
+      "lat": 34.780465,
+      "lon": 135.456914,
+      "timestamp": "2011-09-04T13:05:41Z",
+      "version": 1,
+      "changeset": 9208567,
+      "user": "watao",
+      "uid": 393606,
+      "tags": {
+        "KSJ2:ADS": "岡町北3-8-7",
+        "KSJ2:AdminArea": "大阪府豊中市",
+        "KSJ2:PubFacAdmin": "民間",
+        "name": "奥内陶芸美術館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422993108,
+      "lat": 34.493228,
+      "lon": 135.498417,
+      "timestamp": "2019-11-11T14:26:13Z",
+      "version": 2,
+      "changeset": 76914544,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "KSJ2:ADS": "豊田1602-1",
+        "KSJ2:AdminArea": "大阪府大阪市中央区",
+        "KSJ2:PubFacAdmin": "民間",
+        "name": "小谷城郷土館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11463731",
+        "wikipedia": "ja:小谷城郷土館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1422993568,
+      "lat": 34.4590822,
+      "lon": 135.3700499,
+      "timestamp": "2018-03-27T04:10:21Z",
+      "version": 3,
+      "changeset": 57553848,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "name": "岸和田市立郷土資料館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423005275,
+      "lat": 34.387519,
+      "lon": 135.526207,
+      "timestamp": "2022-11-11T03:58:36Z",
+      "version": 3,
+      "changeset": 128758040,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "name": "滝畑ふるさと文化財の森センター",
+        "name:en": "Takihata Museum of Ethnology and Culture",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11553490",
+        "wikipedia": "ja:河内長野市立滝畑ふるさと文化財の森センター"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423005655,
+      "lat": 34.5014224,
+      "lon": 135.4084131,
+      "timestamp": "2023-03-04T06:51:18Z",
+      "version": 4,
+      "changeset": 133278228,
+      "user": "K_Sakanoshita",
+      "uid": 389520,
+      "tags": {
+        "name": "泉大津市立織編館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423006333,
+      "lat": 34.6875435,
+      "lon": 135.5022517,
+      "timestamp": "2023-10-16T17:41:40Z",
+      "version": 4,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "湯木美術館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11563573",
+        "wikimedia_commons": "Category:Yuki Museum of Art",
+        "wikipedia": "en:Yuki Museum of Art"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423016951,
+      "lat": 34.6958942,
+      "lon": 135.5216842,
+      "timestamp": "2026-01-01T11:19:28Z",
+      "version": 11,
+      "changeset": 176699220,
+      "user": "市川ゆり子",
+      "uid": 388809,
+      "tags": {
+        "fee": "no",
+        "name": "造幣博物館",
+        "name:en": "Mint Museum",
+        "name:ja": "造幣博物館",
+        "name:ja-Hira": "ゾウヘイハクブツカン",
+        "name:ja_rm": "Zouhei Hakubutsukan",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+        "opening_hours": "Mo-Su 09:00-16:45",
+        "operator": "造幣局",
+        "phone": "+81 6-6351-5361",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "website": "https://www.mint.go.jp/enjoy/plant-osaka/plant_museum.html",
+        "wheelchair": "yes",
+        "wikidata": "Q11271546",
+        "wikimedia_commons": "Category:Mint Museum (Osaka, Japan)",
+        "wikipedia": "ja:造幣博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423018611,
+      "lat": 34.69827,
+      "lon": 135.599815,
+      "timestamp": "2011-09-04T13:28:34Z",
+      "version": 1,
+      "changeset": 9208567,
+      "user": "watao",
+      "uid": 393606,
+      "tags": {
+        "KSJ2:ADS": "鴻池元町2-30",
+        "KSJ2:AdminArea": "大阪府東大阪市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "name": "鴻池新田会所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423044125,
+      "lat": 33.5527935,
+      "lon": 135.4943975,
+      "timestamp": "2023-01-07T22:44:17Z",
+      "version": 2,
+      "changeset": 130998370,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "name": "すさみ町立歴史民俗資料館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423052008,
+      "lat": 34.7913093,
+      "lon": 135.3949205,
+      "timestamp": "2019-12-03T08:10:40Z",
+      "version": 4,
+      "changeset": 77859356,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "name": "伊丹市昆虫館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q17238979",
+        "wikipedia": "ja:伊丹市昆虫館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423061021,
+      "lat": 34.7162548,
+      "lon": 135.4134125,
+      "timestamp": "2021-12-14T08:39:32Z",
+      "version": 4,
+      "changeset": 114912845,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "name": "世界の貯金箱博物館",
+        "tourism": "museum",
+        "wikidata": "Q11362202",
+        "wikipedia": "ja:世界の貯金箱博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423061454,
+      "lat": 34.770041,
+      "lon": 135.439906,
+      "timestamp": "2025-03-22T18:11:42Z",
+      "version": 5,
+      "changeset": 163959130,
+      "user": "Aphaia_JP",
+      "uid": 21006601,
+      "tags": {
+        "addr:city": "尼崎市田能6-5-1",
+        "addr:postcode": "661-0951",
+        "email": "ama-tanosiryokan@city.amagasaki.hyogo.jp",
+        "fax": "06-6492-1777",
+        "fee": "no",
+        "name": "尼崎市立田能資料館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "opening_hours": "Tu-Su, PH 10:00-17:00; Mo off",
+        "operator": "尼崎市",
+        "phone": "06-6492-1777",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "website": "https://www.city.amagasaki.hyogo.jp/gakusyu/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423067236,
+      "lat": 33.765472,
+      "lon": 135.58903,
+      "timestamp": "2011-09-04T14:16:36Z",
+      "version": 1,
+      "changeset": 9209066,
+      "user": "watao",
+      "uid": 393606,
+      "tags": {
+        "KSJ2:ADS": "平瀬457-4",
+        "KSJ2:AdminArea": "和歌山県田辺市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "name": "平瀬歴史民俗資料館",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1423074356,
+      "lat": 33.6974225,
+      "lon": 135.4007249,
+      "timestamp": "2019-05-03T09:07:35Z",
+      "version": 4,
+      "changeset": 69833840,
+      "user": "pizzaiolo",
+      "uid": 1772368,
+      "tags": {
+        "name": "田辺市立美術館",
+        "name:en": "Tanabe City Museum of Art",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "phone": "+81-739-24-3770",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "wikidata": "Q11577335"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2373447958,
+      "lat": 34.6910724,
+      "lon": 135.4868302,
+      "timestamp": "2019-04-06T10:00:53Z",
+      "version": 5,
+      "changeset": 68947974,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "name": "design museum",
+        "source": "Bing;survey",
+        "tourism": "museum",
+        "website": "https://designde.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2376818627,
+      "lat": 34.709457,
+      "lon": 135.4919,
+      "timestamp": "2023-10-16T17:41:40Z",
+      "version": 4,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "南蛮文化館",
+        "name:en": "Gallery Namban",
+        "tourism": "museum",
+        "wikidata": "Q11408411",
+        "wikipedia": "ja:南蛮文化館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3029113169,
+      "lat": 33.730712,
+      "lon": 135.3777337,
+      "timestamp": "2022-05-16T08:29:21Z",
+      "version": 18,
+      "changeset": 121039642,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "田辺市中屋敷町36番地の1",
+        "addr:postcode": "646-0035",
+        "building:levels": "2",
+        "ele": "5.7",
+        "name": "南方熊楠邸",
+        "name:en": "Minakata Kumagusu's House",
+        "name:ja": "南方熊楠邸",
+        "note": "登録文化財 旧南方家住宅",
+        "opening_hours": "10:00-16:30",
+        "operator": "田辺市",
+        "source": "標高：GSImaps/dem",
+        "tourism": "museum",
+        "website": "https://www.minakata.org/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3848548679,
+      "lat": 34.72291,
+      "lon": 135.4227312,
+      "timestamp": "2018-09-12T14:20:01Z",
+      "version": 3,
+      "changeset": 62522464,
+      "user": "openamap",
+      "uid": 94381,
+      "tags": {
+        "addr:block_number": "33",
+        "addr:city": "尼崎市",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "2",
+        "addr:province": "兵庫県",
+        "addr:quarter": "西長洲町",
+        "contact:phone": "+81-6-7163-7108",
+        "contact:website": "http://www.ama-a-lab.com/",
+        "level": "1",
+        "name": "あまらぶアートラボ　A-Lab",
+        "name:ja-Hira": "あまらぶあーとらぼ　えーらぼ",
+        "short_name": "えーらぼ",
+        "source": "local knowledge",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3904064434,
+      "lat": 34.6954604,
+      "lon": 135.5182208,
+      "timestamp": "2024-09-10T13:32:19Z",
+      "version": 5,
+      "changeset": 156440907,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "addr:block_number": "20",
+        "addr:housenumber": "5",
+        "addr:neighbourhood": "天満一丁目",
+        "level": "0",
+        "name": "まほうびん記念館",
+        "note": "予約制",
+        "opening_hours": "Mo-Fr 10:00-16:00",
+        "operator": "象印マホービン株式会社",
+        "phone": "06-6356-2340",
+        "reservation": "required",
+        "tourism": "museum",
+        "website": "https://www.zojirushi.co.jp/corp/kinenkan/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3929761996,
+      "lat": 34.4418534,
+      "lon": 135.3700603,
+      "timestamp": "2016-01-06T01:08:26Z",
+      "version": 1,
+      "changeset": 36394451,
+      "user": "map15",
+      "uid": 3403158,
+      "tags": {
+        "name": "ふるさと知っとこ館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4419665990,
+      "lat": 34.7104664,
+      "lon": 135.5114334,
+      "timestamp": "2023-10-16T17:41:41Z",
+      "version": 14,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "addr:block_number": "4",
+        "addr:housenumber": "20",
+        "addr:neighbourhood": "天神橋六丁目",
+        "contact:website": "https://www.osaka-angenet.jp/konjyakukan/",
+        "level": "7;8;9",
+        "name": "大阪くらしの今昔館",
+        "name:en": "Osaka Museum of Housing and Living",
+        "name:ja": "大阪くらしの今昔館",
+        "name:ko": "오사카 주택박물관",
+        "name:zh": "大阪生活今昔馆",
+        "opening_hours": "We-Mo 10:00-17:00",
+        "tourism": "museum",
+        "wikidata": "Q11439926",
+        "wikimedia_commons": "Category:Osaka Museum of Housing and Living",
+        "wikipedia": "ja:大阪くらしの今昔館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4441763434,
+      "lat": 34.7149245,
+      "lon": 135.4208108,
+      "timestamp": "2023-10-16T17:41:41Z",
+      "version": 4,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "尼崎市立歴史博物館",
+        "operator": "尼崎市",
+        "start_date": "2020-10-10",
+        "tourism": "museum",
+        "website": "http://www.archives.city.amagasaki.hyogo.jp/museum/",
+        "wikidata": "Q11464987",
+        "wikimedia_commons": "Category:Amagasaki City Museum of History",
+        "wikipedia": "ja:尼崎市立歴史博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4563612608,
+      "lat": 34.406509,
+      "lon": 135.3883549,
+      "timestamp": "2022-03-19T14:16:53Z",
+      "version": 4,
+      "changeset": 118667284,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "addr:block_number": "216",
+        "addr:city": "貝塚市",
+        "addr:postcode": "597-0105",
+        "addr:province": "大阪府",
+        "addr:quarter": "三ツ松",
+        "museum": "science",
+        "name": "善兵衛ランド",
+        "opening_hours": "Su-Tu 9:00～17：00 We closed Th-Sa 9:00~21:45",
+        "tourism": "museum",
+        "wikidata": "Q11418902",
+        "wikipedia": "ja:善兵衛ランド"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4800578702,
+      "lat": 34.7101102,
+      "lon": 135.455956,
+      "timestamp": "2018-07-16T06:36:31Z",
+      "version": 2,
+      "changeset": 60748799,
+      "user": "nyampire",
+      "uid": 378532,
+      "tags": {
+        "description": "西淀川・公害と環境資料館",
+        "level": "5",
+        "name": "西淀川公害資料館",
+        "opening_hours": "Mo-Fr 10:00-17:00",
+        "operator": "あおぞら財団",
+        "tourism": "museum",
+        "website": "https://www.kcc-grp.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4807613479,
+      "lat": 34.6458431,
+      "lon": 135.5131689,
+      "timestamp": "2025-03-08T11:19:42Z",
+      "version": 9,
+      "changeset": 163359243,
+      "user": "tartiflex",
+      "uid": 507417,
+      "tags": {
+        "addr:block_number": "1",
+        "addr:city": "大阪市",
+        "addr:housenumber": "24",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "545-0052",
+        "addr:province": "大阪府",
+        "addr:quarter": "阿倍野筋",
+        "addr:suburb": "阿倍野区",
+        "contact:instagram": "abeno_harukas_art_museum",
+        "contact:phone": "+81 6-4399-9050",
+        "contact:tripadvisor": "6619977",
+        "contact:twitter": "harukas_museum",
+        "contact:website": "https://www.aham.jp/",
+        "fee": "yes",
+        "level": "15",
+        "level:ref": "16F",
+        "name": "あべのハルカス美術館",
+        "name:en": "Abeno Harukas Art Museum",
+        "name:fr": "Musée d'art d'Abeno Harukas",
+        "name:ja-Hira": "あべのハルカスびじゅつかん",
+        "name:ja-Latn": "Abeno Harukasu Bijutsukan",
+        "opening_hours": "Tu-Fr 10:00-20:00; Sa-Mo 10:00-18:00; PH 10:00-18:00",
+        "start_date": "2014-03-22",
+        "tourism": "museum",
+        "wikidata": "Q59536065",
+        "wikipedia": "en:Abeno Harukas Art Museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4920617728,
+      "lat": 34.6826183,
+      "lon": 135.5208131,
+      "timestamp": "2024-08-19T12:20:34Z",
+      "version": 8,
+      "changeset": 155457684,
+      "user": "Popolon",
+      "uid": 27454,
+      "tags": {
+        "name": "大阪歴史博物館",
+        "name:en": "Osaka Museum of History",
+        "name:fr": "Musée d'histoire d'Osaka",
+        "name:ja": "大阪歴史博物館",
+        "name:ko": "오사카 역사박물관",
+        "name:nl": "Historisch museum Osaka",
+        "name:zh": "大阪歷史博物館",
+        "opening_hours": "We-Mo 09:30-17:00",
+        "phone": "+81-6-6946-5728",
+        "tourism": "museum",
+        "website": "https://www.osakamushis.jp/",
+        "wheelchair": "yes",
+        "wikidata": "Q11261312",
+        "wikimedia_commons": "Category:Osaka Museum of History",
+        "wikipedia": "ja:大阪歴史博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4937644440,
+      "lat": 34.5828863,
+      "lon": 135.4774903,
+      "timestamp": "2024-12-18T02:00:47Z",
+      "version": 5,
+      "changeset": 160329902,
+      "user": "archie",
+      "uid": 156646,
+      "tags": {
+        "museum": "craft",
+        "name": "堺伝統産業会館",
+        "name:en": "Sakai Hamono Knife Museum",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "tourism": "museum",
+        "wikidata": "Q11428089",
+        "wikimedia_commons": "Category:Sakai Traditional Crafts Museum",
+        "wikipedia": "ja:堺HAMONOミュージアム"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4959218109,
+      "lat": 34.7805787,
+      "lon": 135.4624779,
+      "timestamp": "2017-07-09T02:32:28Z",
+      "version": 1,
+      "changeset": 50143032,
+      "user": "taki3hira",
+      "uid": 1948193,
+      "tags": {
+        "name": "奥内陶芸美術館",
+        "opening_hours": "Tu-Fr,Su 10:00-16:00; Dec 20-31,Jan 01-10 off; PH off",
+        "phone": "+81 6 6852 3842",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4986099037,
+      "lat": 34.6513318,
+      "lon": 135.5863229,
+      "timestamp": "2017-07-22T04:49:48Z",
+      "version": 1,
+      "changeset": 50473903,
+      "user": "バビロン",
+      "uid": 6357038,
+      "tags": {
+        "name": "不倒館",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5005577624,
+      "lat": 34.6701948,
+      "lon": 135.5523778,
+      "timestamp": "2017-07-31T18:02:27Z",
+      "version": 1,
+      "changeset": 50729471,
+      "user": "ddbdbdb",
+      "uid": 848672,
+      "tags": {
+        "name": "mrs Triangle",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5156557168,
+      "lat": 34.7206234,
+      "lon": 135.4200593,
+      "timestamp": "2022-10-19T01:55:56Z",
+      "version": 2,
+      "changeset": 127753785,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "contact:facebook": "https://www.facebook.com/AmagasakiMunicipalArchives/",
+        "contact:website": "http://www.archives.city.amagasaki.hyogo.jp/",
+        "indoor": "yes",
+        "level": "6",
+        "name": "尼崎市地域研究史料館",
+        "source": "local knowledge",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5173016378,
+      "lat": 34.7931712,
+      "lon": 135.5084905,
+      "timestamp": "2020-07-19T10:08:52Z",
+      "version": 3,
+      "changeset": 88196048,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "level": "7",
+        "name": "平和祈念資料館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5178256363,
+      "lat": 34.6931852,
+      "lon": 135.4953906,
+      "timestamp": "2018-05-26T07:04:48Z",
+      "version": 2,
+      "changeset": 59288205,
+      "user": "_Yuki_K_",
+      "uid": 3933181,
+      "tags": {
+        "level": "3",
+        "name": "中之島 香雪美術館",
+        "name:en": "Kosetsu Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5178256364,
+      "lat": 34.6931665,
+      "lon": 135.4925233,
+      "timestamp": "2017-10-20T13:59:49Z",
+      "version": 1,
+      "changeset": 53099111,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "level": "0",
+        "name": "ダイビルサロン“1923”",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5334662051,
+      "lat": 34.610378,
+      "lon": 135.5215686,
+      "timestamp": "2018-01-12T09:20:16Z",
+      "version": 1,
+      "changeset": 55374505,
+      "user": "daysofwild",
+      "uid": 7086382,
+      "tags": {
+        "name": "花と緑と自然の情報センター",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5375093928,
+      "lat": 34.6838637,
+      "lon": 135.4622542,
+      "timestamp": "2018-01-31T11:27:21Z",
+      "version": 1,
+      "changeset": 55928809,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "梅香堂",
+        "name:en": "Baikado",
+        "opening_hours": "Th-Mo 13:00-19:00",
+        "phone": "+81 6 6460 7620",
+        "tourism": "museum",
+        "website": "http://baikado.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5483830721,
+      "lat": 34.2943345,
+      "lon": 135.5042067,
+      "timestamp": "2018-03-17T05:27:46Z",
+      "version": 2,
+      "changeset": 57258503,
+      "user": "oimus1976",
+      "uid": 5336393,
+      "tags": {
+        "name": "川上酒伝承館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5558316664,
+      "lat": 34.5779553,
+      "lon": 135.4962543,
+      "timestamp": "2018-04-17T08:25:05Z",
+      "version": 2,
+      "changeset": 58160525,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "level": "1;2;3",
+        "name": "堺　アルフォンス・ミュシャ館",
+        "name:en": "Alphonse Mucha Museum",
+        "opening_hours": "Tu-Su 09:30-17:15",
+        "operator": "堺市立文化館",
+        "phone": "+81 72 222 5533",
+        "tourism": "museum",
+        "website": "https://mucha.sakai-bunshin.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5779150153,
+      "lat": 34.6614738,
+      "lon": 135.5015839,
+      "timestamp": "2025-12-24T19:11:35Z",
+      "version": 3,
+      "changeset": 176373476,
+      "user": "tartiflex",
+      "uid": 507417,
+      "tags": {
+        "level": "6",
+        "level:ref": "7F",
+        "name": "なんばパークスミュージアム",
+        "name:en": "Namba Parks Museum",
+        "name:fr": "Muséum de Namba Parks",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5875318369,
+      "lat": 34.6236135,
+      "lon": 135.5552012,
+      "timestamp": "2022-03-27T02:55:23Z",
+      "version": 3,
+      "changeset": 118967392,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "level": "0",
+        "name": "新聞屋さん博物館",
+        "tourism": "museum",
+        "wikidata": "Q11503970",
+        "wikipedia": "ja:新聞屋さん博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048284107,
+      "lat": 34.7374402,
+      "lon": 135.587986,
+      "timestamp": "2018-11-09T06:45:05Z",
+      "version": 1,
+      "changeset": 64315212,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "門真市立歴史資料館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6101478625,
+      "lat": 34.5949649,
+      "lon": 135.5841053,
+      "timestamp": "2018-11-29T01:30:53Z",
+      "version": 1,
+      "changeset": 64992727,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "コンペイトウミュージアム",
+        "name:en": "Konpeitou Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6334869186,
+      "lat": 34.6922436,
+      "lon": 135.5041317,
+      "timestamp": "2019-03-13T06:45:51Z",
+      "version": 1,
+      "changeset": 68088621,
+      "user": "Sophie G",
+      "uid": 9411868,
+      "tags": {
+        "name:en": "Gallery Kaze",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6387151359,
+      "lat": 34.7929708,
+      "lon": 135.5082893,
+      "timestamp": "2023-11-23T12:48:10Z",
+      "version": 2,
+      "changeset": 144368211,
+      "user": "岡村昇二",
+      "uid": 20615648,
+      "tags": {
+        "addr:block_number": "1",
+        "addr:city": "吹田市",
+        "addr:housenumber": "２",
+        "check_date": "2023-11-23",
+        "level": "0;1",
+        "name": "千里ニュータウン情報館",
+        "payment:cash": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6418899643,
+      "lat": 34.3155989,
+      "lon": 135.5876963,
+      "timestamp": "2019-04-21T08:45:04Z",
+      "version": 1,
+      "changeset": 69419169,
+      "user": "kskn318",
+      "uid": 9649357,
+      "tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6512968762,
+      "lat": 34.7731486,
+      "lon": 135.4630406,
+      "timestamp": "2019-05-31T11:01:55Z",
+      "version": 1,
+      "changeset": 70804569,
+      "user": "K_Sakanoshita",
+      "uid": 389520,
+      "tags": {
+        "name": "原田しろあと館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6549263033,
+      "lat": 34.6883784,
+      "lon": 135.5032706,
+      "timestamp": "2019-06-15T14:08:55Z",
+      "version": 1,
+      "changeset": 71280757,
+      "user": "中元正弘",
+      "uid": 9190752,
+      "tags": {
+        "name": "田辺三菱製薬史料館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6549326466,
+      "lat": 34.6886356,
+      "lon": 135.5059954,
+      "timestamp": "2023-07-08T11:46:54Z",
+      "version": 4,
+      "changeset": 138260805,
+      "user": "Revert De Niro",
+      "uid": 19802346,
+      "tags": {
+        "name": "くすりの道修町資料館",
+        "tourism": "museum",
+        "wikidata": "Q17214457",
+        "wikipedia": "ja:くすりの道修町資料館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6549393739,
+      "lat": 34.688393,
+      "lon": 135.504779,
+      "timestamp": "2019-06-15T14:23:49Z",
+      "version": 1,
+      "changeset": 71281075,
+      "user": "中元正弘",
+      "uid": 9190752,
+      "tags": {
+        "name": "武田科学振興財団杏雨書屋",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6678260036,
+      "lat": 34.4369156,
+      "lon": 135.555763,
+      "timestamp": "2019-12-10T09:45:07Z",
+      "version": 2,
+      "changeset": 78198230,
+      "user": "Sattsatter",
+      "uid": 10196336,
+      "tags": {
+        "name": "くろまろ館",
+        "name:en": "Kuromaro-kan (Local History Museum)",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7331102443,
+      "lat": 34.6627304,
+      "lon": 135.5065257,
+      "timestamp": "2020-07-20T07:34:00Z",
+      "version": 2,
+      "changeset": 88229066,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "name": "高島屋史料館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7514142391,
+      "lat": 34.5829319,
+      "lon": 135.5931955,
+      "timestamp": "2022-03-21T06:27:15Z",
+      "version": 2,
+      "changeset": 118720021,
+      "user": "taki3hira",
+      "uid": 1948193,
+      "tags": {
+        "name": "史跡城山古墳 ガイダンス棟 まほらしろやま",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7858518745,
+      "lat": 34.5073921,
+      "lon": 135.5515239,
+      "timestamp": "2024-07-17T11:47:51Z",
+      "version": 5,
+      "changeset": 154054617,
+      "user": "ivanbranco",
+      "uid": 11220113,
+      "tags": {
+        "addr:city": "大阪狭山市",
+        "addr:neighbourhood": "池尻中2丁目",
+        "addr:postcode": "589-0007",
+        "addr:province": "大阪府",
+        "architect": "Tadao Ando",
+        "architect:wikipedia": "en:Tadao Ando",
+        "building": "yes",
+        "fee": "no",
+        "museum": "technology",
+        "name": "大阪府立狭山池博物館",
+        "name:en": "Sayama Ike Museum",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "opening_hours": "Tu-Su 10:00-17:00",
+        "phone": "072-367-8891",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "tourism": "museum",
+        "website": "https://sayamaikehaku.osakasayama.osaka.jp",
+        "wikidata": "Q11441131",
+        "wikimedia_commons": "Category:Osaka Prefectural Sayamaike Museum",
+        "wikipedia": "ja:大阪府立狭山池博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8250113339,
+      "lat": 34.6737875,
+      "lon": 135.4637888,
+      "timestamp": "2023-10-16T17:41:41Z",
+      "version": 3,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "alt_name": "リバティおおさか",
+        "alt_name:en": "Liberty Osaka",
+        "alt_name:ja": "リバティおおさか",
+        "alt_name:ko": "리버티 오사카",
+        "name": "大阪人権博物館",
+        "name:en": "Osaka Human Rights Museum",
+        "name:ko": "오사카인권박물관",
+        "opening_hours": "Mo-Fr 10:00-16:00",
+        "operator": "大阪人権博物館",
+        "tourism": "museum",
+        "website": "https://www.liberty.or.jp/",
+        "wikidata": "Q6541903",
+        "wikimedia_commons": "Category:Osaka Human Rights Museum",
+        "wikipedia": "ja:大阪人権博物館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9142429539,
+      "lat": 34.7378294,
+      "lon": 135.4207688,
+      "timestamp": "2021-10-03T14:49:43Z",
+      "version": 1,
+      "changeset": 112036710,
+      "user": "openamap",
+      "uid": 94381,
+      "tags": {
+        "level": "0",
+        "name": "尾浜履物博物館",
+        "source": "local knowledge",
+        "tourism": "museum",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9575866193,
+      "lat": 34.5660964,
+      "lon": 135.5970906,
+      "timestamp": "2023-10-16T17:41:42Z",
+      "version": 3,
+      "changeset": 142677143,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "level": "1",
+        "name": "アイセルシュラホール",
+        "operator": "藤井寺市",
+        "tourism": "museum",
+        "wikidata": "Q11282212",
+        "wikimedia_commons": "Category:Aiserushura-hall",
+        "wikipedia": "ja:アイセルシュラホール"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9630554348,
+      "lat": 34.6682076,
+      "lon": 135.6265493,
+      "timestamp": "2022-04-02T02:17:25Z",
+      "version": 1,
+      "changeset": 119222379,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "level": "0",
+        "name": "花園ラグビーミュージアム",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10125522840,
+      "lat": 34.7378831,
+      "lon": 135.5843232,
+      "timestamp": "2022-10-24T08:07:35Z",
+      "version": 1,
+      "changeset": 127984189,
+      "user": "aki24053",
+      "uid": 17472095,
+      "tags": {
+        "name": "海洋堂ホビーランド",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10393925168,
+      "lat": 34.5760324,
+      "lon": 135.4702638,
+      "timestamp": "2023-01-10T16:47:56Z",
+      "version": 2,
+      "changeset": 131114537,
+      "user": "harumiusinc",
+      "uid": 10230643,
+      "tags": {
+        "level": "1",
+        "name": "与謝野晶子記念館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10393925169,
+      "lat": 34.5759667,
+      "lon": 135.4703894,
+      "timestamp": "2023-01-10T16:47:56Z",
+      "version": 2,
+      "changeset": 131114537,
+      "user": "harumiusinc",
+      "uid": 10230643,
+      "tags": {
+        "level": "0",
+        "name": "千利休茶の湯館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11113128920,
+      "lat": 34.7569023,
+      "lon": 135.5276227,
+      "timestamp": "2023-08-14T03:43:36Z",
+      "version": 1,
+      "changeset": 139850996,
+      "user": "鵜飼　実幸",
+      "uid": 3217129,
+      "tags": {
+        "name": "吹田発展伝承室",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11169001674,
+      "lat": 34.7105394,
+      "lon": 135.5115093,
+      "timestamp": "2023-10-14T10:43:55Z",
+      "version": 2,
+      "changeset": 142571018,
+      "user": "HeraldOD",
+      "uid": 20397009,
+      "tags": {
+        "name": "住まいのミュージアム",
+        "name:en": "Osaka Museum of Housing and Living",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "tourism": "museum",
+        "website": "https://www.osaka-angenet.jp/konjyakukan/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11228252591,
+      "lat": 34.402269,
+      "lon": 135.3854616,
+      "timestamp": "2023-09-30T01:23:29Z",
+      "version": 1,
+      "changeset": 141934626,
+      "user": "K_Sakanoshita",
+      "uid": 389520,
+      "tags": {
+        "check_date": "2023-09-30",
+        "name": "水間資料館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11359661394,
+      "lat": 34.5723327,
+      "lon": 135.5592443,
+      "timestamp": "2023-11-25T12:13:46Z",
+      "version": 2,
+      "changeset": 144439064,
+      "user": "OYA_Yuji",
+      "uid": 20058476,
+      "tags": {
+        "check_date": "2023-11-25",
+        "level": "0",
+        "museum": "history",
+        "name": "郷土資料館",
+        "opening_hours": "Mo off; Tu-Su 09:00-17:00",
+        "phone": "+81 72-3366-800",
+        "tourism": "museum",
+        "website": "https://mbj-zaidan.jp/hurusatopia/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11434459166,
+      "lat": 34.6611269,
+      "lon": 135.5377022,
+      "timestamp": "2025-10-23T07:29:19Z",
+      "version": 2,
+      "changeset": 173659168,
+      "user": "JeffPy",
+      "uid": 18355042,
+      "tags": {
+        "fee": "yes",
+        "museum": "history",
+        "name": "大阪コリアタウン歴史資料館",
+        "name:en": "Osaka Korea Town Museum",
+        "name:ja": "大阪コリアタウン歴史資料館",
+        "name:ko": "오사카코리아타운 역사자료관",
+        "tourism": "museum",
+        "website": "https://oktmuseum.or.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12782416201,
+      "lat": 34.7052685,
+      "lon": 135.4896361,
+      "timestamp": "2025-04-24T10:23:26Z",
+      "version": 1,
+      "changeset": 165371484,
+      "user": "rarachizu",
+      "uid": 22557081,
+      "tags": {
+        "addr:housenumber": "TOWER WEST, 27階",
+        "addr:postcode": "531-0076",
+        "name": "絹谷幸二 天空美術館",
+        "name:en": "Koji Kinutani Tenku Art Museum",
+        "tourism": "museum",
+        "website": "https://www.kinutani-tenku.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12803953854,
+      "lat": 34.7494006,
+      "lon": 135.4237262,
+      "timestamp": "2025-05-02T11:38:42Z",
+      "version": 1,
+      "changeset": 165715433,
+      "user": "Aphaia_JP",
+      "uid": 21006601,
+      "tags": {
+        "changing_table": "yes",
+        "check_date": "2025-05-02",
+        "museum": "nature",
+        "name": "みどりのみゅーじあむ",
+        "opening_hours": "10:00-16:00",
+        "operator:type": "public",
+        "source": "survey",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12864802916,
+      "lat": 34.7791404,
+      "lon": 135.5387419,
+      "timestamp": "2025-05-26T14:05:31Z",
+      "version": 1,
+      "changeset": 166781415,
+      "user": "Shinji Enoki",
+      "uid": 420519,
+      "tags": {
+        "check_date": "2025-05-26",
+        "name": "指物博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12959343543,
+      "lat": 34.6251268,
+      "lon": 135.5544412,
+      "timestamp": "2025-06-28T13:45:47Z",
+      "version": 1,
+      "changeset": 168227964,
+      "user": "daiai",
+      "uid": 1495838,
+      "tags": {
+        "name": "かたな博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12960353854,
+      "lat": 34.6243588,
+      "lon": 135.5561184,
+      "timestamp": "2025-06-29T01:40:09Z",
+      "version": 1,
+      "changeset": 168247977,
+      "user": "daiai",
+      "uid": 1495838,
+      "tags": {
+        "name": "へっついさん博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12960353855,
+      "lat": 34.6243593,
+      "lon": 135.5561084,
+      "timestamp": "2025-06-29T01:40:09Z",
+      "version": 1,
+      "changeset": 168247977,
+      "user": "daiai",
+      "uid": 1495838,
+      "tags": {
+        "name": "おもろいライター博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12960379667,
+      "lat": 34.6231207,
+      "lon": 135.5582024,
+      "timestamp": "2025-06-29T03:35:35Z",
+      "version": 2,
+      "changeset": 168249285,
+      "user": "daiai",
+      "uid": 1495838,
+      "tags": {
+        "name": "平野郷猫会議事堂（にゃんこどう）",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12960461106,
+      "lat": 34.6225305,
+      "lon": 135.5572384,
+      "timestamp": "2025-06-29T03:38:22Z",
+      "version": 1,
+      "changeset": 168249326,
+      "user": "daiai",
+      "uid": 1495838,
+      "tags": {
+        "name": "綿とくらし博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13033568688,
+      "lat": 34.6826278,
+      "lon": 135.5200417,
+      "timestamp": "2025-07-29T09:27:48Z",
+      "version": 1,
+      "changeset": 169660349,
+      "user": "BaboucheVerte",
+      "uid": 6296343,
+      "tags": {
+        "fee": "no",
+        "int_name": "BK Plaza",
+        "level": "1;9",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13091383665,
+      "lat": 34.6379334,
+      "lon": 135.4117251,
+      "timestamp": "2025-11-10T06:31:08Z",
+      "version": 2,
+      "changeset": 174446908,
+      "user": "Aphaia_JP",
+      "uid": 21006601,
+      "tags": {
+        "addr:floor": "2",
+        "amenity": "cafe",
+        "check_date": "2025-08-23",
+        "fee": "no",
+        "level": "1",
+        "name": "ふねしる",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13388509601,
+      "lat": 34.6874875,
+      "lon": 135.5258873,
+      "timestamp": "2025-12-19T11:05:28Z",
+      "version": 1,
+      "changeset": 176135576,
+      "user": "tartiflex",
+      "uid": 507417,
+      "tags": {
+        "contact:twitter": "osakacastle_PR",
+        "contact:website": "https://www.osakacastle.net/",
+        "contact:youtube": "UCLctrpb5GuYeDdksoJjqVhg",
+        "name": "大阪城天守閣",
+        "name:en": "Osaka Castle Museum",
+        "name:fr": "Musée du château d'Osaka",
+        "name:ja-Hira": "おおさかじょうてんしゅかく",
+        "name:ja-Latn": "Ōsaka-jō tenshukaku",
+        "start_date": "1931-11-07",
+        "tourism": "museum",
+        "wikidata": "Q96338884",
+        "wikimedia_commons": "Category:Osaka Castle Keep Tower",
+        "wikipedia": "ja:大阪城天守閣"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13429805987,
+      "lat": 34.6973186,
+      "lon": 135.5269996,
+      "timestamp": "2026-01-04T04:34:10Z",
+      "version": 1,
+      "changeset": 176805510,
+      "user": "setomaps",
+      "uid": 21931672,
+      "tags": {
+        "addr:block_number": "19",
+        "addr:city": "大阪市",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "東野田町１丁目",
+        "addr:postcode": "534-0024",
+        "addr:province": "大阪府",
+        "addr:suburb": "都島区",
+        "name": "コヤノ美術館",
+        "phone": "+81-6-6358-7555",
+        "tourism": "museum",
+        "website": "http://koyafron.co.jp/museum/index.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13588631044,
+      "lat": 34.5886677,
+      "lon": 135.492012,
+      "timestamp": "2026-02-22T00:42:24Z",
+      "version": 1,
+      "changeset": 178881678,
+      "user": "openamap",
+      "uid": 94381,
+      "tags": {
+        "contact:website": "https://zacconekan.amebaownd.com/",
+        "name": "雑魚寝館",
+        "tourism": "museum"
+      }
+    }
+  ]
+}

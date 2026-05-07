@@ -1,0 +1,1943 @@
+{
+  "city": "kyoto",
+  "category": "restaurant",
+  "timestamp": "20260507_151647",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 274017002,
+      "lat": 34.9867552,
+      "lon": 135.762489,
+      "timestamp": "2022-02-10T03:41:28Z",
+      "version": 5,
+      "changeset": 117225970,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "新福菜館本店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 274057205,
+      "lat": 35.0239114,
+      "lon": 135.7963125,
+      "timestamp": "2008-06-27T18:00:04Z",
+      "version": 1,
+      "changeset": 315307,
+      "user": "miurahr",
+      "uid": 21118,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "SEDONA Coffee & restrant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 354841405,
+      "lat": 35.0002416,
+      "lon": 135.7525259,
+      "timestamp": "2023-11-10T13:53:48Z",
+      "version": 7,
+      "changeset": 143864680,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:postcode": "600-8483",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "やきとり大吉 堀川高辻店",
+        "name:en": "Daikichi",
+        "opening_hours": "Mo-Su 17:00-01:00",
+        "phone": "81753518000",
+        "website": "https://daikichi.co.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 373216322,
+      "lat": 34.5205464,
+      "lon": 135.7124339,
+      "timestamp": "2023-11-09T15:10:07Z",
+      "version": 2,
+      "changeset": 143826938,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "restaurant",
+        "created_by": "Merkaartor 0.11",
+        "cuisine": "pizza",
+        "name": "マガジーノ",
+        "website": "https://magazzino.co.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 467005553,
+      "lat": 34.3058855,
+      "lon": 135.8233402,
+      "timestamp": "2019-08-10T10:40:27Z",
+      "version": 3,
+      "changeset": 73217973,
+      "user": "8dirfriend",
+      "uid": 3315483,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "道の駅吉野路黒滝"
+      }
+    },
+    {
+      "type": "node",
+      "id": 538377413,
+      "lat": 35.0287013,
+      "lon": 135.7783297,
+      "timestamp": "2026-02-08T16:08:37Z",
+      "version": 11,
+      "changeset": 178272896,
+      "user": "Ankoleek",
+      "uid": 23722507,
+      "tags": {
+        "addr:housenumber": "1-70",
+        "addr:postcode": "606-8301",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "隈本ハイカラ万遍飯店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 600928991,
+      "lat": 34.9957899,
+      "lon": 135.738943,
+      "timestamp": "2011-03-09T18:46:01Z",
+      "version": 5,
+      "changeset": 7506947,
+      "user": "xybot",
+      "uid": 70696,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "かごのや五条七本松店 (Kagonoya)",
+        "name:en": "Kagonoya",
+        "name:ja": "かごのや五条七本松店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601571898,
+      "lat": 34.9328176,
+      "lon": 135.765569,
+      "timestamp": "2023-03-06T14:39:31Z",
+      "version": 6,
+      "changeset": 133366579,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "大中ラーメン",
+        "name:en": "Daichu",
+        "name:ja": "大中ラーメン",
+        "opening_hours": "11:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603129986,
+      "lat": 35.0090771,
+      "lon": 135.77084,
+      "timestamp": "2016-04-17T16:37:56Z",
+      "version": 4,
+      "changeset": 38646811,
+      "user": "Kartaman",
+      "uid": 3823996,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Ganko Sanjo Honten (iK)",
+        "name:en": "Ganko Sanjo Honten",
+        "name:ja": "がんこ 三条本店",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "operator": "がんこフードサービス"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603136827,
+      "lat": 35.0084615,
+      "lon": 135.771244,
+      "timestamp": "2023-09-27T08:52:26Z",
+      "version": 3,
+      "changeset": 141808526,
+      "user": "鵜飼　実幸",
+      "uid": 3217129,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "珉珉 　三条大橋店 (Minmin Sanjo Oohashi)",
+        "name:en": "Minmin Sanjo Oohashi",
+        "name:ja": "珉珉　三条大橋店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603138737,
+      "lat": 35.0084294,
+      "lon": 135.7706623,
+      "timestamp": "2022-09-18T22:38:17Z",
+      "version": 2,
+      "changeset": 126347634,
+      "user": "MapperMudkip",
+      "uid": 8420564,
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "三条店",
+        "brand": "餃子の王将",
+        "brand:en": "Gyoza no Ohsho",
+        "brand:ja": "餃子の王将",
+        "brand:wikidata": "Q11666805",
+        "cuisine": "chinese;gyoza",
+        "name": "餃子の王将",
+        "name:en": "Gyoza no Ohsho",
+        "name:ja": "餃子の王将",
+        "operator": "王将フードサービス"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603145266,
+      "lat": 34.984234,
+      "lon": 135.7534254,
+      "timestamp": "2023-09-08T16:57:32Z",
+      "version": 6,
+      "changeset": 140995588,
+      "user": "mneko",
+      "uid": 158194,
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "八条口店",
+        "brand": "天下一品",
+        "brand:en": "Tenkaippin",
+        "brand:ja": "天下一品",
+        "brand:wikidata": "Q11442172",
+        "cuisine": "ramen",
+        "name": "天下一品",
+        "name:en": "Tenkaippin",
+        "name:ja": "天下一品",
+        "name:ja_rm": "Tenka Ippin",
+        "operator": "天下一品",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 615624388,
+      "lat": 34.986687,
+      "lon": 135.7624885,
+      "timestamp": "2025-06-20T01:07:45Z",
+      "version": 12,
+      "changeset": 167849146,
+      "user": "dressed-pleasekin",
+      "uid": 11175011,
+      "tags": {
+        "addr:block_number": "845",
+        "addr:city": "京都市",
+        "addr:postcode": "600-8213",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路向畑町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "本家第一旭 (Honke Daiichiasahi)",
+        "name:en": "Honke Daiichiasahi",
+        "name:ja": "本家第一旭",
+        "opening_hours": "Fr-We,PH 06:00-01:00",
+        "website": "https://www.honke-daiichiasahi.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 615635023,
+      "lat": 34.9562396,
+      "lon": 135.7453025,
+      "timestamp": "2013-04-16T14:23:36Z",
+      "version": 4,
+      "changeset": 15750694,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "たかばしラーメン",
+        "ref": "京都南インター店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 618773148,
+      "lat": 34.9357035,
+      "lon": 135.685657,
+      "timestamp": "2010-02-28T15:33:03Z",
+      "version": 2,
+      "changeset": 3999365,
+      "user": "Munkson",
+      "uid": 212445,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "savory_pancakes",
+        "name": "富恋人　(Friend)",
+        "name:en": "Friend",
+        "name:ja_rm": "Hurendo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624201865,
+      "lat": 34.9293837,
+      "lon": 135.6996522,
+      "timestamp": "2010-01-31T16:34:15Z",
+      "version": 1,
+      "changeset": 3760793,
+      "user": "Munkson",
+      "uid": 212445,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "手打ちうどん九十九 (Tsukumo)",
+        "name:en": "Tsukumo",
+        "name:ja": "手打ちうどん九十九"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663612740,
+      "lat": 34.8620235,
+      "lon": 135.7769229,
+      "timestamp": "2025-07-10T13:59:51Z",
+      "version": 4,
+      "changeset": 168745179,
+      "user": "ryoro",
+      "uid": 623097,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "和食さと",
+        "brand:en": "Washoku Sato",
+        "brand:ja": "和食さと",
+        "brand:wikidata": "Q11304897",
+        "brand:wikipedia": "ja:SRSホールディングス",
+        "check_date": "2025-07-09",
+        "cuisine": "japanese",
+        "name": "和食さと",
+        "name:en": "Washoku Sato",
+        "name:ja": "和食さと"
+      }
+    },
+    {
+      "type": "node",
+      "id": 663612745,
+      "lat": 34.8634265,
+      "lon": 135.7770817,
+      "timestamp": "2025-07-10T13:59:52Z",
+      "version": 5,
+      "changeset": 168745179,
+      "user": "ryoro",
+      "uid": 623097,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "ガスト",
+        "check_date": "2025-07-09",
+        "name": "ガスト",
+        "name:en": "Gusto",
+        "name:ja": "ガスト",
+        "name:ja_rm": "Gasuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 679207439,
+      "lat": 34.9123245,
+      "lon": 135.7830099,
+      "timestamp": "2020-03-12T11:11:20Z",
+      "version": 3,
+      "changeset": 82109090,
+      "user": "naruton",
+      "uid": 9374007,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "びっくりドンキー",
+        "brand:en": "Bikkuri Donkey",
+        "brand:ja": "びっくりドンキー",
+        "brand:wikidata": "Q11276815",
+        "brand:wikipedia": "ja:びっくりドンキー",
+        "cuisine": "burger",
+        "name": "びっくりドンキー",
+        "name:en": "Bikkuri Donkey",
+        "name:ja": "びっくりドンキー",
+        "name:ja_rm": "Bikkuri Donki"
+      }
+    },
+    {
+      "type": "node",
+      "id": 784148896,
+      "lat": 34.9405143,
+      "lon": 135.7488957,
+      "timestamp": "2010-06-23T12:56:19Z",
+      "version": 1,
+      "changeset": 5058647,
+      "user": "t3rkwd",
+      "uid": 187575,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "萬福"
+      }
+    },
+    {
+      "type": "node",
+      "id": 789396064,
+      "lat": 35.0159365,
+      "lon": 135.7847871,
+      "timestamp": "2010-06-25T08:39:51Z",
+      "version": 1,
+      "changeset": 5071889,
+      "user": "Masahide Kikkawa",
+      "uid": 309477,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "グリル小宝"
+      }
+    },
+    {
+      "type": "node",
+      "id": 796933143,
+      "lat": 35.0107321,
+      "lon": 135.7539951,
+      "timestamp": "2025-11-11T09:39:37Z",
+      "version": 4,
+      "changeset": 174501180,
+      "user": "dressed-pleasekin",
+      "uid": 11175011,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "めしや 宮本むなし",
+        "cuisine": "japanese",
+        "name": "宮本むなし",
+        "name:en": "Miyamoto Munashi",
+        "name:ja": "宮本むなし",
+        "name:ja_rm": "Miyamoto Munashi",
+        "opening_hours": "Mo-Su,PH 11:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 806657467,
+      "lat": 34.5094786,
+      "lon": 135.843729,
+      "timestamp": "2020-10-05T16:45:06Z",
+      "version": 6,
+      "changeset": 91998332,
+      "user": "Yukinobu Koyama",
+      "uid": 3703864,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "ココス",
+        "brand:en": "Coco's",
+        "brand:ja": "ココス",
+        "brand:wikidata": "Q11301951",
+        "brand:wikipedia": "ja:ココスジャパン",
+        "cuisine": "western;japanese",
+        "name": "ココス",
+        "name:en": "Coco's",
+        "name:ja": "ココス",
+        "name:ja_rm": "Kokosu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 807534769,
+      "lat": 34.6180568,
+      "lon": 135.8323436,
+      "timestamp": "2022-12-17T13:19:38Z",
+      "version": 3,
+      "changeset": 130185687,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "天理スタミナラーメン"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810650904,
+      "lat": 34.9990112,
+      "lon": 135.7599553,
+      "timestamp": "2023-06-18T03:20:31Z",
+      "version": 4,
+      "changeset": 137465295,
+      "user": "Graptemys",
+      "uid": 1884235,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house;gyutan",
+        "cuisine:ja": "牛タン",
+        "name": "仙台炭火焼の店たんとろ (Tantoro)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810650910,
+      "lat": 34.9979654,
+      "lon": 135.759966,
+      "timestamp": "2010-07-11T07:09:24Z",
+      "version": 3,
+      "changeset": 5187144,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "cuisine:ja": "イタリアン",
+        "name": "魚屋の欧風ダイニングポワソニエ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810651578,
+      "lat": 35.0015099,
+      "lon": 135.7599857,
+      "timestamp": "2025-02-27T00:41:53Z",
+      "version": 8,
+      "changeset": 162993294,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "addr:city": "京都市",
+        "addr:country": "JP",
+        "addr:housename": "太陽生命ビル",
+        "addr:neighbourhood": "310",
+        "addr:province": "京都府",
+        "addr:quarter": "仏光寺通烏丸東入上柳町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都四条烏丸",
+        "brand": "サイゼリヤ",
+        "brand:en": "Saizeriya",
+        "brand:ja": "サイゼリヤ",
+        "brand:wikidata": "Q886564",
+        "cuisine": "italian",
+        "cuisine:ja": "イタリアン",
+        "level": "-1",
+        "name": "サイゼリヤ",
+        "name:en": "Saizeriya",
+        "name:ja": "サイゼリヤ",
+        "name:ja_rm": "Saizeriya",
+        "opening_hours": "11:00-23:00",
+        "operator": "株式会社サイゼリヤ",
+        "parking": "no",
+        "phone": "075-342-3666",
+        "shop_id": "942",
+        "website": "https://www.saizeriya.co.jp/restaurant/shop_detail.php?cd=942"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810669912,
+      "lat": 34.9964903,
+      "lon": 135.760083,
+      "timestamp": "2025-02-27T00:41:53Z",
+      "version": 6,
+      "changeset": 162993294,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "やよい軒",
+        "brand:en": "Yayoiken",
+        "brand:ja": "やよい軒",
+        "brand:th": "ยาโยอิ",
+        "brand:wikidata": "Q11280577",
+        "cuisine": "japanese",
+        "name": "やよい軒",
+        "name:en": "Yayoiken",
+        "name:ja": "やよい軒",
+        "name:ja_rm": "Yayoiken",
+        "name:th": "ยาโยอิ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810669923,
+      "lat": 34.9965141,
+      "lon": 135.7599608,
+      "timestamp": "2025-02-27T00:41:53Z",
+      "version": 6,
+      "changeset": 162993294,
+      "user": "CR86",
+      "uid": 1879503,
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "烏丸五条店",
+        "brand": "CoCo壱番屋",
+        "brand:en": "CoCo ICHIBANYA",
+        "brand:ja": "CoCo壱番屋",
+        "brand:wikidata": "Q5986105",
+        "cuisine": "curry;japanese",
+        "cuisine:ja": "カレー",
+        "name": "CoCo壱番屋",
+        "name:en": "CoCo ICHIBANYA",
+        "name:ja": "CoCo壱番屋",
+        "name:ja_rm": "Koko Ichiban-ya",
+        "short_name": "ココイチ",
+        "short_name:en": "CoCoICHI",
+        "short_name:ja": "ココイチ",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810701644,
+      "lat": 34.9894398,
+      "lon": 135.7600197,
+      "timestamp": "2010-07-11T07:03:34Z",
+      "version": 3,
+      "changeset": 5187144,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "京創作 平林亭 展望閣"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810701645,
+      "lat": 34.989834,
+      "lon": 135.7601505,
+      "timestamp": "2016-09-07T11:55:42Z",
+      "version": 5,
+      "changeset": 41977518,
+      "user": "Viroon Tedumrongvanich",
+      "uid": 4508047,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "soba",
+        "cuisine:ja": "そば",
+        "name": "いにしえの店 尾張弥",
+        "name:en": "Owariya",
+        "name:ja": "いにしえの店 尾張弥",
+        "opening_hours": "Mo-Su 11:00-19:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810701789,
+      "lat": 34.9890904,
+      "lon": 135.7599634,
+      "timestamp": "2012-10-31T12:51:29Z",
+      "version": 2,
+      "changeset": 13699025,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "UCC Cafe Plaza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810711286,
+      "lat": 34.9895639,
+      "lon": 135.7599547,
+      "timestamp": "2023-06-18T03:20:31Z",
+      "version": 6,
+      "changeset": 137465295,
+      "user": "Graptemys",
+      "uid": 1884235,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "餃子の王将",
+        "cuisine": "chinese;gyoza",
+        "cuisine:ja": "餃子",
+        "name": "Starbucks Coffee;餃子の王将",
+        "name:en": "OHSHO",
+        "name:ja": "餃子の王将",
+        "name:ja_rm": "Gyoza No Ohsho",
+        "name:ko": "스타벅스"
+      }
+    },
+    {
+      "type": "node",
+      "id": 819038960,
+      "lat": 34.522458,
+      "lon": 135.8335956,
+      "timestamp": "2025-07-05T16:17:36Z",
+      "version": 4,
+      "changeset": 168530342,
+      "user": "nanyuk",
+      "uid": 22869716,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "どうとんぼり神座"
+      }
+    },
+    {
+      "type": "node",
+      "id": 819038969,
+      "lat": 34.5206578,
+      "lon": 135.801738,
+      "timestamp": "2020-10-04T06:46:24Z",
+      "version": 6,
+      "changeset": 91921702,
+      "user": "Yukinobu Koyama",
+      "uid": 3703864,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "ジョリーパスタ",
+        "brand:en": "Jolly-Pasta",
+        "brand:ja": "ジョリーパスタ",
+        "brand:wikidata": "Q10852718",
+        "brand:wikipedia": "ja:ジョリーパスタ",
+        "cuisine": "pasta",
+        "name": "ジョリーパスタ",
+        "name:en": "Jolly-Pasta",
+        "name:ja": "ジョリーパスタ",
+        "name:ja_rm": "Jori pasuta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 860990504,
+      "lat": 34.943757,
+      "lon": 135.7520519,
+      "timestamp": "2014-02-23T03:09:00Z",
+      "version": 4,
+      "changeset": 20725504,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "どんぐり",
+        "name:en": "Donguri",
+        "opening_hours": "Mo-Sa 17:00-02:00; Su 11:00-02:00",
+        "operator": "どんぐり",
+        "ref": "新堀川店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 943325095,
+      "lat": 35.0339014,
+      "lon": 135.7261142,
+      "timestamp": "2017-08-14T16:48:33Z",
+      "version": 5,
+      "changeset": 51116065,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "レストラン カルム",
+        "name:en": "Restaurant Calm",
+        "name:ja": "レストラン カルム",
+        "name:ja_rm": "Resutoran karumu",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 943325108,
+      "lat": 35.0305697,
+      "lon": 135.7312207,
+      "timestamp": "2010-10-10T08:55:55Z",
+      "version": 1,
+      "changeset": 5999748,
+      "user": "tosseto",
+      "uid": 194284,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "かごの屋"
+      }
+    },
+    {
+      "type": "node",
+      "id": 953430256,
+      "lat": 35.0327697,
+      "lon": 135.7224537,
+      "timestamp": "2018-08-28T04:52:25Z",
+      "version": 4,
+      "changeset": 62057920,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "諒友館食堂 (Ryoyukan canteen)",
+        "name:en": "Ryoyukan canteen",
+        "name:ja": "諒友館食堂",
+        "name:ja_rm": "Ryōyūkan Shokudō",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 953430258,
+      "lat": 35.0332531,
+      "lon": 135.7241307,
+      "timestamp": "2010-10-17T03:25:35Z",
+      "version": 1,
+      "changeset": 6063386,
+      "user": "tosseto",
+      "uid": 194284,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "存心館食堂 (Zonshinkan canteen)",
+        "name:en": "Zonshinkan canteen",
+        "name:ja": "存心館食堂",
+        "name:ja_rm": "Zonshinkan Shokudō"
+      }
+    },
+    {
+      "type": "node",
+      "id": 988492294,
+      "lat": 34.9703884,
+      "lon": 135.6759698,
+      "timestamp": "2013-12-14T14:59:11Z",
+      "version": 2,
+      "changeset": 19449555,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "炭火焼肉 さかい"
+      }
+    },
+    {
+      "type": "node",
+      "id": 988492317,
+      "lat": 34.9710117,
+      "lon": 135.6819078,
+      "timestamp": "2019-11-24T05:34:59Z",
+      "version": 2,
+      "changeset": 77474542,
+      "user": "enu10k",
+      "uid": 7464961,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "丸亀製麺",
+        "brand:en": "Marugame Seimen",
+        "brand:ja": "丸亀製麺",
+        "brand:wikidata": "Q10877253",
+        "brand:wikipedia": "ja:丸亀製麺",
+        "cuisine": "noodle",
+        "name": "丸亀製麺",
+        "name:en": "Marugame Seimen",
+        "name:ja": "丸亀製麺"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1067726446,
+      "lat": 34.9523788,
+      "lon": 135.7048836,
+      "timestamp": "2020-04-12T04:09:59Z",
+      "version": 7,
+      "changeset": 83416062,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "東向日店",
+        "brand": "餃子の王将",
+        "cuisine": "chinese",
+        "name": "餃子の王将",
+        "name:en": "OHSHO",
+        "name:ja": "餃子の王将",
+        "name:ja_rm": "Gyoza No Ohsho",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1091370156,
+      "lat": 34.952634,
+      "lon": 135.7045837,
+      "timestamp": "2013-04-20T07:15:49Z",
+      "version": 3,
+      "changeset": 15793668,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "春来",
+        "source": "survey, Bing 4/4/2011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1091590763,
+      "lat": 34.6862726,
+      "lon": 135.8288265,
+      "timestamp": "2024-06-24T08:32:45Z",
+      "version": 6,
+      "changeset": 153099705,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "U's kitchen",
+        "website": "https://us-kitchen.com/index.htm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095772651,
+      "lat": 34.587186,
+      "lon": 135.71333,
+      "timestamp": "2026-02-21T17:21:51Z",
+      "version": 6,
+      "changeset": 178869290,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "highway": "traffic_signals",
+        "name": "中山台2丁目;ドルチェカンパーニャ",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1146789770,
+      "lat": 34.6861973,
+      "lon": 135.8276834,
+      "timestamp": "2015-01-09T06:51:04Z",
+      "version": 5,
+      "changeset": 28012774,
+      "user": "tossy1202",
+      "uid": 2528325,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Dining Cafe 花梨 (Dining Cafe Karin)",
+        "name:en": "Dining Cafe Karin",
+        "name:ja": "Dining Cafe 花梨"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1154159593,
+      "lat": 34.5951439,
+      "lon": 135.8114864,
+      "timestamp": "2023-11-09T15:10:27Z",
+      "version": 5,
+      "changeset": 143826938,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "彩華ラーメン本店 (Saika ramen)",
+        "name:en": "Saika ramen",
+        "name:ja": "彩華ラーメン本店",
+        "opening_hours": "11:00-03:00",
+        "phone": "0743-63-3165",
+        "smoking": "yes",
+        "stars": "5",
+        "website": "https://www.saikaramen.com/shop/honten.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1164712615,
+      "lat": 34.7484311,
+      "lon": 135.6923291,
+      "timestamp": "2023-10-18T01:06:09Z",
+      "version": 3,
+      "changeset": 142735117,
+      "user": "taki3hira",
+      "uid": 1948193,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop",
+        "name": "おじいさんの古時計"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1243276521,
+      "lat": 34.825713,
+      "lon": 135.70203,
+      "timestamp": "2022-07-16T04:26:58Z",
+      "version": 7,
+      "changeset": 123674864,
+      "user": "Kido1134",
+      "uid": 16368768,
+      "tags": {
+        "addr:block_number": "12-7",
+        "addr:city": "枚方市",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "573-0164",
+        "addr:province": "大阪府",
+        "addr:quarter": "長尾谷町",
+        "amenity": "restaurant",
+        "branch": "長尾店",
+        "brand": "大阪王将",
+        "brand:en": "Osaka Ohsho",
+        "brand:ja": "大阪王将",
+        "brand:wikidata": "Q48743717",
+        "brand:zh": "大叛王將",
+        "cuisine": "japanese;chinese",
+        "name": "大阪王将",
+        "name:en": "Osaka Ohsho",
+        "name:ja": "大阪王将",
+        "name:ja_rm": "Osaka Ohsho",
+        "name:zh": "大叛王將",
+        "opening_hours": "11:00-22:00",
+        "phone": "072-836-3538",
+        "source": "knowledge",
+        "toilets:wheelchair": "no",
+        "website": "https://www.osaka-ohsho.com/store/detail.php?area=osaka&id=nagao",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1243276524,
+      "lat": 34.8259199,
+      "lon": 135.7011495,
+      "timestamp": "2017-08-22T14:42:56Z",
+      "version": 5,
+      "changeset": 51331437,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "とりどーる",
+        "name:en": "Toridoll",
+        "name:ja": "とりどーる",
+        "name:ja_rm": "Toridōru",
+        "source": "knowledge",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1243276537,
+      "lat": 34.8260102,
+      "lon": 135.6999288,
+      "timestamp": "2017-01-03T03:18:56Z",
+      "version": 2,
+      "changeset": 44861113,
+      "user": "Shūjirō",
+      "uid": 5067233,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "とりあえず吾平",
+        "name:en": "Toriaezu Gohei",
+        "source": "knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1243276550,
+      "lat": 34.8141215,
+      "lon": 135.7021975,
+      "timestamp": "2021-12-02T00:18:14Z",
+      "version": 3,
+      "changeset": 114462718,
+      "user": "HubMiner",
+      "uid": 238419,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "串揚げ,鉄板焼き,お寿司",
+        "name": "串虎",
+        "opening_hours": "11:30-14:00,17:00-23:00",
+        "source": "knowledge",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1293318654,
+      "lat": 34.5709224,
+      "lon": 135.7976781,
+      "timestamp": "2025-06-14T05:36:08Z",
+      "version": 2,
+      "changeset": 167599512,
+      "user": "nanyuk",
+      "uid": 22869716,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "udon",
+        "name": "得得うどん"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1293374989,
+      "lat": 34.5614713,
+      "lon": 135.7977075,
+      "timestamp": "2011-05-20T16:33:00Z",
+      "version": 1,
+      "changeset": 8200107,
+      "user": "yoshida Narauniv Geography",
+      "uid": 426532,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "天理スタミナラーメン"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1305638953,
+      "lat": 35.0570602,
+      "lon": 135.750205,
+      "timestamp": "2021-02-18T16:04:13Z",
+      "version": 7,
+      "changeset": 99535954,
+      "user": "eduardo2580",
+      "uid": 12480482,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "餃子の王将",
+        "brand:en": "Gyoza no Ohsho",
+        "brand:ja": "餃子の王将",
+        "brand:wikidata": "Q11666805",
+        "brand:wikipedia": "en:Gyoza no Ohsho",
+        "cuisine": "chinese;gyoza",
+        "name": "餃子の王将",
+        "name:en": "Gyoza no Ohsho",
+        "name:ja": "餃子の王将",
+        "name:ja_rm": "Gyoza No Ohsho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1309883544,
+      "lat": 35.0652114,
+      "lon": 135.782618,
+      "timestamp": "2014-04-17T13:17:42Z",
+      "version": 2,
+      "changeset": 21749371,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "餃子の王将",
+        "name": "餃子の王将",
+        "name:en": "OHSHO",
+        "name:ja": "餃子の王将",
+        "name:ja_rm": "Gyoza No Ohsho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1309884190,
+      "lat": 35.0643407,
+      "lon": 135.7893192,
+      "timestamp": "2014-04-17T13:17:40Z",
+      "version": 3,
+      "changeset": 21749371,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "ガスト",
+        "name": "ガスト",
+        "name:en": "Gusto",
+        "name:ja": "ガスト",
+        "name:ja_rm": "Gasuto"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1311328040,
+      "lat": 35.0509237,
+      "lon": 135.7599892,
+      "timestamp": "2013-09-08T07:06:12Z",
+      "version": 2,
+      "changeset": 17727546,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "フォルクス",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1314949470,
+      "lat": 35.0516004,
+      "lon": 135.7669286,
+      "timestamp": "2024-01-04T13:24:19Z",
+      "version": 6,
+      "changeset": 145881089,
+      "user": "taki3hira",
+      "uid": 1948193,
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "北山店",
+        "brand": "ロイヤルホスト",
+        "brand:en": "Royal Host",
+        "brand:ja": "ロイヤルホスト",
+        "brand:wikidata": "Q11120884",
+        "brand:wikipedia": "ja:ロイヤルホスト",
+        "cuisine": "french;italian;japanese",
+        "name": "ロイヤルホスト",
+        "name:en": "Royal Host",
+        "name:ja": "ロイヤルホスト",
+        "name:ja_rm": "Roiyaruhosuto",
+        "phone": "+81 75 711 5061"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1336909227,
+      "lat": 34.6882808,
+      "lon": 135.8282495,
+      "timestamp": "2016-06-21T05:33:08Z",
+      "version": 4,
+      "changeset": 40172174,
+      "user": "nissyyu",
+      "uid": 359289,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "生協食堂",
+        "name:de": "Mensa",
+        "name:en": "Cafeteria",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1356021055,
+      "lat": 34.99649,
+      "lon": 135.7434395,
+      "timestamp": "2022-09-16T22:07:33Z",
+      "version": 5,
+      "changeset": 126279999,
+      "user": "Benjy204",
+      "uid": 10222596,
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "千本五条店",
+        "brand": "びっくりドンキー",
+        "brand:en": "Bikkuri Donkey",
+        "brand:ja": "びっくりドンキー",
+        "brand:wikidata": "Q11276815",
+        "cuisine": "burger",
+        "name": "びっくりドンキー",
+        "name:en": "Bikkuri Donkey",
+        "name:ja": "びっくりドンキー",
+        "name:ja_rm": "Bikkuri Donki",
+        "opening_hours": "11:00-3:00",
+        "phone": "075-823-6150",
+        "website": "https://www.bikkuri-donkey.com/shop/database.cgi?tid=list2&wildor2=1641"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402492035,
+      "lat": 34.6836885,
+      "lon": 135.8286614,
+      "timestamp": "2021-03-23T14:50:23Z",
+      "version": 5,
+      "changeset": 101582624,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "和食屋 八寶",
+        "name:en": "japanese food Happo",
+        "name:ja": "和食屋 八寶"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402530873,
+      "lat": 34.6831377,
+      "lon": 135.8281177,
+      "timestamp": "2011-08-17T17:19:12Z",
+      "version": 1,
+      "changeset": 9049834,
+      "user": "nrjs",
+      "uid": 479896,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Ponte Rosso",
+        "name:ja": "ポンテロッソ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402530875,
+      "lat": 34.6826695,
+      "lon": 135.8286589,
+      "timestamp": "2019-02-12T11:59:47Z",
+      "version": 7,
+      "changeset": 67129062,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "奈良らーめん あおによし",
+        "name:en": "Aoniyoshi",
+        "name:ja": "奈良らーめん　あおによし"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402530885,
+      "lat": 34.682817,
+      "lon": 135.8287198,
+      "timestamp": "2019-02-12T11:59:48Z",
+      "version": 2,
+      "changeset": 67129062,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "美食ダイニング 楽や",
+        "name:en": "Tanoshiya",
+        "name:ja": "美食ダイニング 楽や",
+        "name:ja-Hira": "びしょくだいにんぐ たのしや"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412130060,
+      "lat": 34.6834285,
+      "lon": 135.8269061,
+      "timestamp": "2015-02-19T02:30:32Z",
+      "version": 2,
+      "changeset": 28948503,
+      "user": "yasushi00",
+      "uid": 262345,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "The Olive Dining"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412130065,
+      "lat": 34.6834475,
+      "lon": 135.8267559,
+      "timestamp": "2011-08-25T13:15:36Z",
+      "version": 1,
+      "changeset": 9121314,
+      "user": "ikawa",
+      "uid": 479903,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "fue"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412130069,
+      "lat": 34.6837753,
+      "lon": 135.8275216,
+      "timestamp": "2025-12-12T06:21:39Z",
+      "version": 5,
+      "changeset": 175830887,
+      "user": "yama asu",
+      "uid": 23531048,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "龍鰻うなぎ専門店近鉄奈良駅前店",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412130085,
+      "lat": 34.6835606,
+      "lon": 135.8269034,
+      "timestamp": "2017-04-14T10:08:17Z",
+      "version": 4,
+      "changeset": 47775171,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "fixme": "closed down? https://tabelog.com/nara/A2901/A290101/29004216/",
+        "name": "ラジスカーナ (Rajisukana)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412130086,
+      "lat": 34.6835092,
+      "lon": 135.8267559,
+      "timestamp": "2017-04-14T10:08:17Z",
+      "version": 3,
+      "changeset": 47775171,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "name": "七輪 あぐらや",
+        "name:en": "Shichirin Aguraya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412130112,
+      "lat": 34.6835562,
+      "lon": 135.8269838,
+      "timestamp": "2017-04-14T10:08:17Z",
+      "version": 4,
+      "changeset": 47775171,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "玄米菜食 こころ",
+        "name:en": "Genmai Saishoku Kokoro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1450328259,
+      "lat": 35.031434,
+      "lon": 135.7250781,
+      "timestamp": "2011-10-01T07:08:56Z",
+      "version": 1,
+      "changeset": 9440490,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "以学館食堂"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1450332666,
+      "lat": 35.03468,
+      "lon": 135.7272681,
+      "timestamp": "2021-06-26T10:49:21Z",
+      "version": 3,
+      "changeset": 106998335,
+      "user": "Torichan",
+      "uid": 13633227,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "disused:shop": "yes",
+        "name": "麺や未曾有",
+        "website": "https://mizou.toukashun.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1450339126,
+      "lat": 35.0316986,
+      "lon": 135.7219399,
+      "timestamp": "2011-10-01T07:16:53Z",
+      "version": 1,
+      "changeset": 9440490,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop",
+        "name": "Your"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1483765499,
+      "lat": 34.6856125,
+      "lon": 135.7529152,
+      "timestamp": "2021-07-29T09:09:11Z",
+      "version": 6,
+      "changeset": 108809752,
+      "user": "快乐的老鼠宝宝",
+      "uid": 9403945,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "木曽路",
+        "brand:en": "Kisoji",
+        "brand:ja": "木曽路",
+        "brand:wikidata": "Q11518589",
+        "brand:wikipedia": "ja:木曽路 (企業)",
+        "cuisine": "japanese",
+        "name": "木曽路",
+        "name:en": "Kisoji",
+        "name:ja": "木曽路",
+        "name:ja_rm": "Kisoji",
+        "source": "knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1483765542,
+      "lat": 34.6879297,
+      "lon": 135.7529855,
+      "timestamp": "2025-04-23T12:52:43Z",
+      "version": 4,
+      "changeset": 165332611,
+      "user": "Yuh_4151",
+      "uid": 21293085,
+      "tags": {
+        "addr:block_number": "94",
+        "addr:city": "奈良市",
+        "addr:country": "JP",
+        "addr:neighbourhood": "1",
+        "addr:province": "奈良県",
+        "addr:quarter": "中町",
+        "amenity": "restaurant",
+        "branch": "奈良学園前",
+        "cuisine": "ramen",
+        "name": "どうとんぼり神座",
+        "parking": "yes",
+        "shop_id": "688"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1483765575,
+      "lat": 34.6854886,
+      "lon": 135.753302,
+      "timestamp": "2017-04-11T14:12:21Z",
+      "version": 3,
+      "changeset": 47658673,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "食道園",
+        "name:en": "Shokudōen",
+        "name:ja": "食道園",
+        "source": "knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1483765580,
+      "lat": 34.6856968,
+      "lon": 135.753898,
+      "timestamp": "2014-01-23T15:06:41Z",
+      "version": 2,
+      "changeset": 20161253,
+      "user": "nakaovic",
+      "uid": 550181,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "とんかつかつ喜 (Katsuyoshi)",
+        "source": "knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1483765637,
+      "lat": 34.6847077,
+      "lon": 135.7912166,
+      "timestamp": "2021-07-11T12:32:27Z",
+      "version": 3,
+      "changeset": 107780475,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "name": "Hanaso",
+        "name:ja": "花惣"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1483765671,
+      "lat": 34.684614,
+      "lon": 135.79167,
+      "timestamp": "2014-11-02T08:34:02Z",
+      "version": 3,
+      "changeset": 26498153,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "丸源"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1484268396,
+      "lat": 34.714781,
+      "lon": 135.7432842,
+      "timestamp": "2016-07-11T11:50:16Z",
+      "version": 4,
+      "changeset": 40648609,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "鹿鳴館",
+        "name:en": "Rokumeikan",
+        "name:ja": "鹿鳴館",
+        "source": "knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1490122507,
+      "lat": 34.6834968,
+      "lon": 135.8010854,
+      "timestamp": "2014-11-25T05:11:19Z",
+      "version": 3,
+      "changeset": 27014074,
+      "user": "futurumspes",
+      "uid": 651065,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "割烹東吉",
+        "name:en": "Kappō Tōkichi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1491307448,
+      "lat": 34.6846808,
+      "lon": 135.7920839,
+      "timestamp": "2011-11-04T12:30:46Z",
+      "version": 1,
+      "changeset": 9737710,
+      "user": "yasushi00",
+      "uid": 262345,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Okonomiyaki Kinta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1495040828,
+      "lat": 34.6958527,
+      "lon": 135.7389692,
+      "timestamp": "2024-10-28T12:39:09Z",
+      "version": 4,
+      "changeset": 158454064,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "百楽荘",
+        "name:en": "Hyakuraku-sou",
+        "name:ja": "百楽荘",
+        "website": "http://www.kintetsu-rs.com/hyakurakusou/",
+        "wikidata": "Q11580771",
+        "wikipedia": "ja:百楽荘 (奈良県の旅館)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1495040938,
+      "lat": 34.7147548,
+      "lon": 135.7829017,
+      "timestamp": "2021-06-14T11:06:06Z",
+      "version": 3,
+      "changeset": 106331121,
+      "user": "muramototomoya",
+      "uid": 610947,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "学生食堂",
+        "name:en": "Cafeteria",
+        "name:ja": "学生食堂"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1497077609,
+      "lat": 34.7263811,
+      "lon": 135.7154685,
+      "timestamp": "2020-09-15T14:39:05Z",
+      "version": 6,
+      "changeset": 90932759,
+      "user": "Yukinobu Koyama",
+      "uid": 3703864,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "バーミヤン",
+        "brand:en": "Bamiyan",
+        "brand:ja": "バーミヤン",
+        "brand:wikidata": "Q11328598",
+        "brand:wikipedia": "ja:バーミヤン (レストランチェーン)",
+        "cuisine": "chinese",
+        "name": "バーミヤン",
+        "name:en": "Bamiyan",
+        "name:ja": "バーミヤン",
+        "name:ja_rm": "Bamiyan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1532494985,
+      "lat": 35.0271238,
+      "lon": 135.7330935,
+      "timestamp": "2019-10-13T00:01:46Z",
+      "version": 5,
+      "changeset": 75611897,
+      "user": "takazu",
+      "uid": 9539873,
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "白梅町店",
+        "brand": "餃子の王将",
+        "brand:en": "Gyoza no Ohsho",
+        "brand:ja": "餃子の王将",
+        "brand:wikidata": "Q11666805",
+        "cuisine": "chinese;gyoza",
+        "name": "餃子の王将",
+        "name:en": "Gyoza no Ohsho",
+        "name:ja": "餃子の王将"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1532496541,
+      "lat": 35.0260984,
+      "lon": 135.7247773,
+      "timestamp": "2018-08-28T07:12:23Z",
+      "version": 3,
+      "changeset": 62060674,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "ジャンボお好み焼き(Okonomi)",
+        "opening_hours": "Mo-Su 11:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1532500146,
+      "lat": 35.0321568,
+      "lon": 135.7271146,
+      "timestamp": "2018-08-28T04:43:36Z",
+      "version": 4,
+      "changeset": 62057776,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop",
+        "disused:shop": "yes",
+        "name": "アミッチ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1532500174,
+      "lat": 35.0321557,
+      "lon": 135.7271723,
+      "timestamp": "2019-03-07T23:55:38Z",
+      "version": 3,
+      "changeset": 67904496,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "べんけい",
+        "name:en": "Benkei"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1532500241,
+      "lat": 35.0321588,
+      "lon": 135.7261128,
+      "timestamp": "2018-08-28T06:52:26Z",
+      "version": 5,
+      "changeset": 62060137,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "マハカレー"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1532508309,
+      "lat": 35.0273805,
+      "lon": 135.7331838,
+      "timestamp": "2024-09-29T11:01:50Z",
+      "version": 7,
+      "changeset": 157246785,
+      "user": "dressed-pleasekin",
+      "uid": 11175011,
+      "tags": {
+        "amenity": "restaurant",
+        "branch": "白梅町店",
+        "brand": "天下一品",
+        "brand:en": "Tenkaippin",
+        "brand:ja": "天下一品",
+        "brand:wikidata": "Q11442172",
+        "cuisine": "ramen",
+        "indoor_seating": "yes",
+        "name": "天下一品",
+        "name:en": "Tenkaippin",
+        "name:ja": "天下一品",
+        "name:ja_rm": "Tenka Ippin",
+        "opening_hours": "Mo-Su,PH 10:30-24:00; We 10:30-15:00; Th[1],Th[3] off",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:paypay": "yes",
+        "takeaway": "yes",
+        "wikidata": "Q105882021"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1536242475,
+      "lat": 34.6838098,
+      "lon": 135.8288443,
+      "timestamp": "2016-05-14T02:33:55Z",
+      "version": 4,
+      "changeset": 39303795,
+      "user": "_Yuki_K_",
+      "uid": 3933181,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "ベビーフェイス",
+        "name:en": "Baby Face",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1539094195,
+      "lat": 35.0315228,
+      "lon": 135.7262524,
+      "timestamp": "2012-01-11T06:54:47Z",
+      "version": 2,
+      "changeset": 10358018,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "無限洞"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1539094438,
+      "lat": 35.032157,
+      "lon": 135.7261583,
+      "timestamp": "2019-03-07T23:55:38Z",
+      "version": 4,
+      "changeset": 67904496,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "あくた川",
+        "name:en": "Akutagawa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1541944288,
+      "lat": 35.031472,
+      "lon": 135.7360312,
+      "timestamp": "2011-12-12T18:40:59Z",
+      "version": 2,
+      "changeset": 10101536,
+      "user": "xybot",
+      "uid": 70696,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "la"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1541945050,
+      "lat": 35.0323501,
+      "lon": 135.7275547,
+      "timestamp": "2018-08-28T04:43:36Z",
+      "version": 3,
+      "changeset": 62057776,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "disused:shop": "yes",
+        "name": "藤井",
+        "source": "Bing,2007-12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1541945052,
+      "lat": 35.0323062,
+      "lon": 135.7275413,
+      "timestamp": "2011-12-12T07:58:31Z",
+      "version": 1,
+      "changeset": 10096560,
+      "user": "nkmgw",
+      "uid": 564761,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "coffee_shop",
+        "name": "ココット",
+        "source": "Bing,200712"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1541951103,
+      "lat": 35.0261005,
+      "lon": 135.7248318,
+      "timestamp": "2018-08-28T07:12:22Z",
+      "version": 2,
+      "changeset": 62060674,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "とんかつ"
+      }
+    }
+  ]
+}
