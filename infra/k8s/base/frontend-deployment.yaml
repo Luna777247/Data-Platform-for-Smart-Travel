@@ -14,14 +14,22 @@ spec:
       labels:
         app: smart-travel-frontend
     spec:
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 10001
+        runAsGroup: 10001
+        fsGroup: 10001
+        seccompProfile:
+          type: RuntimeDefault
       containers:
       - name: frontend
         image: myorg/smart-travel-frontend:latest
+        imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 3000
         env:
         - name: NEXT_PUBLIC_API_URL
-          value: "http://smart-travel-api-service/api"
+          value: "https://smart-travel.example.com/api"
         resources:
           requests:
             memory: "128Mi"
@@ -29,6 +37,12 @@ spec:
           limits:
             memory: "256Mi"
             cpu: "200m"
+        securityContext:
+          allowPrivilegeEscalation: false
+          readOnlyRootFilesystem: true
+          capabilities:
+            drop:
+              - ALL
         livenessProbe:
           httpGet:
             path: /
@@ -41,6 +55,16 @@ spec:
             port: 3000
           initialDelaySeconds: 5
           periodSeconds: 5
+        volumeMounts:
+        - name: tmp
+          mountPath: /tmp
+        - name: next-cache
+          mountPath: /app/.next/cache
+      volumes:
+      - name: tmp
+        emptyDir: {}
+      - name: next-cache
+        emptyDir: {}
 ---
 apiVersion: v1
 kind: Service

@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 class BronzeWriter:
     def __init__(self, endpoint=None, access_key=None, secret_key=None, secure=False):
         endpoint = endpoint or os.getenv("MINIO_ENDPOINT", "localhost:9000")
-        access_key = access_key or os.getenv("MINIO_ACCESS_KEY") or os.getenv("MINIO_ROOT_USER", "minioadmin")
-        secret_key = secret_key or os.getenv("MINIO_SECRET_KEY") or os.getenv("MINIO_ROOT_PASSWORD", "minioadminpassword")
+        access_key = access_key or os.getenv("MINIO_ACCESS_KEY") or os.getenv("MINIO_ROOT_USER")
+        secret_key = secret_key or os.getenv("MINIO_SECRET_KEY") or os.getenv("MINIO_ROOT_PASSWORD")
         try:
             # Enterprise-grade: use short timeout and no retries for initial check
             from urllib3 import PoolManager, Timeout, Retry
@@ -86,6 +86,7 @@ class BronzeWriter:
 # For local testing/integration
 if __name__ == "__main__":
     # Test connection
-    writer = BronzeWriter("localhost:9000", "minioadmin", "minioadminpassword")
+    # Use environment variables for local testing; defaults are in .env or environment
+    writer = BronzeWriter()
     test_data = [{"name": "Test Place", "location": {"lat": 21.0285, "lon": 105.8542}}]
     writer.write_raw("osm", "hanoi", test_data)

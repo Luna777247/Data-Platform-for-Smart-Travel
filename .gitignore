@@ -50,6 +50,79 @@ Thumbs.db
 *.log
 logs/
 
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+.env.production
+.env.*.production
+.secrets.baseline
+.gitleaks.sarif
+.trufflehog.json
+secrets/
+.secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Docker
+docker-compose.prod.yml
+docker-compose.prod.*.yml
+.dockerignore
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+temp_*.py
+test_*.txt
+test_*.log
+
+# IDE additional
+.vscode/settings.json
+.vscode/extensions.json
+.idea/workspace.xml
+.idea/misc.xml
+*.sublime-project
+*.sublime-workspace
+
+# Build outputs
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend
+node_modules/
+.npm
+.yarn/cache
+.yarn/unplugged
+
+# Airflow
+airflow-webserver.pid
+airflow-scheduler.pid
+unittests.cfg
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# OS
+thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+logs/
+
 # Database
 data/
 *.db

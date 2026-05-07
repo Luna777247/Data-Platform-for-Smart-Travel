@@ -8,7 +8,7 @@ services:
     restart: unless-stopped
     environment:
       MONGO_INITDB_ROOT_USERNAME: admin
-      MONGO_INITDB_ROOT_PASSWORD: secret_password
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD:?required}
       MONGO_INITDB_DATABASE: smart_travel
     ports:
       - "27017:27017"
@@ -26,7 +26,7 @@ services:
     restart: unless-stopped
     environment:
       POSTGRES_USER: admin
-      POSTGRES_PASSWORD: secret_password
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?required}
       POSTGRES_DB: smart_travel
     ports:
       - "5432:5432"
@@ -62,12 +62,15 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - MONGODB_URI=mongodb://admin:secret_password@mongodb:27017
+      - MONGODB_URI=${MONGODB_URI:?required}
       - DB_NAME=smart_travel
-      - POSTGRES_URL=postgresql+asyncpg://admin:secret_password@postgres:5432/smart_travel
+      - POSTGRES_URL=${POSTGRES_URL:?required}
       - REDIS_URL=redis://redis:6379
       - ENVIRONMENT=production
       - LOG_LEVEL=INFO
+      - JWT_SECRET=${JWT_SECRET:?required}
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:?required}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:?required}
     depends_on:
       mongodb:
         condition: service_healthy
@@ -109,11 +112,11 @@ services:
     restart: unless-stopped
     environment:
       - AIRFLOW__CORE__EXECUTOR=LocalExecutor
-      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql://admin:secret_password@postgres:5432/smart_travel
-      - AIRFLOW__CORE__FERNET_KEY=ftS81ffRPzGTTIt4Xpe4GLBMaVoUtRR9X_qMQ-qZmbbs=
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=${AIRFLOW__DATABASE__SQL_ALCHEMY_CONN:?required}
+        - AIRFLOW__CORE__FERNET_KEY=${AIRFLOW_FERNET_KEY:?required}
       - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
       - AIRFLOW__CORE__LOAD_EXAMPLES=False
-      - AIRFLOW__WEBSERVER__SECRET_KEY=${AIRFLOW_WEBSERVER_SECRET:-your-webserver-secret}
+      - AIRFLOW__WEBSERVER__SECRET_KEY=${AIRFLOW_WEBSERVER_SECRET:?required}
       - PYTHONPATH=/opt/airflow
     ports:
       - "8080:8080"
@@ -139,8 +142,8 @@ services:
     restart: unless-stopped
     environment:
       - AIRFLOW__CORE__EXECUTOR=LocalExecutor
-      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql://admin:secret_password@postgres:5432/smart_travel
-      - AIRFLOW__CORE__FERNET_KEY=ftS81ffRPzGTTIt4Xpe4GLBMaVoUtRR9X_qMQ-qZmbbs=
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=${AIRFLOW__DATABASE__SQL_ALCHEMY_CONN:?required}
+        - AIRFLOW__CORE__FERNET_KEY=${AIRFLOW_FERNET_KEY:?required}
       - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
       - AIRFLOW__CORE__LOAD_EXAMPLES=False
       - PYTHONPATH=/opt/airflow

@@ -1,15 +1,20 @@
-import os
 from datetime import datetime, timedelta, timezone
 from typing import Optional
-import jwt
+
 from fastapi import Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer
+from jose import JWTError, jwt
 from pydantic import BaseModel
 
-# Configuration
-SECRET_KEY = os.getenv("JWT_SECRET_KEY", "super-secret-enterprise-key-2026")
-ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 60
+from app.core.config import settings
+
+ALLOWED_JWT_ALGORITHMS = {"HS256", "HS384", "HS512"}
+ALGORITHM = settings.algorithm
+if ALGORITHM not in ALLOWED_JWT_ALGORITHMS:
+    raise ValueError(f"Unsupported JWT algorithm: {ALGORITHM}")
+
+SECRET_KEY = settings.jwt_secret
+ACCESS_TOKEN_EXPIRE_MINUTES = settings.access_token_expire_minutes
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="api/auth/login")
 
@@ -22,8 +27,13 @@ def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):
     if expires_delta:
         expire = datetime.now(timezone.utc) + expires_delta
     else:
-        expire = datetime.now(timezone.utc) + timedelta(minutes=15)
-    to_encode.update({"exp": expire})
+        expire = datetime.now(timezone.utc) + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    to_encode.update({
+        "exp": int(expire.timestamp()),
+        "iat": int(datetime.now(timezone.utc).timestamp()),
+        "nbf": int(datetime.now(timezone.utc).timestamp()),
+        "type": "access",
+    })
     encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
     return encoded_jwt
 
@@ -40,7 +50,7 @@ async def get_current_user(token: str = Depends(oauth2_scheme)):
         if username is None:
             raise credentials_exception
         return TokenData(username=username, role=role)
-    except jwt.PyJWTError:
+    except JWTError:
         raise credentials_exception
 
 async def check_admin_role(current_user: TokenData = Depends(get_current_user)):

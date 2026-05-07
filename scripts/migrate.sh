@@ -38,7 +38,7 @@ EOF
 echo "✅ PostgreSQL migrations completed"
 
 # MongoDB indexes
-docker-compose -f infra/docker/docker-compose.yml exec mongodb mongosh smart_travel -u admin -p secret_password --authenticationDatabase admin --eval "
+docker-compose -f infra/docker/docker-compose.yml exec mongodb mongosh smart_travel -u admin -p "${MONGODB_PASSWORD}" --authenticationDatabase admin --eval "
 db.places_bronze.createIndex({'city': 1, 'source': 1});
 db.places_bronze.createIndex({'collected_at': 1});
 

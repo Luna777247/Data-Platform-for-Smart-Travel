@@ -20,11 +20,13 @@ mkdir -p data/redis
 # Copy environment files if they don't exist
 if [ ! -f .env ]; then
     echo "📋 Creating .env file..."
+    AIRFLOW_WEBSERVER_SECRET=$(python3 -c "import secrets; print(secrets.token_urlsafe(32))" 2>/dev/null || python3 -c "import uuid; print(uuid.uuid4().hex + uuid.uuid4().hex)")
+
     cat > .env << EOF
 # Database
-MONGODB_URI=mongodb://admin:secret_password@localhost:27017
+MONGODB_URI=mongodb://admin:${MONGODB_PASSWORD:-your_secure_mongodb_password_here}@localhost:27017
 DB_NAME=smart_travel
-POSTGRES_URL=postgresql+asyncpg://admin:secret_password@localhost:5432/smart_travel
+POSTGRES_URL=postgresql+asyncpg://admin:${POSTGRES_PASSWORD:-your_secure_postgres_password_here}@localhost:5432/smart_travel
 REDIS_URL=redis://localhost:6379
 
 # API Keys
@@ -32,7 +34,10 @@ GOOGLE_PLACES_API_KEY=your-api-key-here
 
 # Airflow
 AIRFLOW_FERNET_KEY=$(python3 -c "from cryptography.fernet import Fernet; print(Fernet.generate().decode())" 2>/dev/null || echo "your-fernet-key-here")
-AIRFLOW_WEBSERVER_SECRET=$(python3 -c "import secrets; print(secrets.token_hex(16))" 2>/dev/null || echo "your-webserver-secret-here")
+AIRFLOW_WEBSERVER_SECRET=$AIRFLOW_WEBSERVER_SECRET
+
+# Security
+JWT_SECRET=$(python3 -c "import secrets; print(secrets.token_urlsafe(32))" 2>/dev/null || echo "your-jwt-secret-here")
 EOF
     echo "⚠️  Please update .env file with your actual API keys!"
 fi

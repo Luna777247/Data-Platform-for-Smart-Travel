@@ -47,6 +47,6 @@ db.places_gold.createIndex({location: '2dsphere'});
 print('✅ MongoDB indexes created');
 "
 
-docker-compose -f infra/docker/docker-compose.yml exec -T mongodb mongosh smart_travel -u admin -p secret_password --authenticationDatabase admin --eval $mongoJs
+docker-compose -f infra/docker/docker-compose.yml exec -T mongodb mongosh smart_travel -u admin -p $env:MONGODB_PASSWORD --authenticationDatabase admin --eval $mongoJs
 
 Write-Host "🎉 All migrations completed successfully!" -ForegroundColor Green

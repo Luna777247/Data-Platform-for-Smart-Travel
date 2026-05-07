@@ -3,8 +3,8 @@
 storage:
   minio:
     endpoint: "localhost:9000"
-    access_key: "minioadmin"
-    secret_key: "minioadminpassword"
+    access_key: "${MINIO_ACCESS_KEY}"
+    secret_key: "${MINIO_SECRET_KEY}"
     secure: false
     buckets:
       lakehouse: "lakehouse"
@@ -15,7 +15,8 @@ database:
     host: "localhost"
     port: 5432
     user: "admin"
-    password: "secret_password"
+    # Use environment variable for production secrets
+    password: "${POSTGRES_PASSWORD}"
     db_name: "smart_tourism"
 
 pipeline:

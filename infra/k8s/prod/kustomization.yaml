@@ -5,8 +5,10 @@ resources:
   - ../base/api-deployment.yaml
   - ../base/frontend-deployment.yaml
   - ../base/api-hpa.yaml
-  - ../base/secrets.yaml
   - ../base/ingress.yaml
+  - ../base/networkpolicy.yaml
+  - ../base/pdb.yaml
+  - ../security
 
 patchesStrategicMerge:
   - api-prod-patch.yaml
