@@ -1,0 +1,173 @@
+{
+  "u_key": "24bc5cfd8787ad34",
+  "original_osm_name": "Boating restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0898 173 183",
+    "geometry": {
+      "location": {
+        "lat": 16.0641685,
+        "lng": 108.2296915
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0655601302915,
+          "lng": 108.2311920802915
+        },
+        "southwest": {
+          "lat": 16.0628621697085,
+          "lng": 108.2284941197085
+        }
+      }
+    },
+    "name": "The View - Yacht Restaurant Da Nang",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–00:00",
+        "Thứ Ba: 17:00–00:00",
+        "Thứ Tư: 17:00–00:00",
+        "Thứ Năm: 17:00–00:00",
+        "Thứ Sáu: 17:00–00:00",
+        "Thứ Bảy: 17:00–00:00",
+        "Chủ Nhật: 17:00–00:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Duyet Bui",
+        "author_url": "https://www.google.com/maps/contrib/107767266783107327824/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPE7PQZQlJm80xS_6KRL7DUMLTcLjrGXZ5P4kOYPl2UtYVSQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trải nghiệm ổn\nView quá đẹp, ôm trọn sông Hàn và thấy rõ cầu Rồng.\nThức ăn tạm được\nCó bia Corona và bia Mỹ Budweiser khá ngon.",
+        "time": 1769215012,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Nguyễn Kiều Trinh",
+        "author_url": "https://www.google.com/maps/contrib/111578759131267368271/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-rINs7gJJvBEIo503j9wFtjbcBL4A74HtTKS0YzcH-m_fOCXsWg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán có view nhìn ra Cầu Rồng buổi tối lên đèn siêu đẹp, ngồi ngắm cảnh rất thích. Nếu đi sớm còn có thể ngắm hoàng hôn, không gian khá chill.\n\nMón ăn bình thường, không quá nổi bật nhưng giá hợp lý.",
+        "time": 1769163853,
+        "translated": false
+      },
+      {
+        "author_name": "Thi Lê",
+        "author_url": "https://www.google.com/maps/contrib/106616713540573143887/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYSwUTx06u1P-zFW8wTHiHO74e_9BBbM7_7iLA8tQilm4bJgw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian view sông nhà hàng này chắc đẹp nhất nhì Đà Nẵng.\nMón ăn chủ yếu hải sản.\nNhân viên nhiệt tình và thân thiện, quán tuy đông nhưng vẫn rất sẵn sàng hỗ trợ khách hàng.",
+        "time": 1766496972,
+        "translated": false
+      },
+      {
+        "author_name": "Pham Ngoc Thach",
+        "author_url": "https://www.google.com/maps/contrib/105846944756504164020/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyzvhX330UOSeg4G4LyNcmj_77B5e08-E8AstZxeZlJoOpHpS9QQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán không gian đẹp, thích hợp cho các buổi tiệc sang trọng, đồ ăn đa dạng, đa số là hải sản. Các món ăn cũng ở mức bình thường k quá xuất sắc so với các quán hải sản khác.",
+        "time": 1760976232,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Hoài",
+        "author_url": "https://www.google.com/maps/contrib/101919178347030287134/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_F6txH0ZAs1RLF0jdQ9iCt4zPVO8FsUjIQe37YcF6TU-8yr_1=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn ngon, nhân viên phục vụ nice. Sau khi nhà mình ăn xong, ngồi chơi thì ngỏ ý tặng kem tráng miệng. Hỗ trợ bóc tôm cho khách nữa\nMón cá hồi hơi bị khô do cắt lát mỏng quá",
+        "time": 1758594969,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1590
+  },
+  "harvested_at": "2026-04-29T09:41:39.075006"
+}

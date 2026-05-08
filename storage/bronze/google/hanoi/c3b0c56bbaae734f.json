@@ -1,0 +1,89 @@
+{
+  "u_key": "c3b0c56bbaae734f",
+  "original_osm_name": "Khách Sạn Nam Hải",
+  "google_raw": {
+    "formatted_phone_number": "024 3873 0644",
+    "geometry": {
+      "location": {
+        "lat": 21.041542,
+        "lng": 105.8649706
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0429079802915,
+          "lng": 105.8664005302915
+        },
+        "southwest": {
+          "lat": 21.0402100197085,
+          "lng": 105.8637025697085
+        }
+      }
+    },
+    "name": "Khách sạn Nam Hải",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Ánh Nguyễn Minh",
+        "author_url": "https://www.google.com/maps/contrib/100658691563434534258/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0F5CSuhWb7OfrHFya4PYt-WTZ3FkXlVT5WxVLMc2p56DT3ph9=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "Phòng ốc cũ, nhân viên không nhiệt tình. Mình và người yêu có gửi ô tô ở sân và đến sáng hôm sau thì xe người yêu mình bị xước và lõm ở đầu xe. Mình có báo với lễ tân tình trạng như thế và lễ tân đã không xin lỗi và đổ lại lỗi cho bọn mình.  Thái độ rất thiếu chuyên nghiệp, nói bọn mình rất khó nghe, không có thái độ thiện chí xử lý. Trải nghiệm siêu tệ, mọi người đi ô tô nên cân nhắc khi gửi xe ở đây. Không bao giờ quay lại!",
+        "time": 1760849487,
+        "translated": false
+      },
+      {
+        "author_name": "Hung Do",
+        "author_url": "https://www.google.com/maps/contrib/111299949282727654724/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0_ZyKPWxCaTatxfj2X-QqgTyWepq1-f_sLZs98pUT7PivhEw3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Rất Ok Nhân viên nhiệt tình thân thiện Không gian rộng thoáng mát viu đẹp nhìn ra sông Hồng .",
+        "time": 1768702167,
+        "translated": false
+      },
+      {
+        "author_name": "Thịnh Hưng",
+        "author_url": "https://www.google.com/maps/contrib/112306713417577571308/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSsrrz57fSqCT7_7fkVjRr6gNPuinJvIYKSAfRlXYKIgvjuIyZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "phòng ốc cũ , máy lạnh hư liên tục . đặt phòng 2 người 3 giường nhưng lại đưa 1 cái gối . xuống hỏi thì trả lời hết gối ??? không 1 câu xin lỗi , thái độ rất chán . cho tiền cũng không quay lại",
+        "time": 1762756432,
+        "translated": false
+      },
+      {
+        "author_name": "Nhã Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106086698121990895498/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsxKArB8q9GU77Mo0cgFs5ej8oo3xq5b8sbPNPiuKNswYZK-Nk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Phòng ốc sạch sẽ, rộng rãi. Sân đỗ xe rộng. Vị trí thuận tiện để vào trung tâm. Tuy nhiên buổi sáng khá tắc đường",
+        "time": 1763444094,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Vu Minh",
+        "author_url": "https://www.google.com/maps/contrib/101171798711337144781/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQqHemkxFXmIgbmesneTz3TpxLNh5tHmRYDB6Wbuk02L0Gv0IJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Phòng ốc ok. Nhân viên các bạn trẻ rất nhiệt tình",
+        "time": 1770555527,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 180
+  },
+  "harvested_at": "2026-04-27T19:58:43.696799"
+}

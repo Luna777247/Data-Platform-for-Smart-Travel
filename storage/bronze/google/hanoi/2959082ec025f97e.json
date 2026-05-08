@@ -1,0 +1,89 @@
+{
+  "u_key": "2959082ec025f97e",
+  "original_osm_name": "Khách Sạn Golden Wings II",
+  "google_raw": {
+    "formatted_phone_number": "024 3935 1080",
+    "geometry": {
+      "location": {
+        "lat": 21.0341796,
+        "lng": 105.8534676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0355292302915,
+          "lng": 105.8547976802915
+        },
+        "southwest": {
+          "lat": 21.0328312697085,
+          "lng": 105.8520997197085
+        }
+      }
+    },
+    "name": "Golden Wings Hotel",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Le Long",
+        "author_url": "https://www.google.com/maps/contrib/103952106410483687318/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMhLT25rtb14NDJ96jEYZgLLz3KVBDJLic842Pg5qs4yTKRA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 năm trước",
+        "text": "Khach san tuong duong 3 sao, an sang buffet, phong dep, sach se, nhan vien than thien...Minh se quay lai trong thoi gian som nhat!",
+        "time": 1378637730,
+        "translated": false
+      },
+      {
+        "author_name": "ольга настюкова",
+        "author_url": "https://www.google.com/maps/contrib/109611842268254047188/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVx4C1WPD6QRdgXArgx49VimV5IXQFaSCJ582uxuAdc6RwvIhFmEQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "13 năm trước",
+        "text": "Chúng tôi đã nghỉ ngơi cùng bạn bè từ ngày 19/11/2012 đến ngày 21/11/2012. Khách sạn rất sạch sẽ và nhân viên thân thiện. Bữa sáng ngon. Vị trí rất thuận tiện. Phòng nhỏ ấm cúng.",
+        "time": 1351958698,
+        "translated": true
+      },
+      {
+        "author_name": "Mark Vidic",
+        "author_url": "https://www.google.com/maps/contrib/113600861804751561192/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8f8fJ73A5t3cLXtGWIkGtpwMM2pgL5I0AwpqM2lGuMNisTwEb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "13 năm trước",
+        "text": "Khách sạn này có vị trí tuyệt vời, thuận tiện cho việc ăn uống và khám phá thành phố. Nhân viên thân thiện, phòng ốc sạch sẽ và đáp ứng mọi nhu cầu.",
+        "time": 1347690123,
+        "translated": true
+      },
+      {
+        "author_name": "JUAN MINGHETTI",
+        "author_url": "https://www.google.com/maps/contrib/116022295918686335255/reviews",
+        "language": "vi",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYmwdhPeEyDO_tDVOyljVvuMa337B2PnUuQI4CtHQqyf-IYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "12 năm trước",
+        "text": "Giá cả rất hợp lý",
+        "time": 1382492604,
+        "translated": true
+      },
+      {
+        "author_name": "Cuong Do Kien",
+        "author_url": "https://www.google.com/maps/contrib/109466055194951380778/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWid2EISv9LYWZLp_I9-wDSHOzXc_aq9xixFHXpDVqj76iBW16K=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Phòng đẹp",
+        "time": 1546155965,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 13
+  },
+  "harvested_at": "2026-04-27T19:58:39.494424"
+}

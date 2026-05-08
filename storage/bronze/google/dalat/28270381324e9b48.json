@@ -1,0 +1,173 @@
+{
+  "u_key": "28270381324e9b48",
+  "original_osm_name": "News & Art Café",
+  "google_raw": {
+    "formatted_phone_number": "0886 719 555",
+    "geometry": {
+      "location": {
+        "lat": 11.9438105,
+        "lng": 108.4500065
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9451537302915,
+          "lng": 108.4513166302915
+        },
+        "southwest": {
+          "lat": 11.9424557697085,
+          "lng": 108.4486186697085
+        }
+      }
+    },
+    "name": "D'Art Café Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:30",
+        "Thứ Bảy: 07:00–22:30",
+        "Chủ Nhật: 07:00–22:30"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Gaby Gigi Vo",
+        "author_url": "https://www.google.com/maps/contrib/116973992532544701279/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLuY_B19gDecHuFygTIZpoUh-a_Z2mUUf4ItACxO3RpHCLZxQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán trang trí đẹp, có nhiều hoa tươi và cây xanh.\nĐồ uống và bánh ngọt ổn nhưng giá cao hơn thị trường. Nhân viên phục vụ không nhiệt tình.",
+        "time": 1772252414,
+        "translated": false
+      },
+      {
+        "author_name": "My Đặng Ái",
+        "author_url": "https://www.google.com/maps/contrib/106813012943590153971/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_BvjR4p4TIWlBI6_he5kw4DZ9azpjDTZEgqet974MfjWKWKM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nước ngon, không gian không có gì để bàn cãi, nếu mình là dân địa phương chắc sẽ tới rất nhiều lần. Vô tình ra hồ chơi thấy quán nên tấp vào mà trải nghiệm tốt lắm, WC nữ cần cải thiện mùi 1 chút là oke ạ",
+        "time": 1772472400,
+        "translated": false
+      },
+      {
+        "author_name": "Van Dang",
+        "author_url": "https://www.google.com/maps/contrib/113824980893184155846/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_slYhReK5EzOz7bkJOAtG40DG7u40myqyK03bIh7EmH-V4UspGQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rất đẹp. Có nhiều điểm để chụp hình, có không gian trong nhà và ngoài trời. Đồ uống khá ổn. Chỗ để xe ô tô thoải mái. Quán ngày Hồ Xuân Hương.",
+        "time": 1771637383,
+        "translated": false
+      },
+      {
+        "author_name": "KimHoa Hoang",
+        "author_url": "https://www.google.com/maps/contrib/118112727216240546368/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVc0rxk_mNMDmIZ55LkU1GBmDnUW9J5OrSpae4PT8d9kcL8AgZp=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán có không gian rộng rãi, có cả ngoài trời và trong nhà. Nằm ở trung tâm thành phố, nhìn ra được Hồ Xuân Hương.",
+        "time": 1772964679,
+        "translated": false
+      },
+      {
+        "author_name": "Vinh Vo",
+        "author_url": "https://www.google.com/maps/contrib/109749839730332199153/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhIh9qVeLfJe_fUPkPV_q2bJ9kYtwWVa1QH7xNSgPHuYTx7pjq7A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán có view xuất sắc nhìn xuống hồ Xuân Hương và xa là núi LangBiang. Không gian quán rất rộng, từ sân trước bên dưới đến indoors, terrace lầu 1, lầu 2. Có bàn thấp, cao và bàn nhóm làm viêc. Thức uống ngon, nhiều loại bánh, có cả thức ăn sáng. Giá vừa phải, không quá cao.\nPhục vụ lịch sự, tận tình, cả bé gái bê nước cũng rất lễ phép.\nQuán trang trí Tết đẹp. Vị trí dễ đi, có sân để khoảng 10 xe hơi.\nĐịa điểm tốt để relax dịp Tết tại Đà Lạt.",
+        "time": 1770952575,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 387
+  },
+  "harvested_at": "2026-04-30T15:01:59.768925"
+}

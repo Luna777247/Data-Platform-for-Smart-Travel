@@ -1,0 +1,173 @@
+{
+  "u_key": "e831e676de1f991e",
+  "original_osm_name": "Cà Phê First",
+  "google_raw": {
+    "formatted_phone_number": "0774 210 785",
+    "geometry": {
+      "location": {
+        "lat": 21.0278984,
+        "lng": 105.8233766
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0292377302915,
+          "lng": 105.8247130802915
+        },
+        "southwest": {
+          "lat": 21.0265397697085,
+          "lng": 105.8220151197085
+        }
+      }
+    },
+    "name": "The First Coffee & Cocktail",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 18:00–02:00",
+        "Thứ Ba: 18:00–02:00",
+        "Thứ Tư: 18:00–02:00",
+        "Thứ Năm: 18:00–02:00",
+        "Thứ Sáu: 18:00–02:00",
+        "Thứ Bảy: 14:00–02:00",
+        "Chủ Nhật: 14:00–02:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Ann Kn",
+        "author_url": "https://www.google.com/maps/contrib/107115117833711614527/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuViwWBxei_gaWjJX5EWlwhN6vcByKHADRJ_P8aHnrVrsW2C0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khách do em Vân Mây serve nè\n- Vị trí:\n+ Quán dễ tìm, mở cửa tới tận 2h sáng, bên dưới là quán bún, không gian bên trên thì có cả trong nhà và ngoài sân, nhiều khu vực bàn để ngồi : đôi, ba, nhóm ... Nhưng vị trí đẹp thì nên đặt bàn trước\n+ Đồ uống/ ăn: Về cơ bản là ngon, đáng thử. Mình thích nhất các món rượu, pha khá là uki luôn í, đặc biệt là món rượu mây mưa, nó ngon gì đâu nè....\n+ Về phục vụ: các em bé rất cute, nhanh nhẹn, hoà nhập với cái nết khách rất nhanh. vì mọi ngừoi đi vào tối hoặc muộn nên thường sẽ cần được serve nhiều hơn, các e rất chú ý tới khách và phục vụ nhanh nhẹn\n+ Không gian quán: khá là hỗn hợp: 1 chút hidden bar, 1 chút vỉa hè, 1 chút vintage, 1 chút kiểu quán rượu =)))) nên nhìn chung cx tạo ra ko khí cởi mở, ko bị sượng\n\nKo gian phù hợp cho các dịp: hẹn hò, bạn bè, đối tác, nhóm vui vẻ ... sinh nhật, ....",
+        "time": 1765687513,
+        "translated": false
+      },
+      {
+        "author_name": "Linh",
+        "author_url": "https://www.google.com/maps/contrib/104013038763040730285/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1X9wQ2X6UOSOStuWgEr4PzKzln6tlQufvXHzIizcEAHn9s7N-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ uống ngon (tất cạ liên quan tới xoài), nhân viên thân thiện, lâu lâu có mèo mà dạo này k thấy đâu 🤬 Nói chung k chê gì cả",
+        "time": 1769697698,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Vương",
+        "author_url": "https://www.google.com/maps/contrib/103836591050441127025/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXSf8J6Wc_HWWVSyVzcDw0KeRisa0cqGJ3rJ_Kz1Hss4jauw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán mang cảm giác ấm cúng với ánh đèn vàng nhẹ,cacao kem mặn ngọt vừa phải tui mê kem chesse ở đây lúm cảm thấy như được tách khỏi ồn ào, chỉ còn lại sự thư giãn và thoải mái. Rất recommend mọi người đến thử vì mình thấy không gian quán siêu chill",
+        "time": 1763836567,
+        "translated": false
+      },
+      {
+        "author_name": "phạm Huy",
+        "author_url": "https://www.google.com/maps/contrib/108086829130745660482/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJbEhUK50DVt7rEgTjjCw4qYLk_Tip2jueSrzgqA8yzjojIsoigQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình thích không gian ở đây,tone ấm,cảm giác thư giãn đồ uống ngon,thích hợp để đi date,nhân viên cũng rất thân thiện",
+        "time": 1768469086,
+        "translated": false
+      },
+      {
+        "author_name": "khanh linh",
+        "author_url": "https://www.google.com/maps/contrib/108927158357727286370/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBA4eGpmLWFMvUpB-0Au4DT0JWsDY1i2aBiGNeaH58NsWn7ET6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Một trong những quán cà phê hiếm hoi mà mình cảm thấy thực sự có cảm xúc ngay khi bước chân vào. Không gian không quá rộng nhưng được sắp xếp tinh tế, từng góc nhỏ đều toát lên sự chăm chút và gu thẩm mỹ nhẹ nhàng, ấm áp. Điều khiến mình ấn tượng nhất, ngoài hương vị trà dịu nhẹ và vừa miệng, chính là âm nhạc ở đây.\n\nQuán mở những bản nhạc indie pha chút jazz lofi, nhẹ nhàng như gió lướt qua vai, khiến người ta muốn ngồi lại thật lâu chỉ để thở sâu và lắng nghe. Âm lượng vừa đủ, không lấn át câu chuyện của bạn bè, nhưng cũng đủ để lấp đầy những khoảng lặng cô đơn trong một buổi đêm đầy tĩnh lặng. Có những bài hát mình chưa từng nghe bao giờ, nhưng bỗng dưng lại thấy quen, như gặp lại chính mình trong một phiên bản cũ hơn – yên tĩnh, đầy suy tư nhưng rất đỗi dịu dàng.\n\nCái không khí nơi đây giống như một chiếc chăn mềm trong mùa mưa – không cần quá rực rỡ hay phô trương, chỉ cần đủ ấm để khiến người ta muốn quay về. Nếu bạn đang tìm một nơi để trốn khỏi nhịp sống xô bồ, hoặc chỉ đơn giản là một góc nhỏ để viết vài dòng tâm sự, thì đây chắc chắn là nơi bạn nên ghé đến.",
+        "time": 1753821347,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 541
+  },
+  "harvested_at": "2026-04-27T19:58:03.784756"
+}

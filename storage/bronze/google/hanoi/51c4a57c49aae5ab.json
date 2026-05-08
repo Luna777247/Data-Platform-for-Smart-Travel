@@ -1,0 +1,243 @@
+{
+  "u_key": "51c4a57c49aae5ab",
+  "original_osm_name": "Cửa Hàng Bít Tết 53 Cô Mẫu",
+  "google_raw": {
+    "formatted_phone_number": "0982 211 425",
+    "geometry": {
+      "location": {
+        "lat": 21.0204348,
+        "lng": 105.8522247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0217600802915,
+          "lng": 105.8535042802915
+        },
+        "southwest": {
+          "lat": 21.01906211970849,
+          "lng": 105.8508063197085
+        }
+      }
+    },
+    "name": "Bit Tet 53",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–14:00, 18:00–21:00",
+        "Thứ Ba: 11:00–14:00, 18:00–21:00",
+        "Thứ Tư: 11:00–14:00, 18:00–21:00",
+        "Thứ Năm: 11:00–14:00, 18:00–21:00",
+        "Thứ Sáu: 11:00–14:00, 18:00–21:00",
+        "Thứ Bảy: 11:00–14:00, 18:00–21:00",
+        "Chủ Nhật: 11:00–14:00, 18:00–21:00"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Thịnh Lê",
+        "author_url": "https://www.google.com/maps/contrib/102042365194527991396/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDrQ0j08D6DFCiLePD9a2VhX26yLjJ4DtzLPL35e95JeiwWQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cách đây khoảng 3 năm hay ăn ở đây vì cơm rang cháy cạnh ngon . Nhưng dần dần ăn chán mất vị ban đầu ko ăn nữa sau hơn 3 năm sau quay lại ăn cơm sượng hạt nát hạt chưa chín .thịt rang kiểu rim mắm trước xong đổ nước hàng vào chứ k phải thịt rang . Nói chung là không ngon. Đắt",
+        "time": 1759475534,
+        "translated": false
+      },
+      {
+        "author_name": "nguyen truong",
+        "author_url": "https://www.google.com/maps/contrib/113499768344325532460/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4hQsKYprvKhYAPB-j4WmHiUwXdnovPucECOD38CXIqFsrrQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ăn beefsteak ở đây nhiều năm. Vẫn ưng nha.\nQuán gia đình không sang chảnh nhưng ấm áp.",
+        "time": 1767243563,
+        "translated": false
+      },
+      {
+        "author_name": "thuy linh",
+        "author_url": "https://www.google.com/maps/contrib/114432929663581020717/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM9QnbcafOO7RWhXGxO_rXVNP6uZRtRT8j0ote1-sKaAs2f2d-=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Bit tết kiểu Việt Nam, pate  và khoai tây chiên ngon, giá hợp lý, quán hơi bé nếu đi giờ cao điểm sẽ k có bàn",
+        "time": 1756591588,
+        "translated": false
+      },
+      {
+        "author_name": "Trịnh Duy Anh",
+        "author_url": "https://www.google.com/maps/contrib/114298173244941781608/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvD3QyYO9uh2bc9vMLxG0wEDcRO8euitbgeGjBaZheRxlPhVGa=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Bít tết kiểu việt nam suất bít tết kèm khoai tây rán hoặc nghiền tuỳ chọn ăn kem trứng chín hoặc hơi lòng đào miếng thịt mỏng lượng hơi ít bù lại mềm dễ tan sốt hơi nhạt salad nhiều loại salad dưa chuột ăn ngon. Bánh mỳ đặc ruột tí mình nghĩ sẽ ngon hơn không quá đặc biệt nhưng voi giá 100k/suất đánh giá là ăn được có thể quay lại nhiều lần.",
+        "time": 1690273640,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Phuong Lam",
+        "author_url": "https://www.google.com/maps/contrib/108146959373096394133/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-MeoBo2bHQexzX44H7NZR9Edu5LwoM2_-HB_Hv19S9iKYhVBr=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Quán ăn nhỏ và đơn giản nhưng đồ ăn khá ngon và giá rất bình dân. Thích hợp ăn gia đình nhỏ hơn là điểm tụ tập bạn bè.",
+        "time": 1500383235,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 77
+  },
+  "harvested_at": "2026-04-28T16:16:14.829913"
+}

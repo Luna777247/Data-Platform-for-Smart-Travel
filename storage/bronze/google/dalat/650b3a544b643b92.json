@@ -1,0 +1,173 @@
+{
+  "u_key": "650b3a544b643b92",
+  "original_osm_name": "Milano Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0335 428 086",
+    "geometry": {
+      "location": {
+        "lat": 11.9451928,
+        "lng": 108.439147
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9465474302915,
+          "lng": 108.4405782302915
+        },
+        "southwest": {
+          "lat": 11.9438494697085,
+          "lng": 108.4378802697085
+        }
+      }
+    },
+    "name": "MILANO COFFEE",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:30–22:00",
+        "Thứ Ba: 05:30–22:00",
+        "Thứ Tư: 05:30–22:00",
+        "Thứ Năm: 05:30–22:00",
+        "Thứ Sáu: 05:30–22:00",
+        "Thứ Bảy: 05:30–22:00",
+        "Chủ Nhật: 05:30–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Đăng Khoa",
+        "author_url": "https://www.google.com/maps/contrib/110216773911841115303/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRGbP-y4l_nL3bv8SZa3iZE8P98zVrOO9zE5Lmv3toEOqmuw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "- Tết thức sớm ra Milano làm ly cfê trời se se lạnh giữa lòng Đà Lạt còn gì tuyệt vời hơn....",
+        "time": 1771629693,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104804375999857921813/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaRkUWA2hvT98R3eAItBhkleMDJAX5G8PnBxGHQpPCNVuQiYI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nằm đối diện nhà thờ Don Bosco, ngay mặt tiền đường Bùi Thị Xuân nhộn nhịp. Không gian thoáng mát, xinh xắn, phù hợp để ngồi thưởng thức cà phê hoặc gặp mặt bạn bè.\nAnh chị chủ dễ thương, phục vụ tận tình.\nSẽ ghé ủng hộ lâu dài.",
+        "time": 1744189763,
+        "translated": false
+      },
+      {
+        "author_name": "dieu vu",
+        "author_url": "https://www.google.com/maps/contrib/101202570372264442039/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqrAHFcIK4Xb04UDFJ0eBjkFEGD-gAwFHic88ihGEMAnU2jM_y=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nước ngon- quán decor dễ thương- nhân viên phục vụ thân thiện.\nQuán nên thử khi đến Đà Lạt hihi",
+        "time": 1744182003,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Thanh",
+        "author_url": "https://www.google.com/maps/contrib/114300981695445287453/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbzsrqKY3TFTA5BAUv59woa_dO0-1F57ZQCnWnwFlQr-qT8Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "cửa hàng đẹp, nước ngon, nhân viên nhiệt tình",
+        "time": 1744178622,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Kim",
+        "author_url": "https://www.google.com/maps/contrib/101723709271915993270/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUhfCO9NaIsLziex-R_4bskN066W5mlwSe0X4yAOJ77E1S7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Cj bé nhân viên dễ thương quá tròi, nước ngon mà nhvien dễ thương muốn xẽo",
+        "time": 1756813310,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 22
+  },
+  "harvested_at": "2026-04-30T15:04:47.568779"
+}

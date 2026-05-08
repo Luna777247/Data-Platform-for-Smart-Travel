@@ -1,0 +1,174 @@
+{
+  "u_key": "82134b1670b85bcf",
+  "original_osm_name": "Street Sushi",
+  "google_raw": {
+    "formatted_phone_number": "0936 212 719",
+    "geometry": {
+      "location": {
+        "lat": 21.0377172,
+        "lng": 105.8094608
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03908953029151,
+          "lng": 105.8108083302915
+        },
+        "southwest": {
+          "lat": 21.0363915697085,
+          "lng": 105.8081103697085
+        }
+      }
+    },
+    "name": "Street Sushi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–22:00",
+        "Thứ Ba: 11:00–22:00",
+        "Thứ Tư: 11:00–22:00",
+        "Thứ Năm: 11:00–22:00",
+        "Thứ Sáu: 11:00–22:00",
+        "Thứ Bảy: 11:00–22:00",
+        "Chủ Nhật: 11:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Tân Hồ Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/106129797010354450607/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7WrOhmVKIiE2TjlRqG7VQEnNPmqNdDUUNqBwXVgShx3ZwjQPs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Lần đầu mình ăn tại quán này thì mình đánh giá cao về chất lượng cá hồi và sushi nghen. Mình thấy mỳ ramen ở đây không ngon lắm, không nên thử ramen nha. Nên thử các món đồ sống, đồ chiên thì nên thử nha.",
+        "time": 1765972805,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Hà",
+        "author_url": "https://www.google.com/maps/contrib/109707960722495590661/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUB5XCu9b7gC5olKP-21p46iHD5bJOAAikDIPAQ9SSFae5nFwZx=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "mới đầu vào quán thấy buồn vì quán đánh đèn xấu quá và trông hơi đơn giản =)))) nhưng thực sự ăn thì rất wow, giá cả hợp lí",
+        "time": 1770469000,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyên",
+        "author_url": "https://www.google.com/maps/contrib/103175494250387577216/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoKhj_1_HlYxyq_T8gK5Sa9IU42hqUIonk3N_H7Npe7_PQE_A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn: Các món sống không tươi lắm, sốt mấy cuốn sushi cũng không hợp khẩu vị mình. Các món chín ổn áp hơn, gà với bánh xèo khá ngon\nDịch vụ: Nhân viên dọn cả chồng bát với đũa ra, đưa mình tự xếp, sau đó đứng đằng sau cãi nhau chuyện riêng...Đồ lên khá nhanh nếu đến sớm.\nKhông gian: Quán nhỏ, dạng phục vụ tệp học sinh sinh viên là chính.",
+        "time": 1755349509,
+        "translated": false
+      },
+      {
+        "author_name": "Luong Cao Hien",
+        "author_url": "https://www.google.com/maps/contrib/100688330395270566224/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg6k14X8YHW7BAHwNSO8peBAi7XOrA-zg0VqxinOGb1lW2yG-n=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán không đẹp nhưng đồ ăn ngon 😂. Giá rẻ. Tuần đóng họ 1-2 lần.\nĐồ sashimi thì không tươi lắm nhưng các món chín thì ngon.\nPhục vụ nhiệt tình cũng là điểm cộng.",
+        "time": 1757671738,
+        "translated": false
+      },
+      {
+        "author_name": "Rhythm Love",
+        "author_url": "https://www.google.com/maps/contrib/114250032286525127659/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOHQi7KqWC8xMH4ALmkNuz6xEPss8ojOQBDsXYtffy539jmSs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán nằm trên mặt đường Đội Cấn, bày trí đơn giản, bình dân, đúng với tinh thần của tên quán.\nVề đồ ăn, mình thấy cá không tươi, màu lá rong biển cuốn ngoài nhìn nhợt nhạt, không bằng màu cơm cuộn trong cửa hàng tiện lợi. Nhưng với mức giá của quán thì như vậy cũng hợp lý.\nMón chín ăn ổn hơn. Mình ưng nhất thịt chiên xù, mềm mềm ngọt ngọt, còn có salad ăn kèm chống ngán ",
+        "time": 1709880524,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 374
+  },
+  "harvested_at": "2026-04-28T16:15:12.903657"
+}

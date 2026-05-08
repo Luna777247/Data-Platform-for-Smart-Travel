@@ -1,0 +1,173 @@
+{
+  "u_key": "9959b4b93c3fe2f6",
+  "original_osm_name": "Nha Trang View",
+  "google_raw": {
+    "formatted_phone_number": "0917 675 378",
+    "geometry": {
+      "location": {
+        "lat": 12.2567337,
+        "lng": 109.1976057
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2581129302915,
+          "lng": 109.1988958802915
+        },
+        "southwest": {
+          "lat": 12.2554149697085,
+          "lng": 109.1961979197085
+        }
+      }
+    },
+    "name": "NHA TRANG VIEW 378 COFFEE AND RESTAURANT",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–02:00",
+        "Thứ Ba: 06:00–02:00",
+        "Thứ Tư: 06:00–02:00",
+        "Thứ Năm: 06:00–02:00",
+        "Thứ Sáu: 06:00–02:00",
+        "Thứ Bảy: 06:00–02:00",
+        "Chủ Nhật: 06:00–02:00"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Min Min",
+        "author_url": "https://www.google.com/maps/contrib/102666417651948539590/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPO_EVJn8BXRya3akMuKBglN524zljKTHSI3aaQM-fc--MOck=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 2,
+        "relative_time_description": "một tháng trước",
+        "text": "Trải nghiệm rất tệ tại Nha Trang View 378 Coffee & Restaurant.\n\nẤn tượng đầu tiên của tôi về quán là nhân viên lễ tân rất rude và có thái độ khá kiêu ngạo. Cách nói chuyện không thân thiện và khiến khách cảm thấy không được chào đón.\n\nMenu thì có khá nhiều món nhưng khi gọi thì phần lớn lại báo là không có. Cuối cùng lựa chọn đồ uống cũng rất hạn chế. Sau khi gọi xong, đồ uống ra rất chậm, phải chờ khá lâu dù quán không quá đông.\n\nKhông gian quán nhìn chung không được sạch sẽ. Vì có nhiều cây xung quanh nên kiến từ trên cây rơi xuống bàn, thậm chí có lúc rơi vào cả ly nước. Điều này thực sự làm trải nghiệm ăn uống trở nên rất khó chịu.\n\nĐiểm tích cực duy nhất của quán có lẽ là view nhìn ra khá đẹp. Tuy nhiên với thái độ phục vụ, chất lượng vận hành và vệ sinh như vậy, thì view đẹp thôi là chưa đủ để bù lại trải nghiệm không tốt.\n\nHy vọng quán sẽ cải thiện lại thái độ nhân viên, quản lý menu tốt hơn và chú ý hơn đến vệ sinh.",
+        "time": 1772620951,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh hoang kim",
+        "author_url": "https://www.google.com/maps/contrib/100523968979460224957/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsD-gQWgEB3HImtw_kCCl4OmukNY5-vNnLajx0rDsGqKgWSBBI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "View chụp ảnh rất đẹp. Đồ ăn khá ngon. Không gian thoáng mát.",
+        "time": 1772708679,
+        "translated": false
+      },
+      {
+        "author_name": "Diễm Hằng Phạm",
+        "author_url": "https://www.google.com/maps/contrib/111521056068038079132/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeGvPk8FBuMSTu3o94yptS9yFBCcZ1uGHLtzIvVGuOYegLRIH7=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nha Trang View 378 Coffee (hay Nha Trang View 378 Restaurant & Coffee) là quán view biển “xịn” nhất đường Trần Phú, Nha Trang!\n\nVị trí & View\nNằm tại khoảng 48 Nguyễn Bỉnh Khiêm (mặt tiền Trần Phú, gần cầu Trần Phú), sát biển. View panorama vịnh Nha Trang, Hòn Tre, sóng vỗ – đẹp mê ly lúc bình minh/hoàng hôn. Không gian mở, thoáng đãng, nhiều góc check-in.\n\nĐồ uống & Ăn\nCà phê Việt (sữa đá, đen), latte, sinh tố, nước trái cây – giá 40-80k. Combo ăn sáng (bún/phở + cà phê) siêu rẻ ~70-90k. Đồ ổn, view bù đắp nhiều!",
+        "time": 1768968015,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Hằng",
+        "author_url": "https://www.google.com/maps/contrib/104358139494525386015/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvm3lX0yEQe4OxfeCXdpv5yYEKUyhxa7tM0Ljo99pttlUtQDawRA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Nha Trang View 378 Nguyên Bỉnh Khiêm quả thật là một vị trí khá đắc địa, là nơi bạn bè các nơi về đây thì Người Nha Trang đơn giản để thể hiện tình cảm, lòng hiếu khách của mình. Không gian nhà hàng rất rộng, đẹp và mát vì ngay sát bờ biển tha hồ cho thực khách thả hồn vào thiên nhiên.\nNhân viên phục vụ thì nhiệt tình và thân thiện với khách.\nĐồ ăn có nhiều món đặc sản biển, với mình thì khá phù hợp với khẩu vị, các món như gỏi cá mai cuốn bánh tráng được cuốn với nhiều loại rau thơm ngon, mực xào, tôm xốt, lẩu riêu bò...với mình đều vừa ngon.\nVị trí ở đây rất đẹp, thuận lợi cho di chuyển. Các bạn trải nghiệm nha",
+        "time": 1750479113,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Võ",
+        "author_url": "https://www.google.com/maps/contrib/103330405859524782103/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWr170qzy5Fquu07N5y9xeLWtmKLc_jXBfCaem0OSziHQTsraOa=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cạnh Nha Trang view, ngồi ngoài trời có dù. Phục vụ tại bàn, order tại quầy. Giá cafe từ 30k, cacao đá 55k. Nhà hàng giá ổn. Các bạn phục vụ rất nhiệt tình.",
+        "time": 1771067987,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 268
+  },
+  "harvested_at": "2026-05-02T15:09:54.438146"
+}

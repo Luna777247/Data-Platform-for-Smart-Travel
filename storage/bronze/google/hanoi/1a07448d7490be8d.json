@@ -1,0 +1,244 @@
+{
+  "u_key": "1a07448d7490be8d",
+  "original_osm_name": "Cà Phê Cơm Chay",
+  "google_raw": {
+    "formatted_phone_number": "0983 895 489",
+    "geometry": {
+      "location": {
+        "lat": 21.0331362,
+        "lng": 105.8065585
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0345230802915,
+          "lng": 105.8079379802915
+        },
+        "southwest": {
+          "lat": 21.0318251197085,
+          "lng": 105.8052400197085
+        }
+      }
+    },
+    "name": "Haan Vegan - Buffet Chay",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–14:00, 18:00–21:00",
+        "Thứ Ba: 11:00–14:00, 18:00–21:00",
+        "Thứ Tư: 11:00–14:00, 18:00–21:00",
+        "Thứ Năm: 11:00–14:00, 18:00–21:00",
+        "Thứ Sáu: 11:00–14:00, 18:00–21:00",
+        "Thứ Bảy: 11:00–14:00, 18:00–21:00",
+        "Chủ Nhật: 11:00–14:00, 18:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "T.ùng Lâm Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100069274800427189329/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV71Mj1MojmpDzYBOCytoscgPOAG5KHZmhoz2EED3Vxrxsnebgi=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Một trong những tiệm đồ ăn chay có giá cả tương xứng với chất lượng nhất. Mình chắc phải thành khách quen của quán mất vì đồ ăn rất đa dạng mà món nào cũng ngon.\nGiá thì mới tăng gần đây nên là 1 suất buffet chay là 125k/ ng. Cũng không phải rẻ nếu so với các quán khác. Tuy nhiên thì mình thấy trải nghiệm đáng giá tiền.\nQuán ở ngay mặt đường Đào Tấn nên tìm cũng tiện. Quán nằm ở tầng 2&3, ở dưới tầng 1 là quán bún bò, nên là đỗ xe nhớ hỏi bạn nhân viên đứng đằng trước quán là ăn ở đây thì đỗ ở đâu nhe",
+        "time": 1762405118,
+        "translated": false
+      },
+      {
+        "author_name": "Do Huy",
+        "author_url": "https://www.google.com/maps/contrib/114070425823730909924/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMtmhC4Ufw_ecTvXIGJI_jlbMih_RAzqrqJ3IVCz9VtfqK3vPZWA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn rất ngon, thơm, tươi và đặc biệt ko hề bị lạm dụng chiên rán, rất nhiều món đa dạng và nêm nếm hợp mình\nẤn tượng nhất là món chuối đậu, nấm xào, súp và đặc biệt là bún real cà chua 🥹🤘 ngon lắm, với một người trải nghiệm đồ chay như mình thì quán xuất sắc, ăn mà no luôn, cảm giác như đi ăn đồ mặn bth, với mình đó là điểm cộng nha, nêm nếm mê lắm, đặc biệt là quả nước mắm pha mình ăn mà bất ngờ k ngờ đồ chay được cái vị như thế\nKhông gian thì rất sạch sẽ, mát mẻ và đẹp, khu đồ ăn bày trí xinh, bắt mắt lắm á\nAnyway thì góp ý nhẹ với quán là chè tráng miệng hơi nhạt quá, thêm chút xíu ngọt là vừa ạ, bánh bò cốt dừa thì ngon, thích",
+        "time": 1766509214,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108961538410542637550/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIIsYGIJBoKuiqyhO9xwi_qu0xM454AQloFCqV4sX5TY_3fD_1=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình cũng ăn kha khá quán chay rùi cơ mà sau khi biết đến quán thì chỉ ăn ở đây thui. Buffet tuy không quá nhiều món nhưng đủ để thưởng thức và quán chú trọng vào đồ ăn cũng như chất lượng. Rất thích món súp bí đỏ ngon ngậy   hình như thấy bảo dùng kem anchor ớ🥰 Ncl hài lòng với không gian, chất lượng tương xứng với giá tiền là 125k/suất nha🫰🏻🫰🏻\nMình cũng rất thích content page nữa a🤣",
+        "time": 1759249192,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101502708081823517505/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW92F8tC6w2gPd3TCT0UkFlG_WslhAi7t9Fzl7bh-ixkap0LU2Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "- Quán nằm trên tầng 2 & 3, ko có tầng 1 nhưng vẫn khá nhiều ng biết. Sẽ có bạn nv ở dưới để trông xe\n- Chỗ ngồi hơi hẹp, chia làm 2 tầng, ko có nhiều chỗ. Decor đơn giản.\n- Quầy line ko có quá nhiều món nhưng vị nấu thì ngon, ko phải quá đặc sắc nhưng hầu như tròn vị các món",
+        "time": 1769214886,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100602132909070170828/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQMApPwF09z8JUlClKI_GBpYImd4yw6063bKFCmNjM8fXmhxbw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Giá vé 125k, tặng 1 chai nước.\nMenu mình thấy không phong phú và ngon ấn tượng như cơ sở bên quận Hai Bà Trưng.\nCó cơm rang và đậu sốt ngon, còn lại thì bthg lém, hơi thất vọng chút xíu về quầy line\nBạn nữ nhân viên để ý take care khách tốt, nhẹ nhàng và đáng yeu nè. Đỗ xe thì có bạn nam đỗ giùm.",
+        "time": 1760497344,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1657
+  },
+  "harvested_at": "2026-04-26T12:45:12.913337"
+}

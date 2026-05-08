@@ -1,0 +1,174 @@
+{
+  "u_key": "cab0692dfbbe4b78",
+  "original_osm_name": "Now Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0845 686 811",
+    "geometry": {
+      "location": {
+        "lat": 11.9356085,
+        "lng": 108.4298389
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9368836802915,
+          "lng": 108.4311568802915
+        },
+        "southwest": {
+          "lat": 11.9341857197085,
+          "lng": 108.4284589197085
+        }
+      }
+    },
+    "name": "NOW coffee • bistro",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Mai Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/117267555820738182611/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOW6euGTyuGg_uTLYsJF6NKagTuXbjjv56WSpL2JFWRyXtkLNI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Phục vụ đồ ăn hơi lâu (29 Tết). Mình đi 2 người và chỉ order 2 phần salad :\n1.Straccetti salad (xà lách bò áp chảo và parmesan) - phục vụ ra đĩa salad có rau rocket, cà chua mini, thịt bò, và một  ít parmesan trên cùng. Chỉ có thế.\n2. Scandinavian-style gravlax salad (xà lách dùng kèm với cá hồi muối kiểu Bắc Âu) - phục vụ ra đĩa salad có Xà lách xanh (nhiều loại lá khác nhau)\n•Dưa leo cắt miếng\n•Bắp ngọt\n•Cá hồi (cá hồi muối)\n•Một ít rau thì là\n•Sốt salad\nVà 2 Ginger Ale\nNhìn chung phần ăn khá đơn giản và rất ít.\n\nKhông gian quán thoáng mát, có thể ngồi phía bên trong hoặc ngoài vườn. Khách nước ngoài là đa số. Các bạn phục vụ cũng nhiệt tình.\nĐể nói quay lại thì không chắc mình sẽ quay lại. Đã có trải nghiệm tạm ổn.",
+        "time": 1771398772,
+        "translated": false
+      },
+      {
+        "author_name": "Hoài Quy",
+        "author_url": "https://www.google.com/maps/contrib/104809796762805126650/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKZbPndbrzHpAhP6Gf4gx6YsEzSqKQga4Dg3NH9aNXPqUunnd3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Now Bistro thật sự là một trong những quán mình ấn tượng nhất ở Đà Lạt. Không gian ấm áp, decor dễ thương và nhiều góc sống ảo. Món ăn lên nhanh, hương vị ngon và giá hợp lý. Nhân viên lịch sự, nhiệt tình và rất dễ thương. Đặc biệt là bạn Bảo Ngân — phục vụ cực dễ thương, chu đáo và tạo cảm giác thoải mái ngay từ lúc bước vào. Ngồi ở đây cảm giác yên bình, cực kỳ thoải mái. Rất đáng để trải nghiệm.",
+        "time": 1763881603,
+        "translated": false
+      },
+      {
+        "author_name": "Gào (Gào)",
+        "author_url": "https://www.google.com/maps/contrib/108708635370971669251/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt-VWme8rCqHtHHoo3ALnaaDZEDWJew_--w8u6gXcE-Dncv25b=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Có nhiều trải nghiệm với nhiêu cảm nhận khác nhau.\nGiữa lòng cao nguyên Đà Lạt, một quán cà phê phong cách đan xen cả Á & Âu hiện ra như một góc trời thu nhỏ.\nKhông gian ấm cúng, mùi cà phê rang quyện cùng hương bánh ngọt mới ra lò. Một kiểu giữa cà phê Đà Lạt và nhà hàng nhỏ của Pháp\nVừa đủ làm ấm lòng trong tiết trời se lạnh. Một nơi lý tưởng để thưởng thức, thư giãn và thả hồn giữa sương mù phố núi.",
+        "time": 1753628525,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Hà",
+        "author_url": "https://www.google.com/maps/contrib/110332665603267161234/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1EdBlK0VifBYobAVIOULYntdciuGFL6pxKAYnsP6fJ3XYeFvu=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán có mấy em mèo cưng lắm, nv dễ thương, bạn Ngân art latte đẹp xĩu. 10đ cho quán nhen",
+        "time": 1763626286,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Ánh Vũ",
+        "author_url": "https://www.google.com/maps/contrib/101444101446288390531/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRZz7JZgaQamHZbnLhCLDXBi5ZXf0HiplJgb6fA2DV1gr82aqM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Tiệm chill ,không gian quán thoải mái, tiệm có nhìu bánh ngon",
+        "time": 1760706569,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2116
+  },
+  "harvested_at": "2026-04-30T15:07:28.723436"
+}

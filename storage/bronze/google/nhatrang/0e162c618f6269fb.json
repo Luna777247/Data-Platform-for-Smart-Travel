@@ -1,0 +1,243 @@
+{
+  "u_key": "0e162c618f6269fb",
+  "original_osm_name": "Sushi Tokyo Sachi",
+  "google_raw": {
+    "formatted_phone_number": "0924 214 888",
+    "geometry": {
+      "location": {
+        "lat": 12.2495693,
+        "lng": 109.1879338
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2508589302915,
+          "lng": 109.1892743302915
+        },
+        "southwest": {
+          "lat": 12.2481609697085,
+          "lng": 109.1865763697085
+        }
+      }
+    },
+    "name": "Sushi Tokyo Sachi 48 Yersin",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–14:00, 16:30–22:00",
+        "Thứ Ba: 10:30–14:00, 16:30–22:00",
+        "Thứ Tư: 10:30–14:00, 16:30–22:00",
+        "Thứ Năm: 10:30–14:00, 16:30–22:00",
+        "Thứ Sáu: 10:30–14:00, 16:30–22:00",
+        "Thứ Bảy: 10:30–14:00, 16:30–22:00",
+        "Chủ Nhật: 10:30–14:00, 16:30–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "nguyen trandiem",
+        "author_url": "https://www.google.com/maps/contrib/103450998762082556482/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoptv6OHeWX5Vo81WCBQ5GppE5Rm5R7Qs3hOYkQw5sGI3MJpck=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Các món sushi khá ổn, khẩu phần nhiều. Bụng cá hồi tươi, cơm cari ngon. Giá mềm. Chỉ có hàu là không được tươi lắm và bơ bị chín quá ăn bị mềm và có vị chua. Tempura rau củ khoai lang cần chiên kỹ hơn, củ sen hôm nay mình ăn phần bột bị sống. Còn những món khác điều ngon, giá rẻ so với mặt bằng chung.",
+        "time": 1771425554,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Huỳnh Nhật",
+        "author_url": "https://www.google.com/maps/contrib/103180968659990293914/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWm4zeWsBRZ9D3og3A8YSHhNOVxE8RuKnQUWWmd8Ro17ec8uxwNw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "perfect. duy nhất 1 vấn đề nho nhỏ là có mấy con nhặng bay bay xung quanh.",
+        "time": 1767877666,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Thị Hồng Đào",
+        "author_url": "https://www.google.com/maps/contrib/113217444440595277058/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcoAwPQgS7-jeP5f2Zx5Pbbw5EFxNaK3bJJGAElb2PvwA2XK1YCg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đã đi ăn được 3 lần, 2 lần buổi tối và 1 lần buổi trưa. Buổi trưa có các set riêng rất ngon, đầy đủ no và rất rẻ. Còn buổi tối thì sẽ có những set khác. Giá cả thì với mình là phù hợp, đồ tươi, ăn mê lắm tại mình thích ăn sashimi. Món sushi lườn bơ ngon á, salad cá trích thì ngon không bị ngấy như món salad hồi trước ăn. Món nào cũng ngon, phục vụ thì tận tình, có chuông bấm gọi nhân viên. Ra vào nhân viên chào bằng tiếng Nhật mặc dù mình không hiểu 🤣 🤣 Nên trải nghiệm ạ",
+        "time": 1753777681,
+        "translated": false
+      },
+      {
+        "author_name": "Khánh Uyên",
+        "author_url": "https://www.google.com/maps/contrib/108744147423582331725/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTdwJ9JaFbgRsKpjZC3-XCd0adICkkYJr6eoAI4eTkCqINU2yUjg=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "- đã đặt bàn nhưng lúc mình tới kêu hết bàn, xong vẫn phải đợi.\n- lên món rất chậm, các món mì cơm thì lên nhanh nhưng sushi, cơm cuộn thì rất lâu. Ăn xong một món thì chờ 5-10p mới có món tiếp theo.\n- đưa thiếu món nhưng quán k giải quyết dc vấn đề nên nhà mình vẫn ck full bill.",
+        "time": 1771593539,
+        "translated": false
+      },
+      {
+        "author_name": "Thang Pham",
+        "author_url": "https://www.google.com/maps/contrib/109567429093805546546/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-5IsooS3dxlvO9URSscsq2LvE2D2QWUI0dJmBNL55s5XO941x=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn tạm được nhưng món ăn rất lâu, không gian quán quá tệ. Ngồi rất hanh nắng, nóng. Mình đến thì nhân viên bảo phải ngồi dưới, trên lầu còn bàn nhưng không thể lên ngồi.\nNhân viên phục vụ không nhiệt tình, ngồi sau quầy gọi mãi mới được. Thái độ không niềm nở. Không xứng đáng với giá thành. Nên cân nhắc trước khi đến.",
+        "time": 1757831179,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 686
+  },
+  "harvested_at": "2026-05-02T15:22:15.575904"
+}

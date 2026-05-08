@@ -1,0 +1,173 @@
+{
+  "u_key": "27240412133f6078",
+  "original_osm_name": "Mo he. Cafe - Beer",
+  "google_raw": {
+    "formatted_phone_number": "0773 572 980",
+    "geometry": {
+      "location": {
+        "lat": 16.4756427,
+        "lng": 107.5797704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.4769674302915,
+          "lng": 107.5810869302915
+        },
+        "southwest": {
+          "lat": 16.4742694697085,
+          "lng": 107.5783889697085
+        }
+      }
+    },
+    "name": "MÔHÈ cà phê",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–01:00",
+        "Thứ Ba: 06:30–01:00",
+        "Thứ Tư: 06:30–01:00",
+        "Thứ Năm: 06:30–01:00",
+        "Thứ Sáu: 06:30–01:00",
+        "Thứ Bảy: 06:30–01:00",
+        "Chủ Nhật: 06:30–01:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Nhân Siêu",
+        "author_url": "https://www.google.com/maps/contrib/117824027505007065782/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyIuR2lmdXFCKu1siPJY1UMYmmed_vgZwI5FlHKIaJ4pvzEGmI=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Hợp lý\nThái độ nv okok\nThoáng không bị sát vách nhau. Cod nhiều góc chill. Giá cả cũng hợp lý. Mình gọi cf trứng thì phải 3 mấy k ấy ae check menu nhé. Ngon luôn. Để đá riêng nữa!\nMá! Tôi đang hanoi vào đây thấy cái gì cũng rẻ!!!",
+        "time": 1772204651,
+        "translated": false
+      },
+      {
+        "author_name": "Thiên Anh Lê",
+        "author_url": "https://www.google.com/maps/contrib/112066685863016570734/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaEYxleNn6IVRgMD9MV9KTMa3U6mxzOIJMhA8EQvLb7H9hYA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "mình đi quán này vào buổi sáng thấy khá ít khách, nhưng mà mình thích vì yên tĩnh dễ trò chuyện. cà phê ở đây ngon và nhân viên khá thân thiện okeee",
+        "time": 1760686974,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Thu Thao",
+        "author_url": "https://www.google.com/maps/contrib/115429522740269742382/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcEh-DCKx8P5u7VzaH_R0CL32306lF2VwkNag1JIyp5Tx_Az8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cà phê ngon. Nhiều góc ngồi đẹp, dễ trò chuyện. Có tầng 2 có thể phù hợp với các bạn làm việc học tập.\nĐiểm không thích duy nhất là style decor tường gạch loang lổ giống một vài quán khác gây cảm giác cũ kĩ nhàm chán. Cứ tô trát bằng phẳng sơn xi măng đơn giản sẽ làm không gian quán văn minh hơn.",
+        "time": 1765813130,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115921172300658919023/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1vjAmf8rnNgirjltH2Zoj02P8vKLPz32noNKdVvzX9NaI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cà phê ở mức ổn. Không gian gọn gàng, khá thoáng, phù hợp ngồi trò chuyện hoặc làm việc nhẹ. View không quá đặc biệt nhưng dễ chịu.\nNước uống ổn, hương vị vừa miệng, trình bày đơn giản. Thời gian phục vụ nhanh, nhân viên lịch sự và thân thiện. Giá cả hợp lý so với mặt bằng chung.",
+        "time": 1767365826,
+        "translated": false
+      },
+      {
+        "author_name": "Trân Hồ",
+        "author_url": "https://www.google.com/maps/contrib/111725223332433691138/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvhjzX-NofmV3agckd4rbu6-HW1dg2FFzgqo7NKgvqKZy-VRTF=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán có cả bia buổi đêm mở đến 1h tối 👍👍\nCafe muối ngon\nTrang trí đẹp",
+        "time": 1764330305,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 129
+  },
+  "harvested_at": "2026-04-30T16:07:07.513234"
+}

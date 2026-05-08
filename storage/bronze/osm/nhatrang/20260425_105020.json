@@ -1,0 +1,28 @@
+[
+  {
+    "u_key": "b0befd90fc690bca",
+    "name": "Long Thanh Art Gallery",
+    "type": "gallery",
+    "city": "nhatrang",
+    "address": "Hoàng Văn Thụ",
+    "location": {
+      "lat": 12.2506272,
+      "lon": 109.1872613
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:50:20.120637"
+  },
+  {
+    "u_key": "2f5ab6e286954717",
+    "name": "Mai Loc Photo Gallery",
+    "type": "gallery",
+    "city": "nhatrang",
+    "address": "",
+    "location": {
+      "lat": 12.2344148,
+      "lon": 109.1946157
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:50:20.120637"
+  }
+]

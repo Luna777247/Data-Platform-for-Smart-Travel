@@ -1,0 +1,162 @@
+{
+  "u_key": "cd3b25720b8c97e8",
+  "original_osm_name": "Alley Cafe",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2348195,
+        "lng": 109.1935732
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2361675802915,
+          "lng": 109.1949190802915
+        },
+        "southwest": {
+          "lat": 12.2334696197085,
+          "lng": 109.1922211197085
+        }
+      }
+    },
+    "name": "Alley cat cafe food & drink",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0002"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:30–23:00",
+        "Thứ Năm: 10:30–23:00",
+        "Thứ Sáu: 10:00–00:02",
+        "Thứ Bảy: 10:00–01:00",
+        "Chủ Nhật: 10:00–00:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "이준 호",
+        "author_url": "https://www.google.com/maps/contrib/111923873140909979932/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZaUXDYs-e_MCj6DLxfAAUnX4rYBPZmi96TKm4OTYchG_FBg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "tuỵet",
+        "time": 1752158397,
+        "translated": false
+      },
+      {
+        "author_name": "Hien Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108490902068775309068/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjd8UhvU4zwZKpxskoSPwfpEZlmEaVgxoDHTvXY1BIgmu9eQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "trong tuần trước",
+        "text": "Cà phê ngon",
+        "time": 1777647315,
+        "translated": false
+      },
+      {
+        "author_name": "Vyysaigonese Hoang",
+        "author_url": "https://www.google.com/maps/contrib/100031344560409491191/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnu-3EJy8y1RE0VVBLgAuMabM76QKS_9uGLrwaIygcOjmhthr0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cảm nhận tốt 👍\nGiá đồ uống hợp lý\nKhông khí dễ chịu\nKhông quá ồn ào\nRất thoải mái và ấm cúng dù nằm ngay giữa trung tâm thành phố",
+        "time": 1765729023,
+        "translated": true
+      },
+      {
+        "author_name": "Александр Бомбицкий",
+        "author_url": "https://www.google.com/maps/contrib/106442726734881220818/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8axffhA6dQtT0tGCUmx1rC4YHvBNva1fK8UCRPHJexy83luam=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cà phê tuyệt vời, mọi thứ đều ngon. Tôi đặc biệt thích món salad cá ngừ. Theo tôi, đây là món salad ngon nhất ở Nha Trang. Rau tươi, hành muối chua và cá ngừ đóng hộp (đó chỉ là sở thích cá nhân của tôi thôi), nhưng có thể không phải ai cũng thích. Không khí tuyệt vời, mọi người thư giãn, và tất cả đều thân thiện và ấm cúng như gia đình. 👍🏻",
+        "time": 1767364246,
+        "translated": true
+      },
+      {
+        "author_name": "Rob",
+        "author_url": "https://www.google.com/maps/contrib/111042308371234525104/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm7PCPYzEJqGX9TEODVo09sflzptD_t7jVPQvTOyl6ZQeFXgAR=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán bar thể thao tuyệt vời với bia lạnh ngon, quản lý và nhân viên thân thiện. Đồ ăn đa dạng, có kèm ảnh thực đơn hiện tại.",
+        "time": 1721466076,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 49
+  },
+  "harvested_at": "2026-05-02T15:10:55.276489"
+}

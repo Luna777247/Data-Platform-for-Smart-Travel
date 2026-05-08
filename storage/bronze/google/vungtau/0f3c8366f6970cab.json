@@ -1,0 +1,109 @@
+{
+  "u_key": "0f3c8366f6970cab",
+  "original_osm_name": "Hoai An Hotel",
+  "google_raw": {
+    "formatted_phone_number": "0902 749 898",
+    "geometry": {
+      "location": {
+        "lat": 10.3331115,
+        "lng": 107.0871022
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3344208302915,
+          "lng": 107.0885014802915
+        },
+        "southwest": {
+          "lat": 10.3317228697085,
+          "lng": 107.0858035197085
+        }
+      }
+    },
+    "name": "Hotel Hoai Anh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Cham Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112080982585566684686/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG04dNB-t9iVNwW6IsS2R9x6FiclCrND5J1AAuZSewRNydiw=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khách sạn gần biển đi cũng tiện , chị chủ dễ tính\nGiá rẻ nhưng chất lượng phòng tệ\nphòng nhỏ, ẩm ( nên khi vào đã có quạt gió bật sẵn)\nga giường bị dính đốm nhỏ nhìn giống  máu( phải nhờ thay ga khác )\nbồn rửa mặt bị nghẹt nước chảy rất yếu ( chị chủ kêu sử dụng chỗ vòi sen đỡ) phải đi tới đi luôn lấy nước rất bất tiện",
+        "time": 1765946174,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/118336244990827903279/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnAJ1AqMDszuJBIUIFLecnnpI1umcsCGpnXx0E5xjI_nrvGQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Khách sạn rất gần bãi biển đi bộ rất tiện phòng sạch sẽ rất hài lòng hôm nay mình đi 4 người ở tầng 2 số p 304 nhất là chị chủ rất thân thiện dễ thương nha mọi người",
+        "time": 1760852111,
+        "translated": false
+      },
+      {
+        "author_name": "An Phạm",
+        "author_url": "https://www.google.com/maps/contrib/108678561472517464420/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2NNzwxHYLX49Uswl5LZHjY1XrrfblSNhiDfKiCfIqslJV98wQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Gần biển dễ đi lại, giá mềm cho các bạn sinh viên, chất lượng phòng hơi ẩm thấp và nhỏ đối phòng đơn.",
+        "time": 1760886049,
+        "translated": false
+      },
+      {
+        "author_name": "Vĩ Trần Tuấn",
+        "author_url": "https://www.google.com/maps/contrib/107324464100814969801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULzP0q8d7CM9R1wYCnI8-uxnpd4Zp3WZu4DFXFMCcZTKwbf2Kk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Khách sạn rất okie với giá cả. Chủ của khách sạn rất nhiệt tình và hỗ trợ khách lưu trú. Mình cần gì là chị chủ đều hỗ trợ, vị trí gần bãi sau nên rất thuận tiện di chuyển",
+        "time": 1753803817,
+        "translated": false
+      },
+      {
+        "author_name": "Nghĩa Nhân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106104946378460765596/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMshTGBXiX4O-VuV0R7A81qqMgZBJOFlBVT9FRE76bJ6BB1ww=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Khách sạn quá là OK hầu như là kh có chổ nào để chê hết❤️Cô chú thân thiện vui vẻ như người Thân ở trong nhà❤️",
+        "time": 1751279227,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 187
+  },
+  "harvested_at": "2026-05-03T19:43:13.956868"
+}

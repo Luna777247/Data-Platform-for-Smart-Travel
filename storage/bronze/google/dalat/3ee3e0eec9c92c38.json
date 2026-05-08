@@ -1,0 +1,174 @@
+{
+  "u_key": "3ee3e0eec9c92c38",
+  "original_osm_name": "Rio BBQ",
+  "google_raw": {
+    "formatted_phone_number": "0944 214 402",
+    "geometry": {
+      "location": {
+        "lat": 11.9470125,
+        "lng": 108.4406614
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9483634802915,
+          "lng": 108.4419639302915
+        },
+        "southwest": {
+          "lat": 11.9456655197085,
+          "lng": 108.4392659697085
+        }
+      }
+    },
+    "name": "RỤ - Quán Rượu Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:00–01:00",
+        "Thứ Ba: 16:00–01:00",
+        "Thứ Tư: 16:00–01:00",
+        "Thứ Năm: 16:00–01:00",
+        "Thứ Sáu: 16:00–01:00",
+        "Thứ Bảy: 16:00–01:00",
+        "Chủ Nhật: 16:00–01:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "My Trà",
+        "author_url": "https://www.google.com/maps/contrib/108358071260890729333/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9hzYZOiOl2t2-It1CT6Kah-Jd5csfL0tGPnOAipst4gVPdEaC=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ngay trung tâm, đồ ăn ngon, giá rẻ. Có DJ đánh nhạc khá vui. Nhân viên dể thương, nhanh nhẹn.\nQuán ra món khá nhanh, không cần phải đợi lâu ạ!\nNên đặt bàn trước khi đến nha. 💯",
+        "time": 1769610201,
+        "translated": false
+      },
+      {
+        "author_name": "Dũng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/118236718125552678243/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVb6AjOD-cNSBezlW8FQuXdpzC8DOy_IJtiVFxSi2idTAd-HwEr-Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán Rụ – một trong những điểm hẹn về đêm rất vui ở Đà Lạt\n\nQuán Rụ là địa điểm quen thuộc của giới trẻ Đà Lạt về đêm. Không gian quán luôn đông vui, nhộn nhịp, có nhạc mạnh tạo không khí cực kỳ sôi động. Đi vào là thấy năng lượng liền, rất hợp để đi cùng bạn bè và xả stress.\n\nĐồ ăn và nước uống ổn, phục vụ nhanh, không khí trong quán lúc nào cũng vui và thoải mái. Quán thu hút nhiều bạn trẻ lẫn du khách, nên cảm giác rất náo nhiệt, nhất là vào buổi tối và cuối tuần.\n\nÂm nhạc, ánh đèn và tiếng nói cười tạo nên một không gian đúng chất ăn chơi về đêm ở Đà Lạt. Nếu bạn muốn tìm một nơi để tụ tập, vui chơi và trải nghiệm nhịp sống trẻ của thành phố này thì Quán Rụ là lựa chọn đáng thử.\n\n— Hiệu Ảnh Cậu Dũng",
+        "time": 1765357465,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Free7ancer",
+        "author_url": "https://www.google.com/maps/contrib/100611861704539802679/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3gsLybQtP-KE6IBfqcW2sl6r-uwxpZK0ZuzEXT-83gSB8adC6aA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán rộng đẹp, đồ ăn ngon và lên rất nhanh. Giá cả trung tâm nhưng rất hợp lý.",
+        "time": 1764499716,
+        "translated": false
+      },
+      {
+        "author_name": "Janie Lin",
+        "author_url": "https://www.google.com/maps/contrib/105453601966727331257/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdQFqlre6b4neMwkKis5JYO9AIoQeJBiAc25bi1TeuP6mlOU-O8A=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "12/2025\n\nChỗ này vui nhaaaa!!! Náo nhiệt, ồn ào, đúng chất giới trẻ!!!\nMenu giá cả hợp lý, món ăn cũng ổn áp nè, nhâm nhi với rượu bia là đúng bài luôn.",
+        "time": 1765953102,
+        "translated": false
+      },
+      {
+        "author_name": "Công Luận",
+        "author_url": "https://www.google.com/maps/contrib/113802626257007595455/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHe-wKN-6777YZt4XWRnE0Xkuj7MDekiImMxBnraxLOQKzKnye=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn ngon, phục vụ nhanh, phù hợp với giá tiền. Sẽ quay lại lần nữa.",
+        "time": 1762864687,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1650
+  },
+  "harvested_at": "2026-04-30T16:04:37.778867"
+}

@@ -1,0 +1,109 @@
+{
+  "u_key": "56aaf21a58f1afd5",
+  "original_osm_name": "Khách Sạn Solaria Hà Nội",
+  "google_raw": {
+    "formatted_phone_number": "024 3926 3456",
+    "geometry": {
+      "location": {
+        "lat": 21.0301174,
+        "lng": 105.8504042
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03144908029151,
+          "lng": 105.8517658302915
+        },
+        "southwest": {
+          "lat": 21.0287511197085,
+          "lng": 105.8490678697085
+        }
+      }
+    },
+    "name": "Solaria Hotel Hanoi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Hải Linh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115107340673617879018/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkgh7Ll6n3-K52TdAAngUjVpUorJMoltNul58wzBCqNqoXCg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khách sạn rất gần phố cổ và có thể đi bộ ra hồ hoàn kiếm trong 2 phút",
+        "time": 1770984460,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn nghĩa",
+        "author_url": "https://www.google.com/maps/contrib/104255170440867537249/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvZS5q2qfhhsPb6TT53pR1Xb-AaQjA0yxQ3cEj0jcdUCIhbA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn rất Ngon và bạn phục vụ tên Hân rất dễ thương. Rất cảm ơn vì bữa tối tuyệt vời",
+        "time": 1761923862,
+        "translated": false
+      },
+      {
+        "author_name": "Hà An",
+        "author_url": "https://www.google.com/maps/contrib/113822072893310012131/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDvQ1TQRNX1Ug0XpDM4c3-tUc2M7dh7CvvHfaptgRxv-UgQPA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Một trải nghiệm lưu trú nhẹ nhàng, dễ chịu giữa lòng phố cổ Hà Nội.\n\nCác bạn nhân viên thân thiện, chuyên nghiệp, đặc biệt là lễ tân rất dễ thương và hướng dẫn chu đáo. Phòng sạch sẽ, gọn gàng, mọi thứ đều được chuẩn bị chỉn chu.\n\nVị trí khách sạn cực kỳ thuận tiện để đi dạo hồ và khám phá các địa điểm nổi tiếng quanh khu phố cổ - chỉ vài bước đi bộ là tới hồ Gươm.\n\nMột điểm cộng rất dễ thương nữa : món quà nhỏ tinh tế, cùng đồ chờ ngon lành khiến mình càng thêm ấn tượng.\nNếu có dịp quay lại Hà Nội, chắc chắn sẽ ghé lại đây lần nữa. 💛✨",
+        "time": 1754673012,
+        "translated": false
+      },
+      {
+        "author_name": "van anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112496108980563705385/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_vptvAbSAIrQmr4ERMjC28J5HLVZ4R-UCf8M9_3EluImlelxTRg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khách sạn nhỏ, nằm sát gần bờ hồ, nhà thờ lớn và nhiều chỗ ăn ngon. Phòng sạch sẽ, nội thất đẹp, không gian hẹp và hầu như không có cửa sổ. Đồ ăn sáng phong phú, chỉn chu",
+        "time": 1766754391,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115928236395095434867/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDQA7_rhpeBKvqnEhsRzV_pECo78WHoxaWQG0UZqVQaMEVUQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "đánh giá tốt vi chat luong cung nhu dich vu khien minh cam that kha thoai mai",
+        "time": 1762240528,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1618
+  },
+  "harvested_at": "2026-04-28T16:10:26.632686"
+}

@@ -1,0 +1,172 @@
+{
+  "u_key": "8c041f0ab93d9199",
+  "original_osm_name": "Greek Souvlaki",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2377955,
+        "lng": 109.1938344
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2391368802915,
+          "lng": 109.1951500302915
+        },
+        "southwest": {
+          "lat": 12.2364389197085,
+          "lng": 109.1924520697085
+        }
+      }
+    },
+    "name": "Greek Souvlaki Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–23:00",
+        "Thứ Ba: 09:30–23:00",
+        "Thứ Tư: 09:30–23:00",
+        "Thứ Năm: 09:30–23:00",
+        "Thứ Sáu: 09:30–23:00",
+        "Thứ Bảy: 09:30–23:00",
+        "Chủ Nhật: 09:30–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Dinh Trong Duy Tommy",
+        "author_url": "https://www.google.com/maps/contrib/103734337465415065928/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJgN_6ATv5JDJUccOo2ktRjYyZF4zUER1P_QGWD_IadEgFINRR=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán rộng rãi, sạch sẽ, trên tầng có khu máy lạnh.\n\nĐồ ăn  ngon, phù hợp với cả người Việt và khách nước ngoài. Giá cả hợp lý",
+        "time": 1769001130,
+        "translated": false
+      },
+      {
+        "author_name": "Viet Huong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/117149796413008100936/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNCfh2TsADEtCaAoAIt2oxsQRlW8J1NC-sO4_RPkUawYKVElF6=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán đồ Hy Lạp fast & simple. Mình ăn bánh wrap bò thì thấy vỏ bánh mềm, sốt tươi nhưng bò thì hơi dai và vị không ấn tượng. Không gian và phục vụ ok.",
+        "time": 1756517204,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Thuy",
+        "author_url": "https://www.google.com/maps/contrib/113304496775466878999/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-odmsqeZNB0yXCDILKdGekPKnRbGDH1Lv71RCKIDNoFv8ww=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Lướt kiếm quán ăn trên gg thì thấy quán này nên ghé ăn thử. Thấy đọc thì là đồ ăn của Hy Lạp nên mình ghé mua thử 1 cái gà wrap mang về. Bánh nóng, giòn, gà mềm và khoai Tây rất giòn nhé, dù trời mưa khá to nhưng độ nóng và ngon của bánh vẫn còn nguyên. Lần đầu ăn bánh của Hy Lạp rất vừa miệng, sẽ rủ gđ tới ăn những món khác của tiệm. Và bạn nhân viên tên Trâm cũng rất dth, bạn cũng recommend những món ngon của quán và từng loại sốt. dịp sau mình sẽ thử món bò wwrap. Trải nghiệm tuyệt vời khi du lịch ở nha trang",
+        "time": 1764775711,
+        "translated": false
+      },
+      {
+        "author_name": "Frédéric Bouchard",
+        "author_url": "https://www.google.com/maps/contrib/102917177490920557050/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF1GRF2JrQ7dFTbFB6She8EftMRGwYG2vMfNpNpXFe69W1lBHR=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "It's not complicated, this place is one of the best restaurants in Nha Trang. I must have been there at least 10 times. They're now in a new, super-beautiful location with beautiful traditional Greek decor and a second floor with air conditioning. Everything is pretty, tasty, and fresh! Don't go for imitations. This place is the original. Go, enjoy, and buy your cap. Soldiers of the Greek Slouvaki Legion, rise up!\n\nKhông phức tạp đâu, đây là một trong những nhà hàng ngon nhất ở Nha Trang. Tôi chắc chắn đã đến đó ít nhất 10 lần. Hiện tại, họ đang ở một địa điểm mới vô cùng đẹp với phong cách trang trí truyền thống Hy Lạp và tầng hai có máy lạnh. Mọi thứ đều đẹp, ngon và tươi! Đừng bắt chước. Nơi này là nơi đầu tiên. Hãy đến thưởng thức và mua mũ nhé. Những người lính của Quân đoàn Slouvaki Hy Lạp, hãy đứng lên!",
+        "time": 1747049456,
+        "translated": false
+      },
+      {
+        "author_name": "Nghia Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110974233279162847393/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJz9dTZOj9BzLWwY3gwHdasj6ugbT5_aSEv0iOS5fmHLPritg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán ngồi thoải mái\nNhân viên phục vụ rất nhiệt tình\nĐồ ăn ở đây luôn ngon, không có gì để chê.",
+        "time": 1756374607,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2560
+  },
+  "harvested_at": "2026-05-02T15:20:56.981793"
+}

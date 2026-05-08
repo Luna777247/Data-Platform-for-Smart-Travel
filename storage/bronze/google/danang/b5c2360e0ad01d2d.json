@@ -1,0 +1,173 @@
+{
+  "u_key": "b5c2360e0ad01d2d",
+  "original_osm_name": "Nhà hàng Solo",
+  "google_raw": {
+    "formatted_phone_number": "0986 201 541",
+    "geometry": {
+      "location": {
+        "lat": 15.8805641,
+        "lng": 108.3417626
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8819070802915,
+          "lng": 108.3431222802915
+        },
+        "southwest": {
+          "lat": 15.8792091197085,
+          "lng": 108.3404243197085
+        }
+      }
+    },
+    "name": "Solo Restaurant & Bar Hội An",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Camping gear HĐS (HDS_COPS)",
+        "author_url": "https://www.google.com/maps/contrib/114998622833534867283/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWr6sFw5mSw1ELT4poAyxjeghWQCqPv3082e5ohpgz-eX_i0NXXEQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Thức ăn ngon, đa dạng các món ăn và thức uống. Có menu Vegatarian  Phục vụ tại bàn chu đáo.",
+        "time": 1696934425,
+        "translated": false
+      },
+      {
+        "author_name": "Bui Dieu Hien",
+        "author_url": "https://www.google.com/maps/contrib/117539017612875775885/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX0-Jo02x7I9QuQAp8-IaD4p9ep5K1s7s0Rzraiy5NejmmCj0QIQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Điểm 10 không nhưng.. sẽ trở lại đây khi đến Hội An ! Đồ ăn ngon và nhân viên phục vụ dễ thương ghê !",
+        "time": 1708734748,
+        "translated": false
+      },
+      {
+        "author_name": "Seraphina Kim",
+        "author_url": "https://www.google.com/maps/contrib/107499502355943227442/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI260_5TWgCPbkaqyudGzxYX0zPohl-XzUfmbWsGpzmoNyRtQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Tôi đang tìm một nhà hàng gần chỗ ở của mình, và khi vừa bước vào, tôi đã cảm thấy như mình tìm được một viên ngọc quý. Chủ quán nói tiếng Anh trôi chảy và rất thân thiện. Trên hết, thức ăn rất sạch sẽ và ngon miệng. Mặc dù là một nhà hàng địa phương, tôi cảm thấy thức ăn ở đây ngon hơn cả những nơi đắt tiền hơn. Ngay cả dao dĩa và bát đĩa cũng được giữ rất sạch sẽ.",
+        "time": 1766476393,
+        "translated": true
+      },
+      {
+        "author_name": "Herbert Lachs",
+        "author_url": "https://www.google.com/maps/contrib/109598991498021387620/reviews",
+        "language": "vi",
+        "original_language": "de",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdG1-Z8uj90r30l6oCzcXtLjtu7HOfMZWJplIJbeaIQeyu5Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đầu tiên, chúng tôi gọi món Hoa Hồng Trắng, một đặc sản địa phương tuyệt vời gồm bánh gạo nhân tươi mới làm – có thể gọi là bánh mì dẹt làm từ bún gạo – rất ngon.\n\nSau đó, chúng tôi gọi hai món ăn nhẹ, nhiều rau củ khá giống nhau: thịt heo xào hạt điều và mì xào đậu phụ.\n\nNhư mọi khi, CÁCH THỨC chế biến rất quan trọng, đó là lý do tại sao việc chỉ xem thực đơn để chọn nhà hàng chỉ hữu ích một phần.\n\nThực đơn rất đa dạng; tôi gần như có thể nói rằng ở đây có món ăn cho tất cả mọi người.\n\nQuan trọng nhất, thức ăn rất ngon, và nhân viên vô cùng thân thiện và chu đáo. Chúng tôi đã đến đây trước đây, và chắc chắn đây không phải là lần cuối cùng!",
+        "time": 1768313428,
+        "translated": true
+      },
+      {
+        "author_name": "Sophie Roberts",
+        "author_url": "https://www.google.com/maps/contrib/106466216716470366106/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPm1xDwAxoxbb9A0_XMQ8jumnq1e-W9Jciy2cDdhqQ8_rtCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cao Lầu ngon nhất Việt Nam! Mình đã ăn ở đây rất nhiều lần rồi và lần nào cũng ngon tuyệt! Cô chủ quán cũng rất thân thiện và niềm nở! Rất khuyến khích nếu bạn ở Hội An! ☺️",
+        "time": 1764662950,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 201
+  },
+  "harvested_at": "2026-04-29T09:45:22.135926"
+}

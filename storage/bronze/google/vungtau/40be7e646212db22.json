@@ -1,0 +1,153 @@
+{
+  "u_key": "40be7e646212db22",
+  "original_osm_name": "Cao Su",
+  "google_raw": {
+    "formatted_phone_number": "0254 3881 964",
+    "geometry": {
+      "location": {
+        "lat": 10.6209312,
+        "lng": 107.2378407
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.6223051802915,
+          "lng": 107.2397781302915
+        },
+        "southwest": {
+          "lat": 10.6196072197085,
+          "lng": 107.2370801697085
+        }
+      }
+    },
+    "name": "Công ty Cổ phần Cao su Bà Rịa",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–16:00",
+        "Thứ Ba: 07:00–16:00",
+        "Thứ Tư: 07:00–16:00",
+        "Thứ Năm: 07:00–16:00",
+        "Thứ Sáu: 07:00–16:00",
+        "Thứ Bảy: Đóng cửa",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Phong Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112316523914074167411/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8ddL3FCJ_oJp2TdwLSMx68dKVvV-xa_CsBap3zQOzBIadBA24=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Gắn bó với nhiều thế hệ gia đình tôi và nhiều người dân sinh sống tại đây",
+        "time": 1562626226,
+        "translated": false
+      },
+      {
+        "author_name": "Tài Lê",
+        "author_url": "https://www.google.com/maps/contrib/108234121131401020058/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAzTPspvmWYiHT1J8lBR4V7XXzmPrh62ltgRib5xvz7SbVlHBQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Đường phố Khang trang, Sạch, đẹp.",
+        "time": 1584247651,
+        "translated": false
+      },
+      {
+        "author_name": "Top Hay",
+        "author_url": "https://www.google.com/maps/contrib/100450850554667811025/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9SPqPCB3h3BSD4r4_UGH5zImYfXyL67qC31kIHd6xtiHUqgs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Cao su bà rịa. Lừng lẫy một thời",
+        "time": 1567267042,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Đức Tâm Cang",
+        "author_url": "https://www.google.com/maps/contrib/105978206420098809323/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8zu5F8ww_GcKYus7_4akr4yG-wYB8zSissEdjsXxipcQJ_wo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Uy tin dat len hang dau",
+        "time": 1553239319,
+        "translated": false
+      },
+      {
+        "author_name": "nga nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104426147361161854029/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD19wkd8Smq2sxbGuTx90NsMNUAbHdQxAXtiEeqktE_oaG-bQb=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Tuyệt vời",
+        "time": 1644240041,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 24
+  },
+  "harvested_at": "2026-05-03T19:42:29.469752"
+}

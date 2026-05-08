@@ -1,0 +1,174 @@
+{
+  "u_key": "2499714621c7ac33",
+  "original_osm_name": "Tiem Mi Tau Cao",
+  "google_raw": {
+    "formatted_phone_number": "0263 3820 104",
+    "geometry": {
+      "location": {
+        "lat": 11.9473836,
+        "lng": 108.4355968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.94866768029151,
+          "lng": 108.4370215802915
+        },
+        "southwest": {
+          "lat": 11.9459697197085,
+          "lng": 108.4343236197085
+        }
+      }
+    },
+    "name": "Tiệm Mì Tàu Cao",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–19:00",
+        "Thứ Ba: 06:00–19:00",
+        "Thứ Tư: 06:00–19:00",
+        "Thứ Năm: 06:00–19:00",
+        "Thứ Sáu: 06:00–19:00",
+        "Thứ Bảy: 06:00–19:00",
+        "Chủ Nhật: 06:00–19:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Thuong Ly",
+        "author_url": "https://www.google.com/maps/contrib/118347119423687352153/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBWbVODe5JHpLUjU8_2diqWWXbrjiNy2mudC7OZ9bsKDFsjg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán mì yêu thích của tui.\nCác tô mì bưng ra bàn luôn nóng vừa đủ, nước lèo trong vắt, sợi mì trụng vừa chín (chưa bao giờ bị bở hay sông sống), các nguyên liệu đều tươi ngon kể cả ớt. Đối với người bị dị ứng bột ngọt, nước lèo ở đây tuyệt vời.\nGia đình chủ quán để tâm đến các khách, nói chuyện nhẹ nhàng.\nDù quán luôn đông nhưng mà nhà vệ sinh luôn sạch sẽ.\n♥️♥️♥️",
+        "time": 1770816097,
+        "translated": false
+      },
+      {
+        "author_name": "Cẩm Hồng Trần Thị",
+        "author_url": "https://www.google.com/maps/contrib/113038809965476956670/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnK7hNZSA7cCgK_xaanwVQMOIpL0LrxYw2cwTri006ciO010I=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ơi ngon nhe mọi người vô tình đi ngang ghé vô ăn . Mà ăn hết luôn rồi mới chụp hình",
+        "time": 1766672299,
+        "translated": false
+      },
+      {
+        "author_name": "Vuong Alex",
+        "author_url": "https://www.google.com/maps/contrib/116475926873031949101/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpXp5E02reBdlXXbp5mvGqEIVoiP8912EiPAJ6HSTIemFYPlxEHA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Tiệm mì lâu đời, nằm ngay mặt tiền đường dễ nhìn thấy. Quán sạch sẽ từ bàn ghế đến dụng cụ ăn uống.\n\nĐũa có 2 loại, đũa tre và đũa gỗ, đũa tre bik xơ khá nhiều ở đầu, quán nên đổi hết sang đũa gỗ sẽ nhìn thẩm mỹ hơn. Sate ngon không cay quá gắt, tiệm mì phục rau ăn kèm là xà lách (loại trộn dầu dấm).\n\nHoành thánh ngon, viên nhỏ, thịt xá xắt tay nhưng rất mỏng, ăn khá ngon, tép mỡ ăn kèm rất thơm, ngon, giòn không hôi mùi. Hủ tiếu khô mì khô khẩu vị vừa phải dễ ăn. Nước lèo thanh ngọt không phải dạng đậm đà, nên người nào ăn mặn sẽ thấy lạc.\n\nTiệm mì có ngồi ở dưới hoặc lên lầu, trên lầu rộng thoáng và nhiều bàn. Trà nóng trà đá ở đây ngon, đúng vị trà.\n\nCác cô chú phục vụ cũng khá nhanh nhẹn! Quán có nhận chuyển khoản và tiền mặt.\n\nToilet quán sạch sẽ. Chỗ đậu xe ít, đậu trên vỉa hè tầm 5 chiếc.",
+        "time": 1752239865,
+        "translated": false
+      },
+      {
+        "author_name": "Tiểu Myy Trần",
+        "author_url": "https://www.google.com/maps/contrib/113107250003359316024/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwo8_XnmxJFhcP0GDYAv6QRgNvodHqyILmf3PLFg5oYW3RCes=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nghe danh đã lâu nhma lần đầu mình mới ghé thì phải (?). Ấn tượng đầu tiên là quá đông đúc, ngồi phải ghép bàn tùm lum hết. Nhưng vấn đề là phục vụ thái độ, cảm thấy k quý trọng khách gì. Đông quá nên ăn kiểu lẹ lẹ rồi đi về á :))\nMì ăn bình thường, dở hơn mình ăn ở SG nữa, chắc tại phục vụ nên hết ngon. Haiz 1 lần cho biết rồi thôi",
+        "time": 1756805254,
+        "translated": false
+      },
+      {
+        "author_name": "Gia nguyen Dang",
+        "author_url": "https://www.google.com/maps/contrib/105516015923234025110/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsOM5eT5QrvFUXAmaDY-yCbtj_o2ScDRw6kX6hLX_e3Y2pwUQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Món hoành thánh thanh nhẹ, nước ngọt xương\nChấm cùng Sate xả + nước tương không cay và rất thơm",
+        "time": 1763314116,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1368
+  },
+  "harvested_at": "2026-04-30T14:53:52.061521"
+}

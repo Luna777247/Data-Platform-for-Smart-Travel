@@ -1,0 +1,89 @@
+{
+  "u_key": "c4cfa3927745aa0c",
+  "original_osm_name": "Nhà Hàng Chả Cá Văn Miếu",
+  "google_raw": {
+    "formatted_phone_number": "0915 755 393",
+    "geometry": {
+      "location": {
+        "lat": 21.0296883,
+        "lng": 105.8369445
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0310569802915,
+          "lng": 105.8382314302915
+        },
+        "southwest": {
+          "lat": 21.0283590197085,
+          "lng": 105.8355334697085
+        }
+      }
+    },
+    "name": "Chả Cá Văn Miếu",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Dung Nguyen manh",
+        "author_url": "https://www.google.com/maps/contrib/102375487496780430182/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUN0m1K457uT_DZqfZZTjsHqLSFC9t4QRfVflErFOIzGN1=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Món ăn không ngon.\nGiá đắt.\nKhông gian mát mẻ.",
+        "time": 1675698513,
+        "translated": false
+      },
+      {
+        "author_name": "hoang duong cong ty",
+        "author_url": "https://www.google.com/maps/contrib/100383761763795664002/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhXwTfOcelXPWhItt3Ooy5XUEDdKwTakD30nAsRfVOVcYQln-rwg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Nhà hàng mát mẻ, sạch sẽ, có chỗ đỗ xe.\nĐồ ăn tươi, trang trí bắt mắt.\nNhân viên thân thiện, vui vẻ, hoà đồng.",
+        "time": 1594180842,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Le Anh",
+        "author_url": "https://www.google.com/maps/contrib/116375978303613966167/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8ZYO-xpkw6ayH2S8Lpnr5kMmPJKohaGejpGggU4ME_ligheGA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Không gian hơi nhỏ hẹp, chả cá ngon, giá cả hợp lý, phục vụ tốt",
+        "time": 1673253324,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Dũng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103687079043456859262/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-Gftur1aiEtedjLO0IgBYLn2j560UD4xvN3H4PykdIIrmnaXu=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "đồ ăn 8/10\nthái độ 9/10",
+        "time": 1687747743,
+        "translated": false
+      },
+      {
+        "author_name": "Danh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115112322744084791007/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIEx_plZKDNfMRALQMH2-Kx6bGQ2A92h7y5ZiqZZMEF8Xxb58e=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Thức ăn ngon. Phục vụ tốt",
+        "time": 1650263715,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 14
+  },
+  "harvested_at": "2026-04-28T16:18:06.382363"
+}

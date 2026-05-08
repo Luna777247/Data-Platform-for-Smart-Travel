@@ -1,0 +1,244 @@
+{
+  "u_key": "138d529831c63309",
+  "original_osm_name": "Vị Quảng",
+  "google_raw": {
+    "formatted_phone_number": "024 3943 3962",
+    "geometry": {
+      "location": {
+        "lat": 21.0202397,
+        "lng": 105.854113
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0216691302915,
+          "lng": 105.8554929302915
+        },
+        "southwest": {
+          "lat": 21.0189711697085,
+          "lng": 105.8527949697085
+        }
+      }
+    },
+    "name": "Vị Quảng (Nhà hàng 13 năm tuổi)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–14:00, 17:00–21:00",
+        "Thứ Ba: 10:30–14:00, 17:00–21:00",
+        "Thứ Tư: 10:30–14:00, 17:00–21:00",
+        "Thứ Năm: 10:30–14:00, 17:00–21:00",
+        "Thứ Sáu: 10:30–14:00, 17:00–21:00",
+        "Thứ Bảy: 10:30–14:00, 17:00–21:00",
+        "Chủ Nhật: 10:30–14:00, 17:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Pilates by Kathy",
+        "author_url": "https://www.google.com/maps/contrib/101564879920641003763/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX17USdZwhiECtTbTUcLcnJkKPNTEXHLVRYH4sNSBcb0_fjFKol=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ăn tàm tạm, nhỏ xinh, vị cũng ko giống gốc Quảng lắm. Giá hợp lý trung bình khoảng 70-100k. Nhân viên phục vụ okie lah",
+        "time": 1768314616,
+        "translated": false
+      },
+      {
+        "author_name": "đỗ tố trinh",
+        "author_url": "https://www.google.com/maps/contrib/110063030022487526871/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCoEI30uln0j7Z74Cvd8YHaJINngx6Gq6QwK3WkXgsgetmFpA9tw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "đồ ăn ngon,quán sạch sẽ,trang trí đẹp mắt,nhân viên vui vẻ nhiệt tình",
+        "time": 1769948948,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Trang",
+        "author_url": "https://www.google.com/maps/contrib/102556999007419704801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmgLvrpRvTBTiOr2RA5LWptpGdlq15bRcCVMf0c1oY37jWiI8s=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ấm cúng, đồ ăn ok, đa dạng món. Nhân viên lịch sự và nhiệt tình nhé mn. Có thể cho vào list quán ạ",
+        "time": 1769752612,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Mai Nghiêm",
+        "author_url": "https://www.google.com/maps/contrib/118057985337639146807/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4pOXIPPKZssHmK-ONJjizxio5f6ZITws_HoSxRzs-kj1iSlJ65w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bánh tráng cuốn thịt heo ngon, thịt thơm rau tươi. Mình thử vài món khác như bánh nậm, bánh bèo đều ok. Bánh xèo vỏ hơi dày. Ăn trưa nên ăn sớm - giờ đông phục vụ rất lâu và ko gian trong nhà bị ồn. Mình đến sớm thì gọi nhanh hơn hẳn.",
+        "time": 1770882759,
+        "translated": false
+      },
+      {
+        "author_name": "Phạm Thuý Nga",
+        "author_url": "https://www.google.com/maps/contrib/102984364730276837252/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSkDTx_mPookfk5DZj7ygcO5rdy2opTJrnWJCZyU9mghr7Bft1FA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn mình thấy ok, giá hơi cao 1 chút nhưng ngon, sạch sẽ, không gian thoải mái dễ chịu.",
+        "time": 1765332682,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1973
+  },
+  "harvested_at": "2026-04-28T16:25:17.609137"
+}

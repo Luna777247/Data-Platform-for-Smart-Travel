@@ -1,0 +1,39 @@
+{
+  "u_key": "e3f5fea46029cb23",
+  "original_osm_name": "Nhà trọ Ngô Đình Tú",
+  "google_raw": {
+    "formatted_phone_number": "0935 901 147",
+    "geometry": {
+      "location": {
+        "lat": 16.0313915,
+        "lng": 108.2450712
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0326742802915,
+          "lng": 108.2464538302915
+        },
+        "southwest": {
+          "lat": 16.0299763197085,
+          "lng": 108.2437558697085
+        }
+      }
+    },
+    "name": "Phòng trọ đà nẵng",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Danh Văn",
+        "author_url": "https://www.google.com/maps/contrib/108739398430364902616/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJq9a11LOEaZKE4oJKQC7ccRL8yZd3jdyPbkYUK0zxjJTcolA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1665495612,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-28T16:35:44.926684"
+}

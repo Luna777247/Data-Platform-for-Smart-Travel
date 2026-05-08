@@ -1,0 +1,173 @@
+{
+  "u_key": "a5a4793cf44c0fbe",
+  "original_osm_name": "Long Ga Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0395 575 138",
+    "geometry": {
+      "location": {
+        "lat": 12.2047769,
+        "lng": 109.2026951
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2061264802915,
+          "lng": 109.2040411302915
+        },
+        "southwest": {
+          "lat": 12.2034285197085,
+          "lng": 109.2013431697085
+        }
+      }
+    },
+    "name": "Quán Cơm Gà Hoa Long",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–13:00",
+        "Thứ Ba: 06:00–13:00",
+        "Thứ Tư: 06:00–13:00",
+        "Thứ Năm: 06:00–13:00",
+        "Thứ Sáu: 06:00–13:00",
+        "Thứ Bảy: 06:00–13:00",
+        "Chủ Nhật: 06:00–13:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Tuấn Minh Bùi",
+        "author_url": "https://www.google.com/maps/contrib/113215523344405118061/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJW6I2npCw21LLGKO2rTwdssSDRBgNSnpN9RupOfBIYOa-1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tuyệt vời, quán bán từ 5h sáng đến 1h chiều. Mình ghé tầm 12h trưa thì có một số món hết, nhưng vẫn còn cơm gà. Sẽ ghé lại",
+        "time": 1770904066,
+        "translated": false
+      },
+      {
+        "author_name": "ba thanh Lam",
+        "author_url": "https://www.google.com/maps/contrib/103254191830227107061/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7nbloX3vezTNgiY_tdW7FgkjhrMlwfV_k3QJiF5oDo9Mv_zs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Hạt gạo rất ngon, chén canh cũng đặc biệt chất lượng. Giá quá ok. Quán có cơm sườn và cơm gà",
+        "time": 1669435117,
+        "translated": false
+      },
+      {
+        "author_name": "Nhà Hàng Seaside",
+        "author_url": "https://www.google.com/maps/contrib/115031555902302680803/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJS09gxTu1NQNBYF1db8ZEFE9UZFvPxqL1qGzhVZ_SXO3VyAw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, chất lượng, có hỗ trợ đoàn trên 12 khách. Tuyệt vời",
+        "time": 1731030620,
+        "translated": false
+      },
+      {
+        "author_name": "Phú Bằng Trương",
+        "author_url": "https://www.google.com/maps/contrib/111628244846927948303/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrUTRGGM0h96Q8Izrb_jSjkmwiAWYf1MGaihU4tZ0v4_2bHA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian thoáng, rộng rãi.\nKhông khí vui vẻ\nĐồ ăn ngon, rẻ, hợp khẩu vị\nDịch vụ tốt\n-> đáng ghé ăn thưởng",
+        "time": 1721966743,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Nguyên Khôi Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/108115262304400786202/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXc_KUig3DiBxlgHM49a7Mniv0-WBPMPlJTAw-NBXSiDQZIkVw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "đồ ăn ngon đến mức không còn từ nào miêu tả được, từ nước sốt cho đến từng miếng thịt trong cơm tạo nên hương vị đậm đà ạ. Tuyệt vời.",
+        "time": 1675436648,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 28
+  },
+  "harvested_at": "2026-05-02T15:11:42.090994"
+}

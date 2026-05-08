@@ -1,0 +1,173 @@
+{
+  "u_key": "7705ee9b845b1597",
+  "original_osm_name": "Quán Bar Hồ Mây",
+  "google_raw": {
+    "formatted_phone_number": "0325 184 605",
+    "geometry": {
+      "location": {
+        "lat": 10.3573064,
+        "lng": 107.073518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3586571302915,
+          "lng": 107.0748635802915
+        },
+        "southwest": {
+          "lat": 10.3559591697085,
+          "lng": 107.0721656197085
+        }
+      }
+    },
+    "name": "MAY Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 18:00–00:00",
+        "Thứ Ba: 18:00–00:00",
+        "Thứ Tư: 18:00–00:00",
+        "Thứ Năm: 18:00–00:00",
+        "Thứ Sáu: 18:00–00:00",
+        "Thứ Bảy: 18:00–00:00",
+        "Chủ Nhật: 18:00–00:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Tiên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109738992436832805152/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3UKpf1eqjPu4uJFk6pvW5RJrCKlIoC40UwXBBVbfUkBGYAkVeBA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không gian thoáng mát, nhân viên thân thiện, Lạp xưởng ngon nha. Chả mực nhấm chung Bia Me tuyệt vời.",
+        "time": 1762411108,
+        "translated": false
+      },
+      {
+        "author_name": "Vy Huynh",
+        "author_url": "https://www.google.com/maps/contrib/100344063928537681678/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZfBIYwtCVA3ymEh6tRfv1GhlMaiOFUTsjkuQhIh1bIyBakw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian quán rất thoải mái yên tĩnh\nQuán có ly nước pink May ngon tôi rất thích về ly nước này\nĐồ ăn tôi thấy món lạp xưởng rất ngon\nNhân viên nói chuyện dễ thương phục vụ rất chu đáo",
+        "time": 1766859850,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán vibe chill, nhạc jazz nhẹ nhàng.\nBia me vị chua ngọt dễ uống.",
+        "time": 1766330420,
+        "translated": false
+      },
+      {
+        "author_name": "Bùi Đoàn Lâm Oanh",
+        "author_url": "https://www.google.com/maps/contrib/100750255806283007237/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFip1dWvDZRtaZgZ1LBMhx4VFtuI0MZADUEIru652KHH3OuGe_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán xinh, view đẹp và dịch vụ siêu tốt. Chủ quán lẫn nhân viên đều đáng iu hết nước chấm, nước ngon nhe.",
+        "time": 1771262590,
+        "translated": false
+      },
+      {
+        "author_name": "Hậu Thanh",
+        "author_url": "https://www.google.com/maps/contrib/116620359425712161063/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeKR6zlyvXbRwnoQgo-8FyXG0N8M2S85oIYKHjgGRHCKslDWw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "thêm một điểm check-in cho những bạn có tâm hồn lãng mạng nhé..\nMAY BAR.. không gian 10₫, món ăn chất lượng nhé, ngon 10₫.. thích nhất là gu nhạc Trịnh 10₫..\ncuối cùng là beer và món pha chế ngon tuyệt..",
+        "time": 1756298945,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 121
+  },
+  "harvested_at": "2026-05-03T19:50:19.682912"
+}

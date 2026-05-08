@@ -1,0 +1,173 @@
+{
+  "u_key": "5669129ec8b701eb",
+  "original_osm_name": "Long Hoa Vegetarian",
+  "google_raw": {
+    "formatted_phone_number": "0905 003 639",
+    "geometry": {
+      "location": {
+        "lat": 16.0703791,
+        "lng": 108.1511974
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0716974802915,
+          "lng": 108.1525120802915
+        },
+        "southwest": {
+          "lat": 16.0689995197085,
+          "lng": 108.1498141197085
+        }
+      }
+    },
+    "name": "Quán chay Long Hoa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–21:00",
+        "Thứ Ba: 06:30–21:00",
+        "Thứ Tư: 06:30–21:00",
+        "Thứ Năm: 06:30–21:00",
+        "Thứ Sáu: 06:30–21:00",
+        "Thứ Bảy: 06:30–21:00",
+        "Chủ Nhật: 06:30–21:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "CU BI TIVI",
+        "author_url": "https://www.google.com/maps/contrib/110391104537016521765/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQlT7bmjIWj5crT6Qmhqdax-YscYtiV4lN0Ox0Oby2Bo-nSQM=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhìn bếp dơ - ăn đĩa cơm 40k - xin theme 4 cộng rau tính thêm 3 ngàn, mặt người bán cơm hằm hằm  , hằng chi bán chay làm giàu…. A di đà phật - tạm biệt",
+        "time": 1764655008,
+        "translated": false
+      },
+      {
+        "author_name": "Thi Truong",
+        "author_url": "https://www.google.com/maps/contrib/105492416737407836439/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLDYah1nirzQKsn2IobAWcSMYDgJc79Mri5koLHKYEfbJ4cUbu=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán bình dân, đồng giá 20.000-22.000đ, có nước lọc miễn phí. Có chỗ để xe rộng rãi trước cửa.\nQuán sạch sẽ, không gian khoảng 10 bàn xếp không quá gần nhau nên cũng thoải mái.\nCác món ở đây nêm nếm ngon, bắt mắt, phần ăn nhiều, chắc bụng.\nNên ghé ủng hộ nhen.",
+        "time": 1741572221,
+        "translated": false
+      },
+      {
+        "author_name": "Hùng Nguyễn Như",
+        "author_url": "https://www.google.com/maps/contrib/103321922124753249116/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDr6mB4aNNGruR877x5QnCNrcnG9wUwmPYoZbfUz91mZ0OLsQ9aA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán chay rất ngon, đi 2 ng có lẩu 2 người, ổ bánh mì 12k ăn ngon. Phục vụ nhanh, chỗ đậu xe ok.. ăn chay thì không thể bỏ qua địa điểm này, rất hài lòng.",
+        "time": 1706179592,
+        "translated": false
+      },
+      {
+        "author_name": "Tri Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112654636537888621489/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEDzySD-FSyz2wN1bmDWLpF0iZJwQ58vJ5TFWW3CEhy7krq7g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, phục vụ nhanh. Các cô vui tính và rất dễ thương. Giá cả bình dân và thực đơn phong phú, sẽ ghé lại nhiều lần.",
+        "time": 1767433297,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Bich",
+        "author_url": "https://www.google.com/maps/contrib/100155779414053798908/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnP_S6hJmqRPalM6SVdkcbvZDnvrjqyJh0L1De81ZqF_mZWRuc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Vừa ăn vừa rẻ , chỗ để xe thoải mái , nhiều lựa chọn món , có wifi cho khách dùng",
+        "time": 1726473173,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 198
+  },
+  "harvested_at": "2026-04-29T09:56:35.591248"
+}

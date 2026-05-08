@@ -1,0 +1,173 @@
+{
+  "u_key": "3518ccc813e0f0ea",
+  "original_osm_name": "Uni Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0968 625 279",
+    "geometry": {
+      "location": {
+        "lat": 11.9265409,
+        "lng": 108.4337943
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9278609302915,
+          "lng": 108.4350753302915
+        },
+        "southwest": {
+          "lat": 11.9251629697085,
+          "lng": 108.4323773697085
+        }
+      }
+    },
+    "name": "Coffe UNI",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–21:30",
+        "Thứ Ba: 06:30–21:30",
+        "Thứ Tư: 06:30–21:30",
+        "Thứ Năm: 06:30–21:30",
+        "Thứ Sáu: 06:30–21:30",
+        "Thứ Bảy: 06:30–21:30",
+        "Chủ Nhật: 06:30–21:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Quang Đình",
+        "author_url": "https://www.google.com/maps/contrib/101395838101347725652/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzdI_W47EXdTAZuSDrmApFjeBYk8MhFC-CTNxZ-qBWs_e7ZFM7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cà phê ngon, cảnh đẹp. Cô chú siêu dễ thương",
+        "time": 1761451632,
+        "translated": false
+      },
+      {
+        "author_name": "Vy Trần",
+        "author_url": "https://www.google.com/maps/contrib/102968518929605351242/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrYkxg8R31OUxSMUh-iZbLv9ZMycTdy9qKzoWHfCXi4G4Jsky3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cà phê ngon\nGiá cả phù hợp\nMọi người nên ghé nhà không gian yên tĩnh",
+        "time": 1761451760,
+        "translated": false
+      },
+      {
+        "author_name": "MinhHieu Doan",
+        "author_url": "https://www.google.com/maps/contrib/103693092199242848486/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLFkfscFXTsXVLJ3UV1yNoXNfNf-o94phHqnBVF7PuF9zq-t5o=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Cf ngon. Cô chủ dễ thương hiếu khách",
+        "time": 1751353733,
+        "translated": false
+      },
+      {
+        "author_name": "cuc nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109919388210929736163/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQBXBK1uey304JSa-NbxgtETjzfUDwqQdGGaZ8zTxv3-IOLWw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán đẹp, thoái mái, đồ uống ngon. Chị chủ rất dễ thương, nhiệt tình.",
+        "time": 1671938315,
+        "translated": false
+      },
+      {
+        "author_name": "Tuan Dang",
+        "author_url": "https://www.google.com/maps/contrib/117391076187594706943/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4AfIkOquLwDjjgRRp0rmGkwpM3JNTLuozt8P7kaebLDiiOmapNg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cà phê ngon, chị chủ thân thiện",
+        "time": 1697188263,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 17
+  },
+  "harvested_at": "2026-04-30T15:07:59.914746"
+}

@@ -1,0 +1,64 @@
+{
+  "u_key": "38d52d4c260de7e4",
+  "original_osm_name": "Perfume Grass Inn",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2358916,
+        "lng": 109.1950853
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2372683802915,
+          "lng": 109.1966549802915
+        },
+        "southwest": {
+          "lat": 12.2345704197085,
+          "lng": 109.1939570197085
+        }
+      }
+    },
+    "name": "Perfume Grass Inn",
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Phú Ngô Sĩ",
+        "author_url": "https://www.google.com/maps/contrib/108581290437539550525/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWshzLf8_P2cqgom_pzYptSQi6za9JEhdhGIDafD-1a3RL40xc=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "sạch đẹp",
+        "time": 1476435932,
+        "translated": false
+      },
+      {
+        "author_name": "Hien Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108490902068775309068/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjd8UhvU4zwZKpxskoSPwfpEZlmEaVgxoDHTvXY1BIgmu9eQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "trong tuần trước",
+        "text": "Bình thường",
+        "time": 1777697872,
+        "translated": false
+      },
+      {
+        "author_name": "张zm",
+        "author_url": "https://www.google.com/maps/contrib/100571493990140442148/reviews",
+        "language": "vi",
+        "original_language": "zh",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbfuE-lOtkXgpDn8GsM87LrmdkwiUbL1LvvESayQHQcD_EOA=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "11 năm trước",
+        "text": "Một khách sạn gia đình rất ấm cúng.",
+        "time": 1425824091,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-05-02T15:08:42.598546"
+}

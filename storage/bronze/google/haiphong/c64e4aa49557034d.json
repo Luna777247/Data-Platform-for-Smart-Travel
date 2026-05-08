@@ -1,0 +1,83 @@
+{
+  "u_key": "c64e4aa49557034d",
+  "original_osm_name": "Hoa’s House",
+  "google_raw": {
+    "formatted_phone_number": "0225 3763 284",
+    "geometry": {
+      "location": {
+        "lat": 20.8360848,
+        "lng": 106.6863379
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8374256302915,
+          "lng": 106.6876920302915
+        },
+        "southwest": {
+          "lat": 20.8347276697085,
+          "lng": 106.6849940697085
+        }
+      }
+    },
+    "name": "Hoa Sua Guest House",
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Mạnh Ng",
+        "author_url": "https://www.google.com/maps/contrib/105213734166758291232/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-vLXQ0EY7SN0i0gK5ndHZ7x3y_UHF_eeSa_GiWGNlaAGbwQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "dịch vụ khá tốt",
+        "time": 1474692422,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Thắng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113196922913967720614/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCDGM9zTv5CNaQDPYUZFKXrBZB0dOqk7YaJnpUlF4QGV3OnmaChQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Tạm được",
+        "time": 1496675343,
+        "translated": false
+      },
+      {
+        "author_name": "Luffy Monkey D.",
+        "author_url": "https://www.google.com/maps/contrib/104769841615501957311/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUf7N2OiOGcqcYyialwwk0lE_se2XGqWp58eMoxECSrJsERhFH=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1570583025,
+        "translated": false
+      },
+      {
+        "author_name": "Thắng Nguyễn Toàn",
+        "author_url": "https://www.google.com/maps/contrib/115055933977257445366/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkw4gI8XeqG-z7GeFSBtsOpAM2FZ3loVIik4XyIILSYC1XyvuZwg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1569102800,
+        "translated": false
+      },
+      {
+        "author_name": "Toan Thang Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107703108335405726802/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUPGHYS0Mr0LjLoJEWfVsFmtP000YNQCCUelu4htII53FMLRpA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1559929104,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 8
+  },
+  "harvested_at": "2026-04-30T15:20:26.952550"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "bd0467bfd314ac7a",
+  "original_osm_name": "Miss Ly",
+  "google_raw": {
+    "formatted_phone_number": "0905 234 864",
+    "geometry": {
+      "location": {
+        "lat": 15.8778065,
+        "lng": 108.3311896
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8791581302915,
+          "lng": 108.3325651302915
+        },
+        "southwest": {
+          "lat": 15.8764601697085,
+          "lng": 108.3298671697085
+        }
+      }
+    },
+    "name": "Miss Ly",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–22:00",
+        "Thứ Ba: 11:00–22:00",
+        "Thứ Tư: 11:00–22:00",
+        "Thứ Năm: 11:00–22:00",
+        "Thứ Sáu: 11:00–22:00",
+        "Thứ Bảy: 11:00–22:00",
+        "Chủ Nhật: 11:00–22:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Black Arm",
+        "author_url": "https://www.google.com/maps/contrib/108206441903656496715/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuE37db9geDj9w3RST9eY_tXec54V3GJw7irldX7ZZTgZ98HI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn của quán rất là tươi, ngon, người đầu bếp rất chú ý đến hương vị của mòn ăn, đầu bếp rất chăm chú tới mỗi lần thực hiện món ăn, và ra món. Mình cho rằng nếu một người thực sự có tâm với thứ mình làm, cũng  sẽ làm như thế",
+        "time": 1684518102,
+        "translated": false
+      },
+      {
+        "author_name": "Huyen Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/116716867109111677047/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdu89FRiMSj0WYcKXYuQgKqaHtc5eGPi5Co02CztzwJWkpcg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Sạch và ngon đúng cơm việt nam phục vụ tốt , cảm ơn bà chủ tự tay nấu",
+        "time": 1765259527,
+        "translated": false
+      },
+      {
+        "author_name": "Bùi Tương",
+        "author_url": "https://www.google.com/maps/contrib/111124367475677722291/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwZTpZlP0QtbdMTVNQVNBIuSiXE9Cni6d2l8bXRjn_Y104JHiu=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Sau lần 3 quay lại thì giá đã giảm so với trước\nKhông gian được tân trang lại mới và sạch sẽ\nThêm nhiều món mới lạ vẫn giữ đc đặc trưng vùng miền\nBà cụ chủ nhà vẫn khoẻ mạnh thân thiện kể chuyện.",
+        "time": 1668494835,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Nguyễn Phương",
+        "author_url": "https://www.google.com/maps/contrib/107737185634533579799/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8jNn5HvH41CqCectQggo9vHZocO-2HBBedusO36Q-S-RGDNiRYw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn rất ngon, đặc biệt là cao lầu. Quán giữa phố cổ nhưng giá cả hợp lý. Nhân viên phục vụ thân thiện, dễ thương :>",
+        "time": 1688880785,
+        "translated": false
+      },
+      {
+        "author_name": "Trinh Nguyễn Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/107833211857973425356/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVz0st6_fwOILDJ-z4-XZSJe84Ssjssg0YPMfeEV46AShE6Znw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Nhà hàng sạch se, thức ăn ngon đáng thử",
+        "time": 1761463753,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3568
+  },
+  "harvested_at": "2026-04-29T09:38:45.705945"
+}

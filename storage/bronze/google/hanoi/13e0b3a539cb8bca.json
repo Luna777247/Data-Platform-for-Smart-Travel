@@ -1,0 +1,173 @@
+{
+  "u_key": "13e0b3a539cb8bca",
+  "original_osm_name": "Cà Phê Nga",
+  "google_raw": {
+    "formatted_phone_number": "0986 356 301",
+    "geometry": {
+      "location": {
+        "lat": 21.0240121,
+        "lng": 105.8208267
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.02542658029151,
+          "lng": 105.8221128302915
+        },
+        "southwest": {
+          "lat": 21.0227286197085,
+          "lng": 105.8194148697085
+        }
+      }
+    },
+    "name": "Ngáo Cafe & Homestay",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Linh Pham",
+        "author_url": "https://www.google.com/maps/contrib/112638906123097518811/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6Av2KLI0nU8bYq0bqnr2PCZk2L4VLEQlbnDL8mHzJxveWwBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Phòng rộng rãi và rất sạch sẽ, không gian thoáng, ở khu vực an ninh tốt nên ở rất yên tâm. Nhân viên hỗ trợ rất nhiệt tình từ tư vấn ở fanpage đến hết thời gian lưu trú. Cực thích khu vực ban công ở đây và sẽ còn quay lại nếu có dịp.",
+        "time": 1769924150,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Lê",
+        "author_url": "https://www.google.com/maps/contrib/106421388021757698829/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsLytyPdUoAvEdUEiZegwUmB5DHnu1EhEfJG8fTn_hIdQD4A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bạc sỉu hơi ngọt, nhưng vẫn ok. Mìn ở home nên xuống tầng 1 cafe chờ check in. Điểm cộng tiyeetj vời là nhân viên ở đây rata ngoan và thân thiện.",
+        "time": 1765187963,
+        "translated": false
+      },
+      {
+        "author_name": "Phạm Quang Huy (TQ21)",
+        "author_url": "https://www.google.com/maps/contrib/105706320605034544955/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWb_J7MudQ5-GO--xgD150aCBiGfxjfLDpQhcCufUkr-6L6ssPB=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán thoải mái. Chủ quán nhây vui tính. Để xe rộng.",
+        "time": 1770476171,
+        "translated": false
+      },
+      {
+        "author_name": "Nga Phạm",
+        "author_url": "https://www.google.com/maps/contrib/101097448574130093997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJlAhNEoz8p-T87I1xlKMV0uYUrnI7DzkdbPon8hq3hBMuv6Y=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ngao coffee là một không gian tuyệt vời để bạn thư giãn và thưởng thức những ly cà phê chất lượng. Quán có thiết kế độc đáo, pha trộn giữa nét mộc mạc và hiện đại, tạo cảm giác thoải mái và dễ chịu. Các loại cà phê ở đây được rang xay và pha chế tỉ mỉ, mang đến hương vị đậm đà, thơm ngon. Dịch vụ khách hàng thân thiện và nhanh nhẹn. Ngao coffee là điểm đến lý tưởng cho những người yêu cà phê. Để làm cho không gian quán thêm phần sinh động và tương tác, Ngao coffee có thể tích hợp Tuneast. Tuneast cho phép tạo không gian nhạc riêng, khách hàng có thể chọn bài hát yêu thích và gửi lời nhắn, tạo nên một bầu không khí vui vẻ và cá nhân hóa.",
+        "time": 1770244239,
+        "translated": false
+      },
+      {
+        "author_name": "An My",
+        "author_url": "https://www.google.com/maps/contrib/112338774403432511432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzjsmscvVoxY47O8AKp6-poTXyjEpgcN9E2kj2ZYy4Ud5FFqk=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ngao coffee tại ngõ Giảng Võ mang đến một không gian ấm cúng, yên tĩnh và rất riêng tư, là điểm đến lý tưởng cho những ai muốn tìm một góc nhỏ để thư giãn hay làm việc. Quán được bài trí đơn giản nhưng tinh tế, tạo cảm giác thoải mái và dễ chịu. Đồ uống ở đây rất chất lượng, đặc biệt là các loại cà phê được pha chế với hương vị đậm đà, thơm ngon, mang đến trải nghiệm tuyệt vời cho những người yêu cà phê. Ngoài ra, quán cũng có nhiều lựa chọn đồ uống khác rất hấp dẫn. Dịch vụ tại Ngao coffee rất chu đáo và thân thiện, nhân viên luôn lắng nghe và đáp ứng nhu cầu của khách hàng. Để làm phong phú thêm trải nghiệm tại quán, Ngao coffee có thể nghĩ đến việc sử dụng Tuneast. Điều này sẽ giúp khách hàng có thể lựa chọn những bản nhạc yêu thích, tạo nên một không gian âm nhạc thư thái và cá nhân hóa hơn.",
+        "time": 1770886188,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 180
+  },
+  "harvested_at": "2026-04-27T19:58:12.702358"
+}

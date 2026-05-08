@@ -1,0 +1,163 @@
+{
+  "u_key": "520755fb4c7f42c7",
+  "original_osm_name": "Quán Cầm",
+  "google_raw": {
+    "formatted_phone_number": "0822 646 482",
+    "geometry": {
+      "location": {
+        "lat": 21.0190275,
+        "lng": 105.843653
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0202803802915,
+          "lng": 105.8449965302915
+        },
+        "southwest": {
+          "lat": 21.0175824197085,
+          "lng": 105.8422985697085
+        }
+      }
+    },
+    "name": "Quán Cầm",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 09:00–21:30",
+        "Thứ Tư: 09:00–21:30",
+        "Thứ Năm: 09:00–21:30",
+        "Thứ Sáu: 09:00–21:30",
+        "Thứ Bảy: 09:00–21:30",
+        "Chủ Nhật: 09:00–21:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Hien Phuong",
+        "author_url": "https://www.google.com/maps/contrib/105171569525926594069/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6oRiLoT91YjpaW92_eSo3JoHtTAJ8Pa_V3EA0m2qqyRTKvG1uzg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Lần đầu đến Cầm nhưng cảm nhận được nét quen thuộc, đáng yêu, có gu và rất Cầm.\nĐồ uống ổn, nhân viên nhiệt tình.\nKhông gian phù hợp cho cả ngồi làm việc, ngồi trò chuyện với bạn bè hay ngồi tự thưởng một mình.\nNhạc cũ và dùng máy thu cũ.\nNhững câu chuyện cũ.\nNhững câu chuyện mới.\nNgười trẻ, người trung tuổi.\nĐều rất hợp.\nGửi xe bên 35 Trần Bình Trọng, phí 10k/xe, khách của quán được quán hỗ trợ 5k.\nLối vào nho nhỏ, lên tầng cầu thang cũ, nhưng đầy chất riêng của quán.\n\nMột nơi đáng yêu để có những lần sau quay lại.",
+        "time": 1768729410,
+        "translated": false
+      },
+      {
+        "author_name": "Kiệt Lê",
+        "author_url": "https://www.google.com/maps/contrib/115331462758578214830/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWSKucqk6je23aIcjiDoKdYA8oXlXvWOEF8wBgO7KYxCiZ7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ uống tạm, không gian quán thực sự đẹp và trang trí các món đồ khá cổ như radio, sách, piano… Quán rất yên tĩnh nên có thể chỉ phù hợp để làm việc, học tập. À điểm trừ sẽ là gửi xe ngoài nhưng sẽ được quán hỗ trợ tiền nhé!!!",
+        "time": 1771690827,
+        "translated": false
+      },
+      {
+        "author_name": "Thúy Diễm",
+        "author_url": "https://www.google.com/maps/contrib/115630274115844781331/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfpzbpFEtB1_JRcoBZ4_HfE1v9Xg0E29TAEHZOwjIN9N0v1lb9=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian nghệ sĩ, vintage, cute, quán tổ chức sự kiện văn hóa indie hay. Đồ uống thì bình thường thôi, nhưng chắc mọi người sẽ hay thích ghé lại.",
+        "time": 1772005690,
+        "translated": false
+      },
+      {
+        "author_name": "Bê Linh",
+        "author_url": "https://www.google.com/maps/contrib/110126943051474874105/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgg-9DhKvQKnzne9qygo2jpN6UwQrQePZ4jX3XJdmkGszAj_j7=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán thực sự xinh lắm luôn ý 😭 mê cái sự vintage mà vẫn đáng iu này. Mọi thứ với mình đều 😯😯😯 mình gọi cả nước cả đồ ăn nha, mình thấy nước bth, có matcha latte pha ngon điên lên được, kiểu nó đậm vị trà sau nó sẽ có vị ngọt 🥰 mê đến h vẫn nhớ cái vị đó. Tuy nhiên điểm trừ là gọi đồ ra lâu nha 🥲 dù quán vắng khách, nhưng lúc đồ ra thì cũng hiểu các bạn trang trí cẩn thận từng tí vì đồ ăn cũng khá là xinh ý, và ăn cũng ngon 😅 quán cũng có cả bàn to bàn nhỏ khác nhau, có cả board game cho mọi người chơi nữa cơ.\nGửi xe ở đây phải đi ra ngoài một đoạn nha chứ chỗ đến quán cũng nhỏ",
+        "time": 1765374448,
+        "translated": false
+      },
+      {
+        "author_name": "Tuyết Trúc Mai",
+        "author_url": "https://www.google.com/maps/contrib/116914107247449353744/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpF_n5NiXITQ_lo7dtq_EeX0rcsCfNgGICqw3iNPUPro_cgVE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quá dễ thương, đến quán vào chiều đầu xuân, lạnh gió trời nhưng không gian ấm áp.\nĐược nghe a nhân viên (hoặc chủ) hát cho nghe siêu hay, có dịp sẽ quay lại 💕",
+        "time": 1767445947,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 469
+  },
+  "harvested_at": "2026-04-27T19:58:11.038063"
+}

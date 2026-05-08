@@ -1,0 +1,89 @@
+{
+  "u_key": "b2f380871d3a16cb",
+  "original_osm_name": "Nhật Hải",
+  "google_raw": {
+    "formatted_phone_number": "0254 3522 492",
+    "geometry": {
+      "location": {
+        "lat": 10.3367823,
+        "lng": 107.0906113
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3381050302915,
+          "lng": 107.0919447802915
+        },
+        "southwest": {
+          "lat": 10.3354070697085,
+          "lng": 107.0892468197085
+        }
+      }
+    },
+    "name": "Nhà nghỉ Nhật Hải",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "thinh dang van",
+        "author_url": "https://www.google.com/maps/contrib/118150280297847536214/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwZVC2rqoOx9kb2LcHON54Rmoni-Jszi6vf3JMsgPZsfCy65e8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Bà chủ nhiệt tình, vui vẻ, giá rẻ dành cho các bạn bình dân",
+        "time": 1691941138,
+        "translated": false
+      },
+      {
+        "author_name": "Tấn Đạt Nguyễn Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/104255088599551561171/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsc1zWfKIKqQnOZwDSGN5U7LRf_MDJyGgOmBY_uAxLjlhpW98T3A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Giá rẻ bình dân\nĐối diện biển\nGood",
+        "time": 1476790232,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Nguyễn ngọc",
+        "author_url": "https://www.google.com/maps/contrib/115132160824163017896/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiZms0K7stUdPg9-vd7msxSV5BJz5TM8_T-wVeFppGB1FPmwg1=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "5 năm trước",
+        "text": "Nhà nghỉ củ kỹ. Ở 3 tiếng tính 150k",
+        "time": 1604468373,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Tran",
+        "author_url": "https://www.google.com/maps/contrib/109555236492167131671/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL-U51CezLiPm086CO_5n8y6gHjTLnV6dOpAkZqIDWcB-YHQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Ok. Chỉ có wifi trên lầu hơi yếu",
+        "time": 1560141246,
+        "translated": false
+      },
+      {
+        "author_name": "Bích Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/107688417235064163303/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKwpIzg45TEy-4Uxv-PIqgSKiCGGkGpJa8WC16tIV241b0G1SA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Rất ok",
+        "time": 1550846975,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 20
+  },
+  "harvested_at": "2026-05-03T19:45:02.014564"
+}

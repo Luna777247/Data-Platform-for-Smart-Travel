@@ -1,0 +1,89 @@
+{
+  "u_key": "be81f1cea78cf4aa",
+  "original_osm_name": "My House",
+  "google_raw": {
+    "formatted_phone_number": "0254 3522 855",
+    "geometry": {
+      "location": {
+        "lat": 10.3393439,
+        "lng": 107.0720544
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3407979302915,
+          "lng": 107.0733883302915
+        },
+        "southwest": {
+          "lat": 10.3380999697085,
+          "lng": 107.0706903697085
+        }
+      }
+    },
+    "name": "My House Hotel",
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Balmy Ling",
+        "author_url": "https://www.google.com/maps/contrib/112484640583065967078/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3eQqCcnYqNh1ukaZ-HtHyN-l9XbugD04hJDkIvvIzBIAZVFAF=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Giá cả tốt, view ra biển đẹp, phòng ốc sạch sẽ, từ ngoài nhìn vào bình thường nhưng nội thất bên trong mới và đẹp.",
+        "time": 1580256436,
+        "translated": false
+      },
+      {
+        "author_name": "Thuận CT Vlogs",
+        "author_url": "https://www.google.com/maps/contrib/113898416316461192045/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0vMANPg0cMxOdyEOyFulb9WQDCHOmsGmuYDwSyEFpR5ssXqoJ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "giá ngày thường là 300k cho phòng 2 người có phòng hướng ra biển . phòng rất sạch sẽ với chị lễ tân rất dễ thương ...",
+        "time": 1558595055,
+        "translated": false
+      },
+      {
+        "author_name": "Tài Nguyễn Tấn",
+        "author_url": "https://www.google.com/maps/contrib/118261218350251389756/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuOcsQStvcc8IAqYCO9t8r2WRQDfEr5Eh_DvjxvOWbbu5gsaE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Thích khách sạn này. Lần nào ghé Vũng Tàu cũng ở đây. Yên tĩnh, phục vụ tốt, view biển.",
+        "time": 1556973470,
+        "translated": false
+      },
+      {
+        "author_name": "Tai Lieu",
+        "author_url": "https://www.google.com/maps/contrib/110098958968289090978/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2EMBhi1MvGdivciboLc9IzVb_qTa_9MJNcy7UAMep_FcrZX4b=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "giá tầm trung, có view nhìn ra biển, phòng không lớn.",
+        "time": 1555466011,
+        "translated": false
+      },
+      {
+        "author_name": "My Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114522427775787452084/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6DhxiLN6HnQ7yZo6eL0K5lNK0mXb4XQowQdiirujwfuvUGQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Có view biển.. So với giá tiền thì tốt.. Giá rẻ..",
+        "time": 1556512475,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 39
+  },
+  "harvested_at": "2026-05-03T19:43:27.612353"
+}

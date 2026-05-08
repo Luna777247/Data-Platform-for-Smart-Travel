@@ -1,0 +1,174 @@
+{
+  "u_key": "4f56faa594edc231",
+  "original_osm_name": "bê thui 100",
+  "google_raw": {
+    "formatted_phone_number": "0905 558 538",
+    "geometry": {
+      "location": {
+        "lat": 16.0659367,
+        "lng": 108.2002939
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0672182802915,
+          "lng": 108.2016368302915
+        },
+        "southwest": {
+          "lat": 16.0645203197085,
+          "lng": 108.1989388697085
+        }
+      }
+    },
+    "name": "Bê thui 100",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–21:30",
+        "Thứ Ba: 08:00–21:30",
+        "Thứ Tư: 08:00–21:30",
+        "Thứ Năm: 08:00–21:30",
+        "Thứ Sáu: 08:00–21:30",
+        "Thứ Bảy: 08:00–21:30",
+        "Chủ Nhật: 08:00–21:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Samuel Le (Sam)",
+        "author_url": "https://www.google.com/maps/contrib/113953841882873954665/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfxLnei3dByr2yht7fihgHwS6yFck8J65qxqszsaY5DvHPZuKb=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán thịt bò mềm, ngon. Giá 50k / lạng.\nĂn bánh tráng nướng sẽ tính thêm phụ thu 6k-8k.\nMắm nêm thơm ngon. Đầy đủ rau sống, tỏi, ớt xanh, chanh, bánh tráng để cuốn.\nQuán chỉ bán tới 21h30 thôi.\nMình ăn 3 lạng hết 150k + 14k (bánh tráng + nước suối).\n\nĂn ngồi chill nhìn đường phố tấp nập người qua cũng zui ^^",
+        "time": 1748742118,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114268826066868943292/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUihw_OzWcUa_PX6mNpjYZRLDimTKjnjAQu2H2aZD_Ug4iHnd25hw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Phục vụ nhanh,thân thiện. Bê mềm ngon,rau sạch,nước chấm ngon.\nMình muốn ăn xương mà hết mất,lần sau ghé nhất định gọi món xương hầm😊",
+        "time": 1664635350,
+        "translated": false
+      },
+      {
+        "author_name": "Gió",
+        "author_url": "https://www.google.com/maps/contrib/117895330572915826865/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmwBn51OJJSmYMnTjayAVw86EtylKNY5LU6PplH_aX5G8NFfkL=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán nằm ngay khu hầm chui Điện Biên Phủ\nVun hả thường thì ghé ăn bê thui.\nLạnh lạnh mà kêu cái xương hầm đậu đen hỷ💯\nGhé quán vì món xương hầm đậu đen thôi🤭\nHắn ngon nhức nách😍",
+        "time": 1758432158,
+        "translated": false
+      },
+      {
+        "author_name": "Bao Tran",
+        "author_url": "https://www.google.com/maps/contrib/101782044885162839953/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSx_EksZV-wPt1k8LGDf8SBIszdcOEr9nd8kFJCh3TmHDuCDLjzA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán bê thui đã có từ lâu, trên 20 năm, cung cấp sản phẩm rất đảm bảo.\nBê thui rất ngon, phục vụ tốt, giá rẻ.\nNên thử món xương hầm đậu đen.\nNhân viên nhanh nhẹn, nhiệt tình.",
+        "time": 1741419153,
+        "translated": false
+      },
+      {
+        "author_name": "Anhtu Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103383813768102649446/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMLYVGKFaKm7fFzPz1hIerB-D4Vo2JJR-Lurv92Rs3qxB8gg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán ăn ngon bổ rẻ xứng đáng để trải nghiệm , quán giúp mình cảm nhận dc hương vị hoàn hảo cua 1 con bê rất xứng đáng để ghé lại",
+        "time": 1759840058,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 223
+  },
+  "harvested_at": "2026-04-29T09:40:32.792713"
+}

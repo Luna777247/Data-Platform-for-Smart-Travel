@@ -1,0 +1,109 @@
+{
+  "u_key": "2b44814bd13117e0",
+  "original_osm_name": "Cẩm Đô",
+  "google_raw": {
+    "formatted_phone_number": "0938 539 514",
+    "geometry": {
+      "location": {
+        "lat": 11.9451965,
+        "lng": 108.4334032
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9465581302915,
+          "lng": 108.4346935302915
+        },
+        "southwest": {
+          "lat": 11.9438601697085,
+          "lng": 108.4319955697085
+        }
+      }
+    },
+    "name": "Bánh canh Cẩm Đô",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–17:00",
+        "Thứ Ba: 11:00–17:00",
+        "Thứ Tư: 11:00–17:00",
+        "Thứ Năm: 11:00–17:00",
+        "Thứ Sáu: 11:00–17:00",
+        "Thứ Bảy: 11:00–17:00",
+        "Chủ Nhật: 11:00–17:00"
+      ]
+    }
+  },
+  "harvested_at": "2026-04-29T13:35:19.250882"
+}

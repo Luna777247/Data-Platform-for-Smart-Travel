@@ -1,0 +1,173 @@
+{
+  "u_key": "17a5915f8e231cb1",
+  "original_osm_name": "Alam Coffee Roastery",
+  "google_raw": {
+    "formatted_phone_number": "0901 927 586",
+    "geometry": {
+      "location": {
+        "lat": 12.2528109,
+        "lng": 109.1913611
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2540606302915,
+          "lng": 109.1927482802915
+        },
+        "southwest": {
+          "lat": 12.2513626697085,
+          "lng": 109.1900503197085
+        }
+      }
+    },
+    "name": "Alam Coffee Roastery",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Phuong Lan",
+        "author_url": "https://www.google.com/maps/contrib/115874786873293062537/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSDoeD2HECoPvEyEFIb2I51Vgo3B1WKnDDzIWKkhCCua5jRqRf=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cuối tuần mình thường relax bằng cafe ngon và đọc sách nên rất ít khi ngồi quán mới (sợ cafe ko ngon).\nTừ 1 clip tiktok mình quyết định thử Alam, chỉ cách nhà 160m nhưng cũng vì sợ cafe ko đúng gu nên chưa từng ghé.\nVào cái ngạc nhiên luôn vì quán siêu rộng, thoáng mát, vibe vintage và đặc biệt xông tinh dầu vỏ cam rất thơm (hình như có mùi bồ kết nữa).\nMình gọi 1 v60 ethi gesha và tiramisu. Cafe thơm, ngọt sâu, đáp ứng được mong muốn uống specialty coffee đúng nghĩa của mình. Tiramisu tuy chưa tới mức tan ra trong miệng nhưng đã ngon ổn định rồi.\nQuan trọng cafe đúng ý còn những yếu tố khác có thì tốt không có cũng ko sao 😅\nQuá đẹp cho 1 buổi chiều chủ nhật relax.",
+        "time": 1768124498,
+        "translated": false
+      },
+      {
+        "author_name": "_ Winston _ Duy Dũng",
+        "author_url": "https://www.google.com/maps/contrib/116540946829055645693/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG_eqLhcZ_ZUKJ7Nf3WKuB37hw1Pd3fG0P8uabV9WlN0XGx7cP=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình có đến uống nước ở Quán vào buổi chiều & mùng 2 tết. Không gian của quán nước này đẹp lắm, khá rộng & chỗ mình ngồi có view nên khá thích 🫶🏻 ,Giá cả hợp lí.. ( mình bonus thêm ảnh và video ngồi uống buổi tối ạ )",
+        "time": 1772905936,
+        "translated": false
+      },
+      {
+        "author_name": "Cao Vu Le",
+        "author_url": "https://www.google.com/maps/contrib/101555105745698361758/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrC2hgm7O3qTB0Snmr7_EywRbt08xCRmR1RpD9o8sRAOUxBGuO=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Một góc chill trên con đường sầm uất nhất Nha Trang - Thống Nhất (Độc Lập). Quán với không gian thoáng, nhiều bàn ghế ngồi quanh hiên cây bàng rợp bóng mát, có vỉa hè, có cả những cuốn sách hấp dẫn, là nơi clb Anh Văn miễn phí Hope kết nối mọi người đam mê ngoại ngữ\n\nMenu đa dạng món nước.\nCó bảo vệ trông xe và quán ngay trung tâm dễ tìm và dễ nhận dạng quán\nNhân viên trẻ năng lượng và thân thiện.",
+        "time": 1768006971,
+        "translated": false
+      },
+      {
+        "author_name": "Mây trắng 1409",
+        "author_url": "https://www.google.com/maps/contrib/108799866565246406684/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbJhNpOLCD_-91Y09cUU5-LdYiomTv2tPD82IqLKfWH7GotvZHWQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Rộng vcl, thầu gần như nguyên toà nhà, không có phòng lạnh nhưng thoáng mát do cửa sổ trải đều từ đông tây sang nam bắc, gió biển lùa vào đã, nhưng chỗ đậu xe hạn chế nha, ít khách còn may ra để ngay ngoài quán",
+        "time": 1772372435,
+        "translated": false
+      },
+      {
+        "author_name": "Pam Hon",
+        "author_url": "https://www.google.com/maps/contrib/102441378898169855406/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkbWqh5apzl78KxRQ2HYNpFa5vMFg7w1wPfPagWWa9-K-4kq-C=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Tiệm nằm ở vị trí đắc địa bên trong một toà nhà cổ hơn trăm năm tuổi. Vẫn còn giữ nguyên kết cấu nhà nên vẫn có nét mộc mạc và lịch sự.\nThích hợp cho học nhóm, workshop, làm việc. Còn bạn nào đến để chụp ảnh sống ảo theo concept thì nên cân nhắc, vì tiệm trang trí đơn giản chứ không chạy theo xu hướng quá nhiều.\nKhông gian rộng rãi thoáng mát, yên tĩnh, mình thích ngồi trên lầu hơn, không có máy lạnh nhưng có gió trời mát rười rượi, không bị hanh nắng đâu nhé!\nNước ngon và đa dạng. Có cả bánh ngọt và brunch nữa, nên nếu ngồi làm việc lâu sợ bị đói thì có thể order tại quán để tiếp năng lượng nè❤️",
+        "time": 1765867470,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 582
+  },
+  "harvested_at": "2026-05-02T16:08:50.239926"
+}

@@ -1,0 +1,159 @@
+{
+  "u_key": "c75e542ff75d6cc6",
+  "original_osm_name": "Hoi Quan 68",
+  "google_raw": {
+    "formatted_phone_number": "0258 3514 648",
+    "geometry": {
+      "location": {
+        "lat": 12.2391732,
+        "lng": 109.1891344
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2404824302915,
+          "lng": 109.1905291802915
+        },
+        "southwest": {
+          "lat": 12.2377844697085,
+          "lng": 109.1878312197085
+        }
+      }
+    },
+    "name": "Hội quán 68",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 15:00–23:00",
+        "Thứ Ba: 15:00–23:00",
+        "Thứ Tư: 15:00–23:00",
+        "Thứ Năm: 15:00–23:00",
+        "Thứ Sáu: 15:00–23:00",
+        "Thứ Bảy: 15:00–23:00",
+        "Chủ Nhật: 15:00–23:00"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Phạm Ngọc Vũ",
+        "author_url": "https://www.google.com/maps/contrib/117560713833474503898/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHOQiz0UQ54o0QW-I3vef5tHjzUBcjfaMza0F6XZ66itd4kA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Giá bình dân, hải sản khá tươi",
+        "time": 1497117995,
+        "translated": false
+      },
+      {
+        "author_name": "Realtor Thoai",
+        "author_url": "https://www.google.com/maps/contrib/117580437072263750199/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWSXRbGSc4fiYof2D_ZJUkqpxO58s1N1pl4SsfPcGWRRWkliLvdg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Khá tốt",
+        "time": 1578657675,
+        "translated": false
+      },
+      {
+        "author_name": "J Chow",
+        "author_url": "https://www.google.com/maps/contrib/103206122051915109489/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5nTjAm8gcoM8KEoMc5sPDIPLKdZEtk_2xDDFiiYwdxxyp1qQ7=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "Đây là một đánh giá khó. Đúng là họ phục vụ rất nhiều cho người dân địa phương. Mức giá của họ tốt hơn so với các khu du lịch và đồ ăn khá ngon. Tuy nhiên, rào cản ngôn ngữ rất khó vượt qua. Các nhân viên phục vụ nói RẤT ÍT tiếng Anh. Thực đơn hoàn toàn bằng tiếng Việt. Thật khó để gọi món bạn muốn hoặc thậm chí yêu cầu nhân viên phục vụ giúp đỡ trừ khi bạn biết một số tiếng Việt.",
+        "time": 1470497867,
+        "translated": true
+      },
+      {
+        "author_name": "Игорь Гуляев",
+        "author_url": "https://www.google.com/maps/contrib/112005233019372689892/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvKHOXCJ3POpzMExF1DM29iwJaPS2uqCghOIv5LsT85f9ERA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1582729213,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-05-02T15:09:04.979543"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "c33c6234c8004db5",
+  "original_osm_name": "Love Vietnam",
+  "google_raw": {
+    "formatted_phone_number": "0946 747 088",
+    "geometry": {
+      "location": {
+        "lat": 21.0351866,
+        "lng": 105.8529454
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0365423802915,
+          "lng": 105.8543308802915
+        },
+        "southwest": {
+          "lat": 21.0338444197085,
+          "lng": 105.8516329197085
+        }
+      }
+    },
+    "name": "Love Hanoi Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Kenz Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114840335797495782016/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlebgcLNv1lQyfDuSpgSYrmIH7ho9kEk1IxZCR_4EmPFUIKwh5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Giá quá tốt, đặc biệt là so với mặt bằng khu vực phố cổ Hà Nội. Bia tươi rất ngon, 30 nghìn 1 ly mà được mua 1 tặng 1 nữa thì đúng là rẻ hơn cả bia hơi vỉa hè. Đồ ăn ổn nhưng tốc độ phục vụ hơi chậm chút. Nhân viên nhiệt tình, nhanh nhẹn. Đặc biệt góc này vừa đẹp để vừa tận hưởng không khí kiểu phố cổ, vừa không bị quá ồn ã, ngồi chơi chiều mùng 5 Tết rất chill.",
+        "time": 1738570270,
+        "translated": false
+      },
+      {
+        "author_name": "vân trường nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117551188436281896227/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0pYo_OPLx1fzkkp-5sJMdAD9JXeSjVOzM5wDzgO03dzhZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian thoáng đãng, đồ ăn cũng OK, cảm giác như là đc chào đón giống như người thân",
+        "time": 1726068264,
+        "translated": false
+      },
+      {
+        "author_name": "Thúy Phương",
+        "author_url": "https://www.google.com/maps/contrib/105828021872174585210/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzhaoB6eWSOcIFqixaTu36K8tQWyiaAWsgN5LBEqDb_WJQPmvM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn rất ngon, hợp khẩu vị với mình. Không gian quán đẹp, ấm cúng. Quán đông nên phải chờ món 1 lúc nhưng bù lại phục vụ nhiệt tình, giá cả hợp lý, chủ quán dễ thương. Chắc chắn sẽ quay lại",
+        "time": 1725884750,
+        "translated": false
+      },
+      {
+        "author_name": "DuyNghia Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/116588489351140462351/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIx1RL2NCVLvGxUB7giKxUWH_E60IwQg5OMe9SzaHWUodA-cQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một trải nghiệm rất tuyệt vời khi đến Hà Nội.\nĐồ ăn ngon , phong cách phục vụ nhiệt tình và cởi mở, bầu không khí rất đậm chất phố cổ Hà Nội.\nTôi đã thử bạn tại sao không thử!!!!...",
+        "time": 1725633269,
+        "translated": false
+      },
+      {
+        "author_name": "Đỗ Thúy Ngà",
+        "author_url": "https://www.google.com/maps/contrib/105201067360819337135/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdMYFMYnbahboO8whGFzVUV50p5M1u6yivf491gjmLxVVGje86=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, phục vụ nhiệt tình chu đáo, không gian ấm cúng đậm chất phố cổ HN. 1 nơi checkin siêu đẹp",
+        "time": 1725940983,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 529
+  },
+  "harvested_at": "2026-04-26T12:39:40.214318"
+}

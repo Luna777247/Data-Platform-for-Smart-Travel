@@ -1,0 +1,2019 @@
+{
+  "city": "taipei",
+  "category": "hotel",
+  "timestamp": "20260507_171901",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 332497665,
+      "lat": 25.0513136,
+      "lon": 121.5146478,
+      "timestamp": "2026-01-27T08:56:26Z",
+      "version": 11,
+      "changeset": 177753391,
+      "user": "gc27",
+      "uid": 7130304,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大同區",
+        "addr:full": "臺北市大同區長安西路226號1-4樓",
+        "addr:full:en": "No.226, Chang’an W. Rd., Datong Dist., Taipei City 103, Taiwan (R.O.C.)",
+        "addr:full:ja": "台北市大同区長安西路226号",
+        "addr:housenumber": "226",
+        "addr:postcode": "103",
+        "addr:street": "長安西路",
+        "class": "3",
+        "love_hotel": "yes",
+        "name": "皇后旅社",
+        "name:en": "Hotel Queen",
+        "name:zh": "皇后旅社",
+        "phone": "+886 2 2559 0489",
+        "ref": "013",
+        "rooms": "20",
+        "source": "旅館民宿 - 觀光資訊資料庫",
+        "tourism": "hotel",
+        "website": "http://mei-shiuan.myweb.hinet.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445931430,
+      "lat": 13.8416563,
+      "lon": 121.4761585,
+      "timestamp": "2011-04-28T11:16:44Z",
+      "version": 2,
+      "changeset": 7993656,
+      "user": "miamuy",
+      "uid": 206066,
+      "tags": {
+        "name": "RGM Beachhausen",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445931434,
+      "lat": 13.8606684,
+      "lon": 121.5088218,
+      "timestamp": "2009-07-23T00:20:54Z",
+      "version": 1,
+      "changeset": 1910113,
+      "user": "ed_waypointsdotph",
+      "uid": 24250,
+      "tags": {
+        "name": "Dalampasigan Beach Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 445931437,
+      "lat": 13.8611788,
+      "lon": 121.5107952,
+      "timestamp": "2009-07-23T00:20:54Z",
+      "version": 1,
+      "changeset": 1910113,
+      "user": "ed_waypointsdotph",
+      "uid": 24250,
+      "tags": {
+        "name": "Paraiso Beach Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 446061045,
+      "lat": 13.9377389,
+      "lon": 121.6132886,
+      "timestamp": "2011-06-21T03:35:03Z",
+      "version": 3,
+      "changeset": 8501027,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "name": "Star Garden Tower Hotel",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 568245542,
+      "lat": 15.7838818,
+      "lon": 121.4840644,
+      "timestamp": "2009-11-22T07:11:13Z",
+      "version": 1,
+      "changeset": 3182774,
+      "user": "chrislund",
+      "uid": 97060,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 760264848,
+      "lat": 25.0461308,
+      "lon": 121.5067411,
+      "timestamp": "2019-11-22T22:32:41Z",
+      "version": 9,
+      "changeset": 77447393,
+      "user": "Ryang_alt",
+      "uid": 5951022,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "萬華區",
+        "addr:full": "臺北市萬華區西寧南路24號1-11樓",
+        "addr:full:en": "No.24, Xining S. Rd., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+        "addr:full:ja": "台湾台北市萬華区西寧南路24号",
+        "addr:housenumber": "24",
+        "addr:postcode": "108",
+        "addr:street": "西寧南路",
+        "email": "paradisetaiwan@hotmail.com.tw",
+        "fax": "+886-2-23147873",
+        "love_hotel": "yes",
+        "name": "伊樂園大飯店",
+        "name:en": "Paradise Hotel",
+        "name:ja": "パラダイスホテル",
+        "name:zh": "伊樂園大飯店",
+        "phone": "+886-2-23141181",
+        "ref": "085",
+        "rooms": "193",
+        "tourism": "hotel",
+        "website": "https://www.paradisetaipei.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 843031348,
+      "lat": 14.3408328,
+      "lon": 121.4826949,
+      "timestamp": "2011-07-12T03:47:58Z",
+      "version": 2,
+      "changeset": 8699330,
+      "user": "kton",
+      "uid": 392494,
+      "tags": {
+        "name": "RS Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 843031353,
+      "lat": 14.3648188,
+      "lon": 121.4791292,
+      "timestamp": "2026-02-10T15:33:13Z",
+      "version": 6,
+      "changeset": 178365833,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Paete",
+        "addr:postcode": "4016",
+        "addr:street": "National Highway",
+        "name": "Tayantang",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 871331295,
+      "lat": 25.0715463,
+      "lon": 121.6308922,
+      "timestamp": "2023-08-08T07:46:34Z",
+      "version": 12,
+      "changeset": 139598025,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "汐止區",
+        "addr:full": "新北市汐止區湖前街103號1樓",
+        "addr:full:en": "No.103, Huqian St., Xizhi Dist., New Taipei City 221, Taiwan (R.O.C.)",
+        "addr:full:ja": "新北市汐止区湖前街103,105号1-5F",
+        "addr:housenumber": "103",
+        "addr:street": "湖前街",
+        "email": "ginlonlake@ms96.url.com.tw",
+        "fax": "+886-2-2695-3383",
+        "love_hotel": "yes",
+        "name": "金龍湖商務旅館",
+        "name:en": "Chin Long Motel",
+        "name:zh": "金龍湖商務旅館",
+        "phone": "+886-2-2695-9339",
+        "ref": "014",
+        "rooms": "31",
+        "tourism": "hotel",
+        "website": "http://ginlonlake.com.tw/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 939064395,
+      "lat": 22.6673752,
+      "lon": 121.4697693,
+      "timestamp": "2010-10-06T07:01:29Z",
+      "version": 1,
+      "changeset": 5966546,
+      "user": "Dimitri_Junker",
+      "uid": 15686,
+      "tags": {
+        "name": "Pair Far",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1056489550,
+      "lat": 23.9816964,
+      "lon": 121.6204047,
+      "timestamp": "2022-09-05T09:07:41Z",
+      "version": 2,
+      "changeset": 125803644,
+      "user": "pizzaiolo",
+      "uid": 1772368,
+      "tags": {
+        "name": "Ocean Hotel",
+        "tourism": "hotel",
+        "wikidata": "Q112005803"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1063747169,
+      "lat": 23.9878918,
+      "lon": 121.6280864,
+      "timestamp": "2014-06-24T09:36:08Z",
+      "version": 2,
+      "changeset": 23117934,
+      "user": "Lissa Candy",
+      "uid": 2142670,
+      "tags": {
+        "name": "Ola Hotel(洄瀾客棧)",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1080171665,
+      "lat": 23.9532578,
+      "lon": 121.5357808,
+      "timestamp": "2017-06-18T14:53:26Z",
+      "version": 3,
+      "changeset": 49636921,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "花蓮白陽山莊",
+        "name:en": "White Sun Hotel",
+        "name:zh": "花蓮白陽山莊",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1121142723,
+      "lat": 14.3659895,
+      "lon": 121.4790016,
+      "timestamp": "2019-06-27T14:36:53Z",
+      "version": 3,
+      "changeset": 71675428,
+      "user": "PaeteMPS",
+      "uid": 10106299,
+      "tags": {
+        "name": "San Juan Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130780727,
+      "lat": 14.2650299,
+      "lon": 121.4671869,
+      "timestamp": "2016-11-02T08:14:00Z",
+      "version": 2,
+      "changeset": 43345002,
+      "user": "backpacking philippines",
+      "uid": 239705,
+      "tags": {
+        "name": "La Corona de Pagsanjan",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130780748,
+      "lat": 14.2660073,
+      "lon": 121.4640755,
+      "timestamp": "2021-05-01T14:06:55Z",
+      "version": 5,
+      "changeset": 103958280,
+      "user": "SomeoneElse",
+      "uid": 61942,
+      "tags": {
+        "name": "JJ Landing Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130780753,
+      "lat": 14.2805931,
+      "lon": 121.4559951,
+      "timestamp": "2011-02-09T04:09:11Z",
+      "version": 2,
+      "changeset": 7232846,
+      "user": "backpacking philippines",
+      "uid": 239705,
+      "tags": {
+        "name": "818 Resort",
+        "source": "local knowledge and Bing",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130780754,
+      "lat": 14.2708716,
+      "lon": 121.4468033,
+      "timestamp": "2011-02-01T08:58:09Z",
+      "version": 1,
+      "changeset": 7152655,
+      "user": "backpacking philippines",
+      "uid": 239705,
+      "tags": {
+        "name": "Tropical Inn and Restaurant",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130780756,
+      "lat": 14.27201,
+      "lon": 121.456046,
+      "timestamp": "2011-02-01T08:58:10Z",
+      "version": 1,
+      "changeset": 7152655,
+      "user": "backpacking philippines",
+      "uid": 239705,
+      "tags": {
+        "name": "Magdapio Hotel and Restaurant",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130780766,
+      "lat": 14.2673622,
+      "lon": 121.461094,
+      "timestamp": "2011-02-01T08:58:11Z",
+      "version": 1,
+      "changeset": 7152655,
+      "user": "backpacking philippines",
+      "uid": 239705,
+      "tags": {
+        "name": "Pagsanjan Falls Lodge and Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1130780781,
+      "lat": 14.2767929,
+      "lon": 121.4569526,
+      "timestamp": "2026-02-09T19:27:53Z",
+      "version": 3,
+      "changeset": 178327201,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:city": "Pagsanjan",
+        "addr:postcode": "4008",
+        "addr:street": "General Taiño Street",
+        "name": "Pagsanjan Rapids Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1143326796,
+      "lat": 14.2722596,
+      "lon": 121.4547746,
+      "timestamp": "2011-02-09T04:09:04Z",
+      "version": 1,
+      "changeset": 7232846,
+      "user": "backpacking philippines",
+      "uid": 239705,
+      "tags": {
+        "name": "La Vista Pagsanjan Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1253675445,
+      "lat": 13.9612232,
+      "lon": 121.5170933,
+      "timestamp": "2020-04-10T23:27:00Z",
+      "version": 4,
+      "changeset": 83385016,
+      "user": "TagaSanPedroAko",
+      "uid": 2541613,
+      "tags": {
+        "addr:city": "Sariaya",
+        "addr:postcode": "4322",
+        "addr:street": "Daang Maharlika",
+        "name": "Glory Hole",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1253675448,
+      "lat": 13.9613346,
+      "lon": 121.5188351,
+      "timestamp": "2024-11-12T04:41:06Z",
+      "version": 5,
+      "changeset": 159035033,
+      "user": "uᴉʍOꓨ",
+      "uid": 6591426,
+      "tags": {
+        "addr:municipality": "Sariaya",
+        "addr:postcode": "4322",
+        "addr:street": "Maharlika Highway",
+        "name": "D' Highway",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1255247149,
+      "lat": 13.9400284,
+      "lon": 121.6243168,
+      "timestamp": "2011-04-22T10:37:06Z",
+      "version": 1,
+      "changeset": 7933125,
+      "user": "miamuy",
+      "uid": 206066,
+      "tags": {
+        "name": "Castle Bernardina",
+        "stars": "1",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1257724395,
+      "lat": 13.934052,
+      "lon": 121.6118868,
+      "timestamp": "2025-10-13T15:27:56Z",
+      "version": 4,
+      "changeset": 173233824,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:street": "A. Bonifacio Street",
+        "mapillary": "528260824846162",
+        "name": "Sir Josh",
+        "stars": "1",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1261656129,
+      "lat": 14.4134576,
+      "lon": 121.4802917,
+      "timestamp": "2019-04-24T12:39:24Z",
+      "version": 2,
+      "changeset": 69524466,
+      "user": "Frederick Natividad",
+      "uid": 4055549,
+      "tags": {
+        "is_in:city": "Pangil",
+        "is_in:region": "Laguna",
+        "name": "Panguil River Eco-Park Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1268347664,
+      "lat": 13.9367196,
+      "lon": 121.6102986,
+      "timestamp": "2025-10-13T15:18:39Z",
+      "version": 4,
+      "changeset": 173233359,
+      "user": "VMPanes",
+      "uid": 1488198,
+      "tags": {
+        "addr:street": "M. L. Tagarao Street",
+        "name": "Lady Luck Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1271655889,
+      "lat": 14.266323,
+      "lon": 121.4305769,
+      "timestamp": "2012-05-12T05:41:18Z",
+      "version": 2,
+      "changeset": 11573485,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "addr:city": "Pagsanjan",
+        "name": "Wendy's Pool",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1282483919,
+      "lat": 25.0342102,
+      "lon": 121.5438956,
+      "timestamp": "2024-06-27T10:58:27Z",
+      "version": 9,
+      "changeset": 153241993,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:full": "10665臺北市大安區復興南路一段317號",
+        "addr:housenumber": "317",
+        "addr:postcode": "10665",
+        "addr:street": "復興南路一段",
+        "email": "rsvn@parktaipei.com",
+        "fax": "+886 2 5579 3889",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "台北美侖大飯店",
+        "name:en": "Park Taipei Hotel",
+        "name:zh": "台北美侖大飯店",
+        "phone": "+886 2 5579 3888",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "website": "https://www.parktaipei.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q111151534"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1313852738,
+      "lat": 14.265267,
+      "lon": 121.4663968,
+      "timestamp": "2021-05-01T14:04:41Z",
+      "version": 3,
+      "changeset": 103958280,
+      "user": "SomeoneElse",
+      "uid": 61942,
+      "tags": {
+        "name": "Paradise Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1332536149,
+      "lat": 18.3549402,
+      "lon": 121.6451927,
+      "timestamp": "2011-06-20T17:31:00Z",
+      "version": 1,
+      "changeset": 8496453,
+      "user": "remzamora",
+      "uid": 84952,
+      "tags": {
+        "name": "Ryan Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1332536151,
+      "lat": 18.3557943,
+      "lon": 121.6384315,
+      "timestamp": "2019-01-09T11:29:53Z",
+      "version": 3,
+      "changeset": 66158600,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "email": "hotelverzosa@yahoo.com",
+        "internet_access": "wlan",
+        "name": "Versoza Hotel",
+        "phone": "+63 917 689 7999",
+        "tourism": "hotel",
+        "website": "http://www.hotelverzosa.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1336185525,
+      "lat": 25.0421287,
+      "lon": 121.557427,
+      "timestamp": "2017-06-18T14:53:26Z",
+      "version": 3,
+      "changeset": 49636921,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "國聯飯店",
+        "name:en": "United Hotel",
+        "name:zh": "國聯飯店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1336710540,
+      "lat": 14.3230408,
+      "lon": 121.4797419,
+      "timestamp": "2012-07-25T14:27:31Z",
+      "version": 2,
+      "changeset": 12487724,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "addr:city": "Kalayaan",
+        "name": "Villa Monte Gracia Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1590870786,
+      "lat": 23.989359,
+      "lon": 121.6046302,
+      "timestamp": "2019-03-27T03:23:42Z",
+      "version": 2,
+      "changeset": 68570824,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "name": "Is-life Minsu",
+        "tourism": "hotel",
+        "website": "https://itslife888.wordpress.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1649874136,
+      "lat": 14.3400622,
+      "lon": 121.4932586,
+      "timestamp": "2012-02-27T02:46:31Z",
+      "version": 1,
+      "changeset": 10805173,
+      "user": "backpacking philippines",
+      "uid": 239705,
+      "tags": {
+        "name": "Adelina's Peak",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1672151059,
+      "lat": 25.0328207,
+      "lon": 121.5591529,
+      "timestamp": "2026-05-05T10:55:55Z",
+      "version": 6,
+      "changeset": 182243602,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "fax": "+886 +886 2 2720 3000",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "晶璽旅館",
+        "name:en": "AT Boutique Hotel",
+        "name:zh": "晶璽旅館",
+        "phone": "+886 2 2345 9777",
+        "tourism": "hotel",
+        "website": "https://www.at-boutique-hotel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1678965162,
+      "lat": 25.0404919,
+      "lon": 121.5657463,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 8,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "信義區",
+        "addr:full": "110臺北市信義區忠孝東路五段10號",
+        "addr:housenumber": "10",
+        "addr:postcode": "110",
+        "addr:street": "忠孝東路五段",
+        "air_conditioning": "yes",
+        "internet_access": "wlan",
+        "name": "台北W飯店",
+        "name:en": "W Taipei",
+        "name:zh": "台北W飯店",
+        "operator": "Starwood Hotels",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+886 2 7703 8888",
+        "rooms": "405",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "http://www.wtaipei.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q10914091",
+        "wikipedia": "zh:台北W飯店",
+        "wikipedia:zh": "台北W飯店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1689991532,
+      "lat": 13.9664296,
+      "lon": 121.5402008,
+      "timestamp": "2012-03-25T05:45:15Z",
+      "version": 1,
+      "changeset": 11091364,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "name": "Greenyard Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1692622791,
+      "lat": 13.9609609,
+      "lon": 121.591298,
+      "timestamp": "2012-03-27T02:28:02Z",
+      "version": 1,
+      "changeset": 11112208,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "name": "Queen Margarette",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1874144367,
+      "lat": 24.4923745,
+      "lon": 121.5365244,
+      "timestamp": "2024-02-29T02:55:19Z",
+      "version": 5,
+      "changeset": 148034644,
+      "user": "jjlu07",
+      "uid": 14999692,
+      "tags": {
+        "name": "太平山莊服務站",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1874150045,
+      "lat": 24.5096169,
+      "lon": 121.6106182,
+      "timestamp": "2024-02-21T16:36:56Z",
+      "version": 5,
+      "changeset": 147740724,
+      "user": "jjlu07",
+      "uid": 14999692,
+      "tags": {
+        "name": "翠峰山屋",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1888753699,
+      "lat": 24.149137,
+      "lon": 121.6269498,
+      "timestamp": "2012-08-29T19:22:46Z",
+      "version": 1,
+      "changeset": 12909380,
+      "user": "stroet43",
+      "uid": 36790,
+      "tags": {
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2094662039,
+      "lat": 25.0346616,
+      "lon": 121.5265127,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 7,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:full": "10057臺北市中正區信義路二段73號",
+        "addr:housenumber": "73",
+        "addr:postcode": "10057",
+        "addr:street": "信義路二段",
+        "atm": "no",
+        "fax": "+886 2 23415757",
+        "internet_access": "wlan",
+        "name": "雀客快捷台北永康",
+        "name:en": "CHECK inn Express Taipei Yongkang",
+        "name:zh": "雀客快捷台北永康",
+        "old_name": "新尚旅店",
+        "old_name:en": "Hotel73",
+        "old_name:zh": "新尚旅店",
+        "phone": "+886 2 23212721",
+        "source": "survey",
+        "tourism": "hotel",
+        "website": "http://www.checkinn.com.tw/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2099553264,
+      "lat": 25.0467752,
+      "lon": 121.5134597,
+      "timestamp": "2024-07-30T14:25:31Z",
+      "version": 7,
+      "changeset": 154608985,
+      "user": "bananatw",
+      "uid": 1215520,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:floor": "2",
+        "addr:full": "100006臺北市中正區重慶南路一段1號2樓",
+        "addr:housenumber": "1",
+        "addr:postcode": "100006",
+        "addr:street": "重慶南路一段",
+        "fax": "+886 2 2311 6388",
+        "name": "旅·晨行旅",
+        "name:en": "Re-Change Hotel",
+        "name:zh": "旅·晨行旅",
+        "official_name": "旅晨行旅",
+        "phone": "+886 2 2311 6388",
+        "ref:zh": "臺北市旅館617號",
+        "rooms": "23",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2104118153,
+      "lat": 13.9047965,
+      "lon": 121.6036202,
+      "timestamp": "2013-01-10T12:06:22Z",
+      "version": 1,
+      "changeset": 14597091,
+      "user": "Nickrds09",
+      "uid": 966535,
+      "tags": {
+        "name": "South Waters Marina Country Club and Farm Inc",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2124843037,
+      "lat": 25.0602256,
+      "lon": 121.5219335,
+      "timestamp": "2022-04-22T11:03:55Z",
+      "version": 4,
+      "changeset": 120044679,
+      "user": "Panai",
+      "uid": 15308491,
+      "tags": {
+        "addr:floor": "4",
+        "internet_access": "wlan",
+        "name": "百利旅館",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139984834,
+      "lat": 25.0374073,
+      "lon": 121.4980905,
+      "timestamp": "2013-02-03T11:56:24Z",
+      "version": 1,
+      "changeset": 14894819,
+      "user": "LiangSK",
+      "uid": 975241,
+      "tags": {
+        "name": "古山園旅社",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2146918178,
+      "lat": 25.04914,
+      "lon": 121.5169225,
+      "timestamp": "2025-11-29T12:52:41Z",
+      "version": 11,
+      "changeset": 175274104,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大同區",
+        "addr:full": "10351臺北市大同區承德路一段1號",
+        "addr:housenumber": "1",
+        "addr:postcode": "10351",
+        "addr:street": "承德路一段",
+        "name": "君品酒店",
+        "name:en": "Palais de Chine",
+        "name:zh": "君品酒店",
+        "phone": "+886-2-2181-9999",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.palaisdechinehotel.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q115967208"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2209186106,
+      "lat": 18.3439245,
+      "lon": 121.6442699,
+      "timestamp": "2013-03-18T23:17:18Z",
+      "version": 1,
+      "changeset": 15414681,
+      "user": "G-eMapper",
+      "uid": 462835,
+      "tags": {
+        "name": "Hotel Aparri",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2250696136,
+      "lat": 24.9594424,
+      "lon": 121.538538,
+      "timestamp": "2021-06-17T06:55:45Z",
+      "version": 12,
+      "changeset": 106508115,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:full": "新北市新店區光明街52號",
+        "addr:housenumber": "52",
+        "addr:postcode": "231",
+        "addr:street": "光明街",
+        "name": "龍山旅社",
+        "phone": "+886 2 2911 1800",
+        "source": "旅館民宿 - 觀光資訊資料庫",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2250696319,
+      "lat": 24.9599773,
+      "lon": 121.5387663,
+      "timestamp": "2026-03-23T12:07:24Z",
+      "version": 7,
+      "changeset": 180302237,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:full": "231新北市新店區光明街78號",
+        "addr:housenumber": "78",
+        "addr:postcode": "231",
+        "addr:street": "光明街",
+        "name": "萬家旅社",
+        "phone": "+886 2-29111006",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2310547856,
+      "lat": 25.0451139,
+      "lon": 121.5058914,
+      "timestamp": "2022-01-27T14:07:11Z",
+      "version": 6,
+      "changeset": 116668560,
+      "user": "Ryang_alt",
+      "uid": 5951022,
+      "tags": {
+        "name": "西門町意舍飯店",
+        "name:en": "amba hotels",
+        "name:ja": "ambaホテル",
+        "name:zh": "西門町意舍飯店",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "website": "https://www.amba-hotels.com/tc/ximending/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2310547864,
+      "lat": 25.0453424,
+      "lon": 121.5087538,
+      "timestamp": "2025-01-29T03:13:22Z",
+      "version": 7,
+      "changeset": 161880533,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "萬事達旅店西門店",
+        "name:zh": "萬事達旅店西門店",
+        "name:zh-Hans": "万事达旅店西门店",
+        "name:zh-Hant": "萬事達旅店西門店",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2318354644,
+      "lat": 25.0418794,
+      "lon": 121.5091999,
+      "timestamp": "2023-09-20T01:16:30Z",
+      "version": 12,
+      "changeset": 141490105,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:floor": "1-7",
+        "addr:full": "臺北市中正區衡陽路124號1-7樓;寶慶路63號",
+        "addr:housenumber": "124;63",
+        "addr:street": "衡陽路;寶慶路",
+        "email": "service4@cityinn.com.tw",
+        "fax": "+886-2-77252799",
+        "name": "新驛旅店 西門捷運店",
+        "name:en": "CityInn Hotel Plus Ximending",
+        "name:zh": "新驛旅店 西門捷運店",
+        "phone": "+886-2 - 77252288",
+        "ref": "366",
+        "rooms": "66",
+        "tourism": "hotel",
+        "website": "https://www.cityinn.com.tw/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2368338951,
+      "lat": 16.6969402,
+      "lon": 121.5924392,
+      "timestamp": "2013-07-01T11:10:34Z",
+      "version": 1,
+      "changeset": 16774875,
+      "user": "DY3JDR",
+      "uid": 288064,
+      "tags": {
+        "name": "Royal Palm Drive-Inn Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2411587090,
+      "lat": 16.7138397,
+      "lon": 121.5528114,
+      "timestamp": "2013-08-09T00:41:10Z",
+      "version": 1,
+      "changeset": 17273456,
+      "user": "DY3JDR",
+      "uid": 288064,
+      "tags": {
+        "name": "Diocita's Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2418093419,
+      "lat": 25.045068,
+      "lon": 121.5119623,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 8,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:full": "100臺北市中正區漢口街一段88號",
+        "addr:housenumber": "88",
+        "addr:postcode": "100",
+        "addr:street": "漢口街一段",
+        "name": "台北城美大飯店",
+        "name:en": "Chair Man Hotel",
+        "name:zh": "台北城美大飯店",
+        "tourism": "hotel",
+        "website": "http://www.chairman-hotel.com.tw/",
+        "wikidata": "Q115968424"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2421842400,
+      "lat": 25.065911,
+      "lon": 121.525526,
+      "timestamp": "2025-12-15T10:30:36Z",
+      "version": 2,
+      "changeset": 175953026,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "華國大飯店",
+        "name:en": "Imperial Hotel",
+        "name:zh": "華國大飯店",
+        "tourism": "hotel",
+        "wikidata": "Q115967450"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2429841197,
+      "lat": 17.1187271,
+      "lon": 121.6158361,
+      "timestamp": "2013-08-24T08:00:17Z",
+      "version": 1,
+      "changeset": 17479332,
+      "user": "DY3JDR",
+      "uid": 288064,
+      "tags": {
+        "name": "Bethany Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2430197470,
+      "lat": 17.1067794,
+      "lon": 121.6152945,
+      "timestamp": "2019-02-21T05:58:49Z",
+      "version": 3,
+      "changeset": 67417626,
+      "user": "GOwin",
+      "uid": 1041828,
+      "tags": {
+        "name": "Casa del Niño",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2441378320,
+      "lat": 25.0433157,
+      "lon": 121.5135371,
+      "timestamp": "2026-03-19T09:23:53Z",
+      "version": 7,
+      "changeset": 180097855,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:full": "100台北市中正區襄陽路8號",
+        "addr:housename": "怡怡商業大樓",
+        "addr:housenumber": "8",
+        "addr:postcode": "100",
+        "addr:street": "襄陽路",
+        "name": "台北樂客商旅",
+        "operator": "伊林商務時尚旅館(股)有限公司",
+        "phone": "+886 2 23709988",
+        "source": "Survey 1 Sep 2013",
+        "tourism": "hotel",
+        "website": "http://www.lookhotel.com.tw/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2445909879,
+      "lat": 25.0502683,
+      "lon": 121.5450425,
+      "timestamp": "2025-05-16T13:26:42Z",
+      "version": 4,
+      "changeset": 166351353,
+      "user": "MapTheWalk",
+      "uid": 10499594,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "松山區",
+        "addr:full": "台北市松山區敦化北路4巷52號",
+        "addr:housenumber": "52",
+        "addr:postcode": "10551",
+        "addr:street": "敦化北路4巷",
+        "check_date": "2025-05-13",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "SIMPLE+ HOTEL",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+886 2-6613-1300",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.simplehotel.com.tw/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2446002132,
+      "lat": 25.058468,
+      "lon": 121.5257089,
+      "timestamp": "2019-10-25T14:41:43Z",
+      "version": 7,
+      "changeset": 76214750,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:floor": "9",
+        "addr:full": "台北市中山區林森北路381號9樓",
+        "addr:housenumber": "381",
+        "addr:postcode": "104",
+        "addr:street": "林森北路",
+        "legal": "yes",
+        "love_hotel": "yes",
+        "name": "凱微精品hotel",
+        "phone": "+886-2-25426879",
+        "smoking": "no",
+        "tourism": "hotel",
+        "website": "http://kaiwei.mmmtravel.com.tw/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2450783872,
+      "lat": 25.0427356,
+      "lon": 121.5435436,
+      "timestamp": "2025-11-26T09:21:41Z",
+      "version": 4,
+      "changeset": 175144413,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:full": "台北市大安區復興南路一段136號",
+        "addr:housenumber": "136",
+        "addr:postcode": "106",
+        "addr:street": "復興南路一段",
+        "fax": "+886-2-27213468",
+        "name": "喬合大飯店",
+        "name:en": "Deja Vu Hotel",
+        "name:zh": "喬合大飯店",
+        "phone": "+886-2-27765877",
+        "tourism": "hotel",
+        "website": "http://www.city-hotel.com.tw/bussiness/dejavu-hotel/b4-tw.htm",
+        "wikidata": "Q111151506"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2462876033,
+      "lat": 24.9925372,
+      "lon": 121.5419764,
+      "timestamp": "2022-05-31T20:40:01Z",
+      "version": 6,
+      "changeset": 121784388,
+      "user": "Lzmxya",
+      "uid": 1925167,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:floor": "3;4",
+        "addr:full": "台北市文山區景中街30巷6號3-4樓",
+        "addr:housenumber": "6",
+        "addr:postcode": "116066",
+        "addr:street": "景中街30巷",
+        "fax": "+886-2-29354266",
+        "name": "瑪奇文旅",
+        "name:en": "Macchi Hotel",
+        "name:zh": "瑪奇文旅",
+        "old_name": "時代長琦旅館",
+        "phone": "+886-2-29333906",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2470166474,
+      "lat": 25.0467833,
+      "lon": 121.514021,
+      "timestamp": "2021-08-24T04:46:56Z",
+      "version": 3,
+      "changeset": 110145862,
+      "user": "~廷~",
+      "uid": 13920904,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:floor": "3",
+        "addr:full": "10041臺北市中正區忠孝西路一段72號3樓",
+        "addr:housenumber": "72",
+        "addr:postcode": "10041",
+        "addr:street": "忠孝西路一段",
+        "email": "slhotel@mail2000.com.tw",
+        "fax": "+886 2 2311 4112",
+        "level": "3",
+        "name": "璽愛旅店",
+        "name:en": "Say Love Hotel",
+        "name:zh": "璽愛旅店",
+        "operator": "鍠榮企業有限公司",
+        "phone": "+886 2 2388 0808",
+        "rooms": "30",
+        "tourism": "hotel",
+        "website": "http://www.slovehotel.com.tw/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2470166565,
+      "lat": 25.0467507,
+      "lon": 121.514156,
+      "timestamp": "2021-08-24T04:46:56Z",
+      "version": 3,
+      "changeset": 110145862,
+      "user": "~廷~",
+      "uid": 13920904,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:floor": "4",
+        "addr:full": "10041臺北市中正區忠孝西路一段72號4樓",
+        "addr:housenumber": "72",
+        "addr:postcode": "10041",
+        "addr:street": "忠孝西路一段",
+        "email": "100hopehotel@emmm.tw",
+        "facebook": "https://www.facebook.com/HopeHotel",
+        "level": "4",
+        "name": "全家歡旅店",
+        "name:en": "HOPE Hotel",
+        "name:zh": "全家歡旅店",
+        "operator": "全家歡股份有限公司",
+        "phone": "+886 2 2381 4755",
+        "rooms": "35",
+        "stars": "1",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2470166676,
+      "lat": 25.046766,
+      "lon": 121.514087,
+      "timestamp": "2021-08-24T04:46:56Z",
+      "version": 3,
+      "changeset": 110145862,
+      "user": "~廷~",
+      "uid": 13920904,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:floor": "5",
+        "addr:full": "10041臺北市中正區忠孝西路一段72號5樓",
+        "addr:housenumber": "72",
+        "addr:postcode": "10041",
+        "addr:street": "忠孝西路一段",
+        "branch": "站前館",
+        "email": "newstayinn@gmail.com",
+        "fax": "+886 2 2370 2999",
+        "level": "5",
+        "name": "新站旅店",
+        "name:en": "New Stay Inn",
+        "name:zh": "新站旅店",
+        "operator": "新站商旅有限公司",
+        "phone": "+886 2 2370 2888",
+        "rooms": "29",
+        "tourism": "hotel",
+        "website": "http://taipei.newstayinn.com/index.aspx"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2470166851,
+      "lat": 25.0467764,
+      "lon": 121.5134071,
+      "timestamp": "2024-07-30T14:25:31Z",
+      "version": 5,
+      "changeset": 154608985,
+      "user": "bananatw",
+      "uid": 1215520,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:floor": "6",
+        "addr:full": "100006臺北市中正區重慶南路一段1號6樓",
+        "addr:housenumber": "1",
+        "addr:postcode": "100006",
+        "addr:street": "重慶南路一段",
+        "fax": "+886 2 2314 2469",
+        "name": "華達大飯店",
+        "name:en": "Huada Hotel",
+        "name:zh": "華達大飯店",
+        "operator": "華達大飯店有限公司",
+        "phone": "+886 2 2311 0212",
+        "ref:zh": "臺北市旅館702號",
+        "rooms": "14",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2486816961,
+      "lat": 25.0264637,
+      "lon": 121.5231721,
+      "timestamp": "2019-10-25T14:11:45Z",
+      "version": 6,
+      "changeset": 76212665,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:floor": "2",
+        "addr:full": "臺北市羅斯福路二段75-1號2樓",
+        "addr:housenumber": "75-1",
+        "addr:postcode": "106",
+        "addr:street": "羅斯福路二段",
+        "fax": "+886-2-2363-8337",
+        "name": "欣和旅店",
+        "name:en": "Shin Her Hotel",
+        "name:zh": "欣和旅店",
+        "phone": "+886-2-2366-0105",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2500045714,
+      "lat": 25.0439937,
+      "lon": 121.5077511,
+      "timestamp": "2021-02-15T21:17:31Z",
+      "version": 8,
+      "changeset": 99332917,
+      "user": "assanges",
+      "uid": 2859698,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "萬華區",
+        "addr:floor": "2",
+        "addr:full": "108臺北市萬華區中華路一段114巷17號2樓",
+        "addr:housenumber": "17",
+        "addr:postcode": "108",
+        "addr:street": "中華路一段114巷",
+        "name": "丰居旅店",
+        "name:en": "Via Hotel",
+        "name:zh": "丰居旅店",
+        "source_ref": "http://www.via-hotel.com.tw/news2.html",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2524398259,
+      "lat": 25.049757,
+      "lon": 121.573493,
+      "timestamp": "2013-11-08T15:40:59Z",
+      "version": 1,
+      "changeset": 18784258,
+      "user": "MAPconcierge",
+      "uid": 27099,
+      "tags": {
+        "name": "小雅HOTEL",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527527723,
+      "lat": 25.0445116,
+      "lon": 121.5073988,
+      "timestamp": "2026-01-10T06:54:58Z",
+      "version": 9,
+      "changeset": 177050775,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "name": "長虹大飯店",
+        "name:en": "Rainbow Hotel",
+        "name:zh": "長虹大飯店",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2527527834,
+      "lat": 25.0442654,
+      "lon": 121.5073254,
+      "timestamp": "2023-03-23T08:48:03Z",
+      "version": 6,
+      "changeset": 134012175,
+      "user": "Littlebtc",
+      "uid": 1439333,
+      "tags": {
+        "name": "香榭巴洛克",
+        "name:en": "Shannon Baroque",
+        "name:zh": "香榭巴洛克",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2528000280,
+      "lat": 16.6954001,
+      "lon": 121.5546501,
+      "timestamp": "2013-11-11T14:37:29Z",
+      "version": 1,
+      "changeset": 18836509,
+      "user": "DY3JDR",
+      "uid": 288064,
+      "tags": {
+        "name": "Bert Place Hotel Restaurant",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2533594476,
+      "lat": 25.0451073,
+      "lon": 121.5261698,
+      "timestamp": "2013-11-15T13:38:35Z",
+      "version": 1,
+      "changeset": 18914918,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "群來商旅",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2552143133,
+      "lat": 17.7874092,
+      "lon": 121.4799091,
+      "timestamp": "2013-11-26T07:29:42Z",
+      "version": 1,
+      "changeset": 19122059,
+      "user": "docsam",
+      "uid": 191298,
+      "tags": {
+        "name": "Hotel Del Piat",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2557319171,
+      "lat": 25.0547592,
+      "lon": 121.5247132,
+      "timestamp": "2019-10-25T14:41:43Z",
+      "version": 6,
+      "changeset": 76214750,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:floor": "4",
+        "addr:full": "台北市中山區長春路40號4F",
+        "addr:housenumber": "40",
+        "addr:postcode": "104",
+        "addr:street": "長春路",
+        "disused:amenity": "pub",
+        "disused:name": "海角40號酒店",
+        "legal": "no",
+        "love_hotel": "yes",
+        "name": "春天夢幻旅館",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2557466403,
+      "lat": 25.0569563,
+      "lon": 121.5249411,
+      "timestamp": "2023-09-19T10:50:26Z",
+      "version": 2,
+      "changeset": 141463156,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:full": "臺北市中山區中山北路二段65巷2弄60號",
+        "addr:housenumber": "60",
+        "addr:street": "中山北路二段65巷2弄",
+        "name": "鴨川旅館",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559997578,
+      "lat": 24.861459,
+      "lon": 121.5515297,
+      "timestamp": "2026-03-23T12:07:24Z",
+      "version": 7,
+      "changeset": 180302237,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "烏來區",
+        "addr:full": "233新北市烏來區溫泉街43號",
+        "addr:housenumber": "43",
+        "addr:postcode": "233",
+        "addr:street": "溫泉街",
+        "name": "雲之湯",
+        "phone": "+886 2 2661 6095",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559997587,
+      "lat": 24.8602113,
+      "lon": 121.551658,
+      "timestamp": "2019-01-20T02:49:18Z",
+      "version": 4,
+      "changeset": 66467299,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "湯布苑",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559997588,
+      "lat": 24.8599952,
+      "lon": 121.5515031,
+      "timestamp": "2019-01-20T02:49:18Z",
+      "version": 3,
+      "changeset": 66467299,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "情人溫泉",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559997646,
+      "lat": 24.8632236,
+      "lon": 121.5512427,
+      "timestamp": "2013-12-01T15:56:23Z",
+      "version": 1,
+      "changeset": 19213050,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "國際岩湯",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559997651,
+      "lat": 24.8647372,
+      "lon": 121.5516073,
+      "timestamp": "2017-11-23T08:36:23Z",
+      "version": 2,
+      "changeset": 54020241,
+      "user": "Miller Liu",
+      "uid": 5443326,
+      "tags": {
+        "name": "揚悦溫泉會館",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559997652,
+      "lat": 24.8642909,
+      "lon": 121.5516777,
+      "timestamp": "2017-11-23T08:36:24Z",
+      "version": 2,
+      "changeset": 54020241,
+      "user": "Miller Liu",
+      "uid": 5443326,
+      "tags": {
+        "name": "秀山溫泉",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559997653,
+      "lat": 24.8643323,
+      "lon": 121.5515687,
+      "timestamp": "2017-12-08T10:50:36Z",
+      "version": 2,
+      "changeset": 54455399,
+      "user": "Miller Liu",
+      "uid": 5443326,
+      "tags": {
+        "name": "烏來大飯店",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2572568046,
+      "lat": 25.0431415,
+      "lon": 121.5080958,
+      "timestamp": "2023-03-22T09:33:27Z",
+      "version": 5,
+      "changeset": 133969992,
+      "user": "Littlebtc",
+      "uid": 1439333,
+      "tags": {
+        "name": "西門航棧商旅",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2572568048,
+      "lat": 25.0430887,
+      "lon": 121.5067305,
+      "timestamp": "2017-10-14T07:31:12Z",
+      "version": 4,
+      "changeset": 52915959,
+      "user": "wheelmap_android",
+      "uid": 524500,
+      "tags": {
+        "name": "璞麗hotel",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2572568051,
+      "lat": 25.0494521,
+      "lon": 121.5699848,
+      "timestamp": "2013-12-09T07:26:56Z",
+      "version": 1,
+      "changeset": 19353382,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "金夜賓館",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2572568062,
+      "lat": 25.0480066,
+      "lon": 121.5586448,
+      "timestamp": "2013-12-09T07:27:01Z",
+      "version": 1,
+      "changeset": 19353382,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "喬美Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2590490928,
+      "lat": 25.0300718,
+      "lon": 121.5195595,
+      "timestamp": "2023-09-19T10:50:26Z",
+      "version": 3,
+      "changeset": 141463156,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:floor": "1-5",
+        "addr:full": "100 臺北市中正區羅斯福路一段90巷2號1-5樓",
+        "addr:housenumber": "2",
+        "addr:postcode": "100",
+        "addr:street": "羅斯福路一段90巷",
+        "email": "saualkehhotel@yahoo.com.tw",
+        "fax": "+886-2 - 23935311",
+        "name": "帥客旅店",
+        "phone": "+886-2 - 23223885",
+        "ref": "080",
+        "rooms": "36",
+        "tourism": "hotel",
+        "website": "http://www.saualkeh.com.tw/zh-tw/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2590490940,
+      "lat": 24.9740891,
+      "lon": 121.54315,
+      "timestamp": "2023-09-19T10:50:26Z",
+      "version": 3,
+      "changeset": 141463156,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:floor": "7",
+        "addr:full": "新北市新店區北新路二段108號7樓",
+        "addr:housenumber": "108",
+        "addr:street": "北新路二段",
+        "fax": "+886-2 - 29122493",
+        "legal": "yes",
+        "name": "愛家旅館",
+        "phone": "+886-2 - 29129111",
+        "ref": "089",
+        "rooms": "31",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2604136871,
+      "lat": 25.1341015,
+      "lon": 121.5028582,
+      "timestamp": "2024-03-17T12:49:57Z",
+      "version": 9,
+      "changeset": 148770507,
+      "user": "Igor Bubelov",
+      "uid": 2104834,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "北投區",
+        "addr:full": "台北市北投區溫泉路21巷7號",
+        "addr:housenumber": "7",
+        "addr:postcode": "112",
+        "addr:street": "溫泉路21巷",
+        "check_date": "2014-01-01",
+        "name": "Solo Singer Inn",
+        "phone": "+886 2 2891 8312",
+        "tourism": "hotel",
+        "website": "https://thesolosinger.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2778985666,
+      "lat": 23.9745314,
+      "lon": 121.6055246,
+      "timestamp": "2026-03-17T14:54:15Z",
+      "version": 7,
+      "changeset": 180012087,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "花蓮縣",
+        "addr:country": "TW",
+        "addr:district": "花蓮市",
+        "addr:full": "花蓮縣花蓮市南京街218號",
+        "addr:housenumber": "218",
+        "addr:province": "台灣省",
+        "addr:street": "南京街",
+        "name": "馨憶精緻民宿",
+        "name:ja": "しんい民宿",
+        "name:ja_rm": "shinniseichi",
+        "phone": "+886 3 835 8767",
+        "tourism": "hotel",
+        "website": "http://shinyi.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2850319482,
+      "lat": 25.0450175,
+      "lon": 121.5052259,
+      "timestamp": "2018-10-16T21:45:25Z",
+      "version": 4,
+      "changeset": 63592005,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "HOTEL B6",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2850322965,
+      "lat": 25.0440713,
+      "lon": 121.5041298,
+      "timestamp": "2023-11-06T14:30:20Z",
+      "version": 8,
+      "changeset": 143696056,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "萬華區",
+        "addr:full": "台北市萬華區峨嵋街80號",
+        "addr:housenumber": "80",
+        "addr:postcode": "108",
+        "addr:street": "峨眉街",
+        "email": "redcabin@emmm.tw",
+        "fax": "+886 2 2371 2861",
+        "name": "紅菱閣旅店",
+        "name:en": "Red Cabin Inn",
+        "name:zh": "紅菱閣旅店",
+        "phone": "+886 2 2361 9696",
+        "tourism": "hotel",
+        "website": "https://www.redcabininn.com.tw/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2850324304,
+      "lat": 25.0459114,
+      "lon": 121.5031686,
+      "timestamp": "2014-05-11T12:24:35Z",
+      "version": 1,
+      "changeset": 22269668,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "富粧旅店",
+        "tourism": "hotel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "u_key": "2f5ab6e286954717",
+  "original_osm_name": "Mai Loc Photo Gallery",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2252954,
+        "lng": 109.1839512
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2266585802915,
+          "lng": 109.1852426302915
+        },
+        "southwest": {
+          "lat": 12.2239606197085,
+          "lng": 109.1825446697085
+        }
+      }
+    },
+    "name": "PHOTOCOPY MAI",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–20:00",
+        "Thứ Ba: 07:00–20:00",
+        "Thứ Tư: 07:00–20:00",
+        "Thứ Năm: 07:00–20:00",
+        "Thứ Sáu: 07:00–20:00",
+        "Thứ Bảy: 07:00–20:00",
+        "Chủ Nhật: 07:00–20:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "JetFighter",
+        "author_url": "https://www.google.com/maps/contrib/105043110165235630294/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLElLvVQjB77d38bD_40xD4u3MPmPiVbEVA8aD7TuF9lP4cLA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Dịch vụ khá tôt giá rẻ",
+        "time": 1700377781,
+        "translated": false
+      },
+      {
+        "author_name": "Guide to Việt Nam. Sergey",
+        "author_url": "https://www.google.com/maps/contrib/115394727109545202533/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXcb2CZ-v6qZgnEUX9teW0GWaNE1lJGKdrJCqtap8_O4JEs5cX=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Thông tin về giờ mở cửa không chính xác.",
+        "time": 1749212884,
+        "translated": true
+      },
+      {
+        "author_name": "cd rww",
+        "author_url": "https://www.google.com/maps/contrib/113961933040107964805/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpk4Ig0ettP5HLHS41L54nNbHmAgSDUz0DoOLKhYbTbGuJMw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Mọi thứ ở đây đều tuyệt vời: nhân viên thân thiện và nói tiếng Anh.",
+        "time": 1695982630,
+        "translated": true
+      },
+      {
+        "author_name": "Kristína Sedláková",
+        "author_url": "https://www.google.com/maps/contrib/104115200247039580956/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITSNASTchcNKUgqpEMZbyTpG9MST1aBxWLju640efewQPh4WdD=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Dịch vụ photocopy tốt, họ có thể chỉnh kích thước trang nếu cần và họ rất giỏi trong công việc.",
+        "time": 1688733874,
+        "translated": true
+      },
+      {
+        "author_name": "Thu Van",
+        "author_url": "https://www.google.com/maps/contrib/106273410747027990348/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIhNmjgPgajvI1Pfr3JBNRroE2J85RV41KsHcVmhsICSssNE5S=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "",
+        "time": 1758041296,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-05-02T16:10:15.308668"
+}

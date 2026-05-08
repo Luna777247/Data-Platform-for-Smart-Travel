@@ -1,0 +1,90 @@
+{
+  "u_key": "3741da7ac1d863c8",
+  "original_osm_name": "El Loco - Tapas bar",
+  "google_raw": {
+    "formatted_phone_number": "0346 492 384",
+    "geometry": {
+      "location": {
+        "lat": 21.0713559,
+        "lng": 105.8218437
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.07272363029151,
+          "lng": 105.8231736302915
+        },
+        "southwest": {
+          "lat": 21.0700256697085,
+          "lng": 105.8204756697085
+        }
+      }
+    },
+    "name": "El Loco Tapas Bar",
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "NK Linh",
+        "author_url": "https://www.google.com/maps/contrib/109600474592974679003/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNufVvD897szgZPqGINA4Dssu75tBRFw-8HV94_6xs7064ZA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Phục vụ chu đáo, nhiệt tình. Có không gian trong nhà và ngoài trời đối diện mặt hồ. Đỗ xe ô tô miễn phí",
+        "time": 1719750098,
+        "translated": false
+      },
+      {
+        "author_name": "BEST tryto",
+        "author_url": "https://www.google.com/maps/contrib/117026341844682510233/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX82pgCizxEe1LUmj3wz9TK2kTDonkTs07Lukq1B_2vdLPyHOKd=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Món ăn phục vụ khá nhanh. Đồ ăn ngon,  nhiều, thực sự là mặn (😂). Giá cả ổn. Không gian được,  chỗ để xe hơi bất tiện.",
+        "time": 1577627810,
+        "translated": false
+      },
+      {
+        "author_name": "Hana N",
+        "author_url": "https://www.google.com/maps/contrib/106528472779193076047/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJycMlRzqxCHTv87QDkLkNlUfhL4lm8iZI3GuKPs-_oVsvfrU9MA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn bình thường, giá khá cao, chủ yếu khách tây, ko thấy khách Việt mấy. Ko có điều hòa, ngồi ở ngoài khá nhiều muỗi và chuột😅",
+        "time": 1691597248,
+        "translated": false
+      },
+      {
+        "author_name": "Đạt PK",
+        "author_url": "https://www.google.com/maps/contrib/104126624770305987472/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWainlc9Rbge1wfwNvaSxqssUxDLIleRVugNyzJO5w6H5KpdQo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ ăn tốt, sangria ngon, phục vụ nhiệt tình, chu đáo, nên bổ sung thêm đặc sản tây ban nha vào menu",
+        "time": 1676430144,
+        "translated": false
+      },
+      {
+        "author_name": "T N N",
+        "author_url": "https://www.google.com/maps/contrib/117482564239160669976/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdiPdKsB_63Xld6VMQk4cU-QV5UtmlJOA03kWQkfCeHsioppP5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "4 năm trước",
+        "text": "Nhà hàng chuyên các món tây ban nha. Mình thấy bánh mì nóng giòn ngon, mực chiên vòng, xúc xích, thịt viên, khoai tây, vẹm cũng ngon, có điều hơi mặn xíu. Nếu bạn ko ăn mặn nhiều thì nên order bớt muối đi :)",
+        "time": 1636018955,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 393
+  },
+  "harvested_at": "2026-04-28T16:26:46.330418"
+}

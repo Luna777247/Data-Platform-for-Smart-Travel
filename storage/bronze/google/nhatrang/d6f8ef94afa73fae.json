@@ -1,0 +1,163 @@
+{
+  "u_key": "d6f8ef94afa73fae",
+  "original_osm_name": "Far East Rock Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0563 018 139",
+    "geometry": {
+      "location": {
+        "lat": 12.2437926,
+        "lng": 109.1937955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2451405302915,
+          "lng": 109.1951982302915
+        },
+        "southwest": {
+          "lat": 12.2424425697085,
+          "lng": 109.1925002697085
+        }
+      }
+    },
+    "name": "Anh Coffee Roasters",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 05:30–17:30",
+        "Thứ Tư: 05:30–17:30",
+        "Thứ Năm: 05:30–17:30",
+        "Thứ Sáu: 05:30–17:30",
+        "Thứ Bảy: 05:30–17:30",
+        "Chủ Nhật: 05:30–17:30"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Trung Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/108456317298525370112/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEB9_0exKJScCpayZ7jRDCq2ZlsE53JnyRC-8C0RZua1lnFgue=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán nho nhỏ cho những buổi không biết đi đâu, môi trường mát mẻ và thân thiện. Mình gọi cốc capu seasonal, ngụm đầu hậu khá nồng sữa, dần về sau vị hạt được đẩy lên, bọt tan cũng nhanh nên mình đoán quán dùng sữa tiệt trùng. Lần tới mình sẽ đổi sữa để ngon hơn 😊",
+        "time": 1772545168,
+        "translated": false
+      },
+      {
+        "author_name": "Nam",
+        "author_url": "https://www.google.com/maps/contrib/102914961737596729273/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcp9XEoWAUXNYU6YJsQOHlKYe56kBbJORFPjfYbyXEMtxhEem=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "ANH Coffee Roasters – Trải nghiệm cà phê đúng nghĩa giữa lòng phố\n\nLà người thường xuyên làm việc tại quán cà phê và đánh giá nhiều mô hình F&B, tôi thực sự ấn tượng với ANH Coffee Roasters ngay từ cái nhìn đầu tiên. Không gian tuy không quá lớn nhưng được thiết kế tinh gọn, hiện đại, tập trung vào trải nghiệm cà phê nguyên bản – đúng tinh thần của một roastery.\n\nĐiểm nổi bật nhất là chất lượng cà phê. Vị cà đậm đà, cân bằng, hậu vị sạch và rõ tầng hương – cho thấy quán đầu tư nghiêm túc vào khâu rang xay. Đây không phải mô hình “cafe view sống ảo”, mà là nơi dành cho người thật sự yêu cà phê.",
+        "time": 1772517078,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108835453176541755870/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0J7spuWAFsqYYy-cNTJJDatFs1pHo07MqxFZQnB4ZqIacXKA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cực ấn tượng với tiệm ở Nha trang, mình đã có cốc cà phê ngon nhất khi ở đây.\nAi có nhu cầu tìm kiếm một địa điểm tập trung vào cà phê và tự rang xay, đây là lựa chọn hợp lý.",
+        "time": 1769354510,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Ngọc Định",
+        "author_url": "https://www.google.com/maps/contrib/100745832334420778418/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfExLSYcufTmkx5L8Sgxo1DwDfX3JalKiHrcjo7qUoO8XvpalB=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đây là nơi dành cho những khách có sở thích đam mê hương vị. Cà phê ở đây rất ngon, mình ghé lúc 5:30 sáng ngồi thưởng thức cà phê an yên (specialty coffee), trải nghiệm cuộc sống buổi sáng của thành phố du lịch Nha Trang. Trong mỗi ly cà phê có sự chỉn chu của \"bác thợ cà phê\".",
+        "time": 1763251902,
+        "translated": false
+      },
+      {
+        "author_name": "Lucy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108893014353507875090/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfnMretp6lNefaabBdzLMJ9eYUTRKQ85sMpCE53KF_r0fBm_EM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mỗi lần ghé NT đều phải tạt qua Anh để mua cf, tuy chưa có dịp ngồi lại nhưng cf vừa ý mình lắm.",
+        "time": 1771979169,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 622
+  },
+  "harvested_at": "2026-05-02T15:32:39.294893"
+}

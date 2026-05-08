@@ -1,0 +1,174 @@
+{
+  "u_key": "44dc77aa87cd97e4",
+  "original_osm_name": "Nhà hàng 123 Kim Mã",
+  "google_raw": {
+    "formatted_phone_number": "024 3771 1123",
+    "geometry": {
+      "location": {
+        "lat": 21.0303173,
+        "lng": 105.8165436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03174488029151,
+          "lng": 105.8178992802915
+        },
+        "southwest": {
+          "lat": 21.0290469197085,
+          "lng": 105.8152013197085
+        }
+      }
+    },
+    "name": "Nhà hàng 123 Kim Mã",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:00",
+        "Thứ Ba: 10:00–21:00",
+        "Thứ Tư: 10:00–21:00",
+        "Thứ Năm: 10:00–21:00",
+        "Thứ Sáu: 10:00–21:00",
+        "Thứ Bảy: 10:00–21:00",
+        "Chủ Nhật: 10:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "BB Dang",
+        "author_url": "https://www.google.com/maps/contrib/101952461749671561947/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnePj35Y4sfASVva2_M5lBlv0-L63F5ba77FqRPB99akYna6DgVw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "⭐ 1 sao – Trải nghiệm tệ nhất từng gặp\n\nTối nay tôi đến quán lúc 18h, đi 3 người, quán rất vắng, chỉ vài bàn lác đác.\nOrder xong chờ hơn 30 phút không thấy món lên, trong khi các bàn vào sau, ngồi cạnh nhau thì đồ ăn đã lên đầy đủ.\n\nHỏi nhân viên thì trả lời rất hời hợt: “Em chưa thấy đồ anh xuống”.\nChờ thêm 10 phút nữa, tình trạng vẫn y nguyên. Khi tôi ra hỏi lại thì được giải thích rằng “hệ thống bị lỗi nên bếp không nhận được đơn”.\n\nXin hỏi:\n•\tQuán vắng, khách ngồi cùng một tầng, cùng khu vực,\n•\tNhân viên đứng đầy,\n•\tVậy mà không ai quan sát, không ai kiểm tra, rồi đổ lỗi cho phần mềm?\n\nTôi đã ăn quán này từ thời còn nhỏ ở phố Huế, về khu này gia đình tôi cũng rất hay ghé, nhưng đây là lần cuối cùng.\nPhong cách phục vụ thiếu trách nhiệm, thiếu quan sát, thiếu chuyên nghiệp là điều không thể chấp nhận.\n\nĐiều khiến tôi bức xúc nhất:\n👉 Khi tôi đứng dậy ra về, không một nhân viên nào xin lỗi, không một lời giải thích đàng hoàng.\nChỉ có sự thờ ơ.\n\nMất thời gian, mất trải nghiệm, và ảnh hưởng hoàn toàn đến tâm lý bữa ăn.\nMột quán lâu năm mà phục vụ như vậy thì thật đáng thất vọng.",
+        "time": 1767182840,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115411578455970340341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgg6d-OU1_t_fYHDEXgQ2InsGBZ-fFvnjrBSo47rH6PtsUUoPxwg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán sạch sẽ, thân thiện với thú cưng. Đồ ăn ngon, làm ko quá lâu. Mình gọi gà sốt chua ngọt và cơm bít tết vì nhiều người khen. Nhưng thú thật gà chua ngọt ko đặc sắc, bít tết ngon hơn. Khoảng 110k/ 1 người có cơm canh và nước. Tổng quan cho 8 điểm",
+        "time": 1757084201,
+        "translated": false
+      },
+      {
+        "author_name": "K V",
+        "author_url": "https://www.google.com/maps/contrib/112699603806384591973/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_tRk2nd4ypsZGke2kyjZIuFpMD7ZgYzg3_SXD1LbeegquATA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "quá thất vọng! đùi gà thì sống chắc để lâu ngày. Còn sườn thì bốc lên mùi hôi ko thể nhai nổi",
+        "time": 1759328326,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Trần",
+        "author_url": "https://www.google.com/maps/contrib/113879696902323886949/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJC97ZXmdniuvpB3L_qgMM3IYKmnEBn20CvVmk-wOyodavUzU=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "6 tháng trước",
+        "text": "Giá đã tăng, trước mỗi suất trung bình 80-85 giờ là 95-100k, cũng hay ăn ở cơm123 nhưng với giá hiện tại như vậy sẽ có nhiều lựa chọn khác hơn, mua về vẫn là hộp nhựa và cốc canh, đũa thìa rẻ tiền, thực ko xứng với giá tiền bỏ ra, giờ rất nhiều hàng quán dùng đồ, hộp giấy chất lượng và bảo vệ môi trường, giá cũng bằng hoặc thậm chí rẻ hơn cơm123 hiện tại. Mong nhà hàng xem xét cải thiện chất lượng dịch vụ để xứng đáng 95-100 /1suất",
+        "time": 1760247960,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Duy Quang",
+        "author_url": "https://www.google.com/maps/contrib/110606930088689404862/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaaZV7EzYlayMq5FOfdpT5mEIdRuxl_O1_2zDlBk6JRaA-nUBl9Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "Thực sự là 2025 rồi mọi người vẫn có thể chấp nhận được mức giá so với chất lượng này thì cũng nể thật, thực sự cơm quá bình thường đến mức tầm thường, gia vị nêm nếm nhạt nhẽo và không có gì đặc sắc mà giá lại trên trời 🤷🏻 Thực sự mọi người chê Sà bì chưởng đắt trong khi khen 123 hợp lý thì mình thấy cũng chịu thật, từ chất lượng, nhân viên đến bầu không khí đều thua xa, khá khó hiểu khi quán thực sự khá đông, mọi người chưa từng thử ăn cơm tại bất kỳ nơi nào khác hay sao vậy ạ, thắc mắc thật sự đấy 🧐 cũng là đi ăn theo review của nhiều người, dù sinh ra lớn lên ở HN nhưng mình chưa từng thử ăn, có lẽ quán sẽ hợp với một tệp khách hàng nhất định nhưng là một người trẻ và dĩ nhiên đã thử qua rất nhiều thể loại hàng quán từ sinh viên đến nhà hàng thì mình chọn tôn trọng thành quả lao động của bản thân chứ 95k 1 suất cơm ăn ngoài hàng như vậy thực sự không đáng!",
+        "time": 1754840296,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1170
+  },
+  "harvested_at": "2026-04-28T16:26:48.907615"
+}

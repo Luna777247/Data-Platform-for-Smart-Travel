@@ -1,0 +1,24 @@
+{
+  "u_key": "5c424a28d08d5de4",
+  "original_osm_name": "Khách Sạn My Youth",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0348238,
+        "lng": 105.8536967
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0361634802915,
+          "lng": 105.8550455802915
+        },
+        "southwest": {
+          "lat": 21.0334655197085,
+          "lng": 105.8523476197085
+        }
+      }
+    },
+    "name": "My Youth Hostel"
+  },
+  "harvested_at": "2026-04-26T12:40:23.648172"
+}

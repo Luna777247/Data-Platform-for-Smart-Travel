@@ -1,0 +1,174 @@
+{
+  "u_key": "3e4efb0378fd338f",
+  "original_osm_name": "Bánh Xèo Bà Dưỡng",
+  "google_raw": {
+    "formatted_phone_number": "0236 3873 168",
+    "geometry": {
+      "location": {
+        "lat": 16.0588772,
+        "lng": 108.216166
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0602149802915,
+          "lng": 108.2175215802915
+        },
+        "southwest": {
+          "lat": 16.0575170197085,
+          "lng": 108.2148236197085
+        }
+      }
+    },
+    "name": "Bánh Xèo Bà Dưỡng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–21:30",
+        "Thứ Ba: 09:30–21:30",
+        "Thứ Tư: 09:30–21:30",
+        "Thứ Năm: 09:30–21:30",
+        "Thứ Sáu: 09:30–21:30",
+        "Thứ Bảy: 09:30–21:30",
+        "Chủ Nhật: 09:30–21:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Khanh Linh Dang",
+        "author_url": "https://www.google.com/maps/contrib/117698077563328718760/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4uXsakn6boCcRic6jw_HNwfVHSZQTfM0CRFoH_t9TPSr0lA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ngon lắm nha mn, 1 quán must try khi đu lịch Đà Nẵng.\nQuán rất đông, nhưng sạch sẽ và món ăn lên nhanh. Nước chấm bắt miệng dữ thần, ăn chung với nem hay bánh xèo đều cuốn. Bánh xèo bưng ra nóng hổi, giòn rụm, cuốn rau r chấm nước chấm ăn ngon hết nấc.",
+        "time": 1771121910,
+        "translated": false
+      },
+      {
+        "author_name": "Chip Chip",
+        "author_url": "https://www.google.com/maps/contrib/101471764132263497927/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSCgNLu-r_-Mq2b-mZ8hzu-AFPV1M1pLdojGx-h_HriwYOnCw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nước chấm quá đỉnh. Bò hơi ít lá lốt nhưng vẫn ngon. Bánh xèo còn có cả trứng nữa 😋 bị cái rau rửa không sạch, để hơi úa.",
+        "time": 1773131084,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Xinh (Sophea)",
+        "author_url": "https://www.google.com/maps/contrib/108694623159218445885/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTnr4gKs3U9_PPDvb3GEAchQ3bm2Pm2mmc178FQF2x1v7T1Ne_=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán ăn quá bình thường, mà mắc. Quán ở gần như cuối 1 con hẻm chuyên bán bánh xèo và đặc sản ĐN. Quán bán theo phần 4 cái 80k nhưng mỗi cái chỉ có một con tôm mềm xèo và 1 miếng thịt nạc, nói chung ko ngon. Nước chấm cũng ko ngon. Thái độ cũng chả niềm nở kiểu ăn ko ăn cũng chả cần.\nMỗi bàn nên để 1 sọt rác cho sạch sẽ. Mọi người nên cân nhắc lựa chọn quán khác.",
+        "time": 1764990154,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Jasmine",
+        "author_url": "https://www.google.com/maps/contrib/106546754333026447964/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFzvlrGjxSEmpqY2HK72gtsY0Va1Sy7lPVcCp5u5h1RO2rAMom2g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bánh xèo bà Dưỡng thì đã quá nổi ở Đà Nẵng rồi, mặc dù nằm tít trong hẻm sâu nhưng tối nào đến cũng đông úi má ơi luôn.\nVì là đôg nên mọi người nên tránh đi những giờ cao điểm nhé, vì đông thì chất lượng phục vụ cũg như món sẽ ra lâu hơn bình thường nhiều. Chưa kể nếu ai muốn đi theo nhóm từ 6 người trở lên thì cũng tránh giờ cao điểm luôn vì khó có bàn để ngồi cùng nhau lắm.\nNhưng mặc dù đông như vậy nhưng nhân viên vẫn nhiệt tình lắm nha, có chỉ ngợp 1 chút lúc giữ xe nó rất là mệt luôn :((((\nGiá mình thấy hợp lí. Bánh xèo giòn và nước chấm ngon. Nem lụi gọi riêng cuốn với bánh tráng ngon nha. Rau thì hết có thể xin thêmm.\nTrời lạnh lạnh vào đá dĩa bánh xèo thì như này thì rất là oki.",
+        "time": 1770022387,
+        "translated": false
+      },
+      {
+        "author_name": "Brian Pham",
+        "author_url": "https://www.google.com/maps/contrib/100398925820309492824/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd1LeEN_LHspqyn2u6h1ZhhXDUicnC7eCJKGUnB_qEaBmcE-gEyA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ngon. Nước chấm rất ok. Bún thị nướng 35k siêu ngon.\nBánh xèo 80k 4 cái ngon.\nQuán rất đông. Khách Hàn vào ăn tới tấp.",
+        "time": 1770790594,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9765
+  },
+  "harvested_at": "2026-04-29T09:45:19.519463"
+}

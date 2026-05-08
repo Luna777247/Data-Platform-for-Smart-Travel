@@ -1,0 +1,146 @@
+{
+  "u_key": "d99415797fa7f5e7",
+  "original_osm_name": "Cafe đất việt 124 tô hiệu",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2488965,
+        "lng": 109.1835327
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2502998302915,
+          "lng": 109.1848974302915
+        },
+        "southwest": {
+          "lat": 12.2476018697085,
+          "lng": 109.1821994697085
+        }
+      }
+    },
+    "name": "Cà Phê Đất Việt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:30",
+        "Thứ Ba: 06:00–22:30",
+        "Thứ Tư: 06:00–22:30",
+        "Thứ Năm: 06:00–22:30",
+        "Thứ Sáu: 06:00–22:30",
+        "Thứ Bảy: 06:00–22:30",
+        "Chủ Nhật: 06:00–22:30"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Dylan Wang",
+        "author_url": "https://www.google.com/maps/contrib/100295824686482231705/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_krLOBvm2Hw-_4Xptq2oRU3ldCpaiSNUVcPZCgJRKoqrLCK9CuA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Nhân viên giao hàng chạy rất ẩu. Trưa nay đường Lê Hồng Phong rất đông xe nhưng nhân viên công ty này bấm còi liên tục ép người khác phải nhường đường. Mình có nhắc nhở thì người này chửi tục. Mình đi theo thì mới biết được người này là nhân viên giao hàng của công ty này. Mọi người nên tẩy chay những cty như này đi ạ",
+        "time": 1718270614,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107350269857519927590/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_MXZVnNpqigFxHl-t0dhyQ7CG-TaBqMQuAzckjV4W2aTGzVzG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cà phê ngon nhất.",
+        "time": 1722328997,
+        "translated": true
+      },
+      {
+        "author_name": "Danh do van",
+        "author_url": "https://www.google.com/maps/contrib/111173896093807810339/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzBReyGNWs1Qok93DNK5T2V1Ev3MxkiiTjnNgPIc2VgygfgZdk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1567898908,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-05-02T15:27:16.108692"
+}

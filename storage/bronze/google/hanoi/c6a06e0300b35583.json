@@ -1,0 +1,173 @@
+{
+  "u_key": "c6a06e0300b35583",
+  "original_osm_name": "The King Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0901 060 061",
+    "geometry": {
+      "location": {
+        "lat": 20.9876181,
+        "lng": 105.7442135
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9889777302915,
+          "lng": 105.7455974302915
+        },
+        "southwest": {
+          "lat": 20.9862797697085,
+          "lng": 105.7428994697085
+        }
+      }
+    },
+    "name": "Rock King Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Lập Nguyễn Quý",
+        "author_url": "https://www.google.com/maps/contrib/100020261681253286222/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyZuF3GgnGlktnHuhvrkpPKLmaP6H2bXp_6IQ2Aui24KmkaROkUg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đã uống cafe ở quán từ ngày đầu khai trương đến giờ.\nĐồ uống đúng gu, không gian quán thoáng và đặc biệt các bạn nhân viên phục vụ rất nhiệt tình và thân thiện 💕",
+        "time": 1749365891,
+        "translated": false
+      },
+      {
+        "author_name": "Met Thi",
+        "author_url": "https://www.google.com/maps/contrib/107520877409296752221/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT8OhN4KXycAQIdzY0wl0-wTHerRQAZHkuPUjMT2ngzY-Hg6M=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đồ uống ngon, không gian rộng rãi, thoáng mát\nNhân viên hỗ trợ nhiệt tình",
+        "time": 1749359484,
+        "translated": false
+      },
+      {
+        "author_name": "Chiến Lã",
+        "author_url": "https://www.google.com/maps/contrib/103789171469892756767/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU-67D-98pnLXF-LtSgbzp0CRbq30SKgIPmSNnTtg0DaIB84k=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán rộng rãi, thoáng mát. Thiết kế đẹp mắt, hút người đến, chỗ để xe thoải mái kể cả ô tô. Đồ ăn, đồ uống đa dạng, hợp khẩu vị. Nhân viên niềm nở! ok",
+        "time": 1737449516,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Luk",
+        "author_url": "https://www.google.com/maps/contrib/114506841945025960479/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjWShMGtVnNURK7_65fEZW-2GySt_OkstW7ZFI2he9q0ok3XfDTw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Một quán coffee với phong cách pha trộn hiện đại và truyền thống:\nCảnh quan: view quán tốt- có cả vỉa hè - ngồi hôm mát trời rất tuyệt - không ồn ào\nThực đơn: khá đa dạng, cafe chuộng Ro hơn Arabica. Món Americano thiên đậm - hơi bị át mùi - nhưng hương vị tốt.\nĐáng để trải nghiệm",
+        "time": 1668828882,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Vuong",
+        "author_url": "https://www.google.com/maps/contrib/118204061937936227885/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-iI9KwV9pUwnjaxPsGZPsAu9XJBZmEfTFQG6PtaVQT0DPdQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán view đẹp đồ uống chất lượng chỗ đậu xe rất rộng , chuyên cafe pha máy. Đặc biệt nhất là các món sinh tố.nói chung mình đi nhiều nơi nhưng thấy đây là điểm đến lý tưởng. Chắc chắn sẽ tới thường xuyên",
+        "time": 1595957645,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 111
+  },
+  "harvested_at": "2026-04-28T16:19:36.340022"
+}

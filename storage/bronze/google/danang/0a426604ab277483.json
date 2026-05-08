@@ -1,0 +1,109 @@
+{
+  "u_key": "0a426604ab277483",
+  "original_osm_name": "Nhà trọ Hoàng Văn Sinh",
+  "google_raw": {
+    "formatted_phone_number": "0905 758 009",
+    "geometry": {
+      "location": {
+        "lat": 16.0410621,
+        "lng": 108.2140525
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0424168302915,
+          "lng": 108.2154534302915
+        },
+        "southwest": {
+          "lat": 16.03971886970849,
+          "lng": 108.2127554697085
+        }
+      }
+    },
+    "name": "Nhà trọ cao cấp Sunny House",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Minh",
+        "author_url": "https://www.google.com/maps/contrib/109108142220585303099/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6hvEXf12MsDWWjM-maOOKuhezen3k954VrUEaNSsWxMcn8lv84A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Nhà trọ rất sạch sẽ gọn gàng và rất đảm bảo nha. Trang bị thiết bị chống cháy và thoạt nạn rất bài bản. Không ở đây thì ở đâu nữa 😍♥️👍",
+        "time": 1752905724,
+        "translated": false
+      },
+      {
+        "author_name": "thao nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109585857701691792752/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyjfyKQY4nPvSDDTtogeOdz4y8ZytS26VeLhJljVT-X123L8Dg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Chỗ ở tiện nghi, sạch sẽ, thoáng mát",
+        "time": 1772860229,
+        "translated": false
+      },
+      {
+        "author_name": "Tr N",
+        "author_url": "https://www.google.com/maps/contrib/111047266650631736056/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUi6nE3s-hag5KAa2lC0ECARWBlP7802QnoHXzAo38PsLi0K9xW=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Trọ đẹp với mới lắm, siêu thoáng, nội thất cơ bản đều mới hết ạ, rất rất nên ở🤓🤓🤓",
+        "time": 1752906084,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Tuyết Như Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111932771694148361937/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7aq-da125jNFSGfBYSTRhGc2oIpyApi4j9y4N2q5-CevEoucX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Trọ sạch sẽ, đầy đủ tiện nghi. Chủ trọ tốt bụng  và thân thiệnnnn",
+        "time": 1753001358,
+        "translated": false
+      },
+      {
+        "author_name": "Hai Tran quang",
+        "author_url": "https://www.google.com/maps/contrib/107352019432516410080/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjtqhdZDwlwKx5fika7czdCFi4Li7E-sU-BeX4VzzJV6RoKQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Địa điểm này quá tuyệt vời , không gian thoáng mát đầy đủ tiện nghi thích hợp để ở lâu dài.",
+        "time": 1698222179,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 15
+  },
+  "harvested_at": "2026-04-28T16:35:07.453242"
+}

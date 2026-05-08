@@ -1,0 +1,109 @@
+{
+  "u_key": "ca4966ae49412f66",
+  "original_osm_name": "Nhà hàng",
+  "google_raw": {
+    "formatted_phone_number": "0911 106 488",
+    "geometry": {
+      "location": {
+        "lat": 21.0328389,
+        "lng": 105.8519689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0341884302915,
+          "lng": 105.8532807302915
+        },
+        "southwest": {
+          "lat": 21.0314904697085,
+          "lng": 105.8505827697085
+        }
+      }
+    },
+    "name": "Hello Hanoi Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–00:00",
+        "Thứ Ba: 10:00–00:00",
+        "Thứ Tư: 10:00–00:00",
+        "Thứ Năm: 10:00–00:00",
+        "Thứ Sáu: 10:00–00:00",
+        "Thứ Bảy: 10:00–00:00",
+        "Chủ Nhật: 10:00–00:00"
+      ]
+    }
+  },
+  "harvested_at": "2026-04-28T16:25:15.121628"
+}

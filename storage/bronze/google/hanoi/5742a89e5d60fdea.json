@@ -1,0 +1,109 @@
+{
+  "u_key": "5742a89e5d60fdea",
+  "original_osm_name": "Khách Sạn Golden Sun Villa",
+  "google_raw": {
+    "formatted_phone_number": "024 3938 6728",
+    "geometry": {
+      "location": {
+        "lat": 21.0301781,
+        "lng": 105.8497142
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0315709802915,
+          "lng": 105.8511287302915
+        },
+        "southwest": {
+          "lat": 21.0288730197085,
+          "lng": 105.8484307697085
+        }
+      }
+    },
+    "name": "Golden Sun Villa Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "huy nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101893269669957265355/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP1evI9mfrarcMnLxACbsQ94u2YFzRSBQDrvWUwc3__HMCsA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khách sạn vị trí rất thuận tiện, ngay trung tâm phố cổ. Đặc biệt đối diện có chỗ thuê xe đạp, rất tiện để dạo quanh hồ Hoàn Kiếm và các phố nhỏ xung quanh. Phòng sạch sẽ, yên tĩnh, nhân viên thân thiện và hỗ trợ nhiệt tình. Giá hợp lý so với vị trí. Rất phù hợp cho khách du lịch muốn trải nghiệm Hà Nội theo cách chậm rãi. Sẽ quay lại lần sau 👍",
+        "time": 1765962906,
+        "translated": false
+      },
+      {
+        "author_name": "Thái Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107885808604691668652/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr5ZToe0YlTw1o8y347EACgwo5HX12wsfU7sm_4g70xCcTC8Iq=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn ở vị trí thuận tiện, gần Hồ Gươm. Phòng rộng rãi, sạch sẽ, không gian yên tĩnh. Sẽ quay lại nếu có cơ hội trong tương lai. Highly recommend.\nChân thành cảm ơn bạn Ruby đã đặt tour và cho mình trải nghiệm dịch vụ rất tốt tại nơi này.",
+        "time": 1744172212,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109615281811313922358/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2UBn34nYS5bCwH5Kc7nBg5fIYPfYMjHUvIrXRdaa-ZCS9cA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "- Phòng khá rộng rãi và sạch sẽ lại nhiều lựa chọn.\n- Vị trí khách sạn thuận tiện đi lại gần Hồ Gươm.\n- Tôi rất hài lòng về dịch vụ tại đây, đặc biệt bạn Ruby luôn niềm nở tiếp đón chúng tôi và nhiệt tình tư vấn dịch vụ mà chúng tôi cần.\nCảm ơn Golden sun Villa Hotel rất nhiều!\nHẹn gặp lại trong kỳ nghỉ gần nhất.",
+        "time": 1746031743,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Lưu",
+        "author_url": "https://www.google.com/maps/contrib/106097179693186801722/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUugjJyNmd4palfK__QW0ecUmxTKQZe9yZ7xLvSSwHBha-Oi2cA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Mình đã ở đây 6 đêm , nhân viên thật sự thân thiện , luôn mỉm cười chào đón bạn . Đặc biệt Anh jackson rất nhiệt tình.vị trí thuận tiện đi lại . Rất đáng để giới thiệu .",
+        "time": 1747050192,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Hằng Vũ",
+        "author_url": "https://www.google.com/maps/contrib/109171054843914301220/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeOhEwtOt6GjoLLs3bK0E8n-EotvPOKNdojLU6z_zQn3obDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn nhỏ, cách hồ gươm 1 phút đi bộ, nhân viên hỗ trợ đặt tour và xe sân bay giá rất tốt.",
+        "time": 1738826679,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 417
+  },
+  "harvested_at": "2026-04-27T19:58:31.377437"
+}

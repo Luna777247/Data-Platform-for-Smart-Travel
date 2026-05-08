@@ -1,0 +1,83 @@
+{
+  "u_key": "19e84409ffb499ec",
+  "original_osm_name": "Khách Sạn Quê Hương",
+  "google_raw": {
+    "formatted_phone_number": "024 3747 0394",
+    "geometry": {
+      "location": {
+        "lat": 21.0284739,
+        "lng": 105.8416782
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0298224302915,
+          "lng": 105.8429566802915
+        },
+        "southwest": {
+          "lat": 21.0271244697085,
+          "lng": 105.8402587197085
+        }
+      }
+    },
+    "name": "Khách Sạn Quê Hương",
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "nguyen xuan truong",
+        "author_url": "https://www.google.com/maps/contrib/110804453065882858486/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT4ACJcYRA2Vm1mbLiPgMBChpC07cufn-x4lJ_dqz0Z13q5QiukA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "10 năm trước",
+        "text": "Khách sạn đẹp",
+        "time": 1450535636,
+        "translated": false
+      },
+      {
+        "author_name": "Best티비플",
+        "author_url": "https://www.google.com/maps/contrib/108383818606196751945/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD3XaTHesYjx4uSFAKqq9XNUxr5FkOnC0fhKYAsuB5MqpBA5BU=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "Tốt",
+        "time": 1479008874,
+        "translated": true
+      },
+      {
+        "author_name": "Phuc Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103469063921363779860/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4EEAjgyXJdlztzJF4aRRk76VplWV0ugxb-sW_Kw-sP4KBgg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1564154433,
+        "translated": false
+      },
+      {
+        "author_name": "LAM LILY",
+        "author_url": "https://www.google.com/maps/contrib/105339430855420426504/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAgD5mcJnwseqBzk1fStYcgek8hfEQ7rPfvo22Zpnc4d1AWhs9=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1561694767,
+        "translated": false
+      },
+      {
+        "author_name": "Loan Vương Thị",
+        "author_url": "https://www.google.com/maps/contrib/105729163370877688495/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDAnbAhUxukKw80FrMrAsttUQTSqQqdRz8noa0E4pm9c6LsA=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "10 năm trước",
+        "text": "",
+        "time": 1441409155,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5
+  },
+  "harvested_at": "2026-04-27T19:59:26.706699"
+}

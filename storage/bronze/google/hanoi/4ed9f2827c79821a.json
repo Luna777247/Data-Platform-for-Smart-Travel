@@ -1,0 +1,244 @@
+{
+  "u_key": "4ed9f2827c79821a",
+  "original_osm_name": "Ofukuro",
+  "google_raw": {
+    "formatted_phone_number": "0976 367 372",
+    "geometry": {
+      "location": {
+        "lat": 21.0285464,
+        "lng": 105.8062894
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0301704302915,
+          "lng": 105.8077381802915
+        },
+        "southwest": {
+          "lat": 21.0274724697085,
+          "lng": 105.8050402197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Ofukuro",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–14:00, 17:00–22:30",
+        "Thứ Ba: 11:00–14:00, 17:00–22:30",
+        "Thứ Tư: 11:00–14:00, 17:00–22:30",
+        "Thứ Năm: 11:00–14:00, 17:00–22:30",
+        "Thứ Sáu: 11:00–14:00, 17:00–22:30",
+        "Thứ Bảy: 11:00–14:00, 17:00–22:30",
+        "Chủ Nhật: 11:00–14:00, 17:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Long Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/116451064242686539995/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr5BwK8vR1UaDSJ9FBmA-6HpQ1g1WEq-wChIIEaVZ6k9Np3gCDZA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn rất ngon nha. Sashimi siêu chắc và ngọt, sushi cũng ngon. Nhìn chung mình rất hài lòng. Chỉ mỗi một điểm trừ là quán để khách hút thuốc lá, hix.",
+        "time": 1765516632,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy An Pham",
+        "author_url": "https://www.google.com/maps/contrib/115407629225455940724/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVi3Bi84zV_728yiAsHXXYGYvt0HfEaxOhxnQNWUsscpGPFR2k=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình đến và đi ăn vào buổi trưa, mình qua vào khung giờ khi mọi người ăn trưa xong và chuẩn bị đi về chứ cũng không phải vào giờ đông khách. Ngoài 2 chị lớn tuổi, mình thấy các bạn nhân viên có vẻ không nhiệt tình niềm nở lắm. Có chút uể oải và mệt. Mình gọi buffet, sashimi ra khá nhanh, tươi, ăn được. Các món khác không phải là mặn chát thì cũng là ngọt quá. Chắc không phải gu của mình. Salad đặc biệt thì chỉ là váng đậu + sốt mè và rau xà lách ớt chuông với cà chua trộn. Đồ ra khá lâu, cơm cuộn cuốn không chắc tay, mình gắp được miếng đầu thì bị bung, nhìn không đẹp mắt trông lổn nhổn. Tổng bữa ăn hơn 1.053k cho 2 người thì mình thấy có nhiều lựa chọn ok hơn cả về đồ ăn, hình thức, và dịch vụ",
+        "time": 1768898913,
+        "translated": false
+      },
+      {
+        "author_name": "Vinh Do",
+        "author_url": "https://www.google.com/maps/contrib/116651920155141871688/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrkEJcblxqkcfw0A6YdCONX2Z3cKAkURSAiJaqoevhoglSdIeo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán ăn Nhật ấm cúng, bầu khí thoái mái dễ chịu.\nĐồ ăn thực sự tươi, nấu ngon, các loại rượu Nhật cực kì phong phú; quán này đi ăn 1 mình hay nhâm nhi vài li rượu với bạn bè sau giờ làm thì best; đây chắc chắn là quán chân ái mới của mình; không hiểu sao bị underated vậy.",
+        "time": 1757863680,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108835453176541755870/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0J7spuWAFsqYYy-cNTJJDatFs1pHo07MqxFZQnB4ZqIacXKA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình đi thấy hơi xa nhưng bù lại khi đến thấy không gian nhiều người Nhật nên cảm thấy tin tưởng về chất lượng. Mình gọi 1 set lunch ăn khá hợp khẩu vị và giá thành cực ổn có 110k bao gồm vat.",
+        "time": 1769959167,
+        "translated": false
+      },
+      {
+        "author_name": "Norris",
+        "author_url": "https://www.google.com/maps/contrib/112505170325833866859/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUACSTeDUYJVPPVhiimmpV-zGeULyrtl0rLYcA7amlyoglPIyqN=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình thấy quán khá sạch sẽ, đồ ăn lên nhanh, chất lượng khá ổn so với giá, đồ cũng khá tươi",
+        "time": 1760249925,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 657
+  },
+  "harvested_at": "2026-04-28T16:17:36.137984"
+}

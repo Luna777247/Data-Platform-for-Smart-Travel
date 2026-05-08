@@ -1,0 +1,173 @@
+{
+  "u_key": "5570af074101a9e3",
+  "original_osm_name": "Minty Garden Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0763 544 609",
+    "geometry": {
+      "location": {
+        "lat": 15.8724658,
+        "lng": 108.3336651
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8738307802915,
+          "lng": 108.3350127802915
+        },
+        "southwest": {
+          "lat": 15.8711328197085,
+          "lng": 108.3323148197085
+        }
+      }
+    },
+    "name": "Mint Garden Restaurant & Cooking",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1930"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–19:30",
+        "Thứ Ba: 07:30–19:30",
+        "Thứ Tư: 07:30–19:30",
+        "Thứ Năm: 07:30–19:30",
+        "Thứ Sáu: 07:30–19:30",
+        "Thứ Bảy: 07:30–19:30",
+        "Chủ Nhật: 07:30–19:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Hilda Memel",
+        "author_url": "https://www.google.com/maps/contrib/110004087660994628625/reviews",
+        "language": "vi",
+        "original_language": "de",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPSnM2nxJQCJCEIom_D38IQtZ8iCCkBVJlRppNlO9dl8AxfA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một nhà hàng ấm cúng tuyệt vời ngay giữa khu vườn.\n\nMón Mỹ Quang thật sự rất ngon – và được chế biến từ các loại thảo mộc tươi trong vườn.\n\nKhông gian ấm cúng và thân thiện, tôi chắc chắn sẽ quay lại!",
+        "time": 1744463946,
+        "translated": true
+      },
+      {
+        "author_name": "Elia",
+        "author_url": "https://www.google.com/maps/contrib/105971200721792639891/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4TgMY_6-EcIA5wkkOXgwMqNCU17Z6Ekp2KtWtYvt1NgGjo0B3=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn ở mức tạm được, không có gì đặc biệt. Tôi có cảm giác nhiều món được hâm nóng bằng lò vi sóng và món mì nước của tôi, đáng lẽ phải có thịt heo và tôm, lại có rất ít protein - chỉ có duy nhất một con tôm nhỏ xíu.\n\nNgoài ra, đá ở đây có vẻ là đá tự làm - điều này có nghĩa là khách du lịch có thể sẽ không thích.\n\nKhông gian nhà hàng rất dễ thương và xinh xắn, nhân viên phục vụ thân thiện.",
+        "time": 1752578172,
+        "translated": true
+      },
+      {
+        "author_name": "Anastasiya Yurkovets",
+        "author_url": "https://www.google.com/maps/contrib/106080854064632825146/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRLDc6OXBQVgIxxnXlCMkQjTgiyKePa2aHA6aWxxBapaSh0g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Không gian tuyệt vời, ấm cúng, mọi thứ đều ngon. Vị trí cũng rất tốt, yên tĩnh và thanh bình, nhân viên dễ chịu và thân thiện. Tôi chắc chắn sẽ giới thiệu nơi này ❤️",
+        "time": 1707919089,
+        "translated": true
+      },
+      {
+        "author_name": "A B",
+        "author_url": "https://www.google.com/maps/contrib/100990089878218929455/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9Sr1PE6XlDnVJxTrzil3awbRJFBuGvBlh-cdIijDrgOgGgYXJzQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nơi này thật tuyệt vời. Đồ ăn rất ngon. Và không gian yên tĩnh, thanh bình và dễ chịu!",
+        "time": 1705232683,
+        "translated": true
+      },
+      {
+        "author_name": "N. Kirchner",
+        "author_url": "https://www.google.com/maps/contrib/109077671197592808002/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlsFZayF7OjpJ2Hd9AEAjobAskvBi3R9o5Nr3LKkWQaltoBw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Món ăn ngon nhất ở Việt Nam!",
+        "time": 1743765096,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 15
+  },
+  "harvested_at": "2026-04-29T09:55:21.997597"
+}

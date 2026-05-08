@@ -1,0 +1,174 @@
+{
+  "u_key": "3a94e220c8323d1e",
+  "original_osm_name": "Firefly Restaurant & Bar",
+  "google_raw": {
+    "formatted_phone_number": "0935 475 400",
+    "geometry": {
+      "location": {
+        "lat": 15.8760728,
+        "lng": 108.3462668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8774335802915,
+          "lng": 108.3476833802915
+        },
+        "southwest": {
+          "lat": 15.8747356197085,
+          "lng": 108.3449854197085
+        }
+      }
+    },
+    "name": "Firefly Restaurant & Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–21:30",
+        "Thứ Ba: 11:00–21:30",
+        "Thứ Tư: 11:00–21:30",
+        "Thứ Năm: 11:00–21:30",
+        "Thứ Sáu: 11:00–21:30",
+        "Thứ Bảy: 11:30–21:30",
+        "Chủ Nhật: 11:00–21:30"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "hồng tran thị xuân",
+        "author_url": "https://www.google.com/maps/contrib/106110581297631765742/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIboK5vnZCpiOZkln7WurP8bizSPhvgWU1jAFJBJDIISGrC8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Tôi và gia đình chọn nhà hàng khi chúng tôi xem những đánh giá tích cực trên mạng . Thức ăn ngon và trang bày đẹp , đặc biệt nên thử món cao lầu xào 😋",
+        "time": 1664251872,
+        "translated": false
+      },
+      {
+        "author_name": "Khuê Thục",
+        "author_url": "https://www.google.com/maps/contrib/104626386522591911045/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDEdMlKlBgQQDuoyQzNQkHTRMjh-lSjqHZJHfx0LO57NJf5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Gia đình chọn quán này bởi những đánh giá tích cưc . Món ăn rất mgon và chủ sở hưu rất tốt bụng",
+        "time": 1666000444,
+        "translated": false
+      },
+      {
+        "author_name": "Lyra",
+        "author_url": "https://www.google.com/maps/contrib/114607915272169047129/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_cIVDpOt0ycWMqD3r6f9ILExNAhBm8WI5i1nzeVtDsYd0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn ngon, giá cả phải chăng",
+        "time": 1752240147,
+        "translated": false
+      },
+      {
+        "author_name": "liên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104233834532044703988/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfAFxipvTH-Wmu0IbuBON1-5VjLlvVgxS2fLYguX3gorCU8a1V=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán phù hợp với gia đình. Phục vụ chu đáo. Món ăn hợp miệng. Giá cả hợp lí",
+        "time": 1666159382,
+        "translated": false
+      },
+      {
+        "author_name": "vando Pham",
+        "author_url": "https://www.google.com/maps/contrib/107017326732822712959/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3cSU2T4kjV5MUhtT9deoVDBYodH8Q3mFeBCzulnJSwzW3UAckzA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "piza ngon.",
+        "time": 1728182650,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2682
+  },
+  "harvested_at": "2026-04-28T16:44:16.600526"
+}

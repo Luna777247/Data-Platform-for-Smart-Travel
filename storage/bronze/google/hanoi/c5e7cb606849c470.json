@@ -1,0 +1,173 @@
+{
+  "u_key": "c5e7cb606849c470",
+  "original_osm_name": "Nhà Hàng Gia An",
+  "google_raw": {
+    "formatted_phone_number": "0896 682 996",
+    "geometry": {
+      "location": {
+        "lat": 21.027329,
+        "lng": 105.83591
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0286850802915,
+          "lng": 105.8372418302915
+        },
+        "southwest": {
+          "lat": 21.0259871197085,
+          "lng": 105.8345438697085
+        }
+      }
+    },
+    "name": "Nhà hàng Gia",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 18:00–21:00",
+        "Thứ Tư: 18:00–21:00",
+        "Thứ Năm: 18:00–21:00",
+        "Thứ Sáu: 11:30–13:30, 18:00–21:00",
+        "Thứ Bảy: 11:30–13:30, 18:00–21:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Lucy Nguyên",
+        "author_url": "https://www.google.com/maps/contrib/116344317014336125432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHwDGZhv2J2iUBICkUniHD1E0lNqygwC5TfhksjB4W87KThfw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nhà hàng GIA chinh phục thực khách bằng sự kết hợp tinh tế giữa nguyên liệu tươi ngon và cách nêm nếm đậm đà hương vị Việt. Không gian ấm cúng, thiết kế vừa hiện đại vừa mang hơi thở truyền thống. Nhân viên phục vụ chuyên nghiệp nhưng vẫn gần gũi, tạo cảm giác thư thái cho khách.",
+        "time": 1756844580,
+        "translated": false
+      },
+      {
+        "author_name": "Chan Chan",
+        "author_url": "https://www.google.com/maps/contrib/114439609720160492898/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIr9j-KqV7Bk4gxcwCohqi6oNf8aY3Z024t_SANfWKHEX8Idu0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Nhà hàng thiết kế độc đáo. Phục vụ nhiệt tình. Nhưng tôi đánh giá đồ ăn không cao. Giống như bán câu chuyện và dịch vụ hơn là đồ ăn. Dù sao thì cũng nên thử trải nghiệm 1 lần. Tôi cũng chưa quay lại vì đồ ăn chưa đủ hấp dẫn tôi.",
+        "time": 1751560252,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102098784437933927045/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsTc39gZZGzYqnKHZM2bGEUM3M6o5IBiIABoOpbvZSdldrviya=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng ẩm thực Việt xứng đáng sao Michelin. Món nào cũng có hương vị đặc biệt không tìm ra điểm nào để chê. Ăn xong vẫn ấn tượng và muốn quay lại. Phục vụ chuyên nghiệp.",
+        "time": 1742156959,
+        "translated": false
+      },
+      {
+        "author_name": "Thử - Thở",
+        "author_url": "https://www.google.com/maps/contrib/113436978531024319712/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9XjFZ1d72zFTDuXeIjDNc99-6POTZe7v_uxV9e0PsM5j5pc4=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Mình nhớ lần đầu ăn ở Gia là ngay trước dịch, và từ đó đến giờ đã quay lại vài lần vì thực sự yêu thích không chỉ đồ ăn mà cả không gian, cách phục vụ, và câu chuyện đằng sau hành trình mở nhà hàng của các bạn. Trong thời gian ngắn, lại còn vướng dịch bệnh, mà vẫn gặt hái được thành công như thế – thật sự rất nể!\n\nMón nào cũng ngon, nhưng mình đặc biệt thích mấy cái khay đựng được decor siêu xinh luôn ấy. Hy vọng sau khi có sao Michelin thì giá vẫn dễ thương và đặt bàn không quá khó để thỉnh thoảng mình còn quay lại thưởng thức nhé!",
+        "time": 1746106172,
+        "translated": false
+      },
+      {
+        "author_name": "My Pham",
+        "author_url": "https://www.google.com/maps/contrib/115570377635832015341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpjKTUZSgmKGv5ULUBnCym_8Td2PJOES3ZLH-mJAwT4QHL5Bpo=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình ghé Gia vào một ngày giữa tháng 11, khi đó menu mùa đông mới chạy được vài ngày.\n\nMenu “Inside the river” là câu chuyện về những món ăn quen thuộc của mâm cơm gia đình, được chef biến tấu lại với những nguyên liệu quen, cũng có những nguyên liệu không liên quan nhau lắm nhưng kết hợp vào ăn lại rất hay.\n\nCó một vài món ăn khá ấn tượng như cá chim nấu với sốt cà chua, ăn như ăn cá cà chua nhưng vị nó chua sâu hơn và thịt cá chắc. Mực ăn kèm hành khô, rau mùi như một bát bánh cuốn nhưng thớ thịt mực tươi, ăn kèm nước mắm khiến mình ấn tượng lắm í vì nước mắm sao mà ngon quá, không bị mùi mằn mặn mà hậu vị có độ ngọt. Bát Thang lên ảnh đẹp, vị ăn tạm được. Món ngon nhất chắc là cơm cá, canh chua cá vì bạn mình dị ứng lươn nên nhờ nhà hàng đổi qua món này. Cá thơm, ăn ngậy béo, phần thịt cá mềm ăn với nước canh chua dìu dịu khó lòng mà quên.\n\nMình có gọi kèm nước không cồn, ly 1 và 3 theo cảm nhận của mình là ngon nhất nhưng mà ăn lâu quá nên quên mất vị như nào rồi.\n\nService thì quá ư là nhiệt tình, hôm đó kỉ niệm nên nhà hàng tặng mình 2 cây kem rất ngon, bạn nhân viên cũng giải thích kĩ càng, kể câu chuyện về món ăn để khách hiểu rõ.\n\nMình có một trải nghiệm hài lòng tại Gia và sẽ sớm ghé lại trong tương lai.",
+        "time": 1737572998,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 488
+  },
+  "harvested_at": "2026-04-28T16:26:14.298350"
+}

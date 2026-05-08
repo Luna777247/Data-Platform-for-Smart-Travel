@@ -1,0 +1,173 @@
+{
+  "u_key": "409ad12d8033009a",
+  "original_osm_name": "Cà Phê 81",
+  "google_raw": {
+    "formatted_phone_number": "0346 045 532",
+    "geometry": {
+      "location": {
+        "lat": 21.0286965,
+        "lng": 105.8494789
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0300630302915,
+          "lng": 105.8508743802915
+        },
+        "southwest": {
+          "lat": 21.0273650697085,
+          "lng": 105.8481764197085
+        }
+      }
+    },
+    "name": "9981 Coffee - Wine Tapas",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–21:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Kris D",
+        "author_url": "https://www.google.com/maps/contrib/109938859061243013564/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjLkr6UOO865E8-DVXM2aQJ5LTz_7BO9CII1r72mZjnOurCK3o=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ uống ngon lắm nghen. Giá 80 - 120k. Quán trang trí rất có gu, nhìn art. View nhà thờ lớn quá đã luôn, lên tầng 4 là oke nhất còn các tầng khác mình thấy cửa sổ bị nhỏ với tù.\n\nNhà vệ sinh sạch sẽ, 10đ",
+        "time": 1772333097,
+        "translated": false
+      },
+      {
+        "author_name": "Trà Cam Thảo",
+        "author_url": "https://www.google.com/maps/contrib/109626780807549881863/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNNjUr9q4TPfJ1Tdt-E7NMb1lxEjoChmlf8cJcgxm2mffq_VSO=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "View đẹp không phải bàn\nĐồ uống giá từ 6x đổ lên. Nước ép, trà,... tầm 8x 9x cho vị trí đẹp thấy cũng xứng đáng",
+        "time": 1772969877,
+        "translated": false
+      },
+      {
+        "author_name": "Min Karry",
+        "author_url": "https://www.google.com/maps/contrib/110024786493488375314/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUgtiltj9lclV-VaK5NqOptQkqRXq5v2c4U06E8JyaATr7Z6U=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Tầng 4 của quán là view nhà thờ như ảnh nha, rất là đông bạn trẻ đến chụp ảnh, nước uống giá cao nhưng mà rất ngon, trái cây lắc muối giòn vị ngọt mặn chua vừa phải hợ lý nhâm nhi ngắm chiều xuống nhà thờ Lớn",
+        "time": 1766152698,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Hoang Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107600141000946557652/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9sJUBjchkwUdC9emhxeBPl20_b6tsQr3wZeqhGt5QlDAHgbELvg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ngay sát Nhà Thờ Lớn HN, có 4 tầng nên không gian khá rộng rãi, decor khá sáng tạo, chỗ ngồi thoải mái, sạch sẽ. Tuy nhiên đồ uống pha không ngon, đặc biệt nhân viên phục vụ khá thành kiến và bất lịch sự. Khi ở tầng 1 mình hỏi lên bar lối nào, nhân viên nhấn mạnh 2 lần là lên tầng 4. Leo thang bộ bở hơi tai đến tầng 4 khi order đồ uống mới biết đồ có cồn chỉ có ở tầng 3, tầng 4 chỉ có cafe, trà hoa quả!\n\nLóc cóc đi xuống tầng 3, chờ mãi mới có nhân viên nhận order thì bạn lại bảo: Trang đồ uống không cồn ở đây cơ! Khi mình bảo mình đến đây để uống cocktail thì bạn bảo: Thế uống loại này cho nhẹ!\n\nVN đang ở thế kỷ nào mà nhân viên có quyền mặc định phụ nữ không có quyền dùng đồ có cồn và ấn định loại khách nên dùng vậy??? Mà giá có rẻ gì đâu!",
+        "time": 1767929921,
+        "translated": false
+      },
+      {
+        "author_name": "Duong Nhi",
+        "author_url": "https://www.google.com/maps/contrib/113931718120096095068/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAtBIey00Ub2vCbd3kfMGJ0I5Sf5GcBv_8iW8BH1YDmSmt9IO6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ uống ở đây rất ngon, đặc biệt là cà phê có hương vị đậm đà và dễ chịu. Nhân viên phục vụ cực kỳ nhiệt tình, thân thiện và luôn sẵn sàng giúp khách chọn món phù hợp. Không gian quán rộng rãi, trang trí tinh tế, có nhiều góc “sống ảo” siêu đẹp. Ngồi nhâm nhi ly cà phê, ngắm cảnh và nghe nhạc chill là cảm giác rất dễ chịu. Ai đang tìm một quán có đồ uống ngon – view đẹp – phục vụ tốt",
+        "time": 1761579813,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1305
+  },
+  "harvested_at": "2026-04-26T12:45:23.514374"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "eb2e9e8a9bbe614b",
+  "original_osm_name": "Nhà hàng Tadibar",
+  "google_raw": {
+    "formatted_phone_number": "0896 566 556",
+    "geometry": {
+      "location": {
+        "lat": 20.9665462,
+        "lng": 105.8258952
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9678737302915,
+          "lng": 105.8273418302915
+        },
+        "southwest": {
+          "lat": 20.96517576970849,
+          "lng": 105.8246438697085
+        }
+      }
+    },
+    "name": "Tadi - Trà & Cà phê đặc sản Việt Nam",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–00:00",
+        "Thứ Ba: 06:30–00:00",
+        "Thứ Tư: 06:30–00:00",
+        "Thứ Năm: 06:30–00:00",
+        "Thứ Sáu: 06:30–00:00",
+        "Thứ Bảy: 06:30–00:00",
+        "Chủ Nhật: 06:30–00:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Quang Trung Phạm",
+        "author_url": "https://www.google.com/maps/contrib/105263716114823705639/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbKbT8o0YwFzEcKMsal46LMfVPJK3Vhg_ZConZq_RVxvPmVQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhân viên ưu tiên cho khách ngồi trong cửa kính.\nPhải gọi nhân viên tới 2 lần nhưng vẫn thấy ưu tiên order cho những khách đến sau nhưng ngồi phía trong quán\nVề nước uống như những quán khác, không có gì đặc sắc",
+        "time": 1771936616,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Anh Dương",
+        "author_url": "https://www.google.com/maps/contrib/117246961268241193482/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWK9K6O-6sR8x3anTLzRT_bDnto2WuF48J8uDR9jJivfWszqsHbfg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ uống ngon\nPhục vụ chu đáo nhiệt tình",
+        "time": 1772629667,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng G4 Nguyễn Thu",
+        "author_url": "https://www.google.com/maps/contrib/103438704969443628736/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0C0iXfqPsGcsO63GzsXW7-VbsD2mblKBzrQEykKJu8T5clH1W=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhân viên rất chu đáo .Đồ uống ngon",
+        "time": 1772629534,
+        "translated": false
+      },
+      {
+        "author_name": "Park Daniel",
+        "author_url": "https://www.google.com/maps/contrib/109209569328051826449/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXItDWp5bqoYwiLMjD0GsYE9t_HRIBTM_K4J5sqiToaEOSmMk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ uống rất ngon\nnhân viên nhiệt tình chuyên nghiệp\nquán siêu đẹp 😍",
+        "time": 1767926386,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Dang",
+        "author_url": "https://www.google.com/maps/contrib/117347114292016162852/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbgNpL169APY040Mxww0ahK5rp4m-PR9-Frc-b5M9tLI2vncBb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "chất lượng phục vụ cũng như chất lượng đồ uống QUÁ NGON, k có gì để chê",
+        "time": 1767707522,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 35
+  },
+  "harvested_at": "2026-04-28T16:23:19.607317"
+}

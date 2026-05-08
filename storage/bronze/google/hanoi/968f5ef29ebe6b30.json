@@ -1,0 +1,174 @@
+{
+  "u_key": "968f5ef29ebe6b30",
+  "original_osm_name": "BANGKOK Thai Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "024 6652 2277",
+    "geometry": {
+      "location": {
+        "lat": 21.0268708,
+        "lng": 105.8242096
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0282933802915,
+          "lng": 105.8254768802915
+        },
+        "southwest": {
+          "lat": 21.02559541970849,
+          "lng": 105.8227789197085
+        }
+      }
+    },
+    "name": "Nhà Hàng BangKok",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Linhbinhthuong",
+        "author_url": "https://www.google.com/maps/contrib/100294583771462395801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEFu3EHkf4PVH-wW2_xZ00Z0WkTNH0fVtbTysQWdgu5RnHfdo=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Hôm nay mình ghé Bangkok Thai Cuisine ăn trưa và tổng thể là hài lòng, đặc biệt với một vài món làm đúng chất Thái.\nMón mình thích nhất là salad cá chiên giòn. Cá chiên rất giòn nhưng không bị khô, trộn sốt chua cay cực kỳ bắt miệng, ăn xong vẫn còn thèm. Tiếp theo là canh tôm cốt dừa ăn với cơm, vị béo nhẹ, cay vừa phải, mùi thơm rất đúng kiểu Thái, ăn với cơm nóng thì tuyệt.\nPad Thái ở đây cũng khá chuẩn vị, sợi dai vừa, nước sốt đúng kiểu chua ngọt nhẹ, không bị quá dầu.\nThịt nướng sốt Thái ngon, thịt mềm và tẩm ướp ok. Tuy nhiên phần sốt Thái ăn cùng xôi thì mình thấy vị hơi mờ, không rõ hương vị như mong đợi, không nổi bật lắm.\nTháp sườn thì chỉ ở mức bình thường, không có gì quá đặc sắc so với các món còn lại. Ăn còn hơi vị xương chưa khử được hết mùi xương.\nNhìn chung, quán có nhiều món ngon, nhất là salad cá chiên và canh tôm cốt dừa. Những món khác ổn, ăn được, nhưng không gây ấn tượng mạnh bằng hai món kia. Buổi ăn dễ chịu, no và vui.",
+        "time": 1764222910,
+        "translated": false
+      },
+      {
+        "author_name": "Thư Phạm",
+        "author_url": "https://www.google.com/maps/contrib/114267113221358430168/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs1I7HxvL67tgwj0vjPKYgzHl1V2HJmmcfzfIqkSIkOK784TZA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán Thái lâu năm, lowkey mà ngon, rẻ 🤩 Siêu thích nấm chiên ở đây tại có cái xốt chấm ngon xỉu",
+        "time": 1772292520,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Hiếu Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101411680144862489972/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3R_AXN8VMT06yEfbHbmaa_1c2bBRN8FWN9L2_uQ0svum2beEr=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tháp sườn 235k không có bếp, chỉ có 1 miếng sườn còn lại toàn xương cục không có thịt, nấm chiên nhiều mỡ, cơm rang bị nguội.",
+        "time": 1770907903,
+        "translated": false
+      },
+      {
+        "author_name": "Hạnh Hồng",
+        "author_url": "https://www.google.com/maps/contrib/104537047143188258787/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlp1pJojwVSnxqEYm2QX15CBcjrlc6nWVfgPHown65-Ikm3UEu=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "khá ngon và giá hợp lý so với các quán thái ở HN. 4 người bọn mình đi ăn hết 908k, no căng\n- tôm dằm mắm ngon nhưng hơi đắt (119k 4 con), tôm tươi, giòn\n- canh tomyum (to) RẤT RẤT RẤT ngon, nhiều tôm\n- pad thái là style xào ướt, nhưng hơi ngọt xíu\n- cơm rang dứa bạn mình nhận xét là hơi ngọt, cơm tơi\n- thịt sốt thái (?) k ấn tượng lắm, 6 điểm\n- nấm chiên ngon, nhưng nước chấm hơi ngọt\n\nnhìn chung là ngon trong tầm giá!",
+        "time": 1755343199,
+        "translated": false
+      },
+      {
+        "author_name": "Nhung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116688097351250446516/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKCGgBk_lNewd_V7ZhjahhB75jwHlQxgm8D_m6nAwPISysGSw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "- Không gian không được chăm chút, cảm giác cũ kĩ.\n- Trưa thứ 7 nhưng quán khá vắng.\n- Các món vị ổn. Nấm chiên mọi người khen nhưng mình thấy bình thường, do có bát xốt chấm vị ngọt nên dễ ăn. Thịt lợn nướng ăn kèm xôi. Canh tomyum bát nhỏ ăn kèm cơm. Pad Thái không ấn tượng lắm. Gỏi xoài cá trê ổn, cá chiên nên sẽ hơi ngấy dầu.\n- Nhân viên không nhiệt tình, thân thiện khi giao tiếp, phục vụ khách lắm. Mình đi 2 người, gọi khá nhiều món để thử nhưng không biết có 2 món đã kèm cơm, xôi nên gọi cả Pad Thái để ăn cho no. Nhân viên nếu tinh tế hơn thì nên nhắc để khách cân nhắc lại khẩu phần phù hợp.\n- Giá cả ok: 5 món này kèm 2 nước hơn 600k.",
+        "time": 1754715648,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 270
+  },
+  "harvested_at": "2026-04-28T16:15:47.752664"
+}

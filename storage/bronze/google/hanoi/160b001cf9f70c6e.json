@@ -1,0 +1,173 @@
+{
+  "u_key": "160b001cf9f70c6e",
+  "original_osm_name": "Cà Phê AnAn",
+  "google_raw": {
+    "formatted_phone_number": "0963 088 883",
+    "geometry": {
+      "location": {
+        "lat": 21.0302477,
+        "lng": 105.8489132
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0316038802915,
+          "lng": 105.8502825802915
+        },
+        "southwest": {
+          "lat": 21.0289059197085,
+          "lng": 105.8475846197085
+        }
+      }
+    },
+    "name": "AnAn Coffee Hanoi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Phan Lê",
+        "author_url": "https://www.google.com/maps/contrib/105962814933564593524/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpDjM2P4IDMpURouZETaRP_Ipn0pzdCc2Pe2OKmLznXRh1GZGGBg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Coffee ngon lại ở phố đi bộ nữa lên cuối tuần rất vui",
+        "time": 1563880293,
+        "translated": false
+      },
+      {
+        "author_name": "Việt Người",
+        "author_url": "https://www.google.com/maps/contrib/117988671132135706534/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEl858_t0tLS0CgIK4XbwH_dJyvPEVNE9tIq7MqKcJXxDmFA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Bác An nhiệt tình hơn cả nhân viên, cà phê ngon và rất thơm",
+        "time": 1498272490,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Lực",
+        "author_url": "https://www.google.com/maps/contrib/103844738650432729687/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHpA3j1wH1crpoNOs1OkzVyZymQEHjArawuZt1gDrlwb2lmQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cà phê rất hợp gu, giá hợp lý!",
+        "time": 1700794117,
+        "translated": false
+      },
+      {
+        "author_name": "chien nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114427430752693170751/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViBfIXA7wlAy1F6mX1dmfyx6iKTSuX2jhm7jX5UigpUK0Vy0NLxA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Quán quá bình thường không có gì nổi bật",
+        "time": 1514027780,
+        "translated": false
+      },
+      {
+        "author_name": "bui ngoc chung",
+        "author_url": "https://www.google.com/maps/contrib/114307168131299082496/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKewLBOz5G1KIHexkS1qqOIElyghUaK_fKGF_dNIPG-qxbUiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Cà phê rất ngon và đặc biệt!",
+        "time": 1511952485,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 184
+  },
+  "harvested_at": "2026-04-26T12:45:24.884179"
+}

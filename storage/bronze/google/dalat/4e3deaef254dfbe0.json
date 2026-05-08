@@ -1,0 +1,173 @@
+{
+  "u_key": "4e3deaef254dfbe0",
+  "original_osm_name": "RỪNG NA UY cafe",
+  "google_raw": {
+    "formatted_phone_number": "0979 888 850",
+    "geometry": {
+      "location": {
+        "lat": 11.938013,
+        "lng": 108.4831848
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9393724302915,
+          "lng": 108.4845591802915
+        },
+        "southwest": {
+          "lat": 11.93667446970849,
+          "lng": 108.4818612197085
+        }
+      }
+    },
+    "name": "RỪNG NA UY cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–19:00",
+        "Thứ Ba: 08:00–19:00",
+        "Thứ Tư: 08:00–19:00",
+        "Thứ Năm: 08:00–19:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–19:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Ryan đi tùm lum",
+        "author_url": "https://www.google.com/maps/contrib/109043124518896546943/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1unbfCFyuCru6EobUH9ebfuBEuoSd4fKnGfOZxpk-dl9wxs8=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán be bé xinh xinh. Trang trí decor ấm cúng\nCó khu bán đồ 2nd hand\nCà phê ngon\nTrà đào cũng ngon\nCó view",
+        "time": 1768929166,
+        "translated": false
+      },
+      {
+        "author_name": "Trúc Quỳnh",
+        "author_url": "https://www.google.com/maps/contrib/104359201204314817172/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqVTBi-EGgkZdscMAnPZqm3RhZqrj3fTmgRdxJ9XU-gI0w4Ls9=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cũng không lớn nhưng vẫn nhiều chỗ ngồi\nView siêu đẹppp, ngồi mà quên thời gian luôn\nLy bạc xỉu 55k uống ngon\nBị cái là bàn với ghế chỗ ban công hơi lùn hơi nhỏ nên ngồi không thoải mái",
+        "time": 1769488630,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Trang Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108305504057430664527/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBphUw0vFxbsq8m8PbYufxtjg0oM41gRXBnqOp-h4a-wsxuxeA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình từng tới quán cách đây mấy năm, đợt này quay lại vẫn khá ưng ý. Đồ uống ổn, view thoáng đãng, vibe chill chill",
+        "time": 1766143649,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Huynh",
+        "author_url": "https://www.google.com/maps/contrib/112068788863493256680/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxKRhzIxmVminLE0-4bmEpDm_bkvh6qGWXWyIgQlYTSSMK-v04Gw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán có nhiều góc chụp, tui uống bạc xỉu và cacao tổng 110k. Đi buổi trưa quán khá vắng, anh nhân viên nch dth, bạc xỉu ngon nka sốp",
+        "time": 1766658577,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Cao Quốc",
+        "author_url": "https://www.google.com/maps/contrib/108719543042427031804/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5ag6Q8GmAvmD2ziXPl7LJO8t08Z9LOmf29RHnrMtkGgVvQv4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chả còn gì để nói, quá tuyệt. Mình đi ĐL có 3 ngày nhưng phải qua rừng nauy tới 3 lần",
+        "time": 1769781402,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 288
+  },
+  "harvested_at": "2026-04-30T15:12:26.995556"
+}

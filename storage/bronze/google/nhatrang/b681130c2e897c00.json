@@ -1,0 +1,173 @@
+{
+  "u_key": "b681130c2e897c00",
+  "original_osm_name": "Дешёвая еда все по 35",
+  "google_raw": {
+    "formatted_phone_number": "0328 391 576",
+    "geometry": {
+      "location": {
+        "lat": 12.2295883,
+        "lng": 109.1963352
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2309226802915,
+          "lng": 109.1976393302915
+        },
+        "southwest": {
+          "lat": 12.2282247197085,
+          "lng": 109.1949413697085
+        }
+      }
+    },
+    "name": "ВКУСНО - BISTRO",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Hoang Ngoc Thao Ngan",
+        "author_url": "https://www.google.com/maps/contrib/102760804556306771695/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbeUXH0uYQfuVkUmsW5RgU7R4Kuzz5HUxtCZn6ZYTsGRU5KkE3=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "tối 15/2 mình với bạn mình vừa ăn tối mừng sinh nhật ở đây. Lần đầu trải nghiệm beefsteak mà ưng ý quá chừngg 🥰 Các món ăn rất vừa miệng, decor cũng rất đẹp, tốc độ lên món cũng khá nhanh, mình cần gì thì nhân viên cũng hỗ trợ hết mình 🥰 chị chủ dễ thươngg lắm luôn, nhất định sẽ quay lại ạ",
+        "time": 1739700855,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Tran",
+        "author_url": "https://www.google.com/maps/contrib/104074517622984202124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYGqS519KfuPFtKCwcV6mLAurAzrQXIMeT3ilmEK4hp88MtorU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán ấm cúng, thức ăn ngon, giá quá ổn , đặc biệt chủ quán thân thiện dễ thương. Mình đặc biệt thích món súp bí đỏ ở quán, bò dù làm chín kỹ vẫn mềm mọng nước, nói chung rất hài lòng và sẽ quay lại",
+        "time": 1735607530,
+        "translated": false
+      },
+      {
+        "author_name": "My Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105168411725085074779/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeascBuzb6k67f8_DrHOOshMcSY4Lji7yPFIgl9WGsauto9nsV=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Mình đặt suất 19h 14/2/25 vì cũng nghe nhiều review tương đối tốt. Quán có phong cách âu, đẹp, bài trí có gu. Menu mình set 599/2khách.\nĐồ ăn ở mức ổn, chưa phải quá xuất sắc. Hqua mình đi ngày cao điểm nên đông và lên món chậm, chắc bữa nào phải ghé ngày thường",
+        "time": 1739587414,
+        "translated": false
+      },
+      {
+        "author_name": "Tranthithuha",
+        "author_url": "https://www.google.com/maps/contrib/116308635354938299142/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFqB5m4lSeM1beSM9DHGQJ2qkOOdkBV_moWFkTsHQtkJd4big=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chủ quán thân thiện , phần ăn nhiều lắm lun í , khẩu vị rất vừa ý mình , Bò siêu mềm\nChắc chắn sẽ quay lại lần sau",
+        "time": 1740053035,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Thanh Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/101709404273971817806/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI19MgHtk1gfNe7XQP87HLJObsao_yx69PCMjdydswiJuUcAg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Bò Bít Tết mềm tan với sốt tiêu đen cuốn lắm nhé  & một phần ăn khá đầy đặn mọi người nên thử. Không gian ấm cúng , chị chủ quán thân thiện và nhiệt tình với khách lắm luôn í",
+        "time": 1729776112,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 116
+  },
+  "harvested_at": "2026-05-02T15:36:01.216096"
+}

@@ -1,0 +1,163 @@
+{
+  "u_key": "73c4a995c100bf45",
+  "original_osm_name": "Bo Bo",
+  "google_raw": {
+    "formatted_phone_number": "0379 583 689",
+    "geometry": {
+      "location": {
+        "lat": 16.0541216,
+        "lng": 108.2443988
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0554549802915,
+          "lng": 108.2457019802915
+        },
+        "southwest": {
+          "lat": 16.0527570197085,
+          "lng": 108.2430040197085
+        }
+      }
+    },
+    "name": "Bo'Bo Food",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 15:00–22:00",
+        "Thứ Tư: 15:00–22:00",
+        "Thứ Năm: 15:00–22:00",
+        "Thứ Sáu: 15:00–22:00",
+        "Thứ Bảy: 15:00–22:00",
+        "Chủ Nhật: 15:00–22:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Lê Duy Nhất Nam",
+        "author_url": "https://www.google.com/maps/contrib/115813871016858027497/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIFZfNGN9pCj6Vr7KBPSN-bNOHUSgDF844jSAFBNvAxl2I7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Nếu bạn đi du lịch tại Đà Nẵng, hãy ghé đến tiệm pizza này để thưởng thức, đồ ăn rất ngon 10/10",
+        "time": 1753894221,
+        "translated": false
+      },
+      {
+        "author_name": "Zoey Le",
+        "author_url": "https://www.google.com/maps/contrib/116371874801409661332/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-2yAzkZ6Iim4YCmnjnbhUBC1mYYiyIC4D38Vd4c4dBNQ2rOj8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Pizza ở đây ngon lắm, giá rất ok luôn, dịch vụ tốt, tư vấn trả lời nhanh, mình ở gần nên được freeship. Quá tuyệt vời, sẽ quay lại nhiều lần nữa.",
+        "time": 1731900268,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Thị Minh Phương",
+        "author_url": "https://www.google.com/maps/contrib/104160464216027199838/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnwOBA0Q2U8DfB90e64sSA8Dt5A69JeVCoNataXR5lVzs57tA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Pizza ở đây siêu ngon, giá cả phải chăng nhưng chất lượng bánh thì khỏi phải bàn. Đế bánh giòn mà không bị khô, nhân thì đa dạng cho khách hàng lựa chọn nha. Nhân viên cũng dễ thương nhiệt tình lắm, mọi người nên đến và trải nghiệm nhé! Bánh mình ăn nhân Four cheese, tín đồ phô mai nên thử nhé!",
+        "time": 1734719579,
+        "translated": false
+      },
+      {
+        "author_name": "ph0ung wwewe",
+        "author_url": "https://www.google.com/maps/contrib/113238760807875178646/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtbIQBc5c41nYf9QAq7dJP-XazVozGPr5IkniYjpDRIK0--4wTtQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Tiệm pizza nằm trên con đường nhỏ gần ks mình ở . Nhân viên siêuuu nhiệt tình . Pizza ngon đế bánh thơm giòn, nguyên liệu chất lượng . Đáng để thử trong chuyến du lịch này ⭐️⭐️⭐️⭐️⭐️",
+        "time": 1729255845,
+        "translated": false
+      },
+      {
+        "author_name": "Le Thao (Rachel)",
+        "author_url": "https://www.google.com/maps/contrib/105775162693940829352/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULGcTz0CuYgIwuxhK5HmZjAqlmPZraUNfkAwYVFSrpPsTjD4PK=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Anh chủ nhiệt tình dễ thương, còn chuẩn bị phần đồ ăn rất vừa khẩu vị của khách, khoai tây tươi mỗi ngày ăn mềm và ngọt, gà thơm và ăn kèm với bánh sốt chua chua mặn 🩵",
+        "time": 1747636981,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 397
+  },
+  "harvested_at": "2026-04-29T10:51:55.611395"
+}

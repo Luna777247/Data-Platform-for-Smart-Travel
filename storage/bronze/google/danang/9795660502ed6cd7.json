@@ -1,0 +1,39 @@
+{
+  "u_key": "9795660502ed6cd7",
+  "original_osm_name": "Phước Đức",
+  "google_raw": {
+    "formatted_phone_number": "0989 549 595",
+    "geometry": {
+      "location": {
+        "lat": 16.0506389,
+        "lng": 108.2208896
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0519436802915,
+          "lng": 108.2222410802915
+        },
+        "southwest": {
+          "lat": 16.0492457197085,
+          "lng": 108.2195431197085
+        }
+      }
+    },
+    "name": "Công Ty TNHH Trần Phước Đức",
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Tuan Dat Pham",
+        "author_url": "https://www.google.com/maps/contrib/116263292250403458113/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAp-Z1wha45bt0uJFxQav-LGSRrqEejocXx4z_5fGWyfOiKurGHg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1558795941,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-28T16:42:08.283730"
+}

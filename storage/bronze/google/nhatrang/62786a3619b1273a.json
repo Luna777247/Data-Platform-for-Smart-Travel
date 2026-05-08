@@ -1,0 +1,122 @@
+{
+  "u_key": "62786a3619b1273a",
+  "original_osm_name": "Saint-Hardy (Madonna Rock)",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.1706418,
+        "lng": 109.3134485
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.1719907802915,
+          "lng": 109.3147974802915
+        },
+        "southwest": {
+          "lat": 12.1692928197085,
+          "lng": 109.3120995197085
+        }
+      }
+    },
+    "name": "Saint-Hardy (Madonna Rock)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: 07:30–12:30"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Cường阮",
+        "author_url": "https://www.google.com/maps/contrib/114621775880295237221/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGQt5rLCtFJ_kbIsbL7NJiXyBnA76IACrPVvh43md4fx5w3DOp=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Đep nha",
+        "time": 1747040486,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Linh Nông",
+        "author_url": "https://www.google.com/maps/contrib/102092137054657842443/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP4pJG2bvXXy8zk7LINi7Xoh9r0BdoGB0MiCloWJBLOHsQ7OauYw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Địa điểm lặn lý tưởng.",
+        "time": 1714952509,
+        "translated": false
+      },
+      {
+        "author_name": "여은비",
+        "author_url": "https://www.google.com/maps/contrib/118322023372378245379/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCzVCVm9OheL4xrsOrOg7r7jeMwFKPl-RqWZeP572PHH5FWA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Tôi đã đi lặn ngắm san hô với Marine Snorkeling. Họ đưa tôi đến hai hang động nhỏ. Đây là lần thứ hai tôi lặn ở Hàn Quốc, và tôi rất thích. Biển ở đây không đẹp bằng biển ở Philippines, nhưng tầm nhìn dưới nước tốt hơn so với Biển Đông.",
+        "time": 1755143565,
+        "translated": true
+      },
+      {
+        "author_name": "Виктор Минаков",
+        "author_url": "https://www.google.com/maps/contrib/111314815468157247779/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3p4VEX2XFG5jbAqYsQVFqofT5KWpu3ZoeGk8j9-ISlB3lIA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cảnh đẹp, một địa điểm lặn lý tưởng. Tất cả các tàu lặn đều dừng lại để lặn. Dòng chảy có thể khá mạnh. Nếu may mắn, bạn sẽ phải trầm trồ trước quy mô của những tảng đá dưới nước!",
+        "time": 1745457315,
+        "translated": true
+      },
+      {
+        "author_name": "Lee엘모",
+        "author_url": "https://www.google.com/maps/contrib/102779636160755514258/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGwJ2vpt1C_4unySJMCe3ePBE7FezoFbrpQq1KCjLq-sIeug=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nếu bạn đi, tôi khuyên bạn nên đến gần đảo hoặc vách đá hơn. Ở đó rất đẹp và có rất nhiều loại cá.",
+        "time": 1718858211,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "harvested_at": "2026-04-30T16:07:40.317795"
+}

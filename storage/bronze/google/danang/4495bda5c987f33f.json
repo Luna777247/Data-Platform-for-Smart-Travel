@@ -1,0 +1,172 @@
+{
+  "u_key": "4495bda5c987f33f",
+  "original_osm_name": "Cafe Mrs Diep",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 15.8772028,
+        "lng": 108.3312977
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8786850302915,
+          "lng": 108.3326348302915
+        },
+        "southwest": {
+          "lat": 15.8759870697085,
+          "lng": 108.3299368697085
+        }
+      }
+    },
+    "name": "Cafe Mrs Diep",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–20:30",
+        "Thứ Ba: 08:30–20:30",
+        "Thứ Tư: 08:30–20:30",
+        "Thứ Năm: 08:30–20:30",
+        "Thứ Sáu: 08:30–20:30",
+        "Thứ Bảy: 08:30–21:00",
+        "Chủ Nhật: 08:00–21:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "hanh Tran",
+        "author_url": "https://www.google.com/maps/contrib/116791030625034168667/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwbVz3BKvQyBRX-ZENM--TyHemlHcITTglPC45VsG9lt23Czw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mọi thứ đều hoàn hảo, đồ ăn tươi ngon được chế biến một cách nhanh chóng. Nhân viên dễ thương và rất thân thiện",
+        "time": 1764772360,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Duong",
+        "author_url": "https://www.google.com/maps/contrib/113513303183125014446/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLTeSFITKCxjI76SAGCGk65St7vE2k_jzw9_k7vm1IkbLGmQ8=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "🏡 Nằm trong chợ Hội An, mình là khách du lịch nên ghé đại vào tiệm của cô luôn\n🍱 Bọn mình gọi Cao Lầu và Cơm Gà, hương vị Cao Lầu cũng okay, Cơm Gà Xé bạn mình khen là thơm nức mũi.\n✔️ Cô chủ dễ thương nhiệt tình, ân cần hỏi han bọn mình đủ thứ.\n👏🏻Trải nghiệm tốt, sẽ quay lại khi có dịp ghé Hội An",
+        "time": 1746989911,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa Tran",
+        "author_url": "https://www.google.com/maps/contrib/110551850289218360852/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdkf-skOvXWyrja9yiJqcsu0jLkEQ7m8QDwMKlGT0Km3Vgbw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cao lầu rất ngon, tôi đã ăn nhiều lần ở đây! Rất đáng trải nghiệm 👍🏻",
+        "time": 1764758214,
+        "translated": false
+      },
+      {
+        "author_name": "Marcus Iglesia",
+        "author_url": "https://www.google.com/maps/contrib/107524740959403793995/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3-b43pTGzZ3tAtRrmN7VVJ68ZArgy52KymQQMUoRLPxHHC6HCUQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Tôi đã ăn ở đây hai lần trong 3 ngày. Đồ ăn của họ ngon và đúng chuẩn. Người phụ nữ ở đó giải thích cho tôi một món ăn đặc biệt chỉ được chế biến ở miền Trung Việt Nam được chụp ở đây và tôi đã thử. Nó có vị rất tuyệt, đậm đà và sạch sẽ và tôi sẽ quay lại để thử lần nữa. Tôi cũng đã thử cơm chiên hải sản của họ và cũng rất ngon. Tôi tiếp tục quay lại đây và quầy sinh tố / đồ uống đối diện. Nhân viên rất thân thiện. Vì vậy, hãy đến tham gia và ngồi vào lần tới khi họ đến với bạn để ngồi và xem thực đơn. Xin đừng bỏ qua họ và hãy giúp hỗ trợ những người dân địa phương nhỏ bé này thay vì các nhà hàng cao cấp, thương hiệu có khắp nơi ở Hội An tập trung nhiều khách du lịch. Nếu bạn muốn có đồ ăn chính thống, ủng hộ người dân địa phương và giá cả phải chăng thì hãy đến đây và các quầy hàng bên trong tòa nhà này.",
+        "time": 1764168357,
+        "translated": true
+      },
+      {
+        "author_name": "AussieScoot",
+        "author_url": "https://www.google.com/maps/contrib/116540763914893481477/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIG5nqSd0L2zv1bDp9KnrmsJeqGQ7WmQODYGpetNotqkwlHsw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chúng tôi được gia đình giới thiệu nơi này. Thật lòng mà nói, nếu không thì chắc chúng tôi đã không ăn ở đây. Thật là một bất ngờ thú vị.\n\nĐây là một nơi đơn giản - chỉ có ghế dài và bàn ghế để ngồi ăn, nhưng đồ ăn thì rất ngon. Nếu bạn muốn đồ ăn tươi ngon, giá rẻ, không cầu kỳ, thì nơi này sẽ không làm bạn thất vọng.\n\nChúng tôi được khuyên nên gọi bánh bao White Rose và Mực nhồi thịt. Thêm một cốc bia nữa là bạn sẽ hài lòng vì đã đến đây.",
+        "time": 1765031423,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 64
+  },
+  "harvested_at": "2026-04-29T09:46:55.487586"
+}

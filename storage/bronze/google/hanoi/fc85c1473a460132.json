@@ -1,0 +1,162 @@
+{
+  "u_key": "fc85c1473a460132",
+  "original_osm_name": "Nhà Hàng Cháo Trai",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0088793,
+        "lng": 105.8577912
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0102523302915,
+          "lng": 105.8591411802915
+        },
+        "southwest": {
+          "lat": 21.00755436970849,
+          "lng": 105.8564432197085
+        }
+      }
+    },
+    "name": "Quán Cháo Trai",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:30–17:30",
+        "Thứ Ba: 11:30–17:30",
+        "Thứ Tư: 11:30–17:30",
+        "Thứ Năm: 11:30–17:30",
+        "Thứ Sáu: 11:30–17:30",
+        "Thứ Bảy: 11:30–17:30",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Olala_khai_phá",
+        "author_url": "https://www.google.com/maps/contrib/101536760958313502529/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8E9-XE8SUwqX-FsL7Tjqs3BW-D6syAN7uCM_SZ2aDUT5q2FI=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "25k 1 bát cháo trai full toping đầy vượt miệng bát. Ăn rất ngon nhé, quẩy ăn đến cuối vẫn giòn. Ở đây là quán vỉa hè nên chỉ sẵn chỗ đỗ xe máy thôi, ô tô sẽ phải gửi ở ngay cạnh đó trên vỉa hè của gtcc.",
+        "time": 1757926015,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Hiệp",
+        "author_url": "https://www.google.com/maps/contrib/100829322893890321003/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcAUW0MBcHelaVmiefBV5US6pLraOBwIsk--vSpYPx8c1_ZOjM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cháo trai 25k full toping. Cháo ngon, quẩy giòn, trai ăn không bị tanh.",
+        "time": 1769968946,
+        "translated": false
+      },
+      {
+        "author_name": "Le Thanh Hang",
+        "author_url": "https://www.google.com/maps/contrib/112855208180174292947/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBawd6CmJBcRKWs-k6p0ppgEUh2PKYd0bYd-0SfVkWgPeu3MFm=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Cháo rất ngon và chất lượng. Mình lâu ngày mới về HN nên tìm quán cháo trai theo trên gg map để ăn thử. Và tuyệt đối hài lòng. Cảm ơn các bạn đã review",
+        "time": 1753262358,
+        "translated": false
+      },
+      {
+        "author_name": "Jas Pham",
+        "author_url": "https://www.google.com/maps/contrib/105023231839459138077/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoilc9ued_x4O2-BJ5k_mgeCqJJvh33qGRfZeoy1TmgLOzxgo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cháo bát đầy đủ 25k mà lượng nhìu lắm. Vị cháo ngon và thơm, mình rất thích. Nay ăn ngày hơi nóng nên đến lúc 4h30 chiều vẫn còn cháo, mùa thu đông mình nghĩ sẽ hết nhanh lắm 🥹",
+        "time": 1724842078,
+        "translated": false
+      },
+      {
+        "author_name": "Juno Tùng",
+        "author_url": "https://www.google.com/maps/contrib/118025875287654997127/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLhcZRzsySdGFKFsnCWDiWvyf2xgrc17sKWUfvihciKS_vIcEz=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nằm ở tuyến đường bên trong của đường Trần Khát Chân. Thường bán từ trưa đến chiều là hết.\n\nMình ăn thấy vị cháo khá lạ miệng, topping gồm trai, ruốc (chà bông), hành phi và quẩy giòn. Một bát đầy đủ là 25k.\n\nQuán vỉa hè nên khách tới sẽ ngồi ngay vỉa hè để ăn. Trời đẹp thì khá ok.",
+        "time": 1735215109,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 41
+  },
+  "harvested_at": "2026-04-28T16:24:50.256877"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "7359f36f75e39d08",
+  "original_osm_name": "Cà Phê Runam",
+  "google_raw": {
+    "formatted_phone_number": "024 3928 6697",
+    "geometry": {
+      "location": {
+        "lat": 21.0289113,
+        "lng": 105.8499351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0303025802915,
+          "lng": 105.8512686802915
+        },
+        "southwest": {
+          "lat": 21.02760461970849,
+          "lng": 105.8485707197085
+        }
+      }
+    },
+    "name": "RuNam Phố Nhà Thờ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Bê Linh",
+        "author_url": "https://www.google.com/maps/contrib/110126943051474874105/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgg-9DhKvQKnzne9qygo2jpN6UwQrQePZ4jX3XJdmkGszAj_j7=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cafe khá ấn tượng decor kiểu vintage mà vẫn sang chảnh, mà trong quán tủ trang trí và bán đồ lưu niệm, hoặc bán cả đồ hộp quà cafe… decor rất xinh lun ý. Khá phù hợp để đi date vì có cả đồ ăn nữa cơ. Nhưng nước ở đây không ngon so với cái giá quá chát, mình uống trà matcha khoai môn mà nó ngọt lắm luôn, nó đúng thơm mùi khoai môn chứ không ấn tượng gì về matcha cả. Giá ở đây >100k/ cốc nước nhé (và chưa bao gồm cả thuế VAT 8% nữa).\nDịch vụ mình thấy ở đây ổn nhé, có mời nước nha. Gọi nhân viên cũng service mình luôn chứ cũng không chờ gì",
+        "time": 1766899675,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Ho",
+        "author_url": "https://www.google.com/maps/contrib/103447569650938277424/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZYf3EE9RZcVB9SWEC_-DkDX6eUF_2XYGxVT8W4AQwp09AJ1Br=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Lúc mình đến thì quán khá vắng, nhà mình ngồi bên cạnh chứ ko phải gian chính. Phía bên cạnh có khoảng 3 bàn, khu trưng bày hơi tách biệt nhưng vẫn có nvien sang order đồ luôn. Order lúc đầu thì sang nhanh, nhưng sau đó thì siêu chậm. khi nvien bê nước lên lần 1 thì mình có gọi thêm 1 bánh chocolate truffle. Bánh ăn tạm ổn. Tuy nhiên đợi lên bánh thì cực kì lâu. K có khăn giấy. Nhà mình nhắc xin giấy nhưng mãi k có và phải tự qua lấy. Uống gần hết thì nvien mới bê nước lọc sang. Quán rõ là k đông nhưng phục vụ kém. Sữa chua ngọt, k mịn lắm. Bánh flan thì k bị ngọt nhưng k ngậy thơm, ăn nhạt nhẽo. Trà ô long cheeée foam uống cũng k có gì đặc biệt.",
+        "time": 1768462306,
+        "translated": false
+      },
+      {
+        "author_name": "Hailey Hoang",
+        "author_url": "https://www.google.com/maps/contrib/100542975094116739481/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0oaD9vve7xagg2MAMasUY7lk8_WAo3zjgYuspm83t6Be_pP0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đợi đồ lâu. Khách gọi đồ ngọt, cà phê đen và cơm mà không thấy nhân viên mời nước lọc, mình phải hỏi 2 lần mới có. Gần trưa thì quán đông dần mà tầng 2 chỉ có 1 nhân viên, rất khó gọi vì bạn này phải chạy quá nhiều bàn. Khi đi xuống nhà để thanh toán thì thấy tầng 1 đông nhân viên hơn hẳn, không hiểu sao tầng 2 lại thiếu người.",
+        "time": 1767016876,
+        "translated": false
+      },
+      {
+        "author_name": "Dũng BS",
+        "author_url": "https://www.google.com/maps/contrib/117007785489574465719/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOIlF54mi_9Vbil5uJU55qxRp8K96RcqMz4EffyUBhRiy3n_o4=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nằm ngay bên phố Nhà Thờ, khá gần Nhà Thờ lớn và Hồ Hoàn Kiếm, nhiều du khách nước ngoài đến trải nghiệm góc balcon, đồ ăn và uống ổn",
+        "time": 1763154772,
+        "translated": false
+      },
+      {
+        "author_name": "Viet Thi",
+        "author_url": "https://www.google.com/maps/contrib/112592140417032991092/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOCw8NBFBAm-AwfrJjtn6apTw0wuxXlQ4-vbuU3psLhMkQnGMj=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Cafe trứng siêu ngon. Không gian quán nhẹ nhàng, trang nhã.\n\nNhân viên tâm lý",
+        "time": 1761876553,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 607
+  },
+  "harvested_at": "2026-04-26T12:45:13.968863"
+}

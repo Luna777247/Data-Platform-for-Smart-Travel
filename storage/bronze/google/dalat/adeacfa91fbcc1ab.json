@@ -1,0 +1,86 @@
+{
+  "u_key": "adeacfa91fbcc1ab",
+  "original_osm_name": "Ký túc xá Nguyễn Hoàng",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9822104,
+        "lng": 108.4259742
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9835332302915,
+          "lng": 108.4274653802915
+        },
+        "southwest": {
+          "lat": 11.9808352697085,
+          "lng": 108.4247674197085
+        }
+      }
+    },
+    "name": "Ký túc xá Nguyễn Hoàng",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Tuấn Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104750366340955006243/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXrLvSVVvmyF-7JaqK7ISN4m152jJKweYVed04-ijJtkTvUstt=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "địa điểm này đi thêm 200m rẽ trái chạy thêm 100m chạy tiếp 200 nữa có tiệm bán trà sữa rất ngon và rẻ nữa tạp hóa thì đa dạng mặt hàng",
+        "time": 1754288531,
+        "translated": false
+      },
+      {
+        "author_name": "Ninh Xuân",
+        "author_url": "https://www.google.com/maps/contrib/111607838784182246715/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLj6Xo7FaHz_DaplgJlNKEHWddAIvs8xd9wsr9YmoBTMcJ3eg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "💯",
+        "time": 1765179234,
+        "translated": false
+      },
+      {
+        "author_name": "Huy N",
+        "author_url": "https://www.google.com/maps/contrib/115867733517938460174/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0JNATdzcmQ1KX-9k4oYsbxgylBdbANXzAIB2bftWDnKTEqQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Không phù hợp",
+        "time": 1749675884,
+        "translated": false
+      },
+      {
+        "author_name": "Han Le",
+        "author_url": "https://www.google.com/maps/contrib/104962894720704387644/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWA11sE6QmLdUjaf_-VE7nxNcph_OkY_6xF6UZcN1Pu_2_mw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Xa quá",
+        "time": 1700082455,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Mỹ",
+        "author_url": "https://www.google.com/maps/contrib/103469545401519117498/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUPjkRvQpihD1cxFFZx6nMuzIl-A4CwWvnOmIxJbBErxkTPxM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "",
+        "time": 1754026546,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 13
+  },
+  "harvested_at": "2026-04-30T15:16:47.974119"
+}

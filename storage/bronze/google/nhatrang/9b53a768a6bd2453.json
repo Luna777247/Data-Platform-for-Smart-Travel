@@ -1,0 +1,162 @@
+{
+  "u_key": "9b53a768a6bd2453",
+  "original_osm_name": "Okroshka ăn",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2373921,
+        "lng": 109.1944904
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2387462302915,
+          "lng": 109.1958776302915
+        },
+        "southwest": {
+          "lat": 12.2360482697085,
+          "lng": 109.1931796697085
+        }
+      }
+    },
+    "name": "Oh, Pelmeshki!",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 11:00–22:00",
+        "Thứ Tư: 11:00–22:00",
+        "Thứ Năm: 11:00–22:00",
+        "Thứ Sáu: 11:00–22:00",
+        "Thứ Bảy: 11:00–22:00",
+        "Chủ Nhật: 11:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Băng B",
+        "author_url": "https://www.google.com/maps/contrib/107121339189650080619/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcmYLoNpYJqjmYOGEz297yFPmmDe8lqYG874EECx_pY3nYb3h5FA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tôi đã có 1 trải nghiệm rất tuyệt vời ở nhà hàng này\nNhân viên thân thiệt, tuy là giao tiếp khó khăn nhưng k vấn đề gì, nhà hàng có nhân viên người Nga và Việt Nam\nMón ăn rất ngon, tôi và con trai tôi đều mê tít, vì là lần đầu ăn món Nga nên tôi chỉ đánh giá theo cảm nhận cá nhân là ngon và dễ ăn, tôi k đánh giá theo khẩu vị của người Nga bản địa.\nCon trai tôi sau khi trải nghiệm món Cheburek thì đã tìm hiểu cách làm để có thể làm ở nhà.\nNếu có dịp quay lại Nha Trang nhất định tôi sẽ quay lại ủng hộ nhà hàng tiếp",
+        "time": 1772162316,
+        "translated": false
+      },
+      {
+        "author_name": "Otis Phương",
+        "author_url": "https://www.google.com/maps/contrib/106782382810575988262/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNnm4VHvo12BIux6NTMBSd5odjaV2T86fNzUOI3_GJC419cWiYmQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rất đông khách.\nĐồ ăn cũng ổn.\nMenu không có hình ảnh nên khá bất tiện cho khách chọn món. Mong nhà hàng bổ sung.\nNhân viên phục vụ chu đáo, nhiệt tình.",
+        "time": 1770458039,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Mai",
+        "author_url": "https://www.google.com/maps/contrib/102217810496809741615/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJM0nwThJx9g466DiUudEYE8q-y9CnVDKD-JqoWYOa4bgwydg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán bán các món ăn Nga, không gian ấm cúng, phục vụ nhanh, nói chuyện thoải mái, up cho mn đến thưởng thức. Mình sẽ ủng hộ và giới thiệu cho bạn bè.",
+        "time": 1763455313,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Ngan",
+        "author_url": "https://www.google.com/maps/contrib/115675398432156312231/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIciTcWm8lbQOmcr8vrPIeVMUwhxbgY4nDqjGMkskzToSiNBir=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Lần đầu trải nghiệm đồ ăn Nga, hợp khẩu vị, không gian sạch sẽ , nhân viên nhiệt tình, giá cả hợp lý. Mình rất ấn tượng với món soup 👍🏻",
+        "time": 1758366542,
+        "translated": false
+      },
+      {
+        "author_name": "quang phan",
+        "author_url": "https://www.google.com/maps/contrib/101522151186442816376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW15N59z9PnDwZMOfWWGMu6P24pEHt0oSq_kYZWa5_PtSw5e6Y=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Món Nga. Vị khá dễ ăn (tùy món) nếu không biết ăn món nào các bạn có thể nhờ gợi ý từ nhân viên. Một tình huống hài hước mình nhớ mãi ở quán là cả mình và bé nhân viên đều nghĩ đối phương không phải người Việt, và cố giao tiếp với nhau bằng tiếng Anh 🤣 sau đó nhận được lại câu \"ủa vậy á hả\" sau khi nghe mình nói tiếng Việt với bạn mình 🤣.\nVề món ăn, với nhứng người đam mê trải nghiệm sự đa dạng ẩm thực của các nước khác thì đây là một nơi bạn k thể bỏ lỡ. Đồ ăn ngon, chất lượng.  Giá cả cũng phù hợp. Hầu hết là người Nga đến quán, nếu bạn là người Việt, đừng ngại, cứ đi vô và sẽ có nhân viên người Việt giúp đỡ bạn.",
+        "time": 1753288569,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1343
+  },
+  "harvested_at": "2026-05-02T15:25:32.509495"
+}

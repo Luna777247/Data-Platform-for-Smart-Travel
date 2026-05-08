@@ -1,0 +1,691 @@
+[
+  {
+    "u_key": "20e2fe8ca16633f7",
+    "name": "Dinh vua Bảo Đại",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.687659,
+      "lon": 106.792966
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "832f049842e1aa4f",
+    "name": "Dark cave",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7980611,
+      "lon": 107.0989577
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "6262d1575d85128a",
+    "name": "Bat cave",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8004005,
+      "lon": 107.0977116
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "16842f7670c3bf8e",
+    "name": "Unnamed",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 21.131204,
+      "lon": 106.4358113
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "992f722b92c186ef",
+    "name": "Unnamed",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.862678,
+      "lon": 106.9956486
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "dbcbc8b8654c7b7f",
+    "name": "Van boi trong",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7602435,
+      "lon": 107.0784897
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "57ce61904ad92d70",
+    "name": "Monkey wall",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7805433,
+      "lon": 107.0985729
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "a4caf03f245dfbc8",
+    "name": "Tung thit / Jellyfish Wall / Three Brothers",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7780599,
+      "lon": 107.0768088
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "3269154feb4c48a8",
+    "name": "Pirate's belly",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7611426,
+      "lon": 107.0636188
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "8bdf755d39d9b67d",
+    "name": "Polish pillar / Flying fish wall",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7882738,
+      "lon": 107.1050171
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "6f0860a34a2fa2ea",
+    "name": "Hang Ca Cave",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8036007,
+      "lon": 107.1029495
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "3732cc38d482f2d6",
+    "name": "Unnamed",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7408666,
+      "lon": 106.9989859
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "b72a948d6c96c98a",
+    "name": "Lối vào đại đức",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8903233,
+      "lon": 106.5252213
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "db507e0a9f454454",
+    "name": "Khu di tích Côn Sơn - Kiếp Bạc",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 21.1509953,
+      "lon": 106.3816559
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "885fd057aa968361",
+    "name": "Tuyệt Tình Cốc",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 21.000758,
+      "lon": 106.5715604
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "00b228a5fd7d9b68",
+    "name": "Cau Dang",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.6762124,
+      "lon": 106.5124232
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "1d122caa71a66b0e",
+    "name": "Cau Khue",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7432165,
+      "lon": 106.5744985
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "cf2026c3cb696953",
+    "name": "Old Battlement",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.747592,
+      "lon": 106.5783689
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "47044343f5e5cb72",
+    "name": "Cau Dinh Vu - Cat Hai",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8066726,
+      "lon": 106.8283051
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "0dc25a7d3ffcf38c",
+    "name": "Hideaway",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7545598,
+      "lon": 107.0625062
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "5db85b59c66dd84a",
+    "name": "Beach",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7118863,
+      "lon": 107.0232086
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "afd97c5ec3d79604",
+    "name": "Unnamed",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8984695,
+      "lon": 106.6753678
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "7edfe38c4721106b",
+    "name": "Chè Cô Hương",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "An Đà",
+    "location": {
+      "lat": 20.8451022,
+      "lon": 106.7001517
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "897be92076deaa62",
+    "name": "Free Cave Entrance",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7555216,
+      "lon": 107.0103506
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "4c23d32348cac7a1",
+    "name": "Cho Ga",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8554771,
+      "lon": 106.6848835
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "cee6f6baac80dbae",
+    "name": "train street",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8525747,
+      "lon": 106.6836644
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "745e592258ee6214",
+    "name": "Korea Town",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.838363,
+      "lon": 106.7003154
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "097c08867b4ff1b9",
+    "name": "Nha Banh Dau",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.9388484,
+      "lon": 106.3331223
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "31a773205d659b84",
+    "name": "Old Mosque",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "Phố Nguyễn Khuyến",
+    "location": {
+      "lat": 20.8563437,
+      "lon": 106.6845939
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "89167c4dbc71766d",
+    "name": "Cung văn hóa thiếu nhi",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8457407,
+      "lon": 106.692055
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "b3f1c01b7e8c7483",
+    "name": "Wooden stilt bridge",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8475751,
+      "lon": 106.98249
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "91b104813b3851f3",
+    "name": "old ship",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8573477,
+      "lon": 106.6705591
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "5f0374da549e5292",
+    "name": "paradise valley",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7653892,
+      "lon": 107.0780425
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "c64e4aa49557034d",
+    "name": "Hoa’s House",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.866826,
+      "lon": 106.4312089
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "2c1a391f32559b55",
+    "name": "Tuyệt Tình Cốc, Hải Phòng",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.9994364,
+      "lon": 106.5712986
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "67a8547bdd57fd8f",
+    "name": "Tượng Phật",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.841705,
+      "lon": 106.5694804
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "bc6864eb7b88d8c1",
+    "name": "One pillar rock",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7924165,
+      "lon": 107.1094769
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "84312533136b0e66",
+    "name": "Unnamed",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7780404,
+      "lon": 107.0962021
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "9386ba99a0722170",
+    "name": "One pillar rock",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7926228,
+      "lon": 107.1076709
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "94d7674270e23a58",
+    "name": "Cung đường báo đốm",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8738811,
+      "lon": 106.7492907
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "1565ffaec1efb836",
+    "name": "Shrine",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7936716,
+      "lon": 107.0989404
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "f3f305927c197e26",
+    "name": "Hospital Cave",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7703486,
+      "lon": 107.0206305
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "ceec6c7398227f54",
+    "name": "TAJ lake",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.799979,
+      "lon": 107.0016136
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "39349a2138e9fc73",
+    "name": "Musical fountain",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7235192,
+      "lon": 107.0486656
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "61781296300ec5a6",
+    "name": "Hospital Cave",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7703651,
+      "lon": 107.0206678
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "61781296300ec5a6",
+    "name": "Hospital Cave",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.7703509,
+      "lon": 107.0207263
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "78ddbdf3b1717379",
+    "name": "Vòng xoáy thét gào",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8714972,
+      "lon": 106.7513696
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "33f7cee23ab4579c",
+    "name": "Cuồng phong",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8717929,
+      "lon": 106.7513822
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "ba8b374a3154950e",
+    "name": "Tia chớp nhiệt đới",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8720646,
+      "lon": 106.751265
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "03151a7b984e6272",
+    "name": "Ngôi làng Thần thoại",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8713013,
+      "lon": 106.7503296
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "9bf2f0a1418f4f51",
+    "name": "Nông trại hoàng gia",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8718016,
+      "lon": 106.7498579
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "4bca67e375be0f49",
+    "name": "Cơn lốc sắc màu",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8715138,
+      "lon": 106.7509397
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  },
+  {
+    "u_key": "b17d8deefec45f2d",
+    "name": "Kình ngư so tài & Đường đua thần tốc",
+    "type": "attraction",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8708507,
+      "lon": 106.7512531
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:39:28.274921"
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "u_key": "8989bfad23d23a04",
+  "original_osm_name": "Mỹ Lệ",
+  "google_raw": {
+    "formatted_phone_number": "0905 384 264",
+    "geometry": {
+      "location": {
+        "lat": 12.2099268,
+        "lng": 109.2133463
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2112333302915,
+          "lng": 109.2148321302915
+        },
+        "southwest": {
+          "lat": 12.2085353697085,
+          "lng": 109.2121341697085
+        }
+      }
+    },
+    "name": "Hải sản Mỹ Lệ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Phuong Pham",
+        "author_url": "https://www.google.com/maps/contrib/110349344985694768071/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0z1GLUZpSrMQ0W51v4jdjK2f_3NKCJLw_dDofqkIMSx-hAcnW=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ăn oke đồ ăn ngon, cô chủ dễ thương giá cả phải chăng",
+        "time": 1771655666,
+        "translated": false
+      },
+      {
+        "author_name": "Bang Cao",
+        "author_url": "https://www.google.com/maps/contrib/103575579911208245002/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgzz4AUF55rjghfyNBnFVQfsXpGuI4MjDzP0dk3y0RsdTXi7tg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "một tháng trước",
+        "text": "1. Đồ ăn tạm ổn\n2. Dịch vụ tạm được\n3. Nhà vệ sinh bẩn, không có nước rửa tay và bồn rửa tay",
+        "time": 1772609017,
+        "translated": false
+      },
+      {
+        "author_name": "Quốc Thuận Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106890602111758346187/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnDzYg_TRTdkow_-LTmqrFl6tQNEPSkTqsN9XRA3tPX-A_xtqg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán ko sang trọng nhưng được cái món ăn ngon ,giá cả rõ ràng cân đủ,mấy anh chị chủ quán là anh em của cựu cầu thủ đá bóng Hoàng Anh Tuấn rất vui vẻ nhiệt tình,quán có để bảng giá rõ ràng đồ đều bơi trong hồ,giá cũng bình dân",
+        "time": 1716366302,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Thanh Sang",
+        "author_url": "https://www.google.com/maps/contrib/114279178475022773932/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIi35rWp5orxS_rPiA15W209z7viMF-QmFkBB8K9Rc2mKhdfxA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ăn quá thiếu chuyên nghiệp, khách vào cả hơn tiếng đồ ăn chưa ra, bàn khác đã ăn xong rồi về, mặc dù có báo mà vẫn không lên món.",
+        "time": 1771679939,
+        "translated": false
+      },
+      {
+        "author_name": "Tân Mai Thành",
+        "author_url": "https://www.google.com/maps/contrib/113059279049494297377/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU75H7Ll23rgm-iJG1RGz3pgFXO_P-Cbs7vjcTIl27xzHzdwKUM=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán làm ăn quá chậm chạm. Đồ ăn k ngon lắm. K tôn trọng khách hàng",
+        "time": 1771507249,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 32
+  },
+  "harvested_at": "2026-05-02T15:13:48.106314"
+}

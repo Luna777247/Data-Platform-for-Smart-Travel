@@ -1,0 +1,93 @@
+[
+  {
+    "u_key": "50ff63f655c52169",
+    "name": "Floating market",
+    "type": "viewpoint",
+    "city": "cantho",
+    "address": "",
+    "location": {
+      "lat": 9.5576931,
+      "lon": 105.5893164
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:38:45.928349"
+  },
+  {
+    "u_key": "a5583ee45a3b4106",
+    "name": "Unnamed",
+    "type": "viewpoint",
+    "city": "cantho",
+    "address": "",
+    "location": {
+      "lat": 9.9200656,
+      "lon": 105.697705
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:38:45.928349"
+  },
+  {
+    "u_key": "47fcf6fd372e6274",
+    "name": "Floating market",
+    "type": "viewpoint",
+    "city": "cantho",
+    "address": "",
+    "location": {
+      "lat": 9.9902194,
+      "lon": 105.6650581
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:38:45.928349"
+  },
+  {
+    "u_key": "e6becb057a3f8ffb",
+    "name": "Bến Phà Tân Lộc - Bằng Tăng",
+    "type": "viewpoint",
+    "city": "cantho",
+    "address": "",
+    "location": {
+      "lat": 10.1964201,
+      "lon": 105.610946
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:38:45.928349"
+  },
+  {
+    "u_key": "1d90569c1ec17aba",
+    "name": "Vòng Xoay",
+    "type": "viewpoint",
+    "city": "cantho",
+    "address": "",
+    "location": {
+      "lat": 9.7890321,
+      "lon": 105.481364
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:38:45.928349"
+  },
+  {
+    "u_key": "0d2cfe3e8a026f6a",
+    "name": "Boats to Caí Rang Floating Market",
+    "type": "viewpoint",
+    "city": "cantho",
+    "address": "",
+    "location": {
+      "lat": 10.0320204,
+      "lon": 105.7884574
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:38:45.928349"
+  },
+  {
+    "u_key": "3ac0b1fac1b67b35",
+    "name": "Hau or Bassac River Viewpoint",
+    "type": "viewpoint",
+    "city": "cantho",
+    "address": "",
+    "location": {
+      "lat": 9.7614942,
+      "lon": 106.0787184
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:38:45.928349"
+  }
+]

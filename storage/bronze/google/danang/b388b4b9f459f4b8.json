@@ -1,0 +1,173 @@
+{
+  "u_key": "b388b4b9f459f4b8",
+  "original_osm_name": "미꽝 24 7",
+  "google_raw": {
+    "formatted_phone_number": "0905 305 797",
+    "geometry": {
+      "location": {
+        "lat": 16.0684138,
+        "lng": 108.2432764
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0697712802915,
+          "lng": 108.2445580802915
+        },
+        "southwest": {
+          "lat": 16.0670733197085,
+          "lng": 108.2418601197085
+        }
+      }
+    },
+    "name": "Mỳ Quảng 24/7",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–22:00",
+        "Thứ Ba: 07:30–22:00",
+        "Thứ Tư: 07:30–22:00",
+        "Thứ Năm: 07:30–22:00",
+        "Thứ Sáu: 08:30–21:30",
+        "Thứ Bảy: 07:30–22:00",
+        "Chủ Nhật: 07:30–22:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "郭哲宇",
+        "author_url": "https://www.google.com/maps/contrib/102726566907676982392/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz9wgp8wGnhjH4l84I5x4lDyiqBWXVW7Su8oa01p3Q0Q6EEzsz=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, nhân viên dể thương, không khí quán ấm áp",
+        "time": 1769653677,
+        "translated": false
+      },
+      {
+        "author_name": "Kevin Tran",
+        "author_url": "https://www.google.com/maps/contrib/108189289770584775731/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuwgcLC9WuzmJZ9wgkydqB9PPxnfd55VyvsycpHmu8wvQp-rZo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán đẹp, sạch sẽ, Mì Quảng ngon, nước dùng đậm vị\n\nLovely and clean restaurant. The Mi Quang is delicious, and the broth is rich in flavor",
+        "time": 1763783725,
+        "translated": false
+      },
+      {
+        "author_name": "Ly Nga",
+        "author_url": "https://www.google.com/maps/contrib/113267643936417859690/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6NvcmyKp_g2ELUMgtYeOmpltEKMr3GGNIOs7_dAOjpmP9HeYV=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Mì ngonnnnnnnn. Cực ấn tượng với mì quảng ếch, sợi mì da mềm, ếch và nước chan đậm vị, ngọt béo. Có nhiều rau. Giá rổ khoảng 85 cá cho 1 tô. Mình cũng có gọi mì bò, cungx ngon nhưng recommend mì ếch cho các bạn. Không gian yên tĩnh, lên đồ nhanh, phục vụ 10 điểm. Bọn mình còn đi nhầm vào cổng sau của quán :))) ngoài mì còn có nhiều đồ ăn thức uống khác.",
+        "time": 1750862575,
+        "translated": false
+      },
+      {
+        "author_name": "Viet Anh Tran",
+        "author_url": "https://www.google.com/maps/contrib/117317922449974476582/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJAzED7O6v1cq9dj57WHpaesjFRtc9gyxQWhQQipC1_5WXhkps=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán mì Quảng nằm ở vị trí đẹp gần biển Mỹ Khê, dễ tìm và có chỗ đậu xe thuận tiện. Không gian quán mát mẻ, thoáng đãng, rất dễ chịu. Thực đơn đa dạng với mì Quảng gà, cá, ếch và thập cẩm. Mình đặc biệt ấn tượng với món mì Quảng ếch – thịt mềm, đậm đà, rất đáng thử. Đây là một trong những quán mì Quảng mình muốn quay lại khi đến Đà Nẵng.",
+        "time": 1753597671,
+        "translated": false
+      },
+      {
+        "author_name": "PYlovesFood",
+        "author_url": "https://www.google.com/maps/contrib/108270158410342005044/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqDIbTwtbn3NQ7DrIzhR5Xiaz9hT4BIff8TaTWjIAdn8_vfA8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Lần đầu tiên mình thử quán này do gia đình tình cờ ghé ngang qua.\n\nẤn tượng đầu tiên về quán là quán mang lại không khí khá ấm cúng và các bạn nhân viên rất thân thiện.\n\nVề đồ ăn mình ordered mỗi loại khác nhau: Mì quảng gà, bò né, bún chả hà nội, và món chả cuốn chiên. Các món ăn được trang trí rất bắt mắt và kèm theo rau cho những bạn thích ăn rau. Theo ý gia đình mình, mọi người ăn khá lạc nhưng món ăn  rất vừa miệng so với tất cả.",
+        "time": 1675951109,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1100
+  },
+  "harvested_at": "2026-04-28T16:40:04.876457"
+}

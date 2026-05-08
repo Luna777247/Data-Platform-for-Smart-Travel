@@ -1,0 +1,171 @@
+{
+  "u_key": "097a8a4bfab7e064",
+  "original_osm_name": "H79 Coffee & Tea -  Nha Trang",
+  "google_raw": {
+    "formatted_phone_number": "0975 596 957",
+    "geometry": {
+      "location": {
+        "lat": 12.2198546,
+        "lng": 109.193135
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2212249802915,
+          "lng": 109.1944615802915
+        },
+        "southwest": {
+          "lat": 12.2185270197085,
+          "lng": 109.1917636197085
+        }
+      }
+    },
+    "name": "H79 Coffee & Tea",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–23:00",
+        "Thứ Ba: 06:00–23:00",
+        "Thứ Tư: 06:00–23:00",
+        "Thứ Năm: 06:00–23:00",
+        "Thứ Sáu: 06:00–23:00",
+        "Thứ Bảy: 06:00–23:00",
+        "Chủ Nhật: 06:00–23:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Tâm Lê thị",
+        "author_url": "https://www.google.com/maps/contrib/112932549154682313807/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqAK2T-qeoBBoEyA2iB9tSf5FFxDo68j8mx86tRh3A3lUQmg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán sân vườn thực sự phù hợp cho mọi người tới thư giãn và thưởng thức đồ uống tại đây. Phải nói là lần đầu tiên mình thấy thích một địa điểm như thế này",
+        "time": 1695454741,
+        "translated": false
+      },
+      {
+        "author_name": "Phương",
+        "author_url": "https://www.google.com/maps/contrib/114382136731823850196/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTm8SQT2BPZMcpQBIY_sOOx98YzrlamUYEQM0SzVYZ3UyzQnFF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "quán ruột của tuii, hehe yêu quán này lắm. đồ uống rẻ (có giảm giá cho hs), ngồi lâu không bị chửi, không gian rộng, thoải mái. mong quán ngày càng phát triển và có nhiều khách hơn ✨✨✨",
+        "time": 1721799940,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Bùi",
+        "author_url": "https://www.google.com/maps/contrib/113442943402588880419/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDoWK6F_WEkWgbapSDC8hacd_6JYr5-F8dnQ8Vxwt6EdxU5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Chill thật chill. Quán đẹp đồ uống ngon. Chị chủ quán dễ thương.  Sẽ là nơi tụ tập của bọn mình.",
+        "time": 1694741683,
+        "translated": false
+      },
+      {
+        "author_name": "Tân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101013145990065770397/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHDvigQvpkJPrbX10QkG3IvjdYf5FM2uXSMjpYSmQh-Gqck2oz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Không gian rộng, thoải mái",
+        "time": 1694182770,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Le",
+        "author_url": "https://www.google.com/maps/contrib/105940970543602341111/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmlNxh8pNjR8e5Tj_DAJJf71vFXkWcP-Axxc64qz870-rJ4rg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1713663984,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 8
+  },
+  "harvested_at": "2026-05-02T15:38:45.708910"
+}

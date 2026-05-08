@@ -1,0 +1,174 @@
+{
+  "u_key": "5197e872f98891fd",
+  "original_osm_name": "Ho Lo Quan",
+  "google_raw": {
+    "formatted_phone_number": "0901 132 369",
+    "geometry": {
+      "location": {
+        "lat": 15.8833592,
+        "lng": 108.3261187
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8847571302915,
+          "lng": 108.3274707802915
+        },
+        "southwest": {
+          "lat": 15.88205916970849,
+          "lng": 108.3247728197085
+        }
+      }
+    },
+    "name": "Hồ Lô quán",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–22:30",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "duong hoa",
+        "author_url": "https://www.google.com/maps/contrib/105197535820123292626/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsFhTBNBmURxo5itL7F1a72M_fKerniUPPhzQPeS4obP7wPw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vị ở đây giống hệt một nhà hàng Việt Nam thông thường.\nĐồ ăn thì bình thường. Đừng để bị quảng cáo đánh lừa.\nCó rất nhiều muỗi, và quan trọng nhất là có quá nhiều người Hàn Quốc, nên cảm giác giống như một nhà hàng Hàn Quốc thông thường. Tôi không thích ở đây.\nKhông chấp nhận thẻ tín dụng. Luôn phải trả tiền mặt.\nGiá cũng không rẻ...",
+        "time": 1770395839,
+        "translated": false
+      },
+      {
+        "author_name": "Nghia Truong",
+        "author_url": "https://www.google.com/maps/contrib/113401119749290711208/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfJURWCHqC_5LlbdyGWy4goSdRb1cbqSxg2TWx_z-W49Aj-Re63A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán ăn địa phương khá ngon.\nBánh hoa hồng chấm nước mắm ngon lắm\nHoành thánh chiên khá ngon\nGỏi bò salad khá ok, bò mềm.\nThịt kho vừa miệng.\nCanh cải ổn áp.",
+        "time": 1746691807,
+        "translated": false
+      },
+      {
+        "author_name": "Dúa Nguyễn Thị",
+        "author_url": "https://www.google.com/maps/contrib/105815371767881721875/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBJOlsmQMRjIqoGyRjjiEn6YIpOgEhvk2FH5e4A6FkkQmq_hk=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ăn mang phong cách ấm cúng, gần gũi với menu đa dạng các món đặc sản Hội An. Đồ ăn ngon, nêm nếm vừa miệng, trình bày đẹp. Không gian thoải mái, thích hợp đi cùng gia đình hoặc bạn bè. Nhân viên thân thiện, phục vụ nhanh chóng. Rất đáng ghé thử khi đến Hội An!",
+        "time": 1771833552,
+        "translated": false
+      },
+      {
+        "author_name": "Hòa Đào",
+        "author_url": "https://www.google.com/maps/contrib/110561712132884244986/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxS70t97ZptSUtTYqNktxVByAQ6jhvw2hook2bSwJHD1aX7gDQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán 10 điểm nha, đồ ăn địa phương khá ngon, mình thấy món nào cũng ổn và ngon nhất là tôm sốt me. Chủ quán rất nhiệt tình, thân thiện, tinh tế lắm nha, nhân viên còn chỉ cách ăn đúng cho khách rất chi tiết nha. Thực sự mình đã có trải nghiệm rất tuyệt vời ở đây! Highly recommend các b thử món tôm sốt me nhaa, mình gọi 1 đĩa rồi ngon quá phải gọi thêm đĩa nữa 😆😆",
+        "time": 1681481869,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Kha",
+        "author_url": "https://www.google.com/maps/contrib/104646373136372669804/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnQ9_DkTvgPmkB1xsk0TDPMNE0FVlIM8PFVM5-zYhTPdPYLw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bước vào nhà hàng, tôi cảm nhận ngay sự dễ chịu từ không gian thoáng đãng và cách bài trí tinh tế. Mùi thơm của món ăn lan tỏa khiến ai cũng thấy đói bụng. Món ăn được phục vụ nhanh, nóng hổi và rất vừa miệng. Nhân viên thân thiện, luôn nở nụ cười khi giao tiếp với khách. Sau bữa ăn, tôi thật sự hài lòng và chắc chắn sẽ quay lại vào dịp gần nhất.",
+        "time": 1768225776,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2946
+  },
+  "harvested_at": "2026-04-29T09:48:22.169774"
+}

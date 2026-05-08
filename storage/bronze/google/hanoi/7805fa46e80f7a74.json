@@ -1,0 +1,172 @@
+{
+  "u_key": "7805fa46e80f7a74",
+  "original_osm_name": "Laïka Café",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0511814,
+        "lng": 105.8130045
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0525821302915,
+          "lng": 105.8143840302915
+        },
+        "southwest": {
+          "lat": 21.0498841697085,
+          "lng": 105.8116860697085
+        }
+      }
+    },
+    "name": "Laika Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:30",
+        "Thứ Ba: 07:00–23:30",
+        "Thứ Tư: 07:00–23:30",
+        "Thứ Năm: 07:00–23:30",
+        "Thứ Sáu: 07:00–23:30",
+        "Thứ Bảy: 07:00–23:30",
+        "Chủ Nhật: 07:00–23:30"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Ngọc Mai",
+        "author_url": "https://www.google.com/maps/contrib/117789562364975171330/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcdbeWOGWXsPB9_d2vO3m92f4YuuUaofzd2FH1nttY21Q8BlUm=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian quán rộng, có chỗ để xe. Đồ uống bình thường, tạm ổn",
+        "time": 1772443043,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Anh",
+        "author_url": "https://www.google.com/maps/contrib/110716852312354393118/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOM3pud_ER5V1chCTOTT_rcf-0KF_UnXVNM8KOPVMwG-mQUhsn=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "mình đi chiều thứ 2 nên quán vắng , nhân viên và bảo vệ đều nhiệt tình . Đồ uống hợp khấu vị khá ngon , quán siêu rộng. Điểm trừ duy nhất là bàn ngoài ban công tụi mình ngồi khá bẩn cảm giác không được lau chùi thường xuyên",
+        "time": 1767026543,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Lưu Văn",
+        "author_url": "https://www.google.com/maps/contrib/114626467154857005161/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbLMs-Ib8K5IMeuYwu6R0wqY0V1EJsqBf4vLjHpWEGPvn3LSVO=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ uống nhân viên rất ok, view hồ không chen chúc xô bồ",
+        "time": 1770550339,
+        "translated": false
+      },
+      {
+        "author_name": "Jun Duki",
+        "author_url": "https://www.google.com/maps/contrib/105961359838650029831/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP56uSUjQtSwJHi3L-XmvGZtaZU7-eqU7_eGnB5SuIKjMmVQg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Trà bưởi hồng ngon nhé.\nKiều mạch ok.\nCamelia hạt dẻ cười ổn.\nĐừng giảm đường kẻo bị nhạt.\nNhân viên ở quầy hơi cục.\nBạn trông xe và bạn bê nước rất dễ thương.",
+        "time": 1755961730,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Đặng Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/115651281852183093944/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiHoMAiPAcevsxkx8Bi1z0XfNoN2a8NGz9B4gQ23VULP6yDvs7=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "ý là nước cũng mắc mà topping trân châu trắng của e đâu ạ:) thấy nước nhiều đã nghĩ là nó ở cuối cốc mà hút nước hết mình kh thấy cái trân châu nào :)))",
+        "time": 1769946727,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 595
+  },
+  "harvested_at": "2026-04-27T19:57:54.929547"
+}

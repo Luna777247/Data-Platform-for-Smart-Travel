@@ -1,0 +1,174 @@
+{
+  "u_key": "9fef2566beec01a7",
+  "original_osm_name": "Hai minh 86 tran phu",
+  "google_raw": {
+    "formatted_phone_number": "0704 092 843",
+    "geometry": {
+      "location": {
+        "lat": 12.23059,
+        "lng": 109.19912
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2319911802915,
+          "lng": 109.2004497802915
+        },
+        "southwest": {
+          "lat": 12.2292932197085,
+          "lng": 109.1977518197085
+        }
+      }
+    },
+    "name": "K.HOUSE Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–02:00",
+        "Thứ Ba: 11:00–02:00",
+        "Thứ Tư: 11:00–02:00",
+        "Thứ Năm: 11:00–02:00",
+        "Thứ Sáu: 11:00–02:00",
+        "Thứ Bảy: 11:00–02:00",
+        "Chủ Nhật: 11:00–02:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Duy Đào Khương",
+        "author_url": "https://www.google.com/maps/contrib/105289910289239638280/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL31_AYKSOz8LHASu4yA6TYU6HCEurZhwW0mUVV9KCxzFo5Fg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Lần thứ 2 đến K-House vào 1 ngày thứ 6 cuối tuần, gia đình mình được tiếp đón chu đáo y như lần đầu. Nay sinh nhật nên nhà mình gọi tôm hùm đút lò cùng cá ngừ áp chảo. Đồ ăn được phục vụ rất nhanh, bày biện đẹp mắt và hương vị tuyệt vời. Tôm hùm béo, ngọt, lớp phô mai đút lò thơm ngậy; cá ngừ áp chảo chín tới, mềm, đậm đà. Kết hợp tuyệt vời với tháp bia tươi mát lạnh. Không gian quán thoáng đãng, nhìn ra biển, tạo cảm giác thư giãn. Phục vụ thân thiện, chuyên nghiệp. Không có gì để chê!",
+        "time": 1755270306,
+        "translated": false
+      },
+      {
+        "author_name": "Panoma360 com",
+        "author_url": "https://www.google.com/maps/contrib/113923623900577459809/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG2uAzQOMkfGzOsfzmwCu0SyD50BrYpbO4VdN7hFnbKpGsCq_L=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn bình thường được cái ngay sát mặt biển, đi dạo ven biển mệt rồi ghé làm vài ve có thêm đồ nhắm, view rất đẹp nè nhìn ra vinpearl, thích hợp đi buổi tối",
+        "time": 1755530210,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Đinh mai",
+        "author_url": "https://www.google.com/maps/contrib/107718852063604542835/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHjuHROqp_xuoqLDhEnV6pPEEIfJx3J13On0ZCD-UuxDL7rXhh=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian view biển rất chill, nhân viên nhiệt tình, đồ ăn ngon",
+        "time": 1770389293,
+        "translated": false
+      },
+      {
+        "author_name": "mei nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109498736878060934158/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLD7xepsn4V5hZxAXV5yPm51rbiAUFCvST1y29IoSfBrd0OiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Món này ngon đỉnh, chủ và nhân viên dễ thương lần sau đến đây sẽ ghé ủng hộ tiếp",
+        "time": 1760522578,
+        "translated": false
+      },
+      {
+        "author_name": "Khải Lê",
+        "author_url": "https://www.google.com/maps/contrib/106496164161973149218/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNg1qJNZx9wOTd8xJ0UBWae6CsKhFU4ZyPKq2bR54XnKvkWw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chủ và nhân viên thân thiện lắm ạ ^^. View mát mẻ, gần biển. Đồ ăn vừa khẩu vị với mình.",
+        "time": 1742983691,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3086
+  },
+  "harvested_at": "2026-05-02T15:11:58.851667"
+}

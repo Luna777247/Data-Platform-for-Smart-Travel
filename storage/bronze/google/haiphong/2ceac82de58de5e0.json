@@ -1,0 +1,109 @@
+{
+  "u_key": "2ceac82de58de5e0",
+  "original_osm_name": "Mona's Rooftop",
+  "google_raw": {
+    "formatted_phone_number": "0866 585 832",
+    "geometry": {
+      "location": {
+        "lat": 20.7256659,
+        "lng": 107.0472005
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.7270028802915,
+          "lng": 107.0485447802915
+        },
+        "southwest": {
+          "lat": 20.7243049197085,
+          "lng": 107.0458468197085
+        }
+      }
+    },
+    "name": "Mona Rooftop Cocktail Bar",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:00–23:30",
+        "Thứ Ba: 16:00–23:30",
+        "Thứ Tư: 16:00–23:30",
+        "Thứ Năm: 16:00–23:30",
+        "Thứ Sáu: 16:00–23:30",
+        "Thứ Bảy: 16:00–23:30",
+        "Chủ Nhật: 16:00–23:30"
+      ]
+    }
+  },
+  "harvested_at": "2026-04-30T15:22:17.943903"
+}

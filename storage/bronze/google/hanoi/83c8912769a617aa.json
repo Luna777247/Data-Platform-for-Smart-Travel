@@ -1,0 +1,174 @@
+{
+  "u_key": "83c8912769a617aa",
+  "original_osm_name": "Che Dung",
+  "google_raw": {
+    "formatted_phone_number": "0342 170 416",
+    "geometry": {
+      "location": {
+        "lat": 21.0338436,
+        "lng": 105.8520985
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0352365302915,
+          "lng": 105.8534502802915
+        },
+        "southwest": {
+          "lat": 21.0325385697085,
+          "lng": 105.8507523197085
+        }
+      }
+    },
+    "name": "Chè Dung 95",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–23:30",
+        "Thứ Ba: 08:30–23:30",
+        "Thứ Tư: 08:30–23:30",
+        "Thứ Năm: 08:30–23:30",
+        "Thứ Sáu: 08:30–23:30",
+        "Thứ Bảy: 08:30–23:30",
+        "Chủ Nhật: 08:30–23:30"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Minh Khuê",
+        "author_url": "https://www.google.com/maps/contrib/118207855035174108053/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDLtXrya4b5jVwWkbRoSbdU10ocU_RVkuQpjZ2RhrdmcgA7os=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chè khá ngọt, không quá nổi bật, chấp nhận được do quán là một trong những quán chè hiếm hoi mở dịp tết. Menu tết sẽ hơi tăng so với ngày thường.",
+        "time": 1771750425,
+        "translated": false
+      },
+      {
+        "author_name": "Lan Anh Le",
+        "author_url": "https://www.google.com/maps/contrib/107928369532208620522/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJeTFxtn5PnSLH-A53q7x9WOoVTrH0DRHt48QF8ugXkbTWdg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán trên phố Hàng Bạc, mặt tiền nhỏ, bên cạnh nhiều quán chè, chè ngọt quá so với khẩu vị của mình, 1 phần tầm 35-40k",
+        "time": 1769323044,
+        "translated": false
+      },
+      {
+        "author_name": "Serena Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107386825904282698280/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnj8MIqG1nF1aPn-OwRWK-kMOdg8nOBFKvMn1tdqPUOWyw0g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Ngay phố có quán chè đông đúc nên cũng ghé thử. Quán có view ngã tư đông đúc nhộn nhịp, ngắm đường phố thì cũng oke. Món chè hạt sen nhãn nước dừa của mình tạm ổn, mấy món còn lại thì ko hợp khẩu vị lắm",
+        "time": 1744554193,
+        "translated": false
+      },
+      {
+        "author_name": "xuan tien le (Alex)",
+        "author_url": "https://www.google.com/maps/contrib/103292345136350191707/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_VrDfapZVWwlakkt4G_g6hxDpJsE_70DjzpRePaqVO3vXz4c=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán khá nhỏ do nằm trong phố cổ nhưng chè OK và phục vụ nhanh",
+        "time": 1770367892,
+        "translated": false
+      },
+      {
+        "author_name": "PHUONG LE",
+        "author_url": "https://www.google.com/maps/contrib/106602861136649192867/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5hPiXcykWbpCdp59tW4-rV2Zp-d3jxuMTe9rxuWAXBX9CMsbQSw=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ăn cũng được giá cũng ko quá đắt nhưng mà vị thì ko hẳn là quá đặc biệt xôi hơi cứng xíu",
+        "time": 1766326193,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 300
+  },
+  "harvested_at": "2026-04-28T16:31:05.544478"
+}

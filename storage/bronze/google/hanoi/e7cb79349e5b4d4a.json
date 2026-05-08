@@ -1,0 +1,163 @@
+{
+  "u_key": "e7cb79349e5b4d4a",
+  "original_osm_name": "Cà Phê HAN",
+  "google_raw": {
+    "formatted_phone_number": "0788 070 808",
+    "geometry": {
+      "location": {
+        "lat": 21.0335596,
+        "lng": 105.767938
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0350247802915,
+          "lng": 105.7693274802915
+        },
+        "southwest": {
+          "lat": 21.0323268197085,
+          "lng": 105.7666295197085
+        }
+      }
+    },
+    "name": "Han Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Chien Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104694164032333778270/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0TyJwE6oYba61MBIqKYW6nQJfkg8LW7-WPOlBENoalYgrPzvA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian thoáng rộng, rất thoải mái và dễ chịu. Cafe ngon, đậm vị. Ngoài cafe và những đồ uống cơ bản, tại Han Coffee còn phục vụ bữa sáng với chủ đạo là món Phở, phục vụ cơm trưa văn phòng với thực đơn đa dạng. Quán thoáng mát, nhiều chỗ ngồi, vừa ăn uống vừa thu giãn thưởng thức không khí Hà Nội không quá ồn ào bụi bặm, rất dễ chịu",
+        "time": 1764230912,
+        "translated": false
+      },
+      {
+        "author_name": "Mie Mie",
+        "author_url": "https://www.google.com/maps/contrib/118200176254762378972/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPuG0r1O9u0JBNdzO_lRAhVUgYKMztMuX7Cgz9gru5Y3c_91bN=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán cafe decor đơn giản, sạch sẽ, sang trọng. Quán chủ yếu ghế gỗ có đệm êm. Phù hợp với mọi người đi nói chuyện, tán gẫu lâu.\nQuán có không gian trong nhà và ngoài trời khá thoáng.\nBuổi sáng và trưa có menu đồ ăn đa dạng. Mình ăn cơm trưa ở đây thấy khá ngon, vừa miệng. Phục vụ nhanh nhẹn, nhiệt tình.\nGiá thành đồ uống thì tầm trung như nhiều quá. Cơm thì hơi nhỉnh hơn chút, tầm 75-85k/suất cơm. Cơm khá đầy đặn, sạch sẽ, đủ canh. Nên cũng tương xứng với tầm giá",
+        "time": 1756450875,
+        "translated": false
+      },
+      {
+        "author_name": "NGÔ TRUNG TÍN",
+        "author_url": "https://www.google.com/maps/contrib/107727766557848469426/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVl8kKpgawZG4Z1uNbodXFanzccFFVk7gQtJdbI7K9IYQxD6j-02w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian:\nHan Coffee có không gian thoáng đãng, trang trí hiện đại và ấm cúng, tạo cảm giác dễ chịu cho khách hàng. Những góc nhỏ được bày trí tinh tế, rất phù hợp để làm việc hoặc trò chuyện cùng bạn bè.\n\nĐồ uống:\nTôi đã gọi trà đào cam xả, và món này thực sự gây ấn tượng. Trà có hương vị thanh mát, ngọt nhẹ từ đào kết hợp với chua chua của cam và thơm lừng mùi xả. Sự kết hợp này tạo nên một ly trà vừa giải khát, vừa ngon miệng, rất thích hợp cho những ngày nắng nóng.\n\nDịch vụ:\nNhân viên tại Han Coffee rất thân thiện và nhiệt tình. Họ phục vụ nhanh chóng và luôn sẵn sàng tư vấn về các món trong thực đơn.\n\nGiá cả:\nGiá cả ở đây hợp lý, đặc biệt là với chất lượng đồ uống và dịch vụ mà quán cung cấp.\n\nHan Coffee là một địa điểm lý tưởng để thưởng thức trà đào cam xả và tận hưởng không gian thư giãn. Nếu bạn đang tìm kiếm một quán cafe chất lượng, hãy ghé qua Han Coffee để trải nghiệm nhé!",
+        "time": 1738328461,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Viet",
+        "author_url": "https://www.google.com/maps/contrib/108778382745326510304/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOrkJkoaEVwc8voSHSDT_qDTlCZf4smYnckErXrJCpN3R__g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "1⭐ vì trải nghiệm thật sự không xứng đáng với số tiền bỏ ra. Giá nước khá cao so với mặt bằng chung nhưng chất lượng chỉ ở mức bình thường. Điều khiến mình thất vọng nhất là thái độ của quản lý. Khi khách phản ánh, thay vì lắng nghe và giải thích rõ ràng thì lại tỏ thái độ khó chịu, nói chuyện thiếu thiện chí. Với mức giá như vậy, mình nghĩ khách hàng xứng đáng nhận được sự tôn trọng và phục vụ chuyên nghiệp hơn. Sẽ không quay lại và cũng không giới thiệu cho người khác",
+        "time": 1771041379,
+        "translated": false
+      },
+      {
+        "author_name": "T.ùng Lâm Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100069274800427189329/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV71Mj1MojmpDzYBOCytoscgPOAG5KHZmhoz2EED3Vxrxsnebgi=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ uống ổn. Quán có phục vụ đồ ăn trưa, ăn khá ngon, đầy đủ so với giá tiền.\nKhông gian thoáng. Phù hợp cho dân văn phòng.",
+        "time": 1739858733,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 123
+  },
+  "harvested_at": "2026-04-26T12:45:31.751510"
+}

@@ -1,0 +1,49 @@
+{
+  "u_key": "caac09aec2ca19f9",
+  "original_osm_name": "Mr Duc's",
+  "google_raw": {
+    "formatted_phone_number": "0935 823 143",
+    "geometry": {
+      "location": {
+        "lat": 16.0374125,
+        "lng": 108.2183104
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0387595302915,
+          "lng": 108.2195907302915
+        },
+        "southwest": {
+          "lat": 16.03606156970849,
+          "lng": 108.2168927697085
+        }
+      }
+    },
+    "name": "Mr.Duc’s English Class",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    }
+  },
+  "harvested_at": "2026-04-29T09:39:09.537731"
+}

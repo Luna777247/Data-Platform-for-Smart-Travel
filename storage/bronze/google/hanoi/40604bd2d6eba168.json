@@ -1,0 +1,53 @@
+{
+  "u_key": "40604bd2d6eba168",
+  "original_osm_name": "Smile Homestay & Hostel",
+  "google_raw": {
+    "formatted_phone_number": "0947 222 598",
+    "geometry": {
+      "location": {
+        "lat": 21.0294483,
+        "lng": 105.8482421
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0307488802915,
+          "lng": 105.8496130302915
+        },
+        "southwest": {
+          "lat": 21.02805091970849,
+          "lng": 105.8469150697085
+        }
+      }
+    },
+    "name": "Smile Homestay and Hostel",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Amit Matsil",
+        "author_url": "https://www.google.com/maps/contrib/115329692091070374886/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-L9PFQ-8CdEDvCS5Ab-eZIPM8uNAxeZe_rVJdMhfMXPR4vQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Chúng tôi đã ở đây hai lần trong thời gian ở Việt Nam. Phòng hiện đại và sạch sẽ, gia đình chủ sở hữu nơi này có một công ty du lịch tuyệt vời đã giúp đỡ chúng tôi rất nhiều trong suốt thời gian lưu trú. Điều hòa cũng rất tốt và vị trí rất thuận tiện, ngay gần nhà thờ. Phòng cách âm tốt nên chúng tôi không gặp vấn đề gì khi ngủ. Giá phòng thuộc loại rẻ nhất mà chúng tôi tìm thấy ở Hà Nội. Họ còn giúp chúng tôi đặt taxi vào giữa đêm.",
+        "time": 1571269895,
+        "translated": true
+      },
+      {
+        "author_name": "שירה קרישר",
+        "author_url": "https://www.google.com/maps/contrib/116895187416873927937/reviews",
+        "language": "vi",
+        "original_language": "iw",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU--hiht2E8tNFgwgP3IxywGGqqsjhS4uytgc0ye8UTXkLzSza7xA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Homestay này thuộc sở hữu của Mary và Kelly. Cả hai đều rất dễ thương và luôn tươi cười! Phòng riêng rộng rãi, ấm cúng và sạch sẽ. Vị trí tuyệt vời và giá cả rất phải chăng. Rất đáng để thử!",
+        "time": 1570517166,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-26T12:45:06.005870"
+}

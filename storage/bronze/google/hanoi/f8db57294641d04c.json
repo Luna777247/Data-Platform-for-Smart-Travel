@@ -1,0 +1,173 @@
+{
+  "u_key": "f8db57294641d04c",
+  "original_osm_name": "nhac xua cafe",
+  "google_raw": {
+    "formatted_phone_number": "0988 927 116",
+    "geometry": {
+      "location": {
+        "lat": 21.0515029,
+        "lng": 105.8379903
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0528454302915,
+          "lng": 105.8393133802915
+        },
+        "southwest": {
+          "lat": 21.0501474697085,
+          "lng": 105.8366154197085
+        }
+      }
+    },
+    "name": "Nhạc Xưa Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Jenny Yui",
+        "author_url": "https://www.google.com/maps/contrib/102172992568032537486/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV73mWuBj-AWuO_m8b3fywPUMQa6CyuOYtESrNWzhCz9Nsx7hQ=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cà Phê Nhạc Xưa là điểm đến lý tưởng cho những ai yêu thích âm nhạc xưa và muốn tìm một không gian hoài niệm. Quán có không khí ấm cúng, yên tĩnh, với những bản nhạc xưa vang lên du dương. Đồ uống ở đây được pha chế ngon miệng, phục vụ chu đáo. Để không gian âm nhạc tại đây thêm phần sống động và có sự tương tác, việc tích hợp Tuneast là một ý tưởng tuyệt vời. Bạn có thể cho phép khách hàng tự do chọn bài hát yêu thích, bình chọn bài hát muốn nghe, hoặc gửi những lời chúc ý nghĩa. Điều này sẽ làm cho trải nghiệm của khách hàng tại Cà Phê Nhạc Xưa thêm phần đặc biệt và ý nghĩa.",
+        "time": 1770264216,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Ngô",
+        "author_url": "https://www.google.com/maps/contrib/104765269888382213189/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnw2jq4UgJ30PHJKzgLdJVpxnSQ3QGaYa2KdK4yxMBJibUUL3K=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán đồ uống k dc ngon lắm nhưng bác chủ quán lớn tuổi pha vậy cũng tạm ổn ạ, giá tb 30k/ món.Nhạc hay",
+        "time": 1709103705,
+        "translated": false
+      },
+      {
+        "author_name": "Phan Minh Hải",
+        "author_url": "https://www.google.com/maps/contrib/117535958787887879563/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDrt1_OefvseX_OS08TR_cf4eVp3ArAiy1AHR2jUBvvk-0cxrO=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Không gian của quán vẫn rất đặc biệt. Bác chủ quán sửa đồ điện cũ nên trong quán toàn đồ cổ bác sưu tầm, sửa chữa và có thể để bán lại. Giờ đồ trong quán hơi ít đi nhưng vẫn rất độc đáo. Bác chủ có tuổi nên để con cháu bán, anh chủ có để trong quán 1 cái đàn guitar nên mình rất hay ra chơi. Đồ uống giá ổn, tầm 25-30k, cốc cacao hôm trc mình gọi rất .",
+        "time": 1582470957,
+        "translated": false
+      },
+      {
+        "author_name": "Chu Bao",
+        "author_url": "https://www.google.com/maps/contrib/114511669325377806323/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTyW2pC9NWBs01EXytmmH2zoSq6fXKKSFYvH1WaSQTWHjnpBbr=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Vẫn luôn là 1 nơi thú vị mỗi khi trở về HN vào cả 4 mùa Xuân, Hạ, Thu, Đông ... rồi lại Xuân !",
+        "time": 1696183619,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Hồng",
+        "author_url": "https://www.google.com/maps/contrib/100595895703502318756/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4vCKGsl1oVax_HyNWSlMcEaCJAvn_fU1X-_YYYBenukBcAc16=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Một quán cà phê ven hồ chill chill mình hay ngồi. Ngồi nghe nhạc Trịnh xong chẳng muốn về luôn huhu.",
+        "time": 1605167514,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 148
+  },
+  "harvested_at": "2026-04-26T12:45:12.254435"
+}

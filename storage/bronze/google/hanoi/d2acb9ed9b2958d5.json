@@ -1,0 +1,173 @@
+{
+  "u_key": "d2acb9ed9b2958d5",
+  "original_osm_name": "Cà Phê MVTTS",
+  "google_raw": {
+    "formatted_phone_number": "0968 159 481",
+    "geometry": {
+      "location": {
+        "lat": 21.0352178,
+        "lng": 105.8499767
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03660268029151,
+          "lng": 105.8513072302915
+        },
+        "southwest": {
+          "lat": 21.0339047197085,
+          "lng": 105.8486092697085
+        }
+      }
+    },
+    "name": "Movitas Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–22:00",
+        "Thứ Ba: 08:30–22:00",
+        "Thứ Tư: 08:30–22:00",
+        "Thứ Năm: 08:30–22:00",
+        "Thứ Sáu: 08:30–23:00",
+        "Thứ Bảy: 08:30–23:00",
+        "Chủ Nhật: 08:30–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Trọng Phát Trần",
+        "author_url": "https://www.google.com/maps/contrib/113044380093502974147/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7m8jITL77cE4hgW5DEjpDMabWQ2m4RMydh0HgjuoBKSvGZQaX=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khi hước vào quán mùi bánh nướng rất thơm, mình thấy đa phần khách nước ngoài vào quán còn người Việt thì khá ít.\n\nTụi mìnhcos gọi nước và bánh để trải nghiệm thử nước ổn, bánh mềm khá ngon.\n\nĐọc đánh giá thì thấy nhân viên nhiệt tình nhưng khi tụi mình đến vào bàn ngồi hồi thấy bạn nhân viên order khách nước ngoài xong như lơ bàn mình luôn. Không thấy bạn nhân viên ra order đành tự lấy menu chọn món r gọi bạn nhân viên lại kêu thôi.\n\nĐồ uống ổn, bánh khá ngon giá cả phù hợp",
+        "time": 1768404844,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Lê Anh",
+        "author_url": "https://www.google.com/maps/contrib/100827232742861957683/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5mVXD68ALtsW6mkDQT8SUK7Lu9lkgocTFG85u3fetjVNFSw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình thấy quán rất hợp với khách nước ngoài, vừa có đồ ăn Việt như bánh mì, vừa có thức uống độc đáo, lại thêm góc ban công để chụp hình",
+        "time": 1768473986,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Đình Quang",
+        "author_url": "https://www.google.com/maps/contrib/108098242882089730595/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfSebUSvG7bbjYqNU28iYWJsxko28PxmC_NJiC5_ZC0FLvvQE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán có vị trí đẹp, vừa gần hồ vừa nằm trên tuyến phố đông khách, ghé vào nghỉ chân rất tiện, nhất là cho khách du lịch",
+        "time": 1769435597,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Nguyễn Huy",
+        "author_url": "https://www.google.com/maps/contrib/113019974485555194622/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuPjmhve0maNsMPF6LWnptS29Uxwa0UCTxelvzASEZSpkqbA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ uống và bánh Almond rất ngon . Dịch vụ tuyệt vời",
+        "time": 1761376401,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Tài",
+        "author_url": "https://www.google.com/maps/contrib/100145715909451101637/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfpPi5VOi0vqoaxEwGsiOs_Nmv6C6u5tEBjQYcTjAUXdV5gw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình ấn tượng với ánh sáng ban công buổi chiều, khi ngồi đó ăn bánh mì và uống cà phê, mọi thứ xung quanh như chậm lại",
+        "time": 1769099500,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1710
+  },
+  "harvested_at": "2026-04-27T19:58:15.877121"
+}

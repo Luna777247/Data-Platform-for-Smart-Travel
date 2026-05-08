@@ -1,0 +1,173 @@
+{
+  "u_key": "060dc706a5610b94",
+  "original_osm_name": "Cà Phê Hương Hà Nội",
+  "google_raw": {
+    "formatted_phone_number": "0886 788 886",
+    "geometry": {
+      "location": {
+        "lat": 21.0402257,
+        "lng": 105.8452649
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0414903802915,
+          "lng": 105.8465969802915
+        },
+        "southwest": {
+          "lat": 21.0387924197085,
+          "lng": 105.8438990197085
+        }
+      }
+    },
+    "name": "Café HƯƠNG 4A Phan Đình Phùng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Kiều vân Hà",
+        "author_url": "https://www.google.com/maps/contrib/115610312084691466828/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU17xWf9PhfhJjRmDh1c1eKSY5h_VCuDGhN1_KdhHZf8PTY_5o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "đồ uống ngon, nhân viên nhiệt tình 10đ sạch sẽ ạ",
+        "time": 1736347344,
+        "translated": false
+      },
+      {
+        "author_name": "Dũng Đức",
+        "author_url": "https://www.google.com/maps/contrib/116394972133724233464/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxU9i-kcBxzwwC47J-p-RAcIP-EHlBBP9cvjCY4jy3udIOdw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "nước ngon, nhân viên phục vụ nhiệt tình view đẹp",
+        "time": 1738591930,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100183939491533646605/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHiD42lEJsFrUlUM4tbPzfEecisi6RkTznnJf7wPap51gq-A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ uống ngon\nKhông gian quán thoáng mát\nNgồi ngắm đường phố rất vui mắt",
+        "time": 1734675598,
+        "translated": false
+      },
+      {
+        "author_name": "lan anhh",
+        "author_url": "https://www.google.com/maps/contrib/101860927259013581325/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgY7NeyiHo96mBYNTXH9c_buALbs-rZFp4qsPGNLfWLOftHXYP=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "đồ uống ngon, phục vụ nhiệt tình",
+        "time": 1734103670,
+        "translated": false
+      },
+      {
+        "author_name": "Ánh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108634961024047504905/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXbOFUbAOMhqqBHmyFD-WQ23CTfyA_QlANcR3hFvrD7BET1XM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán phục vụ nhiệt tình, nhân viên thân thiện",
+        "time": 1737195515,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 68
+  },
+  "harvested_at": "2026-04-27T19:58:09.403988"
+}

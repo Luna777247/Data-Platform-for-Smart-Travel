@@ -1,0 +1,244 @@
+{
+  "u_key": "0c71120866e82765",
+  "original_osm_name": "San Ho",
+  "google_raw": {
+    "formatted_phone_number": "0908 509 666",
+    "geometry": {
+      "location": {
+        "lat": 21.0250095,
+        "lng": 105.8453264
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0262800302915,
+          "lng": 105.8466540802915
+        },
+        "southwest": {
+          "lat": 21.02358206970849,
+          "lng": 105.8439561197085
+        }
+      }
+    },
+    "name": "Nhà Hàng San Hô Hà Nội",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–14:00, 17:00–22:00",
+        "Thứ Ba: 11:00–14:00, 17:00–22:00",
+        "Thứ Tư: 11:00–14:00, 17:00–22:00",
+        "Thứ Năm: 11:00–14:00, 17:00–22:00",
+        "Thứ Sáu: 11:00–14:00, 17:00–22:00",
+        "Thứ Bảy: 11:00–14:00, 17:00–22:00",
+        "Chủ Nhật: 11:00–14:00, 17:00–22:00"
+      ]
+    },
+    "price_level": 4,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Diệp Anh Bùi",
+        "author_url": "https://www.google.com/maps/contrib/110902822108411208490/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwkkjl-E9lQTXKGRDGe8jycnRXdukgA4Rt3qftFqXULKqwsA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình nghe theo Bạn mình đến đấy ăn ai ngờ lại tìm được một quán ăn rất ứng ý ,xứng đáng 5s.View đẹp ,không gian sang trọng ấm áp ,đồ ăn ngon và bắt mắt.nhân viên thì phục vụ nhiệt tình.Mọi người nên đến đây để trải nghiệm nhé",
+        "time": 1772889753,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Trần Hồng",
+        "author_url": "https://www.google.com/maps/contrib/104871121514449808197/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKID6BJMmZ5qlAW4ba_ht0Rl-7pCQT-KG0qdDIqF8Oy-_-5WA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Mình xin nói trước là mình đánh giá nhà hàng theo tiêu chí nhà hàng cao cấp. Nhìn từ bên ngoài nhà hàng chả có gì đặc biệt, được cái mặt tiền rộng, vào trong bài trí cũng bình thường, không cá tính và cũng không ấn tượng. 1 chị nhân viên khá lạnh nhạt dẫn chúng mình vào bàn. Mình đến đây vì bạn mình nói tôm hùm ở đây ngon. Chúng mình muốn thử vài món nên chọn 1 con như trong hình, được 3 món. Mình ấn tượng với món khai vị: tiết canh tôm hùm, khá là thú vị vì mình chưa ăn kiểu này bao giờ. Tôm hùm sốt me ăn khá dở, còn 1 món nữa kiểu ăn hơi buồn cười, miếng tôm hùm cho ra đĩa, có 1 bát bơ nhỏ ở bên canh, ăn thì chấm vào, món cuối là miến tôm hùm: tận dụng từ miến và phần vụ còn lại của con tôm, mình thấy cách này khá tiết kiệm, tận dụng được hết phần thịt.. Mình thấy tôm hùm ở đây thịt ăn hơi bã mặc dù như nhân viên ở đây trình diễn thì nó còn sống cho đến khi bị chúng mình chọn, Cách nầu nướng chả có gì đặc biệt. Nhân viên cũng không được thân thiện và khá chảnh, lúc chúng mình ra về, bạn nhân viên chỉ chào anh bạn mình: là tây, còn mình thì bơ, thôi thì mình cũng quen rồi dù hơi chạnh lòng tí. Cái đáng nói ở đây là: 1 bữa ăn gồm 1 con tôm hùm và 1 chai rượu hết tầm 7 triệu, mình thấy nó không đáng với trải nghiệp của mình. Nhà hàng đã được đánh giá quá cao, xin hết",
+        "time": 1585058478,
+        "translated": false
+      },
+      {
+        "author_name": "Hưng Nam Phúc",
+        "author_url": "https://www.google.com/maps/contrib/116126569333270309963/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUblVg7jkp82xSmtcuL9IS0EFPu_x_pmC9Ruka20BhmAe9TYGp7BQ=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Nhà hàng rất đẹp , giá cả cũng hợp lý , tuy nhiên không phải ai cũng có thể vào ăn và chi trả cho những đồ món ăn hải sản đắt đỏ bậc nhất ở đây , không gian bên trong được bày trí khá ấm áp lãng mạn , các món ăn được các đầu bếp nấu rất ngon , và cách bày biện món ăn cũng rất bắt mắt , nhìn đã muốn ăn rồi , và thật lý tưởng khi được ăn sét ăn dành cho 2 người ví dụ như một đôi yêu nhau , hoặc một đôi tình nhân thì sẽ là một kỷ niệm khó quên của 2 người",
+        "time": 1524735212,
+        "translated": false
+      },
+      {
+        "author_name": "Simin Yang",
+        "author_url": "https://www.google.com/maps/contrib/113347574494144442567/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3MYOOdb-MPKFr0MS2uNtwzkVd0AOAYT8B8svlzKxnYWKtTw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhân viên phục vụ nhiệt tình, chu đáo, món ăn ngon. Thời gian chờ món nhanh. Nhưng món ăn hơi mắc, phù hợp cho tiếp khách hàng quan trọng hơn. Nếu ai có tài chính thấp hãy cân nhắc khi đến đây. Tôm hùm rất tươi, dù ko ăn được đồ sống nhưng thấy món tiết canh tôm hùm cũng rất ngon. ·····",
+        "time": 1740196770,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Vân",
+        "author_url": "https://www.google.com/maps/contrib/117196180097189749053/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuVGa7OzFLbBWjX6U8LWcwMN9hXOWokT8oMDv0a0XPDhxsng=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đã ăn ở San Hô ko biết bao nhiêu lần mà lần nào cũng quá ư là hài lòng. Hải sản siêu tươi, chế biến gia vị luôn đậm đà nịnh vị giác. Phục vụ chuyên nghiệp, bác quản lí luôn rất chu đáo. Highly recommend các món bỏ lò của San Hô nha rất thơm ngon ý.\nThấy vài review chê đắt, muốn hải sản tươi ngon ko gian sang trọng mà lại yêu cầu rẻ thì có vô lí quá ko hic. Giờ ngồi ăn hải sản vỉa hè đứng lên cũng 500-700k mỗi người rồi. Mình đi ăn cùng bạn bè gia đình ở San Hô mỗi lần đi loanh quanh hơn 1tr mỗi người mà no phè, gọi đc nhiều món cảm thấy còn rẻ ý.",
+        "time": 1709532112,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 240
+  },
+  "harvested_at": "2026-04-28T16:21:42.452121"
+}

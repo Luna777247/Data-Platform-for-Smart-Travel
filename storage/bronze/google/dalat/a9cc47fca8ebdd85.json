@@ -1,0 +1,173 @@
+{
+  "u_key": "a9cc47fca8ebdd85",
+  "original_osm_name": "Green Café",
+  "google_raw": {
+    "formatted_phone_number": "0908 091 100",
+    "geometry": {
+      "location": {
+        "lat": 11.9369018,
+        "lng": 108.4337399
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9382523802915,
+          "lng": 108.4350531802915
+        },
+        "southwest": {
+          "lat": 11.9355544197085,
+          "lng": 108.4323552197085
+        }
+      }
+    },
+    "name": "The Green Coffee - Bà Triệu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:00",
+        "Thứ Ba: 07:00–21:00",
+        "Thứ Tư: 07:00–21:00",
+        "Thứ Năm: 07:00–21:00",
+        "Thứ Sáu: 07:00–21:00",
+        "Thứ Bảy: 07:00–21:00",
+        "Chủ Nhật: 07:00–21:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Phương Trương Thị Mai",
+        "author_url": "https://www.google.com/maps/contrib/109110637297861643419/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuJ2LUjgGecf_WA_ehPPA8Q1zpC1myR9kCBImRk8l3TcU9Wg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nước và cafe ngon, không gian thoải mái, nhân viên nhiệt tình dễ thương",
+        "time": 1766400083,
+        "translated": false
+      },
+      {
+        "author_name": "Yến Nhi Lê",
+        "author_url": "https://www.google.com/maps/contrib/117495731060167624590/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWofZeBj_I2rIRca9eWilqK-GhY6jLVMDNDn5c2V9Kj1Nrh875g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Không gian thoáng mát, nước uống ngon giá cả phải chăng\nNhân viên vui vẻ thân thiện",
+        "time": 1757649268,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107085935941543701704/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPcqu9czbHbFwllvTvmX1KH_14AiyhHdpPC6GYxbuOsKtc-w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Thức uống ngon,không gian mát mẻ,nhân viên thân thiện",
+        "time": 1766400699,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Trúc",
+        "author_url": "https://www.google.com/maps/contrib/112812124967105275268/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2b3Z6gb7uey9q0xxnUvpyPs_cDqoeR245CCgp47STEkNvnlMa=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ uống ngon và chất lượng\nGiá thành spham rẻ",
+        "time": 1766401102,
+        "translated": false
+      },
+      {
+        "author_name": "dang khoa tran nhat",
+        "author_url": "https://www.google.com/maps/contrib/105280470555251245165/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJhiJM58PDMYxVbl47l0AmZIl__XSLQ_qU9iQC5mecf4YZkeQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Nhân viên dễ thương, vị cf đậm đà. Không gian thoáng mát",
+        "time": 1759811555,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 85
+  },
+  "harvested_at": "2026-04-30T15:02:56.093879"
+}

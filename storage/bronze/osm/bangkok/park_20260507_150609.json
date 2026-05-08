@@ -1,0 +1,490 @@
+{
+  "city": "bangkok",
+  "category": "park",
+  "timestamp": "20260507_150609",
+  "count": 30,
+  "elements": [
+    {
+      "type": "node",
+      "id": 1662776329,
+      "lat": 7.148051,
+      "lon": 100.5620572,
+      "timestamp": "2012-06-27T19:39:49Z",
+      "version": 2,
+      "changeset": 12040147,
+      "user": "gormur",
+      "uid": 103253,
+      "tags": {
+        "leisure": "park",
+        "name": "สวนประวัติศาสตร์ พลเอก เปรม ติณสูลานนท์ สงขลา",
+        "name:th": "สวนประวัติศาสตร์ พลเอก เปรม ติณสูลานนท์ สงขลา"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3568027505,
+      "lat": 13.7527033,
+      "lon": 100.4898172,
+      "timestamp": "2015-06-03T07:22:01Z",
+      "version": 1,
+      "changeset": 31684471,
+      "user": "prospero021",
+      "uid": 2242769,
+      "tags": {
+        "leisure": "park",
+        "name": "็ต้นไม้รูปหัวใจ",
+        "name:en": "Heart-shaped Tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3752927040,
+      "lat": 13.5680893,
+      "lon": 100.566689,
+      "timestamp": "2015-09-21T14:10:24Z",
+      "version": 1,
+      "changeset": 34163047,
+      "user": "Nathan Pan",
+      "uid": 3097946,
+      "tags": {
+        "leisure": "park",
+        "name": "สนามกีฬา อำเภอพระสมุทรเจดีย์"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951548092,
+      "lat": 4.2112198,
+      "lon": 100.6466095,
+      "timestamp": "2017-12-12T14:02:24Z",
+      "version": 2,
+      "changeset": 54567176,
+      "user": "Tembikai",
+      "uid": 5259280,
+      "tags": {
+        "addr:city": "Lumut",
+        "addr:postcode": "32200",
+        "addr:street": "Pintasan Lumut",
+        "leisure": "park",
+        "name": "Taman Paya Bakau",
+        "name_1": "Mangrove Swamp Park",
+        "name_2": "Monkey Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5260120841,
+      "lat": 13.6336304,
+      "lon": 100.6114236,
+      "timestamp": "2017-12-02T15:01:47Z",
+      "version": 1,
+      "changeset": 54272294,
+      "user": "linekampagank",
+      "uid": 7133872,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5382326737,
+      "lat": 13.8301574,
+      "lon": 100.5383366,
+      "timestamp": "2018-02-03T05:35:56Z",
+      "version": 1,
+      "changeset": 56021400,
+      "user": "Thanatbunlue",
+      "uid": 7565761,
+      "tags": {
+        "description": "Prachanukun Health Garden สวนสุขภาพ ประชานุกูล",
+        "leisure": "park",
+        "name": "Prachanukun Health Garden สวนสุขภาพ ประชานุกูล"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5614482723,
+      "lat": 13.7272998,
+      "lon": 100.580341,
+      "timestamp": "2018-05-13T03:50:50Z",
+      "version": 1,
+      "changeset": 58915078,
+      "user": "mbethke",
+      "uid": 248338,
+      "tags": {
+        "leisure": "park",
+        "name": "Angoon's Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5783704157,
+      "lat": 7.2151894,
+      "lon": 100.5959881,
+      "timestamp": "2019-06-15T16:49:13Z",
+      "version": 2,
+      "changeset": 71284300,
+      "user": "Athipong Kongyarith",
+      "uid": 8846506,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6054271386,
+      "lat": 5.3582523,
+      "lon": 100.493265,
+      "timestamp": "2018-11-12T08:29:20Z",
+      "version": 1,
+      "changeset": 64396588,
+      "user": "angys",
+      "uid": 3191182,
+      "tags": {
+        "leisure": "park",
+        "name": "Taman Eko Rimba Bukit Mertajam",
+        "name:en": "Bukit Mertajam Eco Forest Park",
+        "name:zh": "大山脚森林公园"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6089234858,
+      "lat": 13.7717498,
+      "lon": 100.65413,
+      "timestamp": "2018-11-25T04:37:01Z",
+      "version": 1,
+      "changeset": 64858405,
+      "user": "mint1234",
+      "uid": 9144161,
+      "tags": {
+        "leisure": "park",
+        "name": "ตาต้าเอง"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6110941250,
+      "lat": 13.650955,
+      "lon": 100.4957589,
+      "timestamp": "2018-12-02T15:16:44Z",
+      "version": 1,
+      "changeset": 65097759,
+      "user": "Amvisa",
+      "uid": 9171182,
+      "tags": {
+        "leisure": "park",
+        "name": "สวนเฉลิมพระเกียรติ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6110949758,
+      "lat": 13.6519289,
+      "lon": 100.4957174,
+      "timestamp": "2018-12-02T15:26:34Z",
+      "version": 1,
+      "changeset": 65097965,
+      "user": "Amvisa",
+      "uid": 9171182,
+      "tags": {
+        "leisure": "park",
+        "name": "สวนสุขภาพ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7628350042,
+      "lat": 5.4548228,
+      "lon": 100.4524792,
+      "timestamp": "2021-04-04T01:19:30Z",
+      "version": 2,
+      "changeset": 102255336,
+      "user": "banban_msm",
+      "uid": 12230469,
+      "tags": {
+        "description": "A popular spot for bird watchers. The path provided are mostly elevated just above the top the bushes, giving spotters convenience to set up tripods.",
+        "leisure": "park",
+        "name": "Pusat Rekreasi Air Itam Dalam",
+        "name:en": "Air Hitam Dalam Educational Forest",
+        "name:zh": "亚依淡达南教育森林",
+        "note": "Dear Penang mappers, this name is based on road signs leading here according to Mapillary. Feel free to change to its official name. / Nama dirujuk mengikut papan tanda jalan, kalau ada papan tanda rasmi sila ubah ye.",
+        "source:name": "Mapillary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7899101785,
+      "lat": 13.6881466,
+      "lon": 100.6581251,
+      "timestamp": "2021-09-18T10:56:11Z",
+      "version": 2,
+      "changeset": 111370437,
+      "user": "_Lifeline_",
+      "uid": 12829339,
+      "tags": {
+        "leisure": "park",
+        "name": "ทางเข้าประตูด้านหลังของ Rama IX Park",
+        "name:en": "Entrance to the back gate of Rama IX Park",
+        "name:th": "ทางเข้าประตูด้านหลังของ Rama IX Park",
+        "name:zh": "九世皇公園後門入口處"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9546771941,
+      "lat": 13.8343352,
+      "lon": 100.4894412,
+      "timestamp": "2023-09-09T10:48:11Z",
+      "version": 2,
+      "changeset": 141018921,
+      "user": "Mateusz Konieczny - bot account",
+      "uid": 3199858,
+      "tags": {
+        "leisure": "park",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9710498417,
+      "lat": 13.8009885,
+      "lon": 100.5619791,
+      "timestamp": "2024-09-07T10:00:18Z",
+      "version": 4,
+      "changeset": 156306177,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "addr:housenumber": "97",
+        "addr:postcode": "10900",
+        "addr:province": "กรุงเทพมหานคร",
+        "addr:street": "Soi Vibhavadi Rangsit 18",
+        "leisure": "park",
+        "name": "สวนวิภาภิรมณ์",
+        "name:en": "Vibhaphirom Park",
+        "name:th": "สวนวิภาภิรมณ์",
+        "opening_hours": "Mo-Su 05:30-19:00",
+        "operator": "Bangkok Metropolitan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9751175387,
+      "lat": 13.6637841,
+      "lon": 100.6099249,
+      "timestamp": "2022-05-18T08:22:32Z",
+      "version": 1,
+      "changeset": 121133485,
+      "user": "Apisit",
+      "uid": 7120703,
+      "tags": {
+        "leisure": "park",
+        "name": "Phuti Anun Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10159163701,
+      "lat": 7.0778085,
+      "lon": 100.4638429,
+      "timestamp": "2022-11-18T11:39:13Z",
+      "version": 2,
+      "changeset": 129082907,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:city": "songkhla",
+        "addr:postcode": "90110",
+        "addr:street": "banhan",
+        "leisure": "park",
+        "name": "บ้านไร่ทองคำ | BANRAITHONGKHAM",
+        "opening_hours": "24/7",
+        "phone": "+66942519392",
+        "website": "https://fb.com/banraithongkham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10776013381,
+      "lat": 13.7848861,
+      "lon": 100.4607965,
+      "timestamp": "2023-03-31T16:05:09Z",
+      "version": 1,
+      "changeset": 134351958,
+      "user": "lavanyathaiwedding",
+      "uid": 18823700,
+      "tags": {
+        "leisure": "park",
+        "name": "Lumpini Place"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10933953165,
+      "lat": 13.6025837,
+      "lon": 100.404715,
+      "timestamp": "2023-05-28T12:41:00Z",
+      "version": 1,
+      "changeset": 136655477,
+      "user": "Hihinaja",
+      "uid": 19411196,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11175880431,
+      "lat": 13.6009045,
+      "lon": 100.3571528,
+      "timestamp": "2023-09-08T05:47:49Z",
+      "version": 1,
+      "changeset": 140968459,
+      "user": "SAKI MORITA",
+      "uid": 20191725,
+      "tags": {
+        "leisure": "park",
+        "name": "SOM"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11240219337,
+      "lat": 13.8460418,
+      "lon": 100.5684104,
+      "timestamp": "2023-10-05T01:42:44Z",
+      "version": 1,
+      "changeset": 142168064,
+      "user": "toftpokk",
+      "uid": 20301597,
+      "tags": {
+        "leisure": "park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11360253340,
+      "lat": 13.7209431,
+      "lon": 100.5947566,
+      "timestamp": "2023-11-18T15:34:09Z",
+      "version": 1,
+      "changeset": 144179286,
+      "user": "Kri_ttt",
+      "uid": 13669494,
+      "tags": {
+        "leisure": "park",
+        "name": "Phibun Wet Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11545148638,
+      "lat": 13.8338889,
+      "lon": 100.4634848,
+      "timestamp": "2024-01-24T02:57:56Z",
+      "version": 1,
+      "changeset": 146614901,
+      "user": "Aum Thanetanukun",
+      "uid": 15973979,
+      "tags": {
+        "addr:city": "Nonthaburi",
+        "addr:country": "TH",
+        "addr:housenumber": "74/9",
+        "addr:postcode": "11000",
+        "addr:street": "ถนนบางกรวย-ไทรน้อย",
+        "leisure": "park",
+        "name": "Aum's Bar and Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11770595669,
+      "lat": 13.6634631,
+      "lon": 100.4974117,
+      "timestamp": "2024-03-29T03:58:34Z",
+      "version": 1,
+      "changeset": 149294601,
+      "user": "josie34",
+      "uid": 2113624,
+      "tags": {
+        "leisure": "park",
+        "name:en": "Bangkok ATV Adventures @ Suksawat Rama 2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12431548983,
+      "lat": 5.211019,
+      "lon": 100.6099638,
+      "timestamp": "2024-12-22T17:08:14Z",
+      "version": 2,
+      "changeset": 160509337,
+      "user": "KL Teh",
+      "uid": 13919192,
+      "tags": {
+        "leisure": "park",
+        "name": "Taman Tasik Seri Serdang"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12431548984,
+      "lat": 5.20875,
+      "lon": 100.6109724,
+      "timestamp": "2024-12-18T19:17:22Z",
+      "version": 1,
+      "changeset": 160365473,
+      "user": "KL Teh",
+      "uid": 13919192,
+      "tags": {
+        "leisure": "park",
+        "name": "Taman Tasik Serdang"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12632121094,
+      "lat": 5.5175663,
+      "lon": 100.4349336,
+      "timestamp": "2025-03-03T06:04:04Z",
+      "version": 1,
+      "changeset": 163146611,
+      "user": "angys",
+      "uid": 3191182,
+      "tags": {
+        "leisure": "park",
+        "name": "Taman Herba, Jabatan Pertanian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12765429333,
+      "lat": 5.4185986,
+      "lon": 100.3425244,
+      "timestamp": "2025-04-18T05:52:54Z",
+      "version": 1,
+      "changeset": 165096468,
+      "user": "nabilersyad",
+      "uid": 11419275,
+      "tags": {
+        "leisure": "park",
+        "name": "Union Square"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12913975802,
+      "lat": 5.368066,
+      "lon": 100.4637898,
+      "timestamp": "2025-06-14T06:33:36Z",
+      "version": 1,
+      "changeset": 167600515,
+      "user": "Douglas Lim Goh Huat",
+      "uid": 15082293,
+      "tags": {
+        "leisure": "park"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "u_key": "28bb5ef97d9c9df1",
+  "original_osm_name": "Cửa Hàng Bít Tết Hai Tý",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0357357,
+        "lng": 105.8508253
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0371013802915,
+          "lng": 105.8522241802915
+        },
+        "southwest": {
+          "lat": 21.0344034197085,
+          "lng": 105.8495262197085
+        }
+      }
+    },
+    "name": "Bittet Hải Tý",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:00",
+        "Thứ Ba: 11:00–23:00",
+        "Thứ Tư: 11:00–23:00",
+        "Thứ Năm: 11:00–23:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 11:00–23:00"
+      ]
+    },
+    "rating": 2.9,
+    "reviews": [
+      {
+        "author_name": "Lan Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116193277060983471811/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWw0fhmVPLpeFqvIkkDSrd_J9EoPCJMmz5fAAdWno99oAVOFue92A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Thực sự là k có 0 sao í. Bò nhạt lách như thịt lợn 80k mà như đấm vào miệng🙂",
+        "time": 1714565520,
+        "translated": false
+      },
+      {
+        "author_name": "Mikemco Hành",
+        "author_url": "https://www.google.com/maps/contrib/106377685236530229791/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXL2huT6g0GMIYXFRnWi3gaBpZYCr333OnJSHSViJlFherjIFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Ngon 10 điểm cũng có nhưng đấy",
+        "time": 1757137589,
+        "translated": false
+      },
+      {
+        "author_name": "Long Thanh",
+        "author_url": "https://www.google.com/maps/contrib/110304086817206377241/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxFbSVJq6neYBF9GCGqyz7fqxGULUt6M4i5-EPNztTaEg58g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Năm sao cho vị trí phố đi bộ.Ngoài giá thành thì đồ ăn tương đối ổn.Rất đông vào cuối tuần và các ngày lễ.Nên đến thử.",
+        "time": 1552057297,
+        "translated": false
+      },
+      {
+        "author_name": "Hung Le",
+        "author_url": "https://www.google.com/maps/contrib/116225766280521209499/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUDjeDuD43ajwMeUfWvjt8Nbrz8GaW-jb0k75gcnMoCp8x7w=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Quán đa dạng món ăn, đông khách nên khó kiếm bàn",
+        "time": 1499259517,
+        "translated": false
+      },
+      {
+        "author_name": "Hotel Bluebell",
+        "author_url": "https://www.google.com/maps/contrib/110452477379440834924/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHPXJpKi-ojdLHzOC625RnqeCQO1vsWiohSOcIlTwK_DajSEtc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "9 năm trước",
+        "text": "mình gọi đĩa cơm rang mừa cháy vừa mặn lại đắt, phục vụ thì kém",
+        "time": 1485317331,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 87
+  },
+  "harvested_at": "2026-04-28T16:14:10.325305"
+}

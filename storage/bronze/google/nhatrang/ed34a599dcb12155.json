@@ -1,0 +1,173 @@
+{
+  "u_key": "ed34a599dcb12155",
+  "original_osm_name": "Internet coffee 52b mai xuân thưởng",
+  "google_raw": {
+    "formatted_phone_number": "0258 3838 555",
+    "geometry": {
+      "location": {
+        "lat": 12.2823619,
+        "lng": 109.1971815
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2837455302915,
+          "lng": 109.1985361302915
+        },
+        "southwest": {
+          "lat": 12.2810475697085,
+          "lng": 109.1958381697085
+        }
+      }
+    },
+    "name": "Quán Golden Land Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Cường Lò TV",
+        "author_url": "https://www.google.com/maps/contrib/101863686698476875164/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5XFiZg8vS8u-Hx8LrrWQ8mx5ZS0DYpn9Shm4dQpNPPPuJB9jt=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán mới khai trương. Diện tích khoảng 300m2, rộng rãi, mát mẻ. Kiến trúc lạ, có hồ cá Koi, thác nước, cây Lộc Vừng. Nền lát đá granite sạch sẽ. Bàn ghế có 02 loại: bàn ghế gỗ nguyên tấm & bàn tròn mặt kính, ghế tựa nhựa giả mây đan. Sinh tố chuối ngon.",
+        "time": 1599888204,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Văn Khải",
+        "author_url": "https://www.google.com/maps/contrib/114542906144878929669/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFeKvziTNkO6vEwomGxDOgUNEZMNrz6OnC6wrcT1ivN56QThM_=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán Mới Khai trương Không Gian rộng rãi thoáng mát ,  thức uống ngon , giá thì khá tốt so với mặt bằng chung .  Background Đẹp có thêm hồ cá koi cho mọi người ngắm nhìn",
+        "time": 1602508431,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Ngọc Nghiêm",
+        "author_url": "https://www.google.com/maps/contrib/104657812471687506738/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJtFrWnVals_7wFYeXRPnRSAF5-M5jX3JxX75Y7rhRJ5LIBlMs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Thức uống ngon, tuy nhiên có hôm nhân viên quên châm trà. View ổn, tối đôi lúc có mũi.",
+        "time": 1670300194,
+        "translated": false
+      },
+      {
+        "author_name": "Hieu Ngo",
+        "author_url": "https://www.google.com/maps/contrib/106911089843228889899/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXi-LjB2fLlEliQi9lpZutG4wEUJUnDAo1uTiV5h7FGUydj1SxgoQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Nhân viên vui vẻ nhiệt tình, được nhân viên khoáy cafe cho",
+        "time": 1638247909,
+        "translated": false
+      },
+      {
+        "author_name": "HOÀNG LONG NGUYỄN",
+        "author_url": "https://www.google.com/maps/contrib/112204428196580319586/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfMcUd8-9jMOFiVhPJapSfRweOl2ZpMjbztdzcNb8W3sAB-A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Không gian thoáng mát\nCà phê ngon",
+        "time": 1655426864,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 65
+  },
+  "harvested_at": "2026-05-02T15:28:48.489329"
+}

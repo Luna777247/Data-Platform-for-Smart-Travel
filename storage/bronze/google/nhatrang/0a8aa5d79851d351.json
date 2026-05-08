@@ -1,0 +1,157 @@
+{
+  "u_key": "0a8aa5d79851d351",
+  "original_osm_name": "M Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0903 581 436",
+    "geometry": {
+      "location": {
+        "lat": 12.2453377,
+        "lng": 109.1917245
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2466841302915,
+          "lng": 109.1930123802915
+        },
+        "southwest": {
+          "lat": 12.2439861697085,
+          "lng": 109.1903144197085
+        }
+      }
+    },
+    "name": "M Café",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–18:00",
+        "Thứ Ba: 06:00–18:00",
+        "Thứ Tư: 06:00–18:00",
+        "Thứ Năm: 06:00–18:00",
+        "Thứ Sáu: 06:00–18:00",
+        "Thứ Bảy: 06:00–18:00",
+        "Chủ Nhật: 06:00–18:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "AIRPORT BUS",
+        "author_url": "https://www.google.com/maps/contrib/102618412422991682248/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeT6HoUxjEZZHuSJ_pz1WOc4qgghoEGkdEYZfre5H7GF8BqHqD=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Rất ngon",
+        "time": 1545924052,
+        "translated": false
+      },
+      {
+        "author_name": "yolo soa",
+        "author_url": "https://www.google.com/maps/contrib/114495920177536199590/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2Q6kSjSb8s2wSua0ZloWkjASlBwy_mMRNylRrtEFl8RIDSxQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán Cafe Tourda giá 19.000 won~ Có rất nhiều người địa phương, không phải ai cũng nói tiếng Anh tốt, nhưng họ rất tò mò về Hàn Quốc và thân thiện~ Nằm giữa Lotte Mart và Kimcheong Geumeunbang~👍👍👍",
+        "time": 1671700810,
+        "translated": true
+      },
+      {
+        "author_name": "Nam Trinh Le",
+        "author_url": "https://www.google.com/maps/contrib/108419052460015817580/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfJ_eshfBMISr9bosa18tVaqIBp6mNoqFBJeTqG-deib51ng=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1657633839,
+        "translated": false
+      },
+      {
+        "author_name": "Wayne Owen",
+        "author_url": "https://www.google.com/maps/contrib/108327483271270377862/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-pSdaUlCveXETcesY0Ws0naegNODbBgvlM9FVpkXt6Y2sYw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "",
+        "time": 1511945583,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-05-02T15:23:10.858208"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "70fdf6bad926925d",
+  "original_osm_name": "Hon",
+  "google_raw": {
+    "formatted_phone_number": "0236 3810 307",
+    "geometry": {
+      "location": {
+        "lat": 16.0741012,
+        "lng": 108.221255
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0754132302915,
+          "lng": 108.2225138802915
+        },
+        "southwest": {
+          "lat": 16.0727152697085,
+          "lng": 108.2198159197085
+        }
+      }
+    },
+    "name": "Bún chả cá Hờn",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–20:30",
+        "Thứ Ba: 06:00–20:30",
+        "Thứ Tư: 06:00–20:30",
+        "Thứ Năm: 06:00–20:30",
+        "Thứ Sáu: 06:00–20:30",
+        "Thứ Bảy: 06:00–20:30",
+        "Chủ Nhật: 06:00–20:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Dương Quang Trung",
+        "author_url": "https://www.google.com/maps/contrib/104804156287929101932/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFiM209WSgvtozrrV6dxb1gCEHYjuqmCkAvB0hfiC607lp=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bún cá ngọt và nhiều cá lắm ạ. Bác chủ dễ thương, dù quán viral là do các tiktoker tới quay, nhưng thực sự thì 2 bác không có booking gì đâu, trước giờ vẫn bán vậy thôi à\n\nMọi người qua ủng hộ nhé",
+        "time": 1771383200,
+        "translated": false
+      },
+      {
+        "author_name": "Uyên Trần Tú",
+        "author_url": "https://www.google.com/maps/contrib/113813097225986580912/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXUXw1KJip__Lx-0-lvai3X2XYiqnjhQ-Fo3dtJ-3GuYC5UAg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình ghé ĐNang vội vàng, nên chỉ check Map quán bún nào cảm thấy oke và chọn trúng quán này. Thề là nước lèo trong ngọt thanh rất cuốn, các loại chả ngon tươi chắc thịt, các loại nước chấm ngon lạ lắm nha, ớt tương đc xào vs tỏi rất thơm, hành ngâm cụng rất bén.\n\nQuán này dân địa phương ăn nhiều, nên rất là oklaa. RCM cả nhà mình đến ĐNang thì check list thêm quán này và trải nghiệm thử nhé.",
+        "time": 1766202324,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Lan Lê",
+        "author_url": "https://www.google.com/maps/contrib/102186707424586833032/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz1xI8jxljCO2fe_AFWE4oURoxLZ8kwKutrPKr8hFuqTQ1lL7eQQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ăn theo review. Quán sạch sẽ, ra món nhanh. Tuy nhiên k hợp khẩu vị mình. Chưa thấy xuất sắc hẳn. Mn có thể trải nghiệm",
+        "time": 1769484014,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Duy Khương",
+        "author_url": "https://www.google.com/maps/contrib/113623657731085692825/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmEFrPN859ZF6MyhRLDDyQjmzC2sjuvQjQE0GbjTCVxz4_SPSb=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán giá bình dân nhưng rất ngon đồ ăn cực nhiều cá cảm giác rất tươi nước lèo đậm đà",
+        "time": 1768738360,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116624550244813789708/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRtuSS2gfZeFAx-QmHacLSQoOjP_84fM9Ja3KjNO7SFt6A81ARbg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nước bún khá ngon, giá cả hợp lí , đáng để trải nghiệm, quán sạch sẽ.",
+        "time": 1772459850,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1649
+  },
+  "harvested_at": "2026-04-29T09:55:40.457444"
+}

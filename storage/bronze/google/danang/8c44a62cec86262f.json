@@ -1,0 +1,174 @@
+{
+  "u_key": "8c44a62cec86262f",
+  "original_osm_name": "A tri",
+  "google_raw": {
+    "formatted_phone_number": "0916 506 921",
+    "geometry": {
+      "location": {
+        "lat": 16.1033436,
+        "lng": 108.2579031
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.1047593302915,
+          "lng": 108.2591863302915
+        },
+        "southwest": {
+          "lat": 16.1020613697085,
+          "lng": 108.2564883697085
+        }
+      }
+    },
+    "name": "Quán Hải Sản A Trí",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1515"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1515"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1515"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1515"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1515"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1515"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1515"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 15:15–23:00",
+        "Thứ Ba: 15:15–23:00",
+        "Thứ Tư: 15:15–23:00",
+        "Thứ Năm: 15:15–23:00",
+        "Thứ Sáu: 15:15–23:00",
+        "Thứ Bảy: 15:15–23:00",
+        "Chủ Nhật: 15:15–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Thuy Tran",
+        "author_url": "https://www.google.com/maps/contrib/109343909325886434908/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwoUs7yc_auoSztBOEdJM9P0b6l5c-i9XdzX_0WWX9iLWGnaI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán hải sản bình dân giá cả hợp lí, món gỏi cá và các món cá nướng ngon.",
+        "time": 1764591938,
+        "translated": false
+      },
+      {
+        "author_name": "Meril Horseback",
+        "author_url": "https://www.google.com/maps/contrib/114016872649541183277/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVca6aWK5L4o8i6LrYFOPFJpay-Z1_5Rv-dR2wtwe5URfTYEZ8F=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Hải sản ngon, quán rộng, mà giá siêu rẻ nha! Bọn mình ăn no nứt bụng mà có 190k/đứa. Đồ rất là tươi ngon.",
+        "time": 1751883015,
+        "translated": false
+      },
+      {
+        "author_name": "Nhat Anh Nguyen Duc",
+        "author_url": "https://www.google.com/maps/contrib/112795346349530276445/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_l-vfiG-Wt_YQlvvsRh7cST9LrVdLRlZao-k9lOxviY0Aek-MsA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn tươi ngon, chế biến đậm đà. Quán đáng để thử khi đến Đà Nẵng.",
+        "time": 1754389293,
+        "translated": false
+      },
+      {
+        "author_name": "No Bui",
+        "author_url": "https://www.google.com/maps/contrib/100968269947462770593/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTb8PYQSJmF0fVYxotegJ3FjV0vE6-GJK09JlyyPVapfz3ax3G=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Món nào cũng ngon, giá cũng mềm với chủ yếu dân địa phương ít khách du lịch nên ngồi ăn ún thoải mái đỡ chộn rộn hơn quán khác.",
+        "time": 1723180565,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Gia Chanel",
+        "author_url": "https://www.google.com/maps/contrib/108311485257205140237/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjAMDCBQ6EvZEaPOvKHZ_2NB9pBTKc7hUHnMKtlQXXdcudWsIy=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Lần thứ 2 gia đình mình ăn tại quán do một người bạn giới thiệu, hải sản khá tươi, nhiều sự lựa chọn, giá cả hợp lý có điều hơi xa trung tâm chút, nhân viên và chủ đều rất dễ thương",
+        "time": 1750262104,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 315
+  },
+  "harvested_at": "2026-04-28T16:44:19.395415"
+}

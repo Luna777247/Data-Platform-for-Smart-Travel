@@ -1,0 +1,109 @@
+{
+  "u_key": "f2ae1e3adc5798d3",
+  "original_osm_name": "Hoa Sứa",
+  "google_raw": {
+    "formatted_phone_number": "0368 480 886",
+    "geometry": {
+      "location": {
+        "lat": 10.3643337,
+        "lng": 107.0627479
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3656461302915,
+          "lng": 107.0640859802915
+        },
+        "southwest": {
+          "lat": 10.3629481697085,
+          "lng": 107.0613880197085
+        }
+      }
+    },
+    "name": "Hoa Sứ Villa Vũng Tàu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Thổ Địa Villa Vũng Tàu",
+        "author_url": "https://www.google.com/maps/contrib/112820771656616611369/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtzeRwDBI7ZF5mRY8mayyiy1-1qUtdoasln7TyB46abZnfp7w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Villa thơ mộng kiến trúc tuyệt đẹp. Tôi đã có khoảng thời gian tuyệt vời tại đây",
+        "time": 1758871608,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Công Vân Hạ",
+        "author_url": "https://www.google.com/maps/contrib/100615497320169803255/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx0ryxlsV08PbfwC66jU8Qv0HGnbjEoIrW5-F0VdQPZ0Ns7WaV=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khá đẹp thoáng mát\nTầng trên cùng nhìn ra biển được.\nPhù hợp nghỉ ngắn ngày cho team building.\nCó bàn bida free",
+        "time": 1743611950,
+        "translated": false
+      },
+      {
+        "author_name": "Uyên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103500109767474489833/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7HBUmlTBzKjVl93QNyqQUWgkqFOsqW7NqTQZJCDeD3yS4f06V=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Villa mới được sửa lại, hồ bơi lớn sạch đẹp, không gian rộng thoáng mát, đầy đủ tiện nghi như nhà mình, tối lên đèn lung linh, thích hợp đi gia đình, bạn bè nhóm.",
+        "time": 1708956917,
+        "translated": false
+      },
+      {
+        "author_name": "Giao Thảo Lưu Huỳnh (Upa Ngáo)",
+        "author_url": "https://www.google.com/maps/contrib/110123030589989556029/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfpCNC36-JPy29Kex6ghT7xBsrVv_rAMF71MKwsmnFKmso1t2l=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Villa mới. Có hồ bơi ngoài trời\nDành cho những bạn thích không gian yên tĩnh k quá ồn ào",
+        "time": 1727965065,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Quyên Lê",
+        "author_url": "https://www.google.com/maps/contrib/109067110221404271238/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLP_osGFAgnINv3qXMppUIOV8IJv3tG2mCt9kIUGwwc1qmSWHg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "đẹp, sạch sẽ, đầy đủ tiện nghi",
+        "time": 1755173231,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 12
+  },
+  "harvested_at": "2026-05-03T19:49:17.070055"
+}

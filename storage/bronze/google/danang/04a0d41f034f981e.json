@@ -1,0 +1,174 @@
+{
+  "u_key": "04a0d41f034f981e",
+  "original_osm_name": "Phở 29",
+  "google_raw": {
+    "formatted_phone_number": "0936 918 986",
+    "geometry": {
+      "location": {
+        "lat": 16.0630525,
+        "lng": 108.2302685
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0643922302915,
+          "lng": 108.2315485302915
+        },
+        "southwest": {
+          "lat": 16.0616942697085,
+          "lng": 108.2288505697085
+        }
+      }
+    },
+    "name": "Phở 29 - Phở Hà Nội",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–02:00",
+        "Thứ Ba: 06:00–02:00",
+        "Thứ Tư: 06:00–02:00",
+        "Thứ Năm: 06:00–02:00",
+        "Thứ Sáu: 06:00–02:00",
+        "Thứ Bảy: 06:00–02:00",
+        "Chủ Nhật: 06:00–02:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "tu nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115008649267410070146/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL2yLlmSVl_Qikk6QwsASpjgx4s-WOVm0F-97UDdx3XDfK8xbc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Phở ngon, đúng vị Hà Nội\nTiếc là quên chụp hình.\nLưu lại để lần sau ghé Đà Nẵng có chỗ ăn.",
+        "time": 1772120246,
+        "translated": false
+      },
+      {
+        "author_name": "Thư Vũ",
+        "author_url": "https://www.google.com/maps/contrib/109317566434518569442/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj_jbbuC1eOgvQ1cz9zGLDeFl7Runo32bHChAbXODZGvqgPtEIvA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Có lẻ mình là người miền Trung nên k hợp với nước dùng phở ở đây, giá cả so với mặt bằng chung khu này thì bình thường, mình mới thử món phở thôi nên k biết các món khác như thế nào, quán sạch sẽ, thoáng mát, nhân viên đông, có không gian bên trong và bên ngoài quán",
+        "time": 1691070033,
+        "translated": false
+      },
+      {
+        "author_name": "BRO nhóm",
+        "author_url": "https://www.google.com/maps/contrib/100737295832640440252/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmzwDCFKi8IqhCOpECYZ-TPiaCqE7iympT-qkJACPG4aHcoDhU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Phở vị chuẩn bắc rất ngon, ngồi trên lầu ăn còn ngắm được cầu rồng và toàn cảnh sông Hàn.",
+        "time": 1735695750,
+        "translated": false
+      },
+      {
+        "author_name": "Nga Tran",
+        "author_url": "https://www.google.com/maps/contrib/100990148060443880339/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZ6g2CLlsKFXRSNgpWtI2jtoO5U0CxeThWGOm4zjCzdjS31g=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thái độ cực kì khó chịu.",
+        "time": 1771763932,
+        "translated": false
+      },
+      {
+        "author_name": "HaFu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101706689666501204136/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLggNw2DnFivzvhA_RLP6OZWqiPYSFpwQsCyUYqxS5__ZPCKAa8Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đi ăn muộn quá may tìm được quán mở muộn ăn lại rất ngon. Chuẩn vị Hà Nội luôn 👍",
+        "time": 1708358720,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1552
+  },
+  "harvested_at": "2026-04-28T16:41:00.239322"
+}

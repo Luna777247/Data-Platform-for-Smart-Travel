@@ -1,0 +1,68 @@
+{
+  "u_key": "8233396de821566f",
+  "original_osm_name": "Nhà Trọ Nguyễn Hoàng Thống",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 10.0158268,
+        "lng": 105.7343176
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.0172335802915,
+          "lng": 105.7357368302915
+        },
+        "southwest": {
+          "lat": 10.0145356197085,
+          "lng": 105.7330388697085
+        }
+      }
+    },
+    "name": "Nhà trọ Hoàng Anh 7",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Trí Dương",
+        "author_url": "https://www.google.com/maps/contrib/100584230600588490448/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIinXJbtE6IabdyiqDPKp1z7MoYl5DI1UrHHMPPoOc3lex-yA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "",
+        "time": 1770148635,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Tú",
+        "author_url": "https://www.google.com/maps/contrib/106758571686807101721/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBaYXJg97tdDGfLy1N1cTr88oBQd_K8cE0IPNgN0e6Q5LpIv8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1719802765,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-30T15:18:04.750763"
+}

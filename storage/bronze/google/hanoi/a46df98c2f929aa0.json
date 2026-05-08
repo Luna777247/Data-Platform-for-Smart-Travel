@@ -1,0 +1,108 @@
+{
+  "u_key": "a46df98c2f929aa0",
+  "original_osm_name": "Queen Hotel",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0341452,
+        "lng": 105.8511918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0354724302915,
+          "lng": 105.8525194302915
+        },
+        "southwest": {
+          "lat": 21.0327744697085,
+          "lng": 105.8498214697085
+        }
+      }
+    },
+    "name": "Queen Hotel Hanoi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Hung Nguyen The",
+        "author_url": "https://www.google.com/maps/contrib/100577962561835950747/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGrHSkXqC9Oiyt9itNC1cC99r2KupqOkUP0FC_8N9FKoOPxHZN=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Giá phòng mềm (400k cho 2 người ở ngay trung tâm thủ đô là rất rẻ). Mình có thuê 2 phòng. 1 phòng tầng 4 có view phố, Tuy nhiên vì là phòng tầng trên cùng nên nước yếu. Phòng còn lại cửa và giường hơi yếu. Còn lại vị trí miễn chê. Nhân viên nhiệt tình. Vote 5*",
+        "time": 1574703573,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Ngoc Long",
+        "author_url": "https://www.google.com/maps/contrib/112291251527360301596/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4z9jMsBxuyV8D3hCSKGVajGDztj5AXa9m-Ox-DdKhkVcBvLcQ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Rất thích khách sạn này. Sẽ ở hoài luôn. Nhân viên lịch sự nhiệt tình lắm. Có cả giặt ủi và mát xa nhưng chưa thử :))))",
+        "time": 1534940586,
+        "translated": false
+      },
+      {
+        "author_name": "phong lan đoàn",
+        "author_url": "https://www.google.com/maps/contrib/111633017032229513112/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN5rJezFAbfAqfQ6gifaSYIFkiInYtctvRPZRQxYy-XqIUUKuh=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Rất hài lòng về chất lượng dịch vụ tại ks. Chắc chắn mình sẽ quay lại đây nhiều lần nữa 🥰",
+        "time": 1659431661,
+        "translated": false
+      },
+      {
+        "author_name": "Liêm Trương Thanh",
+        "author_url": "https://www.google.com/maps/contrib/100488563109793630092/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkPhGeIeF6uRb6Bxn7lnUiP6SExMSs14RUjL294JhEULJ1k1qd=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Chủ thân thiện, phòng khá thoải mái, nằm trong phố cổ dễ di chuyển",
+        "time": 1557406076,
+        "translated": false
+      },
+      {
+        "author_name": "Hong duong thi",
+        "author_url": "https://www.google.com/maps/contrib/115026268236979815091/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDRpUqK4xhS3xCZ-H30bqiQQEy0VeGxt3thkQma5K-fv6dfw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Vị trí thuận tiện, giá cả hợp lý, phục vụ chu đáo",
+        "time": 1659431629,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 72
+  },
+  "harvested_at": "2026-04-27T19:59:24.141760"
+}

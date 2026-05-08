@@ -1,0 +1,174 @@
+{
+  "u_key": "82edd1b73952d13e",
+  "original_osm_name": "Nathalie's",
+  "google_raw": {
+    "formatted_phone_number": "0254 3551 651",
+    "geometry": {
+      "location": {
+        "lat": 10.3796955,
+        "lng": 107.0560538
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3810971302915,
+          "lng": 107.0573044802915
+        },
+        "southwest": {
+          "lat": 10.3783991697085,
+          "lng": 107.0546065197085
+        }
+      }
+    },
+    "name": "Nathalie's Restaurant & Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Nhung Ly",
+        "author_url": "https://www.google.com/maps/contrib/109742639305678910571/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZLUMGIS0NP8dg_MAKojWaNuzaNvkZi-KLL8UxBJbbMkux=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khách sạn có dấu hiệu làm ăn gian dối, tự ý huỷ phòng khi khách tới trễ trong cùng 1 ngày trước 18h00 dù đã thanh toán 100% gd tôi không chỗ ở phải về SG giữa đêm khuya. Có dấu hiệu lừa đảo lợi dụng ngày Lễ huỷ xong tiếp tục dành cho khách khác. Đổ thừa app Agoda huỷ trong khi mail từ Agoda ks tự ý huỷ. Rồi làm ăn vậy coi dc ko chủ shop? Đầu năm gặp shop vừa mất tiền vừa rước bực hên vãi ò.No recommended Ks này lẫn bên Agoda 😡😡😡😡😡😡😡😡😡😡",
+        "time": 1772157217,
+        "translated": false
+      },
+      {
+        "author_name": "Đông Trần",
+        "author_url": "https://www.google.com/maps/contrib/105229196438396312424/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKLT9GTsaDu2Xn1aWPYyl6Iv4i3t4qpe22HWiHcfaOIuXdHQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đặt phòng thanh toán qua thẻ tín dụng, khi đến nơi thì bảo vệ & lễ tân báo đã hủy, đổ lỗi cho app, xong liên hệ app thì đổ cho khách sạn, trong khi không ai chứng minh được lời mình nói. Cuối cùng thông báo là do có người trùng tên hủy phòng nên hệ thống tự động hủy cả 2 phòng. Rồi xong giờ tiền phòng không hoàn lại, cũng ko set phòng khác cho khách.\nThái độ thì rất bố đời, kiểu không cần khách. 1 chuyến nghỉ ngơi rướt bực vào người.\nMột thái độ làm việc thiếu chuyên nghiệp, quá trơ trẽn và chối bỏ mọi trách nhiệm với khách.",
+        "time": 1772188407,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Le Thi Kim",
+        "author_url": "https://www.google.com/maps/contrib/100053615998853471213/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXzUCwXnDPVzkq087lC64UcFFGDzztBz3fE2C9lKeJdVqzyQk=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khách sạn lừa đảo. Tôi đặt phòng trên app Agoda, đã thanh toán trước. Đến nơi thì báo phòng đã bị huỷ trong khi trên app vẫn đang báo còn phòng. Khách sạn vòng vo từ chối giải quyết. Đổ thừa cho app. Không có hướng xử lý cho khách hàng.",
+        "time": 1771678034,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Hung",
+        "author_url": "https://www.google.com/maps/contrib/108044200203455586940/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdCV8-rf75R_d4OKNuqBpZHhB8a-2yUTJ9tvwUiWI_aaiwONDVGQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khách sạn boom phòng trên agoda lợi dụng diệp lễ tết để lừa khách book wa agoda\nMã đặt phòng 1699879652 ứng dụng Agoda",
+        "time": 1772167203,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Trần",
+        "author_url": "https://www.google.com/maps/contrib/105616240432010308098/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUi3GjFRxOrPGrngCxaBCX_8pSIisPxOz-80F8IyRVj-d6kpaw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đối diện resort Marian bay, vị trí dễ tìm, yên tĩnh, phòng tương đối lớn, mới sạch sẽ",
+        "time": 1771561578,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 100
+  },
+  "harvested_at": "2026-05-03T19:44:22.415279"
+}

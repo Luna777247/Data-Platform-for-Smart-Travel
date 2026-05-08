@@ -1,0 +1,174 @@
+{
+  "u_key": "d9847b83fce03095",
+  "original_osm_name": "Nhà Hàng Little Vietnam",
+  "google_raw": {
+    "formatted_phone_number": "024 3926 0168",
+    "geometry": {
+      "location": {
+        "lat": 21.033067,
+        "lng": 105.8540332
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0344141802915,
+          "lng": 105.8552681802915
+        },
+        "southwest": {
+          "lat": 21.0317162197085,
+          "lng": 105.8525702197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Little Hanoi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–00:00",
+        "Thứ Ba: 10:00–00:00",
+        "Thứ Tư: 10:00–00:00",
+        "Thứ Năm: 10:00–00:00",
+        "Thứ Sáu: 10:00–00:00",
+        "Thứ Bảy: 10:00–00:00",
+        "Chủ Nhật: 10:00–00:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Minh Thư Lê Thị",
+        "author_url": "https://www.google.com/maps/contrib/106482036765842820484/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM5asvM4eS1j9HxI2TYqeIqFjhHtE3RdmhLpIeWA3qmsV0TeDH=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Gửi hàng nhờ nhân viên đóng hộp, quấn dùm chống sốc. Mà koo quấn giao đến tay khách hàng đổ hết sản phẩm . Cảm giác cực kì tệ.",
+        "time": 1769674158,
+        "translated": false
+      },
+      {
+        "author_name": "Cong Dao",
+        "author_url": "https://www.google.com/maps/contrib/118130841693980887253/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfizjFjc_bp8n_mcQK1c5kWv31i7WuS5Li2VKN83DRhTOM6zjG=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Heo chua ngọt ko ăn nổi. Bia HN và nem rán ngon. Nhạc ok. Nhân viên quen phục vụ tây hơi vô duyên.",
+        "time": 1735316619,
+        "translated": false
+      },
+      {
+        "author_name": "Diễm",
+        "author_url": "https://www.google.com/maps/contrib/115067657029328605391/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZLpGuQeNWBIfSyJZduHZgR2RSLQuAgvEHx_6mzoP5mUBtOGuZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đơn vị vận chuyển phiền nhất thế giới, có 1 đơn hàng được nhận thôi mà gửi sms và tin nhắn zalo thông báo lặp lại 4 lần. Rất phiền.",
+        "time": 1768364747,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Minh",
+        "author_url": "https://www.google.com/maps/contrib/114637558725427284642/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4hSHftyTGaiMO_606Ubymy7xNoP6NRtHHryVA6LeiZSqX_vwQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Là một địa điểm đc khá nhiều khách du lịch lựa chọn khi đến thăm Hà Nội. Đặc biệt là ở khu phố cổ đắt đỏ.\n\n1. Thực đơn của quán đa phần là các món ăn đậm vị bắc, đa dạng, dễ ăn. Tuy nhiên, hơi mặn, nhiều dầu mỡ chút.\n2. Nước uống ở đây cũng nhiều, nhưng có trà nóng rất rẻ và uống rất thơm và dễ chịu.\n3. Thái độ phục vụ của nhân viên ở đây khá tốt, lên món lâu vì mình order thì đầu bếp mới nấu; vì thế mà món ăn rất nóng sốt, thơm ngon.\n4. Điểm trừ ở đây là khách Trung Quốc, Hàn Quốc, Pháp... rất ồn ào, khó chịu nên không thích hợp là nơi để nói chuyện.",
+        "time": 1553222840,
+        "translated": false
+      },
+      {
+        "author_name": "Tất Thành Vũ",
+        "author_url": "https://www.google.com/maps/contrib/103083171933407097288/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLg5OZ98VYBwdto9GdWwD-C_UHWtMcvjEIao7DvhYU_WHR7Ng=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng của một gia đình có truyền thống lâu đời nằm trong khu phố cổ với những món ăn ngon , giá cả phải chăng. Và Nhân viên  rất thân thiện, chúng tôi sẽ quay lại !",
+        "time": 1738677958,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2813
+  },
+  "harvested_at": "2026-04-28T16:20:31.163712"
+}

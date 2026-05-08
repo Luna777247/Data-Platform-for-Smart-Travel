@@ -1,0 +1,164 @@
+{
+  "u_key": "950eba2517c6e715",
+  "original_osm_name": "Shantaram",
+  "google_raw": {
+    "formatted_phone_number": "0338 724 374",
+    "geometry": {
+      "location": {
+        "lat": 12.2807677,
+        "lng": 109.2022094
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2821395802915,
+          "lng": 109.2035588302915
+        },
+        "southwest": {
+          "lat": 12.2794416197085,
+          "lng": 109.2008608697085
+        }
+      }
+    },
+    "name": "SHANTARAM",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 15:00–23:00",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 15:00–23:00",
+        "Thứ Năm: 15:00–23:00",
+        "Thứ Sáu: 15:00–23:00",
+        "Thứ Bảy: 15:00–23:00",
+        "Chủ Nhật: 15:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Le Nghi",
+        "author_url": "https://www.google.com/maps/contrib/111621277727783922735/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzUJJQOUelK8cO2C33wo9U4TNAOkS2Z8OHpS2SjZzYtumv-HjXyA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tuyệt vời, có cả món chay rất rất ngon, bạn phải đến thử.",
+        "time": 1759069627,
+        "translated": false
+      },
+      {
+        "author_name": "Thiện Lê",
+        "author_url": "https://www.google.com/maps/contrib/102922207207514291751/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqSK0LCqxkD6oCWZg_fZC_MY4ROrm6btWeEAgPDrmGy6iB80ed=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Lần đầu trải nghiệm pizza với dứa, mình có yêu cầu riêng là làm giòn thì thấy ngon hơn so với lần trước mình gọi pizza hunting",
+        "time": 1754835317,
+        "translated": false
+      },
+      {
+        "author_name": "Dũng Trần",
+        "author_url": "https://www.google.com/maps/contrib/114879335286093302811/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX69sCTXT9oc8r6lt6REegHJTVKko4Nm8UvLgTCTgDFqv2L00Ic=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Chỗ ngồi thoáng mát, sạch, thức ăn rất ngon miệng 🥰",
+        "time": 1759583375,
+        "translated": false
+      },
+      {
+        "author_name": "Hoài Trang Hà Thị",
+        "author_url": "https://www.google.com/maps/contrib/104214204663566535659/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAvjYm2t9PDaqYYZ4cek_Lm6dvRVDl1xyo93wXZTl-6Aa3AwQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Salat ngon, pizza ngon, đồ uống coktail ngon",
+        "time": 1756648470,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Món ăn ngon. Pate đà điểu nóng thơm ngon ăn kèm bánh mì là chuẩn.\nCà phê và phô mai mozzarella chiên ngon. Phô mai nóng, mềm kéo sợi.\nNhân viên thân thiện.",
+        "time": 1623429720,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 876
+  },
+  "harvested_at": "2026-05-02T15:13:12.179521"
+}

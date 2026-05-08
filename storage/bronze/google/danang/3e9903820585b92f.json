@@ -1,0 +1,173 @@
+{
+  "u_key": "3e9903820585b92f",
+  "original_osm_name": "surf shack (burger)",
+  "google_raw": {
+    "formatted_phone_number": "0905 985 459",
+    "geometry": {
+      "location": {
+        "lat": 16.0487903,
+        "lng": 108.2465166
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0501097802915,
+          "lng": 108.2478739802915
+        },
+        "southwest": {
+          "lat": 16.0474118197085,
+          "lng": 108.2451760197085
+        }
+      }
+    },
+    "name": "Surf Shack",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–17:00",
+        "Thứ Ba: 08:00–17:00",
+        "Thứ Tư: 08:00–17:00",
+        "Thứ Năm: 08:00–17:00",
+        "Thứ Sáu: 08:00–17:00",
+        "Thứ Bảy: 08:00–17:00",
+        "Chủ Nhật: 08:00–17:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Thuyền Kim",
+        "author_url": "https://www.google.com/maps/contrib/100335078675832212735/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoPX06i7DsuVzJyUMI_Odi3_lQVf8-V-LAkqcNJorr0qXO0h5l=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Có rất nhiều loại surf khác nhau để lựa chọn. Nhân viên nhiệt tình, dễ thương. Các thầy giáo dạy surf rất chuyên nghiệp, tôi có thể lướt sóng được trong 1 buổi học.",
+        "time": 1714638191,
+        "translated": false
+      },
+      {
+        "author_name": "Mei nè",
+        "author_url": "https://www.google.com/maps/contrib/108558298506180485314/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIV_BnCrmriawI6UDfs3793n7H-rJPiRMr-kkO2mc6_bup13vD=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhân viên siêu đẹp gái thân thiện 🥰🥰 Tới Surfshack học lướt sóng để chị photo chụp nhiều ảnh xinh mang về nhée",
+        "time": 1714637531,
+        "translated": false
+      },
+      {
+        "author_name": "Phuoc Khương trung",
+        "author_url": "https://www.google.com/maps/contrib/114284166064308679400/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVf4h_ds64vm6VyZdeA1dwRUwryfVJS5q3MjXtyCVp-_SY_xMpS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "nhân viên thân thiện thầy hướng dẫn chỉ dẫn tận tình",
+        "time": 1714637359,
+        "translated": false
+      },
+      {
+        "author_name": "Kiều Minh",
+        "author_url": "https://www.google.com/maps/contrib/107908361147973629912/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcHa-rfYMSH-MMlCf_Nm16YT8r4emet6mJhP72lbwe6hZ1MO0=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Phục vụ chậm, đồ ăn hơi mặn, thực đơn ko có tiếng việtXem thêm",
+        "time": 1579735034,
+        "translated": false
+      },
+      {
+        "author_name": "huy nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103560371624629175522/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJudRP6IYFpIpUPfUUx0IcTy5Bo6tc1ArGZk6HWXblObYNb04Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Qua tuyet",
+        "time": 1658110818,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 140
+  },
+  "harvested_at": "2026-04-28T16:39:51.964629"
+}

@@ -1,0 +1,89 @@
+{
+  "u_key": "ae2d6c4abfb9cad8",
+  "original_osm_name": "Khách Sạn Lavender Old Quarter",
+  "google_raw": {
+    "formatted_phone_number": "0902 230 069",
+    "geometry": {
+      "location": {
+        "lat": 21.0134277,
+        "lng": 105.8637556
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0147895802915,
+          "lng": 105.8651431302915
+        },
+        "southwest": {
+          "lat": 21.0120916197085,
+          "lng": 105.8624451697085
+        }
+      }
+    },
+    "name": "Khách Sạn Lavender",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Ngô Lý Anh Thư",
+        "author_url": "https://www.google.com/maps/contrib/109884657344901712316/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL7mYwYJV2s_DfXHLL7ybDqAAyBfOF8LkcDS37Ldftl0hGqYo7LQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Khách sạn ổn, nội thất đẹp, các thiết bị bằng inox trong phòng tắm bị gỉ sét. Phục vụ ăn sáng tốt.",
+        "time": 1545712999,
+        "translated": false
+      },
+      {
+        "author_name": "Milo Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103131535698145873931/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgivvrUufpeLv5GIMLiDjgxKHoSgAkzA4W5la-ed6wUkxXnNC0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Khách sạn phục vụ rất tốt. Phòng rộng rãi thoải mái. Dịch vụ 24h khá tốt",
+        "time": 1545700478,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Quang Văn",
+        "author_url": "https://www.google.com/maps/contrib/101399505929894429174/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3vgar47hn4C3DZauQuwVFrNC7ihquv72VzgH-Ww2Drj-0sGJd=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Ks đầy đủ tiện nghi, vị trí thuận lợi với phố cổ.\nSạch sẻ, dịch vụ tốt, nhân viên thân thiện",
+        "time": 1547121022,
+        "translated": false
+      },
+      {
+        "author_name": "Tám lê",
+        "author_url": "https://www.google.com/maps/contrib/118261846796656341480/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjWp9o2heh7kxk-blYrNAHfY21SZHiAYiJ0z_LQZSITGMVTjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Phòng đẹp, nhân viên phục vụ rất tốt",
+        "time": 1529209634,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Thanh Cẩn",
+        "author_url": "https://www.google.com/maps/contrib/104433640059282646673/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwxnLmrfMSdJznpwYfAR0zSf8V-OZyzcKPZEYKyK98AasnjYic=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Phòng đẹp, ở rất tốt. Giá :)",
+        "time": 1545812839,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 39
+  },
+  "harvested_at": "2026-04-28T16:09:59.694119"
+}

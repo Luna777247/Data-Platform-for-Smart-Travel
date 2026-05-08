@@ -1,0 +1,173 @@
+{
+  "u_key": "4c927e8a866cd8ba",
+  "original_osm_name": "HongKong Quán",
+  "google_raw": {
+    "formatted_phone_number": "0336 730 797",
+    "geometry": {
+      "location": {
+        "lat": 11.9461948,
+        "lng": 108.4988167
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9475393802915,
+          "lng": 108.5001648302915
+        },
+        "southwest": {
+          "lat": 11.9448414197085,
+          "lng": 108.4974668697085
+        }
+      }
+    },
+    "name": "HONGKONG CỔ TRẤN",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–19:00",
+        "Thứ Ba: 07:00–19:00",
+        "Thứ Tư: 07:00–19:00",
+        "Thứ Năm: 07:00–19:00",
+        "Thứ Sáu: 07:00–19:00",
+        "Thứ Bảy: 07:00–19:00",
+        "Chủ Nhật: 07:00–19:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Nhu Thang Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/118221568727057465372/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWskIyRTy8bzvzY_ZiF9mdhvF9glRoAQGsTT_DXtTHKaiKvNPP9=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "HongKong Cổ Trấn – Check-in phong cách Hồng Kông thập niên 80\n\nNếu bạn yêu thích vibe Hồng Kông xưa với ánh đèn neon, những con hẻm nhỏ và phong cách retro thì HongKong Cổ Trấn chắc chắn là nơi không thể bỏ qua.\n\nĐiểm đặc biệt ở đây là khách có thể cosplay theo phong cách Hồng Kông thập niên 80 với chi phí rất hợp lý:\n\n100k/lần thuê trang phục\n50k/chụp hình\nKhông gian được thiết kế tỉ mỉ, từ bảng hiệu, ánh sáng cho đến từng góc nhỏ đều gợi nhớ đến phim Hồng Kông cũ. Chỉ cần diện đồ vintage, tạo dáng một chút là bạn đã có ngay bộ ảnh cực chất, như bước ra từ màn ảnh TVB.\n\nƯu điểm\n\nKhông gian độc đáo, nhiều góc chụp đẹp.\nGiá thuê trang phục và chụp hình khá rẻ.\nPhù hợp cho nhóm bạn, cặp đôi hoặc ai muốn đổi gió với phong cách retro.\nHạn chế\n\nKhông gian có thể đông vào cuối tuần.\nTrang phục thuê chưa quá đa dạng, chủ yếu theo tông cổ điển.",
+        "time": 1759377104,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Phương Thảo",
+        "author_url": "https://www.google.com/maps/contrib/112799092490314724702/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7RXxnl8_JUbzcQtK68LewnhcClUP15naTwaZAg7rrT5kQbBwy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian đẹp 10₫ xuất sắc, phù hợp style hongkong, có nhân viên chụp ảnh có tâm, nhiệt tình",
+        "time": 1772359600,
+        "translated": false
+      },
+      {
+        "author_name": "Jereme Bruniea",
+        "author_url": "https://www.google.com/maps/contrib/116295227493362768228/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMUjMjfaddA1t9YnwxDME5aMQKBQCSwpbhvVbD_QK4KWNK70tV=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán đẹp . Nhân viên dễ thương và nhiệt tình đón tiếp",
+        "time": 1772535872,
+        "translated": false
+      },
+      {
+        "author_name": "Hồ Tuấn An",
+        "author_url": "https://www.google.com/maps/contrib/112335131611172114560/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGt0pvyMPlJVlPUHvs_NOLMlKE-3uq2Cge4dsk0OHqCZ03vZNi=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "26/11/24\nHongKong Cổ Trấn.\n\nVợ chồng mình đi kỷ niệm ngày cưới ở Đà Lạt. Tính đi chùa ve chai xong thấy quán này đối diện xéo xéo chùa nên ghé vào luôn. Vô tình được 1 bộ ảnh kỷ niệm quá đẹp, y như chụp studio ảnh cưới kaka.\nGiá nước hình như min là 60k/phần. Thuê trang phục là 100k/bộ. Thuê người chụp ảnh là 50k/người.\nMình nghĩ nếu đã đến đây thì các bạn nên thuê trang phục và thuê người chụp ảnh. Vì nó hoàn toàn xứng đáng và chắc chắn bạn sẽ hài lòng. Bạn sẽ có 1 bộ ảnh siêu đẹp với giá cả rất rẻ.\nCảm ơn anh chị chủ quán và cảm ơn bạn chụp hình luôn nhé.\nChúc mọi người khỏe mạnh và hạnh phúc, cảm ơn mọi người ❤️❤️❤️",
+        "time": 1732640083,
+        "translated": false
+      },
+      {
+        "author_name": "Ben",
+        "author_url": "https://www.google.com/maps/contrib/111355254712569702697/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJXmTDQwLJannafoqRgB28B6LtLdi3eL2HyD4X2GgYO9cwC7E=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "HONGKONG CỔ TRẤN\n- quán thiết kế với kiến trúc cổ,\n- quán nằm trong hẻm của trường Tiểu Học Trái Mát\n- quán thiết kế theo phong cách cổ điển\n- về phần nước thì bth nhâ không quá cao\n- có nhận thuê trang phục 100/ng\n- nhờ bạn chụo hình giùm thì 50k  nhaaa",
+        "time": 1740413465,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 232
+  },
+  "harvested_at": "2026-04-30T14:57:28.503659"
+}

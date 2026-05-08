@@ -1,0 +1,88 @@
+{
+  "u_key": "6c99d8f1c00ad38d",
+  "original_osm_name": "Nhà khách K9",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.111294,
+        "lng": 105.3278288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.1125294302915,
+          "lng": 105.3291030302915
+        },
+        "southwest": {
+          "lat": 21.1098314697085,
+          "lng": 105.3264050697085
+        }
+      }
+    },
+    "name": "Nhà Khách K9",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Noikt “Noikt”",
+        "author_url": "https://www.google.com/maps/contrib/116781685431616769663/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXattKbi9koICRBN-MHXYD4Qwmssr9OfVXSmV3x5V76lHtUA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Rất vắng vẻ và yên tĩnh",
+        "time": 1524961502,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Vũ",
+        "author_url": "https://www.google.com/maps/contrib/114428291518102271150/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4D_CsAlMmc0iP34nQQO3IkcakyakADBR-GbegXiNwkta2Rw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Yên tĩnh thoáng mát",
+        "time": 1570273817,
+        "translated": false
+      },
+      {
+        "author_name": "Dr. Hoang Son",
+        "author_url": "https://www.google.com/maps/contrib/107131886485451151342/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzPOs_cjPG5TOBbctQ9Ymt7e7vGThirunhfiMCGlhKeNvfFuB-ng=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Tuyệt vời",
+        "time": 1578814758,
+        "translated": false
+      },
+      {
+        "author_name": "vanmanh trieu",
+        "author_url": "https://www.google.com/maps/contrib/110246340197189877944/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjdI3DtF1fZgP8dymq4_H8BHvOJY38p0A31UA9UWhizF9XKw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Núi Chông",
+        "time": 1565862016,
+        "translated": false
+      },
+      {
+        "author_name": "Dương “Mây trôi lang thang” Nguyễn Đức",
+        "author_url": "https://www.google.com/maps/contrib/100021190308172093526/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrVOgHLN8yWWQtLm4vt6GreRcT1kaG8SNAMf5tx1gE0CEG6xaS=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Bình yên …",
+        "time": 1699610673,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23
+  },
+  "harvested_at": "2026-04-26T12:45:01.491900"
+}

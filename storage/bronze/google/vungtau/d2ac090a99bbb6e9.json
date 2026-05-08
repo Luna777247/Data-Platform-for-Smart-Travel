@@ -1,0 +1,89 @@
+{
+  "u_key": "d2ac090a99bbb6e9",
+  "original_osm_name": "Trường Ân",
+  "google_raw": {
+    "formatted_phone_number": "0254 3852 362",
+    "geometry": {
+      "location": {
+        "lat": 10.3383345,
+        "lng": 107.0898689
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3396569302915,
+          "lng": 107.0911944802915
+        },
+        "southwest": {
+          "lat": 10.3369589697085,
+          "lng": 107.0884965197085
+        }
+      }
+    },
+    "name": "Truong An Hotel",
+    "rating": 3.2,
+    "reviews": [
+      {
+        "author_name": "Khánh Trần",
+        "author_url": "https://www.google.com/maps/contrib/100188741744836141969/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUDzDgTfauq8NYDxOPluJYE0XYq206l5B056UJkf8ESVwcJj8Cpw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Làm ăn ko uy tín, book phòng xong rồi vẫn tự ý hủy của khách mà ko thông báo",
+        "time": 1657920910,
+        "translated": false
+      },
+      {
+        "author_name": "want to be thin Hải Anh",
+        "author_url": "https://www.google.com/maps/contrib/104704185379283278547/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZc5_Jo-U2JYlrxkycC00Knk4035WW7AL3nJ3AWxToiEuSSHl6=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một trong những địa điểm thích hợp để nghỉ ngơi thoải mái",
+        "time": 1718974366,
+        "translated": false
+      },
+      {
+        "author_name": "Long Vu",
+        "author_url": "https://www.google.com/maps/contrib/110097515135321692350/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2abRMCuk1uWTpuWsuDWLHyiIEaR3BgrBVHmRWGHNedMf9fTx9=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 năm trước",
+        "text": "quá tệ, nội thất hỏng hóc, xuống cấp, thiếu thốn nhiều thứ. giá cả đắt, không đáng số tiền bỏ ra. không nên tới đây.",
+        "time": 1434794538,
+        "translated": false
+      },
+      {
+        "author_name": "Béo Ringing",
+        "author_url": "https://www.google.com/maps/contrib/109058521326979381486/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMP5xcQFnI4-tbt4gz9GNX3FkvSmLbjB9t48c3TDOhADwCOA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Đặt phòng trước qua booking nhưng ra tới báo hết phòng , tăng giá",
+        "time": 1709383890,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111903601520783369890/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUw7AydurFvEtfU3uZ3Qv7g7mboAUV6DYNtEOpvo4Y41PQFx23I=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Ở thì được nhưng nội thất và không gian hơi cũ. Tạm thôi",
+        "time": 1573157920,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 11
+  },
+  "harvested_at": "2026-05-03T19:48:09.327362"
+}

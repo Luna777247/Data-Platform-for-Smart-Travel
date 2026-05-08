@@ -1,0 +1,174 @@
+{
+  "u_key": "3be5a80ea63f0ff7",
+  "original_osm_name": "Nom nom restaurant & cafe",
+  "google_raw": {
+    "formatted_phone_number": "0702 252 028",
+    "geometry": {
+      "location": {
+        "lat": 12.2322065,
+        "lng": 109.1955981
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2335646302915,
+          "lng": 109.1969793302915
+        },
+        "southwest": {
+          "lat": 12.2308666697085,
+          "lng": 109.1942813697085
+        }
+      }
+    },
+    "name": "Nôm Nôm Restaurant & Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:00",
+        "Thứ Ba: 09:00–23:00",
+        "Thứ Tư: 09:00–23:00",
+        "Thứ Năm: 09:00–23:00",
+        "Thứ Sáu: 09:00–23:00",
+        "Thứ Bảy: 09:00–23:00",
+        "Chủ Nhật: 09:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Châu Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/108725608731412176112/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsfDUW9eiYbmvM5DQm8BFbVS44yWTSBc7cQ1kxzNFCnT37zYQ4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Vào một ngày kỉ niệm, tôi đã ghé Nôm Nôm Restaurant.\n- Đặt bàn cực kì nhanh chóng.\n- Không gian riêng tư, ấm áp\n- Nhân viên thân thiện\n- Đồ ăn ngon, đa dạng phong phú.\nNếu bạn muốn một buổi tiệc kỉ niệm hay sum họp thì đây là nơi chắc chắn phải ghé qua",
+        "time": 1766581253,
+        "translated": false
+      },
+      {
+        "author_name": "LAnoBi",
+        "author_url": "https://www.google.com/maps/contrib/106064645254136155397/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK_IeCOws6n-pZGSJ2CC5_hKXX_Xxilh43X5NJ7IW4JE9PzL8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Món ăn vị ngon, không giãn nhẹ nhàng, phù hợp ăn gia đình, du lịch và cả ăn chơi chơi cũng được. Nhân viên tue vấn món nhoẹt tình, phù hợp với số lượng người ăn.",
+        "time": 1762419415,
+        "translated": false
+      },
+      {
+        "author_name": "Lyn Lyn",
+        "author_url": "https://www.google.com/maps/contrib/103345623100647211416/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmuE_ipLsx6Lwf6Lh8qWY_uVGZsdWVyit_AHhQDkK5QwDqt19z=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nôm Nôm Restaurant & Cafe, Nha Trang\n\nCuối tháng vừa rồi, sau buổi họp cùng đồng nghiệp, chúng tôi chọn Nôm Nôm Restaurant & Cafe để ăn tối. Quán nằm trên đường Trần Quang Khải, vị trí rất thuận tiện, đặc biệt chỉ cách Starbucks Beach Front vài phút đi bộ. Chính vì thế, cả nhóm vừa bàn công việc vừa háo hức lên kế hoạch sẽ ghé Starbucks ngay sau bữa ăn.\n\nKhông gian Nôm Nôm hiện đại, ấm cúng, ánh sáng dịu nhẹ tạo cảm giác thoải mái. Thực đơn phong phú, kết hợp món Á – Âu: pizza hải sản, mì Ý sốt kem, phở Việt… tất cả đều chế biến từ nguyên liệu tươi ngon. Chúng tôi gọi nhiều món để chia sẻ, vừa ăn vừa trò chuyện, không khí rất vui vẻ. Đồ uống cũng đa dạng, nhưng ai cũng nhắc rằng lát nữa sẽ đi bộ ra Starbucks để thưởng thức cà phê bên bờ biển.\n\nNhân viên phục vụ nhanh nhẹn, thân thiện, khiến buổi họp cuối tháng trở nên nhẹ nhàng hơn. Sau khi rời Nôm Nôm, cả nhóm cùng nhau đi bộ vài phút ra Starbucks Beach Front, vừa nhâm nhi cà phê vừa ngắm biển đêm.\n\nMột buổi tối trọn vẹn: ăn ngon tại Nôm Nôm, rồi tiếp tục trò chuyện trong không gian Starbucks ngay sát biển – đúng chất kết hợp công việc và niềm vui.",
+        "time": 1767459198,
+        "translated": false
+      },
+      {
+        "author_name": "Quoc Vuong Phan",
+        "author_url": "https://www.google.com/maps/contrib/107014703596097419970/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcqIFdWD9ogWdQOYdyL0U4Va9EhZhlgxTjIwgpjW9kziTSGg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình nghĩ nhà hàng không nên thu phí cái bảng nhỏ để chữ Mừng sinh nhật, mình đi nhiều nơi còn set up free và tặng thêm bánh kem nữa\nTuy nhiên, nếu tính phí thì cũng nên báo trước để khách khỏi bỡ ngỡ.\nDịch vụ tốt, đồ ăn ngon",
+        "time": 1768147767,
+        "translated": false
+      },
+      {
+        "author_name": "Bích Đào Lê Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/104949158681400578519/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxTYu65C9Fm3VqgEs4zK_p-3g5N4OjGntPdu0HShpFD8zXS_U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Sau hơn 3 tháng quay lại, phục vụ thì dễ huông nhanh nhẹn take care khách tốt lắm.\nĐồ ăn thì pizza mãi đỉnh nha, các món khác  nóng giòn ngon, nên dặn nhân viên nêm nếm theo khẩu vị của mình vì quán sẽ nêm nhạt vừa phải phù chợp cho khách tây và việt.",
+        "time": 1753288232,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3143
+  },
+  "harvested_at": "2026-05-02T15:33:26.232092"
+}

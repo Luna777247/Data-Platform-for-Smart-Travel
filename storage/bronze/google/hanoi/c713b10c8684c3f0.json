@@ -1,0 +1,173 @@
+{
+  "u_key": "c713b10c8684c3f0",
+  "original_osm_name": "Pateta",
+  "google_raw": {
+    "formatted_phone_number": "0877 888 823",
+    "geometry": {
+      "location": {
+        "lat": 21.0361275,
+        "lng": 105.8527805
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0374876302915,
+          "lng": 105.8540912302915
+        },
+        "southwest": {
+          "lat": 21.0347896697085,
+          "lng": 105.8513932697085
+        }
+      }
+    },
+    "name": "DAUTAU Street PUB & Vietnamese Banh Mi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–03:00",
+        "Thứ Ba: 09:00–03:00",
+        "Thứ Tư: 09:00–03:00",
+        "Thứ Năm: 09:00–03:00",
+        "Thứ Sáu: 09:00–03:00",
+        "Thứ Bảy: 09:00–03:00",
+        "Chủ Nhật: 09:00–03:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Anthony Cao",
+        "author_url": "https://www.google.com/maps/contrib/113492450694291474738/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrgIUiBw489rxL1HJTTmgMzSjumDBjfEnB-JBj9-umeIVMTbY=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Burger quá ngon, đi vào lòng mề. Bia tươi uống từ độ thấp đến cao fê mất nóc. The burger is so delicious, it goes right into the gizzard. The draft beer is so good from low to high.",
+        "time": 1745078241,
+        "translated": false
+      },
+      {
+        "author_name": "Huyền Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114103027836627394093/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzsIotz3yYlZb6z1PdFNPz8PHjZ2eLhZ9wpD89fQOohbhZ0pUn=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một không gian tuyệt vời trên phố cổ. Tôi rất thích quán này, không nghĩ là quanh Hà nội lại có chỗ ngồi uống beer chill đến vậy. Hôm nay ghé quán, tôi đã ăn thử buger bò, rất ngon và nhiều thịt\n---\nA great space in the old town. I really like this place, I didn't think there was such a chill place to drink beer around Hanoi. Today I visited the place and tried the beef burger, it was delicious and had a lot of meat.",
+        "time": 1744371619,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/101327285583267408527/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTd3t0tR64T-cYxsstoK_rsG2eSfqgUYjqd_H8Pr4GQWu94bL0mQ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ngồi tầng 2 rất chill nhìn ra phố bia Lương Ngọc Quyến. Nhân viên thân thiện và tư vấn nhiệt tình. Bia 100k/lít công nghệ Đức chai nhôm lớn uống ổn. Menu để craft bia ipa 15k lừa tình quá, hoá ra là bia hơi. Bán kèm quầy bánh mì tầng 1, nhìn chung là hợp lý",
+        "time": 1730803341,
+        "translated": false
+      },
+      {
+        "author_name": "beach the",
+        "author_url": "https://www.google.com/maps/contrib/100834234312368219903/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYEhwAddW6RBFNtHGpoo7NbQevsEV-zMWbXlirJdq3xUwxMLs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Buger ngon, bánh và thịt mềm, sốt đạm đà.\nNgon tuyệt, rất hợp với bia tươi của quán",
+        "time": 1745078229,
+        "translated": false
+      },
+      {
+        "author_name": "Luong Hoang",
+        "author_url": "https://www.google.com/maps/contrib/108245963301454325034/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9vdYjzezH0mrtAEqSbY3UbmZVvr3t1en7MT9GBd-o3rF3QOQo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Bánh ngon với tầm giá, đóng gói gọn gàng. Mọi người tới quán nên thử nhé!",
+        "time": 1747050128,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 749
+  },
+  "harvested_at": "2026-04-28T16:14:18.227907"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "f1d80327f989608c",
+  "original_osm_name": "O.HE Seafood buffet BBQ HOtPot",
+  "google_raw": {
+    "formatted_phone_number": "0355 832 468",
+    "geometry": {
+      "location": {
+        "lat": 12.237508,
+        "lng": 109.1902842
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2389263802915,
+          "lng": 109.1916164302915
+        },
+        "southwest": {
+          "lat": 12.2362284197085,
+          "lng": 109.1889184697085
+        }
+      }
+    },
+    "name": "Ohe Seafood - BBQ & Hotpot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–23:00",
+        "Thứ Ba: 10:30–23:00",
+        "Thứ Tư: 10:30–23:00",
+        "Thứ Năm: 10:30–23:00",
+        "Thứ Sáu: 10:30–23:00",
+        "Thứ Bảy: 10:30–23:00",
+        "Chủ Nhật: 10:30–23:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Le Linh",
+        "author_url": "https://www.google.com/maps/contrib/106341486925803236030/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzM6O_u3lYNzUb5ww_LrFnbTuI4KRKnTBLfLtVxhj21VnM7k2z=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ở địa điểm đẹp, rộng thoáng. Menu khá đa dạng, nhiều hải sản tươi, ra cân tại quầy. Đồ uống cũng nhiều loại, có bia tươi. Đồ ăn theo mình cũng khá ổn, tuy nhiên thấy hơi ít nhân viên, làm món ra thứ tự không phù hợp lắm, có món khai vị mà mãi mới ra sau. Hơi ít món nhậu để uống bia kiểu lạc rang các thứ, quán nên bổ sung thêm.",
+        "time": 1768378161,
+        "translated": false
+      },
+      {
+        "author_name": "duy huynh",
+        "author_url": "https://www.google.com/maps/contrib/108837574826086944843/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAf296y-ocx0Z4c3ukjDDME_xeSdhvHJsgx3-daQhWwJFmjhkagQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình vào lúc có 4-5 bàn. Nhưng bếp ra món siêu chậm. Gần 40p mới có món. Gọi bia thì hết, cũng ko phản hồi, bắt ngồi đợi tiếp.\nSo với giá cả mặt bằng thì không gọi là quá cao, nhưng chất lượng phục vụ thì tệ quá",
+        "time": 1763732267,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Thảo Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101721084088394312534/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqYX-bgQ06QNvF710mZMAXmypVLr5h97mYJ4jA10tDjbYtxQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon nhân viên nhiệt tình quán trang trí đẹp",
+        "time": 1767178116,
+        "translated": false
+      },
+      {
+        "author_name": "15.Trí Hữu Trần",
+        "author_url": "https://www.google.com/maps/contrib/108298269347650841107/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrmNC0P6Q1waeuUw5KvHKnPyAcf4gjKghyh95wrImVs2PIIoP7Cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Trời ơi, nhà hàng 5 sao này đẹp xịn quá chừng, nhưng điều khiến mình mê nhất là món ăn, ngon xuất sắc luôn, đáng đồng tiền bát gạo để lâu lâu tự thưởng cho bản thân một bữa ra trò!",
+        "time": 1761224012,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Trần",
+        "author_url": "https://www.google.com/maps/contrib/113766356986343502343/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWthhQadVHqgRDsjHJOJ-iWIj54Fx-UhB4nDZpID_Vxa-zrG78k=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ngon, không gian rộng rãi, nhân viên thân thiện",
+        "time": 1760758400,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1357
+  },
+  "harvested_at": "2026-05-02T15:21:07.201108"
+}

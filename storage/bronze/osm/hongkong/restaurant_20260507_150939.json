@@ -1,0 +1,2028 @@
+{
+  "city": "hongkong",
+  "category": "restaurant",
+  "timestamp": "20260507_150939",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 165998818,
+      "lat": 22.277094,
+      "lon": 114.1773721,
+      "timestamp": "2024-03-30T10:47:30Z",
+      "version": 10,
+      "changeset": 149345663,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "小田泰式雞飯店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296035496,
+      "lat": 22.2788,
+      "lon": 114.173,
+      "timestamp": "2017-11-24T14:34:15Z",
+      "version": 12,
+      "changeset": 54051824,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "30-32",
+        "addr:street": "柯布連道 O'Brien Road",
+        "amenity": "restaurant",
+        "name": "上海三六九飯店 369 Restaurant Shanghai Food",
+        "name:en": "369 Restaurant Shanghai Food",
+        "name:zh": "上海三六九飯店",
+        "ref:openrice": "10428"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412685605,
+      "lat": 22.323058,
+      "lon": 114.1680612,
+      "timestamp": "2017-07-06T03:00:47Z",
+      "version": 6,
+      "changeset": 50072741,
+      "user": "KWYeung",
+      "uid": 6238137,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Noodle Shop",
+        "name:en": "Noodle Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 412685606,
+      "lat": 22.3232247,
+      "lon": 114.1687993,
+      "timestamp": "2019-01-26T16:04:41Z",
+      "version": 5,
+      "changeset": 66658156,
+      "user": "tommydragon",
+      "uid": 2620510,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "京華酒樓 Jing Hua Restaurant",
+        "name:en": "Jing Hua Restaurant",
+        "name:zh": "京華酒樓"
+      }
+    },
+    {
+      "type": "node",
+      "id": 415841577,
+      "lat": 22.3232313,
+      "lon": 114.1676648,
+      "timestamp": "2011-05-19T06:24:02Z",
+      "version": 4,
+      "changeset": 8187079,
+      "user": "hlaw",
+      "uid": 169827,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Lychee Garden Chinese Restaurant",
+        "name:en": "Lychee Garden Chinese Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 439536975,
+      "lat": 22.3309721,
+      "lon": 114.1878684,
+      "timestamp": "2017-08-30T20:02:09Z",
+      "version": 2,
+      "changeset": 51592723,
+      "user": "cartogram",
+      "uid": 6095772,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470817242,
+      "lat": 22.27722,
+      "lon": 114.17348,
+      "timestamp": "2025-02-08T04:42:06Z",
+      "version": 11,
+      "changeset": 162267814,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:city": "Wan Chai",
+        "addr:country": "HK",
+        "addr:housenumber": "5",
+        "addr:street": "柯布連道 O'Brien Road",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "level": "0",
+        "name": "Paisano's Pizzeria",
+        "name:en": "Paisano's Pizzeria",
+        "opening_hours": "Mo-Su,PH 09:30-00:00",
+        "phone": "+852 25734554",
+        "ref:openrice": "51584",
+        "takeaway": "yes",
+        "website": "https://www.paisanos.com.hk/",
+        "wikimedia_commons": "File:HK WC 灣仔 Wan Chai 柯布連道 5 O'Brien Street Paisano's Restaurant shop near Thomson Road n 莊士敦道 Johnston Road September 2020 SS2.jpg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 508645168,
+      "lat": 22.2259311,
+      "lon": 114.1116675,
+      "timestamp": "2020-10-27T05:42:13Z",
+      "version": 7,
+      "changeset": 93094187,
+      "user": "GasaiYuno",
+      "uid": 10054182,
+      "tags": {
+        "addr:city": "南丫島 Lamma Island",
+        "addr:housenumber": "38",
+        "addr:street": "榕樹灣大街 Yung Shue Wan Main Street",
+        "amenity": "restaurant",
+        "ele": "3.01",
+        "name": "龍江海景酒吧菜館 Lung Kong Seaview Restaurant",
+        "name:en": "Lung Kong Seaview Restaurant",
+        "name:zh": "龍江海景酒吧菜館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 510109583,
+      "lat": 22.2223551,
+      "lon": 114.1156481,
+      "timestamp": "2019-10-23T15:24:20Z",
+      "version": 5,
+      "changeset": 76112157,
+      "user": "tommydragon",
+      "uid": 2620510,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "建興亞婆豆腐花 Kin Hing Tofu Dessert",
+        "name:en": "Kin Hing Tofu Dessert",
+        "name:zh": "建興亞婆豆腐花",
+        "name:zh-Hans": "建兴亚婆豆腐花",
+        "name:zh-Hant": "建興亞婆豆腐花"
+      }
+    },
+    {
+      "type": "node",
+      "id": 629118677,
+      "lat": 22.2779173,
+      "lon": 114.1804868,
+      "timestamp": "2016-08-14T06:51:33Z",
+      "version": 3,
+      "changeset": 41441099,
+      "user": "Philip C",
+      "uid": 3306940,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Hoi Kee Roastie Specialist",
+        "name:en": "Hoi Kee Roastie Specialist"
+      }
+    },
+    {
+      "type": "node",
+      "id": 629118678,
+      "lat": 22.28004,
+      "lon": 114.17968,
+      "timestamp": "2019-10-25T07:10:11Z",
+      "version": 7,
+      "changeset": 76188769,
+      "user": "tommydragon",
+      "uid": 2620510,
+      "tags": {
+        "addr:full": "Shop 1-4, G/F, 379-389 Jaffe Road, Wanchai, Hong Kong",
+        "addr:housenumber": "379-389",
+        "addr:street": "Jaffe Road",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "喜記避風塘炒辣蟹 Hee Kee Fried Crab Expert Ltd",
+        "name:en": "Hee Kee Fried Crab Expert Ltd",
+        "name:zh": "喜記避風塘炒辣蟹",
+        "name:zh-Hans": "喜记避风塘炒辣蟹",
+        "name:zh-Hant": "喜記避風塘炒辣蟹",
+        "phone": "+852 28937565",
+        "ref:openrice": "1181",
+        "website": "http://www.heekee.hk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 629119552,
+      "lat": 22.2870664,
+      "lon": 114.1430352,
+      "timestamp": "2023-08-05T07:52:01Z",
+      "version": 5,
+      "changeset": 139468308,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "263",
+        "addr:street": "皇后大道西 Queen's Road West",
+        "amenity": "restaurant",
+        "name": "坤記煲仔小菜 Kwun Kee Claypot Specialist",
+        "name:en": "Kwun Kee Claypot Specialist",
+        "name:zh": "坤記煲仔小菜",
+        "opening_hours": "Mo-Sa 11:00-00:30; Su 18:00-00:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 660415716,
+      "lat": 22.2801362,
+      "lon": 114.2302694,
+      "timestamp": "2020-02-28T04:15:21Z",
+      "version": 8,
+      "changeset": 81572185,
+      "user": "GasaiYuno",
+      "uid": 10054182,
+      "tags": {
+        "addr:housenumber": "28",
+        "addr:street": "Shau Kei Wan Main Street East",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "摩司餐廳 Merci Minnie",
+        "name:en": "Merci Minnie",
+        "name:zh": "摩司餐廳",
+        "opening_hours": "Su-Th,PH 11:30-22:00; Fr,Sa 11:30-22:30",
+        "ref:openrice": "46255"
+      }
+    },
+    {
+      "type": "node",
+      "id": 727273422,
+      "lat": 22.282661,
+      "lon": 114.1519665,
+      "timestamp": "2023-10-17T00:25:22Z",
+      "version": 6,
+      "changeset": 142687717,
+      "user": "HolloWorld",
+      "uid": 6946532,
+      "tags": {
+        "addr:housenumber": "48",
+        "addr:street": "Staunton Street",
+        "amenity": "restaurant",
+        "name": "Double Happiness",
+        "name:en": "Double Happiness",
+        "phone": "+852 2549 1862"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762013843,
+      "lat": 22.3029013,
+      "lon": 114.1693187,
+      "timestamp": "2014-01-13T17:46:49Z",
+      "version": 5,
+      "changeset": 19975994,
+      "user": "hlaw",
+      "uid": 169827,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "漢寶 Hon Po",
+        "name:en": "Hon Po",
+        "name:zh": "漢寶"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762014634,
+      "lat": 22.2946234,
+      "lon": 114.1694008,
+      "timestamp": "2024-04-01T14:56:47Z",
+      "version": 8,
+      "changeset": 149439436,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "level": "4",
+        "name": "翠園 Jade Garden",
+        "name:en": "Jade Garden",
+        "name:zh": "翠園",
+        "phone": "+852 2730 6888",
+        "website": "https://www.jadegarden.com.hk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 811199627,
+      "lat": 22.2269168,
+      "lon": 114.1109727,
+      "timestamp": "2019-11-13T09:38:33Z",
+      "version": 3,
+      "changeset": 77001115,
+      "user": "ilf",
+      "uid": 261437,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Lamma Seaview",
+        "name:en": "Lamma Seaview Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1022059619,
+      "lat": 22.2780099,
+      "lon": 114.170474,
+      "timestamp": "2018-04-18T13:27:54Z",
+      "version": 6,
+      "changeset": 58201296,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "8-12",
+        "addr:street": "Fenwick Street",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Outback",
+        "name:en": "Outback"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1022492691,
+      "lat": 22.2981779,
+      "lon": 114.1750921,
+      "timestamp": "2023-10-08T23:44:37Z",
+      "version": 8,
+      "changeset": 142323099,
+      "user": "HolloWorld",
+      "uid": 6946532,
+      "tags": {
+        "addr:housenumber": "12-14",
+        "addr:street": "赫德道 Hart Avenue",
+        "amenity": "restaurant",
+        "cuisine": "swiss",
+        "name": "The Swiss Chalet",
+        "name:en": "The Swiss Chalet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1022494598,
+      "lat": 22.2952034,
+      "lon": 114.174059,
+      "timestamp": "2021-01-31T13:31:29Z",
+      "version": 6,
+      "changeset": 98448396,
+      "user": "PantherStrix",
+      "uid": 1468248,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "bavarian",
+        "name": "King Ludwig",
+        "name:en": "King Ludwig"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1022631070,
+      "lat": 22.3223716,
+      "lon": 114.209069,
+      "timestamp": "2020-02-04T06:08:29Z",
+      "version": 9,
+      "changeset": 80512147,
+      "user": "jonathanchik",
+      "uid": 10130685,
+      "tags": {
+        "addr:country": "HK",
+        "addr:housenumber": "25",
+        "addr:street": "宏照道 Wang Chiu Road",
+        "addr:unit": "3",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Just Salad",
+        "opening_hours": "Mo-Fr 11:00-20:00; Sa 11:00-19:00; Su,PH off",
+        "phone": "+852 28508398",
+        "ref:openrice": "470816",
+        "website": "https://www.justsalad.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1022641668,
+      "lat": 22.3073579,
+      "lon": 114.1703404,
+      "timestamp": "2017-09-11T16:50:12Z",
+      "version": 2,
+      "changeset": 51947983,
+      "user": "bgard",
+      "uid": 6172648,
+      "tags": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1041274225,
+      "lat": 22.286463,
+      "lon": 114.13882,
+      "timestamp": "2018-11-11T14:37:00Z",
+      "version": 7,
+      "changeset": 64376131,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "420",
+        "addr:street": "皇后大道西 Queen's Road West",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "藍山食坊",
+        "ref:openrice": "31989"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1070813647,
+      "lat": 22.23346,
+      "lon": 114.172586,
+      "timestamp": "2017-05-19T05:29:10Z",
+      "version": 6,
+      "changeset": 48810120,
+      "user": "LivInTheLookingGlass",
+      "uid": 5617330,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "灣景餐廳 Bay View Restaurant",
+        "name:en": "Bay View Restaurant",
+        "name:zh": "灣景餐廳",
+        "opening_hours": "Mo-Su 10:00-18:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095706000,
+      "lat": 22.2844904,
+      "lon": 114.1533564,
+      "timestamp": "2025-04-15T13:48:00Z",
+      "version": 11,
+      "changeset": 164986250,
+      "user": "vectorial8192",
+      "uid": 10815817,
+      "tags": {
+        "addr:country": "HK",
+        "addr:housenumber": "168",
+        "addr:street": "威靈頓街 Wellington Street",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "王府 Wang Fu",
+        "name:en": "Wang Fu",
+        "name:zh": "王府",
+        "ref:openrice": "15794"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095708153,
+      "lat": 22.28168,
+      "lon": 114.15569,
+      "timestamp": "2023-04-02T06:37:45Z",
+      "version": 10,
+      "changeset": 134402263,
+      "user": "Dragonhk",
+      "uid": 15230995,
+      "tags": {
+        "addr:city": "Central",
+        "addr:country": "HK",
+        "addr:housenumber": "15-19",
+        "addr:street": "威靈頓街 Wellington Street",
+        "amenity": "restaurant",
+        "brand": "譚仔三哥 TamJai SamGor",
+        "brand:en": "TamJai SamGor",
+        "brand:wikidata": "Q113365214",
+        "brand:zh": "譚仔三哥",
+        "brand:zh-Hans": "谭仔三哥",
+        "brand:zh-Hant": "譚仔三哥",
+        "cuisine": "noodle",
+        "delivery": "yes",
+        "name": "譚仔三哥 TamJai SamGor",
+        "name:en": "TamJai SamGor",
+        "name:zh": "譚仔三哥",
+        "name:zh-Hans": "谭仔三哥",
+        "name:zh-Hant": "譚仔三哥"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095773286,
+      "lat": 22.3080744,
+      "lon": 114.170319,
+      "timestamp": "2017-09-11T16:50:12Z",
+      "version": 4,
+      "changeset": 51947983,
+      "user": "bgard",
+      "uid": 6172648,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Tao Lee Yuen",
+        "name:en": "Tao Lee Yuen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1095783948,
+      "lat": 22.3296128,
+      "lon": 114.1875416,
+      "timestamp": "2020-02-03T01:42:24Z",
+      "version": 6,
+      "changeset": 80450013,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "公和荳品廠 支店 Kung Wo Dou Bun Chong TOFU",
+        "name:en": "Kung Wo Dou Bun Chong TOFU",
+        "name:zh": "公和荳品廠 支店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1106660445,
+      "lat": 22.2812538,
+      "lon": 114.1542404,
+      "timestamp": "2022-10-28T13:39:01Z",
+      "version": 7,
+      "changeset": 128176248,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Pazta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1106906595,
+      "lat": 22.2769652,
+      "lon": 114.1815766,
+      "timestamp": "2025-05-19T09:06:58Z",
+      "version": 5,
+      "changeset": 166465037,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "amenity": "restaurant",
+        "level": "1",
+        "name": "Brunch Club and Supper",
+        "name:en": "Brunch Club and Supper",
+        "note": "A bar / restaurant; could be classified as either."
+      }
+    },
+    {
+      "type": "node",
+      "id": 1106907864,
+      "lat": 22.2777927,
+      "lon": 114.1792504,
+      "timestamp": "2025-02-15T03:24:04Z",
+      "version": 5,
+      "changeset": 162524465,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "restaurant",
+        "level": "-1",
+        "name": "陳家廚房",
+        "name:zh": "陳家廚房",
+        "name:zh-Hans": "陈家厨房",
+        "name:zh-Hant": "陳家廚房"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1131945917,
+      "lat": 22.3220987,
+      "lon": 114.1880898,
+      "timestamp": "2019-10-29T10:49:52Z",
+      "version": 4,
+      "changeset": 76337963,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:street": "譚公道 Tam Kung Road",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "文記車仔麵"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1206896960,
+      "lat": 22.2820004,
+      "lon": 114.1530643,
+      "timestamp": "2011-03-18T02:58:33Z",
+      "version": 1,
+      "changeset": 7591754,
+      "user": "bTonyB",
+      "uid": 230481,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Piazetta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1233568747,
+      "lat": 22.282631,
+      "lon": 114.15348,
+      "timestamp": "2018-06-20T14:13:54Z",
+      "version": 5,
+      "changeset": 60012960,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "39",
+        "addr:street": "擺花街 Lyndhurst Terrace",
+        "amenity": "restaurant",
+        "cuisine": "lebanese",
+        "level": "0",
+        "name": "Beyrouth Bistro",
+        "ref:openrice": "484567"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1272678589,
+      "lat": 22.3133566,
+      "lon": 114.1708215,
+      "timestamp": "2021-06-01T14:38:28Z",
+      "version": 4,
+      "changeset": 105683599,
+      "user": "eversone",
+      "uid": 4618964,
+      "tags": {
+        "addr:housenumber": "530-538 3/F",
+        "addr:street": "彌敦道 Nathan Road",
+        "amenity": "restaurant",
+        "name": "Ho Choi Seafood Restaurant",
+        "phone": "23880223",
+        "website": "www.hochoi.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1280185862,
+      "lat": 22.2303254,
+      "lon": 114.2514662,
+      "timestamp": "2019-03-22T03:56:02Z",
+      "version": 5,
+      "changeset": 68395981,
+      "user": "This Is A Display Name Desu",
+      "uid": 196051,
+      "tags": {
+        "addr:street": "shek o village",
+        "amenity": "restaurant",
+        "name": "Shek O Chinese and Thailand Seafood Restaurant",
+        "name:zh": "石澳中泰酒家",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "phone": "+852 2809 4426"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1280848466,
+      "lat": 22.3167339,
+      "lon": 114.1714872,
+      "timestamp": "2024-04-02T15:26:38Z",
+      "version": 14,
+      "changeset": 149487230,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:country": "HK",
+        "addr:housenumber": "50",
+        "addr:street": "豉油街 Soy Street",
+        "amenity": "restaurant",
+        "level": "1",
+        "name": "辣宴川湘農家菜"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1280851134,
+      "lat": 22.3200511,
+      "lon": 114.1705337,
+      "timestamp": "2025-03-27T22:57:33Z",
+      "version": 6,
+      "changeset": 164186453,
+      "user": "Ian Wagner",
+      "uid": 8637794,
+      "tags": {
+        "addr:housenumber": "106",
+        "addr:street": "通菜街 Tung Choi Street",
+        "amenity": "restaurant",
+        "check_date": "2025-03-28",
+        "cuisine": "chinese",
+        "level": "0",
+        "name": "點點心 Dim Dim Sum",
+        "name:en": "Dim Dim Sum",
+        "name:zh": "點點心",
+        "opening_hours": "Mo-Su 11:00-02:00",
+        "ref:openrice": "610951"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1282360530,
+      "lat": 22.3164184,
+      "lon": 114.1729796,
+      "timestamp": "2022-03-26T07:31:25Z",
+      "version": 5,
+      "changeset": 118936299,
+      "user": "Dragonhk",
+      "uid": 15230995,
+      "tags": {
+        "addr:housenumber": "1/F Paradise Shopping Square",
+        "addr:street": "Ying Chong Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "King of the King",
+        "phone": "34282828",
+        "website": "www.kinggroup.com.hk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298359476,
+      "lat": 22.2778198,
+      "lon": 114.1707502,
+      "timestamp": "2018-04-18T13:27:55Z",
+      "version": 3,
+      "changeset": 58201296,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "ilbelPaese"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704440,
+      "lat": 22.269015,
+      "lon": 114.1848146,
+      "timestamp": "2017-05-18T14:45:45Z",
+      "version": 4,
+      "changeset": 48794264,
+      "user": "Cyclomor90",
+      "uid": 5722166,
+      "tags": {
+        "addr:housenumber": "16-18",
+        "addr:street": "King Kwong Street",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "慕情 Bojyo",
+        "name:en": "Bojyo",
+        "name:zh": "慕情",
+        "phone": "+852 28333395",
+        "ref:openrice": "176",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704478,
+      "lat": 22.277569,
+      "lon": 114.178418,
+      "timestamp": "2019-04-13T16:03:24Z",
+      "version": 10,
+      "changeset": 69181204,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:city": "Wan Chai",
+        "addr:country": "HK",
+        "addr:housenumber": "3",
+        "addr:street": "德仁街 Tak Yan Street",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "level": "0",
+        "name": "元朗合隆潮州粉麵",
+        "opening_hours": "Mo-Su,PH 10:30-21:00",
+        "phone": "+852 28891618",
+        "ref:openrice": "577557"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704508,
+      "lat": 22.2779885,
+      "lon": 114.177519,
+      "timestamp": "2025-02-13T00:11:48Z",
+      "version": 12,
+      "changeset": 162448970,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:housenumber": "298",
+        "addr:street": "軒尼詩道 Hennessy Road",
+        "addr:unit": "A2",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "diet:halal": "yes",
+        "level": "0",
+        "name": "五指間 Wu Zhi Jian",
+        "name:en": "Wu Zhi Jian",
+        "name:zh": "五指間",
+        "name:zh-Hans": "五指间",
+        "name:zh-Hant": "五指間",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704514,
+      "lat": 22.288271,
+      "lon": 114.1933052,
+      "timestamp": "2022-05-09T07:39:13Z",
+      "version": 11,
+      "changeset": 120733276,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:street": "英皇道 King's Road",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "爭鮮 Sushi Express",
+        "name:en": "Sushi Express",
+        "name:zh": "爭鮮",
+        "website": "https://www.sushiexpress.com.hk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704543,
+      "lat": 22.2800252,
+      "lon": 114.1861449,
+      "timestamp": "2025-02-25T00:20:56Z",
+      "version": 4,
+      "changeset": 162912820,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Mr Steak",
+        "name:en": "Mr Steak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704556,
+      "lat": 22.2775439,
+      "lon": 114.1740338,
+      "timestamp": "2024-03-18T14:03:23Z",
+      "version": 8,
+      "changeset": 148818785,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "180-182",
+        "addr:street": "軒尼詩道 Hennessy Road",
+        "amenity": "restaurant",
+        "name": "堅信號上海生煎皇",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+852 2727 2066",
+        "website": "https://www.gingsunho.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704660,
+      "lat": 22.27827,
+      "lon": 114.17869,
+      "timestamp": "2025-02-15T03:24:04Z",
+      "version": 6,
+      "changeset": 162524465,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:housenumber": "338",
+        "addr:street": "軒尼詩道 Hennessy Road",
+        "amenity": "restaurant",
+        "cuisine": "cantonese",
+        "level": "1",
+        "name": "利苑 Lei Garden",
+        "name:en": "Lei Garden",
+        "name:zh": "利苑",
+        "name:zh-Hans": "利苑",
+        "name:zh-Hant": "利苑",
+        "opening_hours": "Mo-Su,PH 11:30-15:00, 18:00-23:00",
+        "phone": "+852 28920333",
+        "website": "https://www.leigarden.hk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704683,
+      "lat": 22.27772,
+      "lon": 114.172608,
+      "timestamp": "2025-02-09T03:10:46Z",
+      "version": 4,
+      "changeset": 162300478,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "pasta",
+        "name": "意粉屋 The Spaghetti House",
+        "name:en": "The Spaghetti House",
+        "name:zh": "意粉屋",
+        "name:zh-Hans": "意粉屋",
+        "name:zh-Hant": "意粉屋",
+        "opening_hours": "Mo-Su,PH 11:00-23:00",
+        "phone": "+852 25290901",
+        "ref:openrice": "44009",
+        "website": "https://www.spaghettihouse.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704690,
+      "lat": 22.2783869,
+      "lon": 114.1539902,
+      "timestamp": "2019-10-25T02:17:45Z",
+      "version": 3,
+      "changeset": 76179010,
+      "user": "tommydragon",
+      "uid": 2620510,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Caritas Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704723,
+      "lat": 22.2803208,
+      "lon": 114.185947,
+      "timestamp": "2017-08-25T18:39:22Z",
+      "version": 4,
+      "changeset": 51442041,
+      "user": "FlyTy",
+      "uid": 6095805,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Watami"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704736,
+      "lat": 22.2822919,
+      "lon": 114.1541436,
+      "timestamp": "2022-10-28T14:32:57Z",
+      "version": 8,
+      "changeset": 128178246,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:street": "敦和里 Tun Wo Lane",
+        "amenity": "restaurant",
+        "name": "The Diplomat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704786,
+      "lat": 22.2808,
+      "lon": 114.1547,
+      "timestamp": "2024-03-24T10:14:46Z",
+      "version": 5,
+      "changeset": 149081629,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:unit": "3",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "level": "0",
+        "name": "JJJ Korean Steakhouse",
+        "opening_hours": "Mo-Su 12:00-23:30",
+        "website": "https://www.jjjwyndham.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704842,
+      "lat": 22.2804819,
+      "lon": 114.1813594,
+      "timestamp": "2023-08-04T06:25:16Z",
+      "version": 11,
+      "changeset": 139424419,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "addr:housenumber": "440",
+        "addr:street": "謝斐道 Jaffe Road",
+        "amenity": "restaurant",
+        "brand": "一蘭 Ichiran",
+        "cuisine": "noodle",
+        "name": "一蘭 Ichiran",
+        "name:en": "Ichiran",
+        "name:zh": "一蘭",
+        "opening_hours": "24/7",
+        "website": "https://hk.ichiran.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704873,
+      "lat": 22.2811788,
+      "lon": 114.1549294,
+      "timestamp": "2012-06-24T15:46:39Z",
+      "version": 3,
+      "changeset": 12000903,
+      "user": "hlaw",
+      "uid": 169827,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Koh Thai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704890,
+      "lat": 22.3211594,
+      "lon": 114.2093518,
+      "timestamp": "2017-09-07T17:47:36Z",
+      "version": 2,
+      "changeset": 51819751,
+      "user": "cartogram",
+      "uid": 6095772,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "鳴門 Naruto",
+        "name:en": "Naruto",
+        "name:zh": "鳴門",
+        "phone": "2796 7788"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704909,
+      "lat": 22.28208,
+      "lon": 114.1535,
+      "timestamp": "2022-10-28T14:10:38Z",
+      "version": 5,
+      "changeset": 128177474,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "30",
+        "addr:street": "荷李活道 Hollywood Road",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Cleo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298704952,
+      "lat": 22.2860832,
+      "lon": 114.1523758,
+      "timestamp": "2026-01-15T17:20:22Z",
+      "version": 6,
+      "changeset": 177267803,
+      "user": "KX675",
+      "uid": 31685,
+      "tags": {
+        "addr:country": "HK",
+        "addr:housenumber": "28-34",
+        "addr:street": "永樂街 Wing Lok Street",
+        "amenity": "restaurant",
+        "cuisine": "korean;noodle",
+        "name": "韓式中餐麵館 Noodle Town",
+        "name:en": "Noodle Town",
+        "name:zh": "韓式中餐麵館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1299465481,
+      "lat": 22.278622,
+      "lon": 114.1705541,
+      "timestamp": "2017-10-22T12:54:19Z",
+      "version": 3,
+      "changeset": 53150982,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Sushi One"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1299465482,
+      "lat": 22.2789718,
+      "lon": 114.1806011,
+      "timestamp": "2025-02-16T02:51:47Z",
+      "version": 4,
+      "changeset": 162557247,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "九龍餐室 Restaurant Kowloon",
+        "name:en": "Restaurant Kowloon",
+        "name:zh": "九龍餐室",
+        "name:zh-Hans": "九龙餐室",
+        "name:zh-Hant": "九龍餐室"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1299465486,
+      "lat": 22.2793867,
+      "lon": 114.1808012,
+      "timestamp": "2025-02-16T02:51:47Z",
+      "version": 9,
+      "changeset": 162557247,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:street": "軒尼詩道 Hennessy Road",
+        "amenity": "restaurant",
+        "name": "錫蘭 Ceylon",
+        "name:en": "Ceylon",
+        "name:zh": "錫蘭",
+        "name:zh-Hans": "锡兰",
+        "name:zh-Hant": "錫蘭"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1336183856,
+      "lat": 22.3171277,
+      "lon": 114.1735328,
+      "timestamp": "2022-06-13T14:37:20Z",
+      "version": 3,
+      "changeset": 122328639,
+      "user": "eversone",
+      "uid": 4618964,
+      "tags": {
+        "amenity": "restaurant",
+        "ele": "19",
+        "name": "Newstar Seafood"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1350925542,
+      "lat": 22.2977453,
+      "lon": 114.1781605,
+      "timestamp": "2013-09-01T12:55:25Z",
+      "version": 4,
+      "changeset": 17616731,
+      "user": "hlaw",
+      "uid": 169827,
+      "tags": {
+        "addr:unit": "G7-8,UG17-18",
+        "amenity": "restaurant",
+        "name": "Wooloomooloo Steakhouse",
+        "name:en": "Wooloomooloo Steakhouse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1350928051,
+      "lat": 22.2975752,
+      "lon": 114.1779684,
+      "timestamp": "2013-09-01T12:55:25Z",
+      "version": 3,
+      "changeset": 17616731,
+      "user": "hlaw",
+      "uid": 169827,
+      "tags": {
+        "addr:unit": "G5,UG15",
+        "amenity": "restaurant",
+        "name": "Bulldog's Bar and Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402317472,
+      "lat": 22.308547,
+      "lon": 114.170974,
+      "timestamp": "2011-08-17T14:43:43Z",
+      "version": 1,
+      "changeset": 9048623,
+      "user": "stantsui",
+      "uid": 413226,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Jade Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402320303,
+      "lat": 22.3102833,
+      "lon": 114.1695424,
+      "timestamp": "2026-04-12T03:54:41Z",
+      "version": 4,
+      "changeset": 181213670,
+      "user": "フーヴァー　リー",
+      "uid": 18110850,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "華康茶餐廳",
+        "name:en": "Wah Hong Restaurant",
+        "name:zh": "華康茶餐廳"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402320949,
+      "lat": 22.3106163,
+      "lon": 114.1709577,
+      "timestamp": "2019-09-30T09:34:26Z",
+      "version": 5,
+      "changeset": 75088888,
+      "user": "jonathanchik",
+      "uid": 10130685,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Garden Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402321773,
+      "lat": 22.3098065,
+      "lon": 114.1714098,
+      "timestamp": "2019-06-04T13:43:47Z",
+      "version": 3,
+      "changeset": 70923681,
+      "user": "Momocalbee",
+      "uid": 1724771,
+      "tags": {
+        "addr:city": "油尖旺區 Yau Tsim Mong District",
+        "addr:street": "加士居道 Gascoigne Road",
+        "amenity": "restaurant",
+        "name": "Pink Salmon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402325895,
+      "lat": 22.3071605,
+      "lon": 114.1723978,
+      "timestamp": "2026-03-12T08:08:21Z",
+      "version": 4,
+      "changeset": 179740574,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "太平館 Tai Ping Koon",
+        "name:en": "Tai Ping Koon",
+        "name:zh": "太平館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1428643069,
+      "lat": 22.3495615,
+      "lon": 114.0613782,
+      "timestamp": "2023-06-18T12:16:58Z",
+      "version": 4,
+      "changeset": 137476569,
+      "user": "Sumlook Production",
+      "uid": 19613743,
+      "tags": {
+        "amenity": "restaurant",
+        "name:en": "Pattaya Island Thai Restaurant",
+        "name:zh": "芭堤雅小島泰式餐廳"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1428645126,
+      "lat": 22.3496706,
+      "lon": 114.0613782,
+      "timestamp": "2011-09-10T08:27:23Z",
+      "version": 1,
+      "changeset": 9260152,
+      "user": "loal",
+      "uid": 424151,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "german",
+        "int_name": "Oma's Kitchen",
+        "name": "Oma's Kitchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1428645852,
+      "lat": 22.3498641,
+      "lon": 114.0613943,
+      "timestamp": "2011-09-10T08:28:42Z",
+      "version": 1,
+      "changeset": 9260159,
+      "user": "loal",
+      "uid": 424151,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "int_name": "Cafe Roma",
+        "name": "Cafe Roma"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1501689538,
+      "lat": 22.28342,
+      "lon": 114.14182,
+      "timestamp": "2017-05-25T15:26:27Z",
+      "version": 3,
+      "changeset": 48977322,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "level": "0",
+        "name": "松本日本料理 Matsumoto",
+        "name:en": "Matsumoto",
+        "name:zh": "松本日本料理",
+        "ref:openrice": "524728"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1722029190,
+      "lat": 22.27781,
+      "lon": 114.227047,
+      "timestamp": "2025-05-16T02:42:40Z",
+      "version": 6,
+      "changeset": 166329092,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:housenumber": "333",
+        "addr:street": "筲箕灣道 Shau Kei Wan Road",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "太興 Tai Hing",
+        "name:en": "Tai Hing",
+        "name:zh": "太興",
+        "name:zh-Hans": "太兴",
+        "name:zh-Hant": "太興"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1746335683,
+      "lat": 22.3851041,
+      "lon": 114.1991998,
+      "timestamp": "2012-08-01T13:46:48Z",
+      "version": 2,
+      "changeset": 12569597,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "新光酒樓",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1780374924,
+      "lat": 22.2688908,
+      "lon": 114.1848524,
+      "timestamp": "2017-05-18T14:45:45Z",
+      "version": 5,
+      "changeset": 48794264,
+      "user": "Cyclomor90",
+      "uid": 5722166,
+      "tags": {
+        "addr:housenumber": "21",
+        "addr:street": "King Kwong Street",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "fax": "+852 28386899",
+        "level": "0",
+        "name": "正斗粥麵專家 Tasty Congee & Noodle Wantun Shop",
+        "name:en": "Tasty Congee & Noodle Wantun Shop",
+        "name:zh": "正斗粥麵專家",
+        "phone": "+852 28383922",
+        "ref:openrice": "3555",
+        "source": "Kaart Ground Survey 2017",
+        "website": "http://www.tasty.com.hk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1780374946,
+      "lat": 22.26938,
+      "lon": 114.184498,
+      "timestamp": "2016-12-22T14:51:46Z",
+      "version": 2,
+      "changeset": 44592394,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:street": "Yik Yam Street",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "新昌明食店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1894990486,
+      "lat": 22.2924563,
+      "lon": 114.1966617,
+      "timestamp": "2024-11-16T00:44:02Z",
+      "version": 13,
+      "changeset": 159191693,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:unit": "G20-21",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "十二味 Twelveflavors",
+        "name:en": "Twelveflavors",
+        "name:zh": "十二味",
+        "name:zh-Hans": "十二味",
+        "name:zh-Hant": "十二味",
+        "opening_hours": "Mo-Fr 11:30-16:00,17:00-22:00; Sa-Su,PH 11:30-22:00",
+        "outdoor_seating": "no",
+        "phone": "+852 95607594",
+        "smoking": "no",
+        "takeaway": "yes",
+        "was:amenity": "fast_food",
+        "was:brand": "麥當勞 McDonald's",
+        "was:brand:en": "McDonald's",
+        "was:brand:wikidata": "Q38076",
+        "was:brand:wikipedia": "zh:麦当劳",
+        "was:brand:zh": "麥當勞",
+        "was:brand:zh-Hans": "麦当劳",
+        "was:brand:zh-Hant": "麥當勞",
+        "was:cuisine": "burger",
+        "was:name": "麥當勞 McDonald's",
+        "was:name:en": "McDonald's",
+        "was:name:zh": "麥當勞",
+        "was:name:zh-Hans": "麦当劳",
+        "was:name:zh-Hant": "麥當勞",
+        "was:takeaway": "yes",
+        "website": "https://www.12flavors.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925674003,
+      "lat": 22.2840982,
+      "lon": 114.1330794,
+      "timestamp": "2017-04-08T15:53:40Z",
+      "version": 5,
+      "changeset": 47571473,
+      "user": "Hkmix",
+      "uid": 5636836,
+      "tags": {
+        "addr:city": "Kennedy Town, Central and Western",
+        "addr:housenumber": "91",
+        "addr:street": "薄扶林道 Pok Fu Lam Road",
+        "amenity": "restaurant",
+        "capacity": "120",
+        "cuisine": "chinese",
+        "name": "港大宴會廳"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925678683,
+      "lat": 22.2830057,
+      "lon": 114.1364905,
+      "timestamp": "2018-10-28T11:11:27Z",
+      "version": 9,
+      "changeset": 63947194,
+      "user": "Mapier",
+      "uid": 616884,
+      "tags": {
+        "alt_name": "學生會餐廳 Union Restaurant",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "level": "4",
+        "name": "EAT",
+        "opening_hours": "Mo-Su 07:30-21:30",
+        "operator": "Sodexo",
+        "outdoor_seating": "yes",
+        "payment:cash": "no",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "start_date": "2018-09-27"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1925678747,
+      "lat": 22.2819669,
+      "lon": 114.1374162,
+      "timestamp": "2026-01-10T08:22:14Z",
+      "version": 4,
+      "changeset": 177052479,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Joseph's",
+        "name:en": "Joseph's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1926836335,
+      "lat": 22.2799798,
+      "lon": 114.1307883,
+      "timestamp": "2025-08-03T03:28:17Z",
+      "version": 4,
+      "changeset": 169886664,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "restaurant",
+        "capacity": "120",
+        "cuisine": "chinese",
+        "name": "HKU Hill View Restaurant",
+        "name:en": "HKU Hill View Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1932297114,
+      "lat": 22.2838172,
+      "lon": 114.134177,
+      "timestamp": "2021-01-22T13:31:03Z",
+      "version": 10,
+      "changeset": 97978171,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "diet:vegetarian": "only",
+        "level": "0",
+        "name": "一念素食 Bijas Vegetarian",
+        "name:en": "Bijas Vegetarian",
+        "name:zh": "一念素食",
+        "opening_hours": "Mo-Fr 08:00-21:00; PH Sa 11:30-21:00; Su off",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1949023594,
+      "lat": 22.3057806,
+      "lon": 114.19042,
+      "timestamp": "2025-01-11T06:02:49Z",
+      "version": 6,
+      "changeset": 161227778,
+      "user": "secrecy420",
+      "uid": 21917356,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "元氣壽司 Genki Sushi",
+        "brand:en": "Genki Sushi",
+        "brand:ja": "元気寿司",
+        "brand:wikidata": "Q5533323",
+        "brand:wikipedia": "ja:元気寿司",
+        "brand:zh": "元氣壽司",
+        "brand:zh-Hans": "元气寿司",
+        "brand:zh-Hant": "元氣壽司",
+        "cuisine": "sushi",
+        "name": "元気寿司 Genki Sushi",
+        "name:en": "Genki Sushi",
+        "name:ja": "元気寿司",
+        "name:zh": "元氣壽司",
+        "name:zh-Hans": "元气寿司",
+        "name:zh-Hant": "元氣壽司"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1950778857,
+      "lat": 22.3059528,
+      "lon": 114.1904677,
+      "timestamp": "2025-11-25T05:50:08Z",
+      "version": 10,
+      "changeset": 175094383,
+      "user": "secrecy420",
+      "uid": 21917356,
+      "tags": {
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "譚仔雲南米線",
+        "name:en": "Tamjai Yunnan Mixian",
+        "name:zh": "譚仔雲南米線",
+        "opening_hours": "Mo-Su,PH 07:15-21:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1950794693,
+      "lat": 22.3042312,
+      "lon": 114.1885725,
+      "timestamp": "2022-06-13T01:39:54Z",
+      "version": 8,
+      "changeset": 122302146,
+      "user": "green_leek",
+      "uid": 3559445,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "必勝客 Pizza Hut",
+        "brand:en": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "en:Pizza Hut",
+        "brand:zh": "必勝客",
+        "brand:zh-Hans": "必胜客",
+        "brand:zh-Hant": "必勝客",
+        "cuisine": "pizza",
+        "name": "必勝客 Pizza Hut",
+        "name:en": "Pizza Hut",
+        "name:zh": "必勝客",
+        "name:zh-Hans": "必胜客",
+        "name:zh-Hant": "必勝客",
+        "website": "https://www.pizzahut.com.hk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1952698866,
+      "lat": 22.3041036,
+      "lon": 114.1884288,
+      "timestamp": "2025-01-16T02:07:24Z",
+      "version": 4,
+      "changeset": 161400899,
+      "user": "secrecy420",
+      "uid": 21917356,
+      "tags": {
+        "addr:street": "德豐街 Tak Fung Street",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "Mak's Noodle",
+        "source": "Kaart Ground Survey 2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1957087390,
+      "lat": 22.297853,
+      "lon": 114.16926,
+      "timestamp": "2023-05-07T14:06:22Z",
+      "version": 8,
+      "changeset": 135813073,
+      "user": "GasaiYuno",
+      "uid": 10054182,
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "元氣壽司 Genki Sushi",
+        "brand:en": "Genki Sushi",
+        "brand:ja": "元気寿司",
+        "brand:wikidata": "Q5533323",
+        "brand:wikipedia": "ja:元気寿司",
+        "brand:zh": "元氣壽司",
+        "brand:zh-Hans": "元气寿司",
+        "brand:zh-Hant": "元氣壽司",
+        "cuisine": "sushi",
+        "name": "元気寿司 Genki Sushi",
+        "name:en": "Genki Sushi",
+        "name:ja": "元気寿司",
+        "name:zh": "元氣壽司",
+        "name:zh-Hans": "元气寿司",
+        "name:zh-Hant": "元氣壽司"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2014724317,
+      "lat": 22.2870702,
+      "lon": 114.2122609,
+      "timestamp": "2025-10-31T15:04:45Z",
+      "version": 3,
+      "changeset": 174025289,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Simple Life",
+        "name:en": "Simple Life"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2040108176,
+      "lat": 22.2815,
+      "lon": 114.15561,
+      "timestamp": "2023-10-21T07:19:47Z",
+      "version": 8,
+      "changeset": 142910648,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "addr:city": "Central",
+        "addr:country": "HK",
+        "addr:housenumber": "32-40",
+        "addr:street": "威靈頓街 Wellington Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "email": "info@yungkee.com.hk",
+        "fax": "+852 28400888",
+        "name": "鏞記酒家 Yung Kee Restaurant",
+        "name:en": "Yung Kee Restaurant",
+        "name:zh": "鏞記酒家",
+        "opening_hours": "Mo-Su,PH 11:00-23:30",
+        "phone": "+852 25221624",
+        "website": "https://yungkee.com.hk/",
+        "wikidata": "Q258667",
+        "wikimedia_commons": "Category:Yung Kee Restaurant",
+        "wikipedia": "zh:鏞記酒家"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2089466239,
+      "lat": 22.2763007,
+      "lon": 114.1700489,
+      "timestamp": "2024-04-12T12:59:26Z",
+      "version": 7,
+      "changeset": 149909781,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:city": "HongKong",
+        "addr:country": "CN",
+        "addr:district": "Wan Chai",
+        "addr:floor": "1",
+        "addr:housename": "Queen's",
+        "addr:housenumber": "100",
+        "addr:street": "皇后大道東 Queen's Road East",
+        "addr:suburb": "Wanchai",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "capacity": "40",
+        "cuisine": "french;crepe",
+        "diet:gluten_free": "yes",
+        "internet_access": "wlan",
+        "name": "La Crêperie Wan Chai",
+        "name:fr": "La Crêperie Wan Chai",
+        "phone": "+85225299280",
+        "reservation": "recommended",
+        "takeaway": "yes",
+        "website": "https://lacreperie.com.cn/en/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2090588026,
+      "lat": 22.2794019,
+      "lon": 114.1825201,
+      "timestamp": "2025-02-18T11:15:19Z",
+      "version": 12,
+      "changeset": 162656167,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "權發小廚 Kuen Fat Kitchen",
+        "name:en": "Kuen Fat Kitchen",
+        "name:zh": "權發小廚"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2090588063,
+      "lat": 22.2793129,
+      "lon": 114.1826507,
+      "timestamp": "2025-04-25T12:26:25Z",
+      "version": 12,
+      "changeset": 165422047,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "51",
+        "addr:street": "登龍街 Tang Lung Street",
+        "addr:unit": "A",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "EVA Tonkatsu",
+        "name:en": "EVA Tonkatsu",
+        "name:ko": "에바돈가츠",
+        "opening_hours": "Mo-Su 11:30-22:00",
+        "phone": "+852 6601 6853",
+        "website": "http://에바돈가츠.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2090589274,
+      "lat": 22.2804782,
+      "lon": 114.1821333,
+      "timestamp": "2023-11-05T14:42:12Z",
+      "version": 18,
+      "changeset": 143653118,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:housenumber": "463-483",
+        "addr:street": "駱克道 Lockhart Road",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "牛奶冰室 Milk Cafe",
+        "name:en": "Milk Cafe",
+        "name:zh": "牛奶冰室",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+852 2631 2347",
+        "website": "https://www.tasteofasia.com.hk/brand/milk-cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2124676780,
+      "lat": 22.282326,
+      "lon": 114.1549876,
+      "timestamp": "2024-04-16T01:23:35Z",
+      "version": 6,
+      "changeset": 150062536,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "addr:country": "HK",
+        "addr:housenumber": "76",
+        "addr:street": "威靈頓街 Wellington Street",
+        "amenity": "restaurant",
+        "brand": "7-Eleven",
+        "brand:wikidata": "Q259340",
+        "level": "0",
+        "name": "7-Eleven",
+        "name:en": "7-Eleven",
+        "name:zh": "7-11便利店",
+        "opening_hours": "24/7",
+        "shop": "convenience",
+        "website": "https://www.7-eleven.com.hk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2192511369,
+      "lat": 22.2965821,
+      "lon": 114.172744,
+      "timestamp": "2023-10-08T23:44:37Z",
+      "version": 9,
+      "changeset": 142323099,
+      "user": "HolloWorld",
+      "uid": 6946532,
+      "tags": {
+        "addr:door": "5B5",
+        "addr:floor": "5/F",
+        "addr:housenumber": "36-44",
+        "addr:street": "彌敦道 Nathan Road",
+        "addr:unit": "B",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:vegan": "only",
+        "level": "5",
+        "name": "Smrat Pure Veg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2192631868,
+      "lat": 22.2959936,
+      "lon": 114.169895,
+      "timestamp": "2013-09-01T03:41:37Z",
+      "version": 4,
+      "changeset": 17612875,
+      "user": "hlaw",
+      "uid": 169827,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "name": "Kung Tak Lam"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2194354828,
+      "lat": 22.2788385,
+      "lon": 114.1865743,
+      "timestamp": "2025-02-22T00:41:37Z",
+      "version": 11,
+      "changeset": 162800651,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "addr:street": "伊榮街 Irving Street",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "明明車仔麵專門店 Ming Ming Cart Noodle Bar",
+        "name:en": "Ming Ming Cart Noodle Bar",
+        "name:zh": "明明車仔麵專門店",
+        "name:zh-Hans": "明明车仔面专门店",
+        "name:zh-Hant": "明明車仔麵專門店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2194386772,
+      "lat": 22.2911749,
+      "lon": 114.1994285,
+      "timestamp": "2024-11-19T03:28:36Z",
+      "version": 7,
+      "changeset": 159307480,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegetarian": "only",
+        "name": "三德素食館 Three Virtues Vegetarian Restaurant",
+        "name:en": "Three Virtues Vegetarian Restaurant",
+        "name:zh": "三德素食館",
+        "name:zh-Hans": "三德素食馆",
+        "name:zh-Hant": "三德素食館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2195651215,
+      "lat": 22.3248746,
+      "lon": 114.1700987,
+      "timestamp": "2016-06-26T13:57:22Z",
+      "version": 3,
+      "changeset": 40301367,
+      "user": "headuck",
+      "uid": 4063855,
+      "tags": {
+        "addr:housenumber": "224C",
+        "addr:street": "Fa Yuen Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "山東餃子館"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2195651220,
+      "lat": 22.3254914,
+      "lon": 114.1692011,
+      "timestamp": "2025-12-02T16:13:38Z",
+      "version": 8,
+      "changeset": 175409671,
+      "user": "Ruslan Fatih",
+      "uid": 12875574,
+      "tags": {
+        "addr:housenumber": "209A-209B",
+        "addr:street": "通菜街 Tung Choi Street",
+        "addr:street:en": "Tung Choi Street",
+        "addr:street:zh": "通菜街",
+        "amenity": "restaurant",
+        "cuisine": "dim_sum;cantonese",
+        "cuisine:origin": "cantonese",
+        "food": "dim_sum",
+        "level": "0",
+        "level:ref": "G",
+        "name": "一點心 One Dim Sum",
+        "name:en": "One Dim Sum",
+        "name:ru": "Уан Дим Сам",
+        "name:zh": "一點心",
+        "opening_hours": "Mo-Fr 11:00-00:30; Sa-Su,PH 10:00-00:30",
+        "phone": "+852 2789 2280",
+        "ref:openrice": "18164"
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "ded669bfb68e7a42",
+  "original_osm_name": "Duong's Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "024 3636 4567",
+    "geometry": {
+      "location": {
+        "lat": 21.0294793,
+        "lng": 105.8485846
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0308107302915,
+          "lng": 105.8499452802915
+        },
+        "southwest": {
+          "lat": 21.0281127697085,
+          "lng": 105.8472473197085
+        }
+      }
+    },
+    "name": "Duong's Restaurant - MICHELIN Guide",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–22:00",
+        "Thứ Ba: 11:00–22:00",
+        "Thứ Tư: 11:00–22:00",
+        "Thứ Năm: 11:00–22:00",
+        "Thứ Sáu: 11:00–22:00",
+        "Thứ Bảy: 11:00–22:00",
+        "Chủ Nhật: 11:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Vân Anh Hanoian",
+        "author_url": "https://www.google.com/maps/contrib/101119254736723226378/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhdzm64xVOcFmfIxlADbAWtbkfd4FvV9idDhCV6-WfEJ09XTOG=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "Không hiểu tại sao ở đây được Michelin.. Hoặc có thể món ăn mình order không hợp khẩu vị cá nhân mình và các bạn. Nem rán không có gì đặc sắc. Bánh xèo biến tấu có cả đậu Hà Lan, nhìn giống bánh đa vỡ vụn, không ngon kể cả nhân bánh. Mỳ Ý sốt bò bằm có vị phomai lạ, sốt bò bằm cũng không ngon. Gà cuộn nấm giá 180k cho 3 miếng 😂. Tôm rượu rum có vẻ ăn là ổn nhất. Nhà hàng decor cũ kĩ, ồn ào sửa chữa. Mình có em bé cùng xe đẩy, có gọi điện đặt bàn trước nhưng xếp lên tầng 2 ngồi, hơi bất tiện đi lại vì cầu thang hẹp và cao. Mình nghĩ không quay lại nhà hàng vì không hợp với gia đình mình và bạn mình..",
+        "time": 1742658346,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Thư Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/108879348699178247430/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgxFEPqLbsZQsbhuv7EWjacVbZxy5FYLtflbotYEcpJpZpi2Gk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn trang trí khá đẹp và tinh tế, hợp khẩu vị của mình. Nhân viên thân thiện thái độ phục vụ chuyên nghiệp, mình thấy rất ưng và sẽ quay lại ủng hộ tiếp nhaa",
+        "time": 1744736713,
+        "translated": false
+      },
+      {
+        "author_name": "Hyun Park",
+        "author_url": "https://www.google.com/maps/contrib/111649427644078283292/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzgOx_y2IeZv1dj1Yz0X9w0bo-l1FvFtKQLxh9Yo9mjU2MtS_W=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Giá cả đắt đỏ và thức ăn có vị bình thường.",
+        "time": 1772363059,
+        "translated": false
+      },
+      {
+        "author_name": "Cuc Bui",
+        "author_url": "https://www.google.com/maps/contrib/100471807116662824166/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQyENFPYTSC3KTIxB_Iu3-pyyolAouAq5Galm3pOeaeQQT1QXl=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Nhà hàng nằm ở trung tâm phố cổ nên hơi nhỏ nhưng trang trí khá đẹp. Khách chủ yếu là khách nước ngoài. Đồ ăn rất ngon. Nhân viên thân thiện. Sẽ quay lại nhiều lần nữa.",
+        "time": 1541139513,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104261303731103723767/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1EczitU_CD9Uzalx_N0KSKX3UWARHW29mcW-ay04ifo6kJ1lE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Đồ ăn siêu ngon va trang tri dep và đồ uống cũng vậy.không gian thì ấm cúng nhưng mỗi tội hơi đông vào ngày cuối tuần .mình phải chờ rất lâu mới có bàn chắc tại mình đi hơi muộn nên phải chờ ý .các bạn nhớ đi sớm nha.không gian ấm cúng và đẹp lắm.nhân viên thì thân thiện và nhiệt tình",
+        "time": 1553488149,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1415
+  },
+  "harvested_at": "2026-04-28T16:32:12.470805"
+}

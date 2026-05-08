@@ -1,0 +1,173 @@
+{
+  "u_key": "32c95822ceefb4e7",
+  "original_osm_name": "vuon nam kha",
+  "google_raw": {
+    "formatted_phone_number": "0909 370 173",
+    "geometry": {
+      "location": {
+        "lat": 16.1326097,
+        "lng": 108.0514243
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.1339454302915,
+          "lng": 108.0527486302915
+        },
+        "southwest": {
+          "lat": 16.13124746970849,
+          "lng": 108.0500506697085
+        }
+      }
+    },
+    "name": "Yên Valley",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–20:00",
+        "Thứ Ba: 07:30–20:00",
+        "Thứ Tư: 07:30–20:30",
+        "Thứ Năm: 07:00–20:00",
+        "Thứ Sáu: 07:00–20:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:30–22:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "An My",
+        "author_url": "https://www.google.com/maps/contrib/112338774403432511432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzjsmscvVoxY47O8AKp6-poTXyjEpgcN9E2kj2ZYy4Ud5FFqk=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vườn Nho Thung Lũng Nam Yên là một điểm đến tuyệt vời cho những ai yêu thiên nhiên và muốn tìm kiếm trải nghiệm mới mẻ. Nằm giữa khung cảnh yên bình của Hòa Vang, vườn nho mang đến một không gian xanh mát, rộng lớn với những chùm nho trĩu quả, chín mọng. Du khách có thể tự tay hái nho, chụp ảnh sống ảo và thưởng thức các sản phẩm chế biến từ nho ngay tại vườn, từ rượu nho đến nho sấy khô. Đây là một hoạt động lý thú cho cả gia đình và bạn bè. Một điểm có thể cải thiện là việc bố trí thêm các bảng chỉ dẫn rõ ràng hơn đến từng khu vực tham quan hoặc hoạt động trong vườn, giúp du khách dễ dàng khám phá hết các ngóc ngách mà không bị lạc. Để làm phong phú thêm trải nghiệm của khách, Vườn Nho Thung Lũng Nam Yên có thể ứng dụng Tuneast. Tuneast sẽ giúp tạo ra một không gian âm nhạc thư giãn, nhẹ nhàng, phù hợp với không khí đồng quê, đồng thời cho phép khách tham gia chọn nhạc để tận hưởng trọn vẹn hơn những giây phút dã ngoại tại đây.",
+        "time": 1771158731,
+        "translated": false
+      },
+      {
+        "author_name": "Phúc Nguyễn Hữu",
+        "author_url": "https://www.google.com/maps/contrib/113619435791397934056/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-sibOS_f4ONBvt3j0jQP1JizXJC1ozOxt64rc-Yvuf9qjgZ16mw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Vườn nho Hà Bắc là một điểm đến tuyệt vời cho những ai yêu thiên nhiên và muốn trải nghiệm hái nho tại chỗ! Không gian rộng rãi, thoáng mát, cây nho được chăm sóc kỹ lưỡng, quả mọng, ngọt. Chủ vườn thân thiện, hướng dẫn tận tình, còn có khu vực nghỉ ngơi và chụp ảnh siêu đẹp. Giá vé hợp lý, nho mua mang về cũng tươi ngon. Rất đáng để ghé thăm, đặc biệt phù hợp cho gia đình hoặc nhóm bạn cuối tuần!",
+        "time": 1757718026,
+        "translated": false
+      },
+      {
+        "author_name": "Oanh Tran",
+        "author_url": "https://www.google.com/maps/contrib/106663948666277422991/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9XxNkwRKARPGiata1ohAWZnz4iP0cX5eVlEqym51QUc09RQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Một nơi retreat tuyệt vời, không gian núi rừng hoa cỏ với cây ăn 🍇 thích lắm. Khu vườn rộng siêu nhiều góc đẹp được trau chuốt tỉ mỉ bởi cô chú chủ vườn. Cô chú siêu tân thiện. Đi vào buổi chiều mát mẻ hơn, chỉ tiếc là chưa có đồ ăn nhẹ. Mọi người đi chuẩn bị đồ ăn mang theo làm buổi picnic đáng nhớ luôn nhé!💝",
+        "time": 1755652876,
+        "translated": false
+      },
+      {
+        "author_name": "Amater Phạm",
+        "author_url": "https://www.google.com/maps/contrib/106508580127754411060/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVES2ZcEERWdxwOeqwsVGMpl-fvm3yzDu6BLAOnF6M-0N6Wi4XcZg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 tháng trước",
+        "text": "Có sân vườn rộng, giá vé mỗi người 50k bao gồm một đơn vị nước. Mình đến vào mùa nho ko có trái với vườn nho còn non tuổi nên ko đẹp. Khung cảnh xanh mát nằm bên dòng sông",
+        "time": 1758623996,
+        "translated": false
+      },
+      {
+        "author_name": "Thúy Diễm",
+        "author_url": "https://www.google.com/maps/contrib/106828829610061957907/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcbV50auViIOYk9yX4JwN7LV9MZOnFeHSUM_BW9fd8-x8qkmKE=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Farm Yen Valley cách trung tâm Đà Nẵng 25 km. Farm rộng, khung cảnh đẹp, có vườn nho đẹp, sai trái. Có hơn 10 phòng cho khách lưu trú qua đêm. Có khuôn đốt lửa trại và nhiều điểm check in đẹp. Thức ăn ngon, chủ vui vẻ, nhiệt tình.\nNơi lý tưởng để họp mặt cuối tuần với gia đình và  bạn bè",
+        "time": 1756715540,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 184
+  },
+  "harvested_at": "2026-04-29T09:43:43.461050"
+}

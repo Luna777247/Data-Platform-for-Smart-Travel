@@ -1,0 +1,173 @@
+{
+  "u_key": "85765600194453d6",
+  "original_osm_name": "Nhà Hàng Lâm Ký",
+  "google_raw": {
+    "formatted_phone_number": "024 3361 6588",
+    "geometry": {
+      "location": {
+        "lat": 21.1341719,
+        "lng": 105.5029666
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.1355343302915,
+          "lng": 105.5042785802915
+        },
+        "southwest": {
+          "lat": 21.1328363697085,
+          "lng": 105.5015806197085
+        }
+      }
+    },
+    "name": "Khách Sạn Lâm Ký",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:00",
+        "Thứ Ba: 09:00–21:00",
+        "Thứ Tư: 09:00–21:00",
+        "Thứ Năm: 09:00–21:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–21:00",
+        "Chủ Nhật: 09:00–21:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "trinh duc",
+        "author_url": "https://www.google.com/maps/contrib/111932153756280526956/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKPxLULm3a5ptwibgAPdo0VOhNMUPCHFbjGnD-rZdqmD4DdS8D=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ăn cỗ cưới\nĐồ ăn nguội và hơi nhạt.\nKhông gian rộng rãi và rất thoáng\nCó chỗ đỗ xe thoải mái",
+        "time": 1764689364,
+        "translated": false
+      },
+      {
+        "author_name": "tran trung",
+        "author_url": "https://www.google.com/maps/contrib/106664695968265321046/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5PzFUEvTk-pbqGYwxIwZl-_ZDM332Tpgx6gUeucmixzAblE8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phòng 2 người rộng rãi,\nNvs sạch sẽ, rộng\nTiện ích, ăn uống, ca hát\nĐồ ăn khá ngon\nChất lượng phục vụ ok",
+        "time": 1768314330,
+        "translated": false
+      },
+      {
+        "author_name": "Giang An (Tiktop Angiang8998)",
+        "author_url": "https://www.google.com/maps/contrib/117221753498708359981/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwdI_JIIVjNF9KScs9EB002Bdjx38GqAeGbmwACoo8DFG434oe=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Mình thấy Khách sạn có nhiều cây xanh .cây ăn quả ( mít ,sung , thị , xoài , dừa ,chay ,vú sữa , quất hồng bì ,sấu ,khế ... )hoa cỏ tươi tốt.Chỗ để xe rộng rãi.có hồ nước điều hoà không khí.\nKhông gian phòng ăn rộng ( có nhiều sự lựa chọn ) Đồ ăn đa dạng.Giá cả hợp lý.\nÀ. có cả dịch vụ karaoke .có sân teniis và cả phòng nghỉ nữa nhé mọi người.\ntóm lại là dịch vụ ok .nhân viên nhiệt tình thân thiện.🥰",
+        "time": 1756229734,
+        "translated": false
+      },
+      {
+        "author_name": "Van Thu Ngo",
+        "author_url": "https://www.google.com/maps/contrib/100804322874643304992/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgH8BiiLcgyn_fBjnbWPRH7ecn9FdS0NDc1EH4ez-pLPKeypuN2Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khuôn viên rất rộng, nhà hàng tiệc cưới rộng rãi, cảnh quan tạm ổn.",
+        "time": 1769576390,
+        "translated": false
+      },
+      {
+        "author_name": "Lan Hương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113194947307342409291/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_-YlwWdbi6lnXV-gy4a8c1vu6rwYjFWCC7GTWeztNJ-h_zJIZyw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không gian rộng, thoáng mát. Chỗ để xe thoáng, phục vụ nhanh chóng, gọn gàng.",
+        "time": 1763199525,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 970
+  },
+  "harvested_at": "2026-04-28T16:18:14.280135"
+}

@@ -1,0 +1,168 @@
+{
+  "u_key": "93960a0bb262df0e",
+  "original_osm_name": "Bánh xèo, Bún thịt nướng k25/16",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0653341,
+        "lng": 108.1928047
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0666702802915,
+          "lng": 108.1941532302915
+        },
+        "southwest": {
+          "lat": 16.0639723197085,
+          "lng": 108.1914552697085
+        }
+      }
+    },
+    "name": "Quán Bà Hoa - Bánh Xèo, Bún Thịt Nướng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–20:00",
+        "Thứ Ba: 08:00–20:00",
+        "Thứ Tư: 08:00–20:00",
+        "Thứ Năm: 08:00–20:00",
+        "Thứ Sáu: 08:00–20:00",
+        "Thứ Bảy: 08:00–20:00",
+        "Chủ Nhật: 08:00–20:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Ho Hoang Nam",
+        "author_url": "https://www.google.com/maps/contrib/102325887785244830701/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJihpy_uzJ77a8clJH9-F7aGbmr4s2rspOPeBovV4B5lyFo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Dì Hoa bán ít nhất phải trên 40 năm, trước đây bán ở rạp cine Tân Thanh, nay là đường Chi Lăng. Hương vị vẫn như ngày nào qua bao thế hệ. Thịt nướng thềm, nóng hổi, nem lụi đầy đặn. Nước chấm từ gan và đậu tuyệt hảo.\n\nGiá cả phải chăng. Đây là best của Bún thịt nướng r.",
+        "time": 1767350341,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Phan",
+        "author_url": "https://www.google.com/maps/contrib/104547656935128763612/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6XAuJ2vrlFK4_DQUbQ9m3SSNEFl5F8T-OSshBqEh759jtEvvr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán bánh xèo của bà Hoa là ngon nhất mình từng ăn.Bà vui vẻ, hiền mà còn nhiệt tình nữa, món ăn thì khỏi chê💕Mọi người có dịp nên ghé nhé!",
+        "time": 1717569993,
+        "translated": false
+      },
+      {
+        "author_name": "C Q",
+        "author_url": "https://www.google.com/maps/contrib/108141167526265819528/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINYBXCCbbYFrtpfSpdXIwQ_TzqnXkf7J4qFQM06Duq5CIuI-lk=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà hàng gia đình Việt Nam chính hiệu! Bún Thịt Nướng ngon đến nỗi chúng tôi ăn hết hai phần! Đúng là một viên ngọc ẩn! Chủ quán thân thiện và hiếu khách, khẩu phần ăn cũng rất hào phóng! Tôi nóng lòng muốn quay lại!",
+        "time": 1744721775,
+        "translated": true
+      },
+      {
+        "author_name": "Huy Nguyễn Hữu (Win Man)",
+        "author_url": "https://www.google.com/maps/contrib/102056220168074742385/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8w5jGtgNFvCnBUS102dHzOXccEbsYmFdH64RH63hdqwwjRiA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "",
+        "time": 1762219299,
+        "translated": false
+      },
+      {
+        "author_name": "Hieu Duongminh",
+        "author_url": "https://www.google.com/maps/contrib/111513276428697508168/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOKP-sCqJquR774LRN3m8FlxkRyAEdL6COVw1XCmoVAfS6Wg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1728202369,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "harvested_at": "2026-04-28T16:43:42.110298"
+}

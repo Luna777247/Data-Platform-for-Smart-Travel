@@ -1,0 +1,172 @@
+{
+  "u_key": "6b5de35e33b246db",
+  "original_osm_name": "Que Huong",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2391909,
+        "lng": 109.1948232
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2405557302915,
+          "lng": 109.1963003802915
+        },
+        "southwest": {
+          "lat": 12.2378577697085,
+          "lng": 109.1936024197085
+        }
+      }
+    },
+    "name": "Quán Quê Hương",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–23:30",
+        "Thứ Ba: 06:30–23:30",
+        "Thứ Tư: 06:30–23:30",
+        "Thứ Năm: 06:30–23:30",
+        "Thứ Sáu: 06:30–23:30",
+        "Thứ Bảy: 06:30–23:30",
+        "Chủ Nhật: 06:30–23:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Trung Hiếu Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104088240633425125553/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpqonEORvztI9LKr5mlUWkE4B-Dwx0q7FgxlIzTsmv5Wra7gDg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, giá cả hợp lý. Nhà hàng gần biển và chợ đêm, tuyệt vời",
+        "time": 1772289124,
+        "translated": false
+      },
+      {
+        "author_name": "Truyền Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100367532202381886332/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp6j59r-0jahtQ_I8Yd5ELmHXEN4hpuKL4wuXEYX2unbNFr1PBGQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tôi rất ấn tượng với nhà hàng này! Không gian sang trọng, ấm cúng và cực kỳ sạch sẽ. Nhân viên phục vụ thân thiện, luôn nở nụ cười và hỗ trợ khách hàng chu đáo.\n\nMón ăn trình bày đẹp mắt, hương vị tinh tế — đặc biệt là các món cá như: cá bớp kho tộ, cá diêu hồng chiên sả- ngon tuyệt! Giá cả xứng đáng với chất lượng và dịch vụ.\n\nMột địa điểm lý tưởng cho những buổi hẹn hò hoặc bữa tối gia đình. Chắc chắn tôi sẽ quay lại nhiều lần nữa. ❤️❤️",
+        "time": 1771584834,
+        "translated": false
+      },
+      {
+        "author_name": "_Nguyễn Thị Bích Tuyền",
+        "author_url": "https://www.google.com/maps/contrib/114510207065142235338/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLC6eult462fST-8JeoTT2v-ECJ_ba2qPHmPVM0PjyaO79GZg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn quán ngon, ở đây thành phố du lịch nhưng giá rất hợp lý, nhân viên các bạn rất nhiệt tình chu đáo, mọi người hãy ghé thưởng thức nha 🥳",
+        "time": 1761122459,
+        "translated": false
+      },
+      {
+        "author_name": "Sinh tố Cafe",
+        "author_url": "https://www.google.com/maps/contrib/102130600743778675002/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuM4gUutJHwNDiG5jNc_bYT1s_80pHAMI9pvBrMLha_AW8Jw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đây là một trong những nhà hàng mà tôi sẽ quay lại nhiều lần, đồ ăn ngon, không gian ấm cúng và khẩu phần thức ăn khá lớn. Nhân viên phục vụ chỉnh chu và thân thiện niềm nở tạo cảm giác thoải mái cho khách. Tôi khuyên mọi người nên thử",
+        "time": 1761037654,
+        "translated": false
+      },
+      {
+        "author_name": "Trí Lê",
+        "author_url": "https://www.google.com/maps/contrib/107954731588167145137/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDRQaI-MuZz3LouDa6vXcQINMkJ2A4wYh9-oRAqk2A4pvZwQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán đẹp, món ăn rất ngon, hợp khẩu vị,nhân viên phục vụ vui vẻ nhiệt tình.tôi sẽ quay lại quán này, các bạn đi du lịch nha trang nên đến nơi đây để trải nghiệm nhé.",
+        "time": 1771555366,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 322
+  },
+  "harvested_at": "2026-05-02T15:39:29.221184"
+}

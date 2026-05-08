@@ -1,0 +1,89 @@
+{
+  "u_key": "6151a82606b60747",
+  "original_osm_name": "Paddy's Hostel",
+  "google_raw": {
+    "formatted_phone_number": "0235 3939 988",
+    "geometry": {
+      "location": {
+        "lat": 15.8925345,
+        "lng": 108.3609833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8938751302915,
+          "lng": 108.3622435302915
+        },
+        "southwest": {
+          "lat": 15.8911771697085,
+          "lng": 108.3595455697085
+        }
+      }
+    },
+    "name": "Paddy's Hostel & Sports Bar",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Ngọc Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/105754782101358731024/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpoOvrf56C-YrgfOSLkDMh0Y7HGbutTBEnSoGE5P42dZEF3W-m=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Phòng đẹp sạch sẽ chị chủ nhiệt tình",
+        "time": 1549985434,
+        "translated": false
+      },
+      {
+        "author_name": "Tu Tong",
+        "author_url": "https://www.google.com/maps/contrib/101021769977096138313/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMx7OmcI9o-Ra6Q0WxzDbeokkYN1-oaqNL_fji5ouxPBFbIQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Rất tốt",
+        "time": 1653912457,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Thành",
+        "author_url": "https://www.google.com/maps/contrib/101410619460418221358/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrvDqUONW1P0dwX8fe97jI-Lp1nrU3DF8Sk0Qsx_Ua0Nz69Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Ở đây là nơi tốt nhất tôi từng tới",
+        "time": 1500300531,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Checker",
+        "author_url": "https://www.google.com/maps/contrib/109982181485609490916/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLAfdFCWgC8PifwbenEGcD1QpjxgUsVBr9Igw5ykxOTGPf8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "nhiều loại phòng khác nhau\n-t-",
+        "time": 1500370032,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Le Thi Thuy",
+        "author_url": "https://www.google.com/maps/contrib/112356737880277798986/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINSCWHbKOFKuumjjrwyPNe76lQF9gYIziAYMnlezGA1odE_Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Thơ mộng đẹp",
+        "time": 1559633922,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 245
+  },
+  "harvested_at": "2026-04-28T16:34:09.717588"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "6d960123dcde4551",
+  "original_osm_name": "The Deck House",
+  "google_raw": {
+    "formatted_phone_number": "0905 658 106",
+    "geometry": {
+      "location": {
+        "lat": 15.9142883,
+        "lng": 108.3395524
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9155598802915,
+          "lng": 108.3408173802915
+        },
+        "southwest": {
+          "lat": 15.9128619197085,
+          "lng": 108.3381194197085
+        }
+      }
+    },
+    "name": "The DeckHouse An Bang Beach",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Thị Trúc Hạ",
+        "author_url": "https://www.google.com/maps/contrib/114537326970883482435/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3lYUVQ7uKlVpWZdw6qAdo1wGFggjwIO5Dij9jdJApRV9xKBMCJg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Gần trục đường chính. Quán view biển xịn xò. Chủ yếu là outside. Đồ uống có nhiều loại nhưng không đặc sắc lắm. Quán có đồ ăn nữa nhưng mình đã ăn trưa rồi mới ghé quán nên hông có thử.\nSet up ghế có gối tựa êm. Khá chill. Mà quán hơi ồn một xíu. Có nhiều khách du lịch ghé thăm. Chỗ đậu xe rộng. Nhà vệ sinh siêu sạch gọn đẹp. Ưng tới chụp hình sống ảo với quán view biển thì nên ghé nha.",
+        "time": 1765895140,
+        "translated": false
+      },
+      {
+        "author_name": "Posy Linh",
+        "author_url": "https://www.google.com/maps/contrib/112737001702945287992/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkYZlya0n2km2EVJ5SxTrwwNJVIcQTBnDbM89pVBCpXmI_a9w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán cà phê này đúng là điểm dừng chân lý tưởng cho ai mê biển. Ngay cạnh bãi biển nên vừa bước vào đã cảm nhận được gió mát và view biển xanh. Không gian quán mở, decor tinh tế và chỗ ngồi thoải mái. Menu đồ uống khá đa dạng, giá hơi cao nhưng mình thấy cũng hợp lý so với vị trí có view đẹp như vậy. Nhân viên thân thiện, lúc nào cũng tươi cười. Ai muốn tìm một chỗ ngồi chill, nghe sóng biển và tận hưởng không khí trong lành thì mình rất recommend quán này",
+        "time": 1759165699,
+        "translated": false
+      },
+      {
+        "author_name": "Huỳnh Duy Hùng",
+        "author_url": "https://www.google.com/maps/contrib/114477017914228928941/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXAUp0DLJvR3CmlF0MyG7cC-EfznNPZZLpRRCp3PeRe2dEZpHh=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Địa điểm mà mình thấy ổn và chất lượng nhất. Ăn uống đã đời + tắm biển sướng lắm luôn",
+        "time": 1772524861,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Yến Dương",
+        "author_url": "https://www.google.com/maps/contrib/111364449768871897736/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpKnTCAIfXkXGH81graAQ60WLQhRdF57996IFLzbYccKiPJdI=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "đồ ăn bình thường, chờ lâu do quán đông khách, view đẹp, tiện tắm biển",
+        "time": 1765282138,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107727640108077519441/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL4xJFjmnZD1IaTP2w1lQ234lJ9DdEOEy_qfF_iv5n9Q1N3ig=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đẹp. Không gian rất chill ngắm nhìn thẳng xuống bãi biển an bàng.",
+        "time": 1772426567,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2576
+  },
+  "harvested_at": "2026-04-28T16:40:15.212004"
+}

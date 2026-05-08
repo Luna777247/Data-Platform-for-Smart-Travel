@@ -1,0 +1,80 @@
+{
+  "u_key": "e6becb057a3f8ffb",
+  "original_osm_name": "Bến Phà Tân Lộc - Bằng Tăng",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 10.2517818,
+        "lng": 105.5805739
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.2531123802915,
+          "lng": 105.5819038802915
+        },
+        "southwest": {
+          "lat": 10.2504144197085,
+          "lng": 105.5792059197085
+        }
+      }
+    },
+    "name": "Bến phà Tân Lộc",
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Phuoc Loc Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115877758592747979791/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjsMcRBx98gbfCoNeI9dMv6oUf97MPvCM90u80QkKkWiHJiA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 năm trước",
+        "text": "Ở đây không phải bến phà .mà là cái bè xăng dầu",
+        "time": 1621949781,
+        "translated": false
+      },
+      {
+        "author_name": "Beo Vlog",
+        "author_url": "https://www.google.com/maps/contrib/117823724627375240982/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVH8nkt5jAvnIB3_b-ND45EHDyCHHp5lQZiWHDk28ptFwklcnt6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "",
+        "time": 1771405718,
+        "translated": false
+      },
+      {
+        "author_name": "Silver Medial - Bạc",
+        "author_url": "https://www.google.com/maps/contrib/101603150307464773712/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXRH9q1fDM3toCJfo7QUbIraBapLPgsTKlf2iqa-5FsjQ7MmPLHA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1702711076,
+        "translated": false
+      },
+      {
+        "author_name": "Tri Pham",
+        "author_url": "https://www.google.com/maps/contrib/115417516638670932504/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRWcpfyaw7q1EnVWqjjAxBawVXpa-6fUkhOUVPn9pSdbBlqjI=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "",
+        "time": 1483375442,
+        "translated": false
+      },
+      {
+        "author_name": "tran thao",
+        "author_url": "https://www.google.com/maps/contrib/103939660738257831707/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKAvYAmp0GmSw_02DyS6MrNfSxN62FcmsuCi6LTMOEJvHa_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "",
+        "time": 1470627216,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5
+  },
+  "harvested_at": "2026-04-30T15:17:19.362327"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "d104ec49c57fce27",
+  "original_osm_name": "Nhà Hàng Jalus Vegan",
+  "google_raw": {
+    "formatted_phone_number": "0936 688 353",
+    "geometry": {
+      "location": {
+        "lat": 21.0322877,
+        "lng": 105.8531415
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0336000302915,
+          "lng": 105.8544891802915
+        },
+        "southwest": {
+          "lat": 21.03090206970849,
+          "lng": 105.8517912197085
+        }
+      }
+    },
+    "name": "Katze Vegan & Vegetarian",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:30",
+        "Thứ Ba: 11:00–23:30",
+        "Thứ Tư: 11:00–23:30",
+        "Thứ Năm: 11:00–23:30",
+        "Thứ Sáu: 11:00–23:30",
+        "Thứ Bảy: 11:00–23:30",
+        "Chủ Nhật: 11:00–23:30"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "nguyen nam",
+        "author_url": "https://www.google.com/maps/contrib/102548228920424992348/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJT4p7zctdCy41-vnI_rCLMRo4ZODvV3n3EwWOsiQ9x5evHuw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Nhà hàng nằm bên trong ngõ nhưng mọi thứ rất tuyệt vời, cô chủ nhà cực kì thân thiện và hiếu khách. Recommend cho khách du lịch nào là pure veg.",
+        "time": 1759924098,
+        "translated": false
+      },
+      {
+        "author_name": "Như Bùi Thụy Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/104818641226070339844/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLde6Mdzx2frMJNIzblotG8YOGd-B8mabDDZwAcER7h4hLWW1l=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Thoạt nhìn menu, mình cảm thấy giá cả hơi cao so với không gian tiệm. Nhưng sau khi ăn thì suy nghĩ đó không còn nữa. Ngoài món chính, khách sẽ được free các món ăn kèm như đậu phụ, canh,…không giới hạn. Điều mình đánh giá cao nhất chính là cách phục vụ của tiệm: lịch sự, nhẹ nhàng khiến người khác rất dễ chịu.",
+        "time": 1734515406,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100872864176213682505/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXZz9cYUMvubMY-BjWW-lA8J1_ZLP5ZbQ5MK5ZbQslkzXfGA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán ấm cúng kiểu gia đình Việt. Bạn gọi 1 món bất kì và sẽ có cơm, đậu hũ, canh rau miễn phí ăn tới no thì thôi. Chỉ tính tiền món mình gọi. 2 người gọi mỗi nem rán mà ăn ná thở.\nToàn người nước ngoài đến ăn chay. Không biết sao anh chủ quán marketing hay thế. Nào phải xin bí quyết.\nAnh chủ quán thấy mình từng ăn ở quán rồi nên tặng thêm món chuối om. Hiếu khách thôi rồi.\nCác món quá ngon và chất lượng lắm!",
+        "time": 1723772984,
+        "translated": false
+      },
+      {
+        "author_name": "Hòa Trần",
+        "author_url": "https://www.google.com/maps/contrib/104846831038776274972/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWa9OZLLUOgT6eLONAgwzqlLwNLTGt00jGhDRX63C41AsnJO9CEMA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cảm nhận là từ chú chủ hàng đến các cô chú phục vụ đều rất thật thà, chân chất, còn khuyên bọn mình đừng gọi nhiều đồ ko ăn ko hết. Thấy như con cháu trong nhà đang được hỏi thăm, quan tâm hơn là khách hàng đang đi ăn 😄 Xong chú chủ còn biểu diễn cách ăn các món xong gắp/đút cho mấy khách nước ngoài luôn 😆 Món ăn rất vừa miệng, nhiều món free, ăn no vỡ bụng.",
+        "time": 1732267313,
+        "translated": false
+      },
+      {
+        "author_name": "Vy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110308642652657894959/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWrAVjNBFFoOcBxkeCcATqcthvQGQupSLX27QVEnnAQjx3VHiJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ ăn ngon, anh chủ hiền và mọi người rất hiền và dễ thương. Chả giò ngon, salad ngon, những món khác mình chưa ăn nên không biết ra sao nhưng thấy mọi người xung quanh ăn mấy món khác đều khen ngon. Nếu ra HN lại chắc chắn mình sẽ quay lại đây ăn.",
+        "time": 1665761503,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3128
+  },
+  "harvested_at": "2026-04-28T16:30:00.832555"
+}

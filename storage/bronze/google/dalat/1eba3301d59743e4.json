@@ -1,0 +1,174 @@
+{
+  "u_key": "1eba3301d59743e4",
+  "original_osm_name": "Brew and Breakfast",
+  "google_raw": {
+    "formatted_phone_number": "0263 3981 189",
+    "geometry": {
+      "location": {
+        "lat": 11.9567925,
+        "lng": 108.4350921
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9580815302915,
+          "lng": 108.4365321802915
+        },
+        "southwest": {
+          "lat": 11.9553835697085,
+          "lng": 108.4338342197085
+        }
+      }
+    },
+    "name": "Là Việt Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Tài Lê Mạnh",
+        "author_url": "https://www.google.com/maps/contrib/101307491398083609984/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZ6uMV254U7P4GnLR-sIh8zj1pypxb3u7FaCbfdSEBuGkzAVS-=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Vị trí: mặt tiền đường Nguyễn Công Trứ nên rất dễ tìm. Tuy nhiên xe hơi sẽ phải đậu chẳn lẽ theo ngày nên hơi bất tiện.\nĐồ uống: mình thích cafe nên cảm thấy cafe ở đây pha ngon cũng khá đậm nghe vị chua của hạt Arabica.\nKhông gian: quán có không gian rộng rãi thoải mái bán nhiều loại hạt cafe khác nhau để khách có thể mua về.",
+        "time": 1772367329,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Anh Vũ",
+        "author_url": "https://www.google.com/maps/contrib/106340009094240931490/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf8qj8T8gUuBcc508lHo8-E7G2OTwvi_dJKVIbtkFISIFyrlqg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "\"Ghé Là Việt vào một buổi sáng Đà Lạt se lạnh, ấn tượng đầu tiên là mùi cà phê rang xay thơm nức mũi ngay từ cổng.\nĐiểm mình rất thích:\n• Cà phê \"chất\": Mình gọi một ly Pour-over, vị chua thanh và hậu vị rất sạch, đúng chuẩn cà phê đặc sản. Các bạn Barista ở đây làm việc cực kỳ chuyên nghiệp, cân đo đong đếm hạt rất kỹ.\n• Không gian: Thiết kế kiểu công xưởng (industrial) rất lạ mắt, trần cao nên cực kỳ thoáng. Ngồi đây nhìn các bạn nhân viên đóng gói cà phê cũng là một cái thú hay.\n• Giá cả: Rất hợp lý so với chất lượng, tầm 40k - 60k cho một trải nghiệm cà phê tử tế.\nĐiểm chưa ưng lắm:\n• Chỗ ngồi: Ghế đa số là gỗ và sắt, ngồi lâu để làm việc thì hơi đau lưng.\n• Tiếng ồn: Vì không gian mở và trần cao nên âm thanh bị vang. Lúc quán đông khách thì hơi ồn, không thích hợp cho những ai cần sự yên tĩnh tuyệt đối để tập trung.\nSẽ quay lại để thử thêm dòng Cold Brew!\"",
+        "time": 1767513655,
+        "translated": false
+      },
+      {
+        "author_name": "Na Nguyen Phan Le",
+        "author_url": "https://www.google.com/maps/contrib/110881527412091050298/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8fIL5tsHr3Gr63Rr_S6uwhk9RGjSOOqyhnlrb0U8PqSG6mkHW=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "⭐ Review: Là Việt Coffee – Nguyễn Công Trứ, Đà Lạt ⭐\n⭐⭐⭐⭐⭐\n\nQuán cà phê ngon đúng chuẩn Đà Lạt. Menu nhiều lựa chọn, từ espresso, pour-over cho tới cold brew – gu nào cũng có. Hạt rang tại chỗ nên ly nào cũng thơm, đậm, rất đã.\n\nKhông gian quán rộng rãi, thoải mái, ngồi làm việc hay trò chuyện đều hợp. Bên trong còn có khu bán các sản phẩm cà phê như hạt rang, drip bag… tiện để mua mang về làm quà.\n\nMột trong những quán mình luôn giới thiệu cho bạn bè khi đến Đà Lạt. Rất đáng thử! ☕🌿",
+        "time": 1763175080,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Dương",
+        "author_url": "https://www.google.com/maps/contrib/111551242594982525438/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB_RzaDH8vwW2_7uKjslFVboBGHvXYrSuJthaGdJeRM9zmAJ_s=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "phần ăn và nước uống ổn chứ không ngon xuất sắc. Món bánh mì bơ tỏi hơi ngạc nhiên vì tưởng là bánh mì lát phết sốt bơ tỏi rồi nướng còn đây là ổ bánh mì chấm chén sốt bơ + tỏi. Ăn cũng tạm. Hợp khẩu vị nhất là món mì ý sốt kem nấm",
+        "time": 1763889657,
+        "translated": false
+      },
+      {
+        "author_name": "Youka Truong",
+        "author_url": "https://www.google.com/maps/contrib/104945124473379505979/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVm6SG1lIfgEGh6QKqRUBwytNUGzHtW7eJ3m7EJzPSa4GKN100XLA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ngày đi 19/12/2025\nĐã đi ở chi nhánh Trần Quý Cáp. Bên đó rộng rãi kiểu cửa hàng nhiều hơn. Rất đẹp và sang trọng, còn bên này kiểu nhà xưởng nhiều hơn và trưng bày cà phê đủ loại. Đây là cửa hàng đầu tiên ở Đà Lạt. Vào đi dạo tham quan được nhân viên hướng dẫn rất nhiệt tình mến khách. Hài lòng lắm luôn.\nMọi người nên đi hai bên để có trải nghiệm thích thú.",
+        "time": 1766830519,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3350
+  },
+  "harvested_at": "2026-04-29T21:26:02.332913"
+}

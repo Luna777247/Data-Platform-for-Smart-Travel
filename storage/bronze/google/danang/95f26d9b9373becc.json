@@ -1,0 +1,174 @@
+{
+  "u_key": "95f26d9b9373becc",
+  "original_osm_name": "Quan Com Hue Ngon BBQ",
+  "google_raw": {
+    "formatted_phone_number": "0901 988 898",
+    "geometry": {
+      "location": {
+        "lat": 16.0662346,
+        "lng": 108.2212925
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0676349302915,
+          "lng": 108.2225986302915
+        },
+        "southwest": {
+          "lat": 16.0649369697085,
+          "lng": 108.2199006697085
+        }
+      }
+    },
+    "name": "Quán Huế Ngon - 다낭최고의 로컬 BBQ 레스토랑- Best local food in Da Nang",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:00",
+        "Thứ Ba: 11:00–23:00",
+        "Thứ Tư: 11:00–23:00",
+        "Thứ Năm: 11:00–23:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 11:00–23:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "김민성",
+        "author_url": "https://www.google.com/maps/contrib/106055718251777589592/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMVvIobiODAaiI9WSSHJSJvz0PBOWFqbI7ywZHZ2ZiH4RUI0co=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "​Tiêu đề: Một quán nướng địa phương tuyệt vời tại Đà Nẵng!\n\n​Mình vừa có một bữa tối rất hài lòng tại Quán Huế Ngon. Nếu bạn đang tìm kiếm một địa điểm ăn đồ nướng đúng chất địa phương thì đây là lựa chọn không thể bỏ qua:\n​Về đồ ăn: Đồ nướng ở đây rất tươi và được tẩm ướp đậm đà. Mình đặc biệt thích món tôm và hải sản nướng trên bếp than hồng, mùi vị rất thơm và hấp dẫn.\n​Về giá cả: Phải nói là cực kỳ hợp lý (ngon - bổ - rẻ). So với chất lượng món ăn và vị trí ngay trung tâm thì mức giá này quá tuyệt vời cho một bữa tối no nê.\n​Về không khí: Quán mang đậm phong cách vỉa hè, náo nhiệt và gần gũi. Ngồi nướng đồ ăn trong không gian mở như thế này mang lại cảm giác rất thú vị và thoải mái.\n​Nhân viên phục vụ cũng khá nhanh nhẹn dù quán rất đông khách. Chắc chắn mình sẽ quay lại đây lần sau khi đến Đà Nẵng. Rất đáng thử!",
+        "time": 1768138401,
+        "translated": false
+      },
+      {
+        "author_name": "김지구",
+        "author_url": "https://www.google.com/maps/contrib/103840709948034567977/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMaxJdIqiDtE-sKv5iXfL8GTxvw8beiEAe6z97eyaQHiJm1vnn=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "사장님 너무 친절하고 유쾌하세요. 가격도 싸고 다낭 느낌 짱입니다!!\n\nGiám đốc rất thân thiện và vui vẻ. Giá cũng rẻ và có cảm giác Đà Nẵng rất tuyệt!",
+        "time": 1757683734,
+        "translated": false
+      },
+      {
+        "author_name": "Ngân Kim",
+        "author_url": "https://www.google.com/maps/contrib/110818194622223624580/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU-vBCMmPH9t1z4ifSkND-MUJ392zFPWENlibJ8PoZUdRCoCqkeg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "đồ ăn của quán rất là ngonnnnnn. mình thích nhất là các món mực, thịt heo. mực ngủ trên đá rất đặc biệt, mực trong lẩu thái ngon siêu cấp, tươi. các món ăn thơm nên mình tin tưởng về chất lượng (đã đến 2 lần). giá của quán là quá rẻ so với chất lượng phục vụ, món ăn và không gian. thêm một điểm mình ấn tượng là quán không hề ồn ào. quán đem đến trải nghiệm, cảm giác tốt",
+        "time": 1771041818,
+        "translated": false
+      },
+      {
+        "author_name": "chenyang peng",
+        "author_url": "https://www.google.com/maps/contrib/100088680275770090755/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkaLm9MU-JXCOB1YWMTfeAKaUA8FA1S6zFQUPljzxpCsVXNg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không gian quán bình thường, không có gì đặc biệt như một nhà hàng cao cấp. Tuy nhiên, giá món ăn lại khá cao so với chất lượng và phần ăn. Mình gọi phần 70–80k nhưng chỉ được hai miếng, cảm giác khá ít và chưa tương xứng với giá tiền. Hy vọng quán có thể điều chỉnh lại khẩu phần hoặc giá cả để khách cảm thấy hợp lý hơn.",
+        "time": 1762244218,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Lam Thái Thị",
+        "author_url": "https://www.google.com/maps/contrib/110563456603518420211/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4XVqnmSLSJvb3thEcEOX1ppSVqtU71Tp9Qu1Bq8_wvsUuaou29A=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn đắt, quá ít. Khói nhiều không thở nổi. Quá tệ so với nhiều nơi khác",
+        "time": 1763643782,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1570
+  },
+  "harvested_at": "2026-04-29T09:41:47.055751"
+}

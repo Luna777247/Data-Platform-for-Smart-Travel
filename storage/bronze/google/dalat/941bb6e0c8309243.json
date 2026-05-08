@@ -1,0 +1,173 @@
+{
+  "u_key": "941bb6e0c8309243",
+  "original_osm_name": "Hot Pot",
+  "google_raw": {
+    "formatted_phone_number": "1800 255855",
+    "geometry": {
+      "location": {
+        "lat": 10.7921953,
+        "lng": 106.6937442
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.7936027802915,
+          "lng": 106.6950826802915
+        },
+        "southwest": {
+          "lat": 10.7909048197085,
+          "lng": 106.6923847197085
+        }
+      }
+    },
+    "name": "Dragon Hot Pot Việt Nam - Lẩu Cân Ký - CN Trần Quang Khải",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–22:00",
+        "Thứ Ba: 11:00–22:00",
+        "Thứ Tư: 11:00–22:00",
+        "Thứ Năm: 11:00–22:00",
+        "Thứ Sáu: 11:00–22:00",
+        "Thứ Bảy: 11:00–22:00",
+        "Chủ Nhật: 11:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "tham ntnt",
+        "author_url": "https://www.google.com/maps/contrib/107901861968745257083/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtKwJE_ibzAOCcd_9iwnzAsWKelEFWBpRbycxX_LFYtVE8p-9b=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "- Hải sản không tươi, không đa dạng.\n- Trước khi cân mình đều lấy mỗi loại 3 phần vì đi 3 người, cân tính tiền rồi đưa vô bếp làm ra thì mất 1 con bào ngư. Nên các bạn có đến ăn nên chụp hình lại cái thau sau khi đã cân trước khi đưa vô bếp làm món để tránh tình trạng “khó hiểu “như mình.\n- Vị lẩu cũng không hợp vì quá nhiều dầu.",
+        "time": 1772723346,
+        "translated": false
+      },
+      {
+        "author_name": "Le Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111686671192386435721/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMu9JHUJTyziJ7vGaQqahBv6gqF4mwfm6H7CwBqfTPSRutRh0XjA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không quá WOW nhưng khá vui để trải nghiệm một tầm cao khác của \"bân xiển\" theo cách có gu hơn và cao cấp hơn.\nNhà hàng mặt tiền to, rộng rãi và bài trí sang trọng, sạch sẽ, nhạc Hàn Quốc nhẹ nhàng hợp với mấy bạn trẻ.\nMình đi làm qua đây mỗi ngày mã tới hôm nay 16.11.2025 mới quyết tâm ghé. Lần đầu hơi bỡ ngỡ nhưng cũng khá okelah nhé!",
+        "time": 1763279206,
+        "translated": false
+      },
+      {
+        "author_name": "Man Huynh",
+        "author_url": "https://www.google.com/maps/contrib/111772996846688539475/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl4l8dqRpEekjUenet281ruYxszTS-szoXvjj9PBu1PP4cu4uU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Hơi mắc xí, mà đồ ăn ổn, nước súp ngon. Quán sẽ chế biến dựa trên đồ ăn bạn gắp và bưng lên tô lớn để ăn.",
+        "time": 1766835318,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh",
+        "author_url": "https://www.google.com/maps/contrib/113706791140711272489/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbXt2n2kIgPF5ngE2wCoSLMtkqH_p9dElXpf2kVtsKEoc-pyM1=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Dragon Hot Pot chi nhánh Trần Quang Khải nằm ngay góc ngã ba giao giữa TQK và đường Trần Nguyên Đán, hướng từ cầu Hoàng Hoa Thám đổ xuống. Mặt tiền quán bị che bởi 1 cái cây rất lớn, nhưng vẫn dễ tìm, nhìn là thấy liền nha.\n\nMình đi ăn vào giác trưa chủ nhật, quán không đông nên lựa đồ ăn khá thoải mái, nhân viên re-fill topping thường xuyên. Khi vừa mới vào thì nhân viên tư vấn hướng dẫn cách ăn chi tiết. Các loại topping đa dạng, không quá wow nhưng vẫn đủ đa dạng để lựa chọn. Lần đầu ăn nên cứ thích món nào lại gắp vài miếng vào nồi, tưởng không bao nhiêu mà ra bill cũng cũng á :)) do nồi to nên thức ăn nằm trong nồi nhìn cứ ít xíu xiu, nấu ra tô là ăn ứ hự luôn. Quầy nước chấm ổn, đa dạng các loại xốt, pha trộn tùy khẩu vị.\n\nRất reccomend nước lẩu Chua cay Tứ Xuyên (Sichuan Hot&Sour), xuất sắc nha, mình không ăn cay được nên dù chọn cay cấp 1 hơi hít hà nhưng mà ngon. Nhóm mình có ăn thử Lẩu trộn Ma La (Ma La Ban) khá mới lạ, cay ma la nhưng không bị cạy hỗn, bạn mình rất thích. Lẫu trộn thì được cho 1 chén nước sốt trộn riêng và 1 chén súp hầm xương để húp.\n\nNhìn chung thì mô hình nhà hàng mới lạ, mọi thứ nằm ở mức vừa vặn, là một trải nghiệm thú vị để thử. Sẽ quay lại vì nước lẩu ngon.\n\nMình ăn 3 người, gắp rất nhiều và ăn no căng, 3 nước ngọt. Total ~ 8.5.0 🐠\nQuán nhận thanh toán tiền mặt, chuyển khoản, quẹt thẻ và apple pay nha.",
+        "time": 1758380499,
+        "translated": false
+      },
+      {
+        "author_name": "long trần",
+        "author_url": "https://www.google.com/maps/contrib/110784144138737242124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXETfduEILThl8wD-QfXBbYwkaFJWvBvKr8gvhov49LkB7jyykM=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Lẩu ngon, đáng tiền. Có điều giá hơi cao thiệt. Nhân viên tư vấn nhiệt tình. Đánh giá 10/10",
+        "time": 1768377122,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 645
+  },
+  "harvested_at": "2026-04-30T15:01:27.866601"
+}

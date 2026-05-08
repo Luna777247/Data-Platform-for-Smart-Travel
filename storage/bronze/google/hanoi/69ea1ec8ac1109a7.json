@@ -1,0 +1,173 @@
+{
+  "u_key": "69ea1ec8ac1109a7",
+  "original_osm_name": "Khách Sạn Golden Charm",
+  "google_raw": {
+    "formatted_phone_number": "0912 936 446",
+    "geometry": {
+      "location": {
+        "lat": 21.0328246,
+        "lng": 105.8494458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0342193302915,
+          "lng": 105.8509128302915
+        },
+        "southwest": {
+          "lat": 21.0315213697085,
+          "lng": 105.8482148697085
+        }
+      }
+    },
+    "name": "Khách sạn Golden Charm Hà Nội",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 01:00–00:00",
+        "Thứ Ba: 01:00–00:00",
+        "Thứ Tư: 01:00–00:00",
+        "Thứ Năm: 01:00–00:00",
+        "Thứ Sáu: 01:00–00:00",
+        "Thứ Bảy: 01:00–00:00",
+        "Chủ Nhật: 01:00–00:00"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "hà ma thị",
+        "author_url": "https://www.google.com/maps/contrib/109549197719024655501/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUyjZOJnVU6lefQauheZTdC_OOJdf-owzRbi32IqKgmQz60Cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Khách sạn sạch sẽ, phòng ốc rộng rãi, tiện nghi đầy đủ. Nhân viên phục vụ rất nhiệt tình và chu đáo. Vị trí ngay trung tâm nên đi lại thuận tiện. Rất hài lòng và sẽ quay lại lần sau hihi",
+        "time": 1758535451,
+        "translated": false
+      },
+      {
+        "author_name": "Toan Hoang",
+        "author_url": "https://www.google.com/maps/contrib/114011301661363453575/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLW85aHxIR5SGNTIdjxm4_OvtvtNcEKvvhQbwbWMjWA3DcpXQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "khách sạn sang trọng nha mọi người, đẹp, sạch , nhân viên thì chu đáo, theo mình đây là nơi đánh trải nghiệm nhe",
+        "time": 1763980110,
+        "translated": false
+      },
+      {
+        "author_name": "11 Quỳnh Hà 11A13",
+        "author_url": "https://www.google.com/maps/contrib/112930540284523169605/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOVdjZwusVJJZ3LmlpP65u0MdTFtyROdxcOHS1PEx2xj19LQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Phòng rộng, view đẹp đầy đủ tiện nghi ạ, thích hợp để ở khi đi du lịch ạ",
+        "time": 1761032329,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng lonh",
+        "author_url": "https://www.google.com/maps/contrib/109244273672051168448/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMDelAOQByuju0bt5kMga95N2RCUOaEvhJhpzeTEhiHpEiPvED=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Tôi và gia đình đã trải nghiệm 2n1d tại khách sạn rất hài lòng với thái độ và dịch vụ của khách sạn, sẽ tiếp tục ghé lần sau",
+        "time": 1760501107,
+        "translated": false
+      },
+      {
+        "author_name": "Thương Nông",
+        "author_url": "https://www.google.com/maps/contrib/116480428320185819089/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRmusuby_jh_LQc_G3W_f1z_dWfHtLfb3PwafRO1qt4xxiAA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "khách sạn tốt nhân viên nhiệt tình tận tâm mọi người nên đến trải nghiệm nha",
+        "time": 1766816406,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 326
+  },
+  "harvested_at": "2026-04-27T19:58:28.076731"
+}

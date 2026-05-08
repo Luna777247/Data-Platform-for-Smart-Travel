@@ -1,0 +1,174 @@
+{
+  "u_key": "e05c268c2b8be2e9",
+  "original_osm_name": "Hong Phuc",
+  "google_raw": {
+    "formatted_phone_number": "0901 963 737",
+    "geometry": {
+      "location": {
+        "lat": 16.0598851,
+        "lng": 108.2053559
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0613207302915,
+          "lng": 108.2067382802915
+        },
+        "southwest": {
+          "lat": 16.0586227697085,
+          "lng": 108.2040403197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Cơm Niêu Hồng Phúc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:00",
+        "Thứ Ba: 09:00–21:00",
+        "Thứ Tư: 09:00–21:00",
+        "Thứ Năm: 09:00–21:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–21:00",
+        "Chủ Nhật: 09:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "gia nhi",
+        "author_url": "https://www.google.com/maps/contrib/105896426846208075693/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfLugDnARftdOEF5tJYLkz8_W1IREcseK-ekbB2PvL5RREVFq2Ug=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tôi đã dùng bữa tối ở đây. Đồ ăn là đồ đông lạnh toàn bộ, rất chán và ko ngon. Giá thì đắt. Khuyên thật mọi người ko nên đến đây ăn vì giờ nhà hàng này chỉ toàn cho khách đoàn ăn thôi. Chứ khách lẻ họ chỉ đến ăn 1 lần là ko bao giờ quay lại.",
+        "time": 1771853667,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Nhan Nguyen Thi",
+        "author_url": "https://www.google.com/maps/contrib/104200774829846798171/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdtPBZoxaWuYXnBtHG3VqgKnWB6AU_ZQhbZK5MXDDX-BnKOvzJig=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cơm niêu ở đây nóng giòn rụm, ăn kèm cá kho tộ ngon bá cháy. Canh cá dìa với cá dìa hấp thì tươi ngọt, ăn là ghiền luôn.\n\nQuán lúc nào cũng đông khách mà nhân viên với chủ quán vẫn phục vụ nhanh, nhiệt tình, niềm nở.",
+        "time": 1754809165,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Anh Tuấn",
+        "author_url": "https://www.google.com/maps/contrib/110876184166930441045/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwLrtvxtgUsjfUhTV0mq9INolBLMX8BBBOWm2DFSjX66AWmi4=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Rời khỏi sân bay thì lái xe đưa nhà mình đến cơm niêu Hồng Phúc, quán này ăn cũng ổn, mình ăn thấy ok thật nhất là các món liên quan đến cá, duy có món đậu sốt thịt hơi mặn :))))\n\nNhưng phải nói là cá kho tộ vs cá nấu canh chua ở đây ngon lắm, Xu nhà mình ăn không thiếu miếng nào, đề xuất mọi người nên gọi cá tại đây!\n\nTổng hết 1 củ khoai",
+        "time": 1739262183,
+        "translated": false
+      },
+      {
+        "author_name": "Dan Trotter",
+        "author_url": "https://www.google.com/maps/contrib/118020753365292066146/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJa6awJ7xcO0eXRh6Nn6V_pUgBj4ov0GsnRKbK8FrLTnP3PkB1PA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán rộng rãi, đồ ăn khá hợp khẩu vị. Nhưng khẩu phần ăn từng phần khá nhiều, nên gọi vừa đồ",
+        "time": 1757249745,
+        "translated": false
+      },
+      {
+        "author_name": "hiếu nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108810323989766460307/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfhj5XC6C-5kUpUWCAw21rDWjzloz4WQ7wORujDul0cd4jP0UYoA=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "8 tháng trước",
+        "text": "Thịt heo luộc nguội  vẫn bán cho khách để chặp thịt xanh luôn vậy mà góp ý thì cũng biện minh rồi k trừ tiền dĩa thịt ra, nhân viên thì chãnh kiểu khinh người . Không có lần 2",
+        "time": 1756619199,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1195
+  },
+  "harvested_at": "2026-04-29T09:31:05.493902"
+}

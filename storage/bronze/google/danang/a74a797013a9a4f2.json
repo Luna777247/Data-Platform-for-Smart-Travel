@@ -1,0 +1,174 @@
+{
+  "u_key": "a74a797013a9a4f2",
+  "original_osm_name": "Restaurant - Cafe Tuân",
+  "google_raw": {
+    "formatted_phone_number": "0905 706 674",
+    "geometry": {
+      "location": {
+        "lat": 15.8764089,
+        "lng": 108.3461494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8777743802915,
+          "lng": 108.3475735802915
+        },
+        "southwest": {
+          "lat": 15.8750764197085,
+          "lng": 108.3448756197085
+        }
+      }
+    },
+    "name": "Restaurant & Cafe Tuấn",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1015"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1015"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:15–21:00",
+        "Thứ Ba: 10:15–21:00",
+        "Thứ Tư: 10:15–21:00",
+        "Thứ Năm: 10:15–21:00",
+        "Thứ Sáu: 10:15–21:00",
+        "Thứ Bảy: 10:15–21:00",
+        "Chủ Nhật: 10:15–21:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "hồng trần",
+        "author_url": "https://www.google.com/maps/contrib/109375416345362451767/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbeyvN6PPOF0bPPhRmWsYhQtdAoYzXMAHrYK7rlpBwM2QIbQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Rất ngon\nĐáng trải nghiệm\nNhà Hàng ngon và phần đồ ăn khá lớn\nhãy hỏi nhân viên họ sẽ tư vấn nhiệt tình cho bạn",
+        "time": 1758544306,
+        "translated": false
+      },
+      {
+        "author_name": "tuyết lành nguyễn thị",
+        "author_url": "https://www.google.com/maps/contrib/117217663465363992524/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE98vdSFzsVfdzfQVECDs0qqx7K1KzejEza7KTflStxNQVsvgz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình tìm quán trên Google, lúc đến hơi lo lắng. Nhưng thật sự không hối hận, đồ ăn ngon 10/10 điểm luôn ah!!!",
+        "time": 1725102363,
+        "translated": false
+      },
+      {
+        "author_name": "L Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114488738687492303346/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3mGp1-mIhW8LB8fAr8kLXZG_91Fd2jckT51OogYV5-2rIvYKG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "View đẹp, đồ ăn ngon sạch sẽ, phục vụ nhanh. Giá cả hợp lý. Nói chung rất tuyệt với",
+        "time": 1759926379,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Thuy",
+        "author_url": "https://www.google.com/maps/contrib/108717108335107493346/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGTMbohFOmfu5C4koHXtK1p6Yko7fBUBoKzpqewGc_-aNnZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Gia dình chúng tôi cảm ơn nhà hàng rất nhiều về sự tiếp đãi nhiẹt tình\nChúng tôi là nhóm gia đình đặt đồ ăn là set menu của quán. Đa dạng set menu\nĐồ ăn ngon đậm vị\nPhần ăn lớn\nCó cả mỳ ý burgers hay pizza cho các ban trẻ  nếu gia đình có con nhỏ\nTôi khuyen mọi người nếu đi đồng người hoặc nhóm lớn hãy đặt trc cho ho\nVì họ không có đồ ăn nấu sẵn\nKhi bạn gọi món họ mới bắt đầu chế biến\nNên đồ ăn sẽ lên khá chậm\nChủ quán có lưu ý về điều này trước cho bạn rối\nNên bạn hãy đặt đồ ăn trc nhak",
+        "time": 1746526798,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Trân Đặng",
+        "author_url": "https://www.google.com/maps/contrib/100188967150738339579/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKueMG_eSqQERQ0_dPxrEzu9d2FuvXR1DdoNrxoScTumUkOig=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Thức ăn ngon xuất sắc , đáng để thử , chị chủ rất thân thiện và nhiệt tình",
+        "time": 1746969503,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5456
+  },
+  "harvested_at": "2026-04-29T09:44:54.157103"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "170972df484ca46e",
+  "original_osm_name": "Cafe giải khát sinh tố 61 nguyễn biểu",
+  "google_raw": {
+    "formatted_phone_number": "0772 562 399",
+    "geometry": {
+      "location": {
+        "lat": 12.280584,
+        "lng": 109.1958308
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2819978802915,
+          "lng": 109.1971578302915
+        },
+        "southwest": {
+          "lat": 12.2792999197085,
+          "lng": 109.1944598697085
+        }
+      }
+    },
+    "name": "Mascopex Coffee Nguyễn Biểu",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–14:00",
+        "Thứ Ba: 06:30–14:00",
+        "Thứ Tư: 06:30–14:00",
+        "Thứ Năm: 06:30–14:00",
+        "Thứ Sáu: 06:30–14:00",
+        "Thứ Bảy: 06:30–15:00",
+        "Chủ Nhật: 06:30–15:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "HỒ THỦY",
+        "author_url": "https://www.google.com/maps/contrib/104031165811675170499/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9etxtbZH5oiZhjD9eUZ8EB0sLePqYJqcen-zTE-zqqB9F6e_-=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán có không gian rộng, mát mẻ, có không gian sân vườn và máy lạnh. Có khu vực vui chơi cho trẻ em, hồ cá Koi. Có trang trí theo mùa, dịp lễ, Tết\nThe restaurant has a spacious and cool interior, with an outdoor garden area and air conditioning. There is a children's play area and a Koi fish pond. Seasonal decorations, holiday decorations, and Tet (Vietnamese New Year) decorations are also available.",
+        "time": 1765616050,
+        "translated": false
+      },
+      {
+        "author_name": "Mộc Thiên",
+        "author_url": "https://www.google.com/maps/contrib/108257220986266269809/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV55Zd5tX9umICSaRT-_GpcHYw25jUb-w4ay6WuO0r2u_lZN9Jd=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán có hồ cá koi thư giãn và khu vui chơi rộng cho trẻ em nô đùa. Cây xanh gọn gàng, nhiều góc ngồi thoáng mát, sạch sẽ và đẹp cả trong nhà và ngoài trời. Quán rộng rãi và yên tĩnh.",
+        "time": 1710421612,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Là công ty chuyên sản xuất và xuất khẩu cà phê nên chất lượng cà phê ở đây ngon.\nKhông gian quán rộng, ngồi dạng sân vườn, không máy lạnh.",
+        "time": 1715506486,
+        "translated": false
+      },
+      {
+        "author_name": "Sinh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/118198045186079867833/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVRzYyn2NWo194Zc908-JGu-BniptuFLnSEncNfA7thzryEA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán rộng, không gian thoải mái. Có bán đồ ăn sáng. Ăn cũng oki nè. Bữa mình đi dịp khai trương nên đc giảm giá, cũng ổn áp hihi",
+        "time": 1662460446,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Thương Ngô",
+        "author_url": "https://www.google.com/maps/contrib/117226877845955936076/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVxlARvL2th98IT19tAEF8hHnylFaxilMUoUz2VfpmQOqapw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Pha chế quá tệ, kêu ly trà thảo mộc mà đưa ly nước lẫn lộn bả trà, kỹ tử, táo đỏ.. không biết uống kiểu gì",
+        "time": 1728181901,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 74
+  },
+  "harvested_at": "2026-05-02T15:28:35.562766"
+}

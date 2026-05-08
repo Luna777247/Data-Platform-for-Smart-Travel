@@ -1,0 +1,173 @@
+{
+  "u_key": "e0e97b5795429dd9",
+  "original_osm_name": "Thai Hot Pot",
+  "google_raw": {
+    "formatted_phone_number": "0326 793 669",
+    "geometry": {
+      "location": {
+        "lat": 21.0079881,
+        "lng": 105.8153683
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0093384802915,
+          "lng": 105.8167244802915
+        },
+        "southwest": {
+          "lat": 21.0066405197085,
+          "lng": 105.8140265197085
+        }
+      }
+    },
+    "name": "Lẩu Thái Tươi Cha Thai Hot Pot",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–00:00",
+        "Thứ Ba: 07:00–00:00",
+        "Thứ Tư: 07:00–00:00",
+        "Thứ Năm: 07:00–00:00",
+        "Thứ Sáu: 07:00–00:00",
+        "Thứ Bảy: 07:00–00:00",
+        "Chủ Nhật: 07:00–00:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Vân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102796396408132046794/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKh4D4dmZAmPv_8X3uNQuT1Xa1jWfbfcQFt5jSoo9ofaUN0BA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn ngon. Giá hssv. Chủ quán siêu thân thiện. 10đ",
+        "time": 1762188105,
+        "translated": false
+      },
+      {
+        "author_name": "Le Minh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103464189861124781896/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0e40IeRzgkzo2tmDRxAfPYBOpVzQoIxShQjcFWSEioLaQcYYy=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "1 Thái Bé Xinh + 1 ba chỉ bò : 2 người no căng.\nLẩu thái chua cay: tiếc là chưa cay bằng ăn bên Thái.",
+        "time": 1754116496,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Trâm Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102320248076065189780/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-Xa36GpC8drfVf-eSRSfpRD_ozMxtPsvyRtFMAUsJkzHt7iOqng=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nước lẩu siêu ngon, chua chua hợp vị lắm. Đồ thịt thà thì ổn so với giá. Nước thì siêu ngon nhé.  trà chanh thái xanh ngonnn. Nước ngon giá rẻ. Phục vụ okla lắm, bạn nv order siêu nic. Ủng hộ quán đừng flop nha mng",
+        "time": 1740557629,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Phan",
+        "author_url": "https://www.google.com/maps/contrib/104830866970040998658/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxeHerSbeGWvDkXAmyFK-Xji9pHoiSQ5WCS_GwVsPL-8rGIiJ2=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ê đỉnh nha. K hiểu sao quán này k viral nữa.\nĐồ ăn tươi ngon, giá cả quá hợp lí. Bọn mình đi ăn hết có tầm 1xx/người có gọi cả nước, đồ ăn kèm các kiểu.\n\nQuán còn tặng cả đồ ăn, voucher, phục vụ tận tình, service 100 điểm luôn ấy.\n\nMình ngồi tầng 2, không gian thoáng, view ngắm đường. Kiểu k có gì để chê luôn ý. Sẽ quay lại và highly recommended cho mọi người.",
+        "time": 1741678095,
+        "translated": false
+      },
+      {
+        "author_name": "Ha Vu",
+        "author_url": "https://www.google.com/maps/contrib/112817354905688722860/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKX8bmI7QYb4jo49TnIWikUMlnhoZ32nJRY_n2HUdahw3Lvow=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Đồ ăn tươi ngon, nước lẩu thái đậm đà chua cay vừa vặn, điều hoà mát mẻ. Nhóm mình nay ăn mở hàng nên được anh chủ quán tặng ca nc trà xoài. Ảnh siu thân thiện đáng iu. 100đ",
+        "time": 1746517073,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 262
+  },
+  "harvested_at": "2026-04-28T16:29:57.894905"
+}

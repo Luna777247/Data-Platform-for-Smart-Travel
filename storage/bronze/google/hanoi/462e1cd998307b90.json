@@ -1,0 +1,243 @@
+{
+  "u_key": "462e1cd998307b90",
+  "original_osm_name": "Au Lac Do Brazil",
+  "google_raw": {
+    "formatted_phone_number": "024 3845 5224",
+    "geometry": {
+      "location": {
+        "lat": 21.0204956,
+        "lng": 105.844702
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0218631802915,
+          "lng": 105.8459901302915
+        },
+        "southwest": {
+          "lat": 21.0191652197085,
+          "lng": 105.8432921697085
+        }
+      }
+    },
+    "name": "Salanca Brazil",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–14:00, 17:30–22:00",
+        "Thứ Ba: 11:00–14:00, 17:30–22:00",
+        "Thứ Tư: 11:00–14:00, 17:30–22:00",
+        "Thứ Năm: 11:00–14:00, 17:30–22:00",
+        "Thứ Sáu: 11:00–14:00, 17:30–22:00",
+        "Thứ Bảy: 11:00–14:00, 17:30–22:00",
+        "Chủ Nhật: 11:00–14:00, 17:30–22:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Nguyen Pham Tuan",
+        "author_url": "https://www.google.com/maps/contrib/115563334862406981286/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjHK-8bJ-q_O4jz6m238DHnN9S1V-__6e9Y679JbEotmDq5k_pVg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn Ngon, phục vụ tốt, nhà hàng thoáng rộng.",
+        "time": 1769437698,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Phuong",
+        "author_url": "https://www.google.com/maps/contrib/116204119023777492229/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu51UwgGgLs3bAEwCWj8sHngL8c2QrkIVWVhU2zBshfvXPTc73=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon. Nhân viên phục vụ thân thiện. Không gian ngoài trời thoáng đãng.\nNhà mình ăn buffet 890k/người là no.",
+        "time": 1772888144,
+        "translated": false
+      },
+      {
+        "author_name": "Đinh Trang",
+        "author_url": "https://www.google.com/maps/contrib/101319050178265356575/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu1_k0hPZmhGYQEwawhN_BPCzfD0oawLyJN1jRc2snyrZYUxe8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "ngon nha thích món chanh leo gì đó tronv ảnh á nma quên tên rùi hic, quán rộng, nv nhiệt tình dv tốt",
+        "time": 1760543707,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102098784437933927045/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsTc39gZZGzYqnKHZM2bGEUM3M6o5IBiIABoOpbvZSdldrviya=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Buffet theo kiểu nhân viên mang xiên đến tận bàn cắt cho khách là phong cách khá mới lạ. Đồ ăn ok. Giá hơi cao so với tổng thể đồ ăn và dịch vụ",
+        "time": 1737402108,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Vũ",
+        "author_url": "https://www.google.com/maps/contrib/106870489518566825699/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnCJYQicJH-SCiL3iLbDWCI0TExAhLtbwdwVZet5pNC_fs7Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhà hàng rất đẹp, không gian sang trọng phù hợp với các cuộc gặp mặt, tuy nhiên đồ ăn mình thấy k ấn tượng mà quá đắt so với chất lượng, ngoài ta hôm mình đi cảm giác nhân viên cứ khinh khỉnh, nhà mình dùng bữa mà cứ đứng ngay trước bàn nhìn 1 hồi r đi rất khó sử",
+        "time": 1769611455,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 410
+  },
+  "harvested_at": "2026-04-28T16:24:58.184604"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "d7c9231182799488",
+  "original_osm_name": "Sông Hồng",
+  "google_raw": {
+    "formatted_phone_number": "0903 122 991",
+    "geometry": {
+      "location": {
+        "lat": 10.3497127,
+        "lng": 107.072459
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3509911802915,
+          "lng": 107.0738441802915
+        },
+        "southwest": {
+          "lat": 10.3482932197085,
+          "lng": 107.0711462197085
+        }
+      }
+    },
+    "name": "NHÀ HÀNG SÔNG HỒNG",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–23:00",
+        "Thứ Ba: 06:00–23:00",
+        "Thứ Tư: 06:00–23:00",
+        "Thứ Năm: 06:00–23:00",
+        "Thứ Sáu: 06:00–23:00",
+        "Thứ Bảy: 06:00–23:00",
+        "Chủ Nhật: 06:00–23:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Long Do",
+        "author_url": "https://www.google.com/maps/contrib/100579922279257137381/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV01X7pqtXu6vrAFddwS4FQK1JH7auYBdET0q9wjmo34_CC5gYC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "đồ ăn ngon, rẻ, nhưng phục vụ hơi chậm vì quá đông khách và ít nhân viên.",
+        "time": 1705243281,
+        "translated": false
+      },
+      {
+        "author_name": "ban van pham",
+        "author_url": "https://www.google.com/maps/contrib/112222168264018389355/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYV0FSeCqYXxFFJbMb7-QdnnyIe-Ty1b_GUErD5dROpcCRhzf2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "bún bò ngon, giá hợp lý",
+        "time": 1659930396,
+        "translated": false
+      },
+      {
+        "author_name": "ファム ゴックロン",
+        "author_url": "https://www.google.com/maps/contrib/102273354209117457062/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL54yVvNnFT8aLIQFVbcJkZPLMNv1Fpy3zqccBKXVevWGz0Lw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ ăn ngon,giá cả hợp lý",
+        "time": 1661859424,
+        "translated": false
+      },
+      {
+        "author_name": "Truc Mai",
+        "author_url": "https://www.google.com/maps/contrib/112796600380098931751/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFRx6uTbFldS6FmFdv4mrfyWsOkOL4cc-ofMLZY_Ex6OpA0Sw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Món ăn ngon phục vụ tốt",
+        "time": 1651664659,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109664738489359263900/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJptiJYac8hmX6JFcc1vVJ-2NgOG_0nA-_NPrb2QSNq0V79ag=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Ở đay có nhiều em út oki nà",
+        "time": 1651206767,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 13
+  },
+  "harvested_at": "2026-05-03T19:46:55.166729"
+}

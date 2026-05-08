@@ -1,0 +1,173 @@
+{
+  "u_key": "761f0eb3a4be2d57",
+  "original_osm_name": "Cà Phê Ashtray",
+  "google_raw": {
+    "formatted_phone_number": "0787 226 825",
+    "geometry": {
+      "location": {
+        "lat": 21.0104484,
+        "lng": 105.8059382
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0118201802915,
+          "lng": 105.8072638802915
+        },
+        "southwest": {
+          "lat": 21.00912221970849,
+          "lng": 105.8045659197085
+        }
+      }
+    },
+    "name": "Ashtray Bespoke HN",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–01:00",
+        "Thứ Ba: 07:00–01:00",
+        "Thứ Tư: 07:00–01:00",
+        "Thứ Năm: 07:00–01:00",
+        "Thứ Sáu: 07:00–02:00",
+        "Thứ Bảy: 07:00–02:00",
+        "Chủ Nhật: 07:00–02:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Thuỳ Linh",
+        "author_url": "https://www.google.com/maps/contrib/107835783108787790634/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrKQ-nk8q77zg6EdBI86UcSBo9oS9T2xoMKSzOz-zscGpds4ScLw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán mở đến 18h là chuyển sang bán rượu buổi tối\nKhông gian chill, decor có gu, đồ uống ở mức tạm ổn. Các bạn nhân viên ngoan nhưng ko quá nhanh nhẹn",
+        "time": 1766471693,
+        "translated": false
+      },
+      {
+        "author_name": "ha nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105181538816128398846/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdBll6vAP0l1vQTFKfuyvaT0h_pnNsMRiCJTp93iqyuUxoNF4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán ok nka mấy ní thả nhẹ mấy con ảnh zô sorry mình chụp hơi xấu nhma đồ uống chất lượng cao nkaa kia là anh bar mình ưng pha đồ uống ukiii nkaaaaa😜",
+        "time": 1765307386,
+        "translated": false
+      },
+      {
+        "author_name": "Đạt Ngô Xuân",
+        "author_url": "https://www.google.com/maps/contrib/109496407369019721692/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU46cH8eKqp1OHu4hZivKwq6kp0UE3AQv8zQZHKdgkyl1Ii_n6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ uống ngon không gian quán chilll nhân viên nhiệt tình giá cả hợp lí so với những quán mình từng trải nghiệm",
+        "time": 1765424625,
+        "translated": false
+      },
+      {
+        "author_name": "yin",
+        "author_url": "https://www.google.com/maps/contrib/110003831466109824223/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvCCKRVUC3rG7NXkK87ufUk5KOSjLkp9Xmq5jDW8W-HAb_XbI=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đây là lần đầu mình đến quán và điểm cộng là quán gần và ấm cúng đáng iu lắm nhưng đây là cốc matcha nhạt nhất (in every way) mà mình từng uống. Quán có thể giảm định lượng cốc nhưng pha nổi lên dc vị matcha hay vị béo sữa hoặc vị ngọt dc khumm",
+        "time": 1768975296,
+        "translated": false
+      },
+      {
+        "author_name": "Hương Mai",
+        "author_url": "https://www.google.com/maps/contrib/108959663033821718751/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvWZZ_5KvLZt5zBsoOL9LMDeoaGOVE95kCp4cORBqhZmTRi1W4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán có vibe ấm cúng đúng kiểu gu của mình . Ánh đèn ấm, nhạc vừa phải nên nói chuyện thoải mái. Đồ uống pha chỉnh chu,chụp ảnh rất đẹp và khá là đúng khẩu vị của mình mặc dù thấy feedback mn k đánh giá cao. Nhân viên lịch sự, tư vấn nhiệt tình và đẹp trai nên chấm điểm 10/10 nha. Sẽ quay lại vào lần sau ...",
+        "time": 1765423260,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 267
+  },
+  "harvested_at": "2026-04-27T19:57:58.870737"
+}

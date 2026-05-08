@@ -1,0 +1,109 @@
+{
+  "u_key": "c611b1259cb9a782",
+  "original_osm_name": "Khách Sạn Lemon",
+  "google_raw": {
+    "formatted_phone_number": "0971 525 121",
+    "geometry": {
+      "location": {
+        "lat": 21.0419309,
+        "lng": 105.8436661
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0432682302915,
+          "lng": 105.8450409802915
+        },
+        "southwest": {
+          "lat": 21.0405702697085,
+          "lng": 105.8423430197085
+        }
+      }
+    },
+    "name": "Hanoi Lemon Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Khoa Lê",
+        "author_url": "https://www.google.com/maps/contrib/109371236780807945452/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr1Yw5hm9ZLy7IXJXL6VcAEePKOAFdyaN05cHinDeC2uJAAhU=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 năm trước",
+        "text": "Phòng cũ kĩ, máy lạnh chạy ko nổi, đèn nhà tắm cũng không có, mền gối không được sạch sẽ!",
+        "time": 1532837794,
+        "translated": false
+      },
+      {
+        "author_name": "Nghi RC",
+        "author_url": "https://www.google.com/maps/contrib/102926139501913808195/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0x352mVv73zDwx1Bfdl0A0NLGZS4I4Z3gLSo0Pp6hRsJnxwtT=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Giá rẻ chỉ bằng 1/2 trong phố cổ, sạch sẽ, đi đến phố cổ cũng gần",
+        "time": 1551831493,
+        "translated": false
+      },
+      {
+        "author_name": "Triha Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105953393914171088856/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaP_Za3rxCkL14rn7HZWqvrmhY7Xl_3o02tR1_diHvgOE0XAOr=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "7 năm trước",
+        "text": "giá Cả lúc book Và lúc thanh toán khác nhau",
+        "time": 1540095119,
+        "translated": false
+      },
+      {
+        "author_name": "Le Tran",
+        "author_url": "https://www.google.com/maps/contrib/100868157219485808862/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2rVWmpGqSW9bu_cdpZXc5AJPc6pKBLFNDwgKAkn3h1IXEgQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "7 năm trước",
+        "text": "Nhân viên nhiệt tình nhưng ko có kinh nghiệm",
+        "time": 1552910624,
+        "translated": false
+      },
+      {
+        "author_name": "Luyt TVE",
+        "author_url": "https://www.google.com/maps/contrib/113645552033329689490/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOsWLJ-3lgbMN1Kbp0Mqc049TP-uJz_gMtqWhzif27wvdHhg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Nhân viên nhiệt tình, khách sạn giá hợp lý",
+        "time": 1544583391,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 29
+  },
+  "harvested_at": "2026-04-27T19:59:23.402619"
+}

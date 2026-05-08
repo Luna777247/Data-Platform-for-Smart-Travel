@@ -1,0 +1,159 @@
+{
+  "u_key": "5bfc83f63905ee16",
+  "original_osm_name": "Tam Chau",
+  "google_raw": {
+    "formatted_phone_number": "1900 9261",
+    "geometry": {
+      "location": {
+        "lat": 11.5497317,
+        "lng": 107.8062959
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.5510652302915,
+          "lng": 107.8075531802915
+        },
+        "southwest": {
+          "lat": 11.5483672697085,
+          "lng": 107.8048552197085
+        }
+      }
+    },
+    "name": "Tâm Châu.ltd",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–17:00",
+        "Thứ Ba: 07:30–17:00",
+        "Thứ Tư: 07:30–17:00",
+        "Thứ Năm: 07:30–17:00",
+        "Thứ Sáu: 07:30–17:00",
+        "Thứ Bảy: 07:30–17:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Kiếm Hoa Lương",
+        "author_url": "https://www.google.com/maps/contrib/100531239532918291611/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjnMnwAQp00gnCrmHGyamMOeLmWOS66ZXzGUucUVCGxdwoLQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Giá cả hợp lý\nTrà và cà phê được thử miễn phí",
+        "time": 1720671713,
+        "translated": false
+      },
+      {
+        "author_name": "Duy Khan Hồ (jewelry HK)",
+        "author_url": "https://www.google.com/maps/contrib/104525716473948463930/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs_WodTIOzIUEInxxicRRUzJW8XfgMiWrxMy7woVoDQnmUd4yd=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Đến hợp tác về sản phẩm quà tặng mạ vàng",
+        "time": 1535186496,
+        "translated": false
+      },
+      {
+        "author_name": "Hữu bình Trần",
+        "author_url": "https://www.google.com/maps/contrib/111562724324395753100/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCpdCI3uOirUSYtbP0tvlV8mQxaN-MZPC7BOUc6dWwXA0Prw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Trà thơm",
+        "time": 1749650995,
+        "translated": false
+      },
+      {
+        "author_name": "que to",
+        "author_url": "https://www.google.com/maps/contrib/101086575550069635180/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEwgc7wyzqNzdmrr_nxoXQ9mIpeeGEd_hUBlNrfLZq0kvWIQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "",
+        "time": 1752391721,
+        "translated": false
+      },
+      {
+        "author_name": "Thiện Tú Trần",
+        "author_url": "https://www.google.com/maps/contrib/115871489802671170064/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGzrMu9DquUdJJcS19_Y71C13UrGI2SN3QqNsxt76ehFt--enMjA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "",
+        "time": 1774743652,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 10
+  },
+  "harvested_at": "2026-04-30T15:02:02.256248"
+}

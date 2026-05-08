@@ -1,0 +1,89 @@
+{
+  "u_key": "f730f4931d91b697",
+  "original_osm_name": "Nhà nghỉ Đại Phú Anh",
+  "google_raw": {
+    "formatted_phone_number": "0982 352 368",
+    "geometry": {
+      "location": {
+        "lat": 21.1550767,
+        "lng": 105.4835333
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.1563405302915,
+          "lng": 105.4848637302915
+        },
+        "southwest": {
+          "lat": 21.1536425697085,
+          "lng": 105.4821657697085
+        }
+      }
+    },
+    "name": "Nhà Nghỉ Đại Phú Anh",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Huệ Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103388093534251095727/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAPXSlvMRXbuIMxZo3Hk2YavnuJ8nEu1IiyZJeagXbUkyaDA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ở có 1 tiếng 10’ mà 140k quá đắt , kh bao giờ quay lại , phòng thì bẩn",
+        "time": 1762610782,
+        "translated": false
+      },
+      {
+        "author_name": "Nhai Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101424552579048736377/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeCUAh-MSMGH4k12ZF8jhnWcWUASrMCM8mtJLlfwvTQ21k6R660A=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Nhìn bên ngoài uy nghi rộng rãi. Mặt thì hướng ra Ql32. Sau lưng hướng lên đê nhìn ra sông Hồng và cầu Vĩnh Thịnh",
+        "time": 1732371959,
+        "translated": false
+      },
+      {
+        "author_name": "phihung ngo tran",
+        "author_url": "https://www.google.com/maps/contrib/101800275071685414278/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVahwhv7ItfNCcoY_lu9rjp2JoY5hBk4xWEO_Aqj7f-K_V8TUI2=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Giá rẻ, phòng đơn giản, ko có đồ ăn, uống tại phòng",
+        "time": 1512109149,
+        "translated": false
+      },
+      {
+        "author_name": "Hiep Vu",
+        "author_url": "https://www.google.com/maps/contrib/109763805953466098312/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIp2juXPtVpUYxAjpT16HwBGumElC_dkIM_gMYWERrLXzTO1k=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Nhà nghỉ có.ghế tình.yêu, 120k/ h",
+        "time": 1555120477,
+        "translated": false
+      },
+      {
+        "author_name": "SonTung Tran",
+        "author_url": "https://www.google.com/maps/contrib/117405168512825152913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxPrciDCYoOXOOxGw2O1uQI_UtSB2fnExdnS3Naso_Mm-8dw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Phục vụ chu đáo, phòng đẹp",
+        "time": 1555226681,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 49
+  },
+  "harvested_at": "2026-04-27T19:58:31.670579"
+}

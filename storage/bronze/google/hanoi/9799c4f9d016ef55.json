@@ -1,0 +1,109 @@
+{
+  "u_key": "9799c4f9d016ef55",
+  "original_osm_name": "Khách Sạn 7 Fridays Westlake",
+  "google_raw": {
+    "formatted_phone_number": "0866 523 446",
+    "geometry": {
+      "location": {
+        "lat": 21.0425399,
+        "lng": 105.8205219
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0438989302915,
+          "lng": 105.8217999802915
+        },
+        "southwest": {
+          "lat": 21.0412009697085,
+          "lng": 105.8191020197085
+        }
+      }
+    },
+    "name": "Five Star West Lake",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Nguyen Dat (refrez)",
+        "author_url": "https://www.google.com/maps/contrib/117024735163981579656/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRcPvG6YnpA3vryqI5sJksOQWLGSzj0QdfQWNgEVCAgoSD4UYJgw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Vị trí thuận tiện ra sân bay, đi vào phố cổ và các điểm tham quan 5km, cách công viên Bách Thảo & hố Tây 1km cho ai thích đi dạo, chạy bộ. Có bãi đỗ xe rộng",
+        "time": 1769406621,
+        "translated": false
+      },
+      {
+        "author_name": "Cong dinh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102725396437411805394/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcVTogiTDoT2mnM2iMLngM26iX_CquSMwGM-KvnUVs6wh6Cg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhờ có dịch vụ lưu động mà xe mình bị chảy nhớt được khắc phục ngay trong ngày.",
+        "time": 1766685529,
+        "translated": false
+      },
+      {
+        "author_name": "Ly Hương",
+        "author_url": "https://www.google.com/maps/contrib/114887045910567832481/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwoJe6bY4aJfxBL7tAL1YUF6xu8fZIBlvqZ1VyQTM7CntGiRUM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Khách sạn có khuôn viên sạch đẹp, bữa sáng ngon miệng, rất phù hợp để lưu lại dài ngày trong kì công tác, du lịch.\nNhân viên nhiệt tình, thân thiện, tiếng Anh tốt, luôn hỗ trợ khi cần.\nNội thất trong phòng đầy đủ tiện nghi, sạch đẹp và thân thiện, nhất định sẽ quay lại...",
+        "time": 1676259724,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàn Lê Văn (Finn)",
+        "author_url": "https://www.google.com/maps/contrib/113022861302421892645/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_PtAjnLhFodQ862RlwJVgUE5DeHabBK2jTPEDSOkOjM8GnoNZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Tôi là lễ tân ở đây và mọi việc rất tốt. Sếp tôi dễ thương và bữa trưa rất ngon💖💖💖",
+        "time": 1750648050,
+        "translated": false
+      },
+      {
+        "author_name": "Thái Thái",
+        "author_url": "https://www.google.com/maps/contrib/110837523461122556129/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVBHMrNa-jpFS4uosOnu-JjWmWDbcSKuQK25vRaNi24qmZr14Rgg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đẹp, rộng rãi, sạch sẽ, tiện nghi, giá ổn. Nhân viên rất thân thiện và hỗ trợ. Ăn sáng không quá đa dạng nhưng thức ăn ngon, phù hợp.",
+        "time": 1701696869,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 292
+  },
+  "harvested_at": "2026-04-28T16:09:31.056678"
+}

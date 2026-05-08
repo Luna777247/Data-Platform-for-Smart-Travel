@@ -1,0 +1,173 @@
+{
+  "u_key": "dc1267d32c4f81c5",
+  "original_osm_name": "tiem banh mi",
+  "google_raw": {
+    "formatted_phone_number": "0965 590 355",
+    "geometry": {
+      "location": {
+        "lat": 21.0310815,
+        "lng": 105.8466151
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0324251802915,
+          "lng": 105.8480070302915
+        },
+        "southwest": {
+          "lat": 21.0297272197085,
+          "lng": 105.8453090697085
+        }
+      }
+    },
+    "name": "BÁNH MÌ TÂM HA NOI",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "minh nguyen",
+        "author_url": "https://www.google.com/maps/contrib/113006254735439071386/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLm_pG9J4PY37keCw5Q7YzUljKLRj9RNKLYZEoMcuyQ_gA2AA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Vô tình đi thấy nên mua, mình mua ổ thập cẩm 40k ăn siêu dở, chã có j nổi bật, ăn cứ nhàn nhạt chã j ra j, 40k quá đắt\nChỉ cho chất lượng phục vụ 5 sao, còn nhiu siêu tệ nha",
+        "time": 1769251601,
+        "translated": false
+      },
+      {
+        "author_name": "Xuân Cường",
+        "author_url": "https://www.google.com/maps/contrib/117295289691034185287/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4ZilW618JZRo0XcQEWrJ83WL_PEgYXdmIdbLzwC0m4HeKdw5L=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "8 tháng trước",
+        "text": "Mình gọi bánh thập cẩm 40k, giá bình thường trên Phố nhưng mà ăn nó không hề ngon gì ấy, topping thì nghèo nàn, gia vị nước sốt át hết vị pate mà chẳng thấy hoà quyện ngon gì???\n\nXứng đáng 4/10 thôi!",
+        "time": 1756517217,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104811177091792715170/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocID3AnyB7CyIM6MpNZawISxOQgANF4_A-5dew9utIsPeWcB3A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Phục vụ nhiệt tình, bánh mì ngon giòn nóng hổi, nhân siêu đầy đặn",
+        "time": 1768222035,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/101327285583267408527/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTd3t0tR64T-cYxsstoK_rsG2eSfqgUYjqd_H8Pr4GQWu94bL0mQ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Bánh xá xíu gà khá lạ, đồ ăn nhìn chung ngon. Bia thơm",
+        "time": 1762222576,
+        "translated": false
+      },
+      {
+        "author_name": "NgọC MinH",
+        "author_url": "https://www.google.com/maps/contrib/117707706791933770436/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbSoXyU28FcX2ojq1GLm2G3NO8x_FG1OdnQRrOLHKYKoRrfrEvFg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Bánh mì rất ngon.kem xôi ngon tuyệt vời.không khí thân thiện.phục vụ nhiệt tình.nói chung rất tuyệt vời",
+        "time": 1744108180,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 692
+  },
+  "harvested_at": "2026-04-28T16:31:16.964375"
+}

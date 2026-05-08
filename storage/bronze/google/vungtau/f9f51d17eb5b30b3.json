@@ -1,0 +1,174 @@
+{
+  "u_key": "f9f51d17eb5b30b3",
+  "original_osm_name": "Sea & Sun 2",
+  "google_raw": {
+    "formatted_phone_number": "0971 646 812",
+    "geometry": {
+      "location": {
+        "lat": 10.3567619,
+        "lng": 107.0605391
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3581626802915,
+          "lng": 107.0619494302915
+        },
+        "southwest": {
+          "lat": 10.3554647197085,
+          "lng": 107.0592514697085
+        }
+      }
+    },
+    "name": "Sea & Sun 2",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–21:30",
+        "Thứ Ba: 06:30–21:30",
+        "Thứ Tư: 06:30–21:30",
+        "Thứ Năm: 06:30–21:30",
+        "Thứ Sáu: 06:30–21:30",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "清水",
+        "author_url": "https://www.google.com/maps/contrib/113095448063522143141/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYu3lekPKm4n-zh29-HhzaE0XzfPDTcD_8h-3mX7A1OYeHLQsI=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nước dở, giá cao, quán dơ rác đầy quán như mấy ngày không quét vậy, được cái view đẹp, ngắm biển chill, nhưng nếu chỉ được view thì còn rất nhiều sự lựa chọn khác, sẽ không ghé lại",
+        "time": 1771586088,
+        "translated": false
+      },
+      {
+        "author_name": "Ken Lâm",
+        "author_url": "https://www.google.com/maps/contrib/105480075491620885428/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXO2LT20BPE9MGFI-TMNE_OxvxKcuXTO-kuNEPtj0SkIn5hGH-a=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nước uống ngon, giá hơi cao. Không gian quán đẹp, view biển ngắm hoàng hôn mà có điều xuống cấp quá.",
+        "time": 1768133818,
+        "translated": false
+      },
+      {
+        "author_name": "Khánh Huỳnh Đăng",
+        "author_url": "https://www.google.com/maps/contrib/111215686704097906978/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1IBdjVavtd2KtHENpqQQjfzAlkzZ9nuwKEZkBm6UJrjAEz4FT=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán xá gì gỗ sàn lủng, hư hại nặng, tiền nước ko hề rẻ, mình đi bị té chân vào lỗ. Quán quá tệ hại k nên ghé lại.",
+        "time": 1763290859,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Trịnh",
+        "author_url": "https://www.google.com/maps/contrib/100121330232876704376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUB77oW4s-mK8IhBqiztAuRo2tbjb6oze2PY9HEmy92tnF22qc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "8 tháng trước",
+        "text": "- Quán khá rộng, view đẹp, phù hợp để check in\n- Quán theo hình thức tự phục vụ, tuy nhiên đồ uống ra khá lâu và dễ bị nhầm topping giữa các cốc.\n- Điểm trừ lớn nhất là khu vực nhà vệ sinh. Mùi rất khó chịu, ẩm ướt và bẩn nên không thể sử dụng được. Đây là điều khá ảnh hưởng đến trải nghiệm chung, hy vọng quán sớm khắc phục.",
+        "time": 1757001209,
+        "translated": false
+      },
+      {
+        "author_name": "Cường Ngô",
+        "author_url": "https://www.google.com/maps/contrib/108300635683814162322/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtgVhRSmCSomL8mYLV-nBX15WSg_Y_AwKpeHE8mYd8kt8u7nnM=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "6 tháng trước",
+        "text": "Cơ sở xuống cấp trầm trọng. Nước 7/10. View đẹp mà gỗ sàn ọp ẹp lủng lảng mảng gê wa. Tầng cuối mắc võng nhìn mất thẩm mỹ",
+        "time": 1761730021,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 688
+  },
+  "harvested_at": "2026-05-03T19:50:25.285706"
+}

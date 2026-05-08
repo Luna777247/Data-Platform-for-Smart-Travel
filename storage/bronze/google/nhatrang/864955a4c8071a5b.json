@@ -1,0 +1,173 @@
+{
+  "u_key": "864955a4c8071a5b",
+  "original_osm_name": "Marinelli bistronomia",
+  "google_raw": {
+    "formatted_phone_number": "0914 545 226",
+    "geometry": {
+      "location": {
+        "lat": 12.238975,
+        "lng": 109.1921193
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2403347302915,
+          "lng": 109.1935154802915
+        },
+        "southwest": {
+          "lat": 12.2376367697085,
+          "lng": 109.1908175197085
+        }
+      }
+    },
+    "name": "Bottega 26",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Viên Viên",
+        "author_url": "https://www.google.com/maps/contrib/108041888615181161701/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzOX0ftazH6j_AtwWkhoNunwf-PgsSqUjHlhxcsfLExqqy3g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": ". No 1 panini in town\n\nHai lần trải nghiệm ăn hai loại panini khác nhau: parma ham và cá ngừ rất ngon.\n\n. Hải sản thì nhà hàng tự làm để có món tươi và bảo đảm sức khỏe người dùng. Cá ngừ ngâm dầu là tự làm, ăn vào sẽ có mùi vị béo nhẹ tươi ngon.\n\n. Nhân viên rất vui vẻ phục vụ chu đáo.\n\n. Mình thấy người chủ rất có tâm với món ăn, lựa chọn kỹ thực phẩm mỗi ngày để cho các món ăn có độ tươi ngon nhất.\n\n. Trải nghiệm rất tốt",
+        "time": 1760683090,
+        "translated": false
+      },
+      {
+        "author_name": "Quan Huynh Vu",
+        "author_url": "https://www.google.com/maps/contrib/100613772969532197462/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWknau3DKTvXip4QTp2ZehqjF2cUfRDm8q_aMD5uAZLXG3Bz-tpag=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Nhà hàng phục vụ các món Ý; pizza, pasta, bia tươi Sapporo khá ngon; có bàn ngoài trời trên lầu 1 khá thoáng mát & view ngắm đường phố; phục vụ món nhanh; giá cả dễ chịu.",
+        "time": 1756186971,
+        "translated": false
+      },
+      {
+        "author_name": "Amy Lu",
+        "author_url": "https://www.google.com/maps/contrib/116176500786989521526/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWI-P1_W76IbMZ35kHkl8kUop6pexAnMTyVxMDLoQTcgxbtpsM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Bánh mì panini siêu giòn, ngập nhân rau phô mai và thịt heo nguội. Ngon nhắm. Nước cà rốt thì hơi lợ, ai thích ngọt hay chua hẳn chắc k uống đc ha. Mà bánh no lắm ăn tối được đó. Hai người share chung một cái panini cx được.",
+        "time": 1757763941,
+        "translated": false
+      },
+      {
+        "author_name": "Frédéric Bouchard",
+        "author_url": "https://www.google.com/maps/contrib/102917177490920557050/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF1GRF2JrQ7dFTbFB6She8EftMRGwYG2vMfNpNpXFe69W1lBHR=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "This place is really good. Especially the sandwiches and paninis. It's simple Italy, at its purest! I did, however, take 2 stars off the service because it seems that the tartar sauce listed on the menu and supposed to be included with my fish and chips... Well, that famous tartar sauce seems to have disappeared. 😅👻 So I was given mayonnaise. But let's face it, fish and chips... It's much better with real tartar sauce or... Lemon juice! 🍋\n\nNơi này thực sự tốt. Đặc biệt là bánh sandwich và bánh mì panini. Đây chính là nước Ý giản dị, trong sáng nhất! Tuy nhiên, tôi trừ 2 sao cho dịch vụ này vì có vẻ như nước sốt tartar được ghi trong thực đơn và được dùng kèm với món cá và khoai tây chiên của tôi... Vâng, loại nước sốt tartar nổi tiếng này có vẻ đã biến mất. 😅👻 Thế là tôi được tặng sốt mayonnaise. Nhưng phải thừa nhận rằng cá và khoai tây chiên... Sẽ ngon hơn nhiều nếu dùng kèm với nước sốt tartar hoặc... nước cốt chanh! 🍋",
+        "time": 1744809685,
+        "translated": false
+      },
+      {
+        "author_name": "Sad Kermit",
+        "author_url": "https://www.google.com/maps/contrib/101637125023248348736/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrF84Wj2J_I9M0Ev7gvE4CGMCbs3gllcBl0PCFHdepYu22au3U=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Nhìn qua thì tôi đã thấy quán này có một bầu không khí tốt, nhân viên ở đây nhiệt tình chỉ tôi các món ngon ở đây! Đầy đủ tiện nghi, chỗ ngồi và wifi rất ổn",
+        "time": 1761637008,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 946
+  },
+  "harvested_at": "2026-05-02T15:14:38.972833"
+}

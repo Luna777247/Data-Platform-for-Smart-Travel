@@ -1,0 +1,173 @@
+{
+  "u_key": "3098dc03d367b075",
+  "original_osm_name": "Highlands Coffee",
+  "google_raw": {
+    "formatted_phone_number": "024 5678 0096",
+    "geometry": {
+      "location": {
+        "lat": 21.0317896,
+        "lng": 105.8139892
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03310908029151,
+          "lng": 105.8154444302915
+        },
+        "southwest": {
+          "lat": 21.0304111197085,
+          "lng": 105.8127464697085
+        }
+      }
+    },
+    "name": "Highlands Coffee Capital place Ha Noi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Minh Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/117948774997601033774/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBGx4vqEyZ5c0uFMvzRaNKtEmjuI_1Kbdgfrr6dfitU7XTxD67=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tháng trước",
+        "text": "nhân viên lm lề mề chậm chạp và thái độ k tốt vs khách, nv còn nô đùa nhau mà k lm đồ cho khách",
+        "time": 1772440810,
+        "translated": false
+      },
+      {
+        "author_name": "VAR 7",
+        "author_url": "https://www.google.com/maps/contrib/112779462090141198445/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9jYhUj_TxgvmL_rZPJ6UvtiEukiv0gIDwq4d3GR2ujRmxfHDj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Nhân viên thân thiện, lịch sự, chu đáo. Đặc biệt nhớ được tên và thói quen mua đồ của khách hàng.",
+        "time": 1760539966,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Anne",
+        "author_url": "https://www.google.com/maps/contrib/116592411367755669952/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaO0WPYEXN0RATU2LCpzvkMYVxnm-T9s2rgrpO_gcUNeEhMCk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Trà sen vàng thì đỉnh rồi nhưng phải nói cơ sở này rất ok",
+        "time": 1764081115,
+        "translated": false
+      },
+      {
+        "author_name": "Thuỷ Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/115955448652830756845/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbiLqdbZRs8tVAYN-GQ6AhQ--yLYioZP7LXJdPAlqWD6DnVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tuần trước",
+        "text": "Chịu :)) tới mua kem. Nhân viên báo có nhưng thấy mua nhiều lại bảo hết k có kem :)) tệ quá tệ",
+        "time": 1775893125,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Như",
+        "author_url": "https://www.google.com/maps/contrib/105734984148492971469/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXI-HmRDwnD1qYxKJK1ihEfdZWa7OzDbWOSlSrog0kgnLban8xFFA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tuần trước",
+        "text": "Đồ uống dễ uống, nhân viên thân thiện",
+        "time": 1775326956,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 10
+  },
+  "harvested_at": "2026-04-26T12:45:19.784403"
+}

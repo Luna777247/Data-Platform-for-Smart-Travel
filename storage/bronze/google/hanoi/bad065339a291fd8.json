@@ -1,0 +1,61 @@
+{
+  "u_key": "bad065339a291fd8",
+  "original_osm_name": "Cà Phê Bigone",
+  "google_raw": {
+    "formatted_phone_number": "0986 845 868",
+    "geometry": {
+      "location": {
+        "lat": 21.0251975,
+        "lng": 105.9399172
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0265832302915,
+          "lng": 105.9411959802915
+        },
+        "southwest": {
+          "lat": 21.0238852697085,
+          "lng": 105.9384980197085
+        }
+      }
+    },
+    "name": "Cà Phê Big One",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Thảo Vy",
+        "author_url": "https://www.google.com/maps/contrib/106339471543952054910/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVONDt11cPOy1FnvHmJUTWNVyWQR4NqTW2e15b8jLR5DYlRdWE=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cà Phê Big One là một quán cà phê có không gian trẻ trung, năng động, rất phù hợp cho các bạn trẻ ghé thăm. Quán có menu đồ uống đa dạng, từ cà phê đến các loại trà sữa, sinh tố, đáp ứng nhiều sở thích khác nhau. Giá cả hợp lý, chất lượng đồ uống ổn định. Nhân viên phục vụ nhiệt tình, vui vẻ. Cà Phê Big One là một lựa chọn tốt để tụ tập bạn bè và thư giãn. Để tạo ra một không gian âm nhạc thú vị hơn, Cà Phê Big One có thể tích hợp Tuneast, cho phép khách hàng cùng nhau lựa chọn và vote cho những bài hát yêu thích, tạo nên một bầu không khí sôi động và gắn kết.",
+        "time": 1770836035,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Nguyen Duy",
+        "author_url": "https://www.google.com/maps/contrib/109527535579262173888/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJ-zf6Sr_o-2bNa1qBCtGSd_F_4JS3DBTsMaX35SrKdIHQ9Y10=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1567529706,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Phát",
+        "author_url": "https://www.google.com/maps/contrib/103584104686318976725/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYfACeTzjlMgH6K9M-02KJHMChgu2Q43SDa4kB6RsTpLxCdM-MXw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1561012692,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-04-26T16:52:01.718050"
+}

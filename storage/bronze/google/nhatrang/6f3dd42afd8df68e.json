@@ -1,0 +1,173 @@
+{
+  "u_key": "6f3dd42afd8df68e",
+  "original_osm_name": "Connect",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2331368,
+        "lng": 109.1949475
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2345379802915,
+          "lng": 109.1962521302915
+        },
+        "southwest": {
+          "lat": 12.2318400197085,
+          "lng": 109.1935541697085
+        }
+      }
+    },
+    "name": "Connect Pub",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:00–05:00",
+        "Thứ Ba: 16:00–05:00",
+        "Thứ Tư: 16:00–05:00",
+        "Thứ Năm: 16:00–05:00",
+        "Thứ Sáu: 16:00–05:00",
+        "Thứ Bảy: 16:00–05:00",
+        "Chủ Nhật: 16:00–00:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Phuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103907555611095651356/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzNE-mzuOtst6NwiFXxxpd5FekvpidYq3gyTGCQR4z9UUIEnGMBg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ngay ngã tư khá sôi động, nhạc hay, mở tới sáng.",
+        "time": 1772105306,
+        "translated": false
+      },
+      {
+        "author_name": "Mr.fish秘境達人",
+        "author_url": "https://www.google.com/maps/contrib/118191919833314574001/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx9bxdYkwZs8nSPSsqBblVEO3YAxCWFLL2WLs37qkecMpYnq8=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "氣氛好👍女生都很美👸售價也不貴\n\nGood atmosphere 👍The girls are all beautiful 👸The price is not expensive\n\nI am from Taiwan^^First time in Nha Trang\n\n분위기 좋아요👍여자애들 다 예쁘네요👸가격도 비싸지 않아요\n\nKhông khí tốt 👍Các cô gái đều xinh đẹp 👸Giá cả không đắt",
+        "time": 1739044389,
+        "translated": false
+      },
+      {
+        "author_name": "Shop Người Lớn Khánh Hoà",
+        "author_url": "https://www.google.com/maps/contrib/103919679279988267567/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUT275IaCirb1LtRwWLnXsPBmu0Vu9A26SJohbKWN8G6JSsIWBCWA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Làm chiếc bia ngồi ngắm đường phố chill phết. Giá ok, phù hợp, không bị ngáo giá ạ.\nNói chung là mê mấy không gian say sưa mà thoáng vậy.",
+        "time": 1705894476,
+        "translated": false
+      },
+      {
+        "author_name": "Alex Dương",
+        "author_url": "https://www.google.com/maps/contrib/108810881667131983126/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfnG7HIoTumY1uiXY-GrF8jA-zU2XSEC4KE-nbh-qMJ4HEISiK=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Khá vui ! Nhưng có vẻ các bạn phục vụ hơi lơ là người Việt thì phải =))",
+        "time": 1706978158,
+        "translated": false
+      },
+      {
+        "author_name": "Quoc Hien Le (QuocHien Vlog's)",
+        "author_url": "https://www.google.com/maps/contrib/108528555027248144821/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjztCfk7qWAs_cXbDd3W5Z3HcZV1Rl8bTABLA1AQ8scm5rkEsh=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán này dạng pub outdoor rất vui. Bia và đồ ăn ngon bổ rẻ. Giá thành hợp lý. Khách nước ngoài thấy khá thích mô hình kiểu như này.",
+        "time": 1697938762,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 370
+  },
+  "harvested_at": "2026-05-03T19:41:11.689095"
+}

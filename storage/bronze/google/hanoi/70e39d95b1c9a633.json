@@ -1,0 +1,109 @@
+{
+  "u_key": "70e39d95b1c9a633",
+  "original_osm_name": "INTER Hotel",
+  "google_raw": {
+    "formatted_phone_number": "024 3938 0666",
+    "geometry": {
+      "location": {
+        "lat": 21.0305322,
+        "lng": 105.8503324
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0319025302915,
+          "lng": 105.8517103802915
+        },
+        "southwest": {
+          "lat": 21.0292045697085,
+          "lng": 105.8490124197085
+        }
+      }
+    },
+    "name": "Hanoi Pearl Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Maya Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/109072776317914022798/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcwSCkV270bEzFabutjrg4OguEdSFs4hW1Lyz7AbgOSl5qMSpt=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khách sạn vị trí rất trung tâm, thuận tiện cho khám phá phố cổ và hồ Gươm, đồ ăn rất ngon, đậm hương vị HN, ngoài ra mình cũng rất thik cafe ở đây. Mình sẽ quay lại và gthieu cho mọi người :)",
+        "time": 1768524444,
+        "translated": false
+      },
+      {
+        "author_name": "huy nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101893269669957265355/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKP1evI9mfrarcMnLxACbsQ94u2YFzRSBQDrvWUwc3__HMCsA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khách sạn rất tốt, phòng sạch sẽ, dịch vụ chuyên nghiệp và nhân viên thân thiện. Vị trí thuận tiện để tham quan. Đặc biệt, ngay gần khách sạn có địa điểm thuê xe đạp rất tiện lợi, dễ thuê và xe chất lượng tốt. Trải nghiệm đạp xe khám phá phố cổ cực kỳ thú vị, mang lại cảm giác thư giãn và rất đáng nhớ. Rất đáng để quay lại",
+        "time": 1766035646,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Tuan",
+        "author_url": "https://www.google.com/maps/contrib/112032197432539210616/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWofZVlTBB3_Y5j-Xy_1-r2_c52B-KUczzwLfyYctT7i5PMmhN3=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Khách sạn sạch đẹp, lễ tân rất nhiệt tình. Bữa mình tới sớm bị bệnh hơi mệt, mấy bạn lễ tân rất tinh tế để ý hỏi han và sắp xếp check in sớm cho mình. Địa điểm rất thuận lợi đi ra các hàng quán xung quanh. Nếu lần sau ra HN sẽ ghé lại.",
+        "time": 1763732243,
+        "translated": false
+      },
+      {
+        "author_name": "lee Ý NHI",
+        "author_url": "https://www.google.com/maps/contrib/113941691008068656885/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoT3MR4jC7EnHyO074mKOJp-7j5Jj87LDnJVRf0dNfZAHjlP4=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "hè gđ mình đã có kì nghỉ ở đây, khách sạn nhân viên nhiệt tình chu đáo, phòng khách sạn sạch sẽ nhà vs không bị mùi\nvị trí khách sạn đẹp buổi tối phố khá yên tĩnh, đặc biệt ra hồ gươm rất gần sáng có thể dậy sớm ra đi bộ\nvề đồ ăn sáng khá phong phú nhiều món, âu á kết hợp đầu bếp nấu vừa miệng, nhưng hôm mẹ mình ăn bánh mì lại bảo có mùi của \"tiểu cường\"  mong bếp xem lại khâu vs khi làm bánh\nGđ mình khá hài lòng về kì nghỉ này",
+        "time": 1757076918,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Ngọc Phóng - Gốm Sứ",
+        "author_url": "https://www.google.com/maps/contrib/109700771664424829679/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYFKt4r-6Js80Kbic8S7U0GiAHMdGIdSare_wBlnC_5GQCuA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "khách sạn vị trí trung tâm gần hồ hoàn kiếm !",
+        "time": 1770814155,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1481
+  },
+  "harvested_at": "2026-04-28T16:08:39.257906"
+}

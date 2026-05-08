@@ -1,0 +1,173 @@
+{
+  "u_key": "7175781d8951cccd",
+  "original_osm_name": "Pho",
+  "google_raw": {
+    "formatted_phone_number": "0327 606 839",
+    "geometry": {
+      "location": {
+        "lat": 11.9442842,
+        "lng": 108.4348971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9456347802915,
+          "lng": 108.4362465802915
+        },
+        "southwest": {
+          "lat": 11.9429368197085,
+          "lng": 108.4335486197085
+        }
+      }
+    },
+    "name": "Tiệm ăn Đà Lạt Phố - Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–21:30",
+        "Thứ Ba: 09:30–21:30",
+        "Thứ Tư: 09:30–21:30",
+        "Thứ Năm: 09:30–21:30",
+        "Thứ Sáu: 09:30–21:30",
+        "Thứ Bảy: 09:30–21:30",
+        "Chủ Nhật: 09:30–21:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Hoàng Công Vân Hạ",
+        "author_url": "https://www.google.com/maps/contrib/100615497320169803255/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWx0ryxlsV08PbfwC66jU8Qv0HGnbjEoIrW5-F0VdQPZ0Ns7WaV=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ngon, các bạn nhân viên nhiệt tình.\nGiá cả rất là ok luôn\nMà toàn người nước ngoài :)))) Lúc ăn có gia đình mình Việt Nam à kkkk",
+        "time": 1767365501,
+        "translated": false
+      },
+      {
+        "author_name": "Hang Hoang",
+        "author_url": "https://www.google.com/maps/contrib/102175464467459565537/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBC6zq81HeF8Uvbs8d07oPMU9Tl4vO-c-pD7siom_jOjrjBOcF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhà hàng nhỏ xinh nằm trên con phố cổ của thành phố. Món ăn đa dạng , đặc trưng. Nhân viên thân thiện, nhiệt tình.\nSẽ ủng hộ dài dài",
+        "time": 1772773200,
+        "translated": false
+      },
+      {
+        "author_name": "BN Thanh Hương",
+        "author_url": "https://www.google.com/maps/contrib/107219192699766625815/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRWGxSM60urSQonmnDfK201oQSRfZ83AlsRMRLuM52tqjyVPybEw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không gian quán ok, nhân viên ok, món mình gọi ko ngon nhé, nước chấm đậu phộng rất nhạt. Người nước ngoài ăn rất đông, có lẻ quán làm theo vị người nước ngoài chăn 😥",
+        "time": 1761135420,
+        "translated": false
+      },
+      {
+        "author_name": "Ely Oanh",
+        "author_url": "https://www.google.com/maps/contrib/103566570745565316573/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6-MbFJFgGpXUE-G-J_HIx4Ux86g5ZX0mjU27CrDQx2EeCet_d=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon, quán sạch sẽ, phù hợp cho cả Á và Âu. Phục vụ nhanh nhẹn, nhiệt tình, rất tốt!",
+        "time": 1766838914,
+        "translated": false
+      },
+      {
+        "author_name": "Ánh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111714998324085153709/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWqd6URMGq4L7qa953967abSMvkPs8j5mOqOXISV0zVM4ssaa4=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán ở đường khá yên tĩnh. Món ăn trình bày bắt mắt. Các món ăn ở mức trên cơ bản ạ. Có món bún chả Hà Nội tuy không phải đúng vị Hà Nội, nhưng có tỏi băm là điểm cộng lớn nha.\nCó chỗ ngồi ở ngoài là thích nhất nè, ở trong thì có nhiều bàn hơn.\nCác bạn nhân viên hiền lành, nhanh nhẹn, niềm nở lắm.",
+        "time": 1745168231,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1454
+  },
+  "harvested_at": "2026-04-30T15:01:02.219273"
+}

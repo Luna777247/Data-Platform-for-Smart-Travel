@@ -1,0 +1,173 @@
+{
+  "u_key": "1629b263d193df28",
+  "original_osm_name": "Phuc Long",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9361758,
+        "lng": 108.4327268
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9374876302915,
+          "lng": 108.4341257802915
+        },
+        "southwest": {
+          "lat": 11.9347896697085,
+          "lng": 108.4314278197085
+        }
+      }
+    },
+    "name": "Phuc Long Coffee & Tea",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Janie Lin",
+        "author_url": "https://www.google.com/maps/contrib/105453601966727331257/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdQFqlre6b4neMwkKis5JYO9AIoQeJBiAc25bi1TeuP6mlOU-O8A=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "12/2025\n\nĐi Đà Lạt chơi nhưng thèm Phúc Long nên tụi mình ghé vào làm ngay 1 ly cho đỡ thèm 🥲\n\nChi nhánh này nhìn chung khá rộng rãi nè, có hầm để xe, mấy chú bảo vệ cũng rất thân thiện dễ thương nè.\nVề phần nước uống thì cũng như mọi chi nhánh khác, nước uống ổn nè, gọi ít đường là ok ngon khỏi bàn.\n\nTổng quan chi nhánh này 5 sao nha vì có mấy chú bảo vệ dễ thương nhiệt tình~~",
+        "time": 1765856697,
+        "translated": false
+      },
+      {
+        "author_name": "nam hoai",
+        "author_url": "https://www.google.com/maps/contrib/114034202207076312590/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSsiBVx7r2Xvp2Vr74Rx8bufWfh-4ng5BHMbiKtRJ-K8FbtUmQyQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán ko nằm gần trung tâm, mặt tiền đường không đông đúc lắm, sáng nắng, quán cũng ko đông lắm",
+        "time": 1772937580,
+        "translated": false
+      },
+      {
+        "author_name": "Ngan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102659792314743706825/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQuERtmQUHs5lTRuoaqnlI1Alqts8jcmMk-Os2YuI1zsMZv2Om1Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Không gian mới được trang trí lại với màu sắc thanh lịch và xanh mát, tươi tắn hơn. Mình đến trải nghiệm thường xuyên cùng với bạn vì yên tĩnh, lịch sự, nhã nhặn. Có bàn ghế bên trong khu vực máy lạnh và cả bàn ghế ở khu vực bên ngoài sân thượng để ngắm cảnh phố. Nhân viên nhiệt tình, dễ thương. Bánh và thức uống thì y chang các chi nhánh khác, đều okiela!",
+        "time": 1758485829,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyên Vũ",
+        "author_url": "https://www.google.com/maps/contrib/113615605853751333501/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKywrzB3p7hyV57UNjN17thgYvsV1P_7C1Yyn32rly3T8S8uQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Những lần trước mình uống trà lài đác thơm ngon , lần này uống vị rất khác trà thì đắng ngắt uống kiểu chả có vị gì ngoài vị đắng rất nhạt nhẻo, od ly size M có giá 60k nhưng ly thì toàn đá trà ở dưới đáy ly chưa được nửa ly , đang khác nước nhưng khi nhận được ly trà thì không dám uống vì hút một phát là hết , mình phải đợi một hồi lâu cho tan đá ra để uống , khá thất vọng với giá tiền này mà nhận lại ly nước như vậy là không đáng , nếu nó ngon thì có thể ok nhưng vừa dở vừa ít",
+        "time": 1768370770,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Hai",
+        "author_url": "https://www.google.com/maps/contrib/103361900244588794112/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdOSOto2yTfjcPZn0rnBHsm1UtxWwLB1sl_nFhPogtQnTuL2o=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Trong một buổi chiều se lạnh ở Đà Lạt, mình vô tình ghé vào Phúc Long nằm ngay gần trung tâm – cách trung tâm 5 phút thôi. Phải nói, vị trí quá tiện luôn, vừa dạo phố xong là có chỗ dừng chân ấm áp liền.\n\nẤn tượng đầu tiên là không gian quán rộng rãi, thiết kế theo kiểu hiện đại mà vẫn có nét ấm cúng. Dù khá đông khách (nhất là vào buổi chiều), nhưng nhờ bố trí bàn ghế hợp lý nên không bị cảm giác chật chội. Mình chọn được chỗ gần cửa kính, nhìn ra đường phố rất chill, đúng vibe Đà Lạt luôn.\n\nMình gọi một ly trà sữa ô long trân châu trắng – món “ruột” mỗi lần ghé Phúc Long. Vị trà đậm, thơm, sữa không bị gắt và không quá ngọt. Trân châu trắng giòn nhẹ, ăn vui miệng. Ngoài ra, trà đào ở đây cũng đáng thử nếu bạn muốn gì đó thanh mát hơn.\n\nNhân viên ở đây dễ thương, phục vụ nhanh và nhiệt tình dù khách khá đông. Có một bạn còn chủ động hỏi mình có cần gợi ý món không – điểm cộng lớn!\n\nTóm lại, nếu bạn đang dạo chơi gần trung tâm Đà Lạt và muốn tìm một quán vừa ngon, vừa thoải mái để nghỉ chân, thì Phúc Long là một lựa chọn không tồi đâu nha.",
+        "time": 1756697330,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 835
+  },
+  "harvested_at": "2026-04-30T15:11:46.023765"
+}

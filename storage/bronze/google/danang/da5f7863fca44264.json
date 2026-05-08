@@ -1,0 +1,174 @@
+{
+  "u_key": "da5f7863fca44264",
+  "original_osm_name": "Restaurant SeaSun",
+  "google_raw": {
+    "formatted_phone_number": "0773 213 543",
+    "geometry": {
+      "location": {
+        "lat": 15.9119556,
+        "lng": 108.3398307
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9132819302915,
+          "lng": 108.3412423302915
+        },
+        "southwest": {
+          "lat": 15.9105839697085,
+          "lng": 108.3385443697085
+        }
+      }
+    },
+    "name": "RESTAURANT SEASUN",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–21:00",
+        "Thứ Ba: 08:00–21:00",
+        "Thứ Tư: 08:00–21:00",
+        "Thứ Năm: 08:00–21:00",
+        "Thứ Sáu: 08:00–21:00",
+        "Thứ Bảy: 08:00–21:00",
+        "Chủ Nhật: 08:00–21:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Linh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/114138079460466961619/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJnN_O-Yzme3HETdlqJFoeKwtLLrjIVFuQ7i_jYnD79Um4BQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Điểm đến lý tưởng, một bữa biển đẹp, với những hải sản tươi, với đội ngũ nhân viên thân thiện, đặc biệt thức ăn rất ngon.",
+        "time": 1478571143,
+        "translated": false
+      },
+      {
+        "author_name": "Tịnh Nguyễn Văn",
+        "author_url": "https://www.google.com/maps/contrib/114295353779338872143/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrNkvg2ZZZpaUI4WiR6LtcbIuysQXpZes_5W6Pe_FzvdSljmrD=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "nhà hàng có nhiều món ăn ngon",
+        "time": 1571233762,
+        "translated": false
+      },
+      {
+        "author_name": "Manon Bernicard",
+        "author_url": "https://www.google.com/maps/contrib/106875280703546922277/reviews",
+        "language": "vi",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwcwca2h_2AC8uLR8V-Ge-tEzqo5h8NCcnV-jsD9b4tzggW1QGxg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Không sao nếu bạn không ăn ở đó. Cảnh biển thật tuyệt vời. Bãi biển riêng tư, nơi bạn có thể thư giãn trên ghế tắm nắng, thật hoàn hảo. Tuy nhiên, đồ ăn không có gì đặc biệt, chỉ ở mức tạm được. Chúng tôi đã ăn chả giò, gà rán hạt điều và cơm gà. Đã đi du lịch khắp châu Á bốn tháng, chúng tôi thất vọng về nơi này, mặc dù được đánh giá cao. Ngược lại, nhân viên rất thân thiện; anh phục vụ thậm chí còn giúp tôi sửa xe đạp khi xích xe bị tuột. Có lẽ nên đổi nghề chăng?",
+        "time": 1496989770,
+        "translated": true
+      },
+      {
+        "author_name": "Jacqui Williams",
+        "author_url": "https://www.google.com/maps/contrib/105093000998795896629/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7wADfoRk8B8Y9hVnzYkX15jISi5-Q0gZCRhsSArgPOD6JsK5v=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Wow. I really never expected the best souva of my life to be in Vietnam but here we go. The bread is out of this world delicious - crispy, crunchy and moreish. Get the vege souvlaki with chicken - A+++++++++",
+        "time": 1572963243,
+        "translated": false
+      },
+      {
+        "author_name": "alec currie",
+        "author_url": "https://www.google.com/maps/contrib/104126402131426018074/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI9mnZErDx0-2asECccYKn7UzxsvlLfKGKnmPYpT5GXhbwRQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Bà chủ rất thân thiện, niềm nở và nhiệt tình giúp đỡ. Hải sản tươi ngon và giá cả phải chăng.",
+        "time": 1473426815,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 40
+  },
+  "harvested_at": "2026-04-29T09:55:08.635732"
+}

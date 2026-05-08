@@ -1,0 +1,173 @@
+{
+  "u_key": "d19ebd94586fd1b3",
+  "original_osm_name": "Barn House",
+  "google_raw": {
+    "formatted_phone_number": "0968 262 940",
+    "geometry": {
+      "location": {
+        "lat": 11.9567836,
+        "lng": 108.4351792
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9580753802915,
+          "lng": 108.4365734802915
+        },
+        "southwest": {
+          "lat": 11.9553774197085,
+          "lng": 108.4338755197085
+        }
+      }
+    },
+    "name": "Barn House BBQ And Beer",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Thanh Tùng",
+        "author_url": "https://www.google.com/maps/contrib/107276539217498491828/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVr4Z3yAcy6drcqesIVSxOReZbkVLhbvVr63_vc6JY7tjAqb83=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán cafe phù hợp cho mụi người chạy deadline, nhạc du dương nữa\nCafe cũng ổn cũng ngon đóoo\nNhân viên pha chế ổn định, vị theo ngày không thay đổi.\nPhục vụ thì cũng tàm tạm ☺️\n8.5/10 nhaaaa",
+        "time": 1724129349,
+        "translated": false
+      },
+      {
+        "author_name": "Hít Hà Store",
+        "author_url": "https://www.google.com/maps/contrib/113561267922119132756/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNfbraaSyx0HUP1NHrXM6og7nf3qJ9SU_6pyy9re79rdhVRg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Cảm thấy rất hài lòng. Đồ ăn ngon, không gian rộng rãi , có chõ chơi cho trẻ em luôn nha. Nhà vệ sinh cũng sạch sẽ và không có mùi\nBò ở đây cực kì mềm, mọi người nên thử món đó. Nhà mình đi đông nên gọi hết các món 😆😆😆\nStyle đúng kiểu Âu nên đồ ăn, cách bày trí hay phục vụ đều khá chuyên nghiệp. Ở giữa khu còn có chiếc xe đua to chà bá để chụp ảnh\nChúc quán có thêm nhiều khách nha",
+        "time": 1578886267,
+        "translated": false
+      },
+      {
+        "author_name": "Bung - Nguyen Tran Vu",
+        "author_url": "https://www.google.com/maps/contrib/101650756393568837314/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-hNOcHT6Yr2qS3ye6rAvOfKZlRWApbLdNqxjX0c1dorvULty9cw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán rộng đẹp thức ăn ngon phục vụ chu đáo. Lần nào lên Dalat cũng ghé đây ăn với cả nhà.",
+        "time": 1735387612,
+        "translated": false
+      },
+      {
+        "author_name": "ĐỖ VĂN SỰ",
+        "author_url": "https://www.google.com/maps/contrib/115036734330833156435/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-5SjpUEXHIqpfqeb6CAV4V7kkRUjo81LswZbpQPH_fa3FuiB7=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Món ăn hợp khẩu vị. Trình bày đẹp mắt. Giá cả phải chăng. Không gian rộng rãi thoải mái. Tuy buổi trưa có thể hơi nóng.",
+        "time": 1654416781,
+        "translated": false
+      },
+      {
+        "author_name": "Quoc Viet Tran",
+        "author_url": "https://www.google.com/maps/contrib/101454153415943561368/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjaLyDTwvzw3_PDcYzf9jqQ827hO4ifviy_no4XTrqWoD4JZEW=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn tạm ổn, ko quá đặc sắc\nCafe ngon\nQuán rộng rãi, thoáng mát",
+        "time": 1741446734,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 214
+  },
+  "harvested_at": "2026-04-30T15:00:28.422221"
+}

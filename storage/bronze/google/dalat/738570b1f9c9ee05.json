@@ -1,0 +1,173 @@
+{
+  "u_key": "738570b1f9c9ee05",
+  "original_osm_name": "Bánh Căn Út Cưng",
+  "google_raw": {
+    "formatted_phone_number": "0933 002 892",
+    "geometry": {
+      "location": {
+        "lat": 11.9438387,
+        "lng": 108.4342576
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9452321302915,
+          "lng": 108.4355253302915
+        },
+        "southwest": {
+          "lat": 11.9425341697085,
+          "lng": 108.4328273697085
+        }
+      }
+    },
+    "name": "Bánh căn Út Cưng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–15:00",
+        "Thứ Ba: 06:00–15:00",
+        "Thứ Tư: 06:00–15:00",
+        "Thứ Năm: 06:00–15:00",
+        "Thứ Sáu: 06:00–15:00",
+        "Thứ Bảy: 06:00–15:00",
+        "Chủ Nhật: 06:00–15:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Duy Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/101683809648267356677/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5Hb8qgd34v42JfM6E-dv18KDQyKEQ-pcS95ctdAf-V9QwTITd=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Sáng sớm ghé Bánh căn Út Cưng, mình đã có một trải nghiệm ẩm thực cực kỳ ưng ý. Nếu bạn đang tìm kiếm một địa chỉ ăn sáng đúng điệu thì đây là lựa chọn không thể bỏ qua.\n- Về hương vị:\n• Bánh căn trứng cút: Bánh được đổ nóng hổi, vỏ ngoài hơi sém giòn, bên trong mềm béo nhờ trứng cút tươi. Chấm đẫm vào bát nước dùng xíu mại thì đúng là \"đỉnh của chóp\".\n• Bánh mì xíu mại: Viên xíu mại to tròn, chắc thịt (với khẩu vị mình thì thấy bữa nay hơi mặn) , nước dùng thanh thanh, đậm đà vừa vặn. Ăn kèm ổ bánh mì giòn trong tiết trời se lạnh buổi sáng thực sự rất ấm bụng.\n• Sữa đậu nành: Một ly sữa đậu nành nóng thơm lừng, ít đường giúp cân bằng lại vị béo của bánh, chốt hạ bữa sáng hoàn hảo.\n- Về dịch vụ:\nĐiểm cộng cực lớn ở đây chính là cô chú chủ quán cực kỳ nhiệt tình và thân thiện. Dù khách ra vào liên tục nhưng cô chú vẫn luôn niềm nở, phục vụ nhanh chóng, khiến mình cảm thấy thoải mái như đang ăn cơm nhà vậy.",
+        "time": 1771810489,
+        "translated": false
+      },
+      {
+        "author_name": "Hiền Tấn Vũ",
+        "author_url": "https://www.google.com/maps/contrib/108068380914786690843/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsYWgQbc1X86Eo2GQU2GD88owYdzMOg4sDzC5VZEsEccVr7A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bánh rất giòn,cô chủ luôn hỏi ý khách về khẩu vị ăn để chiều ý(rất tuyệt vời) và nước mắm ăn với bánh ngon (có xoài,đậu phộng và xíu mại kêu thêm). Không gian thoải mái không phải chờ lâu",
+        "time": 1771556790,
+        "translated": false
+      },
+      {
+        "author_name": "Hien Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107212896662478725970/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyMNdhLmAvoTRProRj_WH_Dl2vr6EAmU9a_9oTobsePaMzgmOH=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán nhỏ nằm trên dốc nhà Làng. Cô chú hiền, vui vẻ. Quán sạch sẽ, đồ ăn nóng, ngon. Mình đã ghé nhiều lần rồi.",
+        "time": 1769945641,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa Lê",
+        "author_url": "https://www.google.com/maps/contrib/101340267379282816003/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXbmq0a-p6UGnQW1e7SzJTPZXlTikRQGqwWt4e9x494tetIBoF=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Món ăn tầm trung, bánh căn hơi khét đáy. Quán rất đông nhưng khách ăn cũng nhanh, ra vô liên tục nên cũng không cần chờ lâu. Cô và chú chủ quán nhiệt tình và vui vẻ nên nhìn thiện cảm hơn",
+        "time": 1772210958,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nguyen Duc",
+        "author_url": "https://www.google.com/maps/contrib/105851276506241600798/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2PBuTu2Jn9m_o6XQrExO1mRk_4iIlyp1WCTdpT97M0djktPY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bánh căn ngon. Hai cô chú chủ quán thân thiện, niềm nở. Mình đi tầm 9h sáng không phải đợi lâu. View từ quán nhìn xuống phố nắng đẹp rất xinhhh.",
+        "time": 1766372223,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 165
+  },
+  "harvested_at": "2026-04-30T14:59:40.956022"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "879b0897a9cbe70f",
+  "original_osm_name": "Hồng Trà Ngô Gia",
+  "google_raw": {
+    "formatted_phone_number": "0388 799 426",
+    "geometry": {
+      "location": {
+        "lat": 21.0227966,
+        "lng": 105.8009481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0241674802915,
+          "lng": 105.8022878802915
+        },
+        "southwest": {
+          "lat": 21.02146951970849,
+          "lng": 105.7995899197085
+        }
+      }
+    },
+    "name": "HỒNG TRÀ NGÔ GIA HN005",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–23:30",
+        "Thứ Ba: 08:30–23:30",
+        "Thứ Tư: 08:30–23:30",
+        "Thứ Năm: 08:30–23:30",
+        "Thứ Sáu: 08:30–23:30",
+        "Thứ Bảy: 08:30–23:30",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Trầm",
+        "author_url": "https://www.google.com/maps/contrib/111567323937473164855/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURep8m-USoDORRBh9joNzNowQRFxT36kKSuAFi8__y_aD1P2w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "đừng có bí đao gì hết, giống vị bí đao đóng chai thôi, k có gì đặc biệt đâu!!\ntrà xanh nhài sữa 60% đường + thủy tinh củ năng + thạch dừa hương đào ✔️\ncác tình iu cứ chốt đơn thử combo này cho t. uống từ sài gòn về hà nội, quá ư là mê luôn đấy 💃🎯",
+        "time": 1772648165,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100602132909070170828/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQMApPwF09z8JUlClKI_GBpYImd4yw6063bKFCmNjM8fXmhxbw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Giá rẻ, lúc nào thấy cx có người xếp hàng. Nhân viên thân thiện, nơi pha chế sạch sẽ. Cốc đầy đặn, vị cũng tạm ổn",
+        "time": 1772630789,
+        "translated": false
+      },
+      {
+        "author_name": "Mina Mina",
+        "author_url": "https://www.google.com/maps/contrib/116377965966549875344/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXdNp9XoTRTUIjBjw4C8ThfS6b1NAF8gZ6CD6iiVEZMnacQCTFwg=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình gọi hồng trà kem cheese trân châu đen, về mở ra thành món khác ạ 👎🏻",
+        "time": 1772963657,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Xuân Vân Anh Happy",
+        "author_url": "https://www.google.com/maps/contrib/100756744680074818124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1uMXJshG_60OD3iXRHPTigwPW1coTYkJRnmqXVvuZLFkhli5toA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình order trà sữa trân châu đường đen 30% đường ít đá!\nNhân viên order nhanh nhẹn, đồ uống chờ 3 phút!\nNgày 28/2 có chương trình mua 1 tặng 1 🎁🎁🎁",
+        "time": 1772100961,
+        "translated": false
+      },
+      {
+        "author_name": "Thúy Đặng",
+        "author_url": "https://www.google.com/maps/contrib/107873802676221878621/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV38tRLSO2dr1DbYsQVN3UYLqo-RulD6FBQbi-RCW37_Ox-TQul=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Ngon đúng vị ủng hộ quán dài a phục vụ 10 điểm",
+        "time": 1772592679,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 239
+  },
+  "harvested_at": "2026-04-27T19:57:59.414960"
+}

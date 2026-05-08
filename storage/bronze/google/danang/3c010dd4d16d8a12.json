@@ -1,0 +1,173 @@
+{
+  "u_key": "3c010dd4d16d8a12",
+  "original_osm_name": "La Luna",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0031736,
+        "lng": 108.2652981
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0046068302915,
+          "lng": 108.2665835802915
+        },
+        "southwest": {
+          "lat": 16.0019088697085,
+          "lng": 108.2638856197085
+        }
+      }
+    },
+    "name": "Nhà Hàng La Luna",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:00",
+        "Thứ Ba: 10:00–21:00",
+        "Thứ Tư: 10:00–21:00",
+        "Thứ Năm: 10:00–21:00",
+        "Thứ Sáu: 10:00–21:00",
+        "Thứ Bảy: 10:00–21:00",
+        "Chủ Nhật: 10:00–21:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "P",
+        "author_url": "https://www.google.com/maps/contrib/102113495520580324199/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI59OsRgtqpw7F-4n4mJ5qxTQW4HRoGhgEnHSIFXUQXIYCrXQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Laluna Bar & Restaurant nằm gần khu vực Ngũ Hành Sơn, là điểm dừng chân phổ biến của nhiều du khách sau khi tham quan. Quán có không gian đơn giản, ấm cúng, phục vụ các món Việt như phở gà, bánh xèo, nem rán, cơm chiên và sinh tố trái cây. Nhiều khách đánh giá cao hương vị món ăn, đặc biệt là phở và bánh xèo, với phần ăn lớn và giá cả hợp lý. Chủ quán – Madam Hồng – được khen là thân thiện, luôn tươi cười và tạo cảm giác gần gũi.\n\nTuy nhiên, không phải trải nghiệm nào cũng hoàn hảo. Một số khách phản ánh về việc phát hiện tóc trong món ăn, và nhà vệ sinh nữ không có khóa, gây bất tiện. Ngoài ra, vì quán nằm gần điểm du lịch nên thường đông khách, có thể phải chờ lâu vào giờ cao điểm.\n\nTóm lại, Laluna Bar & Restaurant là lựa chọn phù hợp nếu bạn muốn thưởng thức món Việt sau khi khám phá Ngũ Hành Sơn. Nếu bạn không quá khắt khe về chi tiết nhỏ và ưu tiên sự thân thiện, đây là một điểm ăn uống đáng thử.",
+        "time": 1761063647,
+        "translated": false
+      },
+      {
+        "author_name": "Storeland Invesment",
+        "author_url": "https://www.google.com/maps/contrib/102185118360158845389/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqy-ZNsW1fEX8wnDEr5za748pnGt3MOSEc3UUxiZIkl0ficYw=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "món an khá ngon và hợp khẩu vị",
+        "time": 1508901521,
+        "translated": false
+      },
+      {
+        "author_name": "nguyen tran",
+        "author_url": "https://www.google.com/maps/contrib/109877698859544422029/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcT1DttMdf9pbzxVSVQUITUVtqguqdgSvb6NEXQ58khH8WPw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Không gian thoáng mát, phục vụ chuyên nghiệp. Có thể đặt bàn online cùng những món ăn hấp dẫn mang đậm hương vị Việt Nam cùng thức uống tuyệt vời, thêm vào đó là giá cả phải chăng. Vị trí đắt địa ngày tại danh thắng Ngũ Hành Sơn nỗi tiếng của Thành phố cách. Không lo về bãi đậu xe",
+        "time": 1560346307,
+        "translated": false
+      },
+      {
+        "author_name": "Gió",
+        "author_url": "https://www.google.com/maps/contrib/117895330572915826865/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmwBn51OJJSmYMnTjayAVw86EtylKNY5LU6PplH_aX5G8NFfkL=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Tuyệt vời",
+        "time": 1543677437,
+        "translated": false
+      },
+      {
+        "author_name": "Huong Luu",
+        "author_url": "https://www.google.com/maps/contrib/108982799074504542215/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNiJ1Sy8O-ICnf21qq4SuWEaKCYuvY3e6O-7WeXqCiC-sPBWo=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn k ngon mà giá cao quá",
+        "time": 1754633249,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1114
+  },
+  "harvested_at": "2026-04-29T09:40:54.394711"
+}

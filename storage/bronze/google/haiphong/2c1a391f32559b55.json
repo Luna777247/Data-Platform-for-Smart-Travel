@@ -1,0 +1,172 @@
+{
+  "u_key": "2c1a391f32559b55",
+  "original_osm_name": "Tuyệt Tình Cốc, Hải Phòng",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.9996875,
+        "lng": 106.5711875
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0008499802915,
+          "lng": 106.5724932802915
+        },
+        "southwest": {
+          "lat": 20.9981520197085,
+          "lng": 106.5697953197085
+        }
+      }
+    },
+    "name": "Tuyệt Tình Cốc, Hải Phòng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–18:00",
+        "Thứ Ba: 08:00–18:00",
+        "Thứ Tư: 08:00–18:00",
+        "Thứ Năm: 08:00–18:00",
+        "Thứ Sáu: 08:00–18:00",
+        "Thứ Bảy: 08:00–18:00",
+        "Chủ Nhật: 08:00–18:00"
+      ]
+    },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Thành Nguyễn Hữu",
+        "author_url": "https://www.google.com/maps/contrib/105132164519087087165/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVd1-VJD21FR8tsZ2ePn4uwqgPjL-t6oNQC05wlr-DVtMq8zTPi5A=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Một mỏ đá bỏ hoang phần góc này rồi giữ nước tạo lên một khung cảnh bờ hồ núi đá có màu ngọc bích thiên thanh đẹp. Có người trông xe thu vé 10k/1n, ngày chúng tôi đến là 26/12/2026 thấy cỏ đã vàng, lau đã trắng và xe tải quanh đây chạy bùi mù luôn",
+        "time": 1766818681,
+        "translated": false
+      },
+      {
+        "author_name": "Tô Hạ Vũ",
+        "author_url": "https://www.google.com/maps/contrib/110959671618010301448/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD_Atnf95sfhkceUTF03jzQOVeRmatcXCi4F2NPOT6o6ZwIgA8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Hồ nước không xanh như trong ảnh đâu. Tiền gửi xe 20k/xe. Chỗ chụp ảnh do dân mở, địa điểm ngồi k hơi ê đít",
+        "time": 1770704203,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoan Mac Thi",
+        "author_url": "https://www.google.com/maps/contrib/118145234461420783632/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXd05uzXNvABLYe97ebB3lTx668LgvvLcLDB_mHFK30q4cCVu0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nó rất đep",
+        "time": 1769694459,
+        "translated": false
+      },
+      {
+        "author_name": "Ánh Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/114126381228024589340/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0GogSQvkFXuHx9ejeOes2E9cqbuc4-foAOXrsakAxPPE_7w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tuần trước",
+        "text": "đẹp 20k để xe, cô nhiệt tình chỉ lối đi",
+        "time": 1776430051,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Trang",
+        "author_url": "https://www.google.com/maps/contrib/115063002356487912694/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKwydSYqVflZuI5Ze0UT9YcUr80z1mZ0p-I41xzAejDXE2pnri=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tháng trước",
+        "text": "Bà cầm gậy đuổi cháu , cháu sợ 😭",
+        "time": 1774262101,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 12
+  },
+  "harvested_at": "2026-04-30T15:20:29.434421"
+}

@@ -1,0 +1,153 @@
+{
+  "u_key": "5ed9bc3f90d277bc",
+  "original_osm_name": "Nhà a Thận HN",
+  "google_raw": {
+    "formatted_phone_number": "024 3773 2265",
+    "geometry": {
+      "location": {
+        "lat": 21.01866,
+        "lng": 105.8065788
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0197215302915,
+          "lng": 105.8081965802915
+        },
+        "southwest": {
+          "lat": 21.0170235697085,
+          "lng": 105.8054986197085
+        }
+      }
+    },
+    "name": "Bệnh viện Thận Hà Nội",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–17:00",
+        "Thứ Ba: 07:30–17:00",
+        "Thứ Tư: 07:30–17:00",
+        "Thứ Năm: 07:30–17:00",
+        "Thứ Sáu: 07:30–17:00",
+        "Thứ Bảy: Đóng cửa",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Lawless",
+        "author_url": "https://www.google.com/maps/contrib/103912674269812100081/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF-ZBLshPjnOCTqQl5Zv3y4TzlVjOSeFyUS4N_CcL7ASeO3_lZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Bảo vệ trông xe mất dạy bố láo bệnh nhân vào khám thận không cho để xe bắt nộp 50k mới cho để vé trông xe có 3 nghìn 1 lần để lí do đủ kiểu làm ăn thất đức lưu manh mong quý bệnh viện sớm chỉnh đốn ban bảo vệ chứ vào khám đã khổ rồi còn gặp kiểu người như này thì ai dám khám bao nhiêu người phản ánh có ông bác hôm đấy còn suýt đấm\ncho vào mặt",
+        "time": 1770641533,
+        "translated": false
+      },
+      {
+        "author_name": "dang tkmb",
+        "author_url": "https://www.google.com/maps/contrib/102414309313058693710/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7nChnrejXygRhVgDCXl4Y7x3NuCAEBZ869QGeDS1ufDPZbQQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Tôi là có người nhà điều trị nội trú ở khoa nội thận tiết niệu, trong thời gian điều trị đã được các bác sĩ và điều dưỡng nhiệt tình chăm sóc và điều trị. Rất cảm ơn đội ngũ bác sĩ và điều dưỡng nha!",
+        "time": 1745654498,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Tran (BB Ti vi)",
+        "author_url": "https://www.google.com/maps/contrib/112006192225054478121/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMT-1MlWehP7NFtrJnyPCwqgIh4wBv1FmzL_r0xjDMK0mBPaE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Dịch vụ khá tốt, bác sĩ nhiệt tình, k nhận phong bì. Siêu âm bảo hiểm k dc kĩ",
+        "time": 1769997913,
+        "translated": false
+      },
+      {
+        "author_name": "Bánh bò Cô ba",
+        "author_url": "https://www.google.com/maps/contrib/102459158218439582518/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCGMACnrWWg770lYZ-gpQccX8QczxUdJhalypvbmsH3DpVXdUcoA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Nơi tiếp nhận bệnh nhân điều trị Thận và nam học, ngay trung tâm thành phố với đội ngũ bác ãy chuyên nghiệp và giỏi, bạn sẽ an tâm khi đến đây khám và điều trị.",
+        "time": 1573030649,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Tuyen",
+        "author_url": "https://www.google.com/maps/contrib/113910231705117778241/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWCAzstUmtVSZTHHW0jdaYRXUbczAj-zaQUbL1-8ISiTk0DlvsrQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Không biết bác sỹ điều trị thế nào chứ bác sỹ phòng khám ko chấp nhận đc. Đến từ 6h20 mà mãi tận 8h20 mới đến lượt, dù ko đông .giờ làm việc 7h30 (có một số bác sỹ đến sớm và rất đúng giờ) 1 số bác sỹ rất đủng đỉnh. phải đến 8h00 mới gọi được 1 người vào khám.Bác sỹ thì đông hơn bệnh nhân. Mà có khoảng hơn chục bênh nhân đi khám mà hết cả buổi sáng ko xong. bác sỹ phòng khám in thiếu giấy xét nghiệm đưa thiếu cho bệnh nhân.sau đó lại đưa nhầm cho bệnh nhân sau. Quay lại lấy thì gắt lên. Khám thì kết luận qua loa .xong cho sdt có gì gọi .... người trẻ như tôi đợi còn mệt rã rời thử hỏi những người già thì sao thề là ko có lần 2 quay lại luôn.",
+        "time": 1654160967,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 87
+  },
+  "harvested_at": "2026-04-26T12:44:26.138174"
+}

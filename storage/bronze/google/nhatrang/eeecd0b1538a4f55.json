@@ -1,0 +1,174 @@
+{
+  "u_key": "eeecd0b1538a4f55",
+  "original_osm_name": "Ciao Vietnam",
+  "google_raw": {
+    "formatted_phone_number": "0906 468 879",
+    "geometry": {
+      "location": {
+        "lat": 12.2340994,
+        "lng": 109.1945507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2353952802915,
+          "lng": 109.1959517802915
+        },
+        "southwest": {
+          "lat": 12.2326973197085,
+          "lng": 109.1932538197085
+        }
+      }
+    },
+    "name": "Nhà hàng Ciao Vietnam",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2310"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2310"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2310"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2310"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2310"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2310"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2310"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:10",
+        "Thứ Ba: 10:00–23:10",
+        "Thứ Tư: 10:00–23:10",
+        "Thứ Năm: 10:00–23:10",
+        "Thứ Sáu: 10:00–23:10",
+        "Thứ Bảy: 10:00–23:10",
+        "Chủ Nhật: 10:00–23:10"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Duong Khanh",
+        "author_url": "https://www.google.com/maps/contrib/111970284466891918963/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdQJfIISCFKCqP09jWqX8lMiZ7imGoxUYssBEMSFHZ_iAOHLfQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Thực đơn đa dạng, đồ ăn chế biến ngon, giá cả phải chăng thậm chí là mềm hơn so với mặt bằng quán xá khu trung tâm du lịch của thành phố Nha Trang. Nếu ở gần đó bạn nên ghé để dùng bữa đảm bảo rất vui vẻ ngon miệng, ngoài ra bạn còn có thể dùng bút viết bảng viết lên tường vài chữ để đánh dấu sự kiện mình đã đến nhà hàng, rất khó quên 👍",
+        "time": 1753103412,
+        "translated": false
+      },
+      {
+        "author_name": "Sunshine",
+        "author_url": "https://www.google.com/maps/contrib/114275561085487008686/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4SVaKzDio3oiDwN9b1nW9CjwK_K3QQp6SoXKYSy833XwQEW7Amg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Món ăn tươi ngon, nhân viên thân thiện, nước mắm pha ngon, chờ hơi lâu xíu",
+        "time": 1721518661,
+        "translated": false
+      },
+      {
+        "author_name": "Ca Nhan Tai Chinh",
+        "author_url": "https://www.google.com/maps/contrib/101920547402366033599/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-rPNnfdIbsXqowh2IP-7TU2FtzAVxyfIcjuhUH2HlAMCzMDmK=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Đồ ăn ngon, nv thân thiện hay cười ha hả hà ha",
+        "time": 1747458209,
+        "translated": false
+      },
+      {
+        "author_name": "Jun Fan Wen",
+        "author_url": "https://www.google.com/maps/contrib/104417118327991099192/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqz_TFXSyMVtG6CvoN0c73PMC3VLMAtYyYaNuNTO7o8rU-k4sL=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "1* đeo\" nói nhiều, thái độ nhân viên rất thiếu chuyên nghiệp.",
+        "time": 1756644752,
+        "translated": false
+      },
+      {
+        "author_name": "Thong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112924824792551524635/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEFUwPcye9LzGIrLpbWo2zsc4vJahk1RncivC72Zgb8W6yMw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán này bà con tránh xa nhé.\nTrưa mình đi cf vô phòng lạnh.\nHỏi ổ cắm điện đâu, con nhân thái độ nó như điên điên vậy đó.\nNói thật chứ mình hỏi rất nghiêm túc và rất lịch sự.\nDo đang cần sạc laptop.\nCf thì đợi gần 20' mới có\nThái độ thì chảnh chó.",
+        "time": 1600519902,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 491
+  },
+  "harvested_at": "2026-04-30T16:08:17.171029"
+}

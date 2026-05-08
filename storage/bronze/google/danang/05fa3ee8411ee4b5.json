@@ -1,0 +1,243 @@
+{
+  "u_key": "05fa3ee8411ee4b5",
+  "original_osm_name": "The Chef",
+  "google_raw": {
+    "formatted_phone_number": "0236 3981 234",
+    "geometry": {
+      "location": {
+        "lat": 16.0130002,
+        "lng": 108.2636252
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0143014302915,
+          "lng": 108.2650271302915
+        },
+        "southwest": {
+          "lat": 16.0116034697085,
+          "lng": 108.2623291697085
+        }
+      }
+    },
+    "name": "Le Petit Chef - Danang",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:30–13:00, 17:30–20:00",
+        "Thứ Ba: 11:30–13:00, 17:30–20:00",
+        "Thứ Tư: 11:30–13:00, 17:30–20:00",
+        "Thứ Năm: 11:30–13:00, 17:30–20:00",
+        "Thứ Sáu: 11:30–13:00, 17:30–20:00",
+        "Thứ Bảy: 11:30–13:00, 17:30–20:00",
+        "Chủ Nhật: 11:30–13:00, 17:30–20:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Lily Arwen",
+        "author_url": "https://www.google.com/maps/contrib/112664203923903939371/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6aPHrlQQF1RPSdutWDbOjuXe8fE3VyaWxvrvoiJNVDhFZ3hGX=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Trải nghiệm hay ho với thức ăn ở mức ổn đến ngon, nhân viên cực kì thân thiện và nhiệt tình, đặc biệt là bạn LA rất duyên dáng khi dẫn chuyện, phần trình bày đến món ăn vô cùng thú vị. Đặt bàn trước sẽ có trải nghiệm tuyệt vời hơn vì nhà hàng đang rất hot ở Đà Nẵng, tuyệt vời cho gia đình có con nhỏ. Phần ăn của tôi có giá khoảng 3 triệu 1 người chưa bao gồm nước và phí phục vụ. Bãi đậu xe chung với Hyatt không tính phí và khá rộng rãi, sẽ quay lại khi có dịp.",
+        "time": 1766579660,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Tran",
+        "author_url": "https://www.google.com/maps/contrib/102780470452608650488/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXc7VQ9cC2JpAMgAx8uE_pujpRGD9lgb-3knLco3zqIlon-X3atew=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Năm sao đầu tiên cho các bạn nhân viên dễ thương\nĐồ ăn ngon",
+        "time": 1740412910,
+        "translated": false
+      },
+      {
+        "author_name": "YouTube Ber",
+        "author_url": "https://www.google.com/maps/contrib/109521707067498912859/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdHVGWHtfM0oIKvBSiIL30kj_nOpbfx1qs25EJeT98XHQpbwk5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Rất ngon và lịch sự",
+        "time": 1722868931,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102808341565975618918/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4U1cmNOhXBNEy2-WJV80qTZCols83Yr63Nz176qRtG6VJ4JFR2Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Trải nghiệm quá tuyệt vời. Mình ăn gói Gold, đồ ăn rất hợp khẩu vị trừ món súp cá ban đầu vì mình ko thích ăn tanh mặc dù súp nóng, ăn giống vị sốt mỳ cua 4p's🤣\nMenu 6 món nhưng ăn no căng bụng, highly recommend nhé!\nNên book trước chứ không nhận walk-in.",
+        "time": 1762069633,
+        "translated": false
+      },
+      {
+        "author_name": "sorlo s",
+        "author_url": "https://www.google.com/maps/contrib/113056781623862893670/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUkfrVUBe_CxOZo_wvt5IkyAkikdcpiuIIYuUm57ITD3Xbsbjy=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Gia đình tôi gần đây đã có một trải nghiệm tuyệt vời khi tham dự sự kiện Le Petit Chef tại khách sạn Hyatt Regency Danang, và tôi không thể nào hết lời khen ngợi trải nghiệm này. Đây không chỉ là một bữa ăn; mà là một hành trình ngoạn mục kết hợp giữa kể chuyện, công nghệ và hương vị tinh tế, khiến tất cả chúng tôi đều kinh ngạc.\n\nChúng tôi bắt đầu cuộc phiêu lưu \"Marco Polo\", nơi một đầu bếp hoạt hình duyên dáng đưa chúng tôi vào một cuộc hành trình xuyên lục địa ngay từ bàn ăn của mình. Sự kết hợp hoàn hảo giữa công nghệ trình chiếu tiên tiến và cách bài trí bàn ăn tuyệt đẹp đã tạo nên một thế giới ẩm thực thực sự sống động. Chúng tôi hoàn toàn bị cuốn hút khi theo dõi vị đầu bếp nhỏ của chúng ta du hành qua những con đường tơ lụa và những vùng đất xa xôi để tìm kiếm những nguyên liệu tuyệt vời.\n\nĐiểm xuất sắc của trải nghiệm này là cách hoạt hình chuyển đổi hoàn hảo từ thực tế. Mỗi món ăn, đại diện cho một vùng miền khác nhau trong câu chuyện, được trình bày một cách nghệ thuật và chính xác. Các món ăn không chỉ tinh tế và ngon miệng mà còn mang đậm dấu ấn của câu chuyện, như thể chúng tôi đang nếm thử những kho báu mà chính Marco Polo có thể đã khám phá. Đó là một cuộc hành trình ẩm thực được dàn dựng chu đáo từ đầu đến cuối.\n\nĐiều khiến buổi tối trở nên đặc biệt hơn cả là niềm vui tràn ngập mà nó mang lại cho cả gia đình chúng tôi, từ người nhỏ tuổi nhất đến người lớn tuổi nhất. Ánh mắt ngạc nhiên của mọi người khi câu chuyện dần hé mở thật vô giá. Và trên hết, chúng tôi đang kỷ niệm sinh nhật của tôi, và đội ngũ nhân viên vô cùng chu đáo tại Hyatt Regency đã bất ngờ tặng chúng tôi một chiếc bánh sô cô la tuyệt đẹp. Sự quan tâm chu đáo này đã thực sự nâng tầm một trải nghiệm vốn đã xuất sắc thành một điều gì đó khó quên.\n\nNếu bạn đang ở Đà Nẵng, đừng bỏ lỡ cơ hội đặt bàn tại Le Petit Chef. Đó không chỉ là một bữa tối; đó là một màn trình diễn mê hoặc các giác quan và là một cách tuyệt vời để tạo nên những kỷ niệm khó quên với những người thân yêu. Cảm ơn toàn thể đội ngũ nhân viên vì một bữa tiệc sinh nhật hoàn hảo mà chúng tôi sẽ mãi trân trọng.",
+        "time": 1765637590,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 103
+  },
+  "harvested_at": "2026-04-29T09:40:49.155596"
+}

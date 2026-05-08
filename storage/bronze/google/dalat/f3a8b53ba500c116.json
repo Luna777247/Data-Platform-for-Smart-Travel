@@ -1,0 +1,174 @@
+{
+  "u_key": "f3a8b53ba500c116",
+  "original_osm_name": "Bahn Trang Nuong 112 Da Lat",
+  "google_raw": {
+    "formatted_phone_number": "0915 240 987",
+    "geometry": {
+      "location": {
+        "lat": 11.9484754,
+        "lng": 108.4373134
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9497666302915,
+          "lng": 108.4385762302915
+        },
+        "southwest": {
+          "lat": 11.9470686697085,
+          "lng": 108.4358782697085
+        }
+      }
+    },
+    "name": "Bánh Tráng Nướng 112",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1230"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 12:30–23:30",
+        "Thứ Ba: 12:30–23:30",
+        "Thứ Tư: 12:30–23:30",
+        "Thứ Năm: 12:30–23:30",
+        "Thứ Sáu: 12:30–23:30",
+        "Thứ Bảy: 12:30–23:30",
+        "Chủ Nhật: 12:30–23:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Hung Nguyen Manh",
+        "author_url": "https://www.google.com/maps/contrib/100670467557284887420/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8pYAsi8IRipUn8f4BO8BJWLJESD3hL-eHnzr4jlG0Kcga8oA8=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán nhỏ bán đồ ăn vặt, giá bình dân. Món ăn chế biến ngon. Phục vụ nhanh chóng, chiều khách.",
+        "time": 1771813250,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Thi Bùi",
+        "author_url": "https://www.google.com/maps/contrib/114328803093939068352/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOksdU3TLeaFXY_rcDRXYDYH98UB8lNK24keBlRrFH2lobc0u1=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Dịch vụ tệ, gọi thêm món thì lảng tránh không muốn bán hàng. Bánh phần số 11 trứng gà + khô bò + mazone 22k lác đác vài cọng khô bò, không đáng giá tiền",
+        "time": 1771165652,
+        "translated": false
+      },
+      {
+        "author_name": "Vĩ Khang",
+        "author_url": "https://www.google.com/maps/contrib/111077611707532436727/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8teWDOXcumc7jL3fLtihkkm6vkR31ZEToFzq88OeqF-lulY4=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán bán trễ, cô chú dễ thương nhiệt tình. Mà bánh thì ăn đc oke thui, nếu b tìm phô mai chảy hay trứng lòng đào thì k có nha",
+        "time": 1768535042,
+        "translated": false
+      },
+      {
+        "author_name": "Kizzik Official",
+        "author_url": "https://www.google.com/maps/contrib/104780264137099416782/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqTvk60Nu9rC2bVjraP3oi-v36ai0Yq87MidyIiJIC4Z3iNyHb=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tạm chấp nhận đối với cá nhân mình. So với mặt bằng chung thì chưa ngon bằng. Món trứng gà nướng chẳng khác gì trứng luộc. Không có gì lạ",
+        "time": 1771511161,
+        "translated": false
+      },
+      {
+        "author_name": "Joey Journeys",
+        "author_url": "https://www.google.com/maps/contrib/100012297400297269300/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJZUd8tMH95M0UNZS_AkDJ2lUHj3RO4K4f30kXFDR-6NzUPFM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình ăn nhiều quán rồi, thấy quán này oke nè\n\nĐồ ăn/ Nước uống : 8/10. Bánh tráng nướng vs sữa chua phô mai ngon nha\n\nKhông gian & phục vụ : 8/10\n\nGiá cả : 7.5/10\n\nMình đi loanh quanh, ăn, chơi, khám phá và chia sẻ. ➡️ Joey Journeys ⭐️ (Tiktok)",
+        "time": 1760150937,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 640
+  },
+  "harvested_at": "2026-04-30T14:55:03.216799"
+}

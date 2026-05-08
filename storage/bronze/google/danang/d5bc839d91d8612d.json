@@ -1,0 +1,86 @@
+{
+  "u_key": "d5bc839d91d8612d",
+  "original_osm_name": "Green Balcony Hostel & Coffee",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0407579,
+        "lng": 108.2436444
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0421511802915,
+          "lng": 108.2449715302915
+        },
+        "southwest": {
+          "lat": 16.0394532197085,
+          "lng": 108.2422735697085
+        }
+      }
+    },
+    "name": "Green Balcony Apartment",
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "An Truong",
+        "author_url": "https://www.google.com/maps/contrib/103985582968866336524/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMHtcNtT7iPW_d0uqjgom8v8pDndfgODJL9JnM4kYSBp9h9EoK=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Shop có đa dạng đồ giá cả phù hợp",
+        "time": 1767184264,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Mai Văn Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/104486977776431534992/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJPMpnsZqWW7AAv90fN7DI-2Vgti_701m_6Z4nBFbjmEfljGw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cho em xin sdt chủ với ạ",
+        "time": 1769483581,
+        "translated": false
+      },
+      {
+        "author_name": "Tim Sam",
+        "author_url": "https://www.google.com/maps/contrib/102561529880321296665/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmvdkUtW8CcOFcGPl49hXlczvW4KJp_yoOGvRYpGV2NktHFJUa=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trải nghiệm tuyệt vời. Phải sống chung căn hộ với cả kiến ​​và gián. Bồn rửa bị rò rỉ và nhìn chung căn hộ cũ kỹ, có mùi mốc. Bể bơi rất nông, ngay cả trẻ em cũng không thể bơi được. WiFi chậm, đôi khi chỉ còn 1mbit/giây. Dọn dẹp rất tệ. Tôi phải tự dọn dẹp gần như mọi thứ khi chuyển đồ.\n\nNhưng chủ nhà khá tử tế. Ông ấy đã trả lại tiền đặt cọc và một phần tiền thuê nhà cho tôi.",
+        "time": 1769520369,
+        "translated": true
+      },
+      {
+        "author_name": "Elisabeth Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112642617041586813095/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9aKLYKC-aJtW5OLT8fxCsXTkk8Z10lVkkR46C0wts8kB2Vw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Great apartment building and amazing management. Their is a local market nearby as well as many coffee shops and restaurants. However, if you have children or care about peace and quiet, do not rent an apartment here! Every building surrounding this apartment complex loves to blast karaoke, not just the weekend, weekdays too. Sometimes the noise would make the walls shake. The tenants of the poorly run building nest to this one like to have very loud arguments with each other and sometimes even blash music at 7 am in the morning. During the 6 months I lived there, there were 3 different construction sites nearby. I believe that 2 of them are still ongoing.",
+        "time": 1741826638,
+        "translated": false
+      },
+      {
+        "author_name": "Hieu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105275510843691355585/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK25mYTGfzf7HkKswtyO1M0fIhJpXzG8X_T-ZQjH-26jNp49w=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1726421802,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 8
+  },
+  "harvested_at": "2026-04-28T16:38:40.522330"
+}

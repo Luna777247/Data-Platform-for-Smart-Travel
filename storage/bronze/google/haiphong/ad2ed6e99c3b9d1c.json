@@ -1,0 +1,108 @@
+{
+  "u_key": "ad2ed6e99c3b9d1c",
+  "original_osm_name": "vườn hoa An Biên",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.8563143,
+        "lng": 106.6805297
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8577970802915,
+          "lng": 106.6818551302915
+        },
+        "southwest": {
+          "lat": 20.85509911970849,
+          "lng": 106.6791571697085
+        }
+      }
+    },
+    "name": "Vườn hoa An Biên",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "PhanTom Lancer",
+        "author_url": "https://www.google.com/maps/contrib/116905886640954501306/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlVXY_YtD0iMnc2NAQ13nhMnIn9yO21YAL38jgQ4saF6iJEGPu=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Công viên An Biên rất sạch và nhiều cây xanh, nên thoáng mát nhất trong số các công viên của dải trung tâm.\nBuổi chiều ngồi ghế đá tại đây nghỉ ngơi, ngẫm nghĩ sự đời rất thú vị.\nĐiểm hay nhất tại công viên là không có các dịch vụ bán hàng thu tiền như hàng quán và các loại xe điện.",
+        "time": 1721050219,
+        "translated": false
+      },
+      {
+        "author_name": "Thúy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109864017928827406260/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjbxQxc-wMH9-nBz6NA4e54gu0I9mBCe-rLXr_YXQUtI2dZJz_=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Nơi đây khá đẹp, mát mẻ. Có cây xanh, đài phun nước, có chỗ dạo bộ cho gia đình, không gian cho trẻ chơi. Cũng nhiều quán xá. Lần nào về Hải Phòng mình cũng ghé nơi đây.",
+        "time": 1624355329,
+        "translated": false
+      },
+      {
+        "author_name": "Hong dao Vo",
+        "author_url": "https://www.google.com/maps/contrib/116376183623208939572/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQvr-sPAeBG_5l3CJ2iRboUvFtg9bLXgpgR1fHzjNSM5xj2g=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Công viên là nơi lý tưởng để nghỉ ngơi cuối tuần.",
+        "time": 1772000529,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong dung Hoang",
+        "author_url": "https://www.google.com/maps/contrib/118225939258995708822/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocId9Z9ID7htr69BWJycxFwDNPAbAMyfWbAw4N4jb_e8nKnlRQ=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Buổi tối công viên lên đèn nhìn khá đẹp và an toàn.",
+        "time": 1771910865,
+        "translated": false
+      },
+      {
+        "author_name": "Boi linh Huynh",
+        "author_url": "https://www.google.com/maps/contrib/114075216751381507929/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9icd4N2U5TbDIz3Vws_YGg_ltB0_84EPOQpfOWlYWIyGwaw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Công viên có nhiều góc ngồi yên tĩnh để thư giãn.",
+        "time": 1771820182,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 743
+  },
+  "harvested_at": "2026-04-30T15:21:29.938048"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "d5aa53b3fc6f177e",
+  "original_osm_name": "Cà Phê Lộc",
+  "google_raw": {
+    "formatted_phone_number": "0838 882 001",
+    "geometry": {
+      "location": {
+        "lat": 21.0295367,
+        "lng": 105.8493555
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0308709302915,
+          "lng": 105.8506595302915
+        },
+        "southwest": {
+          "lat": 21.02817296970849,
+          "lng": 105.8479615697085
+        }
+      }
+    },
+    "name": "Lộc Coffee & Tea",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "TRẦN V DŨNG",
+        "author_url": "https://www.google.com/maps/contrib/104676674479723379967/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqlTcYeonMnNgEzs64tdKqBp07Rfe6Eis_asCLH75iRLi1jw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán caffe, nước giải khát phố cổ không gian sạch, đẹp, yên tĩnh, ấm cúng, dễ thương; chất lượng nước giải khát rất ngon, nhất là caffe chuẩn vị, không hoá chất, caffe muối rất ngon; nhân viên phục vụ tận tình, chu đáo; giá cả hợp lý… đạt chuẩn 5*.",
+        "time": 1764575228,
+        "translated": false
+      },
+      {
+        "author_name": "linh pdn",
+        "author_url": "https://www.google.com/maps/contrib/111293795217044446375/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocId2UNzxOI2dS1odCRUp26OaGLcRytcmLi27sfWk1lZ1g7yKg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "quán nhỏ xinh ấm áp, ngồi ở ban công tầng hai nhâm nhi cafe nhìn phố xá rất thú.",
+        "time": 1764056468,
+        "translated": false
+      },
+      {
+        "author_name": "Duong Le Thuy",
+        "author_url": "https://www.google.com/maps/contrib/117344631059387983372/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMIhAnRO4AVlFaQoGxkhcIWDwpw_zl0i8lG1JS9t7ZhpzPSAU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "quán có anh phục vụ rất dễ thương=)) tuy nhiên kbit tên nhma hứa đánh giá 5s cho ảnh",
+        "time": 1763196557,
+        "translated": false
+      },
+      {
+        "author_name": "Thuận Ngô",
+        "author_url": "https://www.google.com/maps/contrib/107410771483147399800/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAEJhkP_qzvXj0z9XJ2Ci0UlK-c75AuKLJhzAxgols9lOp8Eo-7Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán nhỏ nhỏ xinh xinh ở phố cổ. Không gian đơn giản nhưng khá gọn gàng. Đồ uống thì khá ổn. Phù hợp ngồi thư giãn, nghỉ chân.",
+        "time": 1765126936,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Yến",
+        "author_url": "https://www.google.com/maps/contrib/108918725741174447986/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtd0jpfWOVJja9CIaVCKFM2jcDBvd4CPBFVmkrL3X1C-LZ5TyT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ uống ngon, nhân viên nhiệt tình, vui vẻ, hài hước, rất thích không khí ở đây",
+        "time": 1763993651,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 186
+  },
+  "harvested_at": "2026-04-26T12:45:13.652098"
+}

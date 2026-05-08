@@ -1,0 +1,89 @@
+{
+  "u_key": "2da92a6e2cb48aa8",
+  "original_osm_name": "CHU CHUrros",
+  "google_raw": {
+    "formatted_phone_number": "024 3934 4331",
+    "geometry": {
+      "location": {
+        "lat": 21.0256851,
+        "lng": 105.8515208
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0269792802915,
+          "lng": 105.8529070302915
+        },
+        "southwest": {
+          "lat": 21.0242813197085,
+          "lng": 105.8502090697085
+        }
+      }
+    },
+    "name": "Chu-Churros Restaurant",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Vi Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/101895064851347127276/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK594eSge_dJ-0Tk5_qdbU1MS4vIPtsKbbFhe01S49a18085g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán ngon. Nhân viên cực chu đáo",
+        "time": 1595412323,
+        "translated": false
+      },
+      {
+        "author_name": "Tình Trần",
+        "author_url": "https://www.google.com/maps/contrib/103804995648308739439/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZTbqq_RvsvEOXTPArsvZYVfhyiFFqJGTepLjw1_SgLtz09dIQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Nhiều món ngon",
+        "time": 1514341208,
+        "translated": false
+      },
+      {
+        "author_name": "hau Tran",
+        "author_url": "https://www.google.com/maps/contrib/117982988597685134635/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW08GK2AB3Iu_MaPnxuJN10TJRVxEt85y8KDgdKU03IYi1sBSlB=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "7 năm trước",
+        "text": "Không ra gì",
+        "time": 1542191875,
+        "translated": false
+      },
+      {
+        "author_name": "SANH NGUYỄN VĂN (SANH)",
+        "author_url": "https://www.google.com/maps/contrib/118441456127199898369/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNZDxOexEUnFyD8LgjJEXOEFi0RLTyiFEqEhNtlVtkN0-ET0-k=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Tạm",
+        "time": 1561165998,
+        "translated": false
+      },
+      {
+        "author_name": "HIROKI NOZAWA (ののの)",
+        "author_url": "https://www.google.com/maps/contrib/113355592809141248272/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGpc1xuty6pOQLP1qNys6OGPST06HIS115GQJKzJSqTKyokw4u=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Một nhà hàng nhỏ cạnh khách sạn tôi ở Hà Nội. Ngon tuyệt! Churros, tên cửa hàng trong Takeaway, không có trong đó. Tôi nghĩ nó đã bị lãng quên, nhưng thật đáng tiếc.",
+        "time": 1576072205,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 54
+  },
+  "harvested_at": "2026-04-28T16:26:27.691215"
+}

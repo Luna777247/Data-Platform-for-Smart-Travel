@@ -1,0 +1,164 @@
+{
+  "u_key": "cf19ba33e9885c08",
+  "original_osm_name": "Anna's Coffee House - Italian Coffee, Brunch, Roastery",
+  "google_raw": {
+    "formatted_phone_number": "0975 033 773",
+    "geometry": {
+      "location": {
+        "lat": 11.9233329,
+        "lng": 108.4445704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9247325302915,
+          "lng": 108.4458670302915
+        },
+        "southwest": {
+          "lat": 11.9220345697085,
+          "lng": 108.4431690697085
+        }
+      }
+    },
+    "name": "Anna's Coffee House",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–17:00",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 07:30–17:00",
+        "Thứ Năm: 07:30–17:00",
+        "Thứ Sáu: 07:30–17:00",
+        "Thứ Bảy: 07:30–17:00",
+        "Chủ Nhật: 07:30–17:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Mai Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114632170051091174110/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6e5a8O3sjprpZnJ63KrKY2gxF3TFbEgdOUtID1LrmUrlhNA=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mọi thứ nhìn thì đẹp thật, nhưng tôi đã gọi latte với sữa yến mạch. Tôi cứ uống mãi mà không hiểu tại sao cà phê lại có vị sữa bò. Sau đó tôi mới nhận ra đó là sữa bò, khi dạ dày tôi bắt đầu đau. Thật sự rất kinh khủng. Hoàn toàn không thể chấp nhận được, nhất là khi nhân viên đã hỏi lại tôi một lần nữa về loại sữa. Bây giờ tôi sẽ phải chịu đựng cả ngày vì chuyện này. Thật đáng sợ khi nghĩ đến việc nếu tôi bị dị ứng thì sẽ thế nào.",
+        "time": 1771139683,
+        "translated": false
+      },
+      {
+        "author_name": "Hằng Trần Thị",
+        "author_url": "https://www.google.com/maps/contrib/114876702258005587976/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMEa_JrPwnHgtrzoq_G1ccP48lPnSBP00gycuF_IFCWEs4NBw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ngay kế bên ga cáp treo view đẹp đồ ăn rất ngon nhân viên dễ thương Minh Lên dalat là phải ghé ăn sáng !",
+        "time": 1768383208,
+        "translated": false
+      },
+      {
+        "author_name": "mariah vo",
+        "author_url": "https://www.google.com/maps/contrib/114720080741449479057/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmK7kpJ7iEzcopIwIEXYlTBhFXvA1Ywq-fEILmuyrAB3jI3Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "6 tháng trước",
+        "text": "Tôi xin phép được chia sẻ nỗi lòng của mình , vì quán bán nước vừa miệng tôi rất ưng, kinh nghiệm đi du lịch rất nhiều thì với tôi quán anna’s phải đào tạo lại cách phục vụ và thái độ tiếp khách của nhân viên trong từng câu nói rất bất ổn , nên đào tạo lại để chuyên nghiệp hơn và phải biết tôn trọng khách hàng, tôi cũng khá bất ngờ vì những lời nói của cô nhân viên làm tôi thật ngại và khó xử , tôi cũng sẽ không quay lại đây ..rât tiếc vì quán view cũng rất mát mẻ nhưng thiếu tôn trọng khách hàng là một điều đáng tiếc",
+        "time": 1761232459,
+        "translated": false
+      },
+      {
+        "author_name": "Thần Thoại",
+        "author_url": "https://www.google.com/maps/contrib/104381958750496432162/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCRI0YtRE5x8X2A9xOKGsTerdTuqX2iwzysXJ8PW3xfSkJ64vZ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán có view thoáng nhìn ra đồi, không gian ấm cúng, cà phê ngon và nhân viên dễ thương, rất hợp để ngồi thư giãn hay trò chuyện cùng bạn bè.",
+        "time": 1757947157,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111836601547026212591/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXc0Zhe6YKR-pPQAgC1vrBczwktaB4nyVaOEouiDmblVdcOqIAX=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "View không có chỗ chê, chụp ảnh đẹp mê li, giá hợp lý",
+        "time": 1772345162,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 907
+  },
+  "harvested_at": "2026-04-30T15:03:39.142988"
+}

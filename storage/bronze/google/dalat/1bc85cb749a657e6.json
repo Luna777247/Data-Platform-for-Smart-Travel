@@ -1,0 +1,84 @@
+{
+  "u_key": "1bc85cb749a657e6",
+  "original_osm_name": "Cherry villa & Bungalow",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9286533,
+        "lng": 108.4430248
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9299674802915,
+          "lng": 108.4444125302915
+        },
+        "southwest": {
+          "lat": 11.9272695197085,
+          "lng": 108.4417145697085
+        }
+      }
+    },
+    "name": "Cherry Villa Dalat",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Mai Lý Hùng",
+        "author_url": "https://www.google.com/maps/contrib/103523196916824258519/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqkA_V0psyET2yeKYa46ag44Gdw0nYomas8hd4CrQhfmeg2euY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn đẹp,sạch, mát mẻ, có hồ bơi nước nóng luôn nhé mọi người.",
+        "time": 1745397408,
+        "translated": false
+      },
+      {
+        "author_name": "Hang Huynh",
+        "author_url": "https://www.google.com/maps/contrib/106541536014442912848/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIM2c3ufK8XAOZNRVasPBnhjKk9gtJSrWTvMTMzEQ34yAbjTQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cơ sở vật chất xuống cấp , bừa bộn.",
+        "time": 1755559756,
+        "translated": false
+      },
+      {
+        "author_name": "Dư Châu Trí",
+        "author_url": "https://www.google.com/maps/contrib/100340656803338616018/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0X2HuqWmVvPESso4nmFH0y4VosI0V3tAcdsjZqjAcoT1Kv-Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "có hồ tắm nước nóng......",
+        "time": 1753168572,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Linh Lê",
+        "author_url": "https://www.google.com/maps/contrib/103218949028925194075/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1BEUW_h0MHbpJAxPI3swN8DLdSgyu14KVAEUFfeEIfeO7KtJxNw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "11 tháng trước",
+        "text": "",
+        "time": 1747716921,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Trần văn",
+        "author_url": "https://www.google.com/maps/contrib/110115478217412091555/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpiiMUDe5MJ94ecFgZOFqZWaQ0RtZhLBR3kizEYB3Dqy_o6FJU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1745237305,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 7
+  },
+  "harvested_at": "2026-04-30T15:15:25.829578"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "76ef2139a4d158e1",
+  "original_osm_name": "Tam Quang Minh",
+  "google_raw": {
+    "formatted_phone_number": "0903 069 088",
+    "geometry": {
+      "location": {
+        "lat": 15.7924459,
+        "lng": 108.3180909
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.7938337302915,
+          "lng": 108.3194079802915
+        },
+        "southwest": {
+          "lat": 15.79113576970849,
+          "lng": 108.3167100197085
+        }
+      }
+    },
+    "name": "Nội Thất Phố Xinh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1930"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–19:30",
+        "Thứ Ba: 07:30–19:30",
+        "Thứ Tư: 07:30–19:30",
+        "Thứ Năm: 07:30–19:30",
+        "Thứ Sáu: 07:30–19:30",
+        "Thứ Bảy: 07:30–19:30",
+        "Chủ Nhật: 07:30–19:30"
+      ]
+    },
+    "rating": 2.5,
+    "reviews": [
+      {
+        "author_name": "trung bui",
+        "author_url": "https://www.google.com/maps/contrib/102291377405001305410/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL_jc2ZBSLD0VEMZ4BpAIbznGOzRmk2roXg2lT54B4K4i8iZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Công ty làm ăn vớ vẩn thất đức khuyên thật mọi người né cty này ra ạ",
+        "time": 1765461640,
+        "translated": false
+      },
+      {
+        "author_name": "KES GROUP",
+        "author_url": "https://www.google.com/maps/contrib/108303799965224288199/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvKvr0i_huvcT3pdSgRG20qEcicSBE-L55h6EIY8ZDJZ1AWuw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Show room rộng lớn, đầy đủ các món nội thật cho mọi người cần dùng",
+        "time": 1700094491,
+        "translated": false
+      },
+      {
+        "author_name": "Tâm Nguyễn Thành",
+        "author_url": "https://www.google.com/maps/contrib/113127022755533327809/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAmc_8_1Kn2oE4_5ItUczdwv_eA1fHltLhZFk-x6NxtcQKAg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Thất đức",
+        "time": 1765462247,
+        "translated": false
+      },
+      {
+        "author_name": "trung tran",
+        "author_url": "https://www.google.com/maps/contrib/116366981824828577880/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEejH7Laoj5fDyJ10tJ4bGWeOsAOAqO7XxAja93krLk2PNTw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "công ty lừa gạt.mọi người cảnh giác nha",
+        "time": 1679816131,
+        "translated": false
+      },
+      {
+        "author_name": "DỪA HUỲNH",
+        "author_url": "https://www.google.com/maps/contrib/114033079136290473132/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcXWEFCI5OZaixqFKEkMUybPRofCC4HUOXnUntlOhdvpwvDQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Được rồi",
+        "time": 1695008987,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 11
+  },
+  "harvested_at": "2026-04-28T16:43:14.725894"
+}

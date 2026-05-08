@@ -1,0 +1,78 @@
+{
+  "u_key": "1c90b0f84acccd28",
+  "original_osm_name": "까오러우",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 15.8770719,
+        "lng": 108.3312804
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8784162302915,
+          "lng": 108.3325670302915
+        },
+        "southwest": {
+          "lat": 15.8757182697085,
+          "lng": 108.3298690697085
+        }
+      }
+    },
+    "name": "까오러우",
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "윤기영",
+        "author_url": "https://www.google.com/maps/contrib/113613841576022035246/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJICnz4h3ogEbiruEkp56dG6tWIgnVlAObqA6SMyz9JQ0gLzA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1742725995,
+        "translated": false
+      },
+      {
+        "author_name": "Michael Lewis",
+        "author_url": "https://www.google.com/maps/contrib/104207671430188109761/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkcoU6NdaJqfb2I0oB0UhrKCJTSbvJJRv2r0uS6AYuMuC__w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1689987373,
+        "translated": false
+      },
+      {
+        "author_name": "이훈구",
+        "author_url": "https://www.google.com/maps/contrib/102145564989853387127/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAUXNW0zlpMsF1AXbnt249FTnemaLTx211t50fZwQf-E21WPM=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1556260488,
+        "translated": false
+      },
+      {
+        "author_name": "우동완",
+        "author_url": "https://www.google.com/maps/contrib/115512929466467735681/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7UtBfs2BMINmwDhtmn0g1L6v6RccBuu3jFZ7s17-NeWrK__xF=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1551026123,
+        "translated": false
+      },
+      {
+        "author_name": "jo jinku",
+        "author_url": "https://www.google.com/maps/contrib/111815773790811577760/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVCKOiP1RI8Zzo9rgI8BWkYz5P4afbiUtXl4ypzWN3-nBFQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1543609750,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-04-29T09:43:05.905525"
+}

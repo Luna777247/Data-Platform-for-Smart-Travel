@@ -1,0 +1,49 @@
+{
+  "u_key": "be530a1352cda654",
+  "original_osm_name": "Sunshine 2",
+  "google_raw": {
+    "formatted_phone_number": "024 3926 2879",
+    "geometry": {
+      "location": {
+        "lat": 21.0343707,
+        "lng": 105.8532551
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0357128802915,
+          "lng": 105.8546913302915
+        },
+        "southwest": {
+          "lat": 21.03301491970849,
+          "lng": 105.8519933697085
+        }
+      }
+    },
+    "name": "Khách sạn Sunshine 2",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "dung hoàng",
+        "author_url": "https://www.google.com/maps/contrib/107116653321202737494/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgGsCaT2cN92aFc6kfiyPpiQZsI5nhbDoDmU5kEVNg99m3ySzp=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1724167329,
+        "translated": false
+      },
+      {
+        "author_name": "Cuong Van",
+        "author_url": "https://www.google.com/maps/contrib/117676789081095979975/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoUTFcBP6vFt17sheWhVN9p830VH2EfoZrCfEYCV-_aMnxkQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 năm trước",
+        "text": "",
+        "time": 1397141116,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-27T19:58:40.285926"
+}

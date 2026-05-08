@@ -1,0 +1,173 @@
+{
+  "u_key": "af262ec21b133835",
+  "original_osm_name": "Quán Cà Phê 1945",
+  "google_raw": {
+    "formatted_phone_number": "0967 211 393",
+    "geometry": {
+      "location": {
+        "lat": 21.0109881,
+        "lng": 105.8048489
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0123233802915,
+          "lng": 105.8060892802915
+        },
+        "southwest": {
+          "lat": 21.0096254197085,
+          "lng": 105.8033913197085
+        }
+      }
+    },
+    "name": "1945 Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–23:00",
+        "Thứ Ba: 06:30–23:00",
+        "Thứ Tư: 06:30–23:00",
+        "Thứ Năm: 06:30–23:00",
+        "Thứ Sáu: 06:30–23:00",
+        "Thứ Bảy: 06:30–23:00",
+        "Chủ Nhật: 06:30–23:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Minh Hải",
+        "author_url": "https://www.google.com/maps/contrib/107188589778769006938/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcvcGsODoLJl2aTI4OJRZ6Y7Zsu48zxW7ZymVfG3I5pTZ1e4Zx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán có view hồ ngồi rất thích, đồ uống rẻ, chất lượng tạm ổn.\nQuán không đông phù hợp ngồi chill hoặc bàn công việc",
+        "time": 1763836273,
+        "translated": false
+      },
+      {
+        "author_name": "Cao Nguyễn Thùy Chi",
+        "author_url": "https://www.google.com/maps/contrib/109479878432397961929/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJw7gNlc8u7UX2FHIOZbUm4maJXjmFT0g59fXf_TpsN1_ZmSA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ uống, thái độ nhân viên và không gian đều okie. Mình ở gần quán mà mãi mới đến quán trải nghiệm🥲 Giá cả phải chăng, có view hồ chill, có khi sau quán sẽ thành địa điểm ngồi học của mình🫶",
+        "time": 1687773110,
+        "translated": false
+      },
+      {
+        "author_name": "doan duc hai",
+        "author_url": "https://www.google.com/maps/contrib/109763455561908775668/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx9AJVZOZPuYKA03QeB5X0fQOZZgA8XLg4Jk96hCXuzHxZp0o=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "Giá cả dễ chịu, view nhìn ra hồ rất thoáng, giữa khu mới nguyễn thị định lại mọc ra được 1 quán ở khu hồ cũ như này thật ổn. Chỗ ngồi cũng không được rộng rãi lắm nhưng cứ như thế đâm ra lại đỡ đông đúc. Nhạc cũng mở nhỏ, đỡ đau đầu, nhân viên khá thân thiện. Hè ra đây ngồi thì tuyệt :))",
+        "time": 1615802282,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Hang Tran",
+        "author_url": "https://www.google.com/maps/contrib/105958304755473732470/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW49b8qcB6oQa_Xg2iO4Ya3tn1TT0XHCz86qSIj1fOaxpsBs3nj8Q=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán 2 tầng. Ko gian mở, hướng ra hồ và công viên nên có thể đến ngồi phóng tầm mắt ra xa cho thư thái. Đồ uống rẻ so với vị trí. Tông chủ đạo màu xanh bộ đội. Nhìn là thích vào ngồi rồi.",
+        "time": 1572667464,
+        "translated": false
+      },
+      {
+        "author_name": "Long Quang Pham",
+        "author_url": "https://www.google.com/maps/contrib/102347596730989506819/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOCCZZctdGMICvG6q08ojtyJ1Vt5AII8Ob8psIYRW94uovDWPw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 năm trước",
+        "text": "Cafe rang xay với hạt rubosta. Nằm gần 1 cái ao làng cũ được xây lại nên có tầm nhìn thoáng mắt. Quán cafe sắp đặt đơn giản và giá phải chăng. Bàn ghế nhìn ra phía hồ.",
+        "time": 1649394426,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 192
+  },
+  "harvested_at": "2026-04-27T19:57:57.437198"
+}

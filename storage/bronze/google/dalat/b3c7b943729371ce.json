@@ -1,0 +1,174 @@
+{
+  "u_key": "b3c7b943729371ce",
+  "original_osm_name": "Long Nga",
+  "google_raw": {
+    "formatted_phone_number": "0263 3822 929",
+    "geometry": {
+      "location": {
+        "lat": 11.9487028,
+        "lng": 108.4595492
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9500359802915,
+          "lng": 108.4609562302915
+        },
+        "southwest": {
+          "lat": 11.9473380197085,
+          "lng": 108.4582582697085
+        }
+      }
+    },
+    "name": "Nhà hàng Long Nga",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–19:00",
+        "Thứ Ba: 06:00–19:00",
+        "Thứ Tư: 06:00–19:00",
+        "Thứ Năm: 06:00–19:00",
+        "Thứ Sáu: 06:00–19:00",
+        "Thứ Bảy: 06:00–19:00",
+        "Chủ Nhật: 06:00–19:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "Review Việt Nam",
+        "author_url": "https://www.google.com/maps/contrib/101090385229352770252/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwhHcbZFmr8HvOQlhZjJ7k6a0YNvDGzO3BGCCOFwIUGwmg0JmK=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhà hàng nhìn ngoài thì ko được sang cho lắm nhưng vào trong thì cũng khá ok, rộng rãi.\nĐồ ăn hôm mình đi thì ở mức trung bình, ( chắc tuỳ gia chủ đặt )\nĐường ít xe qua lại nên đậu ôtô cũng thoải mái...",
+        "time": 1764985784,
+        "translated": false
+      },
+      {
+        "author_name": "Phước Nguyễn Trịnh Thế",
+        "author_url": "https://www.google.com/maps/contrib/106512610660189691757/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX36eFOYYYqQTYbb0ThwAROdQYJw0VxqbLmOoVFrtB_b_j_0DKt=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán ngon hợp khẩu vị, không gian thoáng, phục vụ ok",
+        "time": 1763011928,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Võ",
+        "author_url": "https://www.google.com/maps/contrib/108132583883509413550/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd3m1Lkkk5pZk0GOnRkrQDTJgyVo3l3X_1UsoaJk8kHlevbA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một tháng trước",
+        "text": "đồ ăn dở đặc biệt mỳ ý , viên chiên , cơm rang\nbỏ tiền ăn kh đáng",
+        "time": 1772933297,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Ngọc Ngân",
+        "author_url": "https://www.google.com/maps/contrib/101858183185881140348/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkUocKlBTWAPB8tXChrWT3pC0Av9OCBdDXlZeLvTXEouPPBjtd=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Buffet sáng, cơm thì thiu, gà kho thì sống, bắp luộc thì cũ, dưa hấu thâm đen gần hạt, gà quay đồ cũ hấp lại, nhạt, bở, lạnh ngắc. Đồ ăn đa số đều nguội lạnh và cũ, hỏng. Kết quả là ăn buffet mà ăn được mỗi chén cháo trắng với trứng muối và 2 cái ốp la 😀",
+        "time": 1749692091,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Nguyễn Ngọc Hải",
+        "author_url": "https://www.google.com/maps/contrib/103880321263847165148/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxHgOutQaepRnH2I-glN69ExCcUlmaoXw0Jbga4oZlfmX7VvGM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "2 năm trước",
+        "text": "Nhà hàng này hay được các đoàn du lịch book để ăn sáng hoặc trưa. Không gian khá rộng nhưng phục vụ chưa được chỉnh chu. Buffet ăn sáng gồm các món từ đồ nước tới đồ khô. Đồ ăn nguội lạnh cũng không có hâm nóng cho khách. Nhà vệ sinh hơi dơ.",
+        "time": 1703567591,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1343
+  },
+  "harvested_at": "2026-04-29T13:35:35.331568"
+}

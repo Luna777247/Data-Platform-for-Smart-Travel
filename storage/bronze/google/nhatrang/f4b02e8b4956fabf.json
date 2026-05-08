@@ -1,0 +1,174 @@
+{
+  "u_key": "f4b02e8b4956fabf",
+  "original_osm_name": "LAM cafe",
+  "google_raw": {
+    "formatted_phone_number": "0905 344 396",
+    "geometry": {
+      "location": {
+        "lat": 12.2401022,
+        "lng": 109.1913835
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2414283302915,
+          "lng": 109.1927705802915
+        },
+        "southwest": {
+          "lat": 12.2387303697085,
+          "lng": 109.1900726197085
+        }
+      }
+    },
+    "name": "LAM Coffee Roastery",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:30",
+        "Thứ Ba: 07:00–21:30",
+        "Thứ Tư: 07:00–21:00",
+        "Thứ Năm: 07:00–21:30",
+        "Thứ Sáu: 07:00–21:30",
+        "Thứ Bảy: 07:00–21:30",
+        "Chủ Nhật: 07:00–21:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Chu Vân",
+        "author_url": "https://www.google.com/maps/contrib/114608980565264008915/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkb9thPV3C2dEZgJV3e3vsFDaJgct9GdVVQ4G9GUBqg-En4uyaSA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán nhỏ gọn nằm trên mặt đường khá sầm uất khách du lịch. Không gian bên trong quán mình thấy có diện tích hơi nhỏ một xíu, phù hợp với những bạn thích sự yên tĩnh. Thiết kế tối giản nhưng ấm cúng với tone màu xanh lam và ánh đèn quầy bar vàng dịu, làm cho mình thấy rất dễ chịu và chill khi thưởng thức nhâm nhi 1 tách cà phê và đọc sách tại đây. Chưa bàn về chất lượng, với mình giá menu thức uống dao động từ 35-55 cành thì cũng không quá cao so với thị trường các quán ở Nha Trang. Mình gọi 1 ly ColdBrew Cam và 1 ly đá xay Xoài thì nhất là món đá xay Xoài nó khiến mình đủ wow đấy, hương vị chua ngọt mát lạnh vừa đủ mà giá cũng rẻ nữa. Nhân viên quán cũng dễ thương, takecare khách và phục vụ cũng lịch sự. Nói chung buổi đi cà phê hôm nay mình hài lòng về quán và sẽ còn quay lại nhiều lần ",
+        "time": 1752138896,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Huy Hồ",
+        "author_url": "https://www.google.com/maps/contrib/111915797632485056985/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1IjW3q1Z1QQNTMc_1h_pXFGRXblZwBKE-99zcQlg0-Vjzu0R-_Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "quán cafe yêu thích mỗi lần đến nha trang, cafe rất ngon, pour over ngon, cold brew ngon, cafe sữa đá siêu ngon. mình đi buổi chiều uống nước ép cóc xoài, yogurt xoài cũng siêu ngon lun. quán nhỏ vừa đủ ko ồn ào rất vừa đủ rất là thích ❤️",
+        "time": 1762828335,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán nằm trong trung tâm thành phố Nha Trang.\nBạn nhân viên rất lịch sự, thân thiện.\nCà phê latte ngon.\nBên trong quán bật máy lạnh nên bước vào không khí mát dễ chịu, không bị ngộp.\nQuán chấp nhận thanh toán tiền mặt, thẻ và Airpay.",
+        "time": 1613658468,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Han Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103283222444385053379/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpFq9sMmtdyu6T2sHdXICt0kfJZPXU0iJKy9rbLWPeBIbYBfdp=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán iu thích của tui. 10 điểm tại nhớ gu khách.",
+        "time": 1769872053,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Giang",
+        "author_url": "https://www.google.com/maps/contrib/112225848296061790814/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX492gn58E8Jp5da6VyxpbZQtIR8anI7M-MeUgUKGadujl3rTIB=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán nhỏ, vào quán tràn đầy mùi cà phê rang tại chỗ làm cơn ghiền cà phê ko thể cưỡng lại",
+        "time": 1755442140,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 200
+  },
+  "harvested_at": "2026-05-02T15:37:27.016126"
+}

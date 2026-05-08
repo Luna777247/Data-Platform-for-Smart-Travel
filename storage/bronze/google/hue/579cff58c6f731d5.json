@@ -1,0 +1,173 @@
+{
+  "u_key": "579cff58c6f731d5",
+  "original_osm_name": "Loco Beer",
+  "google_raw": {
+    "formatted_phone_number": "0336 497 483",
+    "geometry": {
+      "location": {
+        "lat": 16.4680957,
+        "lng": 107.600616
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.4694463802915,
+          "lng": 107.6019712802915
+        },
+        "southwest": {
+          "lat": 16.46674841970849,
+          "lng": 107.5992733197085
+        }
+      }
+    },
+    "name": "Lô Cồ Corn.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–23:00",
+        "Thứ Ba: 06:00–23:00",
+        "Thứ Tư: 06:00–23:00",
+        "Thứ Năm: 06:00–23:00",
+        "Thứ Sáu: 06:00–23:00",
+        "Thứ Bảy: 06:00–23:00",
+        "Chủ Nhật: 06:00–23:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Vu Thanh Long NGUYEN",
+        "author_url": "https://www.google.com/maps/contrib/111195078784061544863/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_a_LFpphqnFxPtb5UOw6Rlqtbv39mNoME4Fvu2hcSTVVrRS-SXg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán có chỗ ngồi rộng rãi, thoải mái với nhiều loại ghế để lựa chọn. Trang trí đơn giản nhưng tinh tế và đẹp mắt, tạo cảm giác dễ chịu khi ngồi lâu. Nhân viên vui vẻ, nhiệt tình và phục vụ chu đáo. Đặc biệt, cà phê muối rất ngon, đáng để thử. Một địa điểm cà phê tuyệt vời tại Huế.",
+        "time": 1756427921,
+        "translated": false
+      },
+      {
+        "author_name": "bé bự",
+        "author_url": "https://www.google.com/maps/contrib/114433373131318504119/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPpUbt05dRuyRl52EBxFq1ccLJcjMIHcqMHUOY8s9wJqEzpkU=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "quán có không gian sân vườn rộng rãi, thoáng mát, giá cả phải chăng.",
+        "time": 1766807864,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Lê",
+        "author_url": "https://www.google.com/maps/contrib/113115011983616162836/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdCeB3m1NQLaqEIC-Gc8mQiu3e352apzFmD0KmU1ICR6DYCxY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán thoáng mát, không gian thư thái. Đặc biệt nhân viên phục vụ rất tận tình và chu đáo, các bạn dắt xe và hướng dẫn mình order rất dễ thương. 10 điểm lun!!!!!",
+        "time": 1772253248,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Le",
+        "author_url": "https://www.google.com/maps/contrib/104525074097194924977/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdIC_m9lVvXhmS2qqYYtpkkLEzkhhfOA-4HNpQ4ksSpNks-UQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Điều mà mình thích nhất về quán là việc quán rất thân thiện với môi trường, giảm thiểu rác thải bằng cách sử dụng cốc thủy tinh hết và ống hút giấy.các bạn nhân viên cũng rất thân thiện và chu đáo.",
+        "time": 1752941592,
+        "translated": false
+      },
+      {
+        "author_name": "Ca Dao Vo",
+        "author_url": "https://www.google.com/maps/contrib/117819308151890525673/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP_iAr9VtfihYCTRFzM7nWNXbV5FKrDmY3x-ybpaxPJODhvZM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ngồi đây sáng sớm dễ thương, có cả bàn và không gian làm việc riêng tư.",
+        "time": 1764463107,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 53
+  },
+  "harvested_at": "2026-04-30T16:07:02.010362"
+}

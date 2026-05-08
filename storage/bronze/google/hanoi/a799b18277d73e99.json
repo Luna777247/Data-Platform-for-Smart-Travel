@@ -1,0 +1,174 @@
+{
+  "u_key": "a799b18277d73e99",
+  "original_osm_name": "Cà Phê Hải Đăng",
+  "google_raw": {
+    "formatted_phone_number": "0902 012 825",
+    "geometry": {
+      "location": {
+        "lat": 20.9559796,
+        "lng": 107.0693539
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9574439302915,
+          "lng": 107.0706231302915
+        },
+        "southwest": {
+          "lat": 20.9547459697085,
+          "lng": 107.0679251697085
+        }
+      }
+    },
+    "name": "Hải Đăng Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–23:30",
+        "Thứ Ba: 07:30–23:30",
+        "Thứ Tư: 07:30–23:30",
+        "Thứ Năm: 07:30–23:30",
+        "Thứ Sáu: 07:30–23:30",
+        "Thứ Bảy: 07:30–23:30",
+        "Chủ Nhật: 07:30–23:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Quin Bui",
+        "author_url": "https://www.google.com/maps/contrib/112616022139719018863/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUODAdEN5gSOHil0t0xBMwUGZ86qIOAYVdc2kuiVdJ92VybZmw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Địa điểm ngắm hoàng hôn siêu đẹp nhé mn. View sân thượng ra biển, cáp treo. Quán rộng có cả trong nhà và ngoài trời. Mini bar. Đồ uống phong phú cafe, trà, uống cũng dc, giá cũng vừa phải",
+        "time": 1764072309,
+        "translated": false
+      },
+      {
+        "author_name": "Hwanhee Fany",
+        "author_url": "https://www.google.com/maps/contrib/113088301626658804843/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKdOOPxFpA9B4F3fx5Gmf33JYx136a0Yp_cNz1QLHRL8epknqC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mùa xuân may mắn là tên 1 loại cocktail,cùng ngắm nhìn pháo hoa bên vịnh Hạ Long nào",
+        "time": 1770122441,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Nguyễn Hữu",
+        "author_url": "https://www.google.com/maps/contrib/105132164519087087165/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVd1-VJD21FR8tsZ2ePn4uwqgPjL-t6oNQC05wlr-DVtMq8zTPi5A=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quan nằm ở đường đặng bà hát với hướng đông nam nam nam tây nam tây lên sẽ thấy buổi chiều 180 độ nhìn vịnh hạ long hết đất bãi cháy theo hướng mặt trời lặn. Ngồi sát lan can tầm 2-3 người một bàn ngắm cảnh và trò truyện thích luôn. Nhân viên ok, giá cả phù hợp với chất đồ và cảm quan view nơi này. Ngày mưa sẽ vất vả, hay đến tầm trưa tới 15h. Ngồi sáng sáng đến trưa và chiều muộn đến tối tối là oke đó nha. Trên này xem bán pháo hoa tốt nếu có ống tê lê",
+        "time": 1757468673,
+        "translated": false
+      },
+      {
+        "author_name": "Pasquali Pham",
+        "author_url": "https://www.google.com/maps/contrib/107527738125709031627/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW15LN7hDsKB3jhqo-Xl2lrp3t-QuGe19x_zdxQzfhjiq-hQadt=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán được view ngắm trứng muối khá đẹp, phù hợp cho ai thích sống ảo. Đồ uống gọi là tạm",
+        "time": 1771941635,
+        "translated": false
+      },
+      {
+        "author_name": "Thaibao Le",
+        "author_url": "https://www.google.com/maps/contrib/109616892379575943133/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZzNK1OgAtNUV1gRqDnFIyJxJRbF4EtYm3U6kS05trgEmSIaXe=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán view rất đẹp, đồ uống ok, có 1 và chỗ để ô tô. Đi tầm chiều ngắm mặt trời lặn đẹp lắm!",
+        "time": 1757038748,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 625
+  },
+  "harvested_at": "2026-04-26T16:52:26.918154"
+}

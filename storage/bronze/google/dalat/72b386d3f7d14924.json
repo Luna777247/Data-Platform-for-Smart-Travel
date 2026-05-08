@@ -1,0 +1,173 @@
+{
+  "u_key": "72b386d3f7d14924",
+  "original_osm_name": "Tín phát coffee",
+  "google_raw": {
+    "formatted_phone_number": "0299 3610 668",
+    "geometry": {
+      "location": {
+        "lat": 9.59874,
+        "lng": 105.9624715
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 9.600183230291501,
+          "lng": 105.9638641802915
+        },
+        "southwest": {
+          "lat": 9.597485269708496,
+          "lng": 105.9611662197085
+        }
+      }
+    },
+    "name": "Thuận Phát Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Thuc",
+        "author_url": "https://www.google.com/maps/contrib/109119620139479698022/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURGoEMFs_XFSgiAWjHhhu9ZP3dIGWBATBeEHYOOCpEhZNhx0Q4bA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rộng, không gian rất mát mẻ, có phòng lạnh, trang trí nhiều tiểu cảnh đẹp. Đồ ăn và nước uống ngon, giá hơi đắt nhưng hợp lý khoảng 50-100k phần. Nhà vệ sinh sạch sẽ",
+        "time": 1770788594,
+        "translated": false
+      },
+      {
+        "author_name": "Lê An",
+        "author_url": "https://www.google.com/maps/contrib/106514218961697866433/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEZ1HdGoJb-S3W7pJU62vgdS0DbT8nfuj3pwAmTLFiSOml4jE2iw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rộng rãi mát mẻ. Nhân viên đông nhiệt tình. Các món ăn sáng ngon, có món bánh ướt hơi khô bột. Một nơi đáng lưu trú và ăn sáng khi đến Sóc Trang du lịch.",
+        "time": 1770189938,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Trần (Chilly)",
+        "author_url": "https://www.google.com/maps/contrib/117543821092567877385/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6L9jR92_dFQzISjk9h-BsgrtNXW_UDzFHCNOFB4KhaEQeoubB_Q=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán rộng mát sạch sẽ đồ ăn ngon nha",
+        "time": 1772441709,
+        "translated": false
+      },
+      {
+        "author_name": "雷晋昇 Léi Jìn Shēng",
+        "author_url": "https://www.google.com/maps/contrib/110096516695029530536/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1E4YwNQk74jY0yO_yAG5huSuL7SU7EDTXF2TuTuYQ6BEJsgM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Không gian rộng rãi, sạch sẽ, thoáng mát, lịch sự, có cả khu vui chơi cho trẻ em phù hợp với gia đình có trẻ nhỏ. Thức ăn ở đây ngon. Giá phải chăng. Nhân viên phục vụ nhanh chóng.",
+        "time": 1759026691,
+        "translated": false
+      },
+      {
+        "author_name": "Đạt Nguyễn Tiến",
+        "author_url": "https://www.google.com/maps/contrib/118151886331014550186/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXNb76wT2DXAyISgF8_mjKNeBWgMoJI8dFlIUjB7gGeVyy2_1F=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Khuôn viên cực rộng, có cả chỗ cho bé chơi và bơi!!!\nĂn sáng và giải khát, giá ổn hợp lý với chất lượng món và dịch vụ.",
+        "time": 1763277157,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 215
+  },
+  "harvested_at": "2026-04-30T15:03:23.412727"
+}

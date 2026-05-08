@@ -1,0 +1,25 @@
+{
+  "u_key": "bc36f67e24b0b950",
+  "original_osm_name": "La Bella Napoli",
+  "google_raw": {
+    "formatted_phone_number": "0258 3527 299",
+    "geometry": {
+      "location": {
+        "lat": 12.2345736,
+        "lng": 109.1957116
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2359297302915,
+          "lng": 109.1970980802915
+        },
+        "southwest": {
+          "lat": 12.2332317697085,
+          "lng": 109.1944001197085
+        }
+      }
+    },
+    "name": "La Bella Napoli"
+  },
+  "harvested_at": "2026-05-02T15:08:13.879130"
+}

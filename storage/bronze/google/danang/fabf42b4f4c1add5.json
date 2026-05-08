@@ -1,0 +1,172 @@
+{
+  "u_key": "fabf42b4f4c1add5",
+  "original_osm_name": "Nhà cổ Phùng Hưng",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 15.8771915,
+        "lng": 108.3258009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8785127302915,
+          "lng": 108.3271469302915
+        },
+        "southwest": {
+          "lat": 15.8758147697085,
+          "lng": 108.3244489697085
+        }
+      }
+    },
+    "name": "Nhà cổ Phùng Hưng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–18:00",
+        "Thứ Ba: 08:00–18:00",
+        "Thứ Tư: 08:00–18:00",
+        "Thứ Năm: 08:00–18:00",
+        "Thứ Sáu: 08:00–18:00",
+        "Thứ Bảy: 08:00–18:00",
+        "Chủ Nhật: 08:00–18:00"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Tuấn Thanh",
+        "author_url": "https://www.google.com/maps/contrib/117288219954343502248/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2wUtkQ2KYucphbyyrL409uN_9FCJc23bvCiy2Fb9rrUQyJKlW=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 3,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhà cổ Phùng Hưng (Phung Hung Ancient House) là một di tích kiến trúc độc đáo tại Hội An, được xây dựng từ năm 1780 bởi một thương nhân người Việt, kết hợp hài hòa phong cách Việt - Hoa - Nhật, phản ánh thời kỳ hưng thịnh của thương cảng, vừa là nhà ở, vừa là nơi buôn bán dưới tên hiệu \"Phùng Hưng\" (mong muốn làm ăn phát đạt) và hiện là di tích quốc gia từ 1993.\nĐặc điểm nổi bật:\nKiến trúc độc đáo: Sự pha trộn tinh tế giữa văn hóa Việt Nam, Trung Hoa (phía trước) và Nhật Bản (phía sau).\nLịch sử lâu đời: Tồn tại qua nhiều thế hệ, là minh chứng cho lối sống của tầng lớp thương nhân giàu có xưa.\nTên gọi ý nghĩa: \"Phùng Hưng\" (phát đạt) thể hiện mong muốn kinh doanh thịnh vượng.\nDi sản quốc gia: Được công nhận là Di tích Lịch sử - Văn hóa cấp quốc gia năm 1993.\nVị trí: Nằm tại số 4 Nguyễn Thị Minh Khai, thuộc Phố cổ Hội An, Việt Nam.",
+        "time": 1766525862,
+        "translated": false
+      },
+      {
+        "author_name": "Cá Chạy Rông Rông",
+        "author_url": "https://www.google.com/maps/contrib/112306920628798240153/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj9dzdr15ZfIUDZ5dsQNg6enLUTh_evr6oZ0owoK2pASUSzjsc=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhà cổ có mở bán tham quan ở khu vực phố Chùa Cầu.\n\nNhà không thông thoáng. Bị kín phía sau và phần thông trần bị bịt lại.\n\nĐó là nguyên nhân dẫn tới việc ngôi nhà bị bí bách, ám mùi, vì nó không có lối thoát. Không gió, không nắng lọt vào được.\n\nÁm mùi nhiều.\n\nNgười ta chủ yếu chăm nom vào khu vực quầy lưu niệm.\n\nTừ bên trên tầng nhìn sang chùa Cầu rất đẹp.",
+        "time": 1768487362,
+        "translated": false
+      },
+      {
+        "author_name": "Tri Dung Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104584813909533638647/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTp6wkf1ha5rZ-jK4ZmewARbFIStvmWaQm9h-WsfN3s_9A80tA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đâ để lại 1 cho thế hệ mai sau 1 di tích lịch sử có ý nghĩa.",
+        "time": 1753321272,
+        "translated": false
+      },
+      {
+        "author_name": "Trọng Quyết Đinh",
+        "author_url": "https://www.google.com/maps/contrib/112775185721335939887/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJG5tWT027iCvI58lOXv4DlhHTU7UX2ZAx9Duxe4oiGLZQSmQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Một ngôi nhà cổ mang nhiều giá trị văn hoá, lịch sử",
+        "time": 1764636231,
+        "translated": false
+      },
+      {
+        "author_name": "Huyền Thanh",
+        "author_url": "https://www.google.com/maps/contrib/107426272907328948614/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG0slt2TmZKuwJFXfYb-49SJz249M91kJa71t_7k0OG_hLS8o=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Nhân viên thái độ tệ. Thấy mình người Việt đi với bạn trai vào thì lạnh nhạt liếc sơ, cắt vé kêu tự đi tham quan. Lúc mình với bạn trai đi xuống thấy bà chị thu vé đang đứng giới thiệu cho 1 gia đình nước ngoài người Pháp, mình ngồi nghe xong thắc mắc sao hồi nãy không giới thiệu cho mình thì nhăn nhó cãi to là nãy nói cho gia đình kia nghe rồi đó thì đứng nghe luôn rồi mà. Trong khi mình tới trước mà phải nghe theo gia đình khác đến sau 10 phút. Thái độ gắt gỏng. Hách dịch vl :)) Khuyên mọi người không nên mua vé chi cho phí tiền, chùa cầu đang xây lại rồi không có coi được gì mà vẫn bán vé, như lừa đảo vậy. Trên mạng nói khách việt 80k, nước ngoài 120k, mình quay lại hỏi thì nói do muốn đi 5 điểm thì phải trả 120k :))) nói chung mới vô tới cái nhà cổ này đã thấy tệ rồi. Trước khi đọc review nghĩ người Việt phân biệt đối xử với người Việt thôi. Sau khi đọc review mới biết cứ không phải tây da trắng là bị kỳ thị hết. Vì là nơi cho khách tham quan nên mình không muốn làm phiền khách khác nên bỏ đi thả nhẹ cái review cho người sau còn tránh.\nBà chị trong hình nhen",
+        "time": 1715252515,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 589
+  },
+  "harvested_at": "2026-04-28T16:39:06.810742"
+}

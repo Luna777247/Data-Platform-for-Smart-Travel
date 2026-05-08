@@ -1,0 +1,164 @@
+{
+  "u_key": "fa171c22ff237c2a",
+  "original_osm_name": "Cơm Mẹ Nấu",
+  "google_raw": {
+    "formatted_phone_number": "0888 869 333",
+    "geometry": {
+      "location": {
+        "lat": 11.9538396,
+        "lng": 108.4415793
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9551876802915,
+          "lng": 108.4429286302915
+        },
+        "southwest": {
+          "lat": 11.9524897197085,
+          "lng": 108.4402306697085
+        }
+      }
+    },
+    "name": "Tiệm cơm Mêli",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–00:00",
+        "Thứ Ba: 00:00–20:00",
+        "Thứ Tư: 11:00–20:00",
+        "Thứ Năm: 11:00–20:00",
+        "Thứ Sáu: 11:00–20:00",
+        "Thứ Bảy: 11:00–20:00",
+        "Chủ Nhật: 11:00–20:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Lina Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110688676707901889041/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSyurD_AElcS2hoAm0X9cwBkegdZ8IFE0vXL6YY8hqr2CBtMI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lên ĐL thèm cơm thì có thể ghé quán này. Menu đa dạng, không gian trên lầu thoáng mát, rộng rãi lắm. Lên món rất nhanh. Các món nêm nếm hợp vị 7/10.\n‼️Lưu ý nên gọi món lẻ, chứ ăn theo set chỉ toàn rau thôi.\nKế bên có tiệm trà, ăn cơm xong qua order khá tiện. Mình có đánh giá thêm trong ảnh, mn có thể tham khảo.",
+        "time": 1771488587,
+        "translated": false
+      },
+      {
+        "author_name": "Selina kyle",
+        "author_url": "https://www.google.com/maps/contrib/100210527281708659468/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQ8UovVgJD_RiPD0AR7c4iPGS2Zej-kQMoAt8wXsL7fo_gym4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cơm nhà Mêli (Đà Lạt) mang một bầu không khí thật sự tuyệt vời rất yên tĩnh, ấm áp và dễ chịu, kiểu bước vào là thấy chậm lại liền. Không gian nhỏ xinh, nhiều ánh sáng, cảm giác đúng nghĩa homey.\n\nĐồ ăn ngon, nêm nếm vừa miệng, mang cảm giác cơm nhà rất rõ, ăn xong thấy dễ chịu chứ không bị nặng bụng. Mọi thứ được làm khá chỉn chu, từ món ăn tới cách bày biện.\n\nMột điểm mình rất thích là ở đây còn có bán sách. Vừa ăn cơm, vừa ngắm sách, không gian kiểu calm & cozy, rất hợp cho những ai thích sự nhẹ nhàng và riêng tư.\n\nOverall, đây là một nơi perfect để ăn một bữa cơm ấm áp, nghỉ ngơi tinh thần và tận hưởng đúng chất Đà Lạt.\nDefinitely a place I’d come back to 🤍",
+        "time": 1769561450,
+        "translated": false
+      },
+      {
+        "author_name": "Review của Thăng",
+        "author_url": "https://www.google.com/maps/contrib/116966012594662047184/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv2jw50GSio77cP__vg4GrXRpR6PthaSUw1THDLBPwnPTjjFU=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Tiệm cơm nhỏ. Lúc mình đến chỉ có 1 chị chủ làm. Nhóm mình 4 người ăn no căng, vừa miệng. Cơm thì gạo cũng bình thường. Đồ ăn chuẩn vị bắc, gọi 5 món đều hài lòng.\nQuán ấm áp, bật nhạc hơi sến.",
+        "time": 1768047078,
+        "translated": false
+      },
+      {
+        "author_name": "Lan Phạm",
+        "author_url": "https://www.google.com/maps/contrib/113531087903991155560/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTxyfp5TSlKIGoM3AKPCKzn0FAtMYN6kT3YYPY1dQ6KqKm-e4F=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Canh chua nhạt, không có vị chua hay ngọt\nRau muống xào ngon, vừa ăn\nCá basa kho tộ thì mặn, cá cũng hơi bở bở á\nGà kho thì khô nhìn không bắt mắt\n2 người hết 300 hơn",
+        "time": 1771659464,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Triết Cochon",
+        "author_url": "https://www.google.com/maps/contrib/101768008734959146336/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_ZTElbmMiId5nlq-Ryz2OuB7qeqCl_vqK9lbqhuzTrjBOUSZR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Một quán cơm bình dị, đơn sơ, với những món đồ troang trí mang phong cách retro xưa cũ, thức ăn chế biến hợp khẩu vị của mình",
+        "time": 1762255359,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1301
+  },
+  "harvested_at": "2026-04-30T14:57:08.387273"
+}

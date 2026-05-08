@@ -1,0 +1,173 @@
+{
+  "u_key": "94a781efd31f8d51",
+  "original_osm_name": "Bồ Đề Chay",
+  "google_raw": {
+    "formatted_phone_number": "0965 378 643",
+    "geometry": {
+      "location": {
+        "lat": 11.9675838,
+        "lng": 108.4295772
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9688876302915,
+          "lng": 108.4308854302915
+        },
+        "southwest": {
+          "lat": 11.9661896697085,
+          "lng": 108.4281874697085
+        }
+      }
+    },
+    "name": "Quán Chay Bồ Đề",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–19:00",
+        "Thứ Ba: 06:00–19:00",
+        "Thứ Tư: 06:00–19:00",
+        "Thứ Năm: 06:00–19:00",
+        "Thứ Sáu: 06:00–19:00",
+        "Thứ Bảy: 06:00–19:00",
+        "Chủ Nhật: 06:00–19:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Khải Quang",
+        "author_url": "https://www.google.com/maps/contrib/111495273419384568225/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQQA729oqieb-DXrsUAsuE00XYmF6EiASCMcHtWhj873gqEA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán nhỏ nhỏ xinh cnh của 2 bác, ấn tượng với mình là quán rất sạch sẽ và gọn gàng, còn đồ ăn thì tuỳ khẩu vị mỗi người. Mình thấy khá oke. Giá còn bình dân nữa ạ",
+        "time": 1761803675,
+        "translated": false
+      },
+      {
+        "author_name": "Gia Hưng Đỗ Quách",
+        "author_url": "https://www.google.com/maps/contrib/107501356887829057266/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvcDBc5rxQhUI6o6SFNe90blkgJ-9IG83C3WxnJ0ZZYmEAUY2q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, hạp khẩu vị.\nGiá cả bình dân. Nhân viên thân thiện.\n1 quán đáng để mọi người ghé ăn.",
+        "time": 1771252780,
+        "translated": false
+      },
+      {
+        "author_name": "Đông Phong",
+        "author_url": "https://www.google.com/maps/contrib/100890420335628053730/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUua6I3eQL5M9jsAnxbsWQoB08UHhi-5pqjdg95xvWA8Q7Ntrlc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cơm chay ngon",
+        "time": 1768881299,
+        "translated": false
+      },
+      {
+        "author_name": "thu phuong",
+        "author_url": "https://www.google.com/maps/contrib/105672954755197771294/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA5pPCObHdaCebrMYXvoZPHRsRVAwD9kPk6cpYFxau6QQFbTLyRg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn ngon nha mọi người",
+        "time": 1763357728,
+        "translated": false
+      },
+      {
+        "author_name": "Ngộ Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100946777410194076672/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqMyJBbVDjJzs25gz_Kl-x-wEpXqUleKzXRJj7eXXS6LjfQmQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tuần trước",
+        "text": "Đồ ăn ngon, nhiều món ăn sáng, sạch sẻ hợp vệ sinh , chủ quán rất vui vẻ nhiệt tình…",
+        "time": 1776771991,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 7
+  },
+  "harvested_at": "2026-04-30T14:59:53.786441"
+}

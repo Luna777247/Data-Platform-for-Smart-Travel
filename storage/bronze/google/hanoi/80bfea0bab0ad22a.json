@@ -1,0 +1,89 @@
+{
+  "u_key": "80bfea0bab0ad22a",
+  "original_osm_name": "Khách Sạn Bách Đại Lộc",
+  "google_raw": {
+    "formatted_phone_number": "024 3393 8689",
+    "geometry": {
+      "location": {
+        "lat": 21.107005,
+        "lng": 105.433794
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.1084823802915,
+          "lng": 105.4350845302915
+        },
+        "southwest": {
+          "lat": 21.1057844197085,
+          "lng": 105.4323865697085
+        }
+      }
+    },
+    "name": "Bách Đại Lộc hotel",
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Doyl Luke",
+        "author_url": "https://www.google.com/maps/contrib/114438012475532129291/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsPnGbR2fUT3r7hJk9RYFlL03Xt-9T-SZVR7FAnWDtGkm_UJBq3g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Nhiều phòng nghỉ nhất khu vực, sức chứa trên 100 khách.\nCó karaoke, quầy bar, nhà hàng.\nCó bãi đậu xe ô tô lớn.\nPhục vụ thân thiện, gần gũi.",
+        "time": 1507910103,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Nguyễn Việt",
+        "author_url": "https://www.google.com/maps/contrib/107606132134017305194/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn1eFfuZWdaJ7AoUEtVUMtTgzYrU0eMRhOaQ0Z9xMbJudBsPAn=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Một trong những khách sạn tốt nhất trong khu vực",
+        "time": 1532870041,
+        "translated": false
+      },
+      {
+        "author_name": "Mr Minh Pham",
+        "author_url": "https://www.google.com/maps/contrib/113630055182038293712/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUekAyZzNKcLdUzXrFnJw1NRClHN9UeeYA5t2OkPEq0KPhcnCV=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "Ok trong tầm giá",
+        "time": 1591569424,
+        "translated": false
+      },
+      {
+        "author_name": "NAM VUONG THIEN",
+        "author_url": "https://www.google.com/maps/contrib/117029033332296266351/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZiTf7sfBScn1VOpksCc7rfoDezfH20q3VaHaXXtdwoUO1l_sa=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Chuẩn cho những chuyến đi xa",
+        "time": 1561860929,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Sáng Trương",
+        "author_url": "https://www.google.com/maps/contrib/103796128081938603360/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEtlhUovShTUynHD8mPKKkMX7LPz_bEuWmi7kwesNaKQoeNMiW=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "7 năm trước",
+        "text": "Ít khách",
+        "time": 1542455929,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 29
+  },
+  "harvested_at": "2026-04-27T19:58:35.324815"
+}

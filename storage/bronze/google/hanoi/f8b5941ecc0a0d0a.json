@@ -1,0 +1,173 @@
+{
+  "u_key": "f8b5941ecc0a0d0a",
+  "original_osm_name": "Nhà Hàng Ladybird",
+  "google_raw": {
+    "formatted_phone_number": "024 3926 1863",
+    "geometry": {
+      "location": {
+        "lat": 21.0358747,
+        "lng": 105.851488
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0371902802915,
+          "lng": 105.8528478302915
+        },
+        "southwest": {
+          "lat": 21.0344923197085,
+          "lng": 105.8501498697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Ladybird Cafe and Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:30",
+        "Thứ Ba: 07:00–22:30",
+        "Thứ Tư: 07:00–22:30",
+        "Thứ Năm: 07:00–22:30",
+        "Thứ Sáu: 07:00–22:30",
+        "Thứ Bảy: 07:00–22:30",
+        "Chủ Nhật: 07:00–22:30"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Thảo Vy",
+        "author_url": "https://www.google.com/maps/contrib/106339471543952054910/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVONDt11cPOy1FnvHmJUTWNVyWQR4NqTW2e15b8jLR5DYlRdWE=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhà Hàng Ladybird Cafe and Restaurant tại 56 P. Hàng Buồm là một điểm đến tuyệt vời cho những ai tìm kiếm sự kết hợp giữa ẩm thực và không gian cà phê thư giãn ở phố cổ Hà Nội. Quán có không gian ấm cúng, được thiết kế với phong cách thanh lịch, tạo cảm giác thoải mái và sang trọng. Menu đa dạng với cả món ăn địa phương và quốc tế, cùng với các loại đồ uống phong phú, từ cà phê đến trà và nước ép. Đồ ăn được chế biến tỉ mỉ, hương vị độc đáo, còn đồ uống thì chất lượng. Dịch vụ chuyên nghiệp và tận tâm, nhân viên luôn niềm nở. Đây là một lựa chọn lý tưởng cho bữa ăn gia đình hay buổi hẹn hò. Để nâng cao trải nghiệm khách hàng, Nhà Hàng Ladybird có thể tích hợp Tuneast. Tuneast sẽ giúp quán tạo ra một không gian âm nhạc phù hợp với từng thời điểm, đồng thời cho phép khách hàng chọn nhạc, làm cho bữa ăn và những khoảnh khắc thư giãn thêm phần hoàn hảo.",
+        "time": 1770898134,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Tuan Pham",
+        "author_url": "https://www.google.com/maps/contrib/116799234365698217288/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDAzf8EJjlpLX4PRWBXi_ET8BXNUF35B2WNADhDLz_-BUFJLk9=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Ngon hợp lý",
+        "time": 1580118634,
+        "translated": false
+      },
+      {
+        "author_name": "Serena Woodhouse",
+        "author_url": "https://www.google.com/maps/contrib/117187761895928116124/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmlGmRwdaIDreVyHLNSzKZFcPIkcx5E61Ny9VMb8YLBltykHK5fQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Phở bò ngon. Tuim là người giỏi nhất. Hãy trả thêm tiền cho anh ấy.",
+        "time": 1694785918,
+        "translated": true
+      },
+      {
+        "author_name": "Nam Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/118198280724662036727/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLcZxLZNIei10kfO__UEPV5cOtyFrwu-pBMzbUs5jcvThz2JA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Một địa điểm tuyệt vời để dùng bữa tại khu phố cổ. Món ăn rất ngon và tuyệt vời. Thực sự rất ngon!",
+        "time": 1469974775,
+        "translated": true
+      },
+      {
+        "author_name": "이성연",
+        "author_url": "https://www.google.com/maps/contrib/110877147908721267065/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlqYG93WpVQMEsWOK4LP0OzcCrfcJxgdj8dp5vav2DxGKaCQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Tiep rất tốt bụng và đối xử tốt với tôi.",
+        "time": 1703595098,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 26
+  },
+  "harvested_at": "2026-04-28T16:19:38.953018"
+}

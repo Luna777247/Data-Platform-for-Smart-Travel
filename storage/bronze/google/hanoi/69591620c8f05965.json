@@ -1,0 +1,173 @@
+{
+  "u_key": "69591620c8f05965",
+  "original_osm_name": "Cà Phê B59",
+  "google_raw": {
+    "formatted_phone_number": "024 2214 1616",
+    "geometry": {
+      "location": {
+        "lat": 20.9996922,
+        "lng": 105.8186775
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.00105853029151,
+          "lng": 105.8199808802915
+        },
+        "southwest": {
+          "lat": 20.9983605697085,
+          "lng": 105.8172829197085
+        }
+      }
+    },
+    "name": "B59 Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "David Jesseson",
+        "author_url": "https://www.google.com/maps/contrib/104902262861360453574/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5n_PmVZYG79ooE05BLGc3VnXbYurlI1LXVckFvw4cUm0jEdE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Trải nghiệm Bonding nhóm 40 người tại B59 coffee:\n- Phòng sk không gian cao rộng cho nhóm 40-60 người, có sân khấu loa máy chiếu. Sân khấu nên có cầu thang đệm lên xuống 2 bên. Loa mic dùng tốt.\n- Nhân viên trách nhiệm, có hỗ trợ setup cho sự kiện.\nXin cảm ơn quán nhiều ạ.",
+        "time": 1772363700,
+        "translated": false
+      },
+      {
+        "author_name": "tú anh",
+        "author_url": "https://www.google.com/maps/contrib/114150629008907722117/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu57or4W5dPYqjcET35_QDyADzCoUaRhYuy7JOcYziqJ5hj5Df=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán phục vụ nước ngon, hỗ trợ event hết mình. Bên mình tổ chức event tại tầng 2 của quán, rất rộng rãi và sạch sẽ, nhân viên quán nhiệt tình. Rất phù hợp với đơn vị nào cần không gian tổ chức họp mặt cỡ vừa.",
+        "time": 1769874146,
+        "translated": false
+      },
+      {
+        "author_name": "Ăn Hại Dễ Thương",
+        "author_url": "https://www.google.com/maps/contrib/111230077120608503942/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtzOlwzuSlsUZITIqYebfu4cSz_gbY7urqyhUKlFLrLdzQBNA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "7 tháng trước",
+        "text": "Không gian tầng 1 khá ổn, sáng sủa có bàn ngồi học hoặc làm việc. Đồ uống thì không hợp khẩu vị mình, uống thử rất nhìu ở quán và đều không ưng. Không gian tầng 2 thì có 1 khu cho thuê để tổ chức mấy sự kiện nhỏ nhỏ, 1 khu bên ngoài thì sẽ nóng vì ngoài trời và ít quạt, bàn ghế thì do để ngoài trời nên nhìn cứ cũ cũ. Thái độ nhân viên không thân thiện lắm",
+        "time": 1758606612,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Minh Anh",
+        "author_url": "https://www.google.com/maps/contrib/104827968975094146944/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLD1Oc4ocH-m9Ns9sEUkGO6rmydutKxwjvOWRxChc23E_yQBsU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đây là rì viu của mình sau trải nghiệm ở quán vào ngày 6/9 vừa qua ạ hihi. Quán trả lời tin nhắn và hỗ trợ cũng rất nhiệt tình, được mượn các đồ sẵn bên quán, và cũng có nhân viên hỗ trợ trong quá trình setup âm thanh và hình chiếu, đồ nước của quán cũng khá oke và khi gọi thì đồ lên cũng khá nhanh, không phải chờ đợi lâu, đồ uống cũng khá ngon và hấp dẫn, có nhiều lựa chọn để chọn lựa. Bên bọn mình có cả ban nhạc biểu diễn, hệ thống âm thanh của họ khá là oke chỉ có màn chiếu là còn cần cải thiện để đỡ mờ xíu thui ạ.Và điều mình thích nhất đó là sau khi mình tổ chức sự kiện xong bên quán họ cũng có hỗ trợ dọn dẹp tất cả, nên là rất ưng ạ 😍😍",
+        "time": 1757469475,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Phú Phạm",
+        "author_url": "https://www.google.com/maps/contrib/108321205622210080425/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjyA0Xuj1EfJmIDjqKvNsLzKbYa8e9O7nbyFNjlueJG0h3j7zp=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không gian thoáng đãng, rộng rãi; nhân viên dễ thương, nhiệt tình nên tạo cảm giác rất thoải mái. View quán thì xinh khỏi bàn, nhìn là mê ngay",
+        "time": 1768713354,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 377
+  },
+  "harvested_at": "2026-04-27T19:57:55.125311"
+}

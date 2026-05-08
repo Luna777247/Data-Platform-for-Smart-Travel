@@ -1,0 +1,109 @@
+{
+  "u_key": "a10a20bf8c444c2f",
+  "original_osm_name": "Khách sạn Công Đoàn",
+  "google_raw": {
+    "formatted_phone_number": "0908 097 557",
+    "geometry": {
+      "location": {
+        "lat": 10.342547,
+        "lng": 107.0778502
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3437687302915,
+          "lng": 107.0790859302915
+        },
+        "southwest": {
+          "lat": 10.3410707697085,
+          "lng": 107.0763879697085
+        }
+      }
+    },
+    "name": "Khách sạn Công Đoàn Vũng Tàu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "HongVui HaThi",
+        "author_url": "https://www.google.com/maps/contrib/117177863084778333511/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-P32vrGaw1oeHshyaSoUsKShsk-sGSGi4PecGjabvFhz9dKM3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ks sạch sẽ Nhân viên ks nhiệt tình, có chỗ để xe rộng, bên cạnh có đầy đủ dịch vụ, có ăn sáng\nđặc biệt là nhân viên nhà ăn ( A Hải) rất chu đáo nhiệt tình",
+        "time": 1764466211,
+        "translated": false
+      },
+      {
+        "author_name": "Team Lee",
+        "author_url": "https://www.google.com/maps/contrib/110297216712477143378/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0vo0GpzAxtA9yJVKhljxUWaGuV1m2IArQQGp5mQoXmZ_MGDw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khách sạn nhà nước, nên quản lý tệ. Mọi thứ cái gì cũng cũ cũ.",
+        "time": 1769836963,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Đình Lực",
+        "author_url": "https://www.google.com/maps/contrib/107306257379072811162/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0yAYQVX6Bi51VdFETHtepP11CNs9xzpdWkqvLH_6l00VHkXn4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Nhân viên khách sạn rất thân thiện, tận tình. Món ăn làm tươi và đầy đặn, tôi thuê hội trường tổ chức đào tạo cho NV công ty, giá hợp lý, trang thiết bị đầy đủ và các bạn hỗ trợ rất nhiệt tình.",
+        "time": 1755143710,
+        "translated": false
+      },
+      {
+        "author_name": "Lee Anh",
+        "author_url": "https://www.google.com/maps/contrib/114769338334631096190/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYcxbBZ7Gpkvj_8Rna9ccDcjTJ84vKX8K1PGu5l_c7rfRpzXOwCA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Vị trí ksan với chỗ để xe rất thoải mái. Phòng tạm được wc hôi. Phòng khá cũ tuy có cải tạo ko có thang máy. Giá phòng cũng tạm chấp nhận được",
+        "time": 1743983782,
+        "translated": false
+      },
+      {
+        "author_name": "Hitori Ayumi",
+        "author_url": "https://www.google.com/maps/contrib/114214176280692503454/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm0QzW0K-ZdXW4Yvfi2gigbTFxWxf0yOzUUAnOe2hMncUZcPHg9w=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng khá thoáng, sạch. Nhân viên thân thiện, nhiệt tình.\n3 tầng, không thang máy. Có bãi đậu xe",
+        "time": 1751797623,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 480
+  },
+  "harvested_at": "2026-05-03T19:43:07.623072"
+}

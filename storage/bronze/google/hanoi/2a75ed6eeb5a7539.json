@@ -1,0 +1,109 @@
+{
+  "u_key": "2a75ed6eeb5a7539",
+  "original_osm_name": "Khách Sạn Hanoi La Storia",
+  "google_raw": {
+    "formatted_phone_number": "024 3719 1375",
+    "geometry": {
+      "location": {
+        "lat": 21.0358103,
+        "lng": 105.8477601
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0371708302915,
+          "lng": 105.8490512802915
+        },
+        "southwest": {
+          "lat": 21.03447286970849,
+          "lng": 105.8463533197085
+        }
+      }
+    },
+    "name": "Hanoi La Storia Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Đức Minhh",
+        "author_url": "https://www.google.com/maps/contrib/112743235418889169265/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcb-J40_J8tv7OrAn5I5W7kXSF4MIpVHYaigVcJGDixk2yq9JV=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn ngay trung tâm phố cổ, vị trí rất thuận tiện, nằm ở phố kinh doanh nên tối khá yên lặng nên ko ảnh hưởng đến giấc ngủ. Các bạn staff rất thận thiện, khi mình đến còn giúp xách hành lý. Đáng tiền sẽ quay lại.",
+        "time": 1728472107,
+        "translated": false
+      },
+      {
+        "author_name": "Nga Chu",
+        "author_url": "https://www.google.com/maps/contrib/105384989563488855521/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjCfDGq3-X47mlIgmCg3EunbQqW15uUP27221WpVVdLMi9gZVl=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Khách sạn khá lớn trong lòng phố cổ. Bên cạnh đang có xây dựng nên hơi ồn. Phòng 2 người vừa đủ dùng, hơi nhỏ xíu, nhưng tiện nghi đầy đủ. Lễ tân làm thủ tục nhanh nhẹn.",
+        "time": 1711440857,
+        "translated": false
+      },
+      {
+        "author_name": "Cong Thang Pham",
+        "author_url": "https://www.google.com/maps/contrib/105745748978698262396/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo9XdcURSmdqBzkvdCVzH3COpqq27CtfGlXM9zKDIrWNSyK_z4=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Khách sạn có mặt tiền khá lớn trong khu vực phố cổ. Phong cách châu âu hiện đại, sang trọng. Phòng tuy diện tích hơi nhỏ nhưng tiện ích đầy đủ, sạch sẽ, có đồ miễn phí, tủ lạnh, két sắt gọn gàng. Nhân viên lịch sự. Có ăn sáng miễn phí, nhiều lựa chọn. Cũng như những ks khác trong khu vực, đều không có chỗ đỗ xe ô tô, gửi ngoài 150-200k 1 đêm tùy ngày. Bù lại được cảm nhận đầy đủ về lối sống phố cổ và mùa thu Hà nội",
+        "time": 1666080509,
+        "translated": false
+      },
+      {
+        "author_name": "Tai Tran",
+        "author_url": "https://www.google.com/maps/contrib/111929340526324398990/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsmWkACpkKFDTuKZfMcVh4aIXga1H2LH25TZhFbUHbt7vno3PB=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Đanh dịch nên giá thuê phòng khá rẻ tại phố cổ. Nhân viên thân thiện, phòng nhỏ nhưng ấm áp. Chỉ có vòi sen nước nóng là không hài lòng vì chờ lâu và nếu tắt mở lại thì sau vài giây nước lạnh bắn ra. Nên sửa lại.",
+        "time": 1643188799,
+        "translated": false
+      },
+      {
+        "author_name": "フエンヴ",
+        "author_url": "https://www.google.com/maps/contrib/100289767634722237895/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVv1VKcSh1pInBz0HMWPEADxmNVlFHV0QuGuvSXidDsLN6EjztH=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "7 năm trước",
+        "text": "- Cách xưng hô của bạn lễ tân có phần mất lịch sự.\n- Áo ngủ không được trang bị đầy đủ, xuống hỏi trực tiếp thì bạn nữ quầy lễ tân nói cả khách sạn này không còn 1 cái nào nữa nên không mang cho mình được.\n2 việc trên làm mình cảm thấy khó chịu khi mới vào nhận phòng, tiền phòng không hề rẻ mặc dù đã được giảm 53% còn khoảng 620k/1 đêm, phòng rất nhỏ (cả toilet) khoảng 9~10m^2",
+        "time": 1527948928,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 373
+  },
+  "harvested_at": "2026-04-27T19:58:29.841221"
+}

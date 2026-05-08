@@ -1,0 +1,153 @@
+{
+  "u_key": "fa5d86eb212cfd01",
+  "original_osm_name": "Art Gallery",
+  "google_raw": {
+    "formatted_phone_number": "0905 357 246",
+    "geometry": {
+      "location": {
+        "lat": 15.9865328,
+        "lng": 108.2727593
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9878964302915,
+          "lng": 108.2741372802915
+        },
+        "southwest": {
+          "lat": 15.9851984697085,
+          "lng": 108.2714393197085
+        }
+      }
+    },
+    "name": "Đá mỹ nghệ Tư Hùng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–17:30",
+        "Thứ Ba: 08:30–17:00",
+        "Thứ Tư: 08:30–17:00",
+        "Thứ Năm: 08:30–17:00",
+        "Thứ Sáu: 08:30–17:30",
+        "Thứ Bảy: 08:00–17:00",
+        "Chủ Nhật: 08:30–18:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Du Tran",
+        "author_url": "https://www.google.com/maps/contrib/118224194166058951979/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV3Gvffuc3s2JHAylhe92TbvvXL8sPW0wNBklCKpPd07-IE38=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1673830560,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Đinh",
+        "author_url": "https://www.google.com/maps/contrib/104429426541226220063/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrKwAja2v3AK5KQ8kKxRCbuFFri65a7wKSlZGIDAhVEfYkkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1672811064,
+        "translated": false
+      },
+      {
+        "author_name": "Xuân Bùi",
+        "author_url": "https://www.google.com/maps/contrib/117338488432585056601/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMjR6kPXCINJHd_z8zYPp4Px_8K6DnGFQdrESYxhFdgHbAeQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 năm trước",
+        "text": "",
+        "time": 1637239565,
+        "translated": false
+      },
+      {
+        "author_name": "Liem Diep",
+        "author_url": "https://www.google.com/maps/contrib/110790394670127926348/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-vNAWPMjcIAsQ3P_k6dC2tf6sX5xGVzUpd8bTAJYHYSs_XA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "",
+        "time": 1636341708,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-28T16:38:51.238023"
+}

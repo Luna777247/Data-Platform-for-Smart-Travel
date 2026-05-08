@@ -1,0 +1,173 @@
+{
+  "u_key": "b997e7f32cbcbaf5",
+  "original_osm_name": "Little Hanoi",
+  "google_raw": {
+    "formatted_phone_number": "9810 5927",
+    "geometry": {
+      "location": {
+        "lat": 1.3056303,
+        "lng": 103.8316835
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.306859280291502,
+          "lng": 103.8331803302915
+        },
+        "southwest": {
+          "lat": 1.304161319708498,
+          "lng": 103.8304823697085
+        }
+      }
+    },
+    "name": "Little Hanoi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:00",
+        "Thứ Ba: 10:00–21:00",
+        "Thứ Tư: 10:00–21:00",
+        "Thứ Năm: 10:00–21:00",
+        "Thứ Sáu: 10:00–21:00",
+        "Thứ Bảy: 10:00–21:00",
+        "Chủ Nhật: 10:00–21:00"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Kien Pham Quoc",
+        "author_url": "https://www.google.com/maps/contrib/107797019515546564734/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlUrn-429F01wHdSvZqZYnGjP6nlaygPgYIqf_49FKuZW0kUqQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn đúng vị Hà Nội.\nKhuyên các bạn nên tới ăn nếu đã chán đồ ăn Sing mà thèm đồ ăn hương vị Việt Nam.\nCá nhân mình thấy món bún chả ở quán này làm kiểu bún trộn nhưng hương vị cảm thấy ngon hơn bún chả kiểu chan nước ở HN.",
+        "time": 1764844691,
+        "translated": false
+      },
+      {
+        "author_name": "Mihu going places",
+        "author_url": "https://www.google.com/maps/contrib/113254715749672939148/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUH8CENQZh5gTZbUNHZbrHFK7Ha-VetTHm_tUZXLVCwqSDsqYM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "The most authentic Bún Chả Hà Nội (BBQ Pork with vermicelli) in Singapore I have ever had! Excellent quality and services.\n\n---\n\nMỗi lần nhớ Hà Nội là sẽ qua đây ăn Bún Chả, ngon lắm luôn ạ. Xin cảm ơn bác chủ quán ạ!",
+        "time": 1719636923,
+        "translated": false
+      },
+      {
+        "author_name": "Hùng Nguyễn Văn",
+        "author_url": "https://www.google.com/maps/contrib/106324760381822539551/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsR4NifwfZr7ufLJa4CoC3jw-C-dPx2tai-_T444or75tYIk9q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn ngon và, rất chuẩn vị Hà Nội. Ai nhớ hương vị hà nội không thể bỏ qua địa điểm này",
+        "time": 1709020782,
+        "translated": false
+      },
+      {
+        "author_name": "Khai Truong Xuan",
+        "author_url": "https://www.google.com/maps/contrib/100538338264798543341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQO1p0B7_3uILF-Ndo_XE9AxYZej_4cxyxxra_QY2tvxP00Sxl=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Lần thứ 2 mình ghé lại quán rồi. Ngon bá cháy chuẩn vị Hà Nội luôn. Lần sau quay lại sẽ rủ thêm bạn đến trải nghiệm 👍",
+        "time": 1709020811,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Nguyễn văn",
+        "author_url": "https://www.google.com/maps/contrib/110897850888888925148/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQzGUjOGq6ebg8lZz6oE9AxnI1sLvar8KJgCTa4PfOdQyDeA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Một bữa ăn ngon trên cả tuyệt vời.hương vị đậm chất của người Hà Nội.\nTôi đã đến và chắc chắn sẽ quay lại.",
+        "time": 1709021020,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 181
+  },
+  "harvested_at": "2026-04-28T16:14:28.750370"
+}

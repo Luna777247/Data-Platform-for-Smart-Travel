@@ -1,0 +1,173 @@
+{
+  "u_key": "0c5832f2d55a3cc1",
+  "original_osm_name": "GAS station",
+  "google_raw": {
+    "formatted_phone_number": "0258 3515 005",
+    "geometry": {
+      "location": {
+        "lat": 12.2392994,
+        "lng": 109.1868255
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2407120302915,
+          "lng": 109.1881380302915
+        },
+        "southwest": {
+          "lat": 12.2380140697085,
+          "lng": 109.1854400697085
+        }
+      }
+    },
+    "name": "Cửa hàng Xăng dầu Petrolimex Số 01",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:00–23:00",
+        "Thứ Ba: 05:00–23:00",
+        "Thứ Tư: 05:00–23:00",
+        "Thứ Năm: 05:00–23:00",
+        "Thứ Sáu: 05:00–23:00",
+        "Thứ Bảy: 05:00–23:00",
+        "Chủ Nhật: 05:00–23:00"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Anh Tran",
+        "author_url": "https://www.google.com/maps/contrib/115138088381049199723/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVp2t2g824eW0bbWeOZp2fEw8E2uQhp60KZexG3otMPdS2q-HlM=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thật sự là thái độ không đáng cho 1 sao. Khách hàng đi mua xăng chứ không phải xin nhưng người bán xăng thì thái độ như thượng đế ban phát, trịch thượng",
+        "time": 1772501172,
+        "translated": false
+      },
+      {
+        "author_name": "Mei Mei",
+        "author_url": "https://www.google.com/maps/contrib/113972966112391994274/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmdz5YQtgi5TgYk45KL22bevUQ-B_5rZ6BNnvWmPje9tEjZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Thái độ nhân viên khó chịu.\nThanh toán mạng lỗi, khách hỏi hỗ trợ khó chịu. Lúc thanh toán xong khách báo cho xác nhận hoặc chụp màn hình lại cũng thái độ.",
+        "time": 1769511634,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Minh Tâm 12C2 TCNVN",
+        "author_url": "https://www.google.com/maps/contrib/118244835035504293714/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA1FYr3uhwKCLn8vj5dD0pQ5fE6tnLzhbOY973Q55mlD1QvmA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhân viên nữ quá Thái độ với khách,khó chịu,như nhược,đi làm như đi làm cha mẹ ngta k bằng",
+        "time": 1765888271,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/118146186874101402121/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyza2cIpE945XbNd7e44ZHxHIKk_BTcqL3I3j4zjVcH8ehvg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "nhân viên thái độ lòi lõm hành động cư xử khó chịu với khách hàng thất vọng",
+        "time": 1758417015,
+        "translated": false
+      },
+      {
+        "author_name": "Yen Kim",
+        "author_url": "https://www.google.com/maps/contrib/108637580008352251998/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf1sV2gLoIh47cQphNO13VT0Ytziic2NIaTmRXxHRdNdSi3Kd-Uw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Nhân viên nữ người bắc cụ thể là hôm nay16/6/2025 vào lúc 6h sáng . Nói chuyện với khách kêu khách “bước cái chân xuống mà quét mã” thái độ láo lếu , chuyển khoản mà không tự check lại còn bảo nguyên tắc khách phải báo với nhân viên nhưng lời lẽ rất bậm trợn , mất dạy !",
+        "time": 1750043839,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 169
+  },
+  "harvested_at": "2026-05-02T16:09:07.010960"
+}

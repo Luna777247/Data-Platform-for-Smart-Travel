@@ -1,0 +1,89 @@
+{
+  "u_key": "7272d8f21d7bbdbd",
+  "original_osm_name": "Choco Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0258 6287 379",
+    "geometry": {
+      "location": {
+        "lat": 12.2392834,
+        "lng": 109.1936159
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2406269302915,
+          "lng": 109.1948980802915
+        },
+        "southwest": {
+          "lat": 12.2379289697085,
+          "lng": 109.1922001197085
+        }
+      }
+    },
+    "name": "Choco coffee",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Phuong Cap",
+        "author_url": "https://www.google.com/maps/contrib/115623818291767337796/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTDzpS0yn628bRXURg15Pu_HKIfFzFCTbPhi19tKGoXffA1Z63=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Vô tình ghé quán khi đang tìm nơi để làm việc gần nhà. Không gian quán khá yên tĩnh, lại có góc ban công nhỏ riêng tư. Menu nước đa dạng, mình không biết quán có chuyên cà phê không, nhưng món cà phê muối ở quán khá ngon, hợp khẩu vị mình.\nNhất định sẽ ghé lại!!",
+        "time": 1677651176,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Phạm thi hoàng",
+        "author_url": "https://www.google.com/maps/contrib/117844471883789676304/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhXOn1NkZ6l0AXGG2J0S-_gi8r48v5r23yUALng24RUOXcFrAy=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ uống và bánh đan mạch ngon. Có bánh mì Hàn Quốc để lâu nên bánh cứng. Quán hợp ngắm đường phố, giá cả hợp lý",
+        "time": 1707972417,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Phuong",
+        "author_url": "https://www.google.com/maps/contrib/117592170393099338952/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDgZJlGJf0JhQx_pOqWjwaIf4ra9-5LtzlXG4pixKEFIdwHuQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán nhỏ nhưng xinh, thích hợp chụp mẫu sản phẩm hoặc đi cùng nhóm bạn",
+        "time": 1678863534,
+        "translated": false
+      },
+      {
+        "author_name": "Trường Nguyễn Minh",
+        "author_url": "https://www.google.com/maps/contrib/107542395302983389104/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe2c5mnu8bxYjKwJaXRbh2OV6WsutGnB_hdJN6MftzkLSgFrpr=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Thức uống ok. Nhưng cái bàn trước mặt mình rất dơ nha. cả sofa cũng vậy. mong quán khắc phục.",
+        "time": 1692114139,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyên Thảo",
+        "author_url": "https://www.google.com/maps/contrib/109656496825601134021/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDcY-vyEd0ichGeZpw0WbNzBT8qT9Hk9VdT1QHVkusm1pA1gzE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Thức uống quen thuộc, ko đặc sắc, khá ngọt. Giá khá ok so với vị trí, tầm 35-45k. Tầng trệt mới có ghế ngồi chứ mấy tầng trên toàn ngồi trệt. Trang trí cũng khá dễ thương",
+        "time": 1697082509,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 105
+  },
+  "harvested_at": "2026-05-02T15:38:10.310708"
+}

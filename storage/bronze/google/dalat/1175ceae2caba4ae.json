@@ -1,0 +1,174 @@
+{
+  "u_key": "1175ceae2caba4ae",
+  "original_osm_name": "Nem Nướng , Bánh tráng nướng , Bánh mì chấm",
+  "google_raw": {
+    "formatted_phone_number": "0946 472 025",
+    "geometry": {
+      "location": {
+        "lat": 11.9435572,
+        "lng": 108.4311493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9448712802915,
+          "lng": 108.4325376302915
+        },
+        "southwest": {
+          "lat": 11.9421733197085,
+          "lng": 108.4298396697085
+        }
+      }
+    },
+    "name": "Quán Nem Nướng Cô Thu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–21:00",
+        "Thứ Ba: 11:00–21:00",
+        "Thứ Tư: 11:00–21:00",
+        "Thứ Năm: 11:00–21:00",
+        "Thứ Sáu: 11:00–21:00",
+        "Thứ Bảy: 11:00–21:00",
+        "Chủ Nhật: 11:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Tiến Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106320617291789670953/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjpgtLLFsdqyaBYJn2ov098rzEQLzYAJIb7ph2iU4zyv7P9-d9=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Một sự lựa chọn ăn trưa ở Đà Lạt khá ổn nếu bạn đã ngán những món đặc trưng khác ở đây.\n\nChưa quá ngon so với một vài quán ở sài gòn mình từng ăn, nhưng vị khá ổn, đặc trưng.\nGiá cả cũng phải chăng, 1 phần cỡ 55k, trong hình là mình kêu 2 phần cho 2 người là ăn vừa no.\n\nCô chủ nhiệt tình, xin gì cho đó.\n\nCó chỗ đậu ô tô",
+        "time": 1766324813,
+        "translated": false
+      },
+      {
+        "author_name": "thu nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103905755103676013642/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoQ3Ap-p1euk6gVCqC_32GmgpmW0XW6EFwiQzhxPNdQtUNMw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "-Cô lớn tuổi chắc chủ quán rất khó chịu\n-Ngồi bàn trong sẽ nghe rõ cô nói xấu các bàn khách vì những lý do lạ lùng:\n+Vô mà k gọi k đủ phần, dù là 4 khách gọi 3 phần (do có 1 con nít), mặc định 1 khách là 1 phần, k cần biết nhóm khách có con nít k\n+Khách đt tới đặt món (nghe sơ cuộc nói chuyện thì nghĩ là khách quen) vừa mới cúp máy cô lập tức nói lời lẽ khó nghe cho vị khách đó\n+Khách mới tới 1 lần, k biết quán k có trà đá nên gọi, cô cũng khó chịu\nPhần ăn cũng bình thường, k ngon k dở, nhưng làm dịch vụ mà thái độ xéo xắt thì nên xem lại",
+        "time": 1771752054,
+        "translated": false
+      },
+      {
+        "author_name": "uong mai",
+        "author_url": "https://www.google.com/maps/contrib/107216657540928374892/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOzBApsGqeuIf4eux5uw1f8e2ripNR86cAjOyqmYmO4HHWlg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Xuất sắc.\n- nem nướng ngon\n- ram giòn rụm\n- rau nhiều\n- có hành muối rất ngon, lạ miệng\n- nước chấm cũng ngon\n- nước sâm cũng ngon luôn\n- cô chủ siêu dễ thương, còn đưa sẵn thêm nước chấm để tránh khách ngại ko dám gọi xin thêm\n- giá cả hợp lý: 1 suất 55k và nước sâm 10k. No tới chiều.\nNói chung là không thể không 5 sao được",
+        "time": 1759386547,
+        "translated": false
+      },
+      {
+        "author_name": "Bơ",
+        "author_url": "https://www.google.com/maps/contrib/114552935979730115466/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWt9KaviZ_m7shMJMrshqb16gBBbTS9sFTHELK_70XM5ZJZc7D_4w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán nem nướng lâu đời ở ĐL, cô chú nhiệt tình thân thiện. Nem nướng với nước chấm vừa vị, ổn. Giá 55k cho một phần thì cũng phải chăng, nước chấm theo khẩu vị mình mặn thêm xíu ăn sẽ đỡ ngán hơn.",
+        "time": 1760201219,
+        "translated": false
+      },
+      {
+        "author_name": "Ford Stan",
+        "author_url": "https://www.google.com/maps/contrib/109817572872530055112/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS4-cr1gwjI4QOOPYHRzMRXb9HCkqOjPdRFupZ9c7EH_8fN8o=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đây là một trong những quán nem nướng Ninh Hoà ngon và no ở quanh trung tâm nên ghé qua. Chỉ 55K/phần/người no quên lối về. Quán sạch sẽ, không gian ấm cúng🥰.\nSẽ ghé lại lần nữa👍",
+        "time": 1759242487,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 619
+  },
+  "harvested_at": "2026-04-29T13:39:19.823680"
+}

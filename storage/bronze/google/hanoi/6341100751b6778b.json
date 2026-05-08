@@ -1,0 +1,163 @@
+{
+  "u_key": "6341100751b6778b",
+  "original_osm_name": "Nhà Hàng Chay Liên Hoa",
+  "google_raw": {
+    "formatted_phone_number": "0904 943 276",
+    "geometry": {
+      "location": {
+        "lat": 21.0285146,
+        "lng": 105.8262001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0299262302915,
+          "lng": 105.8274967302915
+        },
+        "southwest": {
+          "lat": 21.02722826970849,
+          "lng": 105.8247987697085
+        }
+      }
+    },
+    "name": "Chay Liên Hoa - Cơm chay tự phục vụ",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–13:30",
+        "Thứ Ba: 10:00–13:30",
+        "Thứ Tư: 10:00–13:30",
+        "Thứ Năm: 10:00–13:30",
+        "Thứ Sáu: 10:00–13:30",
+        "Thứ Bảy: 10:00–13:30",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Freedom Peace",
+        "author_url": "https://www.google.com/maps/contrib/117691784472751575869/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc828karzCeVlViya62a6NPP3CEyqM7rx0jb6blJML-YrNiA1M=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán chay vừa ngon vừa rẻ, buffet cơm là 40k quán bán từ khoảng 10-14h trưa hàng ngày, mn có thể đến sớm để có nhiều món ngon, đến muộn thì ít món hơn vì ngon nên hết. Quán có nước ép hoa quả đồng giá 20k, trà thảo mộc như trà xạ đen quán bán từ 6h sáng\n\nMón ăn của quán món nào cũng rất ngon 😋, mình thích nhất là món đậu phụ giả trứng chiên lá ngải, món nấm chiên. Quán hình như không dùng ngũ vị tân nữa\n\n2  chú bán đồ ở quán rất hiền và nhẹ nhàng",
+        "time": 1765874973,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Ngân Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/112883440597485442334/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD9UqUhjEz4pZpsHkzC4aO70hZggzRZJOUf5qiYpG2PXDlF-o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ở đây rất ngon và hợp khẩu vị của mình ạ\nMình sẽ quay lại lần sau, mình cảm ơn nhiều ạ❤️",
+        "time": 1761374569,
+        "translated": false
+      },
+      {
+        "author_name": "Cuong Hoang",
+        "author_url": "https://www.google.com/maps/contrib/104213475643063518539/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIN652CVCxmuOgaROxoR0SJLYP5alEf7kVfKgBCAnHxRhhchw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một nơi phù hợp với các bạn theo đạo phật hoặc ăn chay cải thiện sức khoẻ. Cám ơn chủ quán!",
+        "time": 1772096959,
+        "translated": false
+      },
+      {
+        "author_name": "Official Trương Chúc Linh",
+        "author_url": "https://www.google.com/maps/contrib/113364116771027615384/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsWepCvPOoYITt1f9mUWPSgqChKumpY-Ej0F-3r7YrZ239f6a7Qg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Mới nhìn vô quán thì mình nghĩ chắc đồ ăn không ngon đâu, buffet gì mà nhỏ xíu. Nhưng mình đã sai hoàn toàn.\n\n+ Món ăn tầm 10-15 món tổng cộng\n+ Đồ ăn được nấu rất cẩn thận, lên đồ vừa phải, khách ăn gần hết sẽ lên thêm để đồ ăn luôn được nóng.\n+ Có gạo trắng và gạo tím, gạo tím cực ngon, nấu vừa phải, thơm.\n+ Nước ngô và mè đen siêu ngon, mà giá rất rẻ.\n+ Suất ăn có 40k/người, rất rẻ so với chất lượng.\n+ Cô chú ở đây rất tử tế và chu đáo.",
+        "time": 1683698181,
+        "translated": false
+      },
+      {
+        "author_name": "An Hoe",
+        "author_url": "https://www.google.com/maps/contrib/100638788960311059325/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVj1W1QfYrYToJHTlVmVXmVO4d2tntMuPx2H20LFNqgKHJf7zaP=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán chay mở đã được một năm gần Đài Truyền hình nhưng ở trong hẻm nên có lẽ không nhiều người biết. Quán bán buffet chay tới cỡ 2g chiều và có bán một số món chay khác. Đồ ăn rất ngon, làm kĩ và sạch sẽ. Khách ra vô liên tục nhưng không quá đông đúc, nhưng đồ ăn được ra luôn nên ngon và nóng. Chị chủ dễ thương, nhẹ nhàng, nhớ khách.",
+        "time": 1620459355,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 20
+  },
+  "harvested_at": "2026-04-28T16:32:33.420906"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "94623ea740345597",
+  "original_osm_name": "Pho Reu",
+  "google_raw": {
+    "formatted_phone_number": "0983 211 114",
+    "geometry": {
+      "location": {
+        "lat": 15.8804608,
+        "lng": 108.3422527
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8818534802915,
+          "lng": 108.3435313802915
+        },
+        "southwest": {
+          "lat": 15.8791555197085,
+          "lng": 108.3408334197085
+        }
+      }
+    },
+    "name": "Phố Rêu restaurant - coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "corine Artis",
+        "author_url": "https://www.google.com/maps/contrib/115221793332302886273/reviews",
+        "language": "vi",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPDnpu9qkgCyjnOw2kgABxRTb_O2XSSIP9BuFIpf0DoqWxKQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhà hàng tuyệt vời, đồ ăn ngon, giá cả hoàn toàn hợp lý. Và món sữa chua với trái cây tráng miệng thật sự rất ngon! 🫣😄 Sự đón tiếp rất nồng nhiệt, chủ quán rất thân thiện. Đây là địa điểm chúng tôi thường xuyên lui tới trong 5 ngày qua. Xem thêm...\nVà cả dịp Giáng sinh nữa! 👍👏👏🎄 Corine đến từ Pháp",
+        "time": 1766579768,
+        "translated": true
+      },
+      {
+        "author_name": "Ricardo Coelho",
+        "author_url": "https://www.google.com/maps/contrib/106055745461940180298/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5Tq68yjQQu5nriN9cU6GAN1rGXRCqFT2UeT0kzQRas-x-WlyN=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn Việt Nam chính gốc tuyệt vời! Chúng tôi đã quay lại nhiều lần trong suốt kỳ nghỉ. Tôi khuyên bạn nên thử món Cao Lao, Phở bò và Phở gà, và há cảo hoa hồng trắng. Sinh tố cũng rất ngon, được làm từ trái cây tươi.",
+        "time": 1769252886,
+        "translated": true
+      },
+      {
+        "author_name": "Lilou Cousseau",
+        "author_url": "https://www.google.com/maps/contrib/105513882877880613756/reviews",
+        "language": "vi",
+        "original_language": "fr",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5GsDCZIJ-QeL9snS3gPHaukxJPz5Cj2h9uCyjlj5MN3fehizJ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhà hàng tuyệt vời! Các món chúng tôi gọi đều rất ngon, nhân viên rất thân thiện, và giá cả rất hợp lý. Có lẽ đây là một trong những nhà hàng địa phương ngon nhất mà tôi từng ăn trong chuyến đi 20 ngày đến Việt Nam.",
+        "time": 1768636686,
+        "translated": true
+      },
+      {
+        "author_name": "Joshua Jacobs",
+        "author_url": "https://www.google.com/maps/contrib/104028313824541552892/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjqevHh6VfpWVQXLdzc-U7RjdA-ym_36wAc5d8tdTYOIhrqESD=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ngon tuyệt vời. Ngạc nhiên là ngay cả burger và khoai tây chiên cũng rất ngon (tôi là người Mỹ, tôi biết mà).\n\nHọ còn có món đậu phụ với thịt rất ngon (với rất nhiều gừng, tỏi và ớt, vị hơi giống kiểu Trung Quốc) mà lại no bụng chỉ với 50k.",
+        "time": 1759669758,
+        "translated": true
+      },
+      {
+        "author_name": "Orawan Poona",
+        "author_url": "https://www.google.com/maps/contrib/103176611321540118260/reviews",
+        "language": "vi",
+        "original_language": "th",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBmA5x7zKUX2KOfQVG3m4PikVU83uurY48Xcm-spqLK2oaBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mọi món trong thực đơn đều ngon tuyệt. Điều đáng ngạc nhiên là món nào chúng tôi gọi cũng đều rất ngon. Chúng tôi ở Hội An hai tuần và ăn ở nhà hàng này gần như mỗi ngày, thử các món khác nhau mỗi ngày, và tất cả đều ngon. Khẩu phần ăn khá nhiều, quán sạch sẽ, và giá cả thì cực kỳ phải chăng.",
+        "time": 1766843368,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 329
+  },
+  "harvested_at": "2026-04-29T09:40:01.178552"
+}

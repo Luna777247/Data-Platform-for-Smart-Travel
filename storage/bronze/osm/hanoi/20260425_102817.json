@@ -1,0 +1,6502 @@
+[
+  {
+    "u_key": "cc3d97cc1967bba7",
+    "name": "Cửa Hàng Bánh Tôm Hồ Tây",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0473212,
+      "lon": 105.8376261
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f10d1f716c13cf8d",
+    "name": "Nhà Hàng Chay Phương Nam",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0222319,
+      "lon": 105.84695
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "79e300ad7941697a",
+    "name": "Nhà hàng Nam Phương",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0217552,
+      "lon": 105.8563856
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "90d7e1f87b5b29c1",
+    "name": "Nha Hang Little Italian",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0169539,
+      "lon": 105.852831
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a2abba605f12036c",
+    "name": "Nha Hang Indochine",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Nam Ngư",
+    "location": {
+      "lat": 21.0265868,
+      "lon": 105.8430053
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2bf64762876f574f",
+    "name": "Sushi Tiger",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.028523,
+      "lon": 105.8061561
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "43f92ddaf5ba58ab",
+    "name": "Buffet Sen Tây Hồ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0741493,
+      "lon": 105.8154687
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3d589d4a14fd9493",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0708271,
+      "lon": 105.7770678
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6dde38166acb341d",
+    "name": "Trà Xuân Tửu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0297549,
+      "lon": 105.8277638
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "87edfc126cc96c17",
+    "name": "Cây Si",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0288674,
+      "lon": 105.8431006
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "edf3eb594b722ea0",
+    "name": "Nhà hàng Thành Lộc",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0083549,
+      "lon": 105.8567708
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b83de6e63ecf0e38",
+    "name": "Nhà Hàng Little Hanoi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Gai",
+    "location": {
+      "lat": 21.0321895,
+      "lon": 105.850937
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8f02037411e27784",
+    "name": "Nhà Hàng New Day",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0346545,
+      "lon": 105.853359
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "89705a6c93d937f7",
+    "name": "Quán Ăn Ngon - Phan Bội Châu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Phan Bội Châu",
+    "location": {
+      "lat": 21.0262611,
+      "lon": 105.8434161
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d02a88e6b8ea894f",
+    "name": "Xoi Van Anh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.033942,
+      "lon": 105.8546062
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e92c9b2ab4536b0d",
+    "name": "Sushi Hokkaido Sachi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trần Hưng Đạo",
+    "location": {
+      "lat": 21.0202197,
+      "lon": 105.8543053
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "27d0ba855a51f367",
+    "name": "Nhà Hàng Khazaana Indian",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0286735,
+      "lon": 105.857296
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d8116b937090664b",
+    "name": "Tandoor Indian Cuisine",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Bè",
+    "location": {
+      "lat": 21.0335791,
+      "lon": 105.8537345
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c6a06e0300b35583",
+    "name": "The King Cafe",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0348473,
+      "lon": 105.8515895
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f8b5941ecc0a0d0a",
+    "name": "Nhà Hàng Ladybird",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0357539,
+      "lon": 105.8515631
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2338cc2d295d6010",
+    "name": "Nhà Hàng Gecko",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0348198,
+      "lon": 105.8525664
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "53336b143a9ba6fe",
+    "name": "Tamarind Cafe",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0341589,
+      "lon": 105.8533099
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "be7d3784e758f396",
+    "name": "Nhà Hàng Âu Lạc Brazil II",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Cao Bá Quát",
+    "location": {
+      "lat": 21.0298564,
+      "lon": 105.8409205
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4c09f8b3b959f658",
+    "name": "Nhà Hàng Mediterraneo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0288946,
+      "lon": 105.8498777
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fd238d1739a52cbf",
+    "name": "Nhà Hàng Classico",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.025414,
+      "lon": 105.8451399
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e6c328d30104a28d",
+    "name": "Nhà Hàng La Badiane",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Nam Ngư",
+    "location": {
+      "lat": 21.0265884,
+      "lon": 105.8432573
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9dc48f9c12b0a30b",
+    "name": "Nhà Hàng Hoa Sữa",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0212237,
+      "lon": 105.8474967
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b01a59920ba3d5de",
+    "name": "Nhà Hàng Half Man Half Noodle",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0350466,
+      "lon": 105.8530045
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7b0fbdab5a26985c",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0229624,
+      "lon": 105.8517641
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f148db96ea4e726d",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phùng Chí Kiên",
+    "location": {
+      "lat": 21.0444791,
+      "lon": 105.8029168
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "629e1cd364cb5e34",
+    "name": "Pho 10",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lý Quốc Sư",
+    "location": {
+      "lat": 21.0304724,
+      "lon": 105.8488474
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d27caa6bd88ebf3c",
+    "name": "Puku",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0294934,
+      "lon": 105.8435381
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ec660ec4b5c0a915",
+    "name": "Thai Village",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lê Thái Tổ",
+    "location": {
+      "lat": 21.0320076,
+      "lon": 105.8512129
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "80d2b535d16b4eef",
+    "name": "Nhà Hàng Ba Ba",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hoàng Quốc Việt",
+    "location": {
+      "lat": 21.0460387,
+      "lon": 105.8009777
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "692fcb9bd3f3e194",
+    "name": "Toshi Fusion",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Hưng Đạo",
+    "location": {
+      "lat": 21.0200182,
+      "lon": 105.8562112
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "306714e8193cc549",
+    "name": "Nhà Hàng Duy Lê Malraux",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0313388,
+      "lon": 105.8489482
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e71962c18270f244",
+    "name": "Son Thanh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Thành",
+    "location": {
+      "lat": 21.0307814,
+      "lon": 105.8472039
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "33422ad8c3f4e64c",
+    "name": "Nhà Hàng Yakiniku Shiki",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Tre",
+    "location": {
+      "lat": 21.0336059,
+      "lon": 105.8548258
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "49f4ee127b8e974b",
+    "name": "Red bean",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0342414,
+      "lon": 105.8533178
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5b609a71e2af2211",
+    "name": "Nhà Hàng Green Mango",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Quạt",
+    "location": {
+      "lat": 21.0329639,
+      "lon": 105.8498165
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c4cfa3927745aa0c",
+    "name": "Nhà Hàng Chả Cá Văn Miếu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Văn Miếu",
+    "location": {
+      "lat": 21.0296628,
+      "lon": 105.8369362
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2b01e9e345ee8b80",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Bà Triệu",
+    "location": {
+      "lat": 21.0239241,
+      "lon": 105.8509377
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c4deb699bb7cbadc",
+    "name": "Nhà Hàng Thượng Hải",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Trãi",
+    "location": {
+      "lat": 20.996956,
+      "lon": 105.811593
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "28601bfb653aee1e",
+    "name": "Nhà Hàng Chả Cá Thủy Hồng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "12 Hàng Gà, Hoàn Kiếm, Hà Nội, Việt Nam",
+    "location": {
+      "lat": 21.0361852,
+      "lon": 105.8469741
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "85765600194453d6",
+    "name": "Nhà Hàng Lâm Ký",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.1342272,
+      "lon": 105.503133
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e406720d8588cc3a",
+    "name": "Nhà hàng Đông Thành",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.1360235,
+      "lon": 105.505606
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1cff8f4a592f5de0",
+    "name": "Osihi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0675537,
+      "lon": 105.8212455
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "00f9c5e98fe93f16",
+    "name": "Nhà Hàng Highway 4",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngõ 575 Kim Mã",
+    "location": {
+      "lat": 21.029439,
+      "lon": 105.8092811
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "576199a12e40b2c2",
+    "name": "Nhà Hàng Gecko",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Bồ",
+    "location": {
+      "lat": 21.0337414,
+      "lon": 105.8481224
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c1a44cf62ad0f096",
+    "name": "Nhà Hàng Blue Butterfly",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0347487,
+      "lon": 105.8535038
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3792984793a0bd41",
+    "name": "Nhà Hàng Essence",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngô Hai Tuong",
+    "location": {
+      "lat": 21.0345271,
+      "lon": 105.852037
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e98aaeb332d9585b",
+    "name": "Chả Cá Cà Cuống",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Chả Cá",
+    "location": {
+      "lat": 21.0356006,
+      "lon": 105.8492956
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3eae91a146582045",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0838925,
+      "lon": 105.371849
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ca7ac0c1e92691ea",
+    "name": "Cơm Cường",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Nguyễn Bỉnh Khiêm",
+    "location": {
+      "lat": 21.0174867,
+      "lon": 105.8484165
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ef04dd456ccece67",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0169407,
+      "lon": 105.8483633
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "936d52e0967e9ff8",
+    "name": "Nhà Hàng New Sake 1",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0307862,
+      "lon": 105.8194213
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "dd9846f2706cf086",
+    "name": "PAKU PAKU(波食波食）",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0307817,
+      "lon": 105.8193586
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7dcbf4ce3b5410da",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Kim Mã",
+    "location": {
+      "lat": 21.0303431,
+      "lon": 105.8159146
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "78ce121bcac14191",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0307697,
+      "lon": 105.819262
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b4fd29354806fd99",
+    "name": "Nhà Hàng Koto",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0296823,
+      "lon": 105.8102219
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8e98daa769206f82",
+    "name": "Nhà Hàng Kurama(蔵馬）",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.029746,
+      "lon": 105.810586
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5520da7b584b75bc",
+    "name": "Totoya(ととや）",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.029967,
+      "lon": 105.812293
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "91f8f6c08f420d81",
+    "name": "Izakaya Yancha",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Kim Mã",
+    "location": {
+      "lat": 21.0294166,
+      "lon": 105.8090898
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "00428f38fecce711",
+    "name": "Kitaguni",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Kim Mã",
+    "location": {
+      "lat": 21.0292029,
+      "lon": 105.8074289
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4ed9f2827c79821a",
+    "name": "Ofukuro",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Kim Mã",
+    "location": {
+      "lat": 21.0285111,
+      "lon": 105.806208
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "529dc58808cbcb20",
+    "name": "True Viet",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Âu Cơ",
+    "location": {
+      "lat": 21.0645792,
+      "lon": 105.8313838
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "21092cbf2a376ad6",
+    "name": "Quán Ăn Nhanh Lam Giang",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9790479,
+      "lon": 105.7830759
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "bcdad32a93f09af8",
+    "name": "Phở Cường",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Muối",
+    "location": {
+      "lat": 21.0339341,
+      "lon": 105.8548223
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "53ea97ebefc7249c",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0272341,
+      "lon": 105.8359517
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0c71120866e82765",
+    "name": "San Ho",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0249031,
+      "lon": 105.8452599
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a401c181ed1c6885",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.8921672,
+      "lon": 105.5699326
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b7ed5c8cefe1468b",
+    "name": "Nhà Hàng La Bicicleta - Barcelona Bistro",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Xuan Dieu Ngo 31",
+    "location": {
+      "lat": 21.061389,
+      "lon": 105.8273413
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "64c9098dae182783",
+    "name": "NP Green",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0348897,
+      "lon": 105.8538788
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "570ebad0749a5dbb",
+    "name": "Nhà Hàng Wa Japanese Cuisine",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trúc Bạch",
+    "location": {
+      "lat": 21.049334,
+      "lon": 105.839318
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a629128426b63c3c",
+    "name": "Nhà Hàng Da Paolo Westlake",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Dang Thai Mai",
+    "location": {
+      "lat": 21.0551789,
+      "lon": 105.82136
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "85b3fdced8e6b1d0",
+    "name": "Nhà Hàng Foodshop 45",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trúc Bạch",
+    "location": {
+      "lat": 21.0479061,
+      "lon": 105.8414891
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3bb940b52434432e",
+    "name": "Quán Cơm Mậu Dịch",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nam Tràng",
+    "location": {
+      "lat": 21.0455452,
+      "lon": 105.8405476
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5e0f3607976c970d",
+    "name": "Quan An Ngon",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Phan Đình Phùng",
+    "location": {
+      "lat": 21.0406918,
+      "lon": 105.8425141
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "dae8ad8252152105",
+    "name": "Phở 24",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0178536,
+      "lon": 105.7960898
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8b2fe048fce7cec4",
+    "name": "Lẩu Gà Ó O - Chicken Hotpot",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Ngụy Như Kon Tum",
+    "location": {
+      "lat": 21.0014898,
+      "lon": 105.8042979
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b7faead55cd5a44c",
+    "name": "Nhà Hàng Moto-san",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Lý Đạo Thành",
+    "location": {
+      "lat": 21.0254125,
+      "lon": 105.8577493
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f7b00b7ae107785e",
+    "name": "Nhà Hàng Kamasutra",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0343488,
+      "lon": 105.8474994
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2a85bc16a7ddf9ab",
+    "name": "Quán Thị Mẹt",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Đại Nghĩa",
+    "location": {
+      "lat": 20.9969779,
+      "lon": 105.8459666
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0ef484c3838be02a",
+    "name": "Quán Thị Mẹt",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Mai Anh Tuấn",
+    "location": {
+      "lat": 21.0185659,
+      "lon": 105.8230246
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d73c08722e020d5f",
+    "name": "Nhà hàng Yumi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Mễ Trì",
+    "location": {
+      "lat": 21.0151072,
+      "lon": 105.7814958
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6d450054af045f2a",
+    "name": "Nhà Hàng Bò Đội Nón",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Đăng Ninh",
+    "location": {
+      "lat": 21.0367552,
+      "lon": 105.7941995
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3bed2795c5d94b72",
+    "name": "Nhà Hàng Bún Việt",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phõ Láng Hạ",
+    "location": {
+      "lat": 21.0117249,
+      "lon": 105.8119169
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "28d2b8526567f078",
+    "name": "Nhà Hàng GoldMalt Sài Đồng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "No1A",
+    "location": {
+      "lat": 21.0387571,
+      "lon": 105.9044083
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8da253ed7c9b4737",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Tôn Đức Thắng",
+    "location": {
+      "lat": 21.0258945,
+      "lon": 105.8334587
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5d3c184f1f46545d",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Trãi",
+    "location": {
+      "lat": 21.0031239,
+      "lon": 105.816661
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fb8e96b45879309b",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Minh Khai",
+    "location": {
+      "lat": 20.9969652,
+      "lon": 105.8683844
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "caab3de2fd95d878",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Duy Hưng",
+    "location": {
+      "lat": 21.0072356,
+      "lon": 105.7930282
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "869509c62c7abb08",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Bà Triệu",
+    "location": {
+      "lat": 21.011391,
+      "lon": 105.8492805
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0102849fc8ab065d",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Văn Linh",
+    "location": {
+      "lat": 21.0504678,
+      "lon": 105.8932462
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "441f1dd838c6e466",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Tô Hiệu",
+    "location": {
+      "lat": 20.9642392,
+      "lon": 105.7718101
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "24e1c303e3839709",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trung Hoà",
+    "location": {
+      "lat": 21.0171583,
+      "lon": 105.799144
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "195048606aff2525",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trương Định",
+    "location": {
+      "lat": 20.9804803,
+      "lon": 105.8447867
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0b04c856dc6e72bc",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 20.9791502,
+      "lon": 105.785428
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "43445f4a271e06a4",
+    "name": "Pizza Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Phan Chu Trinh",
+    "location": {
+      "lat": 21.0188607,
+      "lon": 105.8552418
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4c750236d3a50bc2",
+    "name": "Sua Ba Vi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.1286063,
+      "lon": 105.5150576
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "86e82d499cc87d08",
+    "name": "Pho Co BaVi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0811234,
+      "lon": 105.6797269
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fba8a7f6fc67685f",
+    "name": "Sua Ba Vi ThanhHoa",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.1208847,
+      "lon": 105.5233813
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7fb689dc4ba5b34e",
+    "name": "Nhà Hàng A La Folie",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "63 Ngõ Huế, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội, Vietnam",
+    "location": {
+      "lat": 21.0146587,
+      "lon": 105.8522123
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d9847b83fce03095",
+    "name": "Nhà Hàng Little Vietnam",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302779,
+      "lon": 105.8489208
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "eb1032726113a413",
+    "name": "하노이 부라더스",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0289139,
+      "lon": 105.8408568
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0ca472af9c5768b4",
+    "name": "Nhà Hàng ATMan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0915545,
+      "lon": 105.7843466
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1f89be1ccf3c1832",
+    "name": "The American Club",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.023697,
+      "lon": 105.8541656
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "63ed1abd7dc06e8c",
+    "name": "Nhà Hàng Linh's Kitchen",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.035829,
+      "lon": 105.8532485
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8f891a362ab5fce6",
+    "name": "Bún Chẳ Đắc Kim",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Thành",
+    "location": {
+      "lat": 21.0310565,
+      "lon": 105.8472795
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "524e7cd2a57636f2",
+    "name": "Nhà Hàng Gecko",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0314523,
+      "lon": 105.8491848
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "16c2ff6700644418",
+    "name": "Nhà Hàng Daluva",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.068552,
+      "lon": 105.8244602
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d73549283b8c5123",
+    "name": "Curry House Maiya",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0371094,
+      "lon": 105.8522312
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e00943c725833f19",
+    "name": "Chops",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Quảng An",
+    "location": {
+      "lat": 21.0625869,
+      "lon": 105.8291428
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6f8ba8c4923e1063",
+    "name": "Nhà Hàng The Moose & Roo Pub & Grill",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0613457,
+      "lon": 105.8317362
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f161f194d725760c",
+    "name": "Rue Lamblot",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lý Quốc Sư",
+    "location": {
+      "lat": 21.0306212,
+      "lon": 105.8487741
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7d487b9da5170745",
+    "name": "Nhà Hàng Green Tangerine",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0326873,
+      "lon": 105.8537575
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f3b0387513baa2ac",
+    "name": "number 1",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0323464,
+      "lon": 105.84816
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0aa881385ce7359c",
+    "name": "Pho Thin",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lò Đúc",
+    "location": {
+      "lat": 21.0170351,
+      "lon": 105.8559963
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3d2550e082b1ba63",
+    "name": "Nhà Hàng Lotus Blanc",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Chân Cầm",
+    "location": {
+      "lat": 21.0306071,
+      "lon": 105.8487452
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f9d7b125028f7393",
+    "name": "Vườn sinh thái Ngọc Linh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.2718578,
+      "lon": 105.8155193
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "46670d80d8d6cfd2",
+    "name": "Khách Sạn Haneul",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Thể Giao",
+    "location": {
+      "lat": 21.0140828,
+      "lon": 105.8479487
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e10b095f3fa3bf04",
+    "name": "Xoi Yen",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Hữu Huân",
+    "location": {
+      "lat": 21.0337675,
+      "lon": 105.8545363
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "32a31a6e1df8afeb",
+    "name": "Quán thịt trâu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0637554,
+      "lon": 105.9079524
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "25d144c64e2332c5",
+    "name": "The sushi club",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0625927,
+      "lon": 105.8291621
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3e0c4a7cb080bfa7",
+    "name": "Cửa Hàng Bia Hơi Hà Nội",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Bát Đàn",
+    "location": {
+      "lat": 21.0336801,
+      "lon": 105.8462281
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9a4a29ddbf71c238",
+    "name": "Quan kien - bug place",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0542709,
+      "lon": 105.8371458
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f17288f73d4a37c7",
+    "name": "Ray Quan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0278549,
+      "lon": 105.8412825
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a6f80b03dd2ce429",
+    "name": "Nhà Hàng Gia Ngu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Gia Ngư",
+    "location": {
+      "lat": 21.0331038,
+      "lon": 105.8525285
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "25d2a030fe31040a",
+    "name": "Nun Changed Dac Kim-분짜",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Mành",
+    "location": {
+      "lat": 21.0322599,
+      "lon": 105.8482188
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8cd088089d195ef8",
+    "name": "The Hung Snake Rétaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Le Mat - Việt Hung - Long Biến - Hanoi",
+    "location": {
+      "lat": 21.0560448,
+      "lon": 105.8982143
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "bcba349ee7716565",
+    "name": "Bánh Xèo Zòn",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0312016,
+      "lon": 105.8557772
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6b3d79c7e1995b09",
+    "name": "Cửa Hàng Bún Chả Hương Liên",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lê Văn Hưu",
+    "location": {
+      "lat": 21.0180504,
+      "lon": 105.8538843
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "28bb5ef97d9c9df1",
+    "name": "Cửa Hàng Bít Tết Hai Tý",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0356505,
+      "lon": 105.8508651
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6c10f931cba83783",
+    "name": "OiShi Ngon",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Tây Sơn",
+    "location": {
+      "lat": 21.0109329,
+      "lon": 105.8254405
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8f7daf262c68358d",
+    "name": "Nhà Hàng Hot Pot BBQ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0351984,
+      "lon": 105.8519929
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c713b10c8684c3f0",
+    "name": "Pateta",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0361773,
+      "lon": 105.8528166
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "000c7080886377b8",
+    "name": "Cửa Hàng Bánh Gối",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0296996,
+      "lon": 105.8491696
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7e99192ee5ff4c62",
+    "name": "Oh bread",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Bè",
+    "location": {
+      "lat": 21.0333758,
+      "lon": 105.8539085
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d43df1326b090211",
+    "name": "Noodle & Roll",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lý Quốc Sư",
+    "location": {
+      "lat": 21.0297478,
+      "lon": 105.8492754
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b997e7f32cbcbaf5",
+    "name": "Little Hanoi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Bè",
+    "location": {
+      "lat": 21.0334623,
+      "lon": 105.8537432
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a00a64a434d7acde",
+    "name": "Nhà Hàng Cari Trường",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0357394,
+      "lon": 105.8518172
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3708e568d480c1ee",
+    "name": "Nhà Hàng Banana Tree",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đào Duy Từ",
+    "location": {
+      "lat": 21.035056,
+      "lon": 105.8531396
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "08629d75f9d70c4a",
+    "name": "Sieu Thi Qua Vat",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0351244,
+      "lon": 105.8520281
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4518e999f588ab6d",
+    "name": "Zenith Yoga Studio II & Café",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lý Thường Kiệt",
+    "location": {
+      "lat": 21.0252545,
+      "lon": 105.8444379
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c1c69922919ab509",
+    "name": "Nhà Hàng Mum's",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0338377,
+      "lon": 105.8539504
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1c981095adbb0881",
+    "name": "Paolo & Chi Pizzeria Old Quarter",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Buồm",
+    "location": {
+      "lat": 21.0360908,
+      "lon": 105.8521843
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5679c572aebe405d",
+    "name": "Nhà Hàng Foodshop 45 - Indian Cuisine",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Buồm",
+    "location": {
+      "lat": 21.0360158,
+      "lon": 105.8518953
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "55f8e1e727ccffdd",
+    "name": "Bánh Mỳ Doner Kebab Dũng Béo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.0249892,
+      "lon": 105.8110309
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9c5245acf47a7337",
+    "name": "Nhà Hàng Highway 4",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0348754,
+      "lon": 105.8475332
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8d21a75db61f91f3",
+    "name": "Pyongyang Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0097807,
+      "lon": 105.8045469
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6b493093c33fd88c",
+    "name": "Steakout",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trần Hưng Đạo",
+    "location": {
+      "lat": 21.019846,
+      "lon": 105.8566061
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "bfa4986f81afd7e1",
+    "name": "Nhà Hàng & Cà Phê EMM's",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Huy Liệu",
+    "location": {
+      "lat": 21.0270627,
+      "lon": 105.8223488
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "029a42ff046f699b",
+    "name": "Pho Ga",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0354335,
+      "lon": 105.8505627
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2b6fe83e084e386e",
+    "name": "Pho Vui",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Buồm",
+    "location": {
+      "lat": 21.035163,
+      "lon": 105.8512274
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a879d727d31816ec",
+    "name": "Nhà Hàng Luna D' Autunno",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Nam Ngư",
+    "location": {
+      "lat": 21.0264034,
+      "lon": 105.842688
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "617667bd0a35d6f7",
+    "name": "Miến Lươn Đông Thịnh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Điếu",
+    "location": {
+      "lat": 21.0318532,
+      "lon": 105.8469051
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f0082b82a09bd2a6",
+    "name": "El Gaucho",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Tràng Tiền",
+    "location": {
+      "lat": 21.0244842,
+      "lon": 105.8563607
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1ae6c83daa12ac7b",
+    "name": "Pho 10",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0299505,
+      "lon": 105.856572
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "346af30f0b04f004",
+    "name": "Nhà hàng Lẩu dê Tuấn Hằng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0438762,
+      "lon": 105.8983894
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1ac9014db32f36a1",
+    "name": "Porte D' Annam",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nhà Thờ",
+    "location": {
+      "lat": 21.0290469,
+      "lon": 105.849678
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fcc35584bd9f1f17",
+    "name": "Nhà Hàng Hoàng Minh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Mỗ Lao",
+    "location": {
+      "lat": 20.9791012,
+      "lon": 105.7836814
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3c0d21b3748bebb0",
+    "name": "Cafe Fast food",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Mã Mây",
+    "location": {
+      "lat": 21.0349913,
+      "lon": 105.8533701
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a050a75b8db427de",
+    "name": "Nhà Hàng Chay Aumee",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Châu Long",
+    "location": {
+      "lat": 21.046021,
+      "lon": 105.8425961
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "71ad00f8074073ef",
+    "name": "Bun Ca sam Cay Si",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0333829,
+      "lon": 105.8526709
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "68d97c4e883c5671",
+    "name": "Chay Aummee",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Châu Long",
+    "location": {
+      "lat": 21.0457483,
+      "lon": 105.8425594
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2e7ea1a952319a1e",
+    "name": "Bromingo Fine Street BBQ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Xuân Diệu",
+    "location": {
+      "lat": 21.0676753,
+      "lon": 105.826074
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a71fa6868cca2737",
+    "name": "Nhà Hàng Hưng Phát",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Điện Biên Phủ",
+    "location": {
+      "lat": 21.0293208,
+      "lon": 105.8421665
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e3fe08289443e498",
+    "name": "night market food stands",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0382682,
+      "lon": 105.8487834
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "15439f8eed3b4ebe",
+    "name": "Son Duong Quan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Tre",
+    "location": {
+      "lat": 21.0320782,
+      "lon": 105.8555601
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3f46ba6730e5570a",
+    "name": "hot top n2",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0358622,
+      "lon": 105.8514477
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c5f0b04d41fd6af1",
+    "name": "spring rolls spot",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0345928,
+      "lon": 105.8522323
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8b155d5926713544",
+    "name": "Rosemary 's Salad & Sandwhich",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Tô Ngọc Vân",
+    "location": {
+      "lat": 21.0686526,
+      "lon": 105.8239103
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fdd299f4a2b4b148",
+    "name": "Nhà Hàng Buk Buk",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0315049,
+      "lon": 105.7691999
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3e5b0c1792dd5deb",
+    "name": "Hot Taste",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0351911,
+      "lon": 105.8202898
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7f08cd4d976855e9",
+    "name": "Sui Cao (Chinese Dumplings)",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phõ Huỳnh Thúc Kháng",
+    "location": {
+      "lat": 21.0185183,
+      "lon": 105.8109017
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a0830e854dceff67",
+    "name": "Singaporean Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0352482,
+      "lon": 105.8147175
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e16ca631c0ddd0b1",
+    "name": "Banh Xeo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đội Cấn",
+    "location": {
+      "lat": 21.0352155,
+      "lon": 105.8253983
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8623378d747fe04a",
+    "name": "Luna",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0353715,
+      "lon": 105.8183834
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "412c1988249a79b8",
+    "name": "Tacos 54",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đào Duy Từ",
+    "location": {
+      "lat": 21.0352666,
+      "lon": 105.852958
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d03369be990d8e07",
+    "name": "Quán Cơm Chay Bồ Đề",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0242062,
+      "lon": 105.8450881
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3777917d74aa2ee9",
+    "name": "Akaari Japanese Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trần Thái Tông",
+    "location": {
+      "lat": 21.033189,
+      "lon": 105.7884632
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "35c35de9f81c2725",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0294727,
+      "lon": 105.8436662
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "18d533372625bece",
+    "name": "Anh Quan 47 Mý Van Than",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Kim Mã Thượng",
+    "location": {
+      "lat": 21.0358402,
+      "lon": 105.8138918
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a02cb0ca7465c77a",
+    "name": "Cơm Chay Sala Quán",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngọc Hà",
+    "location": {
+      "lat": 21.0383505,
+      "lon": 105.8290578
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0f23f34550703e04",
+    "name": "Hương Việt",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Cá",
+    "location": {
+      "lat": 21.0360635,
+      "lon": 105.8488756
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2d6344b6e99134f5",
+    "name": "V+ Banh Mi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0345048,
+      "lon": 105.8270189
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a9b537de84e46b6c",
+    "name": "Quán ăn vặt",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0243385,
+      "lon": 105.842839
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "50fea2fb0042f9b1",
+    "name": "Nhà hàng Vua Tôm Hùm",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Nguyễn Khánh Toàn",
+    "location": {
+      "lat": 21.0386723,
+      "lon": 105.8000055
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d1d395dba0b3706c",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hội Vũ",
+    "location": {
+      "lat": 21.0287699,
+      "lon": 105.8453884
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "968f5ef29ebe6b30",
+    "name": "BANGKOK Thai Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Giảng Võ",
+    "location": {
+      "lat": 21.0271177,
+      "lon": 105.824279
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "002bbd1b568dfec9",
+    "name": "Lẩu Mắm Bà Sáu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Văn Cao",
+    "location": {
+      "lat": 21.0409443,
+      "lon": 105.8164024
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4bb85e30aa8c5a61",
+    "name": "NHÀ HÀNG TRAU THÚY HĂNG",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0580568,
+      "lon": 105.9076863
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7aef9f62a0ef4b83",
+    "name": "Sixty Six",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Bồ",
+    "location": {
+      "lat": 21.0339232,
+      "lon": 105.8486713
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4cacd9135842c8f6",
+    "name": "Bia Bắc Sơn",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.038392,
+      "lon": 105.8311299
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c4a82a29417c0f8c",
+    "name": "Bách Phương - Bún Bò Nam Bộ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Điếu",
+    "location": {
+      "lat": 21.0322448,
+      "lon": 105.8467823
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8e7d775022b3a1e3",
+    "name": "Cửa Hàng Bún Chả Hương Liên",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Buồm",
+    "location": {
+      "lat": 21.0359942,
+      "lon": 105.851812
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a43339c33ed05a00",
+    "name": "Nhà Hàng India Palace",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Quảng An",
+    "location": {
+      "lat": 21.0625504,
+      "lon": 105.8291192
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fbf76d2102316280",
+    "name": "Kobala",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Xuân Diệu;Đường Âu Cơ",
+    "location": {
+      "lat": 21.0607106,
+      "lon": 105.8332998
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7363acecd509449b",
+    "name": "Millenium",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Bảo Khánh",
+    "location": {
+      "lat": 21.030813,
+      "lon": 105.8505424
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0b854a1444d931bf",
+    "name": "DC Bistro & Boutique",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngô Văn Sở",
+    "location": {
+      "lat": 21.0204178,
+      "lon": 105.8496338
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "df4a5384f8c4ea1e",
+    "name": "Nhat Mon",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0364559,
+      "lon": 105.8514752
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "023a90c978e34d8c",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngô Văn Sở",
+    "location": {
+      "lat": 21.0208337,
+      "lon": 105.8491213
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "543b3908f7360dd5",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngô Văn Sở",
+    "location": {
+      "lat": 21.020468,
+      "lon": 105.8494409
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0385581812ba374f",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0377037,
+      "lon": 105.8507086
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5782f5a7cc62c63d",
+    "name": "Nhà Hàng Heritage",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Hoàng Diệu",
+    "location": {
+      "lat": 21.0331145,
+      "lon": 105.8391403
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7743b7e228d1b032",
+    "name": "Quán Gà 36",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Lạc Long Quân",
+    "location": {
+      "lat": 21.0643229,
+      "lon": 105.8094102
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "bc5a0b860dc9b767",
+    "name": "Nhà Hàng Don Duck",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0364309,
+      "lon": 105.850906
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e646a4e9b5771b5f",
+    "name": "Lẩu Dê Nhất Ly",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Cót",
+    "location": {
+      "lat": 21.0376339,
+      "lon": 105.8472101
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "977435153d153fbf",
+    "name": "Cà Phê Công Nghệ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0282875,
+      "lon": 105.8461391
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d7f591f9144c050a",
+    "name": "Nhà Hàng Bang Mi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0363677,
+      "lon": 105.8485904
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "93f3021703d76dc1",
+    "name": "Roast Pork",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0322583,
+      "lon": 105.8481843
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b7a2a27dcd0ccf98",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Quảng Bá",
+    "location": {
+      "lat": 21.0699924,
+      "lon": 105.8228583
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7f40109baf4ff890",
+    "name": "Nhà Hàng Le Tonkin",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0207943,
+      "lon": 105.8489956
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "19d9c41d5921b395",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đinh Liệt",
+    "location": {
+      "lat": 21.0331243,
+      "lon": 105.8519038
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ca129ac28ea2ea3a",
+    "name": "Bồ Đề Quán",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Âu Cơ",
+    "location": {
+      "lat": 21.0646787,
+      "lon": 105.8311873
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4a311176b171af09",
+    "name": "Local food",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0286601,
+      "lon": 105.8478667
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "82134b1670b85bcf",
+    "name": "Street Sushi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Phan Kế Bính",
+    "location": {
+      "lat": 21.0348271,
+      "lon": 105.810956
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "231fd00cb548caeb",
+    "name": "Pho Ganh Dam Trau",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Luong Yen",
+    "location": {
+      "lat": 21.0121983,
+      "lon": 105.8644138
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "962ffe81432d73da",
+    "name": "Madam Yen Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0315606,
+      "lon": 105.849675
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7c60b43003f74fb4",
+    "name": "Lantern Lounge",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0343767,
+      "lon": 105.8534791
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d397ec46b7c14228",
+    "name": "Nhà Hàng Frozen Yogurt",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0360877,
+      "lon": 105.8521724
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "aacc40f2e51adc3b",
+    "name": "Day Vao",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Giầy",
+    "location": {
+      "lat": 21.0353724,
+      "lon": 105.8510192
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "00f9eb9a1d0faa55",
+    "name": "Au Delice - Le restaurant d'Arthur",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0186694,
+      "lon": 105.85302
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4ae8e7787c108ae2",
+    "name": "Nhà Hàng Bên Trăng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Bắc Cầu",
+    "location": {
+      "lat": 21.068088,
+      "lon": 105.8594528
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "eecd962a98183b84",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0300706,
+      "lon": 105.8475542
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "41151fb721a83270",
+    "name": "Al Fresco's",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0240465,
+      "lon": 105.8532302
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "27fcbd0f82a76b08",
+    "name": "Nhà Hàng Maison de Têt décor",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "21°03′26.89″N 105°49′56.29″E",
+    "location": {
+      "lat": 21.0574445,
+      "lon": 105.8323977
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fcb808bc3f70891d",
+    "name": "Bún Chả Ta",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Hữu Huân",
+    "location": {
+      "lat": 21.0343571,
+      "lon": 105.8544931
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "151e75424e6ede8a",
+    "name": "Nhà Hàng ABC",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hang Bai",
+    "location": {
+      "lat": 21.021604,
+      "lon": 105.8524885
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a039e25fcdd73d21",
+    "name": "Nhà Hàng Kebab King",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0359839,
+      "lon": 105.851772
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9ba5dcb78001e5bc",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0484134,
+      "lon": 105.865525
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4e4fa2c1fb9fd650",
+    "name": "Soho garden",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.046823,
+      "lon": 105.8427559
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1d608976bff1ca52",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Đậu",
+    "location": {
+      "lat": 21.0402292,
+      "lon": 105.848013
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a2e7c422bcd354f9",
+    "name": "Nhà Hàng Minh Chay Vegan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0320676,
+      "lon": 105.8502886
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "493790e64f4c5af6",
+    "name": "Purple Cherry",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0399687,
+      "lon": 105.8454427
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "19ef3c1ea86d6210",
+    "name": "Noodle soup",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9807135,
+      "lon": 105.9159512
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5048c118853bf2de",
+    "name": "Talky cafe $",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0153433,
+      "lon": 105.8131053
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d3399669ba4ce70a",
+    "name": "Nhà Hàng Hồng Hoài",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Bát Đàn",
+    "location": {
+      "lat": 21.0337915,
+      "lon": 105.8474622
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "21ab43ba798c96eb",
+    "name": "Namaste Hanoi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Thợ Nhuộm",
+    "location": {
+      "lat": 21.0261035,
+      "lon": 105.845192
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ed95585892337b5e",
+    "name": "Khazaana 1992 Indian Food Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Thành",
+    "location": {
+      "lat": 21.0308724,
+      "lon": 105.8471607
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a0d3ee6f2b8f2935",
+    "name": "Nhà Hàng Gelato Italia",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "To Ngoc Van",
+    "location": {
+      "lat": 21.0684973,
+      "lon": 105.8243663
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "03eaad5ff3f2ae5a",
+    "name": "Ẩm Thực Sành Ăn",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Trần Nhật Duật",
+    "location": {
+      "lat": 21.03756,
+      "lon": 105.8526198
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "51acba130b84a0cb",
+    "name": "Nhà Hàng Dim Sum Corner",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0289385,
+      "lon": 105.8444224
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "16c55d403c42a33d",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0070617,
+      "lon": 105.8102717
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9e014f9b688631ce",
+    "name": "Gastro Pub",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Nón",
+    "location": {
+      "lat": 21.0324304,
+      "lon": 105.8482122
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "27afb26ef6b16424",
+    "name": "trà đào 42",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lý Thường Kiệt",
+    "location": {
+      "lat": 21.0237658,
+      "lon": 105.8498761
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "464b4a8574867b62",
+    "name": "quán góc hà nội",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Đinh Tiên Hoàng",
+    "location": {
+      "lat": 21.0307904,
+      "lon": 105.8536866
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "51c4a57c49aae5ab",
+    "name": "Cửa Hàng Bít Tết 53 Cô Mẫu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Bài",
+    "location": {
+      "lat": 21.020298,
+      "lon": 105.8518305
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7bf7fd6d4abd1b0c",
+    "name": "Nhà Hàng L'amore",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Lương Văn Can",
+    "location": {
+      "lat": 21.0328009,
+      "lon": 105.8503828
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "65116df61d576c13",
+    "name": "Kem Xôi Thu Nga",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phan Chu Trinh",
+    "location": {
+      "lat": 21.0233472,
+      "lon": 105.8565399
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "bf3ab6fe6d2da832",
+    "name": "Bún Chả TA",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0346796,
+      "lon": 105.8546895
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8c9b4a7458ddb451",
+    "name": "Nhà Hàng Nét Huế",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0287186,
+      "lon": 105.8439963
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c7bb5a011067a05a",
+    "name": "Vuvuzela",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0266572,
+      "lon": 105.8487739
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9d921110f92a1c6e",
+    "name": "The Kneipe",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngõ 52 Đường Tô Ngọc Vân",
+    "location": {
+      "lat": 21.0688402,
+      "lon": 105.8242826
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "53efc14bd96c39c7",
+    "name": "Minh Minh Quán",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Sài Đồng",
+    "location": {
+      "lat": 21.0336376,
+      "lon": 105.9100447
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ea73fbfd3a02f283",
+    "name": "Cửa Hàng Bia Minh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đinh Liệt",
+    "location": {
+      "lat": 21.0329231,
+      "lon": 105.8518481
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9292d99a0439c83c",
+    "name": "Yo sushi bar",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0367528,
+      "lon": 105.8526544
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ca5b4f9cce5cd040",
+    "name": "Nhà Hàng New York Sports Bar",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Bà Triệu",
+    "location": {
+      "lat": 21.0236407,
+      "lon": 105.8508563
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5f0c6e2538ca0aaa",
+    "name": "Nhà hàng Lục Thuỷ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0286345,
+      "lon": 105.8512352
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "97703cec06dbc687",
+    "name": "Nhà Hàng Kiếu Gia",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Chương Đương Độ",
+    "location": {
+      "lat": 21.0294905,
+      "lon": 105.8616142
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7151ffa810023049",
+    "name": "Nhà Hàng Apron Up",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0339602,
+      "lon": 105.8474345
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "12d8a134de1bd867",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Tràng Tiền",
+    "location": {
+      "lat": 21.0249719,
+      "lon": 105.8543529
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e0e97b5795429dd9",
+    "name": "Thai Hot Pot",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0236691,
+      "lon": 105.8555169
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d104ec49c57fce27",
+    "name": "Nhà Hàng Jalus Vegan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Trống",
+    "location": {
+      "lat": 21.0306344,
+      "lon": 105.8495042
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "694862c8d0b5daa6",
+    "name": "Tung's Kitchen",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Bông",
+    "location": {
+      "lat": 21.0313543,
+      "lon": 105.8489788
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "467e0b9540240ef0",
+    "name": "Nhà Hàng Doncook",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0168803,
+      "lon": 105.7993559
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "faf136519a6117c5",
+    "name": "vân châu ( p102 e7 thanh xuân bắc)",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9911632,
+      "lon": 105.7991392
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "05868269573d5d80",
+    "name": "quang minh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Quang Trung",
+    "location": {
+      "lat": 21.0267787,
+      "lon": 105.8501521
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4cb1031f314265c6",
+    "name": "Kotteji",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0066604,
+      "lon": 105.8049509
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d5fcd651adc9cbaf",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0098151,
+      "lon": 105.8046299
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5e26f7a3d1992378",
+    "name": "Miến & Bánh Đa Cua Lý Quốc Sư",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phùng Hưng",
+    "location": {
+      "lat": 21.0390535,
+      "lon": 105.8465857
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ac5b9e83870b590b",
+    "name": "Nhà Hàng 8393 Hanoi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0305293,
+      "lon": 105.8504263
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3e859fe73dc087a4",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0164044,
+      "lon": 105.777115
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "837b46f546fcfe6b",
+    "name": "Highl and Coffee",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0794885,
+      "lon": 105.8127893
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "637a2df6bdb180a4",
+    "name": "Quán Bún Bò Nam Bộ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0320803,
+      "lon": 105.8469222
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a6ca139d54ce906c",
+    "name": "S&L's Diner",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Bảo Khánh",
+    "location": {
+      "lat": 21.0301366,
+      "lon": 105.8504582
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "917ba9adcb4203fc",
+    "name": "Nhà Hàng Al Fresco's",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hai Ba Trung",
+    "location": {
+      "lat": 21.0288652,
+      "lon": 105.8497803
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6ba1fde760205aa3",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.1865308,
+      "lon": 105.774914
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "592101ad85bfa10a",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0097107,
+      "lon": 105.8057305
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "41edcb9c0908bbda",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0591745,
+      "lon": 105.8320456
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0053aaa00f9ddf03",
+    "name": "Bánh my phuc",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0195808,
+      "lon": 105.8425213
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "46455b2c32aa232d",
+    "name": "Nhà Hàng Nét Huế",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0327066,
+      "lon": 105.8543843
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3035586367e71b7e",
+    "name": "Quán Lươn Bà Liên",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0355549,
+      "lon": 105.8178405
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b2d7b657c31ea87c",
+    "name": "Nhà Hàng High Way 4",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Tre",
+    "location": {
+      "lat": 21.0336298,
+      "lon": 105.8549965
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4ea9ed6eed5d13b9",
+    "name": "Cơm Chay Nàng Tấm",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trần Hưng Đạo",
+    "location": {
+      "lat": 21.0223434,
+      "lon": 105.8469426
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8b1713fe5ea6ed70",
+    "name": "Nhà Hàng Ahimsa",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Điện Biên Phủ",
+    "location": {
+      "lat": 21.0296651,
+      "lon": 105.8422981
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d69f0b839490c4c0",
+    "name": "Nhà Hàng Chicken Street",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Lý Văn Phúc",
+    "location": {
+      "lat": 21.0313374,
+      "lon": 105.8321031
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e8c32707c8cb3e30",
+    "name": "Nhà Hàng Goodfellas",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0325016,
+      "lon": 105.8487795
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1d36555421169fad",
+    "name": "Pho Ga Chi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0198021,
+      "lon": 105.842409
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "df90919add570f90",
+    "name": "The Gourmet Corner Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lò Sũ",
+    "location": {
+      "lat": 21.0314745,
+      "lon": 105.8550417
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b5813eff0b2368bf",
+    "name": "Nhà Hàng Amato",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0241627,
+      "lon": 105.8583374
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ecf608cf2c3207d1",
+    "name": "Com Pho Co",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Siêu",
+    "location": {
+      "lat": 21.0367098,
+      "lon": 105.8519644
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "34c98ad78493dd7b",
+    "name": "Cowboy jacks",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0066757,
+      "lon": 105.8037776
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "323cba4305d34282",
+    "name": "Nhà Hàng Guan Nem",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Bùi Thị Xuân",
+    "location": {
+      "lat": 21.0145295,
+      "lon": 105.8498058
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3dc429e8997b89c5",
+    "name": "JASPAS",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hai Bà Trưng",
+    "location": {
+      "lat": 21.0259102,
+      "lon": 105.8465214
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ef97342da2e620b8",
+    "name": "S&L's Diner",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Bảo Khánh",
+    "location": {
+      "lat": 21.030163,
+      "lon": 105.8505011
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "525e0f155f9f0e6a",
+    "name": "Banh Mi Bami Hipp",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngõ Huyện",
+    "location": {
+      "lat": 21.0293786,
+      "lon": 105.8482035
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d69a394ef86e9858",
+    "name": "Quan Bo Xuan Xuan BBQ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0353277,
+      "lon": 105.8534398
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "950a94b1ff4928e3",
+    "name": "Phở Lâm",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Nam Ngư",
+    "location": {
+      "lat": 21.0265898,
+      "lon": 105.8434691
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d31272acddda0b1b",
+    "name": "Lifted Coffee & Brunch",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Gà",
+    "location": {
+      "lat": 21.0338642,
+      "lon": 105.8470959
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e429f28d446d4473",
+    "name": "Phở Sướng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0335516,
+      "lon": 105.8521428
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "667d416feabce88e",
+    "name": "Delisa - Fresh Salad Bar",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0254324,
+      "lon": 105.8578225
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d4c337c038c5b9b3",
+    "name": "Pepe la Poule",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Quảng Khanh",
+    "location": {
+      "lat": 21.0556906,
+      "lon": 105.8212605
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "da4a66452199008a",
+    "name": "Cousins",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Quảng Bá",
+    "location": {
+      "lat": 21.0701195,
+      "lon": 105.8228509
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "37679867a06952cd",
+    "name": "Cửa Hàng Hoàng Tâm Xôi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Đậu",
+    "location": {
+      "lat": 21.0402766,
+      "lon": 105.8481886
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "88f070e0224ae147",
+    "name": "Nom Thit Bo Kho",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0318406,
+      "lon": 105.8532661
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "29407f77f9119705",
+    "name": "Tuên an",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302017,
+      "lon": 105.8505637
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "22f1661a0c6b679f",
+    "name": "Quán Goc Da",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0293044,
+      "lon": 105.8492959
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "18c15828573f4fd6",
+    "name": "Black Jack's",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0326195,
+      "lon": 105.8539004
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ad56acc84dc21bbc",
+    "name": "orchid",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0337987,
+      "lon": 105.8531624
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "01e7e65b8fb569b3",
+    "name": "Lẩu Nướng Minh Minh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Số 10 Trần Hưng Đạo",
+    "location": {
+      "lat": 20.970647,
+      "lon": 105.7795514
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6002452c06249565",
+    "name": "Nhà Hàng Bồ Đề Tâm",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phạm Huy Thông",
+    "location": {
+      "lat": 21.028106,
+      "lon": 105.8101165
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "45fcd88728ae187e",
+    "name": "nhà hàng tuấn vương",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "nơ 1b bán đảo linh đàm",
+    "location": {
+      "lat": 20.9649324,
+      "lon": 105.8310637
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "af5c9e99d0a07c4f",
+    "name": "Nhà Hàng A La Folie",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0492014,
+      "lon": 105.8394714
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f663a24eeaa248da",
+    "name": "Dinky Noodles",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0434715,
+      "lon": 105.842627
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "530174f5df951dd8",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0354736,
+      "lon": 105.8528792
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6976246918031117",
+    "name": "Bánh cuốn Gia An",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trung Hoà",
+    "location": {
+      "lat": 21.0152726,
+      "lon": 105.8011916
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ded669bfb68e7a42",
+    "name": "Duong's Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0294645,
+      "lon": 105.8485767
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "abf0773ee1f710cb",
+    "name": "Pizza Callo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9662859,
+      "lon": 105.7899548
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "674879c53c082201",
+    "name": "Wrap & Roll",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0318899,
+      "lon": 105.8528152
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "73567dcdbc8b14e1",
+    "name": "Trọng thơm",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Quốc lộ 21B",
+    "location": {
+      "lat": 20.8904533,
+      "lon": 105.7636393
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "098a2adcac5aecf1",
+    "name": "Pho Moi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9638882,
+      "lon": 105.7493221
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0bfa038be757e148",
+    "name": "Phoking awesome pho",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0286561,
+      "lon": 105.8484107
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "bbf1fb551ffa6223",
+    "name": "Nom Thit Bo Kho",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0321155,
+      "lon": 105.8531161
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "29cf13a77862f88e",
+    "name": "Nhà Hàng An Lạc Chay",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0238115,
+      "lon": 105.8419625
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6341100751b6778b",
+    "name": "Nhà Hàng Chay Liên Hoa",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0135722,
+      "lon": 105.846735
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d7897aa1551874ec",
+    "name": "Duc Ngoc",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.097677,
+      "lon": 105.4021683
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0e7fc5503950ee64",
+    "name": "Ibero Craft Beer",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0251032,
+      "lon": 105.8416063
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b99d92e7623cbfb2",
+    "name": "Quán ān: Mr. Bây",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Điếu",
+    "location": {
+      "lat": 21.0320844,
+      "lon": 105.8469229
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e24fb4301ad30801",
+    "name": "Subin",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9640999,
+      "lon": 105.7476475
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "bdca626c6135bc0a",
+    "name": "Com Ga Noi Bo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0203054,
+      "lon": 105.8498303
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c97d9767862e0464",
+    "name": "Nha hang Cha Ca La Vong",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.0430151,
+      "lon": 105.8437843
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "86090f861aa39f20",
+    "name": "Quoc Minh Quan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0190469,
+      "lon": 105.8479405
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f8b58c614917c504",
+    "name": "Green Farm",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0358232,
+      "lon": 105.8529523
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8dbd606852eec6b8",
+    "name": "Nhà Hàng Ẩm Thực Ba Miền",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Tạ Hiện",
+    "location": {
+      "lat": 21.0353161,
+      "lon": 105.8520421
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "49105ed7e92c5cca",
+    "name": "Little india",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Tre",
+    "location": {
+      "lat": 21.0321214,
+      "lon": 105.85555
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "731607c93c1e0f0a",
+    "name": "beef pho 48",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Vải",
+    "location": {
+      "lat": 21.0355178,
+      "lon": 105.8477243
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "57e74851adf25543",
+    "name": "The Veg Organic Vego & Tea",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0355924,
+      "lon": 105.8535617
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c13eb268f4a9337b",
+    "name": "Phở Cười",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Giai Phong",
+    "location": {
+      "lat": 20.9938019,
+      "lon": 105.840708
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "92c3919c42e39e7d",
+    "name": "Nhà Hàng Cảnh Gù",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Giai Phong",
+    "location": {
+      "lat": 20.9937568,
+      "lon": 105.8407885
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9820152d4a827d57",
+    "name": "Phở bò 21",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Đình Chiểu",
+    "location": {
+      "lat": 21.0158745,
+      "lon": 105.8474793
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f42d267451305920",
+    "name": "Bun cha",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.041591,
+      "lon": 105.8294223
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d00344745bb03121",
+    "name": "Green Mango",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Tống Duy Tân",
+    "location": {
+      "lat": 21.0290337,
+      "lon": 105.8431024
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3db2903436820eb3",
+    "name": "Soup kitchen",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0256813,
+      "lon": 105.845695
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "519f098c351dd571",
+    "name": "Quán Bia Hơi Cường Hói",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0448533,
+      "lon": 105.8168192
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5143f6a3cff283e3",
+    "name": "Nhà Hàng Matto",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0347863,
+      "lon": 105.8531266
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "71d6bcd57f79223d",
+    "name": "Fu Rong Hua Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0320269,
+      "lon": 105.8521491
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ee8f85f8b06ad13f",
+    "name": "Dong Phu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội, Vietnam",
+    "location": {
+      "lat": 21.033564,
+      "lon": 105.8470901
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ee80dbd987d7b7d3",
+    "name": "Xoi Cat Lam",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.032181,
+      "lon": 105.8467339
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "dc167471a279dc79",
+    "name": "Bun Oc Pho Co",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0348427,
+      "lon": 105.8518438
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c8feffc2eb057be6",
+    "name": "Cussing Noodles",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0274488,
+      "lon": 105.8389992
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "08cb68c8be3011d1",
+    "name": "Madame Hien",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0301179,
+      "lon": 105.8481416
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5e269a3e6b99b980",
+    "name": "Banh Cuon Nong",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302359,
+      "lon": 105.8506192
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "83c8912769a617aa",
+    "name": "Che Dung",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Bạc",
+    "location": {
+      "lat": 21.0338602,
+      "lon": 105.8521422
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4fdaf81ccc93d355",
+    "name": "QUấn bún riêu Đền Lừ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Lô 1 Đền Lừ 2",
+    "location": {
+      "lat": 20.9869915,
+      "lon": 105.8592792
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "cac8b8ce187caae8",
+    "name": "P.K. Spice Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0321848,
+      "lon": 105.8481638
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f74ce1d5be29a823",
+    "name": "Nhà Hàng Mỹ Phồ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0305967,
+      "lon": 105.8474703
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "dc1267d32c4f81c5",
+    "name": "tiem banh mi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0248221,
+      "lon": 105.855295
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ea61301c7566c330",
+    "name": "tung lau",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0307596,
+      "lon": 105.8457769
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "30e4e12ee80eb824",
+    "name": "Nhà Hàng Hanoi Tan Tan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0255059,
+      "lon": 105.8525254
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fbed47c701a1f12c",
+    "name": "Bún Mọc",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Lược",
+    "location": {
+      "lat": 21.0375341,
+      "lon": 105.8482006
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3fd4bb5aefbc042c",
+    "name": "Nhà Hàng Hanoi Tan Tan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0260063,
+      "lon": 105.8507131
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "26c462f5594edd1c",
+    "name": "Nhà Hàng Gòn - Bites & Veggies",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Từ Hoa",
+    "location": {
+      "lat": 21.0597181,
+      "lon": 105.8300842
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f3a49afac025e5d2",
+    "name": "Bún Chả - Nem Cua Bê",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Bát Sứ",
+    "location": {
+      "lat": 21.0349731,
+      "lon": 105.8475555
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "471b12fe8c6b8211",
+    "name": "Nhà Hàng Hanoi Food Culture",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0340799,
+      "lon": 105.853663
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a97d9edee03626ea",
+    "name": "Spring Lotus",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0354212,
+      "lon": 105.8532441
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6a741e518faa2d67",
+    "name": "Nhà Hàng Chay Mihn",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Ấu Triệu",
+    "location": {
+      "lat": 21.0284211,
+      "lon": 105.8483461
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3b5bb6215946d236",
+    "name": "Quán Phở Thìn",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lò Đúc",
+    "location": {
+      "lat": 21.0181784,
+      "lon": 105.8553
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "94ff27215b0a3cae",
+    "name": "Pho Ga",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.0422036,
+      "lon": 105.8453469
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a15020cb8b63a177",
+    "name": "Quán Ốc Nóng Hà Trang",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0337945,
+      "lon": 105.8520861
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1616518bac0dd8db",
+    "name": "Bánh Cuốn Hàng Cót",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.036722,
+      "lon": 105.8471872
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e276d979dd19baef",
+    "name": "Quán Bún Lòng A Cay",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0230329,
+      "lon": 105.8490199
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a80d3c5139fa754f",
+    "name": "Nhà Hàng Sushi Japanese",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0305512,
+      "lon": 105.8425983
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ebf97e6a783f46ed",
+    "name": "Zamba Beer and BBQ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0302722,
+      "lon": 105.8427068
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9d8f9eee5caff052",
+    "name": "Nhà Hàng Kaiser Kaffee",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0240232,
+      "lon": 105.8509968
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "56bce915c24826d2",
+    "name": "Loving Hut",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Quán Thánh",
+    "location": {
+      "lat": 21.0423221,
+      "lon": 105.8380982
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5af21b0df8f380a0",
+    "name": "Phở Mai Anh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lê Văn Hưu",
+    "location": {
+      "lat": 21.0180097,
+      "lon": 105.8537362
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "07968dc0c64e408d",
+    "name": "Cửa Hàng Chả Cá Anh Vũ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Giảng Võ",
+    "location": {
+      "lat": 21.0270241,
+      "lon": 105.8242231
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8686f76007c92e54",
+    "name": "Phở Cuốn Hương Mai",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Ngũ Xã",
+    "location": {
+      "lat": 21.0460551,
+      "lon": 105.8413064
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "30b01f0cc46433ef",
+    "name": "Cửa Hàng Mai Nga Bún Cá Hà Thành",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lê Văn Hưu",
+    "location": {
+      "lat": 21.0180589,
+      "lon": 105.8524887
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d9d40333f66c98a9",
+    "name": "Cơm Chay Tú Hảo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0242715,
+      "lon": 105.8541273
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d588db97c19497c7",
+    "name": "Happy Lunch - have the hot pot",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0312362,
+      "lon": 105.8545903
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0d55655c074942cd",
+    "name": "Nhà Háng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0337212,
+      "lon": 105.8478093
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "91d4f8961612f6e8",
+    "name": "Bánh Cuôn Ký Dông",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0291628,
+      "lon": 105.8436305
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "200f06af3b4b19f4",
+    "name": "Tam An Lac",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Lý Thường Kiệt",
+    "location": {
+      "lat": 21.0256891,
+      "lon": 105.8440968
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "137d3a7734d48e5c",
+    "name": "Hoang's Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0358882,
+      "lon": 105.8515281
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5739856baa8faeec",
+    "name": "Quan 66",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Bút",
+    "location": {
+      "lat": 21.0348862,
+      "lon": 105.848126
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ecd4057071fe51aa",
+    "name": "Minh Chay Vegan Restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Mã Mây",
+    "location": {
+      "lat": 21.0357597,
+      "lon": 105.8532632
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d8087ec6cbcc93eb",
+    "name": "Peace Vegan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.070278,
+      "lon": 105.8133426
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "51faf1219c6ed9e4",
+    "name": "Phở Tư Lùn",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "23C Hai Bà Trưng",
+    "location": {
+      "lat": 21.023961,
+      "lon": 105.853787
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ac17275b3bfc2fb5",
+    "name": "Tư Lùn - Phở Gà & Bún Thang",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Trống",
+    "location": {
+      "lat": 21.0311779,
+      "lon": 105.8493001
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ad780d4678f92e34",
+    "name": "Bánh Cuốn Thanh Vân",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Trường Tộ",
+    "location": {
+      "lat": 21.0435101,
+      "lon": 105.8419258
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3525a2169afd8fe8",
+    "name": "Cửa Hàng Bánh Mì Cười - Nam Đồng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Nam Đồng",
+    "location": {
+      "lat": 21.0135702,
+      "lon": 105.8330632
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "016e3486123a7d11",
+    "name": "Bún Ngan Bích Béo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Cân",
+    "location": {
+      "lat": 21.0349558,
+      "lon": 105.849493
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "cdecf2ca27b10be1",
+    "name": "Heathwich",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Tô Ngọc Vân",
+    "location": {
+      "lat": 21.0685161,
+      "lon": 105.8246308
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fc85c1473a460132",
+    "name": "Nhà Hàng Cháo Trai",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Xuân Soạn",
+    "location": {
+      "lat": 21.0171688,
+      "lon": 105.8550764
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "178da05cfc06e1d7",
+    "name": "Bánh Đúc Nóng - Trung Tự",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0088561,
+      "lon": 105.8337543
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2673862d3a129175",
+    "name": "Vân Hiền",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0203043,
+      "lon": 105.5513063
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "462e1cd998307b90",
+    "name": "Au Lac Do Brazil",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Bình Trọng",
+    "location": {
+      "lat": 21.0205262,
+      "lon": 105.8446646
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "496d63be54b234f6",
+    "name": "Pincho",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hàng Bè",
+    "location": {
+      "lat": 21.0330233,
+      "lon": 105.8539031
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d76e22166408386b",
+    "name": "Bò Tơ Quán Mộc",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0503921,
+      "lon": 105.7850989
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2a46669c160844d5",
+    "name": "Nhà Hàng Bánh Trắng Hoàng Bèo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Ngọc Vũ",
+    "location": {
+      "lat": 21.0145591,
+      "lon": 105.8048657
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ee84ea9b11fa7813",
+    "name": "Patisserie Lapin",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Duy Hưng",
+    "location": {
+      "lat": 21.0139948,
+      "lon": 105.8036897
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "af373ede7e4e85b3",
+    "name": "Wrap and Roll",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0264009,
+      "lon": 105.8227238
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ca4966ae49412f66",
+    "name": "Nhà hàng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Lê Văn Hiến",
+    "location": {
+      "lat": 21.0745488,
+      "lon": 105.7738617
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "eef89095a0d4eeae",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0256292,
+      "lon": 105.8217777
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "0dd85742a2a6e0ca",
+    "name": "Nhà Hàng Cơm Niêu Kombo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Giảng Võ",
+    "location": {
+      "lat": 21.0242775,
+      "lon": 105.8209471
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3658cfbef09f226e",
+    "name": "Nhà Hàng A2 Ngọc Khánh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0262998,
+      "lon": 105.8114972
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "64677f8ca2bf1267",
+    "name": "T+ Beer Club",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngọc Khánh",
+    "location": {
+      "lat": 21.0239192,
+      "lon": 105.8199492
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "24def30954422dc0",
+    "name": "VNUA restaurant",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường S",
+    "location": {
+      "lat": 21.0065578,
+      "lon": 105.9332118
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "dde7132e296677da",
+    "name": "Nhà Hàng Bít Tết Ngon",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Giảng Võ",
+    "location": {
+      "lat": 21.0239911,
+      "lon": 105.8206671
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4cf9b557094a3e21",
+    "name": "San hô biển",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trung Hoà",
+    "location": {
+      "lat": 21.01667,
+      "lon": 105.7996998
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "61b2a361ee125a25",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0278405,
+      "lon": 105.8447463
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6603c82692324d6e",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0273996,
+      "lon": 105.8424296
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4d3eb575f0d52e87",
+    "name": "Nhà hàng Phương Nam",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Chùa Láng",
+    "location": {
+      "lat": 21.0229999,
+      "lon": 105.8061749
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "41b56437c6d33977",
+    "name": "Quán vịt nướng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0231176,
+      "lon": 105.8018939
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f7a4394e0acc398a",
+    "name": "Phở Cồ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.022929,
+      "lon": 105.800884
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "278ff23dcc1a6c02",
+    "name": "Nha Hang Nhat Nuong",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Vỹ",
+    "location": {
+      "lat": 21.0395544,
+      "lon": 105.772734
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2f29048187ff4e5e",
+    "name": "Nhà hàng Samwon",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Dương Đình Nghệ",
+    "location": {
+      "lat": 21.0223566,
+      "lon": 105.7883168
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "62fbe6dbe6ddefef",
+    "name": "Gà Mạnh Hoạch",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Huy Liệu",
+    "location": {
+      "lat": 21.0271124,
+      "lon": 105.8222498
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "de9e0d2e70b83676",
+    "name": "Nhà Hàng Làng Tôi",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0263284,
+      "lon": 105.8417206
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "dec98dc7906a52e1",
+    "name": "Nhà hàng Món Huế",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.0269585,
+      "lon": 105.8122368
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "596041a9b2b94f77",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Hồ Tùng Mậu",
+    "location": {
+      "lat": 21.0384976,
+      "lon": 105.7727129
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "225846f577c9e06e",
+    "name": "Nhà Hàng Bia Hơi Hải Xồm",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phan Kế Bính",
+    "location": {
+      "lat": 21.0344004,
+      "lon": 105.811264
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ebcbf526d9ccf9f2",
+    "name": "Cửa Hàng Bánh Ngọt Paris Gateaux",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.0274542,
+      "lon": 105.8123843
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "747b028b668d5e37",
+    "name": "Nhà hàng Nét Huế",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.0278572,
+      "lon": 105.8125211
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ac5653adee9dddc3",
+    "name": "Đà Nẵng Quán Bánh Tráng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trung Hoà",
+    "location": {
+      "lat": 21.0161503,
+      "lon": 105.7997636
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "88f6dfbdf87204b1",
+    "name": "Nhà hàng Cơm niêu Thúy Nga",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.0280475,
+      "lon": 105.8125587
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "58979a20c09625f8",
+    "name": "Phủi Quán",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.029167,
+      "lon": 105.835071
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "51013d7c73e3fb6c",
+    "name": "Bánh Mỳ Cô Long",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.0287861,
+      "lon": 105.8128162
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a65805bfe1b711dc",
+    "name": "Soya Garden",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0308649,
+      "lon": 105.819756
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "d320af18bf95aede",
+    "name": "B TÔNG",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Ngọc Khánh",
+    "location": {
+      "lat": 21.0266823,
+      "lon": 105.8177878
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "70965fcea0891cc5",
+    "name": "Nhà Hàng Han Kook Kwan",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.0284982,
+      "lon": 105.8127598
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a7ce42c876ab7ecc",
+    "name": "Nhà hàng Như Quỳnh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.0284656,
+      "lon": 105.8127303
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "62ca1459a9166396",
+    "name": "Quán bánh xèo Thanh Nga",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Lê Văn Hiến",
+    "location": {
+      "lat": 21.0760243,
+      "lon": 105.7735397
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c7f6b80800d8cfd7",
+    "name": "Nhà hàng cô tô",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trung Kính",
+    "location": {
+      "lat": 21.0184654,
+      "lon": 105.7932361
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "79fd18b62e92b27e",
+    "name": "Nhà Hàng Bếp Mường",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Nguyễn Công Hoan",
+    "location": {
+      "lat": 21.027178,
+      "lon": 105.8171936
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "138d529831c63309",
+    "name": "Vị Quảng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Nguyễn Chí Thanh",
+    "location": {
+      "lat": 21.015772,
+      "lon": 105.8055468
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "eb2e9e8a9bbe614b",
+    "name": "Nhà hàng Tadibar",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Kim Xuyến",
+    "location": {
+      "lat": 21.0191687,
+      "lon": 105.793509
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b20b2982cc27a014",
+    "name": "Nhà Hàng Hàng Bánh Poeme",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Láng Hạ",
+    "location": {
+      "lat": 21.0198815,
+      "lon": 105.8170605
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "db975c7970e2aa9f",
+    "name": "Nhà hàng Ngọc Thúy",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Ngọc Khánh",
+    "location": {
+      "lat": 21.0301162,
+      "lon": 105.8172329
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "44dc77aa87cd97e4",
+    "name": "Nhà hàng 123 Kim Mã",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Kim Mã",
+    "location": {
+      "lat": 21.0303637,
+      "lon": 105.8166595
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "daab83cfe8613124",
+    "name": "Nhà Hàng Kombo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Nguyễn Phong Sắc",
+    "location": {
+      "lat": 21.0385851,
+      "lon": 105.7906467
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1fcc627ab2ee422c",
+    "name": "Nhà hàng Kim Long",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Huy Liệu",
+    "location": {
+      "lat": 21.0274431,
+      "lon": 105.8214833
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7fdb849822a8fbe3",
+    "name": "Nhà hàng Mẹt Đồng Quê",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trần Huy Liệu",
+    "location": {
+      "lat": 21.0304779,
+      "lon": 105.8198351
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "564294d591748e4b",
+    "name": "Bánh Cuốn Gia An",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trần Huy Liệu",
+    "location": {
+      "lat": 21.0303953,
+      "lon": 105.8196715
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4808f7726e8db8bf",
+    "name": "Gà rán",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0258135,
+      "lon": 105.8221384
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "846d8b97b6244519",
+    "name": "Nhà Hàng Lemon House",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0257766,
+      "lon": 105.8220995
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "5a8c1f6ce8b58bb1",
+    "name": "Nhà Hàng Lẩu Hơi Cosmos",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0257391,
+      "lon": 105.8220479
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e66502a5eee85158",
+    "name": "Nhà Hàng Lẩu Bà Téo",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0394206,
+      "lon": 105.7726814
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "01d51eecb313c076",
+    "name": "Lộc Vừng Quán",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0668508,
+      "lon": 105.780527
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "959ae4565de12279",
+    "name": "Quán Ăn Huế Nam Giao",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trần Quý Kiên",
+    "location": {
+      "lat": 21.038469,
+      "lon": 105.7917348
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "dd08914a9f75c357",
+    "name": "Lẩu Nấm Gia Khánh",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Vũ Phạm Hàm",
+    "location": {
+      "lat": 21.0200806,
+      "lon": 105.8009612
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "adc47726c832f8f8",
+    "name": "Lẩu Dê Vạn Xuân",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Vũ Phạm Hàm",
+    "location": {
+      "lat": 21.0195986,
+      "lon": 105.8008718
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e7fde1928f9ff63a",
+    "name": "Nhà hàng bún chả 25",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Vũ Phạm Hàm",
+    "location": {
+      "lat": 21.019075,
+      "lon": 105.7999327
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "767fa48552ec0591",
+    "name": "Quán bia Hà Nội",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Láng",
+    "location": {
+      "lat": 21.018957,
+      "lon": 105.8026611
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4bc8371db6c8c0f5",
+    "name": "Nhà Hàng Bia Hải Hói",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Vũ Phạm Hàm",
+    "location": {
+      "lat": 21.0177126,
+      "lon": 105.7980382
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "75ddb25d0d3c6dc6",
+    "name": "Nhà hàng Cảnh Hồ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Đường Trường Chinh",
+    "location": {
+      "lat": 21.0000656,
+      "lon": 105.8303812
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "26d32324ae1b3e6d",
+    "name": "Nhà Hàng Bia Lan Chín",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Láng Hạ",
+    "location": {
+      "lat": 21.0226243,
+      "lon": 105.8197796
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a5c76df53e348e2b",
+    "name": "Cửa Hàng Bia Hơi Duy Thái",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0610851,
+      "lon": 105.7838507
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "6b7962c98dd55456",
+    "name": "Mỳ Vịt Tiềm A Cường",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Ngọc Lâm",
+    "location": {
+      "lat": 21.0451806,
+      "lon": 105.8689215
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "4e473a2d5f1eeaf7",
+    "name": "Nhà Hàng Mì Vịt Tiềm A Cường",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Ngọc Lâm",
+    "location": {
+      "lat": 21.0452136,
+      "lon": 105.8688982
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8e814976eac0c05a",
+    "name": "Nhà Hàng Garden House",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0331966,
+      "lon": 105.8539228
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fbc756339a511f43",
+    "name": "Song Thu",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Châu Long",
+    "location": {
+      "lat": 21.0456459,
+      "lon": 105.8427155
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "01a7dbc7af1f0c87",
+    "name": "Nhà Hàng Linh Vy",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Cầu Gỗ",
+    "location": {
+      "lat": 21.0321531,
+      "lon": 105.8529438
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f25ebc71fef960aa",
+    "name": "VuVo BBQ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngọc Thụy",
+    "location": {
+      "lat": 21.0495334,
+      "lon": 105.8660349
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2061f9e60635e630",
+    "name": "little OpenAir restaurants",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0373274,
+      "lon": 105.849914
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "93c820278044e755",
+    "name": "việt xưa house",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0149865,
+      "lon": 105.8005193
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3741da7ac1d863c8",
+    "name": "El Loco - Tapas bar",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Ngõ 52 Tô Ngọc Vân",
+    "location": {
+      "lat": 21.0713832,
+      "lon": 105.8219909
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "b851342520ca363b",
+    "name": "Phở Thìn Bờ Hồ",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Đinh Tiên Hoàng",
+    "location": {
+      "lat": 21.0303491,
+      "lon": 105.8540297
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "06103fbca1e44d41",
+    "name": "The Fat Pig",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Quảng An",
+    "location": {
+      "lat": 21.0606197,
+      "lon": 105.8273324
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a1a8dbc034316af4",
+    "name": "Nhà Hàng Moonview",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Than",
+    "location": {
+      "lat": 21.0408213,
+      "lon": 105.8475681
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "3f71312a284371f8",
+    "name": "Great bun cha",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0358189,
+      "lon": 105.8527775
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "e40ec266d2b9d529",
+    "name": "Quán Bông",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0300745,
+      "lon": 105.8477592
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "9cd7672fb49a5b65",
+    "name": "Quán Ốc Vi Sài Gòn",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Gia Ngư",
+    "location": {
+      "lat": 21.0329908,
+      "lon": 105.8527343
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "8df6757c6597ee34",
+    "name": "Cửa Hàng Bún Chả 34",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Hàng Than",
+    "location": {
+      "lat": 21.0413124,
+      "lon": 105.8472298
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "fd441683263c663d",
+    "name": "Nhà Hàng Bún Chả - Nem Cua Bê",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0310886,
+      "lon": 105.8472628
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "ca21229307097019",
+    "name": "Nhà Hàng Akaari",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Văn Miếu",
+    "location": {
+      "lat": 21.0297825,
+      "lon": 105.8369781
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "46827c6ca7520972",
+    "name": "Cửa Hàng Chả Cá Kình Ký",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Hoà Mã",
+    "location": {
+      "lat": 21.0152867,
+      "lon": 105.852196
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2f1b6da7f6d16c9c",
+    "name": "Mai Anh Bun Cha Nem Ran",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0640184,
+      "lon": 105.8283344
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "65a1fbf5371f580d",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.024231,
+      "lon": 105.8428313
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1b10d667c3f16f0b",
+    "name": "Nhà Hàng MNA",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0314654,
+      "lon": 105.8546029
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a4464889fa2cdf9d",
+    "name": "lycuti house",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0357862,
+      "lon": 105.8532595
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "29016d71980a1d0b",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Bảo Khánh",
+    "location": {
+      "lat": 21.0303616,
+      "lon": 105.8507105
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "09318d81c6bc3907",
+    "name": "Panam'",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trương Hán Siêu",
+    "location": {
+      "lat": 21.0200757,
+      "lon": 105.8488735
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "7f89e2dac507d5df",
+    "name": "Wild Lotus",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0189237,
+      "lon": 105.8479564
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1dac6233e32ab402",
+    "name": "Quán Vịt Phúc",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9968015,
+      "lon": 105.8460382
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "93bb8957bc3d2105",
+    "name": "Cửa Hàng Chè Xưa Và Nay",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0511892,
+      "lon": 105.8389009
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "86032b2e9e6db93f",
+    "name": "Nhà Hang 33 Trúc Bạch",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Trúc Bạch",
+    "location": {
+      "lat": 21.0487656,
+      "lon": 105.8400701
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "a11a5c0476d0108d",
+    "name": "Panam' Cuisine",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Trương Hán Siêu",
+    "location": {
+      "lat": 21.0199124,
+      "lon": 105.848831
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "1c6f53afbf9557ce",
+    "name": "Nhà Hàng Long Hà",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9952842,
+      "lon": 105.8685706
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "c5e7cb606849c470",
+    "name": "Nhà Hàng Gia An",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9942155,
+      "lon": 105.8689212
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "03dcaa1e304d85cc",
+    "name": "Phở Hùng",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 20.9942121,
+      "lon": 105.8682849
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "25d06e29c3ba78f7",
+    "name": "Nhà Hàng Mộc Chay",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0454518,
+      "lon": 105.8155667
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "cd0d156b5dee2383",
+    "name": "Nhà Hàng Délices de Mai",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Quảng Bá",
+    "location": {
+      "lat": 21.065582,
+      "lon": 105.8226426
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "f9baeeac4ca5ba8c",
+    "name": "Nhà Hàng Hot Rock",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "",
+    "location": {
+      "lat": 21.0275728,
+      "lon": 105.824279
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "2da92a6e2cb48aa8",
+    "name": "CHU CHUrros",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Bà Triệu",
+    "location": {
+      "lat": 21.0256284,
+      "lon": 105.8514511
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "afbc685e1fb5b5d2",
+    "name": "Nhà hàng Phủ Lý",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Tô Hiệu",
+    "location": {
+      "lat": 21.0426409,
+      "lon": 105.7960114
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "cb4612777c87e8d0",
+    "name": "Nhà Hàng Cơm Việt Nam",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Phố Ấu Triệu",
+    "location": {
+      "lat": 21.0292118,
+      "lon": 105.8493515
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  },
+  {
+    "u_key": "eff3f46bf47a3ab1",
+    "name": "Viet Unique",
+    "type": "restaurant",
+    "city": "hanoi",
+    "address": "Tạ Hiện",
+    "location": {
+      "lat": 21.034321,
+      "lon": 105.8521912
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:28:17.850599"
+  }
+]

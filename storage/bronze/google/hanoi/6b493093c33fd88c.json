@@ -1,0 +1,244 @@
+{
+  "u_key": "6b493093c33fd88c",
+  "original_osm_name": "Steakout",
+  "google_raw": {
+    "formatted_phone_number": "0965 555 222",
+    "geometry": {
+      "location": {
+        "lat": 21.0199065,
+        "lng": 105.8565679
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0211570802915,
+          "lng": 105.8579262302915
+        },
+        "southwest": {
+          "lat": 21.0184591197085,
+          "lng": 105.8552282697085
+        }
+      }
+    },
+    "name": "Steakout",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–14:00, 15:00–22:00",
+        "Thứ Ba: 10:00–14:00, 15:00–22:00",
+        "Thứ Tư: 10:00–14:00, 15:00–22:00",
+        "Thứ Năm: 10:00–14:00, 15:00–22:00",
+        "Thứ Sáu: 10:00–14:00, 15:00–22:00",
+        "Thứ Bảy: 10:00–14:00, 15:00–22:00",
+        "Chủ Nhật: 10:00–14:00, 15:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Đức Thịnh Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/103377138368525943523/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtQFAlb5UiZh29w4GmPsCpqh6tWw3I_lVPeNx7SxhmM0Q3Qw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "đồ ăn ngon anh quản lí rất nhiệt tình không gian đẹp cực kì, không cần phải báo trước vẫn có trang trí bàn",
+        "time": 1771075690,
+        "translated": false
+      },
+      {
+        "author_name": "Long Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/116451064242686539995/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr5BwK8vR1UaDSJ9FBmA-6HpQ1g1WEq-wChIIEaVZ6k9Np3gCDZA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Rất lâu rồi mới quay lại Steakout, từ thời còn có cái súp hồ lô bên trong súp bên ngoài bánh mì tròn. Cho đến giờ bánh mì lát và pate vẫn rất ngon. Đồ khai vị ổn, ít lựa chọn hơn xưa. Bò mềm, mềm hơn nhiều đợt trước, nhưng sauce thì mình vẫn chưa ưng lắm, vang đỏ bị chua, tiêu đen thiếu chiều sâu, và sốt nấm thì nhạt. Mì nấm truffle thì lại ngon, lạ ghê.",
+        "time": 1758285080,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Như",
+        "author_url": "https://www.google.com/maps/contrib/102275867953832461750/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_AnpSmMSOEndFss-YAZGZzSgnkY6ZdtBDVMF_x-_QKNRXoZXF5A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "8,5/10 điểm\n\nQuán khá ok, không gian ổn.\nMình ăn suất ăn trưa 290k/ suất: salat, bò bít tết, tráng miệng và soup bí ngô\nBò vừa miệng.\nTôm hùm hơi nhỏ nhưng cũng khá ngọt, mềm.\n\n❣️❣️❣️\n\n(PS: Theo thang điểm của mình thì các quán ăn từ 7đ trở lên các bạn có thể thưởng thức và thấy khá ngon rồi đó.\nCác khách sạn/ địa điểm từ 7đ trở lên là ổn, sạch sẽ. 8 đ là tốt và ưng ý rồi nha 🌹🌹 Vì với mình 8đ là rất tốt/ giỏi rồi nha ⭐️\nMình luôn cố gắng giới thiệu một cách tốt nhất để các bạn có những lựa chọn vừa ý trên hành trình của bạn.\nChúc bạn luôn có những trải nghiệm tuyệt vời ❣️)",
+        "time": 1749448433,
+        "translated": false
+      },
+      {
+        "author_name": "Hạnh Phùng Đức",
+        "author_url": "https://www.google.com/maps/contrib/116173222172759032681/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWf5ZFJ10BsYfJRCBAgWtOAaHeWhcCPBkOOE64owZA-2Shsn5ty=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon, tươi, phục vụ rất tốt, đáng thử",
+        "time": 1772369731,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Hải",
+        "author_url": "https://www.google.com/maps/contrib/108935724753188211407/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdWV1gB9GtxFtkpctoKpbot2TXR2uT2Ijzz1ig-11icO_ZPQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Set 2 người 1100k ăn no đoành lắm, lần sau nếu đi sẽ gọi lẻ món thôi vì combo không ăn hết nổi\nQuán đẹp và trung tâm, đồ ăn lên cũng khá nhanh, mọi thứ đều chỉn chu từ nhân viên đến món ăn…",
+        "time": 1736997803,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 486
+  },
+  "harvested_at": "2026-04-28T16:14:57.257748"
+}

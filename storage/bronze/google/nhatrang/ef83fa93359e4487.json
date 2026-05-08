@@ -1,0 +1,173 @@
+{
+  "u_key": "ef83fa93359e4487",
+  "original_osm_name": "Ресторан Астана",
+  "google_raw": {
+    "formatted_phone_number": "0845 598 956",
+    "geometry": {
+      "location": {
+        "lat": 12.2340529,
+        "lng": 109.1953633
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2354280802915,
+          "lng": 109.1966973302915
+        },
+        "southwest": {
+          "lat": 12.2327301197085,
+          "lng": 109.1939993697085
+        }
+      }
+    },
+    "name": "АСТАНА ХАЛАЛ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 12:00–23:00",
+        "Thứ Ba: 12:00–23:00",
+        "Thứ Tư: 12:00–23:00",
+        "Thứ Năm: 12:00–23:00",
+        "Thứ Sáu: 12:00–23:00",
+        "Thứ Bảy: 12:00–23:00",
+        "Chủ Nhật: 12:00–23:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Fingafo Tim",
+        "author_url": "https://www.google.com/maps/contrib/110682903317508661191/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKWs3Q_G80ml7KKi__O-Rk8-HJBxt5QX0S7EL8h73TmMr0SNg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đồ ăn ở nhà hàng rất ngon, tôi đã đến đây 2 lần nhân viên sạch sẽ và nhiệt tình",
+        "time": 1750923866,
+        "translated": false
+      },
+      {
+        "author_name": "Uyên Thi",
+        "author_url": "https://www.google.com/maps/contrib/114010633050229977892/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-l2CAder5nRL5cYciAmy8JmwuAAm4ooC51YGostwKuMPNZIJ7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Tôi đã ăn trưa tại nhà hàng này ngày\nhôm qua, món ăn được nấu rất hoàn hảo, tôi muốn giới thiệu nó đến mọi người",
+        "time": 1750922930,
+        "translated": false
+      },
+      {
+        "author_name": "Chuot Vo",
+        "author_url": "https://www.google.com/maps/contrib/114697154736221701731/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYUXUVVTcproq3Rg0y7jjDVm2jMQqCx9KZi-yJaVqbTiyl-rV2=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Món ăn mantahs rất tuyệt và bonsaki , summer salad , pilaf , tất cả mọi thứ đều tuyệt , tôi sẽ quay lại",
+        "time": 1750924173,
+        "translated": false
+      },
+      {
+        "author_name": "Thiên Tường Lê",
+        "author_url": "https://www.google.com/maps/contrib/114311437359495534811/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBxgzw6kGUj2dX4HFwFc0GdTcsbCfite8yMw-4Dn73Z2_sxg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Tôi đã ăn trưa ở đây và món ăn được nấu rất ngon,tôi rất muốn giới thiệu với mọi người về món ăn",
+        "time": 1750923932,
+        "translated": false
+      },
+      {
+        "author_name": "Nikki & Joseph",
+        "author_url": "https://www.google.com/maps/contrib/102370713464116818955/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjG1IIHqLOAapkvIaDlFZMZcwbtBMXfajhIEmpo-xwVDayUkQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Lần đầu tiên, hai vợ chồng tôi được trải nghiệm ẩm thực Nga.\nChủ quán rất thân thiện đã tư vấn chúng tôi ăn dumling (hấp - chiên), với tôi thì món ăn đó nhiều thịt nhưng hấp chưa chín lắm nên bột còn hơi cứng. Dumling chiên ngon hơn, mọng nước nhưng chưa đặc biệt.\nMón salad cá hồi với tôi là khá ngon, có olive đen rất hợp với cá hồi. Trà ở đây cũng thơm, ngon.\nLần sau, tôi đến mong sẽ được ăn nhiều món đặc biệt của ẩm thực Nga hơn. Cám ơn quán đã nhiệt tình tiếp đón chúng tôi.",
+        "time": 1773277825,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 261
+  },
+  "harvested_at": "2026-05-02T15:42:20.754339"
+}

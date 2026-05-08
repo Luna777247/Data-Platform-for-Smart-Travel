@@ -1,0 +1,173 @@
+{
+  "u_key": "1c518e8f3a03bf5a",
+  "original_osm_name": "The Chói's Kitchen",
+  "google_raw": {
+    "formatted_phone_number": "0906 404 794",
+    "geometry": {
+      "location": {
+        "lat": 16.0707131,
+        "lng": 108.2091542
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0720888302915,
+          "lng": 108.2106602802915
+        },
+        "southwest": {
+          "lat": 16.0693908697085,
+          "lng": 108.2079623197085
+        }
+      }
+    },
+    "name": "CHOI’S - Korean Kitchen",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:30",
+        "Thứ Ba: 10:00–21:30",
+        "Thứ Tư: 10:00–21:30",
+        "Thứ Năm: 10:00–21:30",
+        "Thứ Sáu: 10:00–21:30",
+        "Thứ Bảy: 10:00–21:30",
+        "Chủ Nhật: 10:00–21:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Vân Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/111412684369752335187/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE-WLtyQGTRy2p6y1KBhNOilkwMWBRcw-tnLn84WhlRS0dyhOZ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Canh bò cay kim chi, với mỳ bò cay kim chi ngon, đáng thử, còn những món khác thì hơi ngọt với mình. Kimbap không có gì đặc biệt, lớp bột áo của gà và kimbap bị cứng",
+        "time": 1771847504,
+        "translated": false
+      },
+      {
+        "author_name": "Cát Tiên Nguyễn Phan",
+        "author_url": "https://www.google.com/maps/contrib/104064830994123434017/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsMWr8bJ1HXCDwtz2yS7W1TRgMwuy7dAHMYoHgvSEcqY7rwy3H=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Chói Kitchen là một quán ăn có không gian ấm cúng, trang trí đơn giản nhưng dễ thương. Món ăn được bày trí đẹp mắt, hương vị vừa miệng, đặc biệt là các món mang phong cách hiện đại nhưng vẫn giữ được nét riêng. Nhân viên phục vụ thân thiện, lên món khá nhanh. Giá cả hợp lý so với chất lượng. Đây là một địa điểm thích hợp để đi ăn cùng bạn bè hoặc gia đình.",
+        "time": 1769230289,
+        "translated": false
+      },
+      {
+        "author_name": "Bongappetit",
+        "author_url": "https://www.google.com/maps/contrib/109987528429210961907/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQe3pFxEbSAlebVhDhLf5JhTp2fhBuZKofOYPgzs92zs9rIb4=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn ngon, đầy đặn & giá cả hợp lý. Quán phục vụ siêu nhanh & cẩn thận. Món ngon nhất là gà Hàn Quốc sốt cay ngọt. Không gian hơi chật nên đông khách sẽ khá ồn. Sẽ quay lại!",
+        "time": 1763527232,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Thị Bình",
+        "author_url": "https://www.google.com/maps/contrib/104795604274001459360/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWKn4z_L2aJuq5Vs51BA8y4b2xoJ4LOkH3YkE9g_3pKpcy9A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình đi ăn cùng bạn bè, quán không gian nhỏ xinh ấm cúng. Đặc biệt đồ ăn rất hợp khẩu vị của mình và ngon miệng. Mọi người nên ghé quán ăn thử nhé 😋😋😋",
+        "time": 1765720344,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Mỹ Anh",
+        "author_url": "https://www.google.com/maps/contrib/109027525415380813750/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjv0EAFBuYNjLrVrAWuXrNLkwZuZz5op6L3q4WchV-eA-8JKr3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon á mn, nhân viên cũng nhiệt tình nữa, gà ngon k bị khô 😍",
+        "time": 1770355207,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 579
+  },
+  "harvested_at": "2026-04-29T09:48:14.168615"
+}

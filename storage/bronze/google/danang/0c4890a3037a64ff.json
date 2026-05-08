@@ -1,0 +1,173 @@
+{
+  "u_key": "0c4890a3037a64ff",
+  "original_osm_name": "Ha Lan",
+  "google_raw": {
+    "formatted_phone_number": "0914 310 022",
+    "geometry": {
+      "location": {
+        "lat": 15.8752831,
+        "lng": 108.3282812
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8766281302915,
+          "lng": 108.3296205302915
+        },
+        "southwest": {
+          "lat": 15.8739301697085,
+          "lng": 108.3269225697085
+        }
+      }
+    },
+    "name": "Nhà hàng Hà Lan",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "van anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112496108980563705385/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_vptvAbSAIrQmr4ERMjC28J5HLVZ4R-UCf8M9_3EluImlelxTRg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn ok, cô chủ quán nhiệt tình",
+        "time": 1707447840,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Ngoc Pham Thi",
+        "author_url": "https://www.google.com/maps/contrib/109508480755949629749/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTvYR2vjGzjnXb9PLyD0VkF0FH4RBPje-9_7f0u76i8yz13A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon, giá cả hợp lý hơn so với những quán gần đây, cô chủ nhiệt tình, quán mát mẻ, ngay phố cổ",
+        "time": 1773733694,
+        "translated": false
+      },
+      {
+        "author_name": "stephen williams",
+        "author_url": "https://www.google.com/maps/contrib/108281340641559147858/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVq5jLuJIvM4i9RAl4peFOajGM4FR_chJ29MRIk2TFzUC5fg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một viên ngọc quý khác ở Phố cổ Hội An!\n\nKhông nhạt nhẽo và đắt đỏ như những quán ăn lớn hào nhoáng mọc lên dọc con đường dẫn đến đó.\n\nRẻ mà ngon.\n\nMột bà chủ dễ thương làm việc chăm chỉ để chế biến những món ăn Việt tuyệt vời.\n\nTặng thêm trái chanh dây miễn phí ở cuối bữa ăn, thật là một cử chỉ tuyệt vời. Nhất định sẽ quay lại ăn tối nay!!\n\nHãy ủng hộ nếu bạn có cơ hội nhé.",
+        "time": 1772172096,
+        "translated": true
+      },
+      {
+        "author_name": "Peter Hullah",
+        "author_url": "https://www.google.com/maps/contrib/117038596622829153161/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVouaDfROYe0AX4G_Oy9ADgsIcFk9ktP8o5b7O1n8_VXe-UPLM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bạn có thể đến bất kỳ nhà hàng sang trọng nào ở Hội An và ăn những món ăn tầm thường với giá cả cắt cổ nếu muốn.\n\nHoặc bạn có thể đến đây, như chúng tôi đã làm hai lần, và thưởng thức những món ăn ngon nhất thành phố: Hoành thánh chiên giòn ngon đến nỗi làm lu mờ tất cả những nơi khác;\n\nMì Quảng (mì sợi dẹt) thì ngon tuyệt vời;\n\nMột đĩa mì giòn rụm tuyệt hảo với đầy ắp topping;\n\nCà tím xào hành tây - ngon tuyệt;\n\nVà nhiều món khác nữa.\n\nTất cả được thưởng thức cùng một ly gin & tonic ngon tuyệt!\n\nVà một bà chủ rất niềm nở và luôn tươi cười, khiến bạn cảm thấy hạnh phúc vì được sống.\n\nTôi đã nhớ tất cả rồi.",
+        "time": 1768045781,
+        "translated": true
+      },
+      {
+        "author_name": "Geraldine Bevis",
+        "author_url": "https://www.google.com/maps/contrib/107057381643262486527/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGeLC8UyXZz3ec3U5JRESGfqhIArt-xOKoAlGTuRDzLXTAdLCIIw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ăn nhỏ nằm khuất khỏi khu vực đông đúc, không hẳn là nhà hàng. Tuy nhiên, mọi thứ đều rất ngon. Có một cặp vợ chồng tự phục vụ nên mọi thứ cần chút thời gian, đừng đến đây nếu bạn đang vội. Chúng tôi đã ăn thịt heo nướng, ngon nhất mà tôi từng ăn ở Việt Nam, salad đu đủ và cà tím xào hành. Kết thúc bằng món chanh dây ngon tuyệt, không chua như ở khách sạn!",
+        "time": 1771725893,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 338
+  },
+  "harvested_at": "2026-04-28T16:41:52.121923"
+}

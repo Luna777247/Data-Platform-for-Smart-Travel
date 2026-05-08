@@ -1,0 +1,143 @@
+{
+  "u_key": "b129a8d524e3c612",
+  "original_osm_name": "Jungle Bar",
+  "google_raw": {
+    "formatted_phone_number": "6019 8888",
+    "geometry": {
+      "location": {
+        "lat": 1.2787133,
+        "lng": 103.8426546
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.280179680291502,
+          "lng": 103.8440824802915
+        },
+        "southwest": {
+          "lat": 1.277481719708498,
+          "lng": 103.8413845197085
+        }
+      }
+    },
+    "name": "Jungle Ballroom",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 19:00–02:00",
+        "Thứ Năm: 19:00–02:00",
+        "Thứ Sáu: 19:00–02:00",
+        "Thứ Bảy: 19:00–02:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Flo Yeow",
+        "author_url": "https://www.google.com/maps/contrib/101597484841229205770/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCED0nHINoONtoIhYrg_037nt9gzG8G4ZOxJ3RLinEhCioWYU8hrs=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Với rất nhiều quán bar và câu lạc bộ sôi động ở khu vực Duxton, buổi tối của chúng tôi tại Jungle Ballroom lại hơi gây thất vọng. Có lẽ chúng tôi đến hơi sớm, nhưng không khí ở đó khá \"nhạt nhẽo\" và mang hơi hướng kiểu cách, điều này không hợp với chúng tôi. Cuối cùng chúng tôi đã rời đi ngay sau đó. Tuy nhiên, vì nhiều người đánh giá cho rằng quán chỉ \"thực sự sôi động\" sau 9 giờ tối, nên tôi có thể sẽ cho nó một cơ hội khác khi có nhiều người hơn để cân bằng lại không khí.",
+        "time": 1772347433,
+        "translated": true
+      },
+      {
+        "author_name": "Sarah Yasmin",
+        "author_url": "https://www.google.com/maps/contrib/113045651016966781899/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbYzZnWdj1ma-1d0bpOQHEkxz9CQ5M8DseA8Q08C_e85inmmU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Jungle Ballroom ở Duxton thật sự rất tuyệt vời! Sảnh khách sạn này toát lên vẻ đẹp hiện đại, sang trọng — mọi thứ từ ánh sáng đến cách bài trí đều toát lên vẻ thanh lịch tự nhiên. Âm nhạc du dương, tạo nên bầu không khí hoàn hảo mà không hề lấn át.\n\nCác loại cocktail sáng tạo và mạnh mẽ, cùng đội ngũ nhân viên thân thiện và chu đáo, mang đến trải nghiệm thoải mái và thăng hoa. Nơi đây hoàn hảo cho những buổi tiệc tùng cùng bạn bè, hẹn hò thân mật, hay đơn giản là một buổi tối thư giãn.\n\nMẹo nhỏ: Thứ Sáu và Thứ Bảy thường rất đông khách, vì vậy hãy lên kế hoạch cho phù hợp. Chắc chắn đây là một trong những sảnh khách yêu thích của tôi ở Singapore.",
+        "time": 1760949175,
+        "translated": true
+      },
+      {
+        "author_name": "Mark Nerney",
+        "author_url": "https://www.google.com/maps/contrib/117832671616364294355/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLKvylR78PpSShWND7cMV65AB-_SvX-xH4SUEgy9XEEInJJK22=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nếu bạn đang tìm kiếm sự kết hợp hoàn hảo giữa thiết kế tinh tế, cuộc sống về đêm sôi động và dịch vụ khách sạn đẳng cấp thế giới, thì không cần tìm đâu xa ngoài Mondrian Singapore. Sau 10 ngày tuyệt vời tại đây, tôi có thể tự tin nói rằng khách sạn này đã chính thức trở thành địa điểm yêu thích nhất của tôi.\n\nVị trí đắc địa & Không khí cộng đồng tuyệt vời\nKhách sạn sở hữu vị trí trung tâm tuyệt vời ngay giữa thành phố, với năng lượng và văn hóa sôi động của khu phố Tàu ngay trước cửa. Tuy nhiên, điều thực sự làm nên sự khác biệt của khách sạn này chính là không khí cộng đồng thân thiện. Có một nguồn năng lượng náo nhiệt, chào đón lan tỏa khắp khách sạn—đặc biệt là ở khu vực hồ bơi, nơi bạn có thể dễ dàng thư giãn, giao lưu và tận hưởng bầu không khí tuyệt vời.\n\nCác phòng Shophouse Suites\nỞ trong một trong những phòng Shophouse Suites là một giấc mơ. Đội ngũ thiết kế đã hoàn toàn thành công trong việc tạo nên vẻ đẹp thẩm mỹ—đó là sự kết hợp hoàn hảo giữa phong cách Bắc Âu hiện đại, sạch sẽ được hòa quyện một cách tự nhiên với di sản truyền thống phong phú của Singapore. Nó giống như một khu nghỉ dưỡng sang trọng, đầy phong cách mà tôi thực sự không muốn rời đi.\nPhòng khiêu vũ Jungle Ballroom & Trải nghiệm ẩm thực tuyệt vời\nCác lựa chọn ăn uống và giải trí về đêm ở đây thực sự đẳng cấp. Jungle Ballroom không chỉ là một quán bar; đây chắc chắn là một trong những câu lạc bộ sôi động nhất Singapore hiện nay. Với âm nhạc sống động quyến rũ và những ly cocktail được pha chế vô cùng tinh tế, đây là địa điểm lý tưởng để kết nối với mọi người và tận hưởng niềm vui. Thêm vào đó là những bữa brunch tuyệt vời – cách tốt nhất để bắt đầu một ngày mới – và bạn sẽ có một trải nghiệm khó có thể sánh bằng.\n\nTrái tim của khách sạn: Đội ngũ nhân viên\nĐiều thực sự biến kỳ nghỉ tuyệt vời này thành một trải nghiệm 10 ngày ngoạn mục chính là đội ngũ nhân viên. Họ đã nỗ lực hết mình để làm cho kỳ nghỉ của tôi trở nên vô cùng đặc biệt. Tôi đặc biệt muốn gửi lời cảm ơn chân thành đến những cá nhân tuyệt vời đã làm cho chuyến đi này trở nên khó quên:\n\n• Jea-Ann\n• Adrian\n• Vi\n\n• Tovi\n• Gladys\n• Shafikah\n• Venus\n\nCảm ơn đội ngũ xuất sắc này và tất cả mọi người tại Mondrian vì một trải nghiệm tuyệt vời!",
+        "time": 1772727575,
+        "translated": true
+      },
+      {
+        "author_name": "Asia Apparel",
+        "author_url": "https://www.google.com/maps/contrib/112168507594751691491/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD8kZzALpBZ8Zx9p7tq2Z_TRSPs-ut4y7x-4O6Lh4nHfqiFH5w=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đã đến đây một lúc để thư giãn sau những sự kiện F1 cuối tuần mệt mỏi. Âm nhạc hay và không gian ấm cúng, sang trọng. Âm thanh và ánh sáng rất thoải mái và vừa phải. Dịch vụ và lòng hiếu khách đạt chuẩn 5 sao. Sẽ quay lại cho một đêm tiệc tùng thực sự.",
+        "time": 1759763732,
+        "translated": true
+      },
+      {
+        "author_name": "Joseph Bergonia",
+        "author_url": "https://www.google.com/maps/contrib/106741015573981716345/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgMYaiFAa4pbyXtV9NA23kQxaJiRt2S4O80uImz2Te_F0ZvZYe=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Jungle Ballroom hiện đang ở một đẳng cấp khác, và việc Jea-Ann quay trở lại càng làm cho nó trở nên tuyệt vời hơn. Năng lượng tràn ngập không ngừng nghỉ, âm nhạc hoàn hảo, và đêm dành cho phái nữ (Ladies Night) thực sự là một trải nghiệm tuyệt vời—sàn nhảy chật kín, nhịp điệu tuyệt vời, và đám đông luôn khuấy động không khí.\n\nNgay từ khi bước vào, mọi thứ đều diễn ra suôn sẻ. Buổi tối trôi chảy, không khí luôn sôi động, và bạn có thể cảm nhận được sự chu đáo thực sự ở hậu trường. Jea-Ann tạo nên phong cách riêng—vô cùng thân thiện, luôn có mặt và đảm bảo mọi người đều có khoảng thời gian tuyệt vời nhất. Sự tận tâm đó thực sự làm cho toàn bộ trải nghiệm trở nên nổi bật.\n\nNếu bạn muốn một địa điểm vui chơi về đêm với năng lượng cao, dịch vụ tuyệt vời và lý do để quay lại nhiều lần, Jungle Ballroom luôn đáp ứng được điều đó. Chắc chắn rồi—tôi sẽ quay lại.",
+        "time": 1769918703,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 303
+  },
+  "harvested_at": "2026-04-30T15:22:23.074650"
+}

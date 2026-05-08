@@ -1,0 +1,109 @@
+{
+  "u_key": "3739387110d2387b",
+  "original_osm_name": "Quách Xuyên",
+  "google_raw": {
+    "formatted_phone_number": "0939 382 327",
+    "geometry": {
+      "location": {
+        "lat": 10.032497,
+        "lng": 105.7795003
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.0338866302915,
+          "lng": 105.7808007302915
+        },
+        "southwest": {
+          "lat": 10.0311886697085,
+          "lng": 105.7781027697085
+        }
+      }
+    },
+    "name": "Nhà nghỉ Quách Xuyên",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:30–22:30",
+        "Thứ Ba: 05:30–22:30",
+        "Thứ Tư: 05:30–22:30",
+        "Thứ Năm: 05:30–22:30",
+        "Thứ Sáu: 05:30–22:30",
+        "Thứ Bảy: 05:30–22:30",
+        "Chủ Nhật: 05:30–22:30"
+      ]
+    }
+  },
+  "harvested_at": "2026-04-30T15:17:40.635782"
+}

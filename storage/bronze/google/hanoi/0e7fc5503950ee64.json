@@ -1,0 +1,174 @@
+{
+  "u_key": "0e7fc5503950ee64",
+  "original_osm_name": "Ibero Craft Beer",
+  "google_raw": {
+    "formatted_phone_number": "0981 519 669",
+    "geometry": {
+      "location": {
+        "lat": 21.0250559,
+        "lng": 105.8416449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0264129302915,
+          "lng": 105.8429242802915
+        },
+        "southwest": {
+          "lat": 21.02371496970849,
+          "lng": 105.8402263197085
+        }
+      }
+    },
+    "name": "iBiero Craft Beer Station",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Hoa Hiin",
+        "author_url": "https://www.google.com/maps/contrib/113909769856393830505/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWumNYvBjsdFhtyNFqlgyWJRPT7zBCmL5KFoBSUsjhJ03DSis4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không gian mới rất đẹp.\n\nQuán có quy mô lớn, phong cách sang trọng. Có khu ngồi chung tầng 1 và khu phòng vip tầng 2. Đồ ăn rất ngon. Bia có nhiều loại với hương vị hoa quả nhưng đặc biệt nhất vẫn là bia Double IPA và Cốm mùa thu Hn. Phục vụ nhanh, nhân viên nhanh nhẹn, cởi mở.",
+        "time": 1759924760,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Thanh Tu",
+        "author_url": "https://www.google.com/maps/contrib/116571559233125609503/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhqSWC0g5qoOlJiaTw2VtXvB-9fSk-QVo3gD1HL6RDtcpwehiv8Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán có quy mô lớn, phong cách sang trọng, có nhạc sống. Có khu ngồi chung tầng 1 và khu phòng vip tầng 2. Đồ ăn rất ngon. Bia có nhiều loại với hương vị hoa quả nhưng đặc biệt nhất vẫn là bia Double IPA. Phục vụ nhanh, nhân viên nhanh nhẹn, cởi mở.",
+        "time": 1749991056,
+        "translated": false
+      },
+      {
+        "author_name": "Bao Tran",
+        "author_url": "https://www.google.com/maps/contrib/101782044885162839953/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSx_EksZV-wPt1k8LGDf8SBIszdcOEr9nd8kFJCh3TmHDuCDLjzA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nhà hàng bia tươi, bia thủ công có khuôn viên rộng rãi, decor đẹp, nằm ngay trung tâm, cạnh ga tàu Hà Nội.\nThực đơn phong phú, chế biến rất ngon, nhất là các món Tây.\nNhân viên rất chuyên nghiệp, lịch sự, có chương trình âm nhạc sống hoặc mở nhạc rất hay.\nChất lượng bia thủ công ngon, có rất nhiều loại để thử. Đang có chương trình buffet bia 169k và 269k rất đáng để những người mê bia thưởng thức.",
+        "time": 1688134588,
+        "translated": false
+      },
+      {
+        "author_name": "Ngocanh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106241233987908269463/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzkcoHz2xyLkdbOIkcQ3mQDBniJAPVW5DgTGuhjVsOwK60tJ9svg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Món ăn rất tuyệt vời và ngon miệng.\nKhông gian rất rộng rãi, thoải mái.\nĐặc biệt tôi rất thích món lẩu thái chua cay và món thịt thăn bò.",
+        "time": 1725893924,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Duy Bình",
+        "author_url": "https://www.google.com/maps/contrib/114669952179274100856/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRnInoBmC2usx8p3rgrQi6TcmEWLGocTcuzWWSTN3ctPOp5bZ1Eg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Bia thủ công iBiero được ra đời vào cuối năm 2016 với người sáng lập - Founder Đỗ Giang Vinh - Một người Việt Nam chân chính cùng niềm đam mê bia thủ công sâu sắc với mong muốn cháy bỏng tạo nên một thương hiệu: BIA THỦ CÔNG SÁNG TẠO CỦA NGƯỜI VIỆT, do người Việt làm chủ, mang những tinh túy, hương vị và phong cách Việt với bạn bè trong nước và quốc tế.\n\nĐỊNH VỊ: Bia thủ công ngon nhất của người Việt - The Finest Vietnamese Craft Beer\nÝ nghĩa thương hiệu:\nTên gọi iBiero xuất hiện từ nguồn cảm hứng trong quốc tế ngữ: “Biero” nghĩa là “Bia”. Kết hợp với chữ “i” trong tiếng Anh “Innovative” - Sức sáng tạo không ngừng. iBiero là sự kết hợp tên gọi thương hiệu hoàn hảo: Vị bia của óc sáng tạo, khác biệt với tất cả các loại bia trên thị trường, toát lên mong muốn tiên phong với mô hình phát triển, đột phá để tạo nên những hương vị bia thủ công độc đáo và thơm ngon nhất.\n\nVì sao bia thủ công ngon và được ưa thích?\n- Nguyên liệu CAO CẤP, nhập khẩu từ các nước phát triển như Anh, Đức, Bỉ....\n- Công thức độc quyền,hương vị sáng tạo phù hợp với khẩu vị Người việt\n- Cách thưởng thức tinh tế sử dụng mọi giác quan: thị giác (màu sắc), vị giác (độ đắng, độ cồn), khứu giác (hương thơm)\n- Đa dạng hương vị, đa dạng trải nghiệm\n- Chất lượng đảm bảo, tuyệt đối AN TOÀN, không chứa chất bảo quản hay hóa chất tẩy rửa",
+        "time": 1713412860,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 958
+  },
+  "harvested_at": "2026-04-28T16:32:38.623042"
+}

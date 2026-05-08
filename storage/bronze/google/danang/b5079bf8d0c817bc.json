@@ -1,0 +1,173 @@
+{
+  "u_key": "b5079bf8d0c817bc",
+  "original_osm_name": "Nguyên Tuygên",
+  "google_raw": {
+    "formatted_phone_number": "0905 860 701",
+    "geometry": {
+      "location": {
+        "lat": 16.0491332,
+        "lng": 108.2471136
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.05050853029151,
+          "lng": 108.2485521302915
+        },
+        "southwest": {
+          "lat": 16.0478105697085,
+          "lng": 108.2458541697085
+        }
+      }
+    },
+    "name": "Nguyên Nguyên - Handmade Gifts & Accessories",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:00",
+        "Thứ Ba: 09:00–21:00",
+        "Thứ Tư: 09:00–21:00",
+        "Thứ Năm: 09:00–21:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–21:00",
+        "Chủ Nhật: 09:00–21:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Han Vy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100323199256689993508/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuRK5EUR-DOdSsZB03qBPFis2Usu2YV3XyFg4V3RASIDSxT7tuzQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "highly recommend shop đến mọi người tìm mua đồ souvenir và vòng tay\n\nmình đã lựa được nhiều vòng tay xinh và quà handmade dễ thương ở đây và còn được các bạn gói quà rất chỉnh chu.\n\nsẽ còn ghé lại nhìu lần ạaa 🛍️🥰",
+        "time": 1762069176,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Chi HOANG",
+        "author_url": "https://www.google.com/maps/contrib/106218485625677257167/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPlEIkNe5A27dDxcJI5Ro6J4x8247wyFGQkCuZow361wPIj-5w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nhân viên ở tiệm rất nhiệt tình và dễ thương. Mình có mua vòng bồ đề, nhờ xâu thêm charm mang theo thì các bạn cũng hỗ trợ ngay. Rất đáng để ghé nếu muốn mua quà hoặc đồ kỷ niệm.",
+        "time": 1756842831,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Ngo",
+        "author_url": "https://www.google.com/maps/contrib/115023748121998942687/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaOeM81p_m-6S3mtGWc1Dj68CjA6wM0vGtdbLcjmbSqTtIO1TdjA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Cuốn quá. Tới đây mua quà Noel được cho cả gia đình luôn. 🥹💯🛎️",
+        "time": 1762060735,
+        "translated": false
+      },
+      {
+        "author_name": "Nghi Dư",
+        "author_url": "https://www.google.com/maps/contrib/115247763988243801354/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl8nRddK-9EcUWcYBwPPYH99ij-yMoENngCyyK23TbWE1f3M6Ppw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Có duyên tìm được tiệm quá là ưng. Rất dễ thương và chất lượng.\nTiệm bán nhiều loại đá và bạn có thể làm thủ công kết dây tại chỗ.\nMình làm được 1 dây xinh",
+        "time": 1751172552,
+        "translated": false
+      },
+      {
+        "author_name": "Nguen Nguen",
+        "author_url": "https://www.google.com/maps/contrib/112551018632083861903/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIlLcKqaYZm8B0GTFZ6qHGaMR5eu5Ea6On5njEGOVOHINlwZ9Z=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tình cờ đi dạo ngang qua, thấy cùng tên nên mình ghé vào xem thử, tiệm bán các loại phụ kiện từ bạc vs đá đẹp lắm >",
+        "time": 1757058583,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 321
+  },
+  "harvested_at": "2026-04-29T09:42:05.175211"
+}

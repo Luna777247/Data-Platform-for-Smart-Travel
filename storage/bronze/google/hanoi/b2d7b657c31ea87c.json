@@ -1,0 +1,174 @@
+{
+  "u_key": "b2d7b657c31ea87c",
+  "original_osm_name": "Nhà Hàng High Way 4",
+  "google_raw": {
+    "formatted_phone_number": "024 3771 6372",
+    "geometry": {
+      "location": {
+        "lat": 21.0294265,
+        "lng": 105.8092779
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03082683029151,
+          "lng": 105.8106137302915
+        },
+        "southwest": {
+          "lat": 21.0281288697085,
+          "lng": 105.8079157697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Highway4",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Linh Bùi",
+        "author_url": "https://www.google.com/maps/contrib/116847790098234938328/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxRDnM8LAR0GLjuwRcJKNrBG_LogvtpvMvlb69L5uC-lPl2hbqWQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Delicious, home-style meals that hit just the right note! I enjoyed the crab soup with rice, braised pork with coconut, and fried tofu with scallions—all perfectly balanced in flavor. The restaurant has a charming atmosphere, and sitting on the second-floor table gives you a lovely view of the lake. A cozy spot for a satisfying and comforting meal! Đồ ăn ngon, đậm chất cơm nhà và vừa vặn hương vị. Mình đã thưởng thức cơm canh cua, thịt kho dừa và đậu tẩm hành—tất cả đều hài hòa và ngon miệng. Không gian quán cũng rất xinh xắn, đặc biệt ngồi tầng 2 còn có view hồ rất đẹp. Một địa điểm ấm cúng cho bữa ăn ngon và trọn vẹn!",
+        "time": 1762833233,
+        "translated": false
+      },
+      {
+        "author_name": "Do Huy",
+        "author_url": "https://www.google.com/maps/contrib/114070425823730909924/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMtmhC4Ufw_ecTvXIGJI_jlbMih_RAzqrqJ3IVCz9VtfqK3vPZWA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán xinh, rất kiểu tây tây thoáng thoáng vui vui\nĐồ ăn ngon nha, rất thích món xúc bánh đa, cá chuối đậu cũng rất thơm, ngậy nha, ăn vào lắm, gỏi ngó sen tươi mát, nêm nếm tròn vị chua ngọt\nKhông gian rộng rãi, thích hợp đi đông cũng được nha, lên đồ khá nhanh\nGiá ở mức ổn, vừa phải, tầm trên dưới 200k/1ng nhé, thấy xứng đáng ạ",
+        "time": 1766509635,
+        "translated": false
+      },
+      {
+        "author_name": "NQT",
+        "author_url": "https://www.google.com/maps/contrib/109865199211309677443/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtanFLhV635uadPkaoo_hiLV9UHr_tSuZfilHxITuq5l_52XKMlA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Gia đình chúng tôi là khách hàng của Highway 4 Kim Mã từ năm 2013.\n\n2 vợ chồng quen nhau lần đầu tại nhà hàng này nên sau này cứ 8/12 hàng năm kỉ niệm ngày cưới là chúng tôi lại đến.\n\nBây giờ thì đã có thêm 2 nhóc to đùng rồi.\n\nNhà hàng vẫn như xưa, từ Menu cho đến thiết kế, suốt hơn 10 năm gần như không đổi. Các món ăn rất vừa miệng, và không thể không nhắc đến món rượu mơ của nhà hàng.\n\nGiá cả thì cực hợp lý, nếu không muốn nói là rẻ so với giá trị.\n\nChúc nhà hàng sẽ còn tồn tại và phát triển thêm nhiều năm nữa.",
+        "time": 1765199980,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Tong",
+        "author_url": "https://www.google.com/maps/contrib/107592497418020769551/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBRDvWOy4kjPNKpHK05tP-RpWuvYRfGuqAYS_6J7656hvJd9v8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Không gian đẹp. Khoái nhất là thử 12 vị rượu miền núi Tây Bắc. Và món châu chấu dế mèn rang. Canh cua cũng ngon. Khấu đuôi bò hầm cũng ngon.",
+        "time": 1705750505,
+        "translated": false
+      },
+      {
+        "author_name": "CNF14 Cao Thị Giang",
+        "author_url": "https://www.google.com/maps/contrib/103937997323442744593/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZF5QAD1Ku04kLt1DzKZbKtDR981XowT2D8UF-oqnHa_YMXPI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 năm trước",
+        "text": "Giá đắt hơn so với chất lượng đồ ăn.\nNhững món xào nấu cần ngấm gia vị như ếch xào măng thì rất nhạt nhẽo.\nChâu chấu rang cũng bị hỏng vài con (vì không phải đồ tươi).\nDải heo nướng thì quá khô và dai.\nDuy chỉ có món má heo nướng thì ổn.",
+        "time": 1690684149,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 558
+  },
+  "harvested_at": "2026-04-28T16:29:24.717204"
+}

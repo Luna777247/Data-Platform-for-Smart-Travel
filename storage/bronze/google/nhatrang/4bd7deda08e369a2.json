@@ -1,0 +1,173 @@
+{
+  "u_key": "4bd7deda08e369a2",
+  "original_osm_name": "Some Motobikes",
+  "google_raw": {
+    "formatted_phone_number": "0383 409 003",
+    "geometry": {
+      "location": {
+        "lat": 12.2305148,
+        "lng": 109.1971077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2318368802915,
+          "lng": 109.1984802302915
+        },
+        "southwest": {
+          "lat": 12.2291389197085,
+          "lng": 109.1957822697085
+        }
+      }
+    },
+    "name": "Thuê Xe Máy Nha Trang - Sam Motorbike",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:00",
+        "Thứ Ba: 07:00–21:00",
+        "Thứ Tư: 07:00–21:00",
+        "Thứ Năm: 07:00–21:00",
+        "Thứ Sáu: 07:00–21:00",
+        "Thứ Bảy: 07:00–21:00",
+        "Chủ Nhật: 07:00–21:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Cò",
+        "author_url": "https://www.google.com/maps/contrib/112369108970254706452/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXakMgD9z69sW6Ms4OKM5Dm11q6CfSYxPpagujAiGuIzQggXAX73g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhiều xe mới, mẫu mã đa dạng, nhân viên nhiệt tình. Mình ở xa mà cũng giao tận nơi, 10đ",
+        "time": 1772850278,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Hằng",
+        "author_url": "https://www.google.com/maps/contrib/110192122786111064837/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJjYB9oyIenshWKnC3wG4gUpL9FzLgdcia-zZ5nrMMI8ozAkR7=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Xe máy đời mới, mũ hãng đảm bảo\nThuê qua khách sạn lên chắc cao hơn chút",
+        "time": 1765994306,
+        "translated": false
+      },
+      {
+        "author_name": "Van Anh",
+        "author_url": "https://www.google.com/maps/contrib/101278301525737295278/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaFO-CbGIc2nmqBt-hq7zxcwlra-HWZtS96r3owlqlueNB14Kx=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Thuê xe đủ 24h, giao tận nơi khách sạn ở đường Trần phú, nhanh chóng giao và trả xe, xe cũng mới và đúng yêu cầu",
+        "time": 1758979643,
+        "translated": false
+      },
+      {
+        "author_name": "Ngân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109778424686604828067/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJ7MOVXaB0zKL6BcJXPojH47BI1hlfkC0uY4iSF8RqTxR8Aw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Dịch vụ tuyệt vời được giao xe tới tận nơi, chất lượng xe khỏi phải bàn toà xe đời mới, nvien chủ đều dễ thương nhiệt tình. 10d kc nhưng 👍",
+        "time": 1733752913,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Dozzi",
+        "author_url": "https://www.google.com/maps/contrib/118354848223494392945/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1r30o8jLUmKxRhz4qkSiwV3-HEqRDuCiSFKgnrkH0fdWUnMM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Giao xe rất đúng giờ, các bạn còn hỗ trợ tận tình chỗ đi ăn, đi chơi trong thành phố. Xe rất mới , 6 sao nhé.",
+        "time": 1733604454,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 80
+  },
+  "harvested_at": "2026-05-02T16:09:12.057583"
+}

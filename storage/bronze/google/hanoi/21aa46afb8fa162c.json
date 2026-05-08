@@ -1,0 +1,40 @@
+{
+  "u_key": "21aa46afb8fa162c",
+  "original_osm_name": "NNT Hotel",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0195929,
+        "lng": 105.8496499
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0209579302915,
+          "lng": 105.8510055802915
+        },
+        "southwest": {
+          "lat": 21.0182599697085,
+          "lng": 105.8483076197085
+        }
+      }
+    },
+    "name": "Nnt Hotel",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Hiệp Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102593368979431637354/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvqacNQBphrcCymwg4pJrmhb5y6oYHP2dbsYuoNlfa3Yilq8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "tốt đẹp quá",
+        "time": 1659117511,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-27T19:59:03.204829"
+}

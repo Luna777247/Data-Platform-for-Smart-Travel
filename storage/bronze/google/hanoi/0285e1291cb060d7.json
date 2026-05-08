@@ -1,0 +1,173 @@
+{
+  "u_key": "0285e1291cb060d7",
+  "original_osm_name": "Hà Nội Posh Boutique",
+  "google_raw": {
+    "formatted_phone_number": "024 6328 8761",
+    "geometry": {
+      "location": {
+        "lat": 21.0398103,
+        "lng": 105.847782
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.04113253029151,
+          "lng": 105.8491732302915
+        },
+        "southwest": {
+          "lat": 21.0384345697085,
+          "lng": 105.8464752697085
+        }
+      }
+    },
+    "name": "Hanoi Posh Boutique Hotel",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 00:00–12:00",
+        "Thứ Ba: 00:00–12:00",
+        "Thứ Tư: 00:00–12:00",
+        "Thứ Năm: 00:00–12:00",
+        "Thứ Sáu: 00:00–12:00",
+        "Thứ Bảy: 00:00–12:00",
+        "Chủ Nhật: 00:00–12:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Giang Đặng",
+        "author_url": "https://www.google.com/maps/contrib/113073261878227582587/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEXQ1jIpbdX53-_3z8mtbpgiJxQmreL9j0HRY4IDg-6ouV2Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Phòng ở sạch sẽ, thoải mái, khách sạn sửa sang lại rất khang trang, vị trí gần trung tâm thuận tiện đi lại, có city view, rất hài lòng!",
+        "time": 1752721179,
+        "translated": false
+      },
+      {
+        "author_name": "Toàn Đào",
+        "author_url": "https://www.google.com/maps/contrib/106949740530342838494/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkb5ewqFJF-9WrH6GMTLE51a6fayjN8VxWIe1uRTlCMeE41eRs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Phòng ốc rộng rãi, nhà vệ sinh sạch sẽ, dịch vụ tốt , anh chủ và bạn lễ tân rất dễ thương và nhiệt tình. Đi lại thuận tiện, xung quanh nhiều quán ăn ngon.",
+        "time": 1731585521,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Phạm",
+        "author_url": "https://www.google.com/maps/contrib/114000191561772218999/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK21yiJtI_npwpqZSPLB9JWT7P5qrRLpMIO7B4OC831gEpggw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Vị trí đắc địa đi lại rất tiện , phòng sạch đẹp view đẹp. Ông chủ vui tính nhiệt tình. Tôi rất hài lòng",
+        "time": 1738717731,
+        "translated": false
+      },
+      {
+        "author_name": "vu ngan",
+        "author_url": "https://www.google.com/maps/contrib/117031731502812089971/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjVzWnbscJTaJAdBY62LGR_Iql37l0e0XdtrNqkP6QVt41W9n=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn ở Trung tâm rất thuận tiện cho việc đi lại và khám phá Thủ Đô. Phòng sạch sẽ thoáng mát, nhân viên nhiệt tình chu đáo. Tôi sẽ chọn ở đây nếu đến Hà Nội.",
+        "time": 1714829939,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106831609459091774488/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvWiFCagt3H34O231zaDidm4JlalSkfXmP78dow7q4s6KQhg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ks khá tốt, phòng sạch thoáng. Nhân viên chu đáo nhiệt tình thân thiện. Tôi đã có những trải nghiệm thật tuyệt khi ở Hà Nội. Tôi sẽ giới thiệu bạn bè về địa chỉ tuyệt vời này.",
+        "time": 1738673758,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 623
+  },
+  "harvested_at": "2026-04-27T19:59:18.188575"
+}

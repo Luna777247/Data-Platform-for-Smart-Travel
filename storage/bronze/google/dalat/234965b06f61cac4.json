@@ -1,0 +1,173 @@
+{
+  "u_key": "234965b06f61cac4",
+  "original_osm_name": "Cafe Cánh Đồng Hoa",
+  "google_raw": {
+    "formatted_phone_number": "0392 488 498",
+    "geometry": {
+      "location": {
+        "lat": 11.925936,
+        "lng": 108.44226
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9272841302915,
+          "lng": 108.4435634802915
+        },
+        "southwest": {
+          "lat": 11.9245861697085,
+          "lng": 108.4408655197085
+        }
+      }
+    },
+    "name": "Tiệm cà phê Nhà có hoa",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1430"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1430"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1430"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1430"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1430"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–14:30",
+        "Thứ Ba: 07:00–14:30",
+        "Thứ Tư: 07:00–14:30",
+        "Thứ Năm: 07:00–14:30",
+        "Thứ Sáu: 07:00–14:30",
+        "Thứ Bảy: 07:00–14:30",
+        "Chủ Nhật: 07:00–14:30"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Trinh Hà Thị Kiều",
+        "author_url": "https://www.google.com/maps/contrib/113018669182255943181/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzSC2SVTSN1HO3CDHnR_mi8wp7bFNe23IgQrwvPGsritv9kA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán nhỏ ấm cúng, decor siuuuu đẹp siu dth, anh chủ thì dth lắm mn ơi, tương tác tốt với khách hàng. Rcm mn trà sữa tươi nhà có hoa ủ lạnh nha, siu ngonnnn. Mình kiếm đại quán trên gg maps thì thấy quán này đánh giá cao nên ghé vào thì đúng là không hề thất vọngggg.",
+        "time": 1767590441,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Linh NNgoc",
+        "author_url": "https://www.google.com/maps/contrib/111600290588632316809/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2bw8I-yTd0Dd72O11cMo78Rsw-ojLskyVz-2vNYiUTwLOhqsF4Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Vô tình thấy quán trên gg map, nhỏ xinh nhưng cảm giác ấm cúng lắm.\nKiểu chỉnh chu những thứ nhỏ nhất kể cả ly uống, vị cafe có hậu chua khá lạ.",
+        "time": 1762665503,
+        "translated": false
+      },
+      {
+        "author_name": "Jin Villa Hồ Tràm Homestay",
+        "author_url": "https://www.google.com/maps/contrib/118374835833087289492/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVD7rgb1GzQ0aGS6x3Zorbyev7To6H-yvlOMjD9UBXH5e4fzit7cw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán chill hết nấc. Đẹp từng góc luôn ấy.\nCafe thơm ngon ấn tượng.\nChủ quán đẹp trai, dễ thương, chu đáo.",
+        "time": 1763299519,
+        "translated": false
+      },
+      {
+        "author_name": "Quốc Khoa Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117897353807792528884/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7vc8eUeLKjxKpULDGK8NAIti_YG9pFApC_eGkJHqvOB5hTazW=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Thức uống ngon, cảnh đẹp, hoa nhiều. Chủ quán nhiệt tình, chụp hình đẹp. Mọi người nên ghé thưởng thức nước uống và phong cảnh",
+        "time": 1772588984,
+        "translated": false
+      },
+      {
+        "author_name": "lien pham",
+        "author_url": "https://www.google.com/maps/contrib/114205360836796264080/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRYXtMF5Nk3tocQ8xzedci7y5QWchMb41y-PrUmxFgd_XHZvU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán nhỏ mà siêu xinh luôn mấy ní ơi. Lần trước tình cờ đi ngang qua tấp vô xong mê luôn, lần này lên ĐL ghé tiếp ạ. Cf ngon, anh chủ đẹp trai nói chuyện có duyên. Khách lai rai nên k bị ồn ào, rất Đà Lạt luôn í. 10 điểm.",
+        "time": 1763710437,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 102
+  },
+  "harvested_at": "2026-04-30T15:04:07.621068"
+}

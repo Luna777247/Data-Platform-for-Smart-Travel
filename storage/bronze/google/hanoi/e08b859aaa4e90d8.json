@@ -1,0 +1,173 @@
+{
+  "u_key": "e08b859aaa4e90d8",
+  "original_osm_name": "Vintage 1976 Café",
+  "google_raw": {
+    "formatted_phone_number": "0976 025 125",
+    "geometry": {
+      "location": {
+        "lat": 21.0485919,
+        "lng": 105.8402334
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.04993278029151,
+          "lng": 105.8415745802915
+        },
+        "southwest": {
+          "lat": 21.0472348197085,
+          "lng": 105.8388766197085
+        }
+      }
+    },
+    "name": "Vintage 1976 Cafe and Bistro",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Anh tú nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108278601053842771985/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXd5UIFKnlJoRcBPy6J_c6K4Mt8pHaPhahkPzJfzUGOeRPaA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "“Cà phê thơm, béo vừa phải, latte art xinh. Bánh croissant giòn rụm, ngọt nhẹ, ăn rất đã. Rất đáng thử!”\n“Đồ uống pha chuẩn, vị cà phê đậm nhưng không gắt, lớp bọt mịn. Croissant nóng giòn, thơm bơ, không bị ngấy. Trải nghiệm rất hài lòng.”\n“Ngon từ vị tới nhìn 👌 Cà phê đẹp mắt, uống cuốn. Bánh giòn tan, thơm lừng. Ngồi chill là hết sảy.”",
+        "time": 1769520335,
+        "translated": false
+      },
+      {
+        "author_name": "TUNIS",
+        "author_url": "https://www.google.com/maps/contrib/106648480204707096529/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJR0C90IKNzmbB6A9hhryQUCHUw6QpV6eetTpeN_1-wdK12cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một trải nghiệm cà phê thật sự đáng yêu và đáng nhớ!\nMón nước ở quán làm mình bất ngờ từ ngụm đầu tiên. Ly cà phê nóng với latte art đẹp và tinh tế, vị cân bằng, thơm, béo vừa đủ chứ không hề gắt. Nhìn thôi đã thấy tâm huyết của barista rồi, uống vào càng thấy rõ quán làm cà phê bằng cả sự chỉn chu\nLy còn lại là dạng cà phê sữa tầng, lớp kem mịn màng, béo nhẹ, hoà quyện rất mượt với cà phê phía dưới – uống chậm càng cuốn.\nBánh thì croissant giòn rụm bên ngoài, bên trong mềm và thơm bơ, ăn kèm cà phê đúng kiểu “chân ái”. Không bị ngấy, càng ăn càng thấy hợp vị.\nKhông gian quán ấm áp, dễ chịu, ngồi là muốn ở lâu. Mọi thứ từ món nước, bánh cho tới cách bày biện đều toát lên cảm giác chăm chút và tử tế. Đây là kiểu quán mà không chỉ đến để uống cà phê, mà còn để thưởng thức và tận hưởng.",
+        "time": 1769519914,
+        "translated": false
+      },
+      {
+        "author_name": "Thương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102551569071429685537/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG_f3lEAWzex12_PTVEHEmkXkDmAvKQdSrMLGM3FYeZiNZDAzk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán siêu chill, đồ uống vừa ngon vừa đẹp. Còn có chương trình 30/4-1/5 hình lá cờ đồ uống đẹp lắm ạ. Khuyến khích mọi người đến nhaaa",
+        "time": 1744381339,
+        "translated": false
+      },
+      {
+        "author_name": "Kiều Phạm",
+        "author_url": "https://www.google.com/maps/contrib/105870655241528096127/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTv5qJXAt8Y9JdVBtk9NCAHJpi9AwLYsMLdBFhgxouD25so3A=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vintage 1976 Cafe and Bistro sở hữu một không gian đậm chất cổ điển, lãng mạn, mang đến cảm giác hoài niệm và ấm cúng. Thực đơn đồ uống và món ăn tại đây rất phong phú, được chế biến ngon miệng. Dịch vụ chuyên nghiệp, thân thiện, làm hài lòng cả những khách hàng khó tính nhất. Nếu muốn nâng tầm trải nghiệm âm nhạc tại Vintage 1976, việc tích hợp Tuneast là một ý tưởng tuyệt vời. Bạn có thể tạo ra một không gian âm nhạc riêng, cho phép khách hàng đóng góp bài hát yêu thích hoặc gửi lời nhắn. Điều này sẽ làm cho không gian thêm phần đặc biệt và đáng nhớ.",
+        "time": 1770264286,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Minh Pham",
+        "author_url": "https://www.google.com/maps/contrib/118071747830486907613/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9ZED7884GXQ4wryzmncff9tzv77IlxNTDpdxZ_NyMlUXHi6Gr=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "7 tháng trước",
+        "text": "không gian tạm được. đa dạng nhưng hơi bụi. còn đồ uống thì rất chán ạ 🥲",
+        "time": 1756817908,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 265
+  },
+  "harvested_at": "2026-04-27T19:57:53.719508"
+}

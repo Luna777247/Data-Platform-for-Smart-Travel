@@ -1,0 +1,172 @@
+{
+  "u_key": "837b46f546fcfe6b",
+  "original_osm_name": "Highl and Coffee",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0110677,
+        "lng": 105.8494833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0123563302915,
+          "lng": 105.8506387802915
+        },
+        "southwest": {
+          "lat": 21.0096583697085,
+          "lng": 105.8479408197085
+        }
+      }
+    },
+    "name": "Highland Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 09:30–22:00",
+        "Chủ Nhật: 09:30–22:00"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Ms. Lee",
+        "author_url": "https://www.google.com/maps/contrib/100208215304651915388/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaktsQKJXvpTFjK76xpyL1NirmmjPiTmVmkJjqbNFbBvHIgFlD=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đây là quán highland làm nước chán nhất mà mình đã từng uống. Bình thường mình thấy nước của highland chất lượng khá ok, đồng đều. Nhưng riêng ở quán này mình gọi trà thạch đào thêm topping trân trâu dừa thì  trân châu nhũn chứ ko dai ( nhân viên giải thích do cho vào cốc nước nên bị đục như vậy ) trong khi mình uống ở những quán HL khác đều dai ngon, đào thì nhũn như kiểu để lâu. Nói chung chất lượng rất tệ\nP/s : riêng ở đây trân châu cho vào tay ấn cái tự vỡ đôi, hoặc tự vỡ sẵn khi quấy ly nước lên",
+        "time": 1756273296,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Linh",
+        "author_url": "https://www.google.com/maps/contrib/117139691507889817677/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbAwl7PJhFWasD2sqdI5f3hSO2UPTWlp0x3kNqvTwLqa4g8w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình gọi một ly nước đá tại Highlands, hương vị khá dễ uống, không quá ngọt, topping ăn vui miệng. Không gian quán ổn, phù hợp ngồi nghỉ hoặc làm việc nhẹ. Nhân viên phục vụ nhanh và lịch sự. Nhìn chung trải nghiệm ổn, sẽ quay lại nếu có dịp.",
+        "time": 1766065192,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Quỳnh",
+        "author_url": "https://www.google.com/maps/contrib/104390752824555015761/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwRJptGJQI3pUC_B4XubwQpsDEr6DRBFkmPdfdkLkT1FZ4tA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ uống rất ngon vì được các bạn nhân viên chu đáo giảm lượng đá và giảm lượng đường đúng như mong muốn của mình, không gian quán đẹp vì nằm ở tầng 5 trong Vincom Bà Triệu, mình sẽ ghé Highlands ở đây thường xuyên.",
+        "time": 1767004489,
+        "translated": false
+      },
+      {
+        "author_name": "Thái Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103281935008060061883/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWI3xlgwRpui0F-w44Rdy4BAWNgcICSlbwXToivIxTEo1TAD-9G=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chờ rất lâu nhưng không được phục vụ do “máy lỗi” khi áp mã giảm giá. Lúc đầu khẳng định thẻ của anh chị không thể áp mã do đầu số thẻ không hỗ trợ, mở app ra thì thẻ được hỗ trợ, xong kêu check lại thì báo máy lỗi và ngồi chờ để xem kiểm tra lại máy. 🫣 Nhân viên cũng kiểu như tôi không có trách nhiệm phục vụ bạn, lỗi do cái máy 🥱",
+        "time": 1765787182,
+        "translated": false
+      },
+      {
+        "author_name": "Hạnh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105480599861267380304/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKQA8AcDqEjveruFtHKCnEg9-LzTRkE7mn-IqyNV4fnS-1OQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhân viên thân thiện. Quán có nhiều chỗ ngồi và sạch sẽ. Đồ uống ngon",
+        "time": 1767004338,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 81
+  },
+  "harvested_at": "2026-04-28T16:30:26.535379"
+}

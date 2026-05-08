@@ -1,0 +1,174 @@
+{
+  "u_key": "a6fbc87aa27c7d66",
+  "original_osm_name": "Bao An Macrobiotic",
+  "google_raw": {
+    "formatted_phone_number": "0902 957 256",
+    "geometry": {
+      "location": {
+        "lat": 16.0753234,
+        "lng": 108.2408798
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0766993302915,
+          "lng": 108.2422874802915
+        },
+        "southwest": {
+          "lat": 16.0740013697085,
+          "lng": 108.2395895197085
+        }
+      }
+    },
+    "name": "Nhà hàng chay Thực Dưỡng Bảo An (Bao An Macrobiotics)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1530"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–20:30",
+        "Thứ Ba: 06:30–20:30",
+        "Thứ Tư: 06:30–20:30",
+        "Thứ Năm: 06:30–20:30",
+        "Thứ Sáu: 06:30–20:30",
+        "Thứ Bảy: 06:30–20:30",
+        "Chủ Nhật: 06:30–15:30"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Rami Xanh Stay",
+        "author_url": "https://www.google.com/maps/contrib/105806534085286843948/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgkfS01Ss9IjR6PfsYCzDTYObFRfr5fY_G6DOpmrHW97VoBL4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không gian ở đây rất yên tĩnh, thanh tịnh và đầy năng lượng.\nTôi và những người bạn thường hay đến đây để thưởng thức món ăn lành sạch bên không gian chill chill và thiên nhiên.\nBếp Bảo An là một trong những lựa chọn tuyệt vời để chúng tôi hẹn hò và tiếp khách.\nNuôi dưỡng thân tâm",
+        "time": 1767334505,
+        "translated": false
+      },
+      {
+        "author_name": "Tham Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107004396804591177208/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfEuBQZz8k-MEpsBCpORhkL6Cm4KTDzPzCnR1obCx2fQPBOrITOQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ngon, view đẹp, giá cả hợp lý. Nên thử món mì tiềm kèm tàu hũ ki chiên.",
+        "time": 1760508628,
+        "translated": false
+      },
+      {
+        "author_name": "Hieu Vo",
+        "author_url": "https://www.google.com/maps/contrib/101562527131512370082/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs9htrxbVXcmBRqNBD4sSGqT1RAfd2lEldqmmalFOqufKLz8gh=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán chay thực dưỡng ấn tượng, đồ ăn dễ ăn, giá cả phải chăng, mình đến quán cũng 2-3 lần khi đến Đà Nẵng, buổi trưa quán mát mẻ, quán ai cũng dễ thương.",
+        "time": 1759825354,
+        "translated": false
+      },
+      {
+        "author_name": "Justin Doan",
+        "author_url": "https://www.google.com/maps/contrib/115673607446013294091/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-yjsduNxu6UKoN9U7tQvzo5_4uyUNwWCCXfShWnWpNn68zA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rất dễ thương, món ăn ngon, dễ chịu, không gian mát mẻ thật thích. Nên thử nhé",
+        "time": 1770032863,
+        "translated": false
+      },
+      {
+        "author_name": "Trịnh Quốc Bảo",
+        "author_url": "https://www.google.com/maps/contrib/105998351542429722929/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBxhF6Hbc6rWWSTfme72P8ztOC2lM1kJ3xI9QJlG3s8CTZ8k2b6A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Decor đẹp, phong cách miền núi phía Bắc. Đồ ăn chay nhẹ nhàng, ngon nếu ăn chậm và cảm nhận. Đồ ăn lên hơi lâu chút. Tuy nhiên vẫn vote 5* cho tổng thể.",
+        "time": 1750858325,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1123
+  },
+  "harvested_at": "2026-04-28T16:44:00.242552"
+}

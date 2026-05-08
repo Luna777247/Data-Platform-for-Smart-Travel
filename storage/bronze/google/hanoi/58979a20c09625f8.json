@@ -1,0 +1,174 @@
+{
+  "u_key": "58979a20c09625f8",
+  "original_osm_name": "Phủi Quán",
+  "google_raw": {
+    "formatted_phone_number": "0911 581 818",
+    "geometry": {
+      "location": {
+        "lat": 21.0849919,
+        "lng": 105.8137947
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0862461302915,
+          "lng": 105.8152783302915
+        },
+        "southwest": {
+          "lat": 21.0835481697085,
+          "lng": 105.8125803697085
+        }
+      }
+    },
+    "name": "Vườn Bia Phủi Quán",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Thuy Anh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115411578455970340341/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgg6d-OU1_t_fYHDEXgQ2InsGBZ-fFvnjrBSo47rH6PtsUUoPxwg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình thấy đồ ăn ngon, giá hợp lý. Không gian rộng rãi thoáng mát. Menu khá đa dạng. Món mình thấy ko ngon là lẩu bò nhúng dấm còn lại các món ngon. Ưng mắm tôm ở đây",
+        "time": 1766905966,
+        "translated": false
+      },
+      {
+        "author_name": "CaXanh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112025874534573934079/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKy9IAXMCYzbSxdHht1klb9NoRCJpZSc4207QB6kBSGNcZcBg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bia ngon - đồ ăn ngon - không khí tuyệt vời !",
+        "time": 1765251871,
+        "translated": false
+      },
+      {
+        "author_name": "Đạt Nguyễn Đức",
+        "author_url": "https://www.google.com/maps/contrib/101752730400468839312/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdyL8mMsxKYr2_HkryXNjBNXRxHo0euhZG8MnX_J_zWlVYk7H22g=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán bình dân, không gian rất thoáng mát rộng rãi, đồ ăn khá, bia ngon, khách tập nập đông vui",
+        "time": 1772762252,
+        "translated": false
+      },
+      {
+        "author_name": "kang shinghi",
+        "author_url": "https://www.google.com/maps/contrib/117552397835131513191/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4lP3v1vZ2_4yHbWfu4D-YBtJ544BEIQkCvpDYU5j_90WFt-c=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đồ ăn bình thường, thái độ phục vụ chán, cảm giác k tôn trọng khách. Giá bình dân. Được bà chị dẫn qua mình kỳ vọng nhiều nhưng đến thái độ chán nên thất vọng quá. Hỏi bàn nhờ kê thêm bàn, nếu k được thì nên nói với khách luôn. Đây cứ ok chờ chút xong bơ đi, giục phải 3 lần bảo kê bàn cho cũng bơ. Mãi lúc định đi về mới bảo ngồi trong thì ngồi. Muộn và k muốn bà chị nghĩ ngợi nên vẫn vào ăn. Gọi đồ thì giọng thái độ như kiểu mình đến xin ăn. K đánh giá đồ ăn nhưng đánh giá thái độ nhé",
+        "time": 1764348783,
+        "translated": false
+      },
+      {
+        "author_name": "thế long Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/105804958336058057656/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMB-E6-9qpbb8VrzMC7GwxgXGvKBCLz4uId6igp9qUa-fqjg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Hôm qua mjk có đến ăn mà có chuột chạy qua chân vô tình vào sác đt thấy chuột rán bò lúc nhúc trong kho nv oder thái độ tốt nhưng nv boy thiếu tôn trọng khách chắc chắn ko quay lại lần 2 nữa",
+        "time": 1766883059,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 285
+  },
+  "harvested_at": "2026-04-28T16:23:33.045026"
+}

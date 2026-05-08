@@ -1,0 +1,173 @@
+{
+  "u_key": "d8ecfc97b6aedaf5",
+  "original_osm_name": "Trong Drong",
+  "google_raw": {
+    "formatted_phone_number": "0866 046 301",
+    "geometry": {
+      "location": {
+        "lat": 11.947924,
+        "lng": 108.4674164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9493212802915,
+          "lng": 108.4687301802915
+        },
+        "southwest": {
+          "lat": 11.9466233197085,
+          "lng": 108.4660322197085
+        }
+      }
+    },
+    "name": "Trông Trại Trà - Trông Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–22:00",
+        "Thứ Ba: 07:30–22:00",
+        "Thứ Tư: 07:30–22:00",
+        "Thứ Năm: 07:30–22:00",
+        "Thứ Sáu: 07:30–22:00",
+        "Thứ Bảy: 07:30–22:00",
+        "Chủ Nhật: 07:30–22:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "mean so",
+        "author_url": "https://www.google.com/maps/contrib/113196169313068305348/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKGm4W8oJGhvSxzeSvxjAiUm_mJJp0QKVPVyvrgz0bjh177z2Nrg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "ngon và tuyệt vời\nsáng CN mình gé mở hàng\nmâmkkaka\nbánh này ngon 60k; lần nào tới ai thích matcha nhớ kêu bánh này nha. 10đ lun á\nnhân viên nice cute lắm\nmình mở hàng kakaka nên ngại quá tr\nnước 55k bánh 60",
+        "time": 1768171762,
+        "translated": false
+      },
+      {
+        "author_name": "Hùng Luận Lê",
+        "author_url": "https://www.google.com/maps/contrib/118195332322642014421/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHAkYB1rjEVYKsAKXuQfZVlkcHAtSdikSUrp29zFhMLBAqjBDP1g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán đẹp, nhìn thơ lắm. Có mấy bé Mèo thân thiện. Đồ uống ngon, matcha và sữa chua kiều mạch đỉnh luôn. Bánh oke nữa. Bàn cao ổ điện cũng có mà bàn sofa chill chill cũng có luôn",
+        "time": 1770815834,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Phương Nguyễn Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/112427647596510391913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCzQeddi9dGVVuK_8egTlhoOQBMqLrnGXZDCOmhzeUb7h-3g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán nằm ở trung tâm, có chỗ đậu xe ô tô thoải mái\nGiá nước hợp lí, mình thử cả bánh cả nước ở đây đều thấy ok\nQuán có không gian chụp hình đẹp tuy nhiên 1 số chỗ còn đang lộn xộn chắc do mình đi ko đúng mùa\n8/10 mình sẽ quay lại",
+        "time": 1761484474,
+        "translated": false
+      },
+      {
+        "author_name": "Duyên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101404239446723842021/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUW3PvEe5uLL29hUq9vY5-8s70B1SYwbwjVqYv51Di425w-fbFl=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình đi buổi tối lúc trời mưa bay bay nữa nhưng mà quán đẹp lắm lên ảnh bao xinh\nNhân viên nhiệt tình\nNên hỏi nhân viên giới thiệu món để hợp khẩu vị hơn nhé quán có bánh nhưng mình chưa thử",
+        "time": 1765258379,
+        "translated": false
+      },
+      {
+        "author_name": "Milkk Tr",
+        "author_url": "https://www.google.com/maps/contrib/107818353652886738445/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzXrBbWsZcdrNaggfM4RWePXE_kgeaP2sCHdeuzfMQ9j1eLG4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình là khách du lịch ghé qua. Ấn tượng vì nước ngon hơn mình nghĩ, nhân viên rất nhiệt tình và có tâm. Mình đi 4 người buổi tối, vì quán có nhiều cây xanh nên muỗi nhiều không kém, bạn mình có nói đùa cho bạn mượn cây vợt muỗi nhưng không ngờ bạn nv đem ra thật và kèm theo chai xịt chống muỗi nữa. Nếu có dịp sẽ ghé lại 😚😚",
+        "time": 1764689861,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 235
+  },
+  "harvested_at": "2026-04-29T13:36:23.044484"
+}

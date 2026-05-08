@@ -1,0 +1,89 @@
+{
+  "u_key": "25d05275643958d3",
+  "original_osm_name": "Mai Villa",
+  "google_raw": {
+    "formatted_phone_number": "024 3222 2348",
+    "geometry": {
+      "location": {
+        "lat": 21.0042967,
+        "lng": 105.8001636
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0055999302915,
+          "lng": 105.8014773802915
+        },
+        "southwest": {
+          "lat": 21.0029019697085,
+          "lng": 105.7987794197085
+        }
+      }
+    },
+    "name": "Hotel Mai Villa",
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Điện Hồ Mậu",
+        "author_url": "https://www.google.com/maps/contrib/116770595715145997515/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtfQ01DTAKZx4WNighT0FB-9-CywGs5sU3HNnUn4WI5XPgnWkG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Ks thì ok. Nhưng ai đi xe oto nên cẩn thận. Mình bị trộm mất cặp cần gạt mưa xe. Nguyên cả dãy bị mất cắp luôn",
+        "time": 1765607813,
+        "translated": false
+      },
+      {
+        "author_name": "Đông Nguyễn Văn",
+        "author_url": "https://www.google.com/maps/contrib/100979511242405625658/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzTUYDvV3jBYQjh3-bgJTMsdOmO7-QQD9wYpvE93R1HYH0Ew=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "Khách sạn tệ, trải nghiệm kh tốt không nên đi vào nha mọi người",
+        "time": 1755823655,
+        "translated": false
+      },
+      {
+        "author_name": "Truong Cong Minh",
+        "author_url": "https://www.google.com/maps/contrib/100167622667648776303/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVF8AbVUmxqbjTG4mjlbhbzgLvEoQfdpqRvb3EmWWI059mSq1h8sg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quá ok, chỗ để xe ô tô ngoài đường khá thoải mái góp ý tách hút mùi wc riêng khỏi đèn để hút ban đêm cho sạch",
+        "time": 1733062336,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/110329544780231206392/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuwnmu5EcRG8U_i57Bl55a3J-jaumfH-lzTrSpANDNz92Ml0c=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "phòng thì bé tivi đời tống nhiễu giá 250k cho 2h :))",
+        "time": 1737565862,
+        "translated": false
+      },
+      {
+        "author_name": "DAO ANDY",
+        "author_url": "https://www.google.com/maps/contrib/112353190357030758896/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXg0V64exFn7D1Kiqma6nf9x18_VdttxecQdrqVDWS_rhyijNDZ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Khách sạn gần nhà mình, yên tĩnh, có chỗ để xe ô tô miễn phí. Bảo vệ và lễ tân đều là hàng xóm tốt và vui tính.",
+        "time": 1502956955,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 54
+  },
+  "harvested_at": "2026-04-26T12:45:05.463878"
+}

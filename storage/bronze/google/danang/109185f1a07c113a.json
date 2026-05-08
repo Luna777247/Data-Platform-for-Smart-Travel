@@ -1,0 +1,172 @@
+{
+  "u_key": "109185f1a07c113a",
+  "original_osm_name": "Bun thit nuong Nga 191",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0657903,
+        "lng": 108.22378
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0671440802915,
+          "lng": 108.2250523302915
+        },
+        "southwest": {
+          "lat": 16.0644461197085,
+          "lng": 108.2223543697085
+        }
+      }
+    },
+    "name": "Bún thịt nướng Nga",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–17:00",
+        "Thứ Ba: 11:00–17:00",
+        "Thứ Tư: 11:00–17:00",
+        "Thứ Năm: 11:00–17:00",
+        "Thứ Sáu: 11:00–17:00",
+        "Thứ Bảy: 11:00–17:00",
+        "Chủ Nhật: 11:00–17:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Hieu Vo",
+        "author_url": "https://www.google.com/maps/contrib/101562527131512370082/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs9htrxbVXcmBRqNBD4sSGqT1RAfd2lEldqmmalFOqufKLz8gh=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Bún Thịt Nướng thơm, lần đầu mình tới quán mình ăn khá ưng cái bụng, giá cho tô bún thịt đầy đủ là 30k quá hợp lý vì quán trên mặt tiền. Chỉ có là mình muốn uống sữa đậu nành, quán không bổ sung món nước này nên hơi tiếc một chút, quán khá sạch sẽ. Mình thấy quán có cuốn nem lụi lá lót nhưng mình chưa thử, sẽ đến ăn vào dịp sau.",
+        "time": 1731303709,
+        "translated": false
+      },
+      {
+        "author_name": "Lam Phương",
+        "author_url": "https://www.google.com/maps/contrib/102892927910424488998/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI6u_zkuOlE0pRBevpauqwis3KG9l_XHmZR4gwWUOR7Y5hoOug=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Toi hay mua về nhà ăn hơn vì quán nướng thịt tại chỗ dễ ám mùi dô người, siu ngon siu hợp khẩu vị ăn đậm đà của ng miền Trung nhe, ăn từ cấp 2 tới h và sẽ còn ăn mãi thoai, ở ĐN chưa quán nào qua dc quán này trong toi, đi dô SG học thì bún thịt nướng trong đó ăn kiểu khác nên ăn kh đỡ thèm, lần nào về nhà cũng phải mua về ăn mới dc",
+        "time": 1737622258,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Tung Bui",
+        "author_url": "https://www.google.com/maps/contrib/102736990035538168683/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKE4p6-rc2QH_wC3LM-zHPWLXPNkS1-SWFtDqPqMBWdYmrxPQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một trong những quán dân địa phương khá đông, giá phải chăng, chất lượng, chỉ tiếc là bán buổi trưa thôi",
+        "time": 1741348298,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Tan Phuoc",
+        "author_url": "https://www.google.com/maps/contrib/103432240826734433362/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNdZ9uL8fd4y7EJDpH7nUPUA5i8cRvuOzlD_-Sv0DzNu7v2w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Update: 18-12-2022,\nSau 3 năm quay lại quán vẫn ngon như cũ, giá tăng xíu:\nBún thịt nướng:30k\nBò lá lốt/ nem lụi: 7k/cây.\nSẽ ủng hộ quán tiếp.\n\n————————-\n3 năm trước :))))) (do google ko có cho add thêm, đành edit review cũ)\nHết sức hài lòng và giá hợp lý, chỉ có quán hơi nhỏ thui.\nBún thịt nướng: 28k\nBò lá lốt / nem lụi: 6k/cây",
+        "time": 1671345468,
+        "translated": false
+      },
+      {
+        "author_name": "Vô Danh",
+        "author_url": "https://www.google.com/maps/contrib/103755311029774579818/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzqqks9croegU7Gf_ON4KSNm-jB9q4oKH05zQ5u0To4uH8lgS5=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Đến với quán bún thịt nướng này, bạn có thể tận mắt chứng kiến những xâu thịt nóng hổi, thơm lừng được nướng chín trên lửa than đỏ nhìn vô cùng hấp dẫn.Mặc dù không gian quán hơi chật chội, và được 3,4 cái bàn thôi nhưng lúc nào cũng đông khách. Bởi tô bún thịt nướng không chỉ ngon mà giá rẻ nữa. Một tô bún đầy ắp đồ ăn, muốn no căng bụng luôn.",
+        "time": 1567672379,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 84
+  },
+  "harvested_at": "2026-04-29T10:51:39.810818"
+}

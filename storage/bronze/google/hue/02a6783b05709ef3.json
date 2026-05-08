@@ -1,0 +1,172 @@
+{
+  "u_key": "02a6783b05709ef3",
+  "original_osm_name": "Tunnel Through the Hai Van Mountains",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.1877377,
+        "lng": 108.1312942
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.18890388029151,
+          "lng": 108.1324024302915
+        },
+        "southwest": {
+          "lat": 16.1862059197085,
+          "lng": 108.1297044697085
+        }
+      }
+    },
+    "name": "Hải Vân Quan",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0530"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–17:30",
+        "Thứ Ba: 07:00–17:00",
+        "Thứ Tư: 07:00–17:30",
+        "Thứ Năm: 07:00–17:30",
+        "Thứ Sáu: 07:00–17:30",
+        "Thứ Bảy: 07:00–17:30",
+        "Chủ Nhật: 07:00–05:30"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "066 Swagger",
+        "author_url": "https://www.google.com/maps/contrib/109012018152167030035/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMEFgMVUiF6s8zYFLBT5TYLW1TIxbd7AeKrliRUNS45AVgUceF9Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đứng giữa ranh giới Thừa Thiên Huế và Đà Nẵng, cảm giác hào hùng khó tả. Những bức tường thành cũ kỹ, rêu phong sau trùng tu vẫn giữ được cái \"hồn\" của Thiên hạ đệ nhất hùng quan. View từ đây nhìn xuống vịnh Lăng Cô đẹp như một bức tranh thủy mặc. Một điểm dừng chân không thể bỏ qua cho những ai yêu lịch sử và thích chinh phục những cung đường.",
+        "time": 1769675480,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Tuấn Hồ",
+        "author_url": "https://www.google.com/maps/contrib/112673888694500766705/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw6-zLEDoq-Zbg5FEuw3bKqwWB45bgYpochmUReY-SWyZgYV97ig=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nếu có dịp đi trên đèo Hải Vân thì nhất định nên ghé tham quan ở đây để cảm nhận một giai đoạn lịch sử hoàng kim thời vua Minh Mạng và nỗ lực bảo tồn di sản của Huế và Đà Nẵng",
+        "time": 1772069910,
+        "translated": false
+      },
+      {
+        "author_name": "Pan Yuming",
+        "author_url": "https://www.google.com/maps/contrib/111597752928256265472/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3PZES_HOaaP_VyZiIJk2WQoY8j-98_eSapCfqYHg39smU4EZe=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Vượt đèo Hải vân bằng ô tô đã khoái nhưng vút qua đây bằng xe máy còn phê hơn nhiều. Điểm ngắm toàn cảnh đèo lài ranh giới 02 Tp trung ương của Trung trung bộ là Huế và Đà Nẵng",
+        "time": 1769083224,
+        "translated": false
+      },
+      {
+        "author_name": "Ông Epal Vlog",
+        "author_url": "https://www.google.com/maps/contrib/103737478565908304188/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEdgXEHJCVegsM12l2haS9pd6dSXSwXnV2eCLXKVK5J29X29rF=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Điểm dừng chân ngay đỉnh đèo hiểm trở và hùng vĩ, nối liền Đà Nẵng và Huế.\nMột điều rất vui là ngay các điểm dừng chân, các anh chị rất nhiệt tình, niềm nở với du khách.",
+        "time": 1769137556,
+        "translated": false
+      },
+      {
+        "author_name": "phúc nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/104867871184221405427/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVidoOFHGEUDn_IUdfuRbC2WpPCLwIyAHgPtG-4ENrr0VmqrOA_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tuyệt đẹp nên trải nghiệm cung đường 1 lần trong đời\nĐường đèo rộng dễ di chuyển, có nhiều xe bồn xăng đi chậm\nChi cần đi chậm ngắm cảnh đừng vượt ẩu là an toàn",
+        "time": 1771674091,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3234
+  },
+  "harvested_at": "2026-04-30T15:23:30.191233"
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "u_key": "ccc4a0055c544a20",
+    "name": "Nhà Hàng Chay & Cà Phê Thúp An",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0738518,
+      "lon": 108.2032513
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "951c6b38f0bc7e6e",
+    "name": "Tao Do",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 16.0568235,
+      "lon": 108.2207613
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "a5e3b8e119082bc3",
+    "name": "Day & Night Café",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Trần Cao Vân",
+    "location": {
+      "lat": 15.8827601,
+      "lon": 108.3270371
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "3d531ac14f59fe1a",
+    "name": "Blue Dragon",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Bạch Đằng",
+    "location": {
+      "lat": 15.8761577,
+      "lon": 108.3305259
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "050ea020b3770910",
+    "name": "Cafe Des Amis",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Bạch Đằng",
+    "location": {
+      "lat": 15.8761426,
+      "lon": 108.3302008
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "fee73635c14cc4df",
+    "name": "Cordon Bleu",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8761865,
+      "lon": 108.3308839
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "283656e7611a8465",
+    "name": "Dac San Hoi An",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 15.8770709,
+      "lon": 108.328868
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "368b48ac0d248a97",
+    "name": "Du Port",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8761027,
+      "lon": 108.3295029
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "ce9ec90159404039",
+    "name": "Faifoo",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 15.8771734,
+      "lon": 108.3288922
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "4e1d5798b237fbd9",
+    "name": "Green Chili",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Nguyễn Thái Học",
+    "location": {
+      "lat": 15.8766241,
+      "lon": 108.3271952
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "a15ba9fcf59f1d7a",
+    "name": "Green Mango",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.876648,
+      "lon": 108.3295924
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "241e721f2e0feb95",
+    "name": "Hai San",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8761024,
+      "lon": 108.3297942
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "4cd437b48f8f2dcb",
+    "name": "Hong Phuc II",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8762696,
+      "lon": 108.3279918
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "e05c268c2b8be2e9",
+    "name": "Hong Phuc",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8761444,
+      "lon": 108.3287821
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "d97e3bb6580d4417",
+    "name": "Lantern Town",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8764689,
+      "lon": 108.329346
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "53bf8ad470915464",
+    "name": "Morning Glory",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Nguyễn Thái Học",
+    "location": {
+      "lat": 15.8766204,
+      "lon": 108.3277853
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "b5ea4d4645b48270",
+    "name": "Quang Thang",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8761822,
+      "lon": 108.3285209
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "2a70ada3f518a8ed",
+    "name": "Red Sail",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "",
+    "location": {
+      "lat": 15.8761784,
+      "lon": 108.3307714
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "2755d861b62d9792",
+    "name": "Sakura",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Nguyễn Thái Học",
+    "location": {
+      "lat": 15.8764347,
+      "lon": 108.3270753
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  },
+  {
+    "u_key": "9255bd0dbf8f0251",
+    "name": "Sao Mai",
+    "type": "restaurant",
+    "city": "danang",
+    "address": "Bạch Đằng",
+    "location": {
+      "lat": 15.8761549,
+      "lon": 108.3304625
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T09:24:19.409069"
+  }
+]

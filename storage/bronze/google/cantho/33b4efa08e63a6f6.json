@@ -1,0 +1,50 @@
+{
+  "u_key": "33b4efa08e63a6f6",
+  "original_osm_name": "Nhà nghỉ Phong Lan",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 10.0975,
+        "lng": 105.6066778
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.0988736802915,
+          "lng": 105.6080018302915
+        },
+        "southwest": {
+          "lat": 10.0961757197085,
+          "lng": 105.6053038697085
+        }
+      }
+    },
+    "name": "Nhà Nghỉ Phong Lân",
+    "rating": 2.5,
+    "reviews": [
+      {
+        "author_name": "Tích Tích",
+        "author_url": "https://www.google.com/maps/contrib/107802583207634199888/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKLXoylFntgbJZk4JK1ljUwHRh1hQ7Ju2TEfNtInjMNbJcZZg=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Được rồi",
+        "time": 1703942413,
+        "translated": true
+      },
+      {
+        "author_name": "Triều Lộc Bành",
+        "author_url": "https://www.google.com/maps/contrib/104038193196614676763/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtl4WtQUR7sQJjmxm3fomzBHiOXEyWgDdK7zIl5_bGXsyIew=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1699618964,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-30T15:18:02.119297"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "896d25409d9d11bf",
+  "original_osm_name": "Hai San Thanh Hien 2",
+  "google_raw": {
+    "formatted_phone_number": "0905 959 469",
+    "geometry": {
+      "location": {
+        "lat": 16.0598765,
+        "lng": 108.2463805
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0612338302915,
+          "lng": 108.2478068302915
+        },
+        "southwest": {
+          "lat": 16.0585358697085,
+          "lng": 108.2451088697085
+        }
+      }
+    },
+    "name": "Hải sản Thanh Hiền 2",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–23:30",
+        "Thứ Ba: 10:30–23:30",
+        "Thứ Tư: 10:30–23:30",
+        "Thứ Năm: 10:30–23:30",
+        "Thứ Sáu: 10:30–23:30",
+        "Thứ Bảy: 10:30–23:30",
+        "Chủ Nhật: 10:30–23:30"
+      ]
+    },
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Thị Hằng Lê",
+        "author_url": "https://www.google.com/maps/contrib/103927062114940313020/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ04ZehAm2E3BSFFxoVTv6Ri1ZNPUOI5xdc7J2AmB57MoyReRT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "quán rất đẹp đặc biệt nhân viên rất dthwww\nmến khách nhanh nhẹn\nđồ ăn rất ngon giá cả phù hợp\nvieww biển siuu đẹp thoáng mát",
+        "time": 1772909221,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Quyên Lê Thị",
+        "author_url": "https://www.google.com/maps/contrib/108404143844730179306/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLFZ5cvBUBHqJckQIMIRidobMijQHj167cVxBcw1ouj9QWCas=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "quán có view sát bờ biển đẹp nha , rộng rãi thoáng mát, kh ồn ào đồ ăn theo mình thấy rất ngon hợp khẩu vị , hải sản tươi sống, giá cả hợp lí so với mặt bằng kinh doanh, nhân viên phục vụ nhiệt tình dễ thương , nói chung mình rất thích thái độ của nv và đồ ăn của nhà hàng này nhaa",
+        "time": 1759637511,
+        "translated": false
+      },
+      {
+        "author_name": "Xuan Tran",
+        "author_url": "https://www.google.com/maps/contrib/109079232270448621960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUVoj8NpgH7YHhzjHkCsouwdXQMFtAVnwUzmsLPyxmKBUeD2_O=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Mấy năm trước đến Đà Nẵng ăn ở đây rất rất ngon. Giờ quán dở hơn rất nhiều. Hải sản không phong Phú và giá thành quá cao.",
+        "time": 1757429154,
+        "translated": false
+      },
+      {
+        "author_name": "Hieu Vo",
+        "author_url": "https://www.google.com/maps/contrib/101562527131512370082/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs9htrxbVXcmBRqNBD4sSGqT1RAfd2lEldqmmalFOqufKLz8gh=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán đối diện biển, có view khá chill, phục vụ nhanh nhẹn, nhưng các bạn hơi tụm hóng hóng như cái chợ, món ăn tươi ngon có điều thiếu nước chấm ớt xanh tự pha, mình cảm thấy hơi thiếu nước chấm nên chưa đạt như ý mình muốn. Rau muống xào tỏi chưa ngon, hải sản có ốc, sò, cua ngon, cháo ăn cũng ổn, giá bình dân dễ chọn. Mình thấy quán có khách đoàn đến nhiều, mọi người có thể đến trải nghiệm nhé!",
+        "time": 1731239817,
+        "translated": false
+      },
+      {
+        "author_name": "Thắng Trần mạnh",
+        "author_url": "https://www.google.com/maps/contrib/103867735085589869467/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXG9DKbgszwSqZB-PdAjEzRBtpl3vM_QH05uWQeNvcl02gpQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Tôi đã có dịp trải nghiệm tại quán Thanh Hiền 2\nQuan sát bờ biển view rất đẹp đồ ăn ngon quán phục vụ nhanh nhân viên nhiệt tình chuyên nghiệp",
+        "time": 1749627261,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 562
+  },
+  "harvested_at": "2026-04-29T09:57:19.697940"
+}

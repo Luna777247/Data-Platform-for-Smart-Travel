@@ -1,0 +1,89 @@
+{
+  "u_key": "2d525c187236ba5e",
+  "original_osm_name": "Santa Barbara Hotel",
+  "google_raw": {
+    "formatted_phone_number": "024 3735 0666",
+    "geometry": {
+      "location": {
+        "lat": 21.0411588,
+        "lng": 105.8444197
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0425728302915,
+          "lng": 105.8458266302915
+        },
+        "southwest": {
+          "lat": 21.03987486970849,
+          "lng": 105.8431286697085
+        }
+      }
+    },
+    "name": "Santa Barbara Hotel and Spa",
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Tất Úa Dương",
+        "author_url": "https://www.google.com/maps/contrib/105975311690094924905/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEJ9KfDgky5zarPvwH9KxNamI7nKyAa4su5yne11wspALZmkCjMA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Khách sạn có vị trí đẹp.\nNằm ngay trung tâm.\nKhu phía dưới có Highland Coffee.\nPhòng ốc Ok và sạch sẽ, mới và thông thoáng.\nBellboy lúc nào cũng có mặt hỗ trợ, 22h đêm mà vẫn đứng trực mở cửa.\nQuan trọng là Khách sạn giá không quá đắt. Mọi thứ điều hài lòng khi ở đây.\nTôi sẽ quay lại đây lần nữa.\n5 sao cho chất lượng.",
+        "time": 1571499819,
+        "translated": false
+      },
+      {
+        "author_name": "AKC Fitness",
+        "author_url": "https://www.google.com/maps/contrib/101005351633539414158/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN8zQaT_9DVOs555FPX53oWt9yIvyGW3E5EKAgVFJSx7yfw8GI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Trân trọng kính mời quý nhân viên của công ty qua AKC Fitness 47 - Hàng Bún tập thêm thể hình - Võ thuật để làm việc hiệu quả hơn ạ.",
+        "time": 1495987659,
+        "translated": false
+      },
+      {
+        "author_name": "Thong Vo Quoc",
+        "author_url": "https://www.google.com/maps/contrib/106192419693502563121/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc-rbsK3UQw1eRO0PEsjoty4BX849ih56K64XXeN4k-LEfBT0_=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "8 năm trước",
+        "text": "Tạm được, vẫn còn phong cách nhà nước dù đã có thay đổi, kg có chỗ đổ xe",
+        "time": 1510205447,
+        "translated": false
+      },
+      {
+        "author_name": "TrongHieu Ngo",
+        "author_url": "https://www.google.com/maps/contrib/100681478945017071177/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTxHF1cIGcByIwjb0gKNOqMUZsKyiOhF2DLw_3-LvpItwshzgQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Khách sạn tuy nhỏ, nhưng ngay trung tâm đi lại thuận tiện, phục vụ tốt, nhiệt tình",
+        "time": 1527125748,
+        "translated": false
+      },
+      {
+        "author_name": "An Trịnh",
+        "author_url": "https://www.google.com/maps/contrib/105610790603079890221/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVAxypwJTBK5yEYH_-i2o5l39ysktEyiJ7BbRhZnF0DZi5ub2JRXg=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "5 năm trước",
+        "text": "Đồ ăn quá chán. Phục vụ kém nhiệt tình",
+        "time": 1596964547,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 102
+  },
+  "harvested_at": "2026-04-27T19:58:53.173551"
+}

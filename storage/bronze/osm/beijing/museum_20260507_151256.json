@@ -1,0 +1,1018 @@
+{
+  "city": "beijing",
+  "category": "museum",
+  "timestamp": "20260507_151256",
+  "count": 59,
+  "elements": [
+    {
+      "type": "node",
+      "id": 384065070,
+      "lat": 39.9172454,
+      "lon": 116.4021102,
+      "timestamp": "2024-09-28T02:54:47Z",
+      "version": 3,
+      "changeset": 157193435,
+      "user": "Taksine",
+      "uid": 10348274,
+      "tags": {
+        "name": "老舍纪念馆",
+        "name:en": "Residence of Laoshe",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1248471844,
+      "lat": 39.9006517,
+      "lon": 116.3986126,
+      "timestamp": "2023-12-17T08:04:06Z",
+      "version": 7,
+      "changeset": 145206286,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "addr:housenumber": "36",
+        "addr:street": "东交民巷",
+        "name": "北京警察博物馆",
+        "name:en": "Beijing Police Museum",
+        "name:fr": "Musee de la Police de Pekin",
+        "opening_hours": "Tu-Su 09:00-16:00",
+        "tourism": "museum",
+        "wikidata": "Q15912181",
+        "wikipedia": "zh:北京警察博物馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1678269097,
+      "lat": 39.949322,
+      "lon": 116.3341558,
+      "timestamp": "2022-12-05T02:47:32Z",
+      "version": 4,
+      "changeset": 129723364,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "交大校史博物馆",
+        "name:en": "Jiaotong University History Museum",
+        "name:zh": "交大校史博物馆",
+        "name:zh-Hans": "交大校史博物馆",
+        "name:zh-Hant": "交大校史博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1743112515,
+      "lat": 39.9676618,
+      "lon": 116.3844924,
+      "timestamp": "2024-12-25T06:23:36Z",
+      "version": 4,
+      "changeset": 160593884,
+      "user": "aj_11",
+      "uid": 14585277,
+      "tags": {
+        "fee": "yes",
+        "fee:conditional": "no @ age >= 80; no @ teachers",
+        "name": "神玉艺术馆",
+        "name:en": "Shenyu Art Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977218858,
+      "lat": 39.9457384,
+      "lon": 116.3054941,
+      "timestamp": "2022-12-05T03:03:08Z",
+      "version": 4,
+      "changeset": 129723552,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "北京艺术博物馆",
+        "name:en": "Beijing Art Museum",
+        "name:es": "Museo de Arte de Pequín",
+        "name:zh": "北京艺术博物馆",
+        "name:zh-Hans": "北京艺术博物馆",
+        "name:zh-Hant": "北京藝術博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400277114,
+      "lat": 39.9444586,
+      "lon": 116.4780374,
+      "timestamp": "2017-01-06T03:29:35Z",
+      "version": 2,
+      "changeset": 44942590,
+      "user": "wdmanuel",
+      "uid": 107148,
+      "tags": {
+        "name": "朝阳规划艺术馆",
+        "name:en": "Chaoyang Museum of Urban Planning",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2400277115,
+      "lat": 39.9448309,
+      "lon": 116.4787937,
+      "timestamp": "2017-01-06T03:29:35Z",
+      "version": 2,
+      "changeset": 44942590,
+      "user": "wdmanuel",
+      "uid": 107148,
+      "tags": {
+        "name": "国际金融博物馆",
+        "name:en": "Museum of Global Finance",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2801075921,
+      "lat": 29.73299,
+      "lon": 116.2454618,
+      "timestamp": "2019-01-04T10:51:34Z",
+      "version": 3,
+      "changeset": 66016894,
+      "user": "xiaotu",
+      "uid": 2215592,
+      "tags": {
+        "name": "湖口县博物馆",
+        "name:en": "Hukou Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2817374101,
+      "lat": 39.944387,
+      "lon": 116.410031,
+      "timestamp": "2018-11-11T07:09:27Z",
+      "version": 3,
+      "changeset": 64367889,
+      "user": "Silent",
+      "uid": 299299,
+      "tags": {
+        "addr:street": "15 Guozijian St, Dongcheng Qu, Beijing Shi",
+        "name": "北京松堂博物馆",
+        "name:en": "Beijing Songtang Museum",
+        "name:es": "Templo de Confucio",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2865892101,
+      "lat": 39.835086,
+      "lon": 116.408772,
+      "timestamp": "2018-11-11T07:09:27Z",
+      "version": 2,
+      "changeset": 64367889,
+      "user": "Silent",
+      "uid": 299299,
+      "tags": {
+        "name": "南苑乡规划馆",
+        "name:en": "Nanyuan Township Planning Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2866035601,
+      "lat": 39.8337152,
+      "lon": 116.3957365,
+      "timestamp": "2018-11-11T07:09:27Z",
+      "version": 3,
+      "changeset": 64367889,
+      "user": "Silent",
+      "uid": 299299,
+      "tags": {
+        "name": "南苑乡文化娱乐中心",
+        "name:en": "Nanyuan Township Cultural and Entertainment Center",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3023914505,
+      "lat": 31.7397746,
+      "lon": 116.5197305,
+      "timestamp": "2017-02-02T20:03:26Z",
+      "version": 2,
+      "changeset": 45758459,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "name": "皖西博物馆",
+        "name:en": "West Anhui Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3809864708,
+      "lat": 39.8822359,
+      "lon": 116.4282439,
+      "timestamp": "2023-07-18T14:21:41Z",
+      "version": 4,
+      "changeset": 138672331,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "左安门内大街",
+        "name": "百工博物馆",
+        "name:en": "100 Handicraftsman Workshop",
+        "name:zh": "百工坊",
+        "phone": "+86 10 6711 2480",
+        "tourism": "museum",
+        "website": "http://jcbgf.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3884441391,
+      "lat": 39.9174311,
+      "lon": 116.3907817,
+      "timestamp": "2026-05-07T03:40:59Z",
+      "version": 15,
+      "changeset": 182319669,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:full": "北京市东城区景山前街4号",
+        "addr:housenumber": "4号",
+        "addr:street": "景山前街",
+        "fee": "￥60",
+        "name": "故宫博物院",
+        "name:ch": "1",
+        "name:cs": "Palácové muzeum",
+        "name:de": "Palastmuseum",
+        "name:en": "Palace Museum",
+        "name:ko": "자금성(고궁박물원)",
+        "name:ru": "Дворцовый музей",
+        "name:vi": "Bảo tàng Cố Cung",
+        "name:zh-Hans": "故宫博物院",
+        "name:zh-Hant": "故宮博物院",
+        "tourism": "museum",
+        "website": "https://www.dpm.org.cn/",
+        "wikidata": "Q5146118",
+        "wikipedia": "zh:故宫博物院"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3951269871,
+      "lat": 39.9166059,
+      "lon": 116.4162478,
+      "timestamp": "2016-01-17T08:04:39Z",
+      "version": 1,
+      "changeset": 36628908,
+      "user": "Eric Abrahamsen",
+      "uid": 1871670,
+      "tags": {
+        "addr:housenumber": "24",
+        "addr:street": "史家胡同",
+        "alt_name": "Shijia Hutong Museum",
+        "name": "史家胡同博物馆",
+        "opening_hours": "Tu-Su 09:30-16:30",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4284096489,
+      "lat": 39.9143682,
+      "lon": 116.4083494,
+      "timestamp": "2024-09-28T02:54:47Z",
+      "version": 4,
+      "changeset": 157193435,
+      "user": "Taksine",
+      "uid": 10348274,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:street": "金鱼胡同",
+        "name": "天福茗茶",
+        "name:en": "Ten Fu's Tea Culture",
+        "name:zh": "天福茗茶",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4671965949,
+      "lat": 27.9635857,
+      "lon": 116.2550041,
+      "timestamp": "2018-11-11T05:36:53Z",
+      "version": 2,
+      "changeset": 64367083,
+      "user": "Silent",
+      "uid": 299299,
+      "tags": {
+        "name": "温泉镇综合文化站",
+        "name:en": "Hot Spring Town Comprehensive Cultural Station",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4802402725,
+      "lat": 39.8852062,
+      "lon": 116.3591293,
+      "timestamp": "2024-09-23T07:56:37Z",
+      "version": 2,
+      "changeset": 156982001,
+      "user": "Taksine",
+      "uid": 10348274,
+      "tags": {
+        "name": "牛街历史文化展陈室",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4813654521,
+      "lat": 39.9851031,
+      "lon": 116.4841465,
+      "timestamp": "2026-01-06T11:10:21Z",
+      "version": 3,
+      "changeset": 176897636,
+      "user": "Taksine",
+      "uid": 10348274,
+      "tags": {
+        "name:en": "China Microphone Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4893022365,
+      "lat": 39.943096,
+      "lon": 116.3242274,
+      "timestamp": "2018-11-11T07:09:29Z",
+      "version": 4,
+      "changeset": 64367889,
+      "user": "Silent",
+      "uid": 299299,
+      "tags": {
+        "name": "北京石刻艺术博物馆",
+        "name:en": "Beijing Stone Carving Art Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5083297022,
+      "lat": 39.804401,
+      "lon": 116.454785,
+      "timestamp": "2017-09-06T09:37:24Z",
+      "version": 1,
+      "changeset": 51775240,
+      "user": "没事了",
+      "uid": 6608677,
+      "tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5094444413,
+      "lat": 39.9133647,
+      "lon": 116.5513497,
+      "timestamp": "2018-11-11T07:09:30Z",
+      "version": 2,
+      "changeset": 64367889,
+      "user": "Silent",
+      "uid": 299299,
+      "tags": {
+        "name": "传媒博物馆",
+        "name:en": "Media museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5098778729,
+      "lat": 5.871446,
+      "lon": 116.250512,
+      "timestamp": "2025-03-09T19:18:14Z",
+      "version": 2,
+      "changeset": 163414255,
+      "user": "DunbarLoop",
+      "uid": 2032374,
+      "tags": {
+        "name": "Kipandi Butterfly Park",
+        "name:en": "Kipandi Park",
+        "name:ru": "Парк бабочек",
+        "tourism": "museum",
+        "website": "https://sabahtourism.com/destination/kipandi-butterfly-park/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5169323436,
+      "lat": 39.9691941,
+      "lon": 116.3056549,
+      "timestamp": "2022-11-15T11:29:48Z",
+      "version": 3,
+      "changeset": 128934883,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "校友之家",
+        "name:en": "Alumni House",
+        "name:zh": "校友之家",
+        "name:zh-Hans": "校友之家",
+        "name:zh-Hant": "校友之家",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5821294053,
+      "lat": 39.9315091,
+      "lon": 116.4263398,
+      "timestamp": "2023-12-17T08:04:06Z",
+      "version": 5,
+      "changeset": 145206286,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "保利艺术博物馆",
+        "name:en": "Poly Art Museum",
+        "name:zh": "保利艺术博物馆",
+        "name:zh-Hans": "保利艺术博物馆",
+        "name:zh-Hant": "保利藝術博物館",
+        "tourism": "museum",
+        "wikidata": "Q18651572",
+        "wikimedia_commons": "Category:Poly Art Museum",
+        "wikipedia": "zh:保利艺术博物馆",
+        "wikipedia:zh": "保利艺术博物馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5875265793,
+      "lat": 39.9451479,
+      "lon": 116.405453,
+      "timestamp": "2018-09-02T07:16:50Z",
+      "version": 1,
+      "changeset": 62212351,
+      "user": "ddbdbdb",
+      "uid": 848672,
+      "tags": {
+        "name:en": "Arrow Factory",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5963885701,
+      "lat": 39.9001667,
+      "lon": 116.4277673,
+      "timestamp": "2023-12-17T08:04:06Z",
+      "version": 4,
+      "changeset": 145206286,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "北京明城墙遗址公园",
+        "name:en": "Beijing Ming city wall relics Park",
+        "tourism": "museum",
+        "wikidata": "Q17010215",
+        "wikimedia_commons": "Category:Ming City Wall Relics Park",
+        "wikipedia": "en:Beijing Ming City Wall Ruins Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039590930,
+      "lat": 39.90758,
+      "lon": 116.4065838,
+      "timestamp": "2020-12-20T17:56:45Z",
+      "version": 3,
+      "changeset": 96149653,
+      "user": "mythria",
+      "uid": 1871024,
+      "tags": {
+        "museum": "history",
+        "name": "王府井古人类文化遗址博物馆",
+        "name:en": "Wangfujing Paleolithic Museum",
+        "name:ru": "Палеонтологический музей Ванфуцзин",
+        "name:zh": "王府井古人类文化遗址博物馆",
+        "name:zh-Hans": "王府井古人类文化遗址博物馆",
+        "name:zh-Hant": "王府井古人類文化遺址博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6403980485,
+      "lat": 39.9857795,
+      "lon": 116.4898547,
+      "timestamp": "2024-01-19T08:00:34Z",
+      "version": 2,
+      "changeset": 146432456,
+      "user": "StarTrailer",
+      "uid": 7134367,
+      "tags": {
+        "name": "朝鲜万寿台美术馆",
+        "name:en": "Mansudae Art Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6872829485,
+      "lat": 39.9855987,
+      "lon": 116.4894067,
+      "timestamp": "2019-10-12T09:11:21Z",
+      "version": 1,
+      "changeset": 75595486,
+      "user": "gadu",
+      "uid": 3725808,
+      "tags": {
+        "name:en": "Faurschou Foundation",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990090483,
+      "lat": 39.8913107,
+      "lon": 116.3812936,
+      "timestamp": "2019-11-19T15:26:19Z",
+      "version": 1,
+      "changeset": 77280104,
+      "user": "booktiger",
+      "uid": 4794671,
+      "tags": {
+        "name": "93号院博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990090484,
+      "lat": 39.8902708,
+      "lon": 116.3796108,
+      "timestamp": "2019-11-19T15:26:19Z",
+      "version": 1,
+      "changeset": 77280104,
+      "user": "booktiger",
+      "uid": 4794671,
+      "tags": {
+        "name": "老窑瓷博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7285478859,
+      "lat": 39.9092256,
+      "lon": 116.5202074,
+      "timestamp": "2024-07-25T11:18:20Z",
+      "version": 2,
+      "changeset": 154388785,
+      "user": "Richard Billyham",
+      "uid": 21767964,
+      "tags": {
+        "name": "紫檀宫博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321277717,
+      "lat": 39.9135397,
+      "lon": 116.5535897,
+      "timestamp": "2020-03-23T08:11:22Z",
+      "version": 1,
+      "changeset": 82510428,
+      "user": "wuyuwojiubuxin",
+      "uid": 10929318,
+      "tags": {
+        "name": "广告博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321288526,
+      "lat": 39.9134251,
+      "lon": 116.5511277,
+      "timestamp": "2020-03-23T08:19:13Z",
+      "version": 1,
+      "changeset": 82511771,
+      "user": "Mavis007",
+      "uid": 10929481,
+      "tags": {
+        "museum": "history",
+        "name": "校史馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7321288527,
+      "lat": 39.9135477,
+      "lon": 116.5535049,
+      "timestamp": "2020-03-23T08:19:13Z",
+      "version": 1,
+      "changeset": 82511771,
+      "user": "Mavis007",
+      "uid": 10929481,
+      "tags": {
+        "name": "广告博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8380864576,
+      "lat": 36.3421318,
+      "lon": 116.2575173,
+      "timestamp": "2021-01-31T15:01:11Z",
+      "version": 1,
+      "changeset": 98452286,
+      "user": "ff5722",
+      "uid": 3450290,
+      "tags": {
+        "name": "中国阿胶博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8744474533,
+      "lat": 39.9833085,
+      "lon": 116.3027596,
+      "timestamp": "2022-10-06T02:22:13Z",
+      "version": 2,
+      "changeset": 127075791,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "中国化工博物馆",
+        "name:zh": "中国化工博物馆",
+        "name:zh-Hans": "中国化工博物馆",
+        "name:zh-Hant": "中國化工博物館",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8867874580,
+      "lat": 39.9481598,
+      "lon": 116.3734612,
+      "timestamp": "2021-06-26T12:35:28Z",
+      "version": 1,
+      "changeset": 107001233,
+      "user": "shanhulittle",
+      "uid": 11213533,
+      "tags": {
+        "name": "北京古代钱币博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9007682644,
+      "lat": 39.9418409,
+      "lon": 116.3177326,
+      "timestamp": "2025-08-31T10:19:11Z",
+      "version": 4,
+      "changeset": 171261694,
+      "user": "HerryCFPL",
+      "uid": 22885560,
+      "tags": {
+        "name": "国家典籍博物馆",
+        "name:en": "National Museum of Classic Books",
+        "name:zh": "国家典籍博物馆",
+        "tourism": "museum",
+        "website": "https://www.nlc.cn/nmcb/",
+        "wikidata": "Q18165205",
+        "wikipedia": "zh:国家典籍博物馆"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9311586228,
+      "lat": 39.9202355,
+      "lon": 116.4064145,
+      "timestamp": "2021-12-05T02:47:17Z",
+      "version": 1,
+      "changeset": 114570794,
+      "user": "ParadoX_ZLWC",
+      "uid": 2507347,
+      "tags": {
+        "name": "北京人艺戏剧博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10188911953,
+      "lat": 39.998242,
+      "lon": 116.3273782,
+      "timestamp": "2022-12-16T07:57:12Z",
+      "version": 2,
+      "changeset": 130143584,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "air_conditioning": "yes",
+        "name": "中国营造学社纪念馆",
+        "name:zh": "中国营造学社纪念馆",
+        "name:zh-Hans": "中国营造学社纪念馆",
+        "name:zh-Hant": "中國營造學社紀念館",
+        "operator": "清华大学",
+        "operator:type": "government",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10198891212,
+      "lat": 40.002298,
+      "lon": 116.3221076,
+      "timestamp": "2022-12-26T03:37:17Z",
+      "version": 2,
+      "changeset": 130499008,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "air_conditioning": "yes",
+        "name": "清华大学科学博物馆（筹）",
+        "name:zh": "清华大学科学博物馆（筹）",
+        "name:zh-Hans": "清华大学科学博物馆（筹）",
+        "name:zh-Hant": "清華大學科學博物館（籌）",
+        "operator": "清华大学",
+        "operator:type": "government",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10308220677,
+      "lat": 39.8681811,
+      "lon": 116.3917032,
+      "timestamp": "2023-07-18T14:22:00Z",
+      "version": 2,
+      "changeset": 138672331,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "name": "首都粮食博物馆",
+        "phone": "+86 10 5601 4233",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11233300438,
+      "lat": 39.9360594,
+      "lon": 116.330344,
+      "timestamp": "2023-10-02T09:28:11Z",
+      "version": 1,
+      "changeset": 142029545,
+      "user": "Zac Hunter",
+      "uid": 9379154,
+      "tags": {
+        "name:en": "Beijing Planetarium",
+        "name:ru": "Пекинский Планетарий",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11394085942,
+      "lat": 39.8892351,
+      "lon": 116.2988387,
+      "timestamp": "2024-04-20T16:53:34Z",
+      "version": 2,
+      "changeset": 150272376,
+      "user": "cEvLGWiQ",
+      "uid": 5432507,
+      "tags": {
+        "addr:full": "北京市丰台区莲花池西里29号北京公交调度指挥中心西侧",
+        "name": "北京公交馆",
+        "phone": "+86 10 6396 1826",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11521228003,
+      "lat": 39.9827458,
+      "lon": 116.4952191,
+      "timestamp": "2024-01-16T07:02:01Z",
+      "version": 1,
+      "changeset": 146309894,
+      "user": "StarTrailer",
+      "uid": 7134367,
+      "tags": {
+        "name": "活的3D博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11521261689,
+      "lat": 39.9835226,
+      "lon": 116.4902521,
+      "timestamp": "2024-01-16T07:47:10Z",
+      "version": 1,
+      "changeset": 146311507,
+      "user": "StarTrailer",
+      "uid": 7134367,
+      "tags": {
+        "name": "中国当代艺术档案",
+        "name:en": "Archives of Contemporary Art in China",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11524567263,
+      "lat": 39.8875772,
+      "lon": 116.3776686,
+      "timestamp": "2024-01-17T11:24:31Z",
+      "version": 1,
+      "changeset": 146359635,
+      "user": "ParadoX_ZLWC",
+      "uid": 2507347,
+      "tags": {
+        "name": "北京戏曲博物馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12153687444,
+      "lat": 23.5408313,
+      "lon": 116.3471735,
+      "timestamp": "2024-09-03T13:07:01Z",
+      "version": 1,
+      "changeset": 156141958,
+      "user": "Taksine",
+      "uid": 10348274,
+      "tags": {
+        "name": "揭阳市丁日昌纪念馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12188136394,
+      "lat": 40.007653,
+      "lon": 116.3136775,
+      "timestamp": "2024-09-20T12:29:30Z",
+      "version": 1,
+      "changeset": 156865700,
+      "user": "phlinsia",
+      "uid": 21973722,
+      "tags": {
+        "name": "清华附中校史馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12441654731,
+      "lat": 39.9936612,
+      "lon": 116.3161368,
+      "timestamp": "2024-12-22T14:59:35Z",
+      "version": 1,
+      "changeset": 160504627,
+      "user": "phlinsia",
+      "uid": 21973722,
+      "tags": {
+        "museum": "history",
+        "name": "清华附小校史馆",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12871058706,
+      "lat": 39.8865922,
+      "lon": 116.3693591,
+      "timestamp": "2025-06-05T15:15:27Z",
+      "version": 2,
+      "changeset": 167227994,
+      "user": "booktiger",
+      "uid": 4794671,
+      "tags": {
+        "museum": "history",
+        "name": "康有为故居",
+        "start_date": "2025-05-25",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12871059042,
+      "lat": 39.8891616,
+      "lon": 116.3733874,
+      "timestamp": "2025-05-28T13:32:37Z",
+      "version": 1,
+      "changeset": 166876519,
+      "user": "booktiger",
+      "uid": 4794671,
+      "tags": {
+        "museum": "history",
+        "name": "林白水故居",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12871059063,
+      "lat": 39.890668,
+      "lon": 116.3690215,
+      "timestamp": "2025-05-28T13:32:37Z",
+      "version": 1,
+      "changeset": 166876519,
+      "user": "booktiger",
+      "uid": 4794671,
+      "tags": {
+        "museum": "history",
+        "name": "施愚山故居",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13036627101,
+      "lat": 39.9392739,
+      "lon": 116.4418808,
+      "timestamp": "2025-07-30T04:29:12Z",
+      "version": 1,
+      "changeset": 169700419,
+      "user": "Galina 加林那",
+      "uid": 22708419,
+      "tags": {
+        "name": "英杰硬石博物馆",
+        "name:ru": "Художественный музей хард-рока Инцзе",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13204690291,
+      "lat": 39.9331663,
+      "lon": 116.3819157,
+      "timestamp": "2025-10-09T11:33:41Z",
+      "version": 1,
+      "changeset": 173045775,
+      "user": "Tony467",
+      "uid": 22302810,
+      "tags": {
+        "name": "郭沫若故居",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13296153143,
+      "lat": 39.9721664,
+      "lon": 116.3031921,
+      "timestamp": "2025-11-11T07:57:54Z",
+      "version": 1,
+      "changeset": 174497623,
+      "user": "Liuterlanian",
+      "uid": 22691001,
+      "tags": {
+        "name": "中国民族博物馆",
+        "opening_hours": "off \"Not open to the public\"",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13586239921,
+      "lat": 39.9516297,
+      "lon": 116.3233545,
+      "timestamp": "2026-02-21T06:41:16Z",
+      "version": 1,
+      "changeset": 178845450,
+      "user": "shanhulittle",
+      "uid": 11213533,
+      "tags": {
+        "museum": "history",
+        "name": "大慧寺",
+        "tourism": "museum"
+      }
+    }
+  ]
+}

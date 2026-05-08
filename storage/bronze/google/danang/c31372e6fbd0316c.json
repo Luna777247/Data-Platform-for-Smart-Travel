@@ -1,0 +1,49 @@
+{
+  "u_key": "c31372e6fbd0316c",
+  "original_osm_name": "Nhà trọ Mai Trúc Lâm",
+  "google_raw": {
+    "formatted_phone_number": "0898 195 089",
+    "geometry": {
+      "location": {
+        "lat": 15.83197,
+        "lng": 108.3678173
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8334310302915,
+          "lng": 108.3691248802915
+        },
+        "southwest": {
+          "lat": 15.8307330697085,
+          "lng": 108.3664269197085
+        }
+      }
+    },
+    "name": "Nhà nghỉ trọ Mai Linh",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Nở Đinh",
+        "author_url": "https://www.google.com/maps/contrib/117795824788523040690/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvG_u2iLfFuN2xY0BPc5jNS7x7HpuuW_i2-ZSpabTw0PteWQ5O=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1698279055,
+        "translated": false
+      },
+      {
+        "author_name": "Hau nam Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106408700985998603733/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuKFR4wU6kd2s_BORCBiuPKDTewm_1IA5yyyeFh4eyvv1KHg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "",
+        "time": 1613767517,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-28T16:35:25.874568"
+}

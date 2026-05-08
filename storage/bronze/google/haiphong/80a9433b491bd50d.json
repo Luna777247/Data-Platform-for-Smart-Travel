@@ -1,0 +1,173 @@
+{
+  "u_key": "80a9433b491bd50d",
+  "original_osm_name": "Cat Ba National Park",
+  "google_raw": {
+    "formatted_phone_number": "0225 3888 741",
+    "geometry": {
+      "location": {
+        "lat": 20.793532,
+        "lng": 106.9901234
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.7948657802915,
+          "lng": 106.9914785302915
+        },
+        "southwest": {
+          "lat": 20.7921678197085,
+          "lng": 106.9887805697085
+        }
+      }
+    },
+    "name": "Vườn Quốc gia Cát Bà",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–17:00",
+        "Thứ Ba: 07:00–17:00",
+        "Thứ Tư: 07:00–17:00",
+        "Thứ Năm: 07:00–17:00",
+        "Thứ Sáu: 07:00–17:00",
+        "Thứ Bảy: 07:00–17:00",
+        "Chủ Nhật: 07:00–17:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Bích Bùi",
+        "author_url": "https://www.google.com/maps/contrib/101192510272245510997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvojQqgtCxF-DxJxRAV1CJyaJqciqMjML52n9u26Hxd9lIWTMj=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Trải nghiệm tuyệt vời của mùa hè khi vừa có núi rừng vừa có biển\nMình đi vào giữa t7, thời tiết thì ủng hộ, thảm thực vật thì đa dạng\nLịch trình cm đi Cát Bà 2n, dành gần 1 ngày trong rừng còn ngày hôm sau chơi ngoài biển, mn có thể nghỉ tại làng Việt Hải nếu thích sự yên bình, còn sôi động hơn thì hãy ra trung tâm TT Cát Bà ạ",
+        "time": 1766413315,
+        "translated": false
+      },
+      {
+        "author_name": "Dũng Lạ",
+        "author_url": "https://www.google.com/maps/contrib/117459569846660772268/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTftvyS8wHmPbDeBt-PvV28VDn8Fexu7KX_gdmshiyHcVgOv4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Hãy leo lên đỉnh núi Ngự Lâm vào một ngày nắng đẹp\nKhi đến nơi xung quanh giống như một lòng chảo võng, ở giữa là đỉnh núi cao bạn đang đứng\nHãy nhớ mang đôi giày leo núi, nước, áo dài tay, kính mát và vài đồ dùng sinh tồn nếu bạn muốn\nCũng không quá khó đi đâu, bám sát đường lát bê tông và đọc biển chỉ dẫn bạn sẽ an toàn",
+        "time": 1768985462,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Đức Thắng VNPT_QNH",
+        "author_url": "https://www.google.com/maps/contrib/109290141831756911724/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ-1vq9BOILvcts_mDHZfwUHm76OqfBYZQwZNrKElVg6asoHjMyg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Trải nghiệm trekking băng qua vườn quốc gia đặc dụng với thảm thực vật xanh mướt luôn tuyệt vời, phổi như được lọc sạc nhờ lượng oxy giàu.",
+        "time": 1763514383,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111612938049543838651/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNNAy_SIHqD1_2Wu2oVw0XCnZfCxNeUb4VnmoNKwjMHVu2W74zSA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "1 tour Vịnh kết hợp Vườn Quốc Gia Cát Bà thời tiết siêu đẹp vào tết dương lịch. Đi hơn chục lần vẫn chưa đi hết chỗ đẹp Vịnh Lan Hạ.",
+        "time": 1767877018,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Lê",
+        "author_url": "https://www.google.com/maps/contrib/100281653238460294641/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnz_NV1-Vw5pYjoiXxHTIQIihAtzT1HAWnkj9REhSVkh6oz4CwIw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "trải nghiệm thú vị và có cực kỳ nhiều ảnh đẹp\nThời tiết lạnh của mùa đông khiến cho việc hiking nhẹ nhàng hơn, lên đến đỉnh Ngự Lâm tận hưởng phong cảnh thì quên sầu luôn",
+        "time": 1767847817,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4862
+  },
+  "harvested_at": "2026-04-30T15:21:22.479378"
+}

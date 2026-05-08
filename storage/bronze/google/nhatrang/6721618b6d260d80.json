@@ -1,0 +1,89 @@
+{
+  "u_key": "6721618b6d260d80",
+  "original_osm_name": "Booze Cruise",
+  "google_raw": {
+    "formatted_phone_number": "0258 3521 105",
+    "geometry": {
+      "location": {
+        "lat": 12.2333507,
+        "lng": 109.1947281
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2347503302915,
+          "lng": 109.1961138302915
+        },
+        "southwest": {
+          "lat": 12.2320523697085,
+          "lng": 109.1934158697085
+        }
+      }
+    },
+    "name": "Booze Cruise Bar And Grill",
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Loc Dang Xuan",
+        "author_url": "https://www.google.com/maps/contrib/106247472135472018684/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5Ko31DmweNKsVj5Aa8KfmglOSAJZ__bKTmU7LjHoyvd4hVUf4=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Nhà hàng này rất tuyệt, Bia ngon. Ấn tượng nhất là banh Pizza ở đây hình chữ nhật",
+        "time": 1481687012,
+        "translated": false
+      },
+      {
+        "author_name": "Long Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106573903376992851785/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIo5R5twDhbcK5gGjuF8gqAyKn8gYT_mYCuSMQvCyh1Q1NXNw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "Phục vụ tốt, thức ăn ngon, không gian thoải mái",
+        "time": 1481545822,
+        "translated": false
+      },
+      {
+        "author_name": "Phu Ndh",
+        "author_url": "https://www.google.com/maps/contrib/101948800136840079635/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvApaRdC8-vRaNVYbDeK39yd8ZgdYllFas46iFvuCklA96zIsxpw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Rất được",
+        "time": 1468470594,
+        "translated": false
+      },
+      {
+        "author_name": "HOANG SG",
+        "author_url": "https://www.google.com/maps/contrib/104784289293130245292/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ3jeiZ2d5hOH6NjJHForqdwnHrRZGDFh0dcT079inerm18_X6dg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 2,
+        "relative_time_description": "8 năm trước",
+        "text": "Vui",
+        "time": 1519441948,
+        "translated": false
+      },
+      {
+        "author_name": "CurseTrynd",
+        "author_url": "https://www.google.com/maps/contrib/100254352216668361718/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCzgqo0wzuAU_8CPPPteMHdAKmVWnO702r21jvlePF1A2ZCel9=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Ngon",
+        "time": 1504925575,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 126
+  },
+  "harvested_at": "2026-05-03T19:39:39.110727"
+}

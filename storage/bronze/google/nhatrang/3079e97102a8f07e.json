@@ -1,0 +1,173 @@
+{
+  "u_key": "3079e97102a8f07e",
+  "original_osm_name": "Unnamed",
+  "google_raw": {
+    "formatted_phone_number": "0963 046 363",
+    "geometry": {
+      "location": {
+        "lat": 12.1852992,
+        "lng": 109.1614966
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.1866650302915,
+          "lng": 109.1628427302915
+        },
+        "southwest": {
+          "lat": 12.1839670697085,
+          "lng": 109.1601447697085
+        }
+      }
+    },
+    "name": "Khu Du Lịch Trăm Trứng - 100 Egg Theme Park",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–18:00",
+        "Thứ Ba: 08:30–18:00",
+        "Thứ Tư: 08:30–18:00",
+        "Thứ Năm: 08:30–18:00",
+        "Thứ Sáu: 08:30–18:00",
+        "Thứ Bảy: 08:30–18:00",
+        "Chủ Nhật: 08:30–18:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Rosie Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/101312135873811881034/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSPdbLRqydVKuVQo3zLyXPmGZtaU6e3bKLqsL4sH3woHIwqMg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khu du lịch nằm cách trung tâm thành phố khoảng 10km.\nKhông gian dã ngoại rộng lớn, được đầu tư nhiều tiểu cảnh nhân tạo chỉnh chu.\nCombo 5 là lựa chọn hợp lý: bao gồm tham quan và tắm hồ bơi.\nNên đặt online để được giảm 10%.",
+        "time": 1771591256,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Vân",
+        "author_url": "https://www.google.com/maps/contrib/109042678756740528256/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ20zIaLMMHW43xds-CPnUcoLObVfj2PajkpRBHmZzaa5k2rQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Giá rẻ.nhiều hoạt động cho bé.cảnh đẹp.có suối.có thác có hồ bơi bé nhỏ bé lớn.nước ấm không sợ lạnh.ko sợ nắng.trang trí đẹp.mua online được giảm 10%",
+        "time": 1771760882,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Lan",
+        "author_url": "https://www.google.com/maps/contrib/115874786873293062537/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSDoeD2HECoPvEyEFIb2I51Vgo3B1WKnDDzIWKkhCCua5jRqRf=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Khu tổ hợp trải nghiệm thiên nhiên lâu đời tại Nha Trang. Vì ở sát bên dãy Hoàng Ngưu Sơn nên rất nhiều khỉ tự nhiên.\nNgâm bùn nóng, ngâm thảo dược trong quả trứng độc lạ, hồ bơi nước ấm rất dễ chịu, giá tốt hơn mặt bằng chung vì add on nhiều dịch vụ.",
+        "time": 1763524833,
+        "translated": false
+      },
+      {
+        "author_name": "truong uong",
+        "author_url": "https://www.google.com/maps/contrib/110333442470858999357/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcdSa6o9RAgkGFuEHjKjFJds1H6e6mGqeku3EoZUAAwqYzpA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đông quá, nhưng khu vực bán vé thì lại nhỏ và ít người nên phải chờ đợi lâu nha",
+        "time": 1771660457,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Anh Doan",
+        "author_url": "https://www.google.com/maps/contrib/110457412276084730672/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe0xzY5fLlD3n4uiJLT751EpdF-vqxENQMn70Tv5fRA_f3ExP6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Khu du lịch rộng đẹp, được hoàn thiện 1 cách kỹ lưỡng nhân dịp 2/9. Điểm cộng là nhà vệ sinh rất gần với các khu tắm và sạch sẽ. Các khu tắm nước sạch sẽ, nhân viên dễ thương, hiếu khách. Có bán nước và có quầy đồ ăn. Nói chung trải nghiệm hoàn hảo 10đ không có nhưng. ĐẠI LỄ ĐANG ĐƯỢC GIẢM GIÁ.",
+        "time": 1756446711,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1117
+  },
+  "harvested_at": "2026-05-02T15:20:34.048338"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "34c98ad78493dd7b",
+  "original_osm_name": "Cowboy jacks",
+  "google_raw": {
+    "formatted_phone_number": "024 7300 7323",
+    "geometry": {
+      "location": {
+        "lat": 21.0304406,
+        "lng": 105.7877336
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0317413302915,
+          "lng": 105.7890696302915
+        },
+        "southwest": {
+          "lat": 21.0290433697085,
+          "lng": 105.7863716697085
+        }
+      }
+    },
+    "name": "Cowboy Jack's Saloon Trần Thái Tông",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 3,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Nguyen Hanh",
+        "author_url": "https://www.google.com/maps/contrib/116675548622011171415/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1iJFsSglPm_SwPEsQItpQ1CTZHocfMYX0QP7DqCjJtsA-GWBN=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "1 bữa trưa phải nói cực kì là hài lòng, đồ ăn mình gọi 1 combo gồm 1pizza, 1 mì ý bò băm, 1 salad. Salad và mì tầm 10p là ra độ mì vừa chín tới quyện với bò băm và sốt ăn rất đưa miệng. Pizza thì chờ khoảng 25~30p ra lò nóng hổi, nhân nhiều, bánh nhân phía trên mềm vỏ thì giòn vừa đủ, đặc biệt là bánh siêu to, 2 vợ chồng mình ăn mà chỉ hết nổi 2/3 bánh, không gian quán khá thoáng mát và bạn nam nhân viên phục vụ bàn rất nhiệt tình giới thiệu các trương trình giảm giá khi thanh toán thẻ của ngân hàng nào đó được giảm hẳn 300k mà mình lại không có tiếc ghê cơ, dù sao thanh toán momo cũng được hoàn 10% hóa đơn nên các bạn có thể xem xét. Tổng hóa đơn+ 7% phí Vat mà hết có hơn 600k cho 1 bữa trưa ngon lành cành đào như này thì rất đáng.\nĐồ ăn 9/10₫\nKhông gian 8/10₫\nPhục vụ 10/10₫\nGiá cả còn tùy món ăn lựa chọn: 150~500k/ 1ng",
+        "time": 1639462104,
+        "translated": false
+      },
+      {
+        "author_name": "SCAPE NGO",
+        "author_url": "https://www.google.com/maps/contrib/100042943460915021168/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl3OErVz1DOqAIRMxDt313EDMmwhPZ3x_sqVC25sxh8J6f4vLZ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Pizza nhân mới có thêm rau ăn rất ngon mà không bị ngấy. Bánh nóng và giòn. Mình ăn pizza ở nhiều chỗ rồi nhưng vẫn thấy pizza ở đây là ngon nhất",
+        "time": 1584215165,
+        "translated": false
+      },
+      {
+        "author_name": "Van Tran",
+        "author_url": "https://www.google.com/maps/contrib/102724859309703448748/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiwUQMc8EKWND8YH4R9SCO_5ZRxnHpbPtJ-wbi5NcHkRi5lp41bw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Đi qua suốt, giờ mới tạt vào ăn.\nQuán ở ngay mặt Trần Thái Tông, đi lại và để xe thuận tiện.\nKhông gian quán thoáng đãng. Nhân viên nhiệt tình, cách nói có vẻ khá bài bản, kèm tên họ như cskh ý.\nMình ăn 1 suất sườn bò bbq được tặng 1 pizza. Thịt bò nhưng khá mềm, cắt dễ dàng (chắc do dao sắc nữa), tẩm ướp vừa. Ngon! Sốt kèm cũng ngon, không rưới cũng vừa miệng rồi nhưng rưới thêm ngon hơn, không bị quá vị.\nPizza đặt trên lửa tiếp tục làm ấm, chứ không chỉ trên khay không như các quán khác, hay hay.\nTráng miệng bằng kem. Viên bé nhất mình từng ăn, chảy khá nhanh. Điểm trừ duy nhất. Tuy nhiên món chính + salad ok nên vẫn vote 5 sao.\nVề giá, nếu bạn không quá rủng rỉnh thì nên đi nhiều người một chút. Tầm 3 người như mình, cả ăn uống tất tần tật, no vừa thì cỡ gần 300k/người.",
+        "time": 1532533105,
+        "translated": false
+      },
+      {
+        "author_name": "ゆな",
+        "author_url": "https://www.google.com/maps/contrib/106847285026960817795/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKsuq5jm-N8-KJoZRi_2mflkpmjRQ11EdBw2nD7_dU8bDa8VfI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Địa chỉ dễ tìm, tiện chỗ để xe, đồ ăn ngon, phục vụ tương đối nhanh, nhân viên trẻ nhiệt tình, ngoan, thanh toán hơi lâu, giá cả sang chảnh nhìn ảnh là biết :))",
+        "time": 1533713554,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Nam",
+        "author_url": "https://www.google.com/maps/contrib/113892623343874831176/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjjKH1qrk5ObtnXcZ1Z826VaFgmzqDdVaOKBCvtUZgI4y2Pw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Đồ ăn ngon nhất là pizza, nên đi tầm 4 người trở lên để ăn được nhiều món",
+        "time": 1601430316,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 240
+  },
+  "harvested_at": "2026-04-28T16:28:31.847680"
+}

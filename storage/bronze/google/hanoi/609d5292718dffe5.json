@@ -1,0 +1,52 @@
+{
+  "u_key": "609d5292718dffe5",
+  "original_osm_name": "Khách Sạn Đức Thái",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0341004,
+        "lng": 105.8470995
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0354198802915,
+          "lng": 105.8483954802915
+        },
+        "southwest": {
+          "lat": 21.03272191970849,
+          "lng": 105.8456975197085
+        }
+      }
+    },
+    "name": "Duc Thai Hotel",
+    "rating": 1,
+    "reviews": [
+      {
+        "author_name": "Anh Phạm",
+        "author_url": "https://www.google.com/maps/contrib/108222325468153330124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY0eESNPYnaBLIu6tELcrRdPP4JOBuR_qIvQE4AHudwlXJAg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "Dịch vụ tệ\nChất lượng phòng kém",
+        "time": 1657548273,
+        "translated": false
+      },
+      {
+        "author_name": "Wang Will",
+        "author_url": "https://www.google.com/maps/contrib/115065702707143860435/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLG04EEfLP_8YsmMWhK3h5LK1ioa41eua-YHYMfOs5Okr9aSA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 1,
+        "relative_time_description": "6 năm trước",
+        "text": "Người dọn dẹp đã mở cửa mà không được sự cho phép của tôi.\n\nMôi trường rất bừa bộn.",
+        "time": 1571542780,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-27T19:58:44.935527"
+}

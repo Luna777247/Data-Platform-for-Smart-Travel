@@ -1,0 +1,89 @@
+{
+  "u_key": "f6b1d4f0b8180d2f",
+  "original_osm_name": "Mama Moo",
+  "google_raw": {
+    "formatted_phone_number": "0258 6505 678",
+    "geometry": {
+      "location": {
+        "lat": 12.2543414,
+        "lng": 109.1952196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2556621802915,
+          "lng": 109.1965892802915
+        },
+        "southwest": {
+          "lat": 12.2529642197085,
+          "lng": 109.1938913197085
+        }
+      }
+    },
+    "name": "Quán Nướng Mama Moo Steak",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Hoàng Sơn",
+        "author_url": "https://www.google.com/maps/contrib/116572973254826294400/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvxyyAKRTU-Z7gjC3WkEFXDgM3Nda6zHaJ67n7c5lmPL_IRQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán có món beefsteak khá ngon, mình chọn phần bò hokubee giá 290k và khá hài lòng. Bò mềm, ngọt nhiều nước ăn rất đã, chỉ hơi tiếc quá cho quá ít nước sốt, ko co các loại sốt nấm hay sốt kem phomai rưới lên ăn kèm mà chỉ có 1 chén sốt nhỏ để chấm. Phần 290k mà ko có sốt rưới lên quả là thiếu sót. Pizzza thì dưới trung bình, bột bánh quá khô mà hầu như ko có phomai nên ko thơm và vị ko ngon. Mong quán cải tiến thêm chất lượng món ăn.",
+        "time": 1532684316,
+        "translated": false
+      },
+      {
+        "author_name": "Bùi Minh Hiếu",
+        "author_url": "https://www.google.com/maps/contrib/114051979904737398807/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRR8FUY1RP_gOhBRnoiQBOY8xUBfNVQpC1PPlACxqmgi81ez8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Ngon mà giá hơi đắt",
+        "time": 1546617988,
+        "translated": false
+      },
+      {
+        "author_name": "TiTa Gaming",
+        "author_url": "https://www.google.com/maps/contrib/116165585663427083223/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWafNDgfELBq2DW8gDg2gWPcL_UztuQi3hLPqAMfeq-Iio7AFil=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Khá ngon, phục vụ nhanh",
+        "time": 1548646169,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Đường",
+        "author_url": "https://www.google.com/maps/contrib/103330370761083560622/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF82kk90szN71VzhYoIYw6YQDWsg6KbdWr7Ew560fl63q7GfcsYQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Khá okie",
+        "time": 1551767767,
+        "translated": false
+      },
+      {
+        "author_name": "Phuc Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100910987752813680908/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWarZaI4y7bNoO-1e2oWjB2DNU8nqR20-rw6weo_7zUwPKd1gnj=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Món ăn ngon",
+        "time": 1546269018,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23
+  },
+  "harvested_at": "2026-05-02T15:14:47.803180"
+}

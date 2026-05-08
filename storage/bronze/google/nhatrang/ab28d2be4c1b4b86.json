@@ -1,0 +1,173 @@
+{
+  "u_key": "ab28d2be4c1b4b86",
+  "original_osm_name": "THE CORAL 2",
+  "google_raw": {
+    "formatted_phone_number": "0905 130 243",
+    "geometry": {
+      "location": {
+        "lat": 12.2364259,
+        "lng": 109.1941798
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2377641302915,
+          "lng": 109.1954849302915
+        },
+        "southwest": {
+          "lat": 12.2350661697085,
+          "lng": 109.1927869697085
+        }
+      }
+    },
+    "name": "THE CORAL 2",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–00:00",
+        "Thứ Ba: 10:00–00:00",
+        "Thứ Tư: 10:00–00:00",
+        "Thứ Năm: 10:00–00:00",
+        "Thứ Sáu: 10:00–00:00",
+        "Thứ Bảy: 10:00–00:00",
+        "Chủ Nhật: 10:00–00:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Khang Trương",
+        "author_url": "https://www.google.com/maps/contrib/100616012702288387582/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKT6zkCa0wA73saaY-VIvhiN90SjKh7_7WapQx7wc4NWzyjkw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Món The Coral 2 thật sự vượt ngoài mong đợi. Ấn tượng ngay từ phần trình bày cực kỳ tinh tế, nhìn đẹp như một tác phẩm nghệ thuật. Khi nếm thử, hương vị hài hòa từ từng lớp nguyên liệu lan tỏa rất trọn vẹn — vừa đậm đà, vừa thanh nhẹ, để lại dư vị tinh tế khó quên. Kết cấu món ăn được xử lý chuẩn mực, thể hiện rõ sự chăm chút và tay nghề của bếp.\n\nKhông chỉ món ăn xuất sắc, quán cũng tạo nên trải nghiệm rất dễ chịu. Không gian sạch sẽ, ấm cúng và được bố trí tinh tế, khiến bữa ăn trở nên thoải mái hơn hẳn. Nhân viên cực kỳ thân thiện, chu đáo và phục vụ nhanh, tạo cảm giác được trân trọng từ lúc bước vào đến khi rời quán. Tổng thể, đây là một địa điểm đáng để quay lại nhiều lần — vừa ngon, vừa đẹp, vừa có chất riêng.",
+        "time": 1765452882,
+        "translated": false
+      },
+      {
+        "author_name": "Tấn nghĩa Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103384276663802863847/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBCEe5OXzTGqyzqHyEYUKleOhQLSzXI4pnC4SlHWT5t3V_Hg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Tôi đã trải nghiệm với gia đình khi đi du lịch\nNhân viên cực kì thân thiện\nKhông bỏ qua các món ăn điều ngon và sải sản rất là tươi sống\nKhi nào tôi có dịp tôi nhất định sẽ quay lại",
+        "time": 1765453442,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Thu",
+        "author_url": "https://www.google.com/maps/contrib/109840407566807625185/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2_oDzIzyr27iaW7NUut-qMo50w2nDsOpus91dZqObWn4bMA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Nhân viên thân thiện. Đồ ăn ngon, giá cả phù hợp với mặt bằng chung. 🥰 mua mang về đầy ắp😘",
+        "time": 1750750336,
+        "translated": false
+      },
+      {
+        "author_name": "Đạt Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/116753500393604838134/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1zKBJNnwOgw5dOjD-vpFmkaPq2sW-OmYygBmeUbG1xVTC8fo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Thức ăn ngon miệng , nhân viên chu đáo . Món ăn ra nhanh",
+        "time": 1750066045,
+        "translated": false
+      },
+      {
+        "author_name": "Ýy Như",
+        "author_url": "https://www.google.com/maps/contrib/102386717308201029068/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXtAb-Js794BJfQn1r_pCzZ3DVUSgwdaGglvaknxijPcIuCaQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "thức ăn ở đây rất ngon . phục vụ nhanh chóng .",
+        "time": 1750065923,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 296
+  },
+  "harvested_at": "2026-05-02T16:07:54.482780"
+}

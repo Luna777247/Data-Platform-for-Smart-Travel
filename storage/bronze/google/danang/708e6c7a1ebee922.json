@@ -1,0 +1,173 @@
+{
+  "u_key": "708e6c7a1ebee922",
+  "original_osm_name": "Vi cafe",
+  "google_raw": {
+    "formatted_phone_number": "0796 238 133",
+    "geometry": {
+      "location": {
+        "lat": 16.0446389,
+        "lng": 108.2163172
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0460774302915,
+          "lng": 108.2176514802915
+        },
+        "southwest": {
+          "lat": 16.0433794697085,
+          "lng": 108.2149535197085
+        }
+      }
+    },
+    "name": "V COFFEE",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–02:00",
+        "Thứ Ba: 07:00–02:00",
+        "Thứ Tư: 07:00–02:00",
+        "Thứ Năm: 07:00–02:00",
+        "Thứ Sáu: 07:00–02:00",
+        "Thứ Bảy: 07:00–02:00",
+        "Chủ Nhật: 07:00–02:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Phương Trương",
+        "author_url": "https://www.google.com/maps/contrib/111325118681243278073/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4-5sZ92U7aQwvjX1hMFM5WWYyjqcrrP0sYnWfgemK1gI1kSpS=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán cf làm tui ấn tượng ngay từ lần đầu đến. Nước decor đẹp và ngon. Menu nước thì mình chưa thấy đa dạng lắm, tầm giá tầm 35k-45k, sau 23h sẽ bán thêm cả cocktail. Wc chuẩn bị sẵn cả keo vuốt tóc, bông tẩy trang và máy sấy rất tâm lý. Nói chung nên thử nè ❤️",
+        "time": 1766412511,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Yến",
+        "author_url": "https://www.google.com/maps/contrib/100093027116813025645/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnEEG484Ww3sXC6x_VMWoZfdEAw8qceCw0y4XBV5C83O_alEY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Bố trí:\n•\tBàn gỗ dài dạng picnic, phù hợp cho nhóm bạn hoặc làm việc chung.\n•\tGóc bàn nhỏ hơn cho 2–3 người ngồi cũng có.\n\nKhông khí:\n•\tTrông khá yên tĩnh, phù hợp để ngồi học, làm việc hoặc tám chuyện nhẹ nhàng.\n•\tMàu sắc trung tính, không quá chói, dễ chịu cho mắt.\n\nĐiểm cộng:\n•\tDecor độc đáo, khác biệt so với quán cf thông thường.\n•\tCó phong cách riêng rõ rệt.\n•\tKhông gian sáng sủa, gọn gàng.\n\n👉 Đánh giá chung: Nước uống ở đây khá ổn, có sự đầu tư trong cả hương vị lẫn hình thức. Menu ở đây chủ đạo là cf.",
+        "time": 1755504227,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/108797809480184732866/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWthOhmzaUgfFvfvirOcQG6yYlYRp4-DcI4I6n3ln1Isfj8Hk21=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian rộng rãi, thoáng mát, nhân viên nhiệt tình. 10đ không có nhưng",
+        "time": 1772640697,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Trần Lê",
+        "author_url": "https://www.google.com/maps/contrib/110031770545013995146/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzPKBWyktwwuJ9GhncuvPetccVj0leeLrvyt95QMRHOXw_sg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đây là lần thứ 4 mình ngồi tại đây , mình được bạn bartender giới thiệu cho một ly cocktail rất ngon . Quán đẹp , nhân viên thân thiện . Nên đến thử để trải nghiệm.",
+        "time": 1767692978,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Uyên TRẦN",
+        "author_url": "https://www.google.com/maps/contrib/106453936155350736562/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXexuArHrHnjqbz4_ApQKBZRJsS8rvHVyWlgldBxG6XMb0ajYfP=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán nì ngồi buổi tối chin eo lúm, nước giá vừa phải, ngon. Nhân viên quán siu nhiệt tình vễ huông (nhứt nà bẹn nv tên Đạt :>)",
+        "time": 1767013534,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 76
+  },
+  "harvested_at": "2026-04-29T09:56:01.582407"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "0430a921bcd5785a",
+  "original_osm_name": "Hau Sua & Tom Hum",
+  "google_raw": {
+    "formatted_phone_number": "0935 992 929",
+    "geometry": {
+      "location": {
+        "lat": 16.0638793,
+        "lng": 108.2091459
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0652290302915,
+          "lng": 108.2105016302915
+        },
+        "southwest": {
+          "lat": 16.0625310697085,
+          "lng": 108.2078036697085
+        }
+      }
+    },
+    "name": "HUM vegetarian",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–21:00",
+        "Thứ Ba: 06:30–21:00",
+        "Thứ Tư: 06:30–21:00",
+        "Thứ Năm: 06:30–21:00",
+        "Thứ Sáu: 06:30–21:00",
+        "Thứ Bảy: 06:30–21:00",
+        "Chủ Nhật: 06:30–21:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Đạt Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113933105957756803897/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXA0wZkI1KTDlOfVIM-ZJStbMzaKp4ke81Tr1OvFj9TDIocA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Phần ăn lớn và ngon. Top các món trong lòng: xôi, bánh mì, mì quảng\nMón chiên hơi dầu\nQuán đẹp, sang, bán chắc đam mê",
+        "time": 1763692966,
+        "translated": false
+      },
+      {
+        "author_name": "Heo Heo",
+        "author_url": "https://www.google.com/maps/contrib/105780720355837467380/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9nwSDuT7g0Qa0f1Yqp1PngExb-2IqaDDNRwsrtygQKuBhxg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Không gian thoáng mát tuyệt đối, nhân viên dễ thương, thức ăn bài trí đẹp, ngon, giá cả hợp lý 😍",
+        "time": 1758004306,
+        "translated": false
+      },
+      {
+        "author_name": "Lam Nhuan",
+        "author_url": "https://www.google.com/maps/contrib/108486943281971168268/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr-ILkfplxn8pPyS27gBrr8puQEBOX5lKpv9DDMVvW-9t_6wI2=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Mình đã ghé Hum 5 lần. Nhà hàng ở ngay trung tâm nên rất tiện để chiêu đãi, đón tiếp bạn bè.\nĐồ ăn ở đây hợp khẩu vị với mình. Mình thích nhất là món Bánh Mỳ và Xôi. Hương vị rất ngon\nTuy là ở ngay trung tâm nhưng giá lại rất nhẹ nhàng. Rẻ nhất là 18k , các món nước trung bình từ 25k-35k, một số món chiên, hoặc món đặc biệt thì cao hơn 1 chút tầm 55/65k.\nKhông gian quán đẹp, ở ngay cạnh bờ hồ nên rất thoáng và mát mẽ.\nPhục vụ dễ thương, nhiệt tình",
+        "time": 1752369802,
+        "translated": false
+      },
+      {
+        "author_name": "Mau Nghia Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107207872431913212551/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlO8krpxcd8zz6i_JkuMe7aRwKMeq9Yur2u1QA2RuOY4MJsR0CXw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nhiều món ngon, lạ miệng. Đồ uống cungz ngon và giá phải chăng.\nVị trí quán thoáng mát, Trung tâm TP.\nVừa ăn vừa ngắm cảnh bờ hồ Hàm Nghi chill chill, rất thoải mái.\nQuán sang, không khí dễ chịu, nhạc tịnh tâm\nCó phục vụ ăn sáng",
+        "time": 1732528436,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyên Bùi",
+        "author_url": "https://www.google.com/maps/contrib/105516629765088056234/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKA54Tmq1SNRwgl46LbfYZiW9tvRvT7IhLbjrCpQIKd18UyoQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán xinh, ấm cúng, đồ ăn vị khá ok, trình bày đẹp mắt.\nGiá cả phải chăng",
+        "time": 1752232843,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 60
+  },
+  "harvested_at": "2026-04-29T09:42:50.112742"
+}

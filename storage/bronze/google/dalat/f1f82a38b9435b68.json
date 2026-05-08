@@ -1,0 +1,174 @@
+{
+  "u_key": "f1f82a38b9435b68",
+  "original_osm_name": "Vegetarian restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0911 262 545",
+    "geometry": {
+      "location": {
+        "lat": 11.9338509,
+        "lng": 108.4412199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9351994302915,
+          "lng": 108.4426301302915
+        },
+        "southwest": {
+          "lat": 11.9325014697085,
+          "lng": 108.4399321697085
+        }
+      }
+    },
+    "name": "Từ Sen vegetarian and cafe Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–20:00",
+        "Thứ Ba: 08:00–20:00",
+        "Thứ Tư: 08:00–20:00",
+        "Thứ Năm: 08:00–20:00",
+        "Thứ Sáu: 08:00–20:00",
+        "Thứ Bảy: 08:00–20:00",
+        "Chủ Nhật: 08:00–20:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Ria Vananh",
+        "author_url": "https://www.google.com/maps/contrib/111450151222780836585/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjhlzp6rbbwVuR9dy5RpH8iDR_YBH69ErkPH_Omov3eUHXkak=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Các món vừa và ngon miệng, vibes dễ chịu, nhẹ nhàng, thoải mái. Phục vụ rất từ tốn và dễ chịu. Đề xuất nên thử nghen.",
+        "time": 1760344311,
+        "translated": false
+      },
+      {
+        "author_name": "Thang Tran",
+        "author_url": "https://www.google.com/maps/contrib/118090692286696059695/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJK6dzC1jpPRQyWj9Rpk4MXXGV-HdJoHupZU2I_KB-yDe-wQQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán nhỏ xinh, mộc mạc nhưng đồ ăn ngon. Giá cả vừa phải. Quán chay từ đường Hà Huy Tập chạy vào, đến ngã ba thì quẹo trái.",
+        "time": 1757050233,
+        "translated": false
+      },
+      {
+        "author_name": "DiamondTran",
+        "author_url": "https://www.google.com/maps/contrib/110554052027244351335/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkhubI5tC0wdwqKIOF1d7SDk5Q64BLMRMBXqhbzJjC62QkqoOq=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán nhỏ, dễ tìm, nơi yên tĩnh, trông bình dân nhưng giá cũng tương đương các nhà hàng ở Đà lạt, món mình gọi là hủ tiếu có nước ngọt nhẹ giống nước ninh từ rau củ quả - cái này mình rất thích , chỉ có điều mỳ hơi bị ít , ăn xong vẫn gần như chưa ăn - chắc mình ăn nhiều quen rồi :)) , chúc quán luôn đông khách và phát triển",
+        "time": 1750597651,
+        "translated": false
+      },
+      {
+        "author_name": "ly ly",
+        "author_url": "https://www.google.com/maps/contrib/112556645252811660074/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4VITPisdIZ-7C2q2S3blZSGgQmh7fmVguJ7D7_iwTQrswVtw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán nhỏ xinh, mở nhạc êm dịu. Phần ăn nhiều, vị ổn.\nMặt tiền đường và không có cửa kính nên xe chạy qua lại hơi ồn 1 chút",
+        "time": 1759211833,
+        "translated": false
+      },
+      {
+        "author_name": "hưng trịnh",
+        "author_url": "https://www.google.com/maps/contrib/110645852391400278256/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9PlYRfu28pl3yu4r96o_zF5VZppQpYTqFiactgd9zbnjRDlRenQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Lần đầu mình ăn ở quán nhưng thấy khá hài lòng. Đồ ăn khá ngon và được chuẩn bị chu đáo. Mình thích nhất món cơm chiên muối ớt, ăn trong ngày lạnh lạnh ở Đà Lạt rất phù hợp.\n\nChị phục vụ nhẹ nhàng, phục vụ tận tình. Mình sẽ quay lại quán dùng bữa lần sau.",
+        "time": 1735653670,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 614
+  },
+  "harvested_at": "2026-04-29T13:36:00.045223"
+}

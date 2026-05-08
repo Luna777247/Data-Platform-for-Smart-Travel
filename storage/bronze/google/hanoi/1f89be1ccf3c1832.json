@@ -1,0 +1,173 @@
+{
+  "u_key": "1f89be1ccf3c1832",
+  "original_osm_name": "The American Club",
+  "google_raw": {
+    "formatted_phone_number": "024 3824 1850",
+    "geometry": {
+      "location": {
+        "lat": 21.0235889,
+        "lng": 105.8539722
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0250574802915,
+          "lng": 105.8554502802915
+        },
+        "southwest": {
+          "lat": 21.0223595197085,
+          "lng": 105.8527523197085
+        }
+      }
+    },
+    "name": "American Club Hanoi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–00:00",
+        "Thứ Ba: 10:00–00:00",
+        "Thứ Tư: 10:00–00:00",
+        "Thứ Năm: 10:00–00:00",
+        "Thứ Sáu: 10:00–00:00",
+        "Thứ Bảy: 10:00–00:00",
+        "Chủ Nhật: 10:00–00:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Vu Le Xuan",
+        "author_url": "https://www.google.com/maps/contrib/102722363006273840552/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQeDj-2XzhDa8QTomYO6_g_WjFW9LyDi0G3KuIoFJK8tAkqkSG=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Câu lạc bộ có sân chơi rất rộng, sân bóng đá, bóng chuyền. Nhà hàng với các món ăn kiểu Mỹ với kích cỡ khá lớn. Mặc dù mang tên American Club nhưng vẫn mở cửa tự do cho mọi người vào ăn và chơi thể thao. Ở trung tâm Hà nội mà có được 1 club như thế này là rất hiếm",
+        "time": 1772968516,
+        "translated": false
+      },
+      {
+        "author_name": "Xe nâng HYSTER HYSTER YALE GROUP",
+        "author_url": "https://www.google.com/maps/contrib/116595725646584300205/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvM9goq23zZ8tTQflyXHBjVDZfnQu--IPbYv9glIHn1vv26wzJ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Vị trí thuận tiện, món ăn phù hợp với các bạn Châu Mỹ, đáng để thử chiêm nghiệm đồ ăn ở đây",
+        "time": 1769512708,
+        "translated": false
+      },
+      {
+        "author_name": "Phúc Nguyễn Trần",
+        "author_url": "https://www.google.com/maps/contrib/112495940428229861237/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK_Ql4TpfFzO5K70C_fe3UgfcIKu201h2WmQTLwLe6I4AYkvoL=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, khu vực vui chơi rộng rãi. 150k/ng nhé 🥰",
+        "time": 1769299978,
+        "translated": false
+      },
+      {
+        "author_name": "May Plant Starr Waters",
+        "author_url": "https://www.google.com/maps/contrib/110969944594547644660/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkim_p389pQV6QwBPgtphevOZZb123W-xMaQJ-C0fPHhOMNyEixg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Rất mê mấy sự kiện tự hào ở đây, hầu như năm nào cx ghé chơi. Điểm trừ là chỗ gửi xe bên ngoài khá chát ưu tiên để chỗ khác nếu k muốn bị mất 20k =))))",
+        "time": 1742296873,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Long Vu",
+        "author_url": "https://www.google.com/maps/contrib/102729377297398877920/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBwY00pgkYLwZdIiENYQ1xGHJg0OgdPA2EPsR7YwYtsZFOa2Av=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ở mức cơ bản. Không quá ngon và không có gì nổi bật. Đã thử món sườn ở đấy và nó k tender cho lắm. Tuy nhiên không gian rất rộng rãi và có playground. Phù hợp cho mọi lứa tuổi (kid’s playground, basketball and pickleball courts) đồ uống đa dạng. Mang đậm vibe của Mỹ giống như tên nhà hàng.",
+        "time": 1765599985,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 814
+  },
+  "harvested_at": "2026-04-28T16:20:38.711151"
+}

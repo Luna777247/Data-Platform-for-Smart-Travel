@@ -1,0 +1,173 @@
+{
+  "u_key": "a54ba9e0e2fc86fd",
+  "original_osm_name": "Cafe nước mía 206/48 đường 2/4",
+  "google_raw": {
+    "formatted_phone_number": "0935 424 099",
+    "geometry": {
+      "location": {
+        "lat": 12.2544109,
+        "lng": 109.1919956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2557017302915,
+          "lng": 109.1933548302915
+        },
+        "southwest": {
+          "lat": 12.2530037697085,
+          "lng": 109.1906568697085
+        }
+      }
+    },
+    "name": "Quán cafe-nước mía-sinh tố—nước ép trái cây chợ Đầm",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–19:00",
+        "Thứ Ba: 06:00–19:00",
+        "Thứ Tư: 06:00–19:00",
+        "Thứ Năm: 06:00–19:00",
+        "Thứ Sáu: 06:00–19:00",
+        "Thứ Bảy: 06:00–19:00",
+        "Chủ Nhật: 06:00–19:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Quỳnh Anh Phan Trương",
+        "author_url": "https://www.google.com/maps/contrib/111501309801659711386/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhcjUp8xKUhA_fgSHK8-6CmxAG8IuxLzEf21AGnLVZzH2t_g0N=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nước ngon, trái cây rất chất lượng, cô chủ rất dễ thương và nhiệt tình. Mình sẽ quay lại🤙🏻",
+        "time": 1768976339,
+        "translated": false
+      },
+      {
+        "author_name": "Trân Phạm Bảo",
+        "author_url": "https://www.google.com/maps/contrib/107691712705447492212/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKAYmgjrmHZMtxNyuoJviTVANk_qyO8Ope6A6BbDChymiKNEg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "quán ngon, phục vụ nhiệt tình, thoáng mát, trái cây tươi ko chất bảo quản",
+        "time": 1768973309,
+        "translated": false
+      },
+      {
+        "author_name": "Hong Chuyen Ly Hai",
+        "author_url": "https://www.google.com/maps/contrib/112478497329222438544/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1LDtR3X5PqCm-1ezJj-kldlf_JltR2ssFkGgWtuf8FxuFoXgv=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Cô chú dễ thương, nước ngon, giá hợp lí\nMỌI NGƯỜI GHÉ ỦNG HỘ NHA",
+        "time": 1768974928,
+        "translated": false
+      },
+      {
+        "author_name": "kaito maki",
+        "author_url": "https://www.google.com/maps/contrib/112744631982568395917/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkrt0I16u93yzabb861sTsnSvDY30ZelA_zsTApq4GpVNgZHE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "quán thân thiện niềm nở",
+        "time": 1768979157,
+        "translated": false
+      },
+      {
+        "author_name": "SICILIAN-AMERICAN",
+        "author_url": "https://www.google.com/maps/contrib/105840348049779128534/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHzXxeOvaexoz_Ann214mxTwV2KHgo8v76k6rpCF0AMHqE6vy6=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cà phê rộng rãi, đẹp với nhiều bàn ghế. Nhân viên thân thiện và chu đáo. Có rất nhiều trái cây tươi và nước ép để lựa chọn. Tôi chọn nước ép chanh dây và dứa giá 25k và nó rất sảng khoái sau vài giờ mua sắm ở chợ Dam. Quán cũng có quạt. Rất đáng để ghé thăm.",
+        "time": 1769767679,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 16
+  },
+  "harvested_at": "2026-05-02T15:28:45.947693"
+}

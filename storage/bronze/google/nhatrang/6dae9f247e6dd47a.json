@@ -1,0 +1,173 @@
+{
+  "u_key": "6dae9f247e6dd47a",
+  "original_osm_name": "The Local 3",
+  "google_raw": {
+    "formatted_phone_number": "0915 093 883",
+    "geometry": {
+      "location": {
+        "lat": 12.2357906,
+        "lng": 109.1965046
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2371554302915,
+          "lng": 109.1978507802915
+        },
+        "southwest": {
+          "lat": 12.2344574697085,
+          "lng": 109.1951528197085
+        }
+      }
+    },
+    "name": "Restaurant The Local3",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–23:30",
+        "Thứ Ba: 09:00–23:30",
+        "Thứ Tư: 09:00–23:30",
+        "Thứ Năm: 09:00–23:30",
+        "Thứ Sáu: 09:00–23:30",
+        "Thứ Bảy: 09:00–00:00",
+        "Chủ Nhật: 09:00–23:30"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Điểm Cao",
+        "author_url": "https://www.google.com/maps/contrib/114132417617534438601/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1H6RI45CE1MaWsLc3dNQrKae7yJRm8HiSXyBLjbY4KqeaRoE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một buổi tối tuyệt vời\nKhông gian thoáng mát sạch sẽ\nNgày đầu tiên rất tuyết",
+        "time": 1770819217,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Giang",
+        "author_url": "https://www.google.com/maps/contrib/110943284917592027328/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvYXqQ37fK_M3SozKbcjES3xBpo_OPtnq_PUjzkzwhS8aIfA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần đầu ghé quán nhưng ấn tượng mạnh với món gỏi cá mai cực kỳ tươi và vị chấm lạ miệng.",
+        "time": 1770999280,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Truc Linhh",
+        "author_url": "https://www.google.com/maps/contrib/108836195013111966288/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFj68pM7RozIMvh9NVTsQGA2jtvDOghBiUyQf0kAu5FHyqqA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mỗi lần có bạn từ xa đến chơi, mình đều dẫn ra đây vì quán ngon và không gian ấm cúng.",
+        "time": 1771296609,
+        "translated": false
+      },
+      {
+        "author_name": "Ambrose Ambrose",
+        "author_url": "https://www.google.com/maps/contrib/104061215853225969767/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjgpkEOeb7E-zSMoXcOyZfbqwBSZqk85BvKvYapHMUPGlEGdw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Dưới đây là 65 đánh giá tích cực phù hợp với nguyên tắc Google dành cho Restaurant The Local3, Nha Trang, được viết như từ góc nhìn khách hàng thực sự:",
+        "time": 1770966793,
+        "translated": false
+      },
+      {
+        "author_name": "hcgf hdgf",
+        "author_url": "https://www.google.com/maps/contrib/116271085724526780955/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBDni9fN0YsiCUa6VnADgz2pxi8xaISHj2PmugkRmW4824mg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Ở đây có thêm món ăn chay cho người kiêng hải sản, rất linh hoạt trong thực đơn.",
+        "time": 1773315568,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 68
+  },
+  "harvested_at": "2026-04-30T16:15:17.268356"
+}

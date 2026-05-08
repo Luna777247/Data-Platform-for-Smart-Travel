@@ -1,0 +1,40 @@
+{
+  "u_key": "8ca8ddcfc509a976",
+  "original_osm_name": "Phong Coffee",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9458392,
+        "lng": 108.4273349
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9472473802915,
+          "lng": 108.4286491802915
+        },
+        "southwest": {
+          "lat": 11.94454941970849,
+          "lng": 108.4259512197085
+        }
+      }
+    },
+    "name": "Café Phong",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Tấn Sĩ",
+        "author_url": "https://www.google.com/maps/contrib/108859324273881057616/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzXFU7x7zZ4WQGNkE-XGujErB8GJTo1wuimgXsH6l5ziEwiMImJQ=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Cafe Ngon.",
+        "time": 1705640776,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-30T15:02:49.724184"
+}

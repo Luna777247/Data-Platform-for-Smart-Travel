@@ -1,0 +1,173 @@
+{
+  "u_key": "63ece2fd1ad2d0a8",
+  "original_osm_name": "Hương Cau",
+  "google_raw": {
+    "formatted_phone_number": "0905 664 476",
+    "geometry": {
+      "location": {
+        "lat": 16.0454322,
+        "lng": 108.2225072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0470472802915,
+          "lng": 108.2239290802915
+        },
+        "southwest": {
+          "lat": 16.0443493197085,
+          "lng": 108.2212311197085
+        }
+      }
+    },
+    "name": "Hương Cau 1",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–20:30",
+        "Thứ Ba: 09:00–20:30",
+        "Thứ Tư: 09:00–20:30",
+        "Thứ Năm: 09:00–20:30",
+        "Thứ Sáu: 09:00–20:30",
+        "Thứ Bảy: 09:00–20:30",
+        "Chủ Nhật: 09:00–20:30"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Trang Thùy",
+        "author_url": "https://www.google.com/maps/contrib/108918565787251365371/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcSzfbQSlvQCN065I73p66exTn1s-uWdSodu46uqR5fg31JrPA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Nhà hàng trang trí đẹp, sang trọng, có tầng lầu nhưng vẫn có thể nhìn xuống dưới. Có bãi đỗ xe máy ở tầng hầm rất rộng, còn xe ô tô thì phải đỗ bãi khác xa hơn. Nhà vệ sinh sạch sẽ nhưng chỉ có giấy chứ không có vòi xịt. Nhân viên là những bạn rất trẻ nên rất nhiệt tình, dễ thương. Còn đồ ăn thì hơi. Không biết hôm đó công ty mình mướn dịch vụ nấu ăn ngoài hay là của nhà hàng nấu mà đồ ăn cực dở luôn.1 gỏi bò mặn, 1 súp tạm được, 1 món tôm cũng ổn, 1 dĩa cơm chiên vừa khô vừa nhạt, 1 tô canh rong biển chắc là 10% rong biển, 80% nước và 10% váng dầu, và đồ tráng miệng thì là thạch rau câu dừa thua cả nhà làm. Nói chung nhà hàng này các dịch vụ khác đều tốt, chỉ có đồ ăn thì nên cân nhắc.",
+        "time": 1673155832,
+        "translated": false
+      },
+      {
+        "author_name": "Le Thi Xuan Hien",
+        "author_url": "https://www.google.com/maps/contrib/108433478606732901617/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHi-zssmApklQPADoqxn2Jxyz36dGmN8yNT6Uogu98nr0ypVU1=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, phục vụ nhiệt tình, giá cả hợp lý, trang trí sang trọng",
+        "time": 1721035436,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Vũ Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/109461464162139845846/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfIN9yAg6V2s3laen_IuAUxmVEw3u1GTDw7VXywN1sD2y6KsiJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Ko gian rộng rãi thoáng mát nấu ăn ngon phục vụ tốt,giá cá hợp lý",
+        "time": 1685497363,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Công Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107328410618225221166/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdYDxA6Zq8-19J5miqzU8UjWO-IbuNZmsShUGxWSiceuOgFfgQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Món ăn đa dạng, phong phú và phục vụ nhiệt tình.",
+        "time": 1677828678,
+        "translated": false
+      },
+      {
+        "author_name": "Đạt Võ",
+        "author_url": "https://www.google.com/maps/contrib/114567052373120123472/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwkIoZdUcUFRDtyyMaSN3iKxjpwc_FUFLvp0znyNuy-HFznR0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Món ăn đa dạng, phong phú. Chất lượng tuyệt vời",
+        "time": 1677732129,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 19
+  },
+  "harvested_at": "2026-04-29T09:39:30.632563"
+}

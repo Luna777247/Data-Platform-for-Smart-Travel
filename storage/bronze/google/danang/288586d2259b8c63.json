@@ -1,0 +1,173 @@
+{
+  "u_key": "288586d2259b8c63",
+  "original_osm_name": "Samurai Kitchen Hoi An",
+  "google_raw": {
+    "formatted_phone_number": "0778 504 627",
+    "geometry": {
+      "location": {
+        "lat": 15.8772064,
+        "lng": 108.3315038
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8785528302915,
+          "lng": 108.3328203302915
+        },
+        "southwest": {
+          "lat": 15.8758548697085,
+          "lng": 108.3301223697085
+        }
+      }
+    },
+    "name": "Samurai Kitchen",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:30–20:30",
+        "Thứ Ba: 11:30–20:30",
+        "Thứ Tư: 11:30–20:30",
+        "Thứ Năm: 11:30–20:30",
+        "Thứ Sáu: 11:30–20:30",
+        "Thứ Bảy: 11:30–20:30",
+        "Chủ Nhật: 11:30–20:30"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Nga Tran",
+        "author_url": "https://www.google.com/maps/contrib/102282938127072424543/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVq-uxbGSCNtNWzj2Y4h99Nv9OSxM8LpWMpDSIUYtD-ca6LrvD1=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "chủ quán và nhân viên đều thân thiện nè ,\nkhông gian ấm cúng, có điều hoà cho mùa hè oi bức, mình đã ghé nhiều lần, phục vụ nhanh nhẹn,\nđồ ăn thì khỏi phải bàn nè , bánh xèo ngon, natto thì cũng ok, chicken rice ball cũng ngon nha,",
+        "time": 1753154701,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Hoàng Thị",
+        "author_url": "https://www.google.com/maps/contrib/104237307826540802990/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5cP0-vEn0FJK2t3Gp1SglY4lDI-MUeC3mu_ml5cQTMFpr6PWv=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nhỏ xinh ngay bên cạnh chợ Hội An. Do chủ người Nhật tâm huyết mở ra. Nhân viên nhiệt tình, vui vẻ còn cho mình mượn đôi dép đi cho thoải mái. Món mì lạnh ngon, ăn mùa hè này siêu mát. Họ còn cung cấp kem miễn phí sau bữa ăn nữa. Nhất định sẽ quay lại khi tới Hội An.",
+        "time": 1745684164,
+        "translated": false
+      },
+      {
+        "author_name": "tuan nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111359920238844038971/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgMskw2yBToyk1nMNK3gl-p0uEKq2kB4bX9W0-PwfsbSi24m8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Bia ngon , phục vụ đặc biệt chiều khách, cực kỳ để ý khuôn mặt ,sắc mặt của khách. Mình ấn tượng với điều đó.\nCòn về đồ ăn thì … thú thực là không ngon, nước dùng ramen bị hôi và mình phải cho 1/3 lọ ớt bột để át vị hôi, gà rán kiểu Nhật thì tạm ổn, bia saporro ngon, cốc được ướp lạnh rất bài bản.\nMong quán cải thiện công thức và cách xử lý nguyên liệu nước dùng\nCảm ơn, mình sẽ quay lại ăn vào lần tới nếu không cải thiện thì sẽ là lần cuối.",
+        "time": 1749994326,
+        "translated": false
+      },
+      {
+        "author_name": "Đỗ Ngọc Kiều Trinh",
+        "author_url": "https://www.google.com/maps/contrib/100229448539446254026/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0R49Pp5cFkWvIuZ6Mt7HY8WMQjXCSMOJz14cHdLtSqKA-FBCIbg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian quán nhỏ, kiểu ấm cúng, có được khoảng tầm 7 bàn. Decor các chi tiết theo style Nhật Bản.\nMình đi 2 người, gọi 1 mì Ramen, 1 tonketsu không bao gồm cơm. Mình có gọi cơm thêm. Quán có tặng cho 1 dĩa salad. Tổng quan khẩu phần ăn với mình là vừa. Phần tonkatsu hơi mặn, ăn kèm với cơm ok, cơm dẻo thơm. Mình thích phần salad quán tặng ăn rất thanh mát, giải ngấy cực ngon. Recommend mn tới nên gọi kèm 1 phần salad để ăn thêm.",
+        "time": 1738540916,
+        "translated": false
+      },
+      {
+        "author_name": "Mạnh Tuấn Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117981681590094719081/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcpLLEMa_4hQYsyQUcfFGIi0eWDHaUPj_r5vIXTixuCMpTwOYo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "cô chủ quán rất tốt bụng và nhiệt tình, đồ ăn ngon miệng 2 người ăn no căng bụng. giá phải chăng",
+        "time": 1754382501,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 567
+  },
+  "harvested_at": "2026-04-28T16:43:04.307566"
+}

@@ -1,0 +1,89 @@
+{
+  "u_key": "7ed6b858fb349480",
+  "original_osm_name": "Hoàng Anh Đà Lạt",
+  "google_raw": {
+    "formatted_phone_number": "0263 3826 142",
+    "geometry": {
+      "location": {
+        "lat": 11.9448253,
+        "lng": 108.4393321
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9462156802915,
+          "lng": 108.4407228302915
+        },
+        "southwest": {
+          "lat": 11.9435177197085,
+          "lng": 108.4380248697085
+        }
+      }
+    },
+    "name": "Khách Sạn Hoàng Anh",
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Huân",
+        "author_url": "https://www.google.com/maps/contrib/108950709690460050097/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKElMtKI7pv3TKxXMIXlmcwBz30GkKapXLe3_8cqCbWGkfa6x4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "hài lòng về chất lượng phục vụ.anh chị chủ và cô giúp việc nhiệt tình vui vẻ.phòng sạch sẽ,thích nhất chú chó alaska.lần tới nếu đi đà lạt nhất định sẽ ở đây",
+        "time": 1570848991,
+        "translated": false
+      },
+      {
+        "author_name": "Nhã Trần Thanh",
+        "author_url": "https://www.google.com/maps/contrib/100360231976291385731/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6iKGcRxus1OKskwZ_0EuUIE3PQImO6FgC7htx1tCVc5CD5Ptd-Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Nhà nghỉ bình dân .Nhưng rất sạch sẽ , nhân viên nhiệt tình .Khách sạn gần trung tâm",
+        "time": 1554473364,
+        "translated": false
+      },
+      {
+        "author_name": "Que Tran",
+        "author_url": "https://www.google.com/maps/contrib/102837708778047049988/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs8zaoETKPtLyzk7OcF3zlqwNwbUNrPN2i-ZCUirc50z-EV8s=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Khách sạn nằm ngay trung tâm rất thuận tiện. Sạch sẽ .Nhân viên thân thiện",
+        "time": 1520421312,
+        "translated": false
+      },
+      {
+        "author_name": "Lion Bear",
+        "author_url": "https://www.google.com/maps/contrib/112634972521420248145/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUh1m-1auFWf2YyF6tu2ZJ2XApXtNuBxt0zzxDFfK6yZA3UZIi_=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Chất lượng phục vụ ok, chị chủ rất nhiệt tình",
+        "time": 1555204845,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Trần",
+        "author_url": "https://www.google.com/maps/contrib/114031584716825024630/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt9fLWXPEW5q9jCeGO7YtSgHm-xliv0shbKHgGAp4fzapTnPyH=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Ok tốt",
+        "time": 1556459590,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 22
+  },
+  "harvested_at": "2026-04-29T13:35:38.316433"
+}

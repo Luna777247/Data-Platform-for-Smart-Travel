@@ -1,0 +1,173 @@
+{
+  "u_key": "5217904de5c02c69",
+  "original_osm_name": "Điểm tâm trúc mỹ( trà sữa) 70 hoàng văn thụ",
+  "google_raw": {
+    "formatted_phone_number": "0935 797 852",
+    "geometry": {
+      "location": {
+        "lat": 12.2393601,
+        "lng": 109.1883164
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2407421302915,
+          "lng": 109.1896941302915
+        },
+        "southwest": {
+          "lat": 12.2380441697085,
+          "lng": 109.1869961697085
+        }
+      }
+    },
+    "name": "La Tra Milk Tea - Smoothie - Trà Sữa Lá Trà",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "ziệt Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115397904531890919761/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpTga-Db4f9fv0-vc8TlaWPhsXiFlre1l_3603VDF7PFrRFA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ôi quán này là quán ruột của mình , có thể là uống quài thôi, nay bên lá trà có món mới ngon nha, matcha latte ngon nha thơm ngon béo - must try",
+        "time": 1768052510,
+        "translated": false
+      },
+      {
+        "author_name": "Vyysaigonese Hoang",
+        "author_url": "https://www.google.com/maps/contrib/100031344560409491191/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnu-3EJy8y1RE0VVBLgAuMabM76QKS_9uGLrwaIygcOjmhthr0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Trà sữa ngon đậm vị - kem phô mai dẻo ngon bá 🔥",
+        "time": 1773124485,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Trà sữa pha ngọt. Có thể hỏi chị chủ điều chỉnh độ ngọt. Nhưng vị đậm của trà mình thấy không nhiều sau khi yêu cầu điều chỉnh. Có thể vì trà sữa được nấu sẵn.\nQuán có bán một số loại bánh tráng, khô xé sợi ăn vặt.\nChủ quán thân thiện. Có bàn ghế ngồi uống tại quán.",
+        "time": 1713274319,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Hân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115336998276582357365/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF_lIJzJ3klh__0ZwgujUEXgnOC2NFsiBmfOHkAcVh4Imw1Fwnkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "This milk tea shop is very delicious, the taste is not too sweet. Highly Recommend tourists experience\n\nQuán ruột của mình từ đó đến giờ rồi, trà sữa siêu ngon, topping nào cũng chất lượng hết. Ở Nha Trang mình chỉ quen uống ở đây thôi",
+        "time": 1741154359,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111680511090621165498/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSIKbsM4f-oNQXRoiB0CwCrTGBPrHueMXbCi-i8hjafXayZQs2=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Trải nghiệm dịch vụ rất tốt. Chị chủ quán nhiệt tình và có giới thiệu về menu của quán khi thấy mình có vẻ phân vân khi chọn món. Không gian thoáng mát phù hợp với học sinh sinh viên. Có trang trí theo chủ đề ( mình đi vào dịp gần giáng sinh). Vị trà sữa dịu nhẹ, không quá ngọt, topping đa dạng cả hình dạng lẫn mùi vị.",
+        "time": 1733725913,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 89
+  },
+  "harvested_at": "2026-05-03T20:06:28.370558"
+}

@@ -1,0 +1,172 @@
+{
+  "u_key": "897be92076deaa62",
+  "original_osm_name": "Free Cave Entrance",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.7885655,
+        "lng": 106.9979417
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.7903772302915,
+          "lng": 106.9993532302915
+        },
+        "southwest": {
+          "lat": 20.78767926970849,
+          "lng": 106.9966552697085
+        }
+      }
+    },
+    "name": "Động Trung Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–17:00",
+        "Thứ Ba: 07:00–17:00",
+        "Thứ Tư: 07:00–17:00",
+        "Thứ Năm: 07:00–17:00",
+        "Thứ Sáu: 07:00–17:00",
+        "Thứ Bảy: 07:00–17:00",
+        "Chủ Nhật: 07:00–17:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Huynh Nguyen Tu Nhi",
+        "author_url": "https://www.google.com/maps/contrib/115678485289936852493/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4IAKTKj-FtK2pP-O8RIxEB5sG_dCnGTqba823Ejh6Z18iB6ISyg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Động Trung Trang nằm trong khu vực Vườn quốc gia Cát Bà, thuộc quần đảo Cát Bà. Đây là một trong những hang động đẹp và nổi tiếng nhất trên đảo, thu hút du khách. Động nằm ẩn mình giữa rừng nguyên sinh xanh mát. Lối vào không quá lớn, nhưng càng đi sâu, không gian bên trong càng mở rộng và trở nên ấn tượng. Hang dài khoảng vài trăm mét, có nhiều ngách nhỏ uốn lượn. Bên trong mát lạnh quanh năm, không khí ẩm mang đặc trưng của hang đá vôi. Hệ thống nhũ đá và măng đá phong phú: Thạch nhũ rủ xuống từ trần hang với nhiều hình thù độc đáo; Măng đá mọc lên từ nền hang, tạo thành các cột đá tự nhiên; Một số khối đá có hình dáng giống con vật, hoa lá hoặc người. Ánh sáng đèn chiếu hắt lên các khối nhũ đá tạo hiệu ứng đẹp. Động trải qua quá trình kiến tạo địa chất hàng triệu năm của núi đá vôi Cát Bà, đây không chỉ là điểm tham quan mà còn có giá trị nghiên cứu khoa học và bảo tồn thiên nhiên.",
+        "time": 1771853839,
+        "translated": false
+      },
+      {
+        "author_name": "Bắc Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110902732868774582539/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFNp_-3kpYokhfCnXcNlyHbGcwMcYI0UumjvzDAvLM3IPf3c9Vdw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đã đến, thời gian đi hết hang tầm 10 phút, nhiều chỗ hơi thấp phải cúi người mới đi được, lúc ra đi lên khoảng 400m mới đến chỗ để xe ban đầu.",
+        "time": 1766975122,
+        "translated": false
+      },
+      {
+        "author_name": "Mạnh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115772819181300233619/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBqCwFQ3aD0I_htwzttCYMdSfnL-_2PAGBWdO6B8LC82KAMOc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đẹp, hang động sâu nhiều đường nhỏ, sẽ phải leo cầu thang cũng tương đối cao, giá lại rẻ có bao gồm tham quan cả vườn quốc gia 120k cho 1 người, rất đáng để trải nghiệm",
+        "time": 1765611607,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Tran",
+        "author_url": "https://www.google.com/maps/contrib/102411041289324898843/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFU7CpSz5vNNufe82J0Y9tJiY3c70h9MohfGZfY2l7JukiSHG6=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đẹp tuyệt vời, nên ghé thăm. Nằm trên con đường ra Vườn quốc gia cát bà. Vé combo 120k",
+        "time": 1763305994,
+        "translated": false
+      },
+      {
+        "author_name": "Long Vux",
+        "author_url": "https://www.google.com/maps/contrib/103979936074580576598/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFYot_oOxlL_7GGGKFFxHozHufZ0XEIUUReild3vsPPsx_k3PbYQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Cũng đẹp mà ko có dịch vụ gì,\nDuy nhất mỗi thanh niên bán vé là nv còn khách tự tham quan hang động. Ko biết mùa cao điểm thì như nào",
+        "time": 1758758861,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2191
+  },
+  "harvested_at": "2026-04-30T15:19:59.834514"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "80d2b535d16b4eef",
+  "original_osm_name": "Nhà Hàng Ba Ba",
+  "google_raw": {
+    "formatted_phone_number": "0904 403 656",
+    "geometry": {
+      "location": {
+        "lat": 21.0155974,
+        "lng": 105.8332436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0168905302915,
+          "lng": 105.8345204302915
+        },
+        "southwest": {
+          "lat": 21.0141925697085,
+          "lng": 105.8318224697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Ba Ba Sơn Đông Xã Đàn",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:00",
+        "Thứ Ba: 09:00–23:00",
+        "Thứ Tư: 09:00–23:00",
+        "Thứ Năm: 09:00–23:00",
+        "Thứ Sáu: 09:00–23:00",
+        "Thứ Bảy: 09:00–23:00",
+        "Chủ Nhật: 09:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Đinh Thị Thảo",
+        "author_url": "https://www.google.com/maps/contrib/101554122701706921674/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGv2WNNw7H1ElOJ0-vkOhu6PRfJn0bG1WFVIHVxfqRUy29hGm3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn rất ngon\nPhụ vụ rất nhiệt tình và chu đáo",
+        "time": 1753944661,
+        "translated": false
+      },
+      {
+        "author_name": "Việt Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114383841107024199496/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIggMLamJBj3_2fHduik0x3zg-ESIkBo-ViiH0jIcGJ0CmV5Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn ngon, không gian đẹp\nNhân viên phục vụ tận tình, vui vẻ",
+        "time": 1754105481,
+        "translated": false
+      },
+      {
+        "author_name": "Khánh Lê",
+        "author_url": "https://www.google.com/maps/contrib/115472320600487513997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLqBLu7Ph9K4VuaGUv-gbhUckekiKMw7BCYdffXbJVGtnNOg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn tươi ngon phục vụ tốt có dịp sẽ quay trở lại thường xuyên và giới thiệu ae bạn bè đến ủng hộ.",
+        "time": 1753943698,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Anh Đặng",
+        "author_url": "https://www.google.com/maps/contrib/112979221768046710813/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUW9gWP-1xADviKWnM_5cRa3QJeIP4lR7gWHsAN1U_dO1VtHsg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn ngon, phục vụ chu đáo",
+        "time": 1754032245,
+        "translated": false
+      },
+      {
+        "author_name": "Công Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117272430161833237715/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu8k4oQ73Ox1LgN_k4mXGHHSQOLvnkQd1amAqGujXjev_RP3Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "đồ ăn rất ngon",
+        "time": 1762612672,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 281
+  },
+  "harvested_at": "2026-04-28T16:17:47.264190"
+}

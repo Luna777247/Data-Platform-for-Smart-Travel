@@ -1,0 +1,173 @@
+{
+  "u_key": "20c6cbf5694bd612",
+  "original_osm_name": "Scoffee 110 võ thị sáu",
+  "google_raw": {
+    "formatted_phone_number": "0934 711 345",
+    "geometry": {
+      "location": {
+        "lat": 12.2096451,
+        "lng": 109.2014762
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2110370802915,
+          "lng": 109.2028658302915
+        },
+        "southwest": {
+          "lat": 12.2083391197085,
+          "lng": 109.2001678697085
+        }
+      }
+    },
+    "name": "Quán Trà Sữa & Coffee X.O",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0645"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0645"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0645"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0645"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0645"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0645"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0645"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:45–22:00",
+        "Thứ Ba: 06:45–22:00",
+        "Thứ Tư: 06:45–22:00",
+        "Thứ Năm: 06:45–22:00",
+        "Thứ Sáu: 06:45–22:00",
+        "Thứ Bảy: 06:45–22:00",
+        "Chủ Nhật: 06:45–22:00"
+      ]
+    },
+    "rating": 3.4,
+    "reviews": [
+      {
+        "author_name": "Chúii Bắp",
+        "author_url": "https://www.google.com/maps/contrib/107141627203074036087/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx5V7AxTHZVPVQZGcK67dOJ7JQJEtmbZUEAWupeeN_-vgC5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mọi ngươi em đi thử quán thì thấy đâu tệ như đánh giá ạ ,  món ăn hợp khẩu vị và nhân viên cũng thân thiện nữa có bạn nữ đeo kính rất hoà nhã với khách luôn với cả hỗ trợ gì thì bạn ấy cũng hết mình mà , chắc là đổi nhân viên rồi nên mọi ng cứ ghé trải nghiệm ha",
+        "time": 1767588929,
+        "translated": false
+      },
+      {
+        "author_name": "Xuân Hương",
+        "author_url": "https://www.google.com/maps/contrib/108764730164238954108/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_zVUh2LqbvzzFsZPsPsr-AbSQ3JivN6k285ZyzFYJoASPwCqs=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình mua trà sữa lài quán hết trân châu đen cũng không nói cho mình mà tự ý đổi qua 3Q. Mình thấy như vậy rất không tôn trọng khách hàng, cứ tự làm theo ý thích của mình. Mình rất không hài lòng với thái độ đó. Mong quán xem xét lại",
+        "time": 1762432013,
+        "translated": false
+      },
+      {
+        "author_name": "Châu Bảo",
+        "author_url": "https://www.google.com/maps/contrib/110539554641228943231/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIQDw3B08snQAZx0b-5wuVgY7umtIV_vQCvDqZ8xJle5921eI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nước nhạt\nĐồ ăn chờ lâu\nThái độ nhân viên rất chấm hỏi , kêu món mà có thái độ lơ khách xong rồi để chờ gần hơn 30p r ra hỏi thì kêu giờ làm nhưng mà chờ thêm nữa hồi sau mới thấy món ra … nhưng mà tưởng chờ lâu thì món sẽ oke nhưng mà … món ăn khá tệ",
+        "time": 1763734632,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Thu",
+        "author_url": "https://www.google.com/maps/contrib/109578346712313184520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyEniBZaz3G5MNDoQN7C13y3c3Vl_UlrqcM3QJILwxy0LzTRzI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "nhân viên thái độ, soi mói khách, tỏ vẻ khó chịu với khách, phục vụ không nhiệt tình, đồ ăn thì tạm dc nhưng về phía nhân viên thái độ không ưa nổi ! không bao giờ ghé lại👎🏻",
+        "time": 1764525227,
+        "translated": false
+      },
+      {
+        "author_name": "Mạnh Văn",
+        "author_url": "https://www.google.com/maps/contrib/113571202587891065078/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwuFEnUPf_M9c-MobxRMW0TRfhpzm8cvRDN1ujVD7nMgM_cZY=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Giá không giống trên menu, đợi đồ ăn rất lâu, không có hỗ trợ, mực tôm bị ươn, thái độ nhân viên rất tệ",
+        "time": 1763734499,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 22
+  },
+  "harvested_at": "2026-05-02T15:26:06.750959"
+}

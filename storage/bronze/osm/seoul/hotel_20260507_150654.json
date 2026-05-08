@@ -1,0 +1,1838 @@
+{
+  "city": "seoul",
+  "category": "hotel",
+  "timestamp": "20260507_150654",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 368662440,
+      "lat": 34.9473531,
+      "lon": 126.8714092,
+      "timestamp": "2025-11-25T11:40:52Z",
+      "version": 8,
+      "changeset": 175106150,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "중흥골드스파 리조트",
+        "name:en": "Jungheunggoldeuseupa Resort Hotel",
+        "name:ko": "중흥골드스파 리조트",
+        "name:ko-Latn": "Jungheunggoldeuseupa Rijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368662456,
+      "lat": 37.487049,
+      "lon": 127.050947,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "신세계리조트",
+        "name:en": "Sinsegye Resort Hotel",
+        "name:ko": "신세계리조트",
+        "name:ko-Latn": "Sinsegyerijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368662496,
+      "lat": 33.510942,
+      "lon": 126.84772,
+      "timestamp": "2025-11-25T12:38:36Z",
+      "version": 4,
+      "changeset": 175108485,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "제주해오름리조트",
+        "name:en": "Jejuhaeoreum Resort Hotel",
+        "name:ko": "제주해오름리조트",
+        "name:ko-Latn": "Jejuhaeoreumnijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368662623,
+      "lat": 35.36528,
+      "lon": 127.025469,
+      "timestamp": "2025-11-25T10:19:55Z",
+      "version": 4,
+      "changeset": 175102649,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "담양리조트",
+        "name:en": "Damyang Resort Hotel",
+        "name:ko": "담양리조트",
+        "name:ko-Latn": "Damyangnijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368662648,
+      "lat": 37.515473,
+      "lon": 127.032284,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "일성콘도미니엄",
+        "name:en": "Ilseong Condominium",
+        "name:ko": "일성콘도미니엄",
+        "name:ko-Latn": "Ilseongkondominieom",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368662691,
+      "lat": 37.5017058,
+      "lon": 127.040837,
+      "timestamp": "2024-05-08T15:19:36Z",
+      "version": 6,
+      "changeset": 151061979,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "대명리조트",
+        "name:en": "Daemyeong Resort Hotel",
+        "name:ko": "대명리조트",
+        "name:ko-Latn": "Daemyeongnijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368662784,
+      "lat": 37.498706,
+      "lon": 127.031504,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "풍림리조트",
+        "name:en": "Pungnim Resort Hotel",
+        "name:ko": "풍림리조트",
+        "name:ko-Latn": "Pungnimnijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368662809,
+      "lat": 36.765183,
+      "lon": 126.888988,
+      "timestamp": "2025-11-25T10:33:40Z",
+      "version": 5,
+      "changeset": 175103208,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "도고 글로리콘도",
+        "name:en": "Dogo Geullori Condominium",
+        "name:ko": "도고 글로리콘도",
+        "name:ko-Latn": "Dogo Geullorikondo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368662996,
+      "lat": 36.761101,
+      "lon": 126.888095,
+      "timestamp": "2025-11-25T10:33:40Z",
+      "version": 5,
+      "changeset": 175103208,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "아이에프콘도미니엄",
+        "name:en": "Aiepeu Condominium",
+        "name:ko": "아이에프콘도미니엄",
+        "name:ko-Latn": "Aiepeukondominieom",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663035,
+      "lat": 36.758307,
+      "lon": 126.881437,
+      "timestamp": "2025-11-25T10:33:40Z",
+      "version": 5,
+      "changeset": 175103208,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "도고 토비스콘도",
+        "name:en": "Dogo Tobiseu Condominium",
+        "name:ko": "도고 토비스콘도",
+        "name:ko-Latn": "Dogo Tobiseukondo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663086,
+      "lat": 37.5440587,
+      "lon": 126.9528662,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 6,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "level": "12",
+        "level:ref": "13층",
+        "name": "명성콘도",
+        "name:en": "Myeongseong Condominium",
+        "name:ko": "명성콘도",
+        "name:ko-Latn": "Myeongseongkondo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663130,
+      "lat": 37.509533,
+      "lon": 127.033129,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "리솜리조트",
+        "name:en": "Risom Resort Hotel",
+        "name:ko": "리솜리조트",
+        "name:ko-Latn": "Risomnijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663143,
+      "lat": 37.5242346,
+      "lon": 127.0267499,
+      "timestamp": "2024-05-09T14:27:23Z",
+      "version": 6,
+      "changeset": 151103322,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "현성리조트",
+        "name:en": "Hyeonseong Resort Hotel",
+        "name:ko": "현성리조트",
+        "name:ko-Latn": "Hyeonseongnijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663153,
+      "lat": 37.580713,
+      "lon": 127.0221,
+      "timestamp": "2025-11-25T11:41:53Z",
+      "version": 5,
+      "changeset": 175106204,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "충주호리조트",
+        "name:en": "Chungjuho Resort Hotel",
+        "name:ko": "충주호리조트",
+        "name:ko-Latn": "Chungjuhorijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663164,
+      "lat": 37.519457,
+      "lon": 127.04005,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "샤인빌리조트",
+        "name:en": "Syainbil Resort Hotel",
+        "name:ko": "샤인빌리조트",
+        "name:ko-Latn": "Syainbillijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663175,
+      "lat": 37.5095381,
+      "lon": 127.0331547,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 6,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "오션캐슬리조트",
+        "name:en": "Ocean Castle Resort Hotel",
+        "name:ko": "오션캐슬리조트",
+        "name:ko-Latn": "Osyeonkaeseullijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663433,
+      "lat": 37.545515,
+      "lon": 126.944581,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 5,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "일성콘도미니엄",
+        "name:en": "Ilseong Condominium",
+        "name:ko": "일성콘도미니엄",
+        "name:ko-Latn": "Ilseongkondominieom",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663611,
+      "lat": 37.5016498,
+      "lon": 127.040645,
+      "timestamp": "2024-05-08T15:19:36Z",
+      "version": 6,
+      "changeset": 151061979,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "(주)대명콘도",
+        "name:en": "Daemyeong Condominium",
+        "name:ko": "(주)대명콘도",
+        "name:ko-Latn": "( Ju ) Daemyeongkondo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663652,
+      "lat": 37.500861,
+      "lon": 127.040491,
+      "timestamp": "2024-05-08T15:19:36Z",
+      "version": 5,
+      "changeset": 151061979,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "대명콘도",
+        "name:en": "Daemyeong Condominium",
+        "name:ko": "대명콘도",
+        "name:ko-Latn": "Daemyeongkondo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663664,
+      "lat": 37.5194713,
+      "lon": 127.0352151,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 6,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "두산큐벡스라데나콘도",
+        "name:en": "Dusankyubekseuradena Condominium",
+        "name:ko": "두산큐벡스라데나콘도",
+        "name:ko-Latn": "Dusankyubekseuradenakondo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663765,
+      "lat": 36.7646808,
+      "lon": 126.8852177,
+      "timestamp": "2025-11-25T10:33:40Z",
+      "version": 6,
+      "changeset": 175103208,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "한국콘도",
+        "name:en": "Korea Condominium",
+        "name:ko": "한국콘도",
+        "name:ko-Latn": "( Ju ) Hangukkondo",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368663927,
+      "lat": 37.507436,
+      "lon": 127.059241,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "제주신안에버리스 골프리조트",
+        "name:en": "Jejusinanebeoriseu Golf Resort Hotel",
+        "name:ko": "제주신안에버리스 골프리조트",
+        "name:ko-Latn": "Jejusinanebeoriseu Golpeurijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368664002,
+      "lat": 36.075603,
+      "lon": 126.896902,
+      "timestamp": "2025-11-25T10:27:03Z",
+      "version": 5,
+      "changeset": 175102946,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "베어리버골프리조트",
+        "name:en": "Beeoribeo Golf Resort Hotel",
+        "name:ko": "베어리버골프리조트",
+        "name:ko-Latn": "Beeoribeogolpeurijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368664052,
+      "lat": 37.5558439,
+      "lon": 126.92286,
+      "timestamp": "2025-11-25T12:57:49Z",
+      "version": 10,
+      "changeset": 175109226,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "렛츠고리조트",
+        "name:en": "Let's go Resort Hotel",
+        "name:ja": "レッツゴーリゾート",
+        "name:ko": "렛츠고리조트",
+        "name:ko-Latn": "Retcheugorijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368664068,
+      "lat": 37.628843,
+      "lon": 127.057682,
+      "timestamp": "2025-11-25T11:41:53Z",
+      "version": 6,
+      "changeset": 175106204,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "오리엔트리조트",
+        "name:en": "Orienteu Resort Hotel",
+        "name:ja": "オリエント リゾート",
+        "name:ko": "오리엔트리조트",
+        "name:ko-Latn": "Orienteurijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368664096,
+      "lat": 37.522526,
+      "lon": 127.019872,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "지엘에스리조트",
+        "name:en": "Jieleseu Resort Hotel",
+        "name:ko": "지엘에스리조트",
+        "name:ko-Latn": "Jieleseurijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368664139,
+      "lat": 33.39009,
+      "lon": 126.830815,
+      "timestamp": "2025-11-25T12:38:36Z",
+      "version": 4,
+      "changeset": 175108485,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "CNP리조트",
+        "name:en": "CNP Resort Hotel",
+        "name:ko": "CNP리조트",
+        "name:ko-Latn": "CNP Rijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368664143,
+      "lat": 37.187153,
+      "lon": 126.983982,
+      "timestamp": "2025-11-25T13:17:46Z",
+      "version": 5,
+      "changeset": 175110022,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "라비돌리조트",
+        "name:en": "Rabidol Resort Hotel",
+        "name:ko": "라비돌리조트",
+        "name:ko-Latn": "Rabidollijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368664175,
+      "lat": 35.8461827,
+      "lon": 126.8174897,
+      "timestamp": "2025-11-25T14:04:21Z",
+      "version": 8,
+      "changeset": 175112255,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "김제지평선마린리조트",
+        "name:en": "Gimjejipyeongseonmarin Resort Hotel",
+        "name:ko": "김제지평선마린리조트",
+        "name:ko-Latn": "Gimjejipyeongseonmarillijoteu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368702741,
+      "lat": 37.602106,
+      "lon": 127.062175,
+      "timestamp": "2026-03-15T15:21:18Z",
+      "version": 8,
+      "changeset": 179903549,
+      "user": "chiho_kang",
+      "uid": 10604125,
+      "tags": {
+        "addr:city": "서울특별시",
+        "addr:district": "동대문구",
+        "addr:housenumber": "174-1",
+        "addr:postcode": "02412",
+        "addr:street": "이문로",
+        "addr:subdistrict": "이문동",
+        "name": "호텔라하",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368711008,
+      "lat": 35.2160906,
+      "lon": 126.8465633,
+      "timestamp": "2022-12-03T09:46:18Z",
+      "version": 6,
+      "changeset": 129670056,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "초이스호텔",
+        "name:en": "Jullies Hotel",
+        "name:ko": "초이스호텔",
+        "name:ko-Latn": "Choiseuhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368904177,
+      "lat": 37.607786,
+      "lon": 127.078596,
+      "timestamp": "2026-03-15T15:21:18Z",
+      "version": 8,
+      "changeset": 179903549,
+      "user": "chiho_kang",
+      "uid": 10604125,
+      "tags": {
+        "addr:city": "서울특별시",
+        "addr:district": "중랑구",
+        "addr:housenumber": "866",
+        "addr:postcode": "02045",
+        "addr:street": "동일로",
+        "addr:subdistrict": "묵동",
+        "name:en": "De Ciel",
+        "name:ko": "호텔드씨엘",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368950969,
+      "lat": 37.555717,
+      "lon": 127.111281,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 6,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "W서울워커힐호텔",
+        "name:en": "W Seoul Walkerhill Hotel",
+        "name:ja": "Wソウルウォーカーヒルホテル",
+        "name:ko": "W서울워커힐호텔",
+        "name:ko-Latn": "W Seoulwokeohilhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368950976,
+      "lat": 37.487115,
+      "lon": 127.012768,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔 아트",
+        "name:en": "Hotel Ateu",
+        "name:ko": "호텔 아트",
+        "name:ko-Latn": "Hotel Ateu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368950982,
+      "lat": 37.502119,
+      "lon": 127.0391486,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 6,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "샘호텔",
+        "name:en": "Saem Hotel",
+        "name:ko": "샘호텔",
+        "name:ko-Latn": "Saemhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368950983,
+      "lat": 37.567932,
+      "lon": 126.978115,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 7,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "뉴서울호텔",
+        "name:en": "New Seoul Hotel",
+        "name:ja": "ベストウェスタンニューソウルホテル",
+        "name:ko": "뉴서울호텔",
+        "name:ko-Latn": "Nyuseoulhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951009,
+      "lat": 37.576549,
+      "lon": 126.989818,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 6,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "시티파크호텔",
+        "name:en": "City Park Hotel",
+        "name:ja": "シティ パーク ホテル",
+        "name:ko": "시티파크호텔",
+        "name:ko-Latn": "Sitipakeuhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951010,
+      "lat": 37.5068512,
+      "lon": 127.1008593,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 7,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "check_date": "2024-01-20",
+        "name": "레이크호텔",
+        "name:en": "Lake Hotel",
+        "name:ja": "レイクホテル",
+        "name:ko": "레이크호텔",
+        "name:ko-Latn": "Reikeuhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951017,
+      "lat": 37.505166,
+      "lon": 127.057019,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 6,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "이비스앰배서더호텔",
+        "name:en": "Ibis Ambassador Hotel",
+        "name:ko": "이비스앰배서더호텔",
+        "name:ko-Latn": "Ibiseuaembaeseodeohotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951018,
+      "lat": 37.505782,
+      "lon": 127.027364,
+      "timestamp": "2024-09-01T14:49:05Z",
+      "version": 6,
+      "changeset": 156058103,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "다이네스티관광호텔",
+        "name:en": "Daineseuti Tourist Hotel",
+        "name:ko": "다이네스티관광호텔",
+        "name:ko-Latn": "Daineseutigwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951026,
+      "lat": 37.5290561,
+      "lon": 127.1348471,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 6,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "발리관광호텔",
+        "name:en": "Bali Tourist Hotel",
+        "name:ko": "발리관광호텔",
+        "name:ko-Latn": "Balligwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951039,
+      "lat": 37.537688,
+      "lon": 127.077557,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 6,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔티파니",
+        "name:en": "Hotel Tipani",
+        "name:ja": "ホテル ティファニー",
+        "name:ko": "호텔티파니",
+        "name:ko-Latn": "Hoteltipani",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951045,
+      "lat": 37.5109952,
+      "lon": 127.0314063,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 7,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "뉴 힐탑 관광호텔",
+        "name:en": "New Hiltap Tourist Hotel",
+        "name:ko": "뉴 힐탑 관광호텔",
+        "name:ko-Latn": "Nyu Hiltap Gwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951054,
+      "lat": 37.512334,
+      "lon": 127.04961,
+      "timestamp": "2025-04-20T04:29:15Z",
+      "version": 6,
+      "changeset": 165177008,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "자이언트 호텔",
+        "name:en": "Giant Hotel",
+        "name:ko": "자이언트 호텔",
+        "name:ko-Latn": "Jaieonteu Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951066,
+      "lat": 37.554192,
+      "lon": 126.851701,
+      "timestamp": "2025-11-25T12:49:38Z",
+      "version": 5,
+      "changeset": 175108890,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "뉴 리젠트 호텔",
+        "name:en": "New Regent Hotel",
+        "name:ko": "뉴 리젠트 호텔",
+        "name:ko-Latn": "Nyu Rijenteu Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951069,
+      "lat": 37.502697,
+      "lon": 127.040264,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "맥스호텔",
+        "name:en": "Maekseu Hotel",
+        "name:ko": "맥스호텔",
+        "name:ko-Latn": "Maekseuhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951086,
+      "lat": 37.569167,
+      "lon": 127.050508,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 5,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "시티팔레스 관광호텔",
+        "name:en": "City Palleseu Tourist Hotel",
+        "name:ko": "시티팔레스 관광호텔",
+        "name:ko-Latn": "Sitipalleseu Gwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951091,
+      "lat": 37.560455,
+      "lon": 127.004773,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 5,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔와이드",
+        "name:en": "Hotel Waideu",
+        "name:ko": "호텔와이드",
+        "name:ko-Latn": "Hotelwaideu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951099,
+      "lat": 37.554694,
+      "lon": 126.852362,
+      "timestamp": "2025-11-25T12:49:38Z",
+      "version": 5,
+      "changeset": 175108890,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "콘티넨탈호텔",
+        "name:en": "Continental Hotel",
+        "name:ko": "콘티넨탈호텔",
+        "name:ko-Latn": "Kontinentalhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951106,
+      "lat": 37.575648,
+      "lon": 126.998287,
+      "timestamp": "2026-03-15T15:21:18Z",
+      "version": 10,
+      "changeset": 179903549,
+      "user": "chiho_kang",
+      "uid": 10604125,
+      "tags": {
+        "addr:city": "서울특별시",
+        "addr:district": "종로구",
+        "addr:housenumber": "176",
+        "addr:postcode": "03127",
+        "addr:street": "율곡로",
+        "addr:subdistrict": "원남동",
+        "amenity": "hospital",
+        "name": "서울대병원 원남별관",
+        "name:en": "SNUH Wonnam building",
+        "name:ko": "서울대병원 원남별관",
+        "name:ko-Latn": "Biwonhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951107,
+      "lat": 37.506835,
+      "lon": 127.052767,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 7,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "시네마호텔",
+        "name:en": "Cinema Hotel",
+        "name:ja": "シネマホテル",
+        "name:ko": "시네마호텔",
+        "name:ko-Latn": "Sinemahotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951113,
+      "lat": 37.60914,
+      "lon": 126.930159,
+      "timestamp": "2025-11-25T11:43:26Z",
+      "version": 5,
+      "changeset": 175106261,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "노블레스호텔",
+        "name:en": "Nobless Hotel",
+        "name:ko": "노블레스호텔",
+        "name:ko-Latn": "Nobeulleseuhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951116,
+      "lat": 37.5739867,
+      "lon": 126.9881472,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 6,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "크라운호텔",
+        "name:en": "Crown Hotel",
+        "name:ko": "크라운호텔",
+        "name:ko-Latn": "Keuraunhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951135,
+      "lat": 37.514994,
+      "lon": 127.107725,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 5,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "짬호텔",
+        "name:en": "Jjam Hotel",
+        "name:ko": "짬호텔",
+        "name:ko-Latn": "Jjamhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951145,
+      "lat": 37.527391,
+      "lon": 127.029539,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "팝그린호텔",
+        "name:en": "Pap Green Hotel",
+        "name:ko": "팝그린호텔",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951151,
+      "lat": 37.567995,
+      "lon": 126.978116,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 7,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "뉴 서울 호텔",
+        "name:en": "New Seoul Hotel",
+        "name:ja": "ニューソウルホテル",
+        "name:ko": "뉴 서울 호텔",
+        "name:ko-Latn": "Nyu Seoul Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951152,
+      "lat": 37.534176,
+      "lon": 127.091847,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 5,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "동서울 관광호텔",
+        "name:en": "Dong Seoul Tourist Hotel",
+        "name:ko": "동서울 관광호텔",
+        "name:ko-Latn": "Dongseoul Gwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951157,
+      "lat": 37.5491095,
+      "lon": 126.8784699,
+      "timestamp": "2025-11-25T13:21:29Z",
+      "version": 8,
+      "changeset": 175110227,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "베스트웨스턴 나이아가라호텔",
+        "name:en": "Best Western Naiagara Hotel",
+        "name:ja": "ベストウェスタン ナイアガラホテル",
+        "name:ko": "베스트웨스턴 나이아가라호텔",
+        "name:ko-Latn": "Beseuteuweseuteon Naiagarahotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951163,
+      "lat": 37.5687674,
+      "lon": 126.9928615,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 8,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "센추럴 관광호텔",
+        "name:en": "Central Tourist Hotel",
+        "name:ja": "セントラル観光ホテル",
+        "name:ko": "센추럴 관광호텔",
+        "name:ko-Latn": "Senchureol Gwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951169,
+      "lat": 37.529055,
+      "lon": 127.13485,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 5,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "엘에이 관광호텔",
+        "name:en": "Elei Tourist Hotel",
+        "name:ko": "엘에이 관광호텔",
+        "name:ko-Latn": "Elei Gwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951175,
+      "lat": 37.554876,
+      "lon": 126.852528,
+      "timestamp": "2025-11-25T12:49:38Z",
+      "version": 5,
+      "changeset": 175108890,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔 노스탈자",
+        "name:en": "Hotel Noseutalja",
+        "name:ko": "호텔 노스탈자",
+        "name:ko-Latn": "Hotel Noseutalja",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951178,
+      "lat": 37.569898,
+      "lon": 126.975144,
+      "timestamp": "2025-11-25T13:22:39Z",
+      "version": 6,
+      "changeset": 175110278,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "에스호텔",
+        "name:en": "Eseu Hotel",
+        "name:ko": "에스호텔",
+        "name:ko-Latn": "Eseuhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951188,
+      "lat": 37.582346,
+      "lon": 127.021218,
+      "timestamp": "2025-11-25T11:41:53Z",
+      "version": 5,
+      "changeset": 175106204,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "브라운 관광호텔",
+        "name:en": "Beuraun Tourist Hotel",
+        "name:ko": "브라운 관광호텔",
+        "name:ko-Latn": "Beuraun Gwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951190,
+      "lat": 37.5625858,
+      "lon": 126.920394,
+      "timestamp": "2025-11-25T11:43:26Z",
+      "version": 5,
+      "changeset": 175106261,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔비케이닷컴",
+        "name:ko": "호텔비케이닷컴",
+        "name:ko-Latn": "Hotelbikeidaskeom",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951195,
+      "lat": 37.562782,
+      "lon": 127.058909,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 5,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔탑",
+        "name:en": "Hotel Tap",
+        "name:ko": "호텔탑",
+        "name:ko-Latn": "Hoteltap",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951206,
+      "lat": 37.5937985,
+      "lon": 127.0171918,
+      "timestamp": "2024-05-24T10:01:53Z",
+      "version": 7,
+      "changeset": 151760675,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name:en": "Hotel Al",
+        "name:ko": "호텔 알",
+        "name:ko-Latn": "Hotel Al",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951212,
+      "lat": 37.5718801,
+      "lon": 127.0042599,
+      "timestamp": "2025-11-25T13:22:39Z",
+      "version": 7,
+      "changeset": 175110278,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "투호텔",
+        "name:en": "Tu Hotel",
+        "name:ko": "투호텔",
+        "name:ko-Latn": "Tuhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951234,
+      "lat": 37.5115509,
+      "lon": 127.0314877,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 6,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "힐탑관광호텔",
+        "name:en": "Hiltap Tourist Hotel",
+        "name:ko": "힐탑관광호텔",
+        "name:ko-Latn": "Hiltapgwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951239,
+      "lat": 37.5701298,
+      "lon": 127.0155393,
+      "timestamp": "2024-05-24T10:09:53Z",
+      "version": 6,
+      "changeset": 151761062,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "바티카호텔",
+        "name:en": "Vatica Hotel",
+        "name:ko": "바티카호텔 동대문",
+        "name:ko-Latn": "Vatica Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951240,
+      "lat": 37.494091,
+      "lon": 127.119046,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 5,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "켈리포니아관광호텔",
+        "name:en": "Kelliponia Tourist Hotel",
+        "name:ko": "켈리포니아관광호텔",
+        "name:ko-Latn": "Kelliponiagwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951247,
+      "lat": 37.565903,
+      "lon": 127.003263,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 6,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "뉴천지 관광호텔",
+        "name:en": "New Cheonji Tourist Hotel",
+        "name:ko": "뉴천지 관광호텔",
+        "name:ko-Latn": "Nyucheonji Gwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951250,
+      "lat": 37.560365,
+      "lon": 126.983629,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 6,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "뉴오리엔탈호텔",
+        "name:en": "New Oriental Hotel",
+        "name:ja": "ニューオリエンタルホテル",
+        "name:ko": "뉴오리엔탈호텔",
+        "name:ko-Latn": "Nyuorientalhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951258,
+      "lat": 37.5707317,
+      "lon": 127.0721505,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 8,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "경남관광호텔",
+        "name:en": "Gyeongnam Tourist Hotel",
+        "name:ja": "慶南観光ホテル",
+        "name:ko": "경남관광호텔",
+        "name:ko-Latn": "Gyeongnamgwangwanghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951260,
+      "lat": 37.554694,
+      "lon": 126.85235,
+      "timestamp": "2025-11-25T12:49:38Z",
+      "version": 5,
+      "changeset": 175108890,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "뉴콘디넨탈호텔",
+        "name:en": "New Kondinental Hotel",
+        "name:ko": "뉴콘디넨탈호텔",
+        "name:ko-Latn": "Nyukondinentalhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951266,
+      "lat": 37.510615,
+      "lon": 127.0179,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔사랑",
+        "name:en": "Hotel Sarang",
+        "name:ko": "호텔사랑",
+        "name:ko-Latn": "Hotelsarang",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951272,
+      "lat": 37.502194,
+      "lon": 127.038257,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "M호텔",
+        "name:en": "M Hotel",
+        "name:ko": "M호텔",
+        "name:ko-Latn": "M Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951280,
+      "lat": 37.536045,
+      "lon": 127.13813,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 5,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "발리호텔",
+        "name:en": "Balli Hotel",
+        "name:ko": "발리호텔",
+        "name:ko-Latn": "Ballihotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951286,
+      "lat": 37.55317,
+      "lon": 126.851264,
+      "timestamp": "2025-11-25T12:49:38Z",
+      "version": 5,
+      "changeset": 175108890,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "드림호텔",
+        "name:en": "Deurim Hotel",
+        "name:ko": "드림호텔",
+        "name:ko-Latn": "Deurimhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951292,
+      "lat": 37.5968178,
+      "lon": 127.0892986,
+      "timestamp": "2025-11-25T13:22:39Z",
+      "version": 7,
+      "changeset": 175110278,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "테마호텔",
+        "name:en": "Theme Hotel",
+        "name:ko": "테마호텔",
+        "name:ko-Latn": "Temahotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951293,
+      "lat": 37.499978,
+      "lon": 127.031759,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "젤리호텔",
+        "name:en": "Jelli Hotel",
+        "name:ko": "젤리호텔",
+        "name:ko-Latn": "Jellihotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951296,
+      "lat": 37.587922,
+      "lon": 127.042966,
+      "timestamp": "2025-11-25T13:22:39Z",
+      "version": 6,
+      "changeset": 175110278,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "송림호텔",
+        "name:en": "Songnim Hotel",
+        "name:ko": "송림호텔",
+        "name:ko-Latn": "Songnimhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951299,
+      "lat": 37.57576,
+      "lon": 126.9967713,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 6,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "고궁호텔",
+        "name:en": "Gogung Hotel",
+        "name:ko": "고궁호텔",
+        "name:ko-Latn": "Gogunghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951304,
+      "lat": 37.49953,
+      "lon": 127.0353548,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 7,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "스타호텔",
+        "name:en": "Star Hotel",
+        "name:ja": "スターホテル",
+        "name:ko": "스타호텔",
+        "name:ko-Latn": "Seutahotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951310,
+      "lat": 37.527319,
+      "lon": 127.029506,
+      "timestamp": "2025-11-25T12:50:54Z",
+      "version": 5,
+      "changeset": 175108941,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "영진호텔",
+        "name:en": "Yeongjin Hotel",
+        "name:ko": "영진호텔",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951314,
+      "lat": 37.570996,
+      "lon": 126.989564,
+      "timestamp": "2025-04-13T12:54:40Z",
+      "version": 7,
+      "changeset": 164893571,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔누누",
+        "name:en": "Hotel Nunu",
+        "name:ja": "ホテル ヌヌ",
+        "name:ko": "호텔누누",
+        "name:ko-Latn": "Hotellunu",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951316,
+      "lat": 37.487483,
+      "lon": 126.929666,
+      "timestamp": "2024-05-09T14:59:41Z",
+      "version": 4,
+      "changeset": 151105039,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "한려호텔",
+        "name:en": "Hannyeo Hotel",
+        "name:ko-Latn": "Hannyeohotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951326,
+      "lat": 37.521118,
+      "lon": 126.905496,
+      "timestamp": "2024-05-10T04:48:29Z",
+      "version": 5,
+      "changeset": 151126509,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "도우호텔",
+        "name:en": "Dou Hotel",
+        "name:ko": "도우호텔",
+        "name:ko-Latn": "Douhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951329,
+      "lat": 37.541125,
+      "lon": 126.841434,
+      "timestamp": "2024-08-04T03:15:27Z",
+      "version": 5,
+      "changeset": 154794988,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "테마호텔",
+        "name:en": "Theme Hotel",
+        "name:ko": "테마호텔",
+        "name:ko-Latn": "Temahotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951336,
+      "lat": 37.572272,
+      "lon": 126.989241,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 5,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "톰지호텔",
+        "name:en": "Tomji Hotel",
+        "name:ko": "톰지호텔",
+        "name:ko-Latn": "Tomjihotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951346,
+      "lat": 37.5066655,
+      "lon": 127.051819,
+      "timestamp": "2025-03-27T14:18:41Z",
+      "version": 7,
+      "changeset": 164166594,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "타라호텔",
+        "name:en": "Tara Hotel",
+        "name:ja": "タラ ホテル",
+        "name:ko": "타라호텔",
+        "name:ko-Latn": "Tarahotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951369,
+      "lat": 37.569106,
+      "lon": 127.068883,
+      "timestamp": "2025-11-25T11:35:09Z",
+      "version": 5,
+      "changeset": 175105915,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "동경호텔",
+        "name:en": "Donggyeong Hotel",
+        "name:ko": "동경호텔",
+        "name:ko-Latn": "Donggyeonghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951375,
+      "lat": 37.563065,
+      "lon": 127.00544,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 5,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "영빈호텔",
+        "name:en": "Yeongbin Hotel",
+        "name:ko": "영빈호텔",
+        "name:ko-Latn": "Yeongbinhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951378,
+      "lat": 37.571831,
+      "lon": 126.98927,
+      "timestamp": "2025-11-25T13:22:39Z",
+      "version": 6,
+      "changeset": 175110278,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "대성호텔",
+        "name:en": "Daeseong Hotel",
+        "name:ko": "대성호텔",
+        "name:ko-Latn": "Daeseonghotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951382,
+      "lat": 37.549025,
+      "lon": 126.910328,
+      "timestamp": "2025-11-25T12:57:49Z",
+      "version": 5,
+      "changeset": 175109226,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔이화",
+        "name:en": "Hotel Ihwa",
+        "name:ko": "호텔이화",
+        "name:ko-Latn": "Hotelihwa",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951383,
+      "lat": 37.5961692,
+      "lon": 127.0900045,
+      "timestamp": "2025-11-25T13:22:39Z",
+      "version": 7,
+      "changeset": 175110278,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "호텔메이",
+        "name:en": "Hotel Mei",
+        "name:ko": "호텔메이",
+        "name:ko-Latn": "Hotelmei",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951396,
+      "lat": 37.5767,
+      "lon": 126.989544,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 7,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "노블호텔",
+        "name:en": "Noble Hotel",
+        "name:ja": "ノーブル ホテル",
+        "name:ko": "노블호텔",
+        "name:ko-Latn": "Nobeulhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951411,
+      "lat": 37.571999,
+      "lon": 127.006974,
+      "timestamp": "2025-11-25T13:22:39Z",
+      "version": 6,
+      "changeset": 175110278,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "세화호텔",
+        "name:en": "Sehwa Hotel",
+        "name:ko": "세화호텔",
+        "name:ko-Latn": "Sehwahotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951414,
+      "lat": 37.576539,
+      "lon": 126.989784,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 6,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "씨티호텔",
+        "name:en": "City Hotel",
+        "name:ja": "シティ ホテル",
+        "name:ko": "씨티호텔",
+        "name:ko-Latn": "Ssitihotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951417,
+      "lat": 37.6548062,
+      "lon": 127.057605,
+      "timestamp": "2025-11-25T11:41:53Z",
+      "version": 6,
+      "changeset": 175106204,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "리츠호텔",
+        "name:en": "Rits Hotel",
+        "name:ko": "리츠호텔",
+        "name:ko-Latn": "Richeuhotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 368951426,
+      "lat": 37.567443,
+      "lon": 126.98411,
+      "timestamp": "2025-11-25T12:57:13Z",
+      "version": 5,
+      "changeset": 175109200,
+      "user": "LuxuryCoop",
+      "uid": 7245212,
+      "tags": {
+        "name": "우석호텔",
+        "name:en": "Useok Hotel",
+        "name:ko": "우석호텔",
+        "name:ko-Latn": "Useokhotel",
+        "tourism": "hotel"
+      }
+    }
+  ]
+}

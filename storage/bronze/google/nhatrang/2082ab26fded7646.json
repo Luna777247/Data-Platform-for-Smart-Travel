@@ -1,0 +1,173 @@
+{
+  "u_key": "2082ab26fded7646",
+  "original_osm_name": "Quán ăn vặt 2/6 ngô đến gần trường nguyêmx khuyến",
+  "google_raw": {
+    "formatted_phone_number": "0369 326 652",
+    "geometry": {
+      "location": {
+        "lat": 12.2786038,
+        "lng": 109.2009794
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2799179302915,
+          "lng": 109.2023403302915
+        },
+        "southwest": {
+          "lat": 12.2772199697085,
+          "lng": 109.1996423697085
+        }
+      }
+    },
+    "name": "ĂN VẶT LUXUBU",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–22:00",
+        "Thứ Ba: 08:30–22:00",
+        "Thứ Tư: 08:30–22:00",
+        "Thứ Năm: 08:30–22:00",
+        "Thứ Sáu: 08:30–22:00",
+        "Thứ Bảy: 08:30–22:00",
+        "Chủ Nhật: 08:30–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Kieu Khiet",
+        "author_url": "https://www.google.com/maps/contrib/116770751100454762549/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIIYNUqablnG-UOuxZ-VJzhTHtQfKgMV5fAbWidJyT1WO-gDA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán có không gian sạch sẽ, thoải mái, đi ăn rất dễ chịu. Món ăn lên nhanh, trình bày đẹp mắt, hương vị đậm đà và vừa miệng. Nhân viên phục vụ nhiệt tình, thân thiện, tư vấn món rất kỹ. Giá cả hợp lý so với chất lượng. Nhất định sẽ quay lại và giới thiệu cho bạn bè 👍",
+        "time": 1766858635,
+        "translated": false
+      },
+      {
+        "author_name": "An Nguyên",
+        "author_url": "https://www.google.com/maps/contrib/111911631539800037721/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9NbjMlni9W9_5Es3wD-OqJ9MEfsB0jLR9-S6mZBm-RfzULBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán này ăn ổn áp nha. Đồ ăn làm vừa miệng. Món lên nhanh, nóng hổi, ăn là thấy thích liền. Nhân viên dễ thương, phục vụ thoải mái. Giá cũng ok, phù hợp tụ tập bạn bè. Nói chung là duyệt, sẽ quay lại 👍",
+        "time": 1766859595,
+        "translated": false
+      },
+      {
+        "author_name": "Ánh Ngọc (Chanh)",
+        "author_url": "https://www.google.com/maps/contrib/117557595036197193340/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsWovNODcokGZ0-s3wIDffTu6y_w0DYfzCdTwsKof8RNc-zcxK=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình chỉ mới trải nghiệm đặt đồ ăn trên app vài lần ở LUXUBU, trộm vía lần nào mình cũng ở ksan gần quán nên chuẩn bị và ship đồ ăn siêu nhanh, vị ngon, dễ ăn. Mình đã có đặt qua sandwich 2 lần, đều nóng giòn, dễ ăn. Trà sữa cũng ổn. Đồ ăn vặt thì cơ bản, giá oki nhaaa",
+        "time": 1762576103,
+        "translated": false
+      },
+      {
+        "author_name": "Алексей",
+        "author_url": "https://www.google.com/maps/contrib/106968678025637788428/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqkl10LnMmOKkWaNakStvc4oRfDaK266xyxDmrgTPENFQP-aA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Salad gà ở đây ăn cuốn ghê. Rau tươi giòn, gà chiên vàng rụm bên ngoài mà bên trong vẫn mềm, không bị khô. Sốt trộn vừa miệng, chua chua béo béo, ăn không ngán. Nói chung là ngon, ăn nhẹ mà vẫn đã miệng. Tôi sẽ quay lại thử các món khác nữa. Tuyệt vời!!🥰🥰",
+        "time": 1766991577,
+        "translated": false
+      },
+      {
+        "author_name": "Bùi Hồng Thúy",
+        "author_url": "https://www.google.com/maps/contrib/105232114574679406414/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVR-fc8jgabX78oZS4Le8hMGpSyqcd_JD8kByS9MWdRNN9FL9bEDg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán rất sạch sẽ, không gian thoải mái và trang trí đẹp. Nhân viên phục vụ nhiệt tình, món ăn ngon và giá hợp lý. Chắc chắn mình sẽ quay lại lần sau. 5 sao!",
+        "time": 1773030326,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 113
+  },
+  "harvested_at": "2026-05-02T15:30:02.609064"
+}

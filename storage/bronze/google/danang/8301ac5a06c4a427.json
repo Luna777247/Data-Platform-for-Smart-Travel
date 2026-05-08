@@ -1,0 +1,174 @@
+{
+  "u_key": "8301ac5a06c4a427",
+  "original_osm_name": "Babylon Steakgarden",
+  "google_raw": {
+    "formatted_phone_number": "0983 474 969",
+    "geometry": {
+      "location": {
+        "lat": 16.0418077,
+        "lng": 108.2483293
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0431769802915,
+          "lng": 108.2497816302915
+        },
+        "southwest": {
+          "lat": 16.0404790197085,
+          "lng": 108.2470836697085
+        }
+      }
+    },
+    "name": "Babylon Steak Garden 1",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 3,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Yết Tiểu",
+        "author_url": "https://www.google.com/maps/contrib/110158697778687013472/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9htC7lMeI1cHlaPjnm0Ge-Lt7jfqfjooq8k75yU6QLKXEtB6e=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bên mình dẫn khách qua đây ăn thử. Nhìn chung khách phản hồi tốt. Đồ ăn ngon, sạch sẽ, trang trí đẹp mắt, nhân viên phục vụ nhiệt tình. Chất lượng món ăn phù hợp với giá cả !",
+        "time": 1768882686,
+        "translated": false
+      },
+      {
+        "author_name": "도윤지",
+        "author_url": "https://www.google.com/maps/contrib/110330597923090669373/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDSV-KOcIO5SLG4gr3pgG9cxZWymWYOnPstGVRTlz9SkmxjsJO=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đô ăn ngon giá cả hợp lý . Nhân viên thân thiện lắm ạ .1 điểm mình ko hài lòng là quán hơi nóng quạt ko đủ mát . Nếu có lần sau mình vẫn đến quán ăn tiếp ❤️❤️",
+        "time": 1713968948,
+        "translated": false
+      },
+      {
+        "author_name": "TƯỜNG ĐỖ QUANG",
+        "author_url": "https://www.google.com/maps/contrib/102367844339865996439/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAyMWBq0SB7SquI17rQV0t0Q_h5HrhGk6J1J9R7Z2Qxq8gSrKv=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "- Không gian ổn . Khách Hàn Quốc nhiều\n- Nhân viên phục vụ tốt\n- Món ăn vừa miệng , khá lạ miệng nhaaa .\n- Có thể có chỗ cho đông người .\n\nTuyệt .",
+        "time": 1673450171,
+        "translated": false
+      },
+      {
+        "author_name": "VLOG TẤN TRẦN",
+        "author_url": "https://www.google.com/maps/contrib/118024714214784487286/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcAipU3jWn9WC05Zg7jHapJAXkISaK2GBcFO8XNsCKNsTO-PANCg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "☑️LOẠI HÌNH QUÁN BÒ NƯỚNG\n💲GIÁ CẢ HỢP LÝ\n👨‍🍳MÓN ĂN NGON\n🙋🏼PHỤC VỤ NHANH VUI VẺ DỄ THƯƠNG\n🏜️PHONG CẢNH SẠCH SẼ THOÁNG NGOÀI TRỜI\n👌NỘI DUNG\nCÓ KHÔNG GIAN BÊN TRONG PHÒNG LẠNH MÀ KHI NƯỚNG THỊT KHÓI QUÁ KHÓI NÊN CÓ MÁY HÚT KHÓI THÌ TỐT. QUÁN LÀM MÓN BÒ ĂN NGON\nNÊN ĐIỆN ĐẶT TRƯỚC KHI ĐẾN VÀO GIỜ CAO ĐIỂM BUỔI TRƯA HAY CHIỀU CHỨ KHÔNG CÓ CHỔ…",
+        "time": 1690207101,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Hà",
+        "author_url": "https://www.google.com/maps/contrib/106074230911780739884/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkmsVAwonJxdZhxpW8d34By06Or_kd3_KGPc9qmXbQ5wDIu2qw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình tới vào h giữa buổi nên k đông lắm, nhưng đến h ăn trưa hay ăn tối thì chỗ này đông k còn bàn luôn nên vào các h đó là phải đặt bàn trước, chủ yếu là khách Hàn Quốc, đồ ăn ở đây ngon k có gì phải bàn",
+        "time": 1714725198,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2774
+  },
+  "harvested_at": "2026-04-29T09:43:11.020572"
+}

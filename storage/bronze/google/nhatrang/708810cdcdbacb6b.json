@@ -1,0 +1,172 @@
+{
+  "u_key": "708810cdcdbacb6b",
+  "original_osm_name": "Mixue",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2453121,
+        "lng": 109.191494
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2466633302915,
+          "lng": 109.1928974802915
+        },
+        "southwest": {
+          "lat": 12.2439653697085,
+          "lng": 109.1901995197085
+        }
+      }
+    },
+    "name": "MIXUE Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "To Quyen",
+        "author_url": "https://www.google.com/maps/contrib/112421784245007419816/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfyxxNIZqJl_a7Th6-oFJrI1aLz8Yk6ThzPwu4DGblIYC8gYw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Giao diện dễ nhận diện. Không gian nhỏ gọn. Menu khá đa dạng và giá thành tương đối rẻ.\n\nNhân viên nhanh nhẹn. Nước phục vụ nhanh và ngon miệng.",
+        "time": 1753102053,
+        "translated": false
+      },
+      {
+        "author_name": "45.Nguyễn Hà Khánh Vy",
+        "author_url": "https://www.google.com/maps/contrib/113696936616610340404/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXnHItBhZbtEq81ba8YgOh4qW7ZvdBzvlMEGYF6svjDsQezZUh=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình đi ăn lúc 15g50 ngày 27/2 tại chi nhánh quang trung, nhân viên rất thái độ với khách. Quán nên xem xét và dạy bảo lại thái độ của nhân viên. Khách hỏi thì liếc khinh, đồ ăn của nhân viên thì để trên bàn của khách. Quá tệ",
+        "time": 1772182317,
+        "translated": false
+      },
+      {
+        "author_name": "Tường Vi",
+        "author_url": "https://www.google.com/maps/contrib/109746825393948998450/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxHwwMSHDvw55RrKmV_-uPHbeG9ckDsvkA7BAirEueHLm3XA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình vừa đặt trà đào bạn hình như nv quên bỏ đường hay sao vậy ạ🥲\nĐắng lắm luôn á nhạt nữa",
+        "time": 1763432575,
+        "translated": false
+      },
+      {
+        "author_name": "Nhung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/115432017608162878893/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_M-Jx4X6-otAjBWhJqqvzAD-XTx2e5LG2T2oV_O4-be14Lw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình đi nhiều chi nhánh nhưng chỉ có chi nhánh Quang Trung làm mình phải đánh giá ntn.Nhân viên ord thái độ, không tập trung.Mình vào ord nước mình muốn gọi món nhưng thấy nhân viên đang làm việc khác trên điện thoại nên mình nghĩ b có việc nên từ từ cũng được. Rồi lát sau mình có hỏi pass wf thì cũng phải gọi lần thứ 2 thứ 3 mới nghe vì bạn đang nghịch điện thoại. Nhưng cái vấn đề ở đây là giọng điệu và ánh mắt của bạn nói chuyện với khách làm khách cảm thấy rất rất khó nghe và vô cùng khó chịu. Hi vọng quán train lại nvien, chứ bản thân mình là khách chỉ mua ly nước để giải khát mà gặp ntn không quay lại lần thứ 2.",
+        "time": 1765473390,
+        "translated": false
+      },
+      {
+        "author_name": "nhung võ",
+        "author_url": "https://www.google.com/maps/contrib/109323553366522010273/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzh5hEXkN_lsyEwzZ-NUeBg2-JK3ofGvuZykSjxnng0aJAchma=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhân viên chi nhánh quang trung này quá tệ. Khách vô không chịu làm nước cho khách đứng tụm lại nói chuyện, còn làm sai nước nữa. Không hài lòng cho lắm",
+        "time": 1768124917,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1416
+  },
+  "harvested_at": "2026-05-02T16:08:30.534398"
+}

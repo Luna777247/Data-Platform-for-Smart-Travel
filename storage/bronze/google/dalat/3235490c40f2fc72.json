@@ -1,0 +1,174 @@
+{
+  "u_key": "3235490c40f2fc72",
+  "original_osm_name": "Huong Lam Tua Quan",
+  "google_raw": {
+    "formatted_phone_number": "0263 3828 635",
+    "geometry": {
+      "location": {
+        "lat": 11.9479303,
+        "lng": 108.4398722
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9492570302915,
+          "lng": 108.4411933802915
+        },
+        "southwest": {
+          "lat": 11.9465590697085,
+          "lng": 108.4384954197085
+        }
+      }
+    },
+    "name": "Hương Lâm Tửu Quán",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:00–22:00",
+        "Thứ Ba: 16:00–22:00",
+        "Thứ Tư: 16:00–22:00",
+        "Thứ Năm: 16:00–22:00",
+        "Thứ Sáu: 16:00–22:00",
+        "Thứ Bảy: 16:00–23:30",
+        "Chủ Nhật: 16:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "AMANDA LE",
+        "author_url": "https://www.google.com/maps/contrib/109645032902193812113/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqF1LHLyor0X7wt1I9YiwXwALJi9FFARAvWJgocSfYAdPnVS05=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Mih rất thích quán này, gần như lần nào lên ĐL cũng ghé. Quán bán lâu năm & vẫn giữ được hương vị ngon",
+        "time": 1758211902,
+        "translated": false
+      },
+      {
+        "author_name": "CAO SangR",
+        "author_url": "https://www.google.com/maps/contrib/100951882416791736931/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtVqYoy_rTvBSjOD1hQRl8_5oAosUo_bTbAEo9yDgaiQEGjIHZ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán ăn lâu năm tại địa phương\nTôi đã ăn các món tiềm ở đây từ hơn mười năm về trước\nQuán phục vụ chủ yếu các món tiềm thuốc bắc\nCó rượu thuốc ngâm để nhâm nhi\nGiá cả niêm yết rõ ràng\nNhân viên vui vẻ\nQuán nằm ở khu vực trung tâm, dễ dàng tìm kiếm\nChỗ đậu xe hạn chế, phù hợp để xe máy",
+        "time": 1753936280,
+        "translated": false
+      },
+      {
+        "author_name": "Land Vịt kho",
+        "author_url": "https://www.google.com/maps/contrib/109866270538748892308/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTh2zqJzky-ejXZ0HcL0nTOehZh1IDw5y0W9pGRp14ugft8BpM=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "9 tháng trước",
+        "text": "Mình tới lúc 9h30’ tối mà ngồi chờ 5’ mới có nhân viên tới hỏi, món ăn phải chờ làm nóng bằng cồn hoặc rượu chứ không ăn liền như SG, nhân viên ít phục vụ chậm không nắm rõ món nào còn món nào hết, phải ngồi đợi.",
+        "time": 1751727979,
+        "translated": false
+      },
+      {
+        "author_name": "dung truong manh",
+        "author_url": "https://www.google.com/maps/contrib/114758963971494108706/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0TlP4jHxxSyRx2Qo6hEbsvtU6bI7dzAN9-f_7worgDRh7O5k=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Tình cờ ghé ăn và khá hài lòng. Quán nhìn bình dân, món ăn cũng bình dân nhưng chế biến khá vừa miệng, chủ yếu các món tiềm thuốc bắc. Vị nêm nếm hợp khẩu vị, do chế biến sẵn chỉ cần đốt lửa làm nóng là ăn liền nên khá nhanh. Thức uống có rượu ngâm khá ngon và êm, dậy không nhức đầu.\nTheo tìm hiểu chủ quán được cấp chứng nhận về đông y, các món tiềm có vị thuốc giống nhau, nước dùng thanh, mùi thuốc không quá nặng, cảm giác ăn no mà không ngán, không nặng bụng.\nLần sau đến Đà Lạt nhất định sẽ quay lại",
+        "time": 1674967010,
+        "translated": false
+      },
+      {
+        "author_name": "Đăng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113737722073365291998/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz6HJvU3I8kKjr3XCDxsUUWnBxG8bQAy2yHLC_3cq7r426UiPv=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "1 quán rượu nổi tiếng tại Đà Lạt, rượu nóng rất ngon dễ uống. Các món tiềm của quán chất lượng, vừa ăn. Có rất nhiều bài thơ hay đc dán trên vách",
+        "time": 1744425252,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 80
+  },
+  "harvested_at": "2026-04-30T15:00:44.832389"
+}

@@ -1,0 +1,4344 @@
+[
+  {
+    "u_key": "245fcfba2589280e",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9232656,
+      "lon": 108.4438132
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a25be22ec0b8d098",
+    "name": "Mi Vinh Loi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9412839,
+      "lon": 108.4316096
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "235024270674ecef",
+    "name": "Nhà hàng Thủy Tạ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9400094,
+      "lon": 108.442085
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1bdec950e1cb3d99",
+    "name": "Phù Đổng",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9444037,
+      "lon": 108.4563268
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "df7b1f906b39bc44",
+    "name": "Hoa Sen",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.945207,
+      "lon": 108.4340991
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "902f906dea91cd58",
+    "name": "Khu Biệt Thự Nguyễn Viết Xuân",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9342876,
+      "lon": 108.4310727
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2b44814bd13117e0",
+    "name": "Cẩm Đô",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9439721,
+      "lon": 108.4339101
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a9c2b29309d4773c",
+    "name": "Hương Ca",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9360057,
+      "lon": 108.4347684
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d9a2efd148a45fe4",
+    "name": "Hàng Không",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9374351,
+      "lon": 108.4438216
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "68051f485f95ebaa",
+    "name": "Moulin Rouge",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9385561,
+      "lon": 108.4301782
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b6e43039ca4c9cc2",
+    "name": "Hương Trà (beer garden cafe)",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.942354,
+      "lon": 108.438184
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b316f2fdf65e3f58",
+    "name": "Ocean Palace",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9282663,
+      "lon": 108.4468202
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b3c7b943729371ce",
+    "name": "Long Nga",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9489665,
+      "lon": 108.4596964
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "7ed6b858fb349480",
+    "name": "Hoàng Anh Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9463265,
+      "lon": 108.4595426
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "04bf33c15fea0e22",
+    "name": "Hoàng Lan",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9463624,
+      "lon": 108.4346856
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "c1955df70b35864a",
+    "name": "Osaka",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9399394,
+      "lon": 108.4487061
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "103f87bf3e7257ec",
+    "name": "Đường Sắt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9438156,
+      "lon": 108.4554714
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5dd45daf6e177e19",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9003805,
+      "lon": 108.4353001
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "688587eac977631e",
+    "name": "Tintin",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.941184,
+      "lon": 108.4367323
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "048d66ac4fc3f7b4",
+    "name": "Café Galy",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9418663,
+      "lon": 108.4363675
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "65855e1cbc6ff07e",
+    "name": "Tomato",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9507542,
+      "lon": 108.453695
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f1f82a38b9435b68",
+    "name": "Vegetarian restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9444482,
+      "lon": 108.4339638
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "6f0d39e211902636",
+    "name": "Mỹ Lê",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9412506,
+      "lon": 108.4374166
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1747369280eaf4cc",
+    "name": "Hoa Sen",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9446898,
+      "lon": 108.4341605
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "c1b27a9c01981b19",
+    "name": "Bò Né 3 Ngon",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9392773,
+      "lon": 108.4343628
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2dca52df4df34560",
+    "name": "Liên Hoa",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9499235,
+      "lon": 108.4347276
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8a6a052721dbc163",
+    "name": "附近有个bar 13Chocolate",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trương Công Định",
+    "location": {
+      "lat": 11.9439345,
+      "lon": 108.4346087
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1165fc9517841eaf",
+    "name": "Kho'i BBQ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.944635,
+      "lon": 108.4382722
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "4655f028d91c56a0",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9474662,
+      "lon": 108.4358436
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "71c4a773abbac409",
+    "name": "Com Chay Vegetarian Food",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 11.9449125,
+      "lon": 108.4331834
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d8ecfc97b6aedaf5",
+    "name": "Trong Drong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9497034,
+      "lon": 108.4352491
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5e322b48cf66b073",
+    "name": "V Cafe",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9439217,
+      "lon": 108.440227
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "825eb0af48c18dd7",
+    "name": "Nhat Ly",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9458602,
+      "lon": 108.4348932
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5d6914c3a9ab7684",
+    "name": "V Cafe",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.944445,
+      "lon": 108.439516
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a4d9c3bc728c3770",
+    "name": "Sunrise",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9332587,
+      "lon": 108.4426471
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e79db8e874817d77",
+    "name": "Violet",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Pasteur",
+    "location": {
+      "lat": 11.9365426,
+      "lon": 108.4302519
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "aed33032d8e4cc49",
+    "name": "Gòc Há",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trương Công Định",
+    "location": {
+      "lat": 11.9440035,
+      "lon": 108.4346276
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e3a59fe1dceab841",
+    "name": "Lẩu bò Quán Gỗ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hoàng Diệu",
+    "location": {
+      "lat": 11.9413771,
+      "lon": 108.429478
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "81fb3c0083c6ed8d",
+    "name": "Châu Loan",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9310415,
+      "lon": 108.4277002
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2b9ce9bd096e5b56",
+    "name": "Pizza Like",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9420348,
+      "lon": 108.4312818
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d0554cf66954f93f",
+    "name": "Quán BBQ 123 DZÔ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9430404,
+      "lon": 108.4337805
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5d09c478e91a6084",
+    "name": "Quán BBQ 123 DZÔ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9421481,
+      "lon": 108.4327848
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "983409295c0ddf4a",
+    "name": "Pho nuong ngon",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ánh Sáng",
+    "location": {
+      "lat": 11.942245,
+      "lon": 108.437912
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b8a11037628cc3e5",
+    "name": "Artist Alley",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9447099,
+      "lon": 108.4349978
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "398e49add4b7d050",
+    "name": "Pizza Chorio",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.942636,
+      "lon": 108.43098
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a9fd6134229d1c75",
+    "name": "Com Tam",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.943711,
+      "lon": 108.4354584
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3e97382abc29c6ae",
+    "name": "Banh Can",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9440487,
+      "lon": 108.4352744
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5b32f1c4f5f12e22",
+    "name": "Hanh Tam",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9435906,
+      "lon": 108.4375697
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "002b163c36951483",
+    "name": "Quan Hoa Sua",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9436466,
+      "lon": 108.4353291
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "6ff573e30eaa3cda",
+    "name": "Ngoi Nha Banh XE",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trương Công Định",
+    "location": {
+      "lat": 11.9440403,
+      "lon": 108.4345967
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f4e6637054a1d1e3",
+    "name": "Nha Hang Long Hoa",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ba Tháng Hai",
+    "location": {
+      "lat": 11.9430639,
+      "lon": 108.4354609
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "493b3366bb13fe7a",
+    "name": "Vuông Pizza",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.942849,
+      "lon": 108.4352905
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5c1f90d36322a377",
+    "name": "Ganesh",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9429006,
+      "lon": 108.4357415
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "162668a1c4fa65d1",
+    "name": "Xua Nay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9360652,
+      "lon": 108.4273782
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0cfd539a00c61ccd",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9405884,
+      "lon": 108.4514801
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f274d006130b2a72",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9421757,
+      "lon": 108.433577
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8b21a1c07bc1eb74",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9455348,
+      "lon": 108.4393426
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "302a85324ca75a23",
+    "name": "Lavander dalat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9488207,
+      "lon": 108.4376003
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "885470cad4d7d5ab",
+    "name": "Peace Coffee",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trương Công Định",
+    "location": {
+      "lat": 11.9440001,
+      "lon": 108.4345403
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f3eb599a5288048e",
+    "name": "An lạc tam",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9542989,
+      "lon": 108.4345233
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d1ee37c62598833b",
+    "name": "Benny's Fast Food",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9442805,
+      "lon": 108.4343087
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "7d64db9ac19b2333",
+    "name": "Le Chalet Dalat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9356921,
+      "lon": 108.4303579
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1db113586670bb3d",
+    "name": "Hung Van nem nuong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9487509,
+      "lon": 108.439231
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "11d42799754411e0",
+    "name": "Quán nướng số 1 - Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Lê Hồng Phong",
+    "location": {
+      "lat": 11.9349081,
+      "lon": 108.4327446
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "4015ae264381c6cf",
+    "name": "Thiet 168 Restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9476483,
+      "lon": 108.4358889
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2e1ef6f87e5d509c",
+    "name": "Thien tam Chay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9436055,
+      "lon": 108.4309109
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0ea1eb9eac0803e0",
+    "name": "Da Hung",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9458853,
+      "lon": 108.4995489
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "71c5ee40eb4db844",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9470324,
+      "lon": 108.4587511
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "013ad3cd8c0dd0de",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9451172,
+      "lon": 108.4591086
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "cb33ef20d373732a",
+    "name": "Sữa Đậu xanh ngon",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9379258,
+      "lon": 108.434005
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b726236c818ec257",
+    "name": "Bánh tráng nướng 25k",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.937677,
+      "lon": 108.4337421
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2d746df426c637e5",
+    "name": "Hoa Sen",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9393932,
+      "lon": 108.4335488
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ce65f32e5dce600f",
+    "name": "Hotpot",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9429876,
+      "lon": 108.436929
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "c47f5d4e4c98aa57",
+    "name": "Cơm niêu Như Ngọc",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Thị Minh Khai",
+    "location": {
+      "lat": 11.941942,
+      "lon": 108.4372563
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "74c6ff1abcc889fb",
+    "name": "Ẩm thực cô năm",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Lê Đại Hành",
+    "location": {
+      "lat": 11.9389073,
+      "lon": 108.4381783
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "39046e64a77d0549",
+    "name": "Quán Nhí",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Chí Thanh",
+    "location": {
+      "lat": 11.9432829,
+      "lon": 108.4355573
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "cf730ff5a6bfc7c9",
+    "name": "Khói BBQ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9473031,
+      "lon": 108.440283
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e227e7159ec4de67",
+    "name": "Dìn Ký",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9480897,
+      "lon": 108.4395623
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a2baa38305c69276",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9471015,
+      "lon": 108.440301
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1d357efa741861e6",
+    "name": "Pho Hieu",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9435308,
+      "lon": 108.4353632
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "39bed4af9cc0ae90",
+    "name": "bún bò huế O Xuân",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.94313,
+      "lon": 108.4306202
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "9d769d3158d3a034",
+    "name": "Thanh Phat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9040642,
+      "lon": 108.4364286
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ff45213ff9d79710",
+    "name": "Cu Dúc phuc vu",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9512402,
+      "lon": 108.4352608
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "27f26298e6125ee1",
+    "name": "HighLand coffee",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9385323,
+      "lon": 108.4441855
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "cfdc593741d08d59",
+    "name": "Ca phe ngoaio",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9238583,
+      "lon": 108.4462159
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "fa7fd06876013045",
+    "name": "Bun Bo Binh",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9435951,
+      "lon": 108.4358825
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b75353b5baa17b0d",
+    "name": "Ha Noi Pho",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9453994,
+      "lon": 108.4348299
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e498ee1523b11516",
+    "name": "Restaurant Ichi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "So 1A Duong Hoang Dieu, Da Lat Vietnam",
+    "location": {
+      "lat": 11.9423689,
+      "lon": 108.4314696
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "44dcf0d0838800d0",
+    "name": "The Fresh - Juice and Coffee",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ba Tháng Hai",
+    "location": {
+      "lat": 11.9424905,
+      "lon": 108.4342224
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ebda1adae1998870",
+    "name": "Nem Nuong - Dung Loc",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9377561,
+      "lon": 108.429015
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b40a7c27badc125d",
+    "name": "Mì Quảng, Bún Bò Gia Đình Quán",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Lữ Gia",
+    "location": {
+      "lat": 11.9512826,
+      "lon": 108.4643197
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "013694116112864e",
+    "name": "Tam 09",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9417133,
+      "lon": 108.4311373
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f11363836bcc7aff",
+    "name": "Lau Ga So 7",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9282421,
+      "lon": 108.4446925
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "790f59f496adddf4",
+    "name": "Thuy Kha 6",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9518701,
+      "lon": 108.4330802
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "cd66083b6833688e",
+    "name": "Pho Tuyen",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Dinh Phung",
+    "location": {
+      "lat": 11.9518989,
+      "lon": 108.432449
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1175ceae2caba4ae",
+    "name": "Nem Nướng , Bánh tráng nướng , Bánh mì chấm",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hoàng Diệu",
+    "location": {
+      "lat": 11.9427454,
+      "lon": 108.4289285
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "152a9161971bb30c",
+    "name": "Fungi Chingu",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9418501,
+      "lon": 108.4372796
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "94d0c8b52e6da9f9",
+    "name": "Bánh Cá",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Văn Trỗi",
+    "location": {
+      "lat": 11.9451934,
+      "lon": 108.4356763
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f05b8c3bcaac0393",
+    "name": "Bún bò Hạnh",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ánh Sáng",
+    "location": {
+      "lat": 11.9397851,
+      "lon": 108.4366081
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a72c5d0fc8e8caa1",
+    "name": "Trang phan rang",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9516919,
+      "lon": 108.4332197
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f240666b0fb4d457",
+    "name": "Ngon BBQ - Buffet Garden",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Chí Thanh",
+    "location": {
+      "lat": 11.9404517,
+      "lon": 108.4367526
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "179aec942e1e6ecf",
+    "name": "Quan Com Chay Au Lac 2",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9416662,
+      "lon": 108.4327923
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1eba3301d59743e4",
+    "name": "Brew and Breakfast",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trần Hưng Đạo",
+    "location": {
+      "lat": 11.9357221,
+      "lon": 108.4415459
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5c14c825451cc36e",
+    "name": "Banana Pizza",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9429224,
+      "lon": 108.4321349
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "660f982d182cc6e0",
+    "name": "Pasta Food",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9374123,
+      "lon": 108.4291557
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ab506f29031d45aa",
+    "name": "Dalat Train Cafe",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Quang Trung",
+    "location": {
+      "lat": 11.9434806,
+      "lon": 108.4543083
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "39613eecede2a69f",
+    "name": "Bingo Pizza",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9449219,
+      "lon": 108.4348404
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d9d9ad103ad7f721",
+    "name": "Local coffee shop- cheap!",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9478197,
+      "lon": 108.464541
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "87f4b46e53021c57",
+    "name": "Oz Burgers",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9422239,
+      "lon": 108.4341404
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "95228dc9488c630d",
+    "name": "Quán 168",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9403642,
+      "lon": 108.4267566
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8f636f47548f314a",
+    "name": "Ah Mei",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "404 Phan Đình Phungf",
+    "location": {
+      "lat": 11.9539237,
+      "lon": 108.432064
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "680cfb43c27cd02f",
+    "name": "Curry Masala",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ngô Quyền",
+    "location": {
+      "lat": 11.9551945,
+      "lon": 108.4229506
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "303a7fbc2a875c8d",
+    "name": "Pho Ha Noi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9536008,
+      "lon": 108.4404326
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d5813bb419e4876a",
+    "name": "Hoàng lan tabilu dalat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.946395,
+      "lon": 108.4351622
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "9bd2cd693715c1ff",
+    "name": "Cao Lao",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9301358,
+      "lon": 108.4463275
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f7f9bfa7845f91e2",
+    "name": "quán nướng Cu Đức",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Lương Bằng",
+    "location": {
+      "lat": 11.951291,
+      "lon": 108.4356167
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a201503c2334bdf7",
+    "name": "Bích 33",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 11.9478473,
+      "lon": 108.4337337
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "17048fa2425af084",
+    "name": "Nhà Hàng Chay Pháp Hoa",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Thông Thiên Học",
+    "location": {
+      "lat": 11.9522154,
+      "lon": 108.438707
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "347a45e3f8f28e30",
+    "name": "Chè Long Nga",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9581512,
+      "lon": 108.4426687
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "9583f6365bed6ba3",
+    "name": "Korean Food",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9279761,
+      "lon": 108.4470943
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e3e5b6fc0c3a3f31",
+    "name": "Pizza Chorio",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9463981,
+      "lon": 108.4401725
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e6f08484661b5093",
+    "name": "Súóng Mai",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trần Hưng Đạo",
+    "location": {
+      "lat": 11.9361854,
+      "lon": 108.4446218
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "be03950663591ce5",
+    "name": "Com Chay Thanh Dam",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "97C Nguyen Van Troi",
+    "location": {
+      "lat": 11.949475,
+      "lon": 108.437928
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "bcbdfc9213583842",
+    "name": "kem Thạch Thảo",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9474962,
+      "lon": 108.4369673
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5935e00ca80b85c3",
+    "name": "Com Tam",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Quan",
+    "location": {
+      "lat": 11.9460186,
+      "lon": 108.5012536
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b6ea7b3644109dd1",
+    "name": "Anh Đào",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9426355,
+      "lon": 108.4372142
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2f0646248b33c99a",
+    "name": "Dā Quy",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9448408,
+      "lon": 108.4343061
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "27767a38d62b0a4c",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9260481,
+      "lon": 108.3478456
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "641d22373d8924d1",
+    "name": "Bánh căn Nhà Chung",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nhà Chung",
+    "location": {
+      "lat": 11.9364526,
+      "lon": 108.438458
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "042a8cbb819afe84",
+    "name": "Bánh ướt lòng gà Hằng",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.947352,
+      "lon": 108.4358466
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3e4173de1df6c9f4",
+    "name": "Bánh ướt lòng gà",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Tăng Bạt Hổ",
+    "location": {
+      "lat": 11.9438507,
+      "lon": 108.4349196
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "317dfa7e0595627b",
+    "name": "Bánh bèo số 4 Bà Hường",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9541707,
+      "lon": 108.4320737
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "921eaef9c69c27f9",
+    "name": "Mỳ quảng Hội An",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Yersin",
+    "location": {
+      "lat": 11.9402906,
+      "lon": 108.4488678
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "fa613f1858d27631",
+    "name": "Bánh canh chả cá Phan Rang",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trần Hưng Đạo",
+    "location": {
+      "lat": 11.9379359,
+      "lon": 108.4511371
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "00cb232fcc4ab47a",
+    "name": "Chè Như Ý",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ba Tháng Hai",
+    "location": {
+      "lat": 11.9416789,
+      "lon": 108.4333809
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "de0d9becc783e584",
+    "name": "Carrot Restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bà Triệu",
+    "location": {
+      "lat": 11.9371923,
+      "lon": 108.4335234
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ad0543f3a8d28d47",
+    "name": "gourmet burger",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "15/3 nguyen bieu street Da Lat 650000",
+    "location": {
+      "lat": 11.944127,
+      "lon": 108.4340582
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "217f6dc97dcd2446",
+    "name": "Emai italian restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Thi Sách",
+    "location": {
+      "lat": 11.9467582,
+      "lon": 108.4327634
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "38f30c20fb01d5c4",
+    "name": "Nem Nuong Ba Hung",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9370323,
+      "lon": 108.4399146
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "083f290bc4dddbb3",
+    "name": "Com Tam Mei",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9443189,
+      "lon": 108.4360411
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5614a18adba45719",
+    "name": "EM OI Dac san Hoi An Da Nang",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9383463,
+      "lon": 108.4256449
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "c93642c42358be63",
+    "name": "แหนมเนือง Ba Hung",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9377116,
+      "lon": 108.4292047
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "bd8bd2a46c2baeb8",
+    "name": "Bun Cha Ha Noi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9419678,
+      "lon": 108.4338155
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2e991bf23f143ddf",
+    "name": "Chu Quan BBQ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9381691,
+      "lon": 108.4348212
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "501a58f5354fafb6",
+    "name": "Quan Chay Khai Tâm",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.941066,
+      "lon": 108.4315483
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d7e136c2947b1018",
+    "name": "Nature’s DL (delicious vegetarian buffet for VND59k)",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9418951,
+      "lon": 108.4872725
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a09195498d933f72",
+    "name": "The Sky Over Dalat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9488064,
+      "lon": 108.462875
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8111a59562a6bfa6",
+    "name": "Ganesh fine Indian cuisine",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9425545,
+      "lon": 108.43557
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3ee3e0eec9c92c38",
+    "name": "Rio BBQ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.946002,
+      "lon": 108.4296939
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5810bde488d8641d",
+    "name": "Quán Chay 4 An Lạc Tâm",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Xô Viết Nghệ Tĩnh",
+    "location": {
+      "lat": 11.9554702,
+      "lon": 108.4325626
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b1ae6ff5f40b343c",
+    "name": "Trang cookery",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9471213,
+      "lon": 108.4355488
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "7d37fbc07bbfff1e",
+    "name": "Kính Chào Quy Khách",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9440072,
+      "lon": 108.4385098
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "4c3b14dbc3480676",
+    "name": "Tan Long",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9409796,
+      "lon": 108.4168062
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "aaef69f315143dc1",
+    "name": "Quán ăn 06",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.940788,
+      "lon": 108.4170235
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d5726d3ff204f01f",
+    "name": "Cafe Hoa Đất Sét",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9575993,
+      "lon": 108.4278245
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3313ef405754fe49",
+    "name": "Mì Quảng Thuý",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9526482,
+      "lon": 108.4266812
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "467af97cb810af86",
+    "name": "Quán Phở Toàn",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9554641,
+      "lon": 108.428635
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8ee2ca5d81e00cac",
+    "name": "Bánh Canh Cá Lóc - Bún Cá Lóc - Cháo Cá Lóc",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9553087,
+      "lon": 108.4285725
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "aaafa2a1fad9e9c4",
+    "name": "Quán Sinh Đôi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9557274,
+      "lon": 108.4281099
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1f33182eb2d38c1c",
+    "name": "Dalata Coffee",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9277415,
+      "lon": 108.4443651
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "03b923c5b5875888",
+    "name": "Bánh Tráng Nướng",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9282016,
+      "lon": 108.4452215
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ba03a0084f8ebb35",
+    "name": "Bún Bò Huế Lá Sen",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9280829,
+      "lon": 108.445157
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "6329147e6170afdb",
+    "name": "Bánh Căn Ngọc",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9330424,
+      "lon": 108.445883
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "99577dbaac939bc0",
+    "name": "Lẩu Gà Lá É Tao Ngộ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9329283,
+      "lon": 108.4459067
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "fb540ae3387cb8aa",
+    "name": "Quán Bia và Nướng Kozy",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9325476,
+      "lon": 108.445982
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "220590e2399f7a60",
+    "name": "địa điểm ăn",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9376908,
+      "lon": 108.4295216
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "04547bc5dfd459a1",
+    "name": "Pizza Chorio",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9465235,
+      "lon": 108.4402799
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2499714621c7ac33",
+    "name": "Tiem Mi Tau Cao",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9471551,
+      "lon": 108.4355757
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "c9b561027045ed47",
+    "name": "Vegetarian restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9565782,
+      "lon": 108.4376425
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "80ca855d41397aea",
+    "name": "Taiyo Sushi Đa Lat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "An Dương Vương",
+    "location": {
+      "lat": 11.9535093,
+      "lon": 108.435933
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "19564133b09a7fb2",
+    "name": "chacha Xôt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.947835,
+      "lon": 108.4397936
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f1d46de609f1994a",
+    "name": "émai dalat restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9467481,
+      "lon": 108.4324008
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "381a556dd4bbc851",
+    "name": "bánh mì xíu mại Hồng",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Yersin",
+    "location": {
+      "lat": 11.9417714,
+      "lon": 108.4519586
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "26a1d272444a68c5",
+    "name": "đào nguyên quán",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "đường hầm đất sets",
+    "location": {
+      "lat": 11.9007397,
+      "lon": 108.4178003
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "cc1812cd166be42a",
+    "name": "bánh căn",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Tăng Bạt Hổ",
+    "location": {
+      "lat": 11.9439819,
+      "lon": 108.4351187
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "784a00831e27485f",
+    "name": "Long 2",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9446541,
+      "lon": 108.454227
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "deb7c07fe04d47a5",
+    "name": "Mì Quang Xí",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9406851,
+      "lon": 108.4275109
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "95e1c6f55f04ee08",
+    "name": "Hai Mâp",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Pasteur",
+    "location": {
+      "lat": 11.934454,
+      "lon": 108.4266438
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "06a17157c8e53623",
+    "name": "com ga xoi mo",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bà Triệu",
+    "location": {
+      "lat": 11.9385015,
+      "lon": 108.4341256
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3426ea56415e34e4",
+    "name": "198 Nguyễn Công Trứ BBQ & Beer Barn House",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9565511,
+      "lon": 108.4349258
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "17dfe9871760f05f",
+    "name": "Bahn mi xiu mai",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9487564,
+      "lon": 108.4347307
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "bbeff2f21c6c9f5b",
+    "name": "Vegan Heaven",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.939452,
+      "lon": 108.4333545
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ab420e6f7a0ee4b7",
+    "name": "Nha Long",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9364582,
+      "lon": 108.4441701
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "9d9bf0e67fcab466",
+    "name": "Gemination Eatery & Bar Da Lat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trương Công Định",
+    "location": {
+      "lat": 11.9436176,
+      "lon": 108.435097
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "88bae7febb97f3b1",
+    "name": "Banh Trang Nuong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9484399,
+      "lon": 108.4372586
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b5a8b9a37e85053c",
+    "name": "Orion Resort and Hotel",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9731475,
+      "lon": 108.3893814
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e7d8dbdc4b905111",
+    "name": "Banh Trang Nuong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Văn Trỗi",
+    "location": {
+      "lat": 11.9462815,
+      "lon": 108.4357833
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "307fbe2330a2c986",
+    "name": "Banh Trang nuong Di Dinh",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hoàng Diệu",
+    "location": {
+      "lat": 11.9428534,
+      "lon": 108.4286453
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f3a8b53ba500c116",
+    "name": "Bahn Trang Nuong 112 Da Lat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Văn Trỗi",
+    "location": {
+      "lat": 11.9486181,
+      "lon": 108.4372985
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "668d245ccf15e024",
+    "name": "Banh Can Da Lat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9489292,
+      "lon": 108.4365297
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0a8031f088e3d570",
+    "name": "Banh Can Le",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Yersin",
+    "location": {
+      "lat": 11.9422961,
+      "lon": 108.4505655
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f09ef9b18ee97f0d",
+    "name": "Thuy Banh Can",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9361139,
+      "lon": 108.4347204
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "219ce24557c4f62a",
+    "name": "Banh Can Cay Bo",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Tăng Bạt Hổ",
+    "location": {
+      "lat": 11.9442737,
+      "lon": 108.4346081
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "892822670dc862c4",
+    "name": "Banh can Tang Bat Ho",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Tăng Bạt Hổ",
+    "location": {
+      "lat": 11.9442797,
+      "lon": 108.4349641
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "13c9774998a823cd",
+    "name": "Quan Banh Trang Nuong Minh Chau",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9497895,
+      "lon": 108.4387371
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e4a1ee3ecff199d6",
+    "name": "Co Phat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9401123,
+      "lon": 108.4279819
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a9e140f8c6bcbae6",
+    "name": "pho thung",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9393527,
+      "lon": 108.4341202
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2187bb6172b7bdd3",
+    "name": "Mi Quang Thanh",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9442265,
+      "lon": 108.4338793
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2bcad5ed2975644e",
+    "name": "Cha Ri Chaaa",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.940032,
+      "lon": 108.4360299
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "db0334dac084aeb4",
+    "name": "Lau Ga La E",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9377627,
+      "lon": 108.4424896
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b9da263aea8b2090",
+    "name": "Lẩu gà lá",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9373061,
+      "lon": 108.4425493
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8b7f55bc9bf4839d",
+    "name": "Hoanganhres",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hẻm Nam Kì Khởi Nghĩa",
+    "location": {
+      "lat": 11.9479787,
+      "lon": 108.4406073
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "9a74e53954d5ad60",
+    "name": "PaPa",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9502602,
+      "lon": 108.4556122
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ea00d3e090122198",
+    "name": "Quán Xưa (Chuyên Bò)",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9517682,
+      "lon": 108.4323985
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1a66e3a4b1227aa4",
+    "name": "Trang's Cookery Restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9470359,
+      "lon": 108.4354386
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a35f2fe2b7173aed",
+    "name": "Bella Cellar",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ngo 25 Tran Phu",
+    "location": {
+      "lat": 11.9379604,
+      "lon": 108.4322444
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "fc355dbf4c404f5d",
+    "name": "Buffet An Chay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9407437,
+      "lon": 108.4516443
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "4f9390ec4974bc46",
+    "name": "Bánh tráng nướng 15k",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9374905,
+      "lon": 108.4335156
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1b01beb2532d0d77",
+    "name": "Cuong - Thien Huong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9436821,
+      "lon": 108.4404923
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f2a7e4ca16352244",
+    "name": "German House",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Mai Anh Đào",
+    "location": {
+      "lat": 11.9769049,
+      "lon": 108.446151
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0fc21a8f232f4833",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9772321,
+      "lon": 108.4470252
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ee1bf8e8b2047ee0",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9515585,
+      "lon": 108.4332117
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "18641bbd9bfe730a",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9487065,
+      "lon": 108.4363975
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f9d98307d6cbbc5f",
+    "name": "Tiệm bánh Cối Xay Gió",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Tăng Bạt Hổ",
+    "location": {
+      "lat": 11.9441796,
+      "lon": 108.4348389
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "924c5689433a25d7",
+    "name": "Pho Môc",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9401455,
+      "lon": 108.4291476
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "47bb8099d945468b",
+    "name": "Chay Dalat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9423501,
+      "lon": 108.4593884
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "62cd7c9d83c0ed41",
+    "name": "Thai corner",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9427983,
+      "lon": 108.4363063
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "058b4035ed0c3d78",
+    "name": "Khôi Nguyên Homestay Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trần Quang Diệu",
+    "location": {
+      "lat": 11.9448281,
+      "lon": 108.4676303
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f2f1b5f26f825d9d",
+    "name": "Phi Hieu",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Văn Trỗi",
+    "location": {
+      "lat": 11.9496961,
+      "lon": 108.4376189
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a13feabed9691cbc",
+    "name": "Vietnamese vegetarian restaurant \"chay\"",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9431781,
+      "lon": 108.4339948
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "7a1e014802ddd87d",
+    "name": "Ẩm Thực Chay Hoang Nhi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9418605,
+      "lon": 108.4332879
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "87198eb227712eb8",
+    "name": "Vegetarian  \"chay\" restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9431144,
+      "lon": 108.4265361
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "622056dded71fa61",
+    "name": "Rak Khun Thai Cuisine",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9412481,
+      "lon": 108.43333
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "02253b226d1b833e",
+    "name": "Yatai Japanese Restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9412956,
+      "lon": 108.4335207
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f9aff1c3afa3a317",
+    "name": "Bếp Cậu Ba restaurant OPEN 24/7",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9330293,
+      "lon": 108.4327844
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "58d55c1cda01e05b",
+    "name": "IndiaGate Restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9443439,
+      "lon": 108.4398625
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0a59c061ef354f00",
+    "name": "DalaHouse Juice",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.943976,
+      "lon": 108.4347418
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b51f8aa81fd6b900",
+    "name": "Vuon Thuong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9003542,
+      "lon": 108.4349974
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f29b50c91400d17b",
+    "name": "Sushi BBQ Lau Atiso",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9004867,
+      "lon": 108.4348257
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ea399c7b8d86c8ff",
+    "name": "Goc ha thanh",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.943941,
+      "lon": 108.434618
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5565a07a5e5e0471",
+    "name": "Lam An Quảng Vị",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Lương Bằng",
+    "location": {
+      "lat": 11.9527672,
+      "lon": 108.4362965
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "27e60b80690acfcc",
+    "name": "Thùy Dương quán",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hoa Hồng",
+    "location": {
+      "lat": 11.9046862,
+      "lon": 108.4169499
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "304e26f7741e14f8",
+    "name": "Sagar indian cuisine",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9443394,
+      "lon": 108.4347518
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "c447390939ee954d",
+    "name": "An Sơn Hồ Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9272381,
+      "lon": 108.429907
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b165b25862386a9d",
+    "name": "Đà Lạt Buffet BBQ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9375903,
+      "lon": 108.4397467
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "fa171c22ff237c2a",
+    "name": "Cơm Mẹ Nấu",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9403775,
+      "lon": 108.453899
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "43872baf26affbcc",
+    "name": "Chef's Dalat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phạm Ngọc Thạch",
+    "location": {
+      "lat": 11.9477602,
+      "lon": 108.4319908
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "6a15e182c913bf02",
+    "name": "Restaurant Vu Hà",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9393622,
+      "lon": 108.4338784
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "24431ed4cdb1718c",
+    "name": "Quán Ăn Ngon Đà Lạt -달랏 맛있는 레스토랑",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Mạc Đĩnh Chi",
+    "location": {
+      "lat": 11.9401647,
+      "lon": 108.4263992
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "666cd88f673bc55e",
+    "name": "Tiệm nướng trong rừng",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Đống Đa",
+    "location": {
+      "lat": 11.9232487,
+      "lon": 108.444273
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "6ab2d076c8ee5e76",
+    "name": "Tiệm Nướng Ú Nu",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Đường Trần Đại Nghĩa",
+    "location": {
+      "lat": 11.9722431,
+      "lon": 108.4514476
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "61682905d638923d",
+    "name": "Atispho - Phở Atiso Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phạm Hồng Thái",
+    "location": {
+      "lat": 11.9410632,
+      "lon": 108.4553803
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "4c927e8a866cd8ba",
+    "name": "HongKong Quán",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Bội Châu",
+    "location": {
+      "lat": 11.9446253,
+      "lon": 108.4381392
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d86e05ad8bb2f60c",
+    "name": "Buffet Rau - Green Bean",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Tử Lực",
+    "location": {
+      "lat": 11.9724109,
+      "lon": 108.4521923
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5c11153297764e2c",
+    "name": "Lẩu Nướng An Dương Vương",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ngô Quyền",
+    "location": {
+      "lat": 11.9514534,
+      "lon": 108.4300619
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8aa0601edcb9bb1c",
+    "name": "Tiệm Nướng Mr.Right",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hoàng Hoa Thám",
+    "location": {
+      "lat": 11.9385322,
+      "lon": 108.4636041
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "81a26c8a328a7234",
+    "name": "Tiệm bánh căn Gì Đó",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9235386,
+      "lon": 108.444392
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "769cb4fb562cd778",
+    "name": "Tiệm nướng Hoàng Hôn",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hùng Vương",
+    "location": {
+      "lat": 11.9380932,
+      "lon": 108.483487
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b49f986db3c8c898",
+    "name": "Quán nướng XuChi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hoàng Hoa Thám",
+    "location": {
+      "lat": 11.9336889,
+      "lon": 108.4680547
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d2d3e009c8c331b7",
+    "name": "Hương Quán Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trần Bình Trọng",
+    "location": {
+      "lat": 11.9431476,
+      "lon": 108.4254704
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3a063b4673fc1436",
+    "name": "Chợ Phiên Quán - Trọn vẹn Ẩm Thực cao nguyên",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Sư Vạn Hạnh",
+    "location": {
+      "lat": 11.964995,
+      "lon": 108.4459678
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "fec2a6aee08fca11",
+    "name": "20 Forest BBQ and More",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trần Quang Diệu",
+    "location": {
+      "lat": 11.9421604,
+      "lon": 108.4667701
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8c6ecadd4c9b4fa6",
+    "name": "Nướng Đà Lạt và Em",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ba Tháng Tư",
+    "location": {
+      "lat": 11.9281974,
+      "lon": 108.4475566
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "063df9ecc72a3e6d",
+    "name": "Tiệm nướng Mùa Thu",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Đống Đa",
+    "location": {
+      "lat": 11.9227028,
+      "lon": 108.4406613
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "24cdd80e6442a935",
+    "name": "Khách Sạn Dragon King I",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9454439,
+      "lon": 108.4391519
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "75ae76ade691f2c8",
+    "name": "Tiệm nướng Khói Thông",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ba Tháng Tư",
+    "location": {
+      "lat": 11.9293283,
+      "lon": 108.4488477
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "90886fd9c062faf6",
+    "name": "Phở gà trống thiến",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Tương Phố",
+    "location": {
+      "lat": 11.947158,
+      "lon": 108.4617665
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "677ef8445e845106",
+    "name": "Queen T&T Hotel",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9480253,
+      "lon": 108.435616
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a7bad77b93bfc2d2",
+    "name": "Bếp Khói - Sườn Cay Khổng Lồ Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Chu Trinh",
+    "location": {
+      "lat": 11.9511723,
+      "lon": 108.4654011
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "97fbf029e72d06ac",
+    "name": "Hoàng hôn xóm Ièo BBQ & More",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Huỳnh Tấn Phát",
+    "location": {
+      "lat": 11.9529391,
+      "lon": 108.4930971
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0ea85878db405875",
+    "name": "Quán Cao Nguyên",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Tự Phước",
+    "location": {
+      "lat": 11.9400539,
+      "lon": 108.4838815
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "4d644129a819eb7d",
+    "name": "Tiệm Nướng Trên Mây",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Đặng Thái Thân",
+    "location": {
+      "lat": 11.9293955,
+      "lon": 108.4487933
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "05b947f93c22c2c5",
+    "name": "Bún Bò Huế Công",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phù Đổng Thiên Vương",
+    "location": {
+      "lat": 11.9580964,
+      "lon": 108.4426667
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "6d479e57629ca7f9",
+    "name": "Quán nướng Lơ-ghim Grill & Chill Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Võ Trường Toản",
+    "location": {
+      "lat": 11.9593974,
+      "lon": 108.4457123
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a892f6bf17dd57f5",
+    "name": "Quán lẩu gà lá é Tao ngộ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phù Đổng Thiên Vương",
+    "location": {
+      "lat": 11.9606692,
+      "lon": 108.442375
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5f05a4831cbb62e0",
+    "name": "Mi Shiitake",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9298778,
+      "lon": 108.4323241
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0dc14ed7a6839300",
+    "name": "Lão Ðen Quán Phó bò",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9424293,
+      "lon": 108.4343106
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5b6b61e6947dd5c4",
+    "name": "Bếp Chay Thiên Bình",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9398369,
+      "lon": 108.434728
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "80953c8bb62feacf",
+    "name": "Kapi Café - Café Capybara Đà Lạt",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9479819,
+      "lon": 108.5001381
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3b9f05156e6a9d8e",
+    "name": "Tiệm nướng Trạm Dừng Chill",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Huỳnh Tấn Phát",
+    "location": {
+      "lat": 11.9540635,
+      "lon": 108.4945962
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "bcaa0853824dbcc3",
+    "name": "An Lạc Tâm Chay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9477513,
+      "lon": 108.4400669
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e506744386dfa421",
+    "name": "Moto Laurie",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Ngô Thì Sĩ",
+    "location": {
+      "lat": 11.9326659,
+      "lon": 108.4264109
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "cd369b0e385c84a0",
+    "name": "Hủ Tiếu Chay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn An Ninh",
+    "location": {
+      "lat": 11.9540977,
+      "lon": 108.4287495
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "eabb8c45fab3e32b",
+    "name": "Pétit duong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Lý Tự Trọng",
+    "location": {
+      "lat": 11.947356,
+      "lon": 108.4377714
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "10458bf83afb37ba",
+    "name": "Datana",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bạch Đằng",
+    "location": {
+      "lat": 11.9606725,
+      "lon": 108.425285
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "85d54d8fe1b78e7b",
+    "name": "Thế Giới Hải Sản Bé Chi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Bạch Đằng",
+    "location": {
+      "lat": 11.9624798,
+      "lon": 108.4249813
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d95b3c5d44772860",
+    "name": "Le Alpi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9547809,
+      "lon": 108.4356637
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0362615caee5d129",
+    "name": "The Tasty House",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Nguyễn Lương Bằng",
+    "location": {
+      "lat": 11.9534012,
+      "lon": 108.4368084
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "2dd0d60af08bccce",
+    "name": "SaSin",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9507321,
+      "lon": 108.4392164
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f043a9face65da2c",
+    "name": "Mẹ Con Huế",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9602298,
+      "lon": 108.4252342
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "5025d4d8034787be",
+    "name": "Hóa Dalat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "An Dương Vương",
+    "location": {
+      "lat": 11.9546327,
+      "lon": 108.4358561
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d64ce972a5728820",
+    "name": "Lee's Pizza House",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9423005,
+      "lon": 108.4312179
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "a756a95dc393456f",
+    "name": "Muối Tiêu Chanh",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9514662,
+      "lon": 108.4363506
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "52b3a1e8aaaa2ca6",
+    "name": "Furin",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Thi Sách",
+    "location": {
+      "lat": 11.9486165,
+      "lon": 108.4315123
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "44b8d5d55d7ead35",
+    "name": "Thông Xưa",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Thông Thiên Học",
+    "location": {
+      "lat": 11.955402,
+      "lon": 108.4363599
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "24db0eedd39f967d",
+    "name": "Thành Trần",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Thông Thiên Học",
+    "location": {
+      "lat": 11.9548281,
+      "lon": 108.4369037
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "acd08dec987facc2",
+    "name": "Lạt Chay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.944306,
+      "lon": 108.4650691
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "01e3401819cd8c43",
+    "name": "Chay Corner",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9487225,
+      "lon": 108.437429
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "398a2ea6a99d033d",
+    "name": "Oh Mi Quán Chay & Cà Phê",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9416471,
+      "lon": 108.4515503
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "f61973ad3b44c9d3",
+    "name": "Quán Chay Tu Tâm",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9245104,
+      "lon": 108.4242018
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b1bb969d784b82a8",
+    "name": "Shree Ganesha Indian Restaurant",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Thủ Khoa Huân",
+    "location": {
+      "lat": 11.9413487,
+      "lon": 108.4336746
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "738570b1f9c9ee05",
+    "name": "Bánh Căn Út Cưng",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9438782,
+      "lon": 108.4342971
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "7b9d75a2e59a61be",
+    "name": "An Lạc Tâm",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Phạm Ngũ Lão",
+    "location": {
+      "lat": 11.9379961,
+      "lon": 108.4347804
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b527cc13d3a22114",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9444898,
+      "lon": 108.4997276
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "c05e2d51e35cea74",
+    "name": "Bánh tráng nướng Trang",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.951597,
+      "lon": 108.4293074
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "6598b395fd2a3982",
+    "name": "Bếp Cậu Ba",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9350531,
+      "lon": 108.4302665
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "94a781efd31f8d51",
+    "name": "Bồ Đề Chay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Xô Viết Nghệ Tĩnh",
+    "location": {
+      "lat": 11.9675212,
+      "lon": 108.4292924
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "16dbf7c57f88ca32",
+    "name": "Huong Dong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9435648,
+      "lon": 108.4288862
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "4540b636f7c4120e",
+    "name": "Hỷ Lạc Chay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 11.943736,
+      "lon": 108.4314565
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "1575c6904d6ed2f4",
+    "name": "Me Ơi",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Hoàng Diệu",
+    "location": {
+      "lat": 11.9418125,
+      "lon": 108.4284111
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "783c38d193f2c1cf",
+    "name": "Dồng Quê",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9505744,
+      "lon": 108.4329231
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3992ff5bb62f2056",
+    "name": "Nhà Tấm Buffet Chay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 11.9379095,
+      "lon": 108.4325028
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "142d7683857c408c",
+    "name": "Viet Tra Thuc",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9404411,
+      "lon": 108.4314091
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "14440d97badbb88a",
+    "name": "Quân Chay Mandala",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9261565,
+      "lon": 108.4295212
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "22e1dbd616d5fdbc",
+    "name": "Bo Bi Cuon",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9567054,
+      "lon": 108.43833
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "38774e7fcf22da36",
+    "name": "Quan Que Huong",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.957023,
+      "lon": 108.4360955
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "92440d75ce294cd5",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.956625,
+      "lon": 108.4381181
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "037bd508f16bd63e",
+    "name": "Tuan De 2",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9570369,
+      "lon": 108.436457
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "7d8927fb51d37e8a",
+    "name": "Nha Shin - Pho",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9564194,
+      "lon": 108.4350249
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d19ebd94586fd1b3",
+    "name": "Barn House",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9568166,
+      "lon": 108.4351769
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "40e9413ff455a475",
+    "name": "seafood",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9556174,
+      "lon": 108.4336344
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "97b97f63060f96e7",
+    "name": "Pho",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.952003,
+      "lon": 108.4329907
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3e828e2f31cc9fca",
+    "name": "Kiri Izakaya",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9447299,
+      "lon": 108.4347869
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "bd902fa6cf6be389",
+    "name": "seafood",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9477214,
+      "lon": 108.4370413
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "6a87c3238ab6503b",
+    "name": "Duc Nhat",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9486868,
+      "lon": 108.4393162
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "3235490c40f2fc72",
+    "name": "Huong Lam Tua Quan",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.947938,
+      "lon": 108.4398749
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "758ebdae88c204b0",
+    "name": "Pho",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9501428,
+      "lon": 108.4344375
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0bd6766217a1cff2",
+    "name": "Pho",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9485794,
+      "lon": 108.4392968
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "7a0694a95ee9870e",
+    "name": "pho bat dan",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9479795,
+      "lon": 108.439699
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "0f0a4df33d532566",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9472347,
+      "lon": 108.4358113
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "452868b63f747f00",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9485044,
+      "lon": 108.4393429
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "c879ed1a46ef6c69",
+    "name": "Tuyen 2",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9530566,
+      "lon": 108.4322763
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "7175781d8951cccd",
+    "name": "Pho",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9519793,
+      "lon": 108.4329276
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8710e6fc3b4a8fe2",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.955707,
+      "lon": 108.4372195
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "b5b5914f77e97cc6",
+    "name": "Tau Cau",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9471983,
+      "lon": 108.435701
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "8e70d47f1fb4c585",
+    "name": "BBQ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9524915,
+      "lon": 108.4376996
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "e38943fddccb779b",
+    "name": "BBQ",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9524942,
+      "lon": 108.4375459
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ef4b67ee08297222",
+    "name": "Phui Steak",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9529067,
+      "lon": 108.4372013
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "d4dcbb14d91ab622",
+    "name": "Tuyen 1",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9552524,
+      "lon": 108.4364095
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "df177cb738cd3a86",
+    "name": "HEM",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9506565,
+      "lon": 108.4347479
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "ce3f09beea68ca9a",
+    "name": "Gaoooo",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.956966,
+      "lon": 108.4358974
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "701038e9a7715c6b",
+    "name": "Cu Tay",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9525913,
+      "lon": 108.4355978
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "941bb6e0c8309243",
+    "name": "Hot Pot",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9545857,
+      "lon": 108.4326403
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  },
+  {
+    "u_key": "063400e5e59d25ba",
+    "name": "Unnamed",
+    "type": "restaurant",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9747958,
+      "lon": 108.4398341
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:27.177523"
+  }
+]

@@ -1,0 +1,173 @@
+{
+  "u_key": "5bba7e9467bf283a",
+  "original_osm_name": "Aura Mixology & Karaoke",
+  "google_raw": {
+    "formatted_phone_number": "0901 111 069",
+    "geometry": {
+      "location": {
+        "lat": 16.469651,
+        "lng": 107.5953569
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.47103893029151,
+          "lng": 107.5967508802915
+        },
+        "southwest": {
+          "lat": 16.4683409697085,
+          "lng": 107.5940529197085
+        }
+      }
+    },
+    "name": "AURA Cocktail Bar",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–00:00",
+        "Thứ Ba: 17:00–00:00",
+        "Thứ Tư: 17:00–00:00",
+        "Thứ Năm: 17:00–00:00",
+        "Thứ Sáu: 17:00–00:00",
+        "Thứ Bảy: 17:00–00:00",
+        "Chủ Nhật: 17:00–00:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Thiện Nguyễn Hữu",
+        "author_url": "https://www.google.com/maps/contrib/103658588868878817782/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeoL_6R7eoL3pha2vTUvWWMMsReMOo6ivXmqMecK673Uy14IKg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trải nghiệm nhìn chung rất vui. Mình đi 1 mình, trò chuyện cùng bartender khá vui. Mình gọi 3 món Floating Cloud, Đêm Cung Đình và The Legend. 3 món rất khác biệt và mang đến những trải nghiệm rất đặc trưng cho mình.\nQuán khá chill, nhạc vừa đủ để trò chuyện cũng như để chill thư giãn.\nNên trải nghiệm nha mọi người 😁😁",
+        "time": 1769186452,
+        "translated": false
+      },
+      {
+        "author_name": "ThuHau Ng",
+        "author_url": "https://www.google.com/maps/contrib/110826304009055446526/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLR0xDfMqgaFSR4ovD-5SaJs58PZllRbKh6gDv4BkTmrQljfKk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ uống ngon hehe\nKhông biết cốc xanh là vị gì nhỉ. Về Hnoi chỉ muốn uống vị này thui mà khong có:(",
+        "time": 1772527276,
+        "translated": false
+      },
+      {
+        "author_name": "Như Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/114677693511459986587/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLlaNuoK_23QrakE7elI6LQlv4HK2Tm5MdTCtgqSqlGAh_qQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đây là lần đầu tiên mình đến quán cùng với bạn. Bầu không khí rất chill, quán decor đẹp và nhân viên vô cùng thân thiện. Nước cũng rất ngon nên rất mong mọi người có dịp hãy ghé quán trải nghiệm nhé : )",
+        "time": 1772722770,
+        "translated": false
+      },
+      {
+        "author_name": "Trí Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101440568890774447244/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuvNvQVijAm-8koVpFwqpq-PoEa4gj-YDPlohDKS3_2y73oCpp=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bar trang trí rất phong cách và đặc biệt. Nhiều góc chụp hình cực đỉnh nha. Rượu ngon, bartender pha chế rất hợp khẩu vị. Nhược điểm là bar nhưng đóng cửa hơi sớm. Cực đáng thử và trải nghiệm nha.",
+        "time": 1766852706,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Trang Trần",
+        "author_url": "https://www.google.com/maps/contrib/113482855897860376089/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBUZWL9Oqrgs04F2xoIZFPTQ5k_Z6x3a3nIuWEGTE_BEeeWg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nước uống ngon, nhân viên thân thiện & tận tâm tư vấn. Mình ngồi ngay quầy bar thấy các bạn pha chế cũng rất thú vị",
+        "time": 1770568063,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 790
+  },
+  "harvested_at": "2026-04-30T16:07:12.992927"
+}

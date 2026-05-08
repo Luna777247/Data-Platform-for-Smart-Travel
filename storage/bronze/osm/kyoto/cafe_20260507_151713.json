@@ -1,0 +1,1874 @@
+{
+  "city": "kyoto",
+  "category": "cafe",
+  "timestamp": "20260507_151713",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 274057182,
+      "lat": 35.024421,
+      "lon": 135.7963664,
+      "timestamp": "2015-06-27T01:15:19Z",
+      "version": 2,
+      "changeset": 32235162,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "name": "珈琲店　再願"
+      }
+    },
+    {
+      "type": "node",
+      "id": 503840938,
+      "lat": 34.7808312,
+      "lon": 135.7880785,
+      "timestamp": "2014-01-16T07:18:07Z",
+      "version": 2,
+      "changeset": 20028613,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "cafe",
+        "name": "コーヒーハウス ツタヤ",
+        "name:en": "Coffee House TSUTAYA",
+        "name:ja": "コーヒーハウス ツタヤ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 538376358,
+      "lat": 35.0294728,
+      "lon": 135.7912924,
+      "timestamp": "2013-04-09T10:09:36Z",
+      "version": 4,
+      "changeset": 15664240,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "World Coffee",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601840000,
+      "lat": 34.987043,
+      "lon": 135.7572705,
+      "timestamp": "2024-10-30T20:39:01Z",
+      "version": 11,
+      "changeset": 158558486,
+      "user": "mneko",
+      "uid": 158194,
+      "tags": {
+        "amenity": "cafe",
+        "branch": "京都駅前店",
+        "brand": "カフェ・ベローチェ",
+        "brand:en": "CAFFÈ VELOCE",
+        "brand:ja": "カフェ・ベローチェ",
+        "brand:wikidata": "Q11294597",
+        "brand:wikipedia": "ja:カフェ・ベローチェ",
+        "contact:website": "https://chatnoir-company.com/chatnoir/ShopSearch?shop_code=359",
+        "cuisine": "coffee_shop",
+        "name": "カフェ・ベローチェ",
+        "name:en": "CAFE VELOCE",
+        "name:ja": "カフェ・ベローチェ",
+        "name:ja_rm": "Kafe Beroche",
+        "opening_hours": "Mo-Su 06:30-22:45",
+        "phone": "+81 75 342 5165",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 603133272,
+      "lat": 35.0091609,
+      "lon": 135.7712032,
+      "timestamp": "2024-09-16T13:42:12Z",
+      "version": 6,
+      "changeset": 156689289,
+      "user": "Alt9800",
+      "uid": 15676887,
+      "tags": {
+        "amenity": "cafe",
+        "branch": "京都三条大橋店",
+        "branch:en": "Kyoto Sanjo Oohashi",
+        "brand": "スターバックス",
+        "brand:en": "Starbucks",
+        "brand:ja": "スターバックス",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "ja:スターバックス",
+        "check_date": "2024-09-16",
+        "cuisine": "coffee_shop",
+        "description": "夏季は鴨川沿いの納涼床として野外に席が設けられます。例年22時まで実施。",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "official_name": "スターバックスコーヒー",
+        "official_name:en": "Starbucks Coffee",
+        "official_name:ja": "スターバックスコーヒー",
+        "opening_hours": "08:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 796933153,
+      "lat": 35.0112918,
+      "lon": 135.7566297,
+      "timestamp": "2010-06-30T12:26:16Z",
+      "version": 1,
+      "changeset": 5113152,
+      "user": "t3rkwd",
+      "uid": 187575,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Lugol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810650908,
+      "lat": 34.9992698,
+      "lon": 135.7598895,
+      "timestamp": "2011-06-05T03:11:08Z",
+      "version": 2,
+      "changeset": 8344790,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "高木珈琲店"
+      }
+    },
+    {
+      "type": "node",
+      "id": 810650909,
+      "lat": 34.9983659,
+      "lon": 135.7598783,
+      "timestamp": "2012-05-07T13:34:23Z",
+      "version": 3,
+      "changeset": 11529116,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Grace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 944827544,
+      "lat": 35.0339768,
+      "lon": 135.7243936,
+      "timestamp": "2017-08-14T16:48:33Z",
+      "version": 3,
+      "changeset": 51116065,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "cafe",
+        "name": "喫茶ゆんげ",
+        "name:en": "Cafe Yunge",
+        "name:ja": "喫茶ゆんげ",
+        "name:ja-Latn": "Kissa Yunge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 951780189,
+      "lat": 35.0256439,
+      "lon": 135.794915,
+      "timestamp": "2010-10-16T16:33:21Z",
+      "version": 1,
+      "changeset": 6059243,
+      "user": "tosseto",
+      "uid": 194284,
+      "tags": {
+        "amenity": "cafe",
+        "name": "GOSPEL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1019518193,
+      "lat": 34.9323664,
+      "lon": 135.7069341,
+      "timestamp": "2021-09-07T03:16:43Z",
+      "version": 6,
+      "changeset": 110826294,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "和気藹々",
+        "source": "survey, Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1026370833,
+      "lat": 34.9546931,
+      "lon": 135.7091584,
+      "timestamp": "2013-12-19T01:48:55Z",
+      "version": 5,
+      "changeset": 19524755,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Wonder Land",
+        "source": "survey, Bing 3/29/2010"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1150414097,
+      "lat": 34.9515968,
+      "lon": 135.7018608,
+      "timestamp": "2013-08-16T03:24:05Z",
+      "version": 3,
+      "changeset": 17367013,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "シェ・ココ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1243276554,
+      "lat": 34.8144115,
+      "lon": 135.7020493,
+      "timestamp": "2021-07-10T09:17:50Z",
+      "version": 4,
+      "changeset": 107739869,
+      "user": "Yuxian",
+      "uid": 10084645,
+      "tags": {
+        "amenity": "cafe",
+        "branch": "藤阪駅前店",
+        "brand": "珈琲館",
+        "brand:en": "Kohikan",
+        "brand:ja": "珈琲館",
+        "brand:wikidata": "Q11573290",
+        "brand:wikipedia": "ja:珈琲館",
+        "cuisine": "coffee_shop",
+        "name": "珈琲館",
+        "name:en": "Kohikan",
+        "name:ja": "珈琲館",
+        "operator": "ユーシーシーフードサービスシステムズ株式会社",
+        "source": "knowledge",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1377426927,
+      "lat": 34.6830115,
+      "lon": 135.8277016,
+      "timestamp": "2025-05-01T01:21:28Z",
+      "version": 2,
+      "changeset": 165656326,
+      "user": "RobJN",
+      "uid": 411244,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2025-05-01",
+        "name": "シャトードール (Château d'or)",
+        "name:en": "Château d'or",
+        "name:ja": "シャトードール",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1387159222,
+      "lat": 34.6866113,
+      "lon": 135.8262137,
+      "timestamp": "2023-09-05T09:55:14Z",
+      "version": 4,
+      "changeset": 140841788,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2023-09-05",
+        "level": "0",
+        "name": "カフェバルドー",
+        "name:ja": "カフェバルドー",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402492038,
+      "lat": 34.6838507,
+      "lon": 135.8286671,
+      "timestamp": "2021-03-23T14:50:23Z",
+      "version": 4,
+      "changeset": 101582624,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "cake",
+        "name": "銀杏や(ichoya)",
+        "name:en": "ichoya",
+        "name:ja": "銀杏や",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402530863,
+      "lat": 34.6832703,
+      "lon": 135.8283248,
+      "timestamp": "2011-08-17T17:19:11Z",
+      "version": 1,
+      "changeset": 9049834,
+      "user": "nrjs",
+      "uid": 479896,
+      "tags": {
+        "amenity": "cafe",
+        "name": "フロレスタ（FLORESTA）",
+        "name:en": "FLORESTA",
+        "name:ja": "フロレスタ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1402530883,
+      "lat": 34.6832581,
+      "lon": 135.8284168,
+      "timestamp": "2019-02-12T11:59:47Z",
+      "version": 3,
+      "changeset": 67129062,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "珈琲豆専門店 羅漢",
+        "name:en": "Rakan",
+        "name:ja": "珈琲豆専門店 羅漢"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412130063,
+      "lat": 34.683634,
+      "lon": 135.827525,
+      "timestamp": "2025-12-29T00:15:30Z",
+      "version": 3,
+      "changeset": 176553097,
+      "user": "Iamsheps",
+      "uid": 21975255,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "ロクメイコーヒー奈良店",
+        "name:en": "Rokumei Coffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1412130075,
+      "lat": 34.683886,
+      "lon": 135.826754,
+      "timestamp": "2018-07-30T03:34:16Z",
+      "version": 4,
+      "changeset": 61178976,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "cafe",
+        "name": "シャンブル",
+        "name:en": "Chambre",
+        "name:fr": "Chambre",
+        "name:ja": "シャンブル"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1435033888,
+      "lat": 35.0038454,
+      "lon": 135.7578904,
+      "timestamp": "2024-10-28T02:47:30Z",
+      "version": 4,
+      "changeset": 158437612,
+      "user": "Alt9800",
+      "uid": 15676887,
+      "tags": {
+        "amenity": "cafe",
+        "branch": "四条室町店",
+        "check_date": "2024-10-28",
+        "name": "Holly's Cafe",
+        "name:en": "Holly's Cafe",
+        "name:ja": "ホリーズカフェ",
+        "opening_hours": "07:00-23:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1475623032,
+      "lat": 34.691434,
+      "lon": 135.8223017,
+      "timestamp": "2021-12-17T07:08:59Z",
+      "version": 3,
+      "changeset": 115038533,
+      "user": "akotokoto",
+      "uid": 14487099,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Makekura",
+        "name:ja": "豆蔵"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1483765556,
+      "lat": 34.6851411,
+      "lon": 135.7547301,
+      "timestamp": "2024-04-13T04:04:58Z",
+      "version": 4,
+      "changeset": 149934868,
+      "user": "Yuh_4151",
+      "uid": 21293085,
+      "tags": {
+        "amenity": "cafe",
+        "branch": "学園大和町店",
+        "brand": "ミニストップ",
+        "name": "上高地あずさ珈琲 学園前店",
+        "opening_hours": "24/7",
+        "phone": "+81 742 46 2245",
+        "website": "http://ministop.co.jp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1496152583,
+      "lat": 34.7010046,
+      "lon": 135.7328431,
+      "timestamp": "2016-04-10T16:47:46Z",
+      "version": 3,
+      "changeset": 38455460,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "addr:postcode": "631-0074",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "ケーキプレイス mingyun",
+        "source": "bing (Nov. 2011)",
+        "wifi": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1496165541,
+      "lat": 34.6798147,
+      "lon": 135.831538,
+      "timestamp": "2016-08-01T14:44:35Z",
+      "version": 2,
+      "changeset": 41169670,
+      "user": "Daichizu",
+      "uid": 870675,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1497077689,
+      "lat": 34.7256877,
+      "lon": 135.7188519,
+      "timestamp": "2024-08-04T02:26:45Z",
+      "version": 6,
+      "changeset": 154794528,
+      "user": "Yuh_4151",
+      "uid": 21293085,
+      "tags": {
+        "amenity": "cafe",
+        "branch": "生駒店",
+        "brand": "コメダ珈琲店",
+        "cuisine": "coffee_shop",
+        "name": "コメダ珈琲店",
+        "name:en": "Komeda",
+        "name:ja": "コメダ珈琲店",
+        "name:ja_rm": "Komeda Kohi-ten"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1536242465,
+      "lat": 34.6835157,
+      "lon": 135.8288239,
+      "timestamp": "2018-07-30T03:34:16Z",
+      "version": 4,
+      "changeset": 61178976,
+      "user": "topstone",
+      "uid": 1696339,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "italian",
+        "name": "フルーク",
+        "name:en": "Fluke",
+        "name:ja": "フルーク",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1539094010,
+      "lat": 35.0311785,
+      "lon": 135.7262548,
+      "timestamp": "2011-12-10T06:39:01Z",
+      "version": 1,
+      "changeset": 10078605,
+      "user": "iguana",
+      "uid": 564762,
+      "tags": {
+        "amenity": "cafe",
+        "name": "音楽喫茶　ムジーク"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1541947490,
+      "lat": 35.0330951,
+      "lon": 135.7277011,
+      "timestamp": "2011-12-12T08:01:09Z",
+      "version": 1,
+      "changeset": 10096571,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "international",
+        "name": "ロイズガーデン"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1541987335,
+      "lat": 35.0330994,
+      "lon": 135.7214683,
+      "timestamp": "2019-03-07T23:55:38Z",
+      "version": 2,
+      "changeset": 67904496,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "cafe",
+        "name": "やまねこ軒",
+        "name:en": "Yamaneko-ken"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1542082261,
+      "lat": 35.0286298,
+      "lon": 135.7312079,
+      "timestamp": "2024-08-17T12:06:49Z",
+      "version": 4,
+      "changeset": 155367832,
+      "user": "dressed-pleasekin",
+      "uid": 11175011,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2023-08-16",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Habour Cafe",
+        "opening_hours": "24/7",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1585375442,
+      "lat": 35.0321175,
+      "lon": 135.7275846,
+      "timestamp": "2012-01-11T06:54:46Z",
+      "version": 1,
+      "changeset": 10358018,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1596279716,
+      "lat": 35.0316128,
+      "lon": 135.7312853,
+      "timestamp": "2014-04-09T12:50:02Z",
+      "version": 2,
+      "changeset": 21588580,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1596279717,
+      "lat": 35.0280102,
+      "lon": 135.7155618,
+      "timestamp": "2012-01-18T13:49:48Z",
+      "version": 1,
+      "changeset": 10427642,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1596279722,
+      "lat": 35.0316067,
+      "lon": 135.7306975,
+      "timestamp": "2019-03-12T14:28:30Z",
+      "version": 2,
+      "changeset": 68064551,
+      "user": "geeooo",
+      "uid": 383488,
+      "tags": {
+        "amenity": "cafe",
+        "name": "ルヴァンクレール"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1621848944,
+      "lat": 34.9353107,
+      "lon": 135.7608307,
+      "timestamp": "2012-02-07T16:48:02Z",
+      "version": 1,
+      "changeset": 10613893,
+      "user": "nyampire",
+      "uid": 378532,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Kiriyama Coffee",
+        "source": "survey, bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1621848949,
+      "lat": 34.9309361,
+      "lon": 135.7598736,
+      "timestamp": "2019-11-23T07:56:47Z",
+      "version": 3,
+      "changeset": 77453303,
+      "user": "T Sayama",
+      "uid": 10454879,
+      "tags": {
+        "amenity": "cafe",
+        "level": "0",
+        "name": "きた家",
+        "source": "survey, bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1621849295,
+      "lat": 34.9300162,
+      "lon": 135.7614012,
+      "timestamp": "2022-02-12T07:19:28Z",
+      "version": 3,
+      "changeset": 117311452,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "amenity": "cafe",
+        "name": "伏見夢百衆",
+        "shop": "alcohol",
+        "source": "survey, bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1671466672,
+      "lat": 34.9113252,
+      "lon": 135.6989842,
+      "timestamp": "2024-08-08T12:51:12Z",
+      "version": 3,
+      "changeset": 154977698,
+      "user": "K_Sakanoshita",
+      "uid": 389520,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "japanese",
+        "name": "すいーと"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1674139616,
+      "lat": 35.0424339,
+      "lon": 135.7473998,
+      "timestamp": "2012-03-14T03:52:07Z",
+      "version": 1,
+      "changeset": 10974227,
+      "user": "kai562",
+      "uid": 627987,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "french",
+        "name": "CAFE DU MON",
+        "wifi": "free"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1708306676,
+      "lat": 35.0551898,
+      "lon": 135.741006,
+      "timestamp": "2012-04-09T11:07:11Z",
+      "version": 1,
+      "changeset": 11236657,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "パル",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1708306682,
+      "lat": 35.0664972,
+      "lon": 135.7427863,
+      "timestamp": "2012-04-09T11:07:11Z",
+      "version": 1,
+      "changeset": 11236657,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "時計屋",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1708306687,
+      "lat": 35.061786,
+      "lon": 135.7438821,
+      "timestamp": "2016-09-20T12:01:39Z",
+      "version": 2,
+      "changeset": 42297045,
+      "user": "taki3hira",
+      "uid": 1948193,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafe de miku",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1711327974,
+      "lat": 35.0511268,
+      "lon": 135.7412168,
+      "timestamp": "2012-04-11T11:39:39Z",
+      "version": 1,
+      "changeset": 11263930,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "ソニアコーヒー",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720467003,
+      "lat": 35.0137125,
+      "lon": 135.7641721,
+      "timestamp": "2016-06-07T13:14:32Z",
+      "version": 6,
+      "changeset": 39861117,
+      "user": "jackprestonuk",
+      "uid": 4008689,
+      "tags": {
+        "addr:street": "二条通",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "name": "Cafe Bibliotic Hello! ",
+        "source": "Bing; survey",
+        "wheelchair": "no",
+        "wheelchair:description": "入口の段差は少ないが、トイレは狭い"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1721664201,
+      "lat": 34.4832575,
+      "lon": 135.7938333,
+      "timestamp": "2025-04-15T02:49:05Z",
+      "version": 5,
+      "changeset": 164963247,
+      "user": "桜吹雪",
+      "uid": 19135489,
+      "tags": {
+        "addr:block_number": "618",
+        "addr:city": "橿原市",
+        "addr:neighbourhood": "久米町",
+        "addr:postcode": "634-0063",
+        "addr:province": "奈良県",
+        "amenity": "cafe",
+        "branch": "近鉄橿原神宮前駅店",
+        "brand": "ドトール",
+        "brand:en": "DOUTOR",
+        "brand:ja": "ドトール",
+        "brand:wikidata": "Q11322732",
+        "brand:wikipedia": "ja:ドトールコーヒーショップ",
+        "cuisine": "coffee_shop",
+        "name": "ドトールコーヒーショップ",
+        "name:en": "Doutor Coffee Shop",
+        "name:ja": "ドトールコーヒーショップ",
+        "name:ja_rm": "Dotoru Kohi Shoppu",
+        "short_name": "DCS",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1721783254,
+      "lat": 35.0493062,
+      "lon": 135.751711,
+      "timestamp": "2012-04-18T13:21:11Z",
+      "version": 1,
+      "changeset": 11344003,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "COFFE SHOP MAKI",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1727573526,
+      "lat": 35.0412996,
+      "lon": 135.7819855,
+      "timestamp": "2012-07-14T15:58:57Z",
+      "version": 2,
+      "changeset": 12214085,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "cafe",
+        "name": "大垣書店＆coffee",
+        "source": "survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1736805792,
+      "lat": 34.6970126,
+      "lon": 135.7504793,
+      "timestamp": "2020-10-08T17:06:54Z",
+      "version": 5,
+      "changeset": 92187600,
+      "user": "Yukinobu Koyama",
+      "uid": 3703864,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "ドトールコーヒーショップ",
+        "brand:en": "Doutor",
+        "brand:ja": "ドトールコーヒーショップ",
+        "brand:wikidata": "Q11322732",
+        "brand:wikipedia": "ja:ドトールコーヒーショップ",
+        "cuisine": "coffee_shop",
+        "description": "駅構内",
+        "name": "ドトールコーヒーショップ",
+        "name:en": "Doutor Coffee Shop",
+        "name:ja": "ドトールコーヒーショップ",
+        "name:ja-Latn": "Dotōru Kōhī Shoppu",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1737905997,
+      "lat": 34.6940239,
+      "lon": 135.7825723,
+      "timestamp": "2017-09-24T01:26:54Z",
+      "version": 2,
+      "changeset": 52316982,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "cafe",
+        "description": "駅構内",
+        "name": "CHAO PRESSO",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1739841360,
+      "lat": 35.0036798,
+      "lon": 135.7709339,
+      "timestamp": "2026-01-17T08:24:50Z",
+      "version": 6,
+      "changeset": 177326174,
+      "user": "HayaKoh",
+      "uid": 21636850,
+      "tags": {
+        "addr:block_number": "113",
+        "addr:city": "京都市",
+        "addr:full": "京都府京都市下京区四条通小橋東入橋本町",
+        "addr:neighbourhood": "橋本町",
+        "addr:postcode": "600-8011",
+        "addr:province": "京都府",
+        "addr:suburb": "下京区",
+        "amenity": "cafe",
+        "brand": "ドトール",
+        "brand:en": "DOUTOR",
+        "brand:ja": "ドトール",
+        "brand:wikidata": "Q11322732",
+        "brand:wikipedia": "ja:ドトールコーヒーショップ",
+        "cuisine": "coffee_shop",
+        "name": "ドトールコーヒーショップ",
+        "name:en": "Doutor Coffee Shop",
+        "name:ja": "ドトールコーヒーショップ",
+        "phone": "+81-75-223-0523",
+        "short_name": "DCS",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1739900034,
+      "lat": 35.0083652,
+      "lon": 135.7201329,
+      "timestamp": "2012-05-04T02:58:08Z",
+      "version": 1,
+      "changeset": 11494212,
+      "user": "ribbon",
+      "uid": 192905,
+      "tags": {
+        "amenity": "cafe",
+        "name": "アプリコ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1740068346,
+      "lat": 35.0303306,
+      "lon": 135.7489904,
+      "timestamp": "2016-01-27T16:48:12Z",
+      "version": 5,
+      "changeset": 36840663,
+      "user": "Uji-tokyo",
+      "uid": 3548841,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "逃現郷",
+        "name:en": "Togenkyo　(Shangri-La)",
+        "smoking": "yes",
+        "source": "survey",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1740834716,
+      "lat": 35.011366,
+      "lon": 135.6796256,
+      "timestamp": "2016-07-02T01:04:09Z",
+      "version": 3,
+      "changeset": 40430666,
+      "user": "_Yuki_K_",
+      "uid": 3933181,
+      "tags": {
+        "amenity": "cafe",
+        "name": "かるかや",
+        "name:en": "Karukaya",
+        "source": "survey;image,Bing,2007-12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1740834884,
+      "lat": 35.0117219,
+      "lon": 135.6772464,
+      "timestamp": "2023-09-09T00:02:41Z",
+      "version": 6,
+      "changeset": 141006191,
+      "user": "なっくん",
+      "uid": 17470600,
+      "tags": {
+        "amenity": "cafe",
+        "name": "渡月亭",
+        "name:en": "Togetsutei",
+        "name:ja": "渡月亭別館 松風閣",
+        "source": "survey;image,Bing,2007-12"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1774463562,
+      "lat": 35.028684,
+      "lon": 135.7819409,
+      "timestamp": "2024-12-11T11:10:09Z",
+      "version": 2,
+      "changeset": 160164095,
+      "user": "IidabashiTK",
+      "uid": 22235944,
+      "tags": {
+        "amenity": "cafe",
+        "level": "0",
+        "name": "進々堂",
+        "shop": "bakery",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1852762595,
+      "lat": 34.6820797,
+      "lon": 135.8237454,
+      "timestamp": "2023-09-05T09:55:14Z",
+      "version": 3,
+      "changeset": 140841788,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "珈琲館",
+        "brand:en": "Kohikan",
+        "brand:ja": "珈琲館",
+        "brand:wikidata": "Q11573290",
+        "check_date": "2023-09-05",
+        "cuisine": "coffee_shop",
+        "name": "珈琲館",
+        "name:en": "Kohikan",
+        "name:ja": "珈琲館",
+        "source": "survey; Bing",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1852762598,
+      "lat": 34.6818512,
+      "lon": 135.8236313,
+      "timestamp": "2023-09-11T12:33:51Z",
+      "version": 2,
+      "changeset": 141110632,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "cafe",
+        "name": "PINOCCHIO",
+        "source": "survey; Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1852762937,
+      "lat": 34.682076,
+      "lon": 135.822416,
+      "timestamp": "2023-09-05T09:55:14Z",
+      "version": 4,
+      "changeset": 140841788,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2023-09-05",
+        "contact:phone": "+81 742-26-7811",
+        "cuisine": "international",
+        "name": "大和cafe",
+        "source": "survey; Bing",
+        "toilets": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1852980821,
+      "lat": 34.6830261,
+      "lon": 135.8280865,
+      "timestamp": "2012-08-05T15:09:43Z",
+      "version": 1,
+      "changeset": 12621786,
+      "user": "nyampire",
+      "uid": 378532,
+      "tags": {
+        "amenity": "cafe",
+        "contact:phone": "0742-26-3700",
+        "name": "cafe cachette",
+        "source": "survey; Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1852980872,
+      "lat": 34.6825793,
+      "lon": 135.8288781,
+      "timestamp": "2023-10-05T12:49:30Z",
+      "version": 2,
+      "changeset": 142188591,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "donut",
+        "name": "フロレスタ",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1908972408,
+      "lat": 34.6831357,
+      "lon": 135.8292218,
+      "timestamp": "2023-10-05T12:49:30Z",
+      "version": 3,
+      "changeset": 142188591,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "amenity": "cafe",
+        "name": "そよご"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1911567324,
+      "lat": 34.9923365,
+      "lon": 135.8173643,
+      "timestamp": "2019-10-31T16:51:28Z",
+      "version": 4,
+      "changeset": 76459887,
+      "user": "Diego Sanguinetti",
+      "uid": 309382,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "スターバックス",
+        "brand:en": "Starbucks",
+        "brand:ja": "スターバックス",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "ja:スターバックス",
+        "cuisine": "coffee_shop",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "name:ja_rm": "Sutah-bakkusu",
+        "official_name": "スターバックスコーヒー",
+        "official_name:en": "Starbucks Coffee",
+        "official_name:ja": "スターバックスコーヒー",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1913733365,
+      "lat": 35.0042306,
+      "lon": 135.8802042,
+      "timestamp": "2019-03-31T03:43:26Z",
+      "version": 5,
+      "changeset": 68714424,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "addr:postcode": "520-0806",
+        "amenity": "cafe",
+        "branch": "大津パルコ店",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "name:ja_rm": "Sutah-bakkusu",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "スターバックスコーヒージャパン",
+        "phone": "+81-77-5277107",
+        "website": "https://www.starbucks.co.jp/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1914029674,
+      "lat": 34.9953162,
+      "lon": 135.7721769,
+      "timestamp": "2012-09-14T12:52:09Z",
+      "version": 1,
+      "changeset": 13107000,
+      "user": "datendelphin",
+      "uid": 97547,
+      "tags": {
+        "addr:housenumber": "3-396-2",
+        "amenity": "cafe",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Gojo Cafe",
+        "opening_hours": "Fr-We 13:00-22:00",
+        "smoking": "yes",
+        "website": "http://www.gojo-guest-house.com/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1937493474,
+      "lat": 34.9337487,
+      "lon": 135.8028498,
+      "timestamp": "2017-03-06T22:02:37Z",
+      "version": 2,
+      "changeset": 46636083,
+      "user": "wvdp",
+      "uid": 436419,
+      "tags": {
+        "amenity": "cafe",
+        "name": "ドッグカフェ ninnananna",
+        "opening_hours": "11:30-17:30",
+        "source": "Bing,2011-4",
+        "website": "http://www.tim.hi-ho.ne.jp/ninna/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1952113935,
+      "lat": 34.812687,
+      "lon": 135.7175285,
+      "timestamp": "2025-05-10T00:59:25Z",
+      "version": 3,
+      "changeset": 166050386,
+      "user": "icaro98",
+      "uid": 18455010,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "コメダcoffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1975282279,
+      "lat": 34.9268115,
+      "lon": 135.7490401,
+      "timestamp": "2025-02-13T07:03:49Z",
+      "version": 5,
+      "changeset": 162454696,
+      "user": "鵜飼　実幸",
+      "uid": 3217129,
+      "tags": {
+        "alt_name:zh": "星乃咖啡店",
+        "amenity": "cafe",
+        "brand": "星乃珈琲店",
+        "brand:en": "Hoshino Coffee",
+        "brand:ja": "星乃珈琲店",
+        "brand:wikidata": "Q88396880",
+        "cuisine": "coffee_shop",
+        "name": "星乃珈琲店",
+        "name:en": "Hoshino Coffee",
+        "name:ja": "星乃珈琲店",
+        "name:zh": "星乃珈琲店",
+        "source": "survey",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1976198949,
+      "lat": 34.8894748,
+      "lon": 135.7825867,
+      "timestamp": "2014-03-08T13:55:07Z",
+      "version": 2,
+      "changeset": 20987540,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "アムール",
+        "shop": "bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1977407703,
+      "lat": 35.0006998,
+      "lon": 135.7798093,
+      "timestamp": "2012-10-22T01:42:41Z",
+      "version": 2,
+      "changeset": 13587431,
+      "user": "Jolter",
+      "uid": 829750,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "layer": "1",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2005933800,
+      "lat": 34.5382569,
+      "lon": 135.8540765,
+      "timestamp": "2021-08-13T08:20:42Z",
+      "version": 4,
+      "changeset": 109613336,
+      "user": "TKE-waka",
+      "uid": 728316,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "japanese",
+        "name": "桧原休憩所",
+        "outdoor_seating": "yes",
+        "phone": "+81 744 43 7633",
+        "smoking": "separated",
+        "website": "https://sites.google.com/site/hibaraoyasumidokoro/home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2049643527,
+      "lat": 34.5798117,
+      "lon": 135.7123569,
+      "timestamp": "2020-10-08T10:03:27Z",
+      "version": 2,
+      "changeset": 92166001,
+      "user": "Yukinobu Koyama",
+      "uid": 3703864,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "japanese",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Nanatsumori"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2049670605,
+      "lat": 34.5897902,
+      "lon": 135.7116998,
+      "timestamp": "2026-01-29T14:12:43Z",
+      "version": 7,
+      "changeset": 177850012,
+      "user": "wheelmap_visitor",
+      "uid": 290680,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "スターバックス",
+        "brand:en": "Starbucks",
+        "brand:ja": "スターバックス",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "ja:スターバックス",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "name:ja_rm": "Sutah-bakkusu",
+        "official_name": "スターバックスコーヒー",
+        "official_name:en": "Starbucks Coffee",
+        "official_name:ja": "スターバックスコーヒー",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2078320831,
+      "lat": 35.0566393,
+      "lon": 135.766815,
+      "timestamp": "2012-12-22T07:10:36Z",
+      "version": 1,
+      "changeset": 14362806,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "グリル喫茶 池",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2080707127,
+      "lat": 34.933823,
+      "lon": 135.7045063,
+      "timestamp": "2013-12-19T01:48:57Z",
+      "version": 3,
+      "changeset": 19524755,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "響屋"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2094260858,
+      "lat": 34.9360704,
+      "lon": 135.7019857,
+      "timestamp": "2020-06-30T14:06:20Z",
+      "version": 3,
+      "changeset": 87352810,
+      "user": "Munkson",
+      "uid": 212445,
+      "tags": {
+        "amenity": "cafe",
+        "level": "0",
+        "name": "KARACOL",
+        "name:ja": "カラコル"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2108087239,
+      "lat": 34.7888908,
+      "lon": 135.6686842,
+      "timestamp": "2025-03-03T23:50:42Z",
+      "version": 5,
+      "changeset": 163181546,
+      "user": "icaro98",
+      "uid": 18455010,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "コメダ珈琲店",
+        "brand:en": "KOMEDA'S Coffee",
+        "brand:ja": "コメダ珈琲店",
+        "brand:wikidata": "Q11302679",
+        "brand:wikipedia": "ja:コメダ",
+        "cuisine": "coffee_shop",
+        "name": "コメダ珈琲店",
+        "name:en": "Komeda's Coffee",
+        "name:ja": "コメダ珈琲店",
+        "name:ja_rm": "Komeda Kohi-ten",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2120452510,
+      "lat": 34.9339757,
+      "lon": 135.7019441,
+      "timestamp": "2021-03-11T10:01:51Z",
+      "version": 2,
+      "changeset": 100832712,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "name": "U.I no coffee",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2125132502,
+      "lat": 35.0288707,
+      "lon": 135.7592026,
+      "timestamp": "2024-12-24T10:05:29Z",
+      "version": 13,
+      "changeset": 160568981,
+      "user": "dressed-pleasekin",
+      "uid": 11175011,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "コメダ珈琲店",
+        "brand:en": "KOMEDA'S Coffee",
+        "brand:ja": "コメダ珈琲店",
+        "brand:wikidata": "Q11302679",
+        "cuisine": "coffee_shop",
+        "cuisine:ja": "牛丼",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "コメダ珈琲店",
+        "name:en": "Komeda's Coffee",
+        "name:ja": "コメダ珈琲店",
+        "opening_hours": "PH,Mo-Su 07:00-23:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source": "survey",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2126287760,
+      "lat": 34.947621,
+      "lon": 135.7117718,
+      "timestamp": "2013-12-19T01:48:56Z",
+      "version": 2,
+      "changeset": 19524755,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "サクセス"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2136174985,
+      "lat": 34.947213,
+      "lon": 135.7065506,
+      "timestamp": "2025-01-13T00:55:25Z",
+      "version": 3,
+      "changeset": 161292341,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Cafe 6"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2139735360,
+      "lat": 34.566679,
+      "lon": 135.722998,
+      "timestamp": "2013-02-03T03:15:21Z",
+      "version": 1,
+      "changeset": 14891204,
+      "user": "every_road",
+      "uid": 694748,
+      "tags": {
+        "amenity": "cafe",
+        "name": "ハッピーバード"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2168860914,
+      "lat": 34.9640004,
+      "lon": 135.6963207,
+      "timestamp": "2013-12-19T01:48:55Z",
+      "version": 4,
+      "changeset": 19524755,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "barbecue",
+        "name": "Woodpecker",
+        "source": "survey, Bing 4/4/2011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2174978687,
+      "lat": 34.6914402,
+      "lon": 135.8259909,
+      "timestamp": "2013-02-26T11:58:31Z",
+      "version": 1,
+      "changeset": 15172350,
+      "user": "maegawa",
+      "uid": 1240975,
+      "tags": {
+        "amenity": "cafe",
+        "name": "カフェわらふ堂"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2174978688,
+      "lat": 34.6894349,
+      "lon": 135.8285279,
+      "timestamp": "2013-07-12T06:59:39Z",
+      "version": 2,
+      "changeset": 16922176,
+      "user": "katorina",
+      "uid": 1524951,
+      "tags": {
+        "amenity": "cafe",
+        "name": "カフェテラスライム"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2174978728,
+      "lat": 34.6902464,
+      "lon": 135.8259015,
+      "timestamp": "2018-01-19T10:39:24Z",
+      "version": 2,
+      "changeset": 55574175,
+      "user": "nissyyu",
+      "uid": 359289,
+      "tags": {
+        "amenity": "cafe",
+        "name": "プラトン"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2183021006,
+      "lat": 35.009007,
+      "lon": 135.756746,
+      "timestamp": "2013-03-03T05:30:47Z",
+      "version": 1,
+      "changeset": 15229520,
+      "user": "tosseto",
+      "uid": 194284,
+      "tags": {
+        "amenity": "cafe",
+        "atm": "no",
+        "cuisine": "deli",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "Exclamation Foods",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2187878988,
+      "lat": 34.9545423,
+      "lon": 135.704725,
+      "timestamp": "2013-03-06T00:59:20Z",
+      "version": 1,
+      "changeset": 15265322,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "name": "里香"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2224466406,
+      "lat": 34.6973323,
+      "lon": 135.7798887,
+      "timestamp": "2026-03-08T08:40:11Z",
+      "version": 4,
+      "changeset": 179522691,
+      "user": "HOC01",
+      "uid": 9106353,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "cake;dessert",
+        "name": "Sweets cafe&bar 2.es",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2225362466,
+      "lat": 34.6977023,
+      "lon": 135.7796261,
+      "timestamp": "2013-03-30T14:10:30Z",
+      "version": 2,
+      "changeset": 15551607,
+      "user": "何時日野誰日NaraUnivGeography",
+      "uid": 714117,
+      "tags": {
+        "amenity": "cafe",
+        "name": "合言葉",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2251541907,
+      "lat": 34.9456879,
+      "lon": 135.700845,
+      "timestamp": "2013-12-19T01:48:56Z",
+      "version": 2,
+      "changeset": 19524755,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "みちる",
+        "source": "survey, Bing 4/4/2011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2260114379,
+      "lat": 35.0328265,
+      "lon": 135.7913847,
+      "timestamp": "2013-04-09T13:01:54Z",
+      "version": 1,
+      "changeset": 15665940,
+      "user": "kyoka",
+      "uid": 451251,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafe Restaurant ジュネス",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2260695197,
+      "lat": 34.7119401,
+      "lon": 135.781015,
+      "timestamp": "2026-01-01T11:16:56Z",
+      "version": 4,
+      "changeset": 176699220,
+      "user": "市川ゆり子",
+      "uid": 388809,
+      "tags": {
+        "amenity": "cafe",
+        "name:ja": "風恋人",
+        "name:ja-Hira": "ふれんど",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2266572435,
+      "lat": 34.947266,
+      "lon": 135.704595,
+      "timestamp": "2013-12-19T01:48:56Z",
+      "version": 3,
+      "changeset": 19524755,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "カレン",
+        "source": "Pushpin for iOS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2266613857,
+      "lat": 34.9524019,
+      "lon": 135.7020364,
+      "timestamp": "2021-09-07T03:29:44Z",
+      "version": 4,
+      "changeset": 110826589,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "name": "くっちーな",
+        "name:en": "cucina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2266646846,
+      "lat": 34.9496877,
+      "lon": 135.7018733,
+      "timestamp": "2013-12-19T01:48:56Z",
+      "version": 3,
+      "changeset": 19524755,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "まんげつ",
+        "source": "survey, 2013/4/14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2267330318,
+      "lat": 34.9489536,
+      "lon": 135.7032557,
+      "timestamp": "2013-12-19T01:48:56Z",
+      "version": 3,
+      "changeset": 19524755,
+      "user": "yasunari",
+      "uid": 171028,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "ポプラ",
+        "source": "survey, 2013/4/14"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2268216621,
+      "lat": 35.024879,
+      "lon": 135.750498,
+      "timestamp": "2013-04-15T12:40:03Z",
+      "version": 1,
+      "changeset": 15736819,
+      "user": "tosseto",
+      "uid": 194284,
+      "tags": {
+        "amenity": "cafe",
+        "atm": "no",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "internet_access": "no",
+        "name": "石焼自家焙煎 ミリオンコーヒー",
+        "opening_hours": "7:00-19:00",
+        "outdoor_seating": "no",
+        "phone": "+81-75-451-0881",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "only",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2270506866,
+      "lat": 35.034066,
+      "lon": 135.748168,
+      "timestamp": "2013-04-17T11:08:25Z",
+      "version": 2,
+      "changeset": 15761369,
+      "user": "tosseto",
+      "uid": 194284,
+      "tags": {
+        "amenity": "cafe",
+        "atm": "no",
+        "cuisine": "japanese",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "name": "西陣イノクマカフェ",
+        "opening_hours": "11:30-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "source": "survey",
+        "takeaway": "no",
+        "wheelchair": "no"
+      }
+    }
+  ]
+}

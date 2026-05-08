@@ -1,0 +1,173 @@
+{
+  "u_key": "df27a9ea4ffb0622",
+  "original_osm_name": "Cafe trà sữa cherry ngần trường học lưu định của",
+  "google_raw": {
+    "formatted_phone_number": "0915 015 747",
+    "geometry": {
+      "location": {
+        "lat": 12.26386,
+        "lng": 109.173938
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2650699302915,
+          "lng": 109.1754057302915
+        },
+        "southwest": {
+          "lat": 12.2623719697085,
+          "lng": 109.1727077697085
+        }
+      }
+    },
+    "name": "Quán Cherry Cafe - Trà Sữa - Ăn Vặt ( Gần trường THCS Lương Định Của)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "Trung Giáp Văn",
+        "author_url": "https://www.google.com/maps/contrib/114987442801475394725/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkXit4u5avc3ZjnGriE3XrFfo2158nfNJxR2C-b_2NZlul5wk=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "quán nhìn tạm ổn",
+        "time": 1762783926,
+        "translated": false
+      },
+      {
+        "author_name": "Chương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114542204596709212862/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsbBDySM-6AkCpZOn7y6kQfsmplFhV8Ya2ye1g5SrJzK0Zkw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Mua sinh tố xoài , nhận lại nước ép xoài, uống vô bị đau bụng😠😠😠",
+        "time": 1692863619,
+        "translated": false
+      },
+      {
+        "author_name": "Thỏa Trà",
+        "author_url": "https://www.google.com/maps/contrib/104986826893525738289/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVctHZHtJaEgLZKYVTBlqqFE9BZIZYPUv3o9M0tvgBTK8LoQ6cOIA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán dành cho tuổi teen, nho nhỏ, tạm ổn",
+        "time": 1599971254,
+        "translated": false
+      },
+      {
+        "author_name": "canh nguyen quoc",
+        "author_url": "https://www.google.com/maps/contrib/113944681720458719340/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzU4MGjsKOBPfmxUnR4eWtgQ0hFFbvlRVF9wCXuM7vmfl9ZPnzfw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Wife là gì ta",
+        "time": 1527946593,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Trần",
+        "author_url": "https://www.google.com/maps/contrib/105095430275941745478/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsrKxK2VVuOxDqGQ5uD9AlTtPcrvSHoDEvoHTwWxeZvJeRJA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Rất sach sẽ va ngon",
+        "time": 1551753954,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 24
+  },
+  "harvested_at": "2026-05-02T15:29:15.703245"
+}

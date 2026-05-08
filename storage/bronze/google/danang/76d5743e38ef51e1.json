@@ -1,0 +1,174 @@
+{
+  "u_key": "76d5743e38ef51e1",
+  "original_osm_name": "Đà Nẵng cơm chay",
+  "google_raw": {
+    "formatted_phone_number": "0901 122 819",
+    "geometry": {
+      "location": {
+        "lat": 16.0662598,
+        "lng": 108.1807157
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0676380302915,
+          "lng": 108.1820692302915
+        },
+        "southwest": {
+          "lat": 16.0649400697085,
+          "lng": 108.1793712697085
+        }
+      }
+    },
+    "name": "Đà Nẵng Cơm Chay",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:00",
+        "Thứ Ba: 07:00–21:00",
+        "Thứ Tư: 07:00–21:00",
+        "Thứ Năm: 07:00–21:00",
+        "Thứ Sáu: 07:00–21:00",
+        "Thứ Bảy: 07:00–21:00",
+        "Chủ Nhật: 07:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "han kute",
+        "author_url": "https://www.google.com/maps/contrib/106031076396904190342/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWn4F0c0WeamHLB22-4DcKgG1GNLIw0MOqNxUTpNVVEbBRN00=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "11 tháng trước",
+        "text": "Nghe bạn đề xuất quán này nên ăn thử 1 lần và không bao giờ ghé lại\n- món ra lâu\n- đồ ăn không ngon\n- giá cao\n- ko gian nhìn ngoài ok mà vô trong bàn ghế dơ chớ không có gọn gàng sạch sẽ",
+        "time": 1746513092,
+        "translated": false
+      },
+      {
+        "author_name": "36. Minh Trí",
+        "author_url": "https://www.google.com/maps/contrib/113825649311306877726/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzYEf8MnhrHFSdH4pS6ZIikTtNRevcNaN7ucCc7Ss9j_LZfG9t=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Siêu ngonnnn, không gian phù hợp giá tiền. Chỉnh chu, cô chủ hỗ trợ hết mình",
+        "time": 1761885729,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Le",
+        "author_url": "https://www.google.com/maps/contrib/116969145288309727042/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL29ci8VXrr0tQg25IuDUecvEerc5tyCIN5A1O0P60z-5BwR7s=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Không gian yên tịnh rất chill theo phong cách tĩnh tâm , món ăn ngon bài trí đẹp, nhân viên dễ thương nhiệt tình 🫶",
+        "time": 1751460868,
+        "translated": false
+      },
+      {
+        "author_name": "Mau Nghia Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107207872431913212551/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlO8krpxcd8zz6i_JkuMe7aRwKMeq9Yur2u1QA2RuOY4MJsR0CXw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn ổn.\nKhông gian ấm cúng.\nMenu nhiều món để lựa chọn",
+        "time": 1753409988,
+        "translated": false
+      },
+      {
+        "author_name": "Mun Mun",
+        "author_url": "https://www.google.com/maps/contrib/104979468811688147120/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJhwHS-pLZmOFzex6oS6KwNQjYOe3eGELk5IUobDbanbyrnTH5=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Một trong những quán chay ngon mình ưng ý.\nCác món ở đấy rất ngon mà giá cả phải chăng. Sinh viên hay người đi làm đều phù hợp. Không gian quán rộng rãi thoáng.\nQuán có đặc trưng phong cách Phật giáo, tạo cảm giác gần gũi mà rất tâm linh.\nCác bạn nhân viên nhanh nhẹn dễ thương nhiệt tình\nHôm đó mình đi 4 người, gọi 4 món gồm Chả giò, cháo nấm, gỏi và cơm trộn, cơm trộn thì mình quên chụp mất. Nhưng món nào cũng nóng hổi và thơm ngon, ăn vừa khẩu vị, cũng như nước chấm ngon. 4 người 4 món no căng. Chia ra thì rẻ.\nQuán cũng dễ tìm cứ đi theo bản đồ là thấy nha. Đi vào ngõ là nhìn thấy quán liền.\nMenu đa dạng nhiều loại tha hồ chọn lựa.\nRất recommend quán này, đặc biệt cho những ai ở phía Mẹ Nhu",
+        "time": 1704775305,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 245
+  },
+  "harvested_at": "2026-04-29T09:57:29.758100"
+}

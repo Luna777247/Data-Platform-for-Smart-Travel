@@ -1,0 +1,172 @@
+{
+  "u_key": "8c3b752a804563ef",
+  "original_osm_name": "Hoi An Museum of Traditional Medicine",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 15.8766736,
+        "lng": 108.329857
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8780049302915,
+          "lng": 108.3312083302915
+        },
+        "southwest": {
+          "lat": 15.8753069697085,
+          "lng": 108.3285103697085
+        }
+      }
+    },
+    "name": "Bảo tàng Nghề Y Truyền thống Hội An",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–17:00",
+        "Thứ Ba: 08:00–17:00",
+        "Thứ Tư: 08:00–17:00",
+        "Thứ Năm: 08:00–17:00",
+        "Thứ Sáu: 08:00–17:00",
+        "Thứ Bảy: 08:00–17:00",
+        "Chủ Nhật: 08:00–17:00"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Lương Thanh",
+        "author_url": "https://www.google.com/maps/contrib/101004102686723012022/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4KKnmrJWyOQtnaBZvKprJvLyUsTE3PJaWG8Rrbf9bqCxRp-bs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nghề bốc thuốc Người Hoa một thời vang bóng ở Hội An. Những căn nhà cổ có giếng trời luôn thông thoáng, vật dụng cổ kính mang đậm dấu ấn thời gian",
+        "time": 1734754142,
+        "translated": false
+      },
+      {
+        "author_name": "Nhung Luong",
+        "author_url": "https://www.google.com/maps/contrib/106787182038237885563/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIT9SAa61WpZT7DBzq40rE-tKJTV-wUYxmQ7pKcmx15TGrZ0uINg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Bảo tàng nghề y truyền thống Hội An trưng bày gần 200 hiện vật gốc và một số hiện vật phục chế, các tư liệu hỗ trợ liên quan đến nghề y truyền thống nói chung và nghề y ở Hội An nói riêng.\n\nĐược thiết lập trong ngôi nhà cổ có kiến trúc truyền thống phổ biến của các nhà phố Hội An, Bảo tàng nghề y truyền thống Hội An ra đời nhằm bảo tồn nghề y truyền thống vốn đã từng nổi tiếng ở Hội An trước nguy cơ mai một đang diễn ra đối với bộ phận di sản này trong cuộc sống hiện đại.",
+        "time": 1726064314,
+        "translated": false
+      },
+      {
+        "author_name": "Uyên Thục",
+        "author_url": "https://www.google.com/maps/contrib/115756783203093957753/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX488Plcvor9OVY1gjs5w4tb3hGHgcke3TW_IimOUrJdhtFuN-9=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Rất đẹp và có nhiều thông tin về lịch sử. Mình học và quan sát được rất nhiều thứ",
+        "time": 1768460498,
+        "translated": false
+      },
+      {
+        "author_name": "Cream Cappucino",
+        "author_url": "https://www.google.com/maps/contrib/112118455116953712716/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtEF64gcRLOLrNn51w8Y9MHplj6Hd6D6lz-H75AUi3uQw_7w=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Bảo tàng nghề bốc thuốc Đông Y",
+        "time": 1753695691,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Thanh Nhàn Lê",
+        "author_url": "https://www.google.com/maps/contrib/113314217425000214681/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDVQuR9Xtmtw8dBe_UXigb1MBqZXyZ0B7POpQLZkWNUfVYLg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Bảo tàng đẹp, nhưng nếu có thêm thông tin về các bài thuốc cổ truyền từ cây thuốc thì tuyệt vời hơn.\n\nLên lầu và chụp được bức tường đẹp rêu phong cổ kính đẹp ở đây…",
+        "time": 1672505352,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 101
+  },
+  "harvested_at": "2026-04-28T16:39:19.920139"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "997de56685119870",
+  "original_osm_name": "Lhana",
+  "google_raw": {
+    "formatted_phone_number": "0375 542 627",
+    "geometry": {
+      "location": {
+        "lat": 21.0353712,
+        "lng": 105.8491116
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0367224302915,
+          "lng": 105.8504607802915
+        },
+        "southwest": {
+          "lat": 21.03402446970849,
+          "lng": 105.8477628197085
+        }
+      }
+    },
+    "name": "Lan Ong Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–22:00",
+        "Thứ Ba: 10:30–22:00",
+        "Thứ Tư: 10:30–22:00",
+        "Thứ Năm: 10:30–22:00",
+        "Thứ Sáu: 10:30–22:00",
+        "Thứ Bảy: 10:30–22:00",
+        "Chủ Nhật: 10:30–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Bùi Nhật Linh",
+        "author_url": "https://www.google.com/maps/contrib/103660641719556485376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVjraJ-q8Iog-E8CmQDSyx90BzRZW2AX-obUdJqsSRPJY89g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Service 10đ =))) Vô tình tìm đến quán nhưng okila phết, giá hơi nhỉnh xíu thôi nhưng vị trí thuận tiện gần trung tâm, nvien vô cùng niềm nở và chu đáo, tráng miệng ngon phết, còn mấy món còn lại thì ở mức bthg",
+        "time": 1769540033,
+        "translated": false
+      },
+      {
+        "author_name": "Tay Nhặt Lá Chân Đá Ống Bơ",
+        "author_url": "https://www.google.com/maps/contrib/104812236420236856986/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmKyCvtQhEWwv1Qw5TJKtMYh3Baae6-dbQl-8CkL6q_WuYRA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "😄:\n- không gian quán và sự trình bày món ăn đẹp\n- đồ ăn khá ngon vì đậm vừa đủ\n- nên thử món bánh cuốn chả mực\n- nhân viên rất nhiệt tình và chu đáo take care khách và giới thiệu các món\n\n😟:\n- giá có chút nhỉnh hơn so với mặt bằng trung",
+        "time": 1763037848,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Le Xuan",
+        "author_url": "https://www.google.com/maps/contrib/102722363006273840552/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQeDj-2XzhDa8QTomYO6_g_WjFW9LyDi0G3KuIoFJK8tAkqkSG=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nhà hàng Việt nam với các món truyền thống được chế biến rất ngon miệng và đẹp mắt. Đồ uống có một số bia thủ công mà đặc biệt là loại bia The Last Emperor, với vị hơi đắng và độ cồn cao. Nhà hàng được mở tại 1 căn nhà cổ, với trần bằng gỗ, được đặt trên các thanh xà gồ cũng bằng gỗ, nằm trên khu phố cổ của Hà nội mà lúc nào cũng tấp nập người qua lại",
+        "time": 1758449598,
+        "translated": false
+      },
+      {
+        "author_name": "Hường Trần",
+        "author_url": "https://www.google.com/maps/contrib/103703965108730607012/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJCB8QSOqmQl8ELvmUbmEPmMFq2l8v9lMH5jT73mIxu6Ymzg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Dịch vụ phục vụ,CSKH tốt, nhiệt tình\nĐồ ăn ngon, hợp khẩu vị, có món tráng miệng caramel hơi ngọt 1 xíu\nKhông gian nhà hàng chill chill\nCó chị nhân viên Kate rất dễ thương cute lắm ạ 💯đỉm",
+        "time": 1760597889,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/101327285583267408527/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTd3t0tR64T-cYxsstoK_rsG2eSfqgUYjqd_H8Pr4GQWu94bL0mQ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Nhà hàng sang trọng mang dâng dấp Việt Nam, giá cao nhưng chất lạong cực tương xứng\nNội bộ ổn",
+        "time": 1760194004,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1478
+  },
+  "harvested_at": "2026-04-27T19:59:15.453615"
+}

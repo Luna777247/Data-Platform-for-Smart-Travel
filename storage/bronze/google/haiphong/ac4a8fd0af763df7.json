@@ -1,0 +1,173 @@
+{
+  "u_key": "ac4a8fd0af763df7",
+  "original_osm_name": "Tiệp Xì Draft Beer",
+  "google_raw": {
+    "formatted_phone_number": "0984 475 876",
+    "geometry": {
+      "location": {
+        "lat": 20.8374932,
+        "lng": 106.7015005
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8388439302915,
+          "lng": 106.7029095802915
+        },
+        "southwest": {
+          "lat": 20.8361459697085,
+          "lng": 106.7002116197085
+        }
+      }
+    },
+    "name": "20 Độ - Craft Beer",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "pham gia Phu",
+        "author_url": "https://www.google.com/maps/contrib/100176547458191652805/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmLlNiyZ6OLTTOovR9f3-g4MqHdb-D1MDmCeRVya_u9T2cl2hk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Không gian quán nhẹ nhàng, nhiều cây xanh, mang lại cảm giác dễ chịu, gần gũi và khá yên tĩnh so với phía ngoài Văn Cao\nMenu “khác biệt” so với các quán craft beer thông thường với nhiều nguyên liệu, gia vị bản địa và đặc biệt là hạn chế tối đa dùng các chất điều vị (hiếm có thời buổi hiện nay)\nBia thì khỏi bàn, rất rất ngon",
+        "time": 1768396605,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Thị Tuyết Mai",
+        "author_url": "https://www.google.com/maps/contrib/114763049904918243748/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqnk_Dl6MPOj5fwBGxLhIsS79Sb728_Cho6cTqYi7nZhvv1YE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn rất ngon miệng,trang trí đẹp mắt , lên món nhanh. Không gian quán thoáng, sạch sẽ, ngồi ăn thoải mái. Nhân viên dễ thương và nhiệt tình. Rất đáng thử.",
+        "time": 1768726951,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Thư Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106183414975937680728/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnMxBXtHWLOdKzF343WjRIJVZZNOwUi78yWTBbjI69uiY_9svr=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "không gian dễ chịu, bia ngon và đa dạng, uống rất vào. Nhân viên thân thiện, phục vụ nhanh, giá hợp lý. Rất thích hợp để tụ tập bạn bè, chắc chắn sẽ quay lại. Siêu highly rcm mng đến ăn và trải nghiệm nha",
+        "time": 1768720365,
+        "translated": false
+      },
+      {
+        "author_name": "& APARTMENT TQ HOTEL",
+        "author_url": "https://www.google.com/maps/contrib/101503141168668938810/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK26-6bKuW5UAEb99S0trmatZafGx3aKg3ifvPb9WhPMz_BUQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán không gian đẹp dã man, đồ ăn thì siêu siêu vừa miệng, mình không uống bia nhưng thấy chồng mình bảo uống bia ở đây dính quá, vote 10 điểm không có nhưng",
+        "time": 1766490113,
+        "translated": false
+      },
+      {
+        "author_name": "thuy nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104167794278463000084/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqcIWfOwqFMPf6bL2y2-yT1gZT8MGXl16OgbkZ_7QT-T6jVN8r=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bia vị mật ong cát bà dính thế nhỉ,\nQuán có gu và tinh tế thật\n1 biểu tượng của Hải Phòng trong tương lai.\nChúc quán ngày càng đông khách!",
+        "time": 1768625128,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 52
+  },
+  "harvested_at": "2026-04-30T15:22:36.914969"
+}

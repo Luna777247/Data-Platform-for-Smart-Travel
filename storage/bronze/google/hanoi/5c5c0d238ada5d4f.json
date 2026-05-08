@@ -1,0 +1,173 @@
+{
+  "u_key": "5c5c0d238ada5d4f",
+  "original_osm_name": "Cà Phê HD",
+  "google_raw": {
+    "formatted_phone_number": "0345 255 551",
+    "geometry": {
+      "location": {
+        "lat": 20.9814879,
+        "lng": 105.7680729
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9828127302915,
+          "lng": 105.7694411802915
+        },
+        "southwest": {
+          "lat": 20.9801147697085,
+          "lng": 105.7667432197085
+        }
+      }
+    },
+    "name": "HD Coffee & Tea",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Anh Son",
+        "author_url": "https://www.google.com/maps/contrib/117375701172930229200/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8kxQonqZ_WTnJex_a-3_bE8G6eHVIlY455f-eYFeNPBvdLg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ok nha. Nhìn bạn sinh viên ngái ngủ nhưng pha đồ uống ngon ^^",
+        "time": 1714435757,
+        "translated": false
+      },
+      {
+        "author_name": "Huyen Trang Tran",
+        "author_url": "https://www.google.com/maps/contrib/115032341359909626435/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuchHyVkj0LcW1AgruOXbrLdAsvCDpIKBXgj29bIZvMeWepMeG=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán mới khai trương nên đang khuyến mại giảm giá. Thử cả cafe và trà, đều ngon. Phục vụ nhanh. Chỗ đậu ô tô thoải mái",
+        "time": 1695209726,
+        "translated": false
+      },
+      {
+        "author_name": "Hang Dao",
+        "author_url": "https://www.google.com/maps/contrib/114137147662032993251/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVotIPl6HPEk_0Ehmxo2GVHGOtg2CcKnr90fb3fSPKocbzfKY4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ uống ngon ,cafe quá là ổn áp ,không gian check in đẹp lắm nha..sẽ ủng hộ quán dài lâu😊😊😊",
+        "time": 1701069403,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Dũng",
+        "author_url": "https://www.google.com/maps/contrib/107717706532591098288/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWC1YGVNLpqDZDcPU88wZZm_WuboS3KblsaVXr48cdE4N2w4ZO8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Ko gian yên tĩnh, thậm chí ko phát nhạc luôn 😄 đồ uống ổn",
+        "time": 1699281365,
+        "translated": false
+      },
+      {
+        "author_name": "Linh It Đức",
+        "author_url": "https://www.google.com/maps/contrib/108675688959141638849/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgyycFGahKnp1WRURSzD1aFpvNAMiYb7Cwph-X2eghgnREGQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Quán cf mà nhân viên lấc cấc,nhạc thì toàn bật nhạc sàn ồn ào nhức đầu.Có hôm vào quán thấy nhân viên hút thuốc lá phì phò hôi thật sự.Không biết quán có chủ không nhưng làm ăn thế thì bảo sao quán không thấy khách",
+        "time": 1737207540,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 21
+  },
+  "harvested_at": "2026-04-26T16:52:00.975353"
+}

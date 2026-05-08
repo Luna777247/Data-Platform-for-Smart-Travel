@@ -1,0 +1,89 @@
+{
+  "u_key": "e339ea3f8b2bd417",
+  "original_osm_name": "Nhà trọ Trần Văn Hiếu",
+  "google_raw": {
+    "formatted_phone_number": "0962 282 818",
+    "geometry": {
+      "location": {
+        "lat": 16.0281641,
+        "lng": 108.2113532
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0295312302915,
+          "lng": 108.2127009302915
+        },
+        "southwest": {
+          "lat": 16.0268332697085,
+          "lng": 108.2100029697085
+        }
+      }
+    },
+    "name": "Nhà trọ 36",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Đặng Thị Thủy Ngân",
+        "author_url": "https://www.google.com/maps/contrib/116902467706643742376/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk3m8T--Sp_NEioEoUAQJBP2k6NzN0BYGqqSKLLInGNFInGx8P=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nhà trọ sạch sẽ, an ninh tốt, chỗ giữ xe thoáng, chủ trọ dễ thương và giá cả phải chăng",
+        "time": 1743679557,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Hong nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107028622704839617007/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsgklHJSU6ZjVm5GKnPedfREqIrDfdfapEc-y7qxTulFsP24Q4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "sạch sẽ và nhà xe thoáng",
+        "time": 1745305859,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Quân Ha",
+        "author_url": "https://www.google.com/maps/contrib/117895512191141917980/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYQyCU63o3ySoPe8ZLuc_PQ2TJHtjoFY-aqXWDNIlsNQVCaA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chủ trọ dễ thương, nhà trọ sạch sẽ",
+        "time": 1745305762,
+        "translated": false
+      },
+      {
+        "author_name": "Quốc Đạt Hồ",
+        "author_url": "https://www.google.com/maps/contrib/101236429284360002631/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWh1mli5aCp5j3lU2XEW8ZSa7cjsM2lTiLtpEI1hS7RbABGQ1U=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tuần trước",
+        "text": "Phòng sạch sẽ và hành lang thoáng mát",
+        "time": 1775017682,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Tuấn",
+        "author_url": "https://www.google.com/maps/contrib/101354975752537596836/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJN4Y_O2jxDMx8nUWmpnzVyZozGDXUiFW0xyHWwNJfsSR4nlQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tuần trước",
+        "text": "Sạch và thoáng",
+        "time": 1775017579,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 5
+  },
+  "harvested_at": "2026-04-28T16:35:10.169869"
+}

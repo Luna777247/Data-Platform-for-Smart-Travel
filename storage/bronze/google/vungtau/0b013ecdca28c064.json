@@ -1,0 +1,40 @@
+{
+  "u_key": "0b013ecdca28c064",
+  "original_osm_name": "Rainbow Hotel",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 10.7559227,
+        "lng": 106.671596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.7572848302915,
+          "lng": 106.6729387802915
+        },
+        "southwest": {
+          "lat": 10.7545868697085,
+          "lng": 106.6702408197085
+        }
+      }
+    },
+    "name": "Rainbow Hotel",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Vỹ",
+        "author_url": "https://www.google.com/maps/contrib/101928116574333828749/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQmsD9xtFYY6mqNdT8aB_g3xQRK7SDpOGBDWwMVvecnnPsO1M=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Đi khám bịnh bên CR qua đây thuê nghỉ theo giờ thôi, giá hợp lý, sạch sẽ nữa",
+        "time": 1708792979,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-05-03T19:43:24.884548"
+}

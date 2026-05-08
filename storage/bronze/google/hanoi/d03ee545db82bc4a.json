@@ -1,0 +1,174 @@
+{
+  "u_key": "d03ee545db82bc4a",
+  "original_osm_name": "Trà sữa Cha Go Tea",
+  "google_raw": {
+    "formatted_phone_number": "024 3858 6989",
+    "geometry": {
+      "location": {
+        "lat": 21.0161902,
+        "lng": 105.8053002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0174814802915,
+          "lng": 105.8067003302915
+        },
+        "southwest": {
+          "lat": 21.0147835197085,
+          "lng": 105.8040023697085
+        }
+      }
+    },
+    "name": "Trà Sữa ChaGo",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–21:00",
+        "Thứ Ba: 08:00–21:00",
+        "Thứ Tư: 08:00–21:00",
+        "Thứ Năm: 08:00–21:00",
+        "Thứ Sáu: 08:00–21:00",
+        "Thứ Bảy: 08:00–21:00",
+        "Chủ Nhật: 08:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Anh Hà Huyền",
+        "author_url": "https://www.google.com/maps/contrib/110593647147816701235/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2OBHKmMU7OQ4ZPHHNuDOkOPs3AeZrIs8B7WoIWfgy7VA_St6X=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Trà sữa quán làm ngon, nhưng mà thỉnh thoảng chất lượng không đồng đều có hôm ngọt có hôm nhạt. Nhưng mà nhân viên rất đáng iu, có cả em tay vịn lúc nào cũng nằm ườn giữa quán nên hầu như tuần nào mình cũng ghé qua",
+        "time": 1761841636,
+        "translated": false
+      },
+      {
+        "author_name": "Thưởng Công",
+        "author_url": "https://www.google.com/maps/contrib/100454400500264992529/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-kSshY8NFqucbaMIkV2-xBTPnFQwORyOTl5nipkuubV7iR_TQpA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán mới sửa sang lại. Decor khá đẹp\nĐồ uống ok\nCó tầng 2 nhưng hình như chưa sửa xong nên chưa đi vào hoạt động.",
+        "time": 1710571502,
+        "translated": false
+      },
+      {
+        "author_name": "Hữu Thắng Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/107154759046705967973/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOyifDFT7g7sQeR6Ie9FrnsV4fobPAGtYLIhHEwJ6HHyZF569C=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "một năm trước",
+        "text": "Oder 6 cốc 2 cốc nguyên chất, 4 cốc trà sữa mà ông dã cho tôi 6 cốc nguyên chất thiết quan âm nhạt như nước ao",
+        "time": 1742645011,
+        "translated": false
+      },
+      {
+        "author_name": "Nhie nèhh",
+        "author_url": "https://www.google.com/maps/contrib/109283351396435934591/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_IUkN_xZ8jIJLXX2XTHWEfLoi4tJRRmZ99MRK-fkA_QjsPdI7Mw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "3 năm trước",
+        "text": "đợt này có vỏ cốc xinh ơi là xinh, chỗ cũng gần ơi là gần mà trà thì chán ơi là chán ạ\nmé, 30% đá mà như 70%, 50% đường thì lạt nhách mà vị trà nay như trà nước cuối đổ thêm nước, uống chán không chịu được.\ncốc size M 35k mà uống như nước lọc, xin chê, gọi cơ sở khác\ngia đình mình mê chago mà đợt này làm ăn xuống quá",
+        "time": 1672152987,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Đoàn Phương (Fury Blood)",
+        "author_url": "https://www.google.com/maps/contrib/114592908500579676370/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkEiB9IFH7sdOlQxke5SOf--JV1WYSeHHSiW7zw4vvKbPCs7cH=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ uống Chago (Trà sữa thiết quan âm) chất lượng vẫn ổn, có điều cơ sở này thiết kế và bày trí quá kém, k đẹp như các cơ sở khác",
+        "time": 1712665229,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 282
+  },
+  "harvested_at": "2026-04-27T19:58:08.712411"
+}

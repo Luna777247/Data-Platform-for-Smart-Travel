@@ -1,0 +1,174 @@
+{
+  "u_key": "eb699a3287d1f9c5",
+  "original_osm_name": "Cà Phê Lion",
+  "google_raw": {
+    "formatted_phone_number": "0868 317 587",
+    "geometry": {
+      "location": {
+        "lat": 20.9729561,
+        "lng": 105.8361026
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9743013302915,
+          "lng": 105.8373498802915
+        },
+        "southwest": {
+          "lat": 20.9716033697085,
+          "lng": 105.8346519197085
+        }
+      }
+    },
+    "name": "lion coffe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:00",
+        "Thứ Ba: 07:00–23:00",
+        "Thứ Tư: 07:00–23:00",
+        "Thứ Năm: 07:00–23:00",
+        "Thứ Sáu: 07:00–23:00",
+        "Thứ Bảy: 07:00–23:00",
+        "Chủ Nhật: 07:00–23:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Bonny",
+        "author_url": "https://www.google.com/maps/contrib/107550697967802110687/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ6q2hHRXgbeQgH2St0uIgWCUBNSNEQy57LkGYFS9S4zM51_U=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Trà đào cam sả k có sả, k có vị cam, duy nhất 1 lát cam decor\nĐào thì có 3 miếng ✅\nTrà siêu đậm, chỉ thấy vị trà",
+        "time": 1768719422,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàn Trần (LiamCTer)",
+        "author_url": "https://www.google.com/maps/contrib/116948583311200467532/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-t5PZhNmqDsxdpM8H1dMI1rk12GHnX6KnNZyhg_-8fmLC-LhR=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán rộng rãi, có tầng 2, điều hòa mát rượi, đồ uống ra nhanh, trông bắt mắt, bạn nhân viên khá thân thiện",
+        "time": 1763375454,
+        "translated": false
+      },
+      {
+        "author_name": "Mr BIG",
+        "author_url": "https://www.google.com/maps/contrib/112503138600313724074/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkcs5VeHVkuILQffDlKim-8yLKUPtVF0gtp48TMfMlD-3hSH3rJA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Cà phê pha máy ổn cùng nhiều thức uống khác. Thấy quán cũng kinh doanh khá lâu, món đa dạng và giá hợp lý. Tuy nhiên không nổi bật.",
+        "time": 1686031880,
+        "translated": false
+      },
+      {
+        "author_name": "Tiến Đạt",
+        "author_url": "https://www.google.com/maps/contrib/101747731500573445760/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWznDadwaGI3xuWldKK2dleGdMYbn2IuacCIBlNnrVhxNpXYkyW=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian yên tĩnh thoáng mát, view đẹp, đồ uống ok",
+        "time": 1727576624,
+        "translated": false
+      },
+      {
+        "author_name": "Tiểu An",
+        "author_url": "https://www.google.com/maps/contrib/100185558613298345702/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVzfWOddFfO5A4Cy3za_jZ7dCpd1yiYWTWRdlxi6apj7X88w_e=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán có không gian rộng rãi, yên tĩnh, mát mẻ. Đồ uống cũng ok. Nhân viên nhiệt tình",
+        "time": 1751303813,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 101
+  },
+  "harvested_at": "2026-04-26T12:45:28.838199"
+}

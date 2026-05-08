@@ -1,0 +1,173 @@
+{
+  "u_key": "b0430a90281dc9eb",
+  "original_osm_name": "Vinh cafe 221 đường 2/4",
+  "google_raw": {
+    "formatted_phone_number": "0786 787 988",
+    "geometry": {
+      "location": {
+        "lat": 12.2435487,
+        "lng": 109.1877376
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2449259302915,
+          "lng": 109.1891133302915
+        },
+        "southwest": {
+          "lat": 12.2422279697085,
+          "lng": 109.1864153697085
+        }
+      }
+    },
+    "name": "Vịnh Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 04:30–23:00",
+        "Thứ Ba: 04:30–23:00",
+        "Thứ Tư: 04:30–23:00",
+        "Thứ Năm: 04:30–23:00",
+        "Thứ Sáu: 04:30–23:00",
+        "Thứ Bảy: 04:30–23:00",
+        "Chủ Nhật: 04:30–23:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Hoàng Free7ancer",
+        "author_url": "https://www.google.com/maps/contrib/100611861704539802679/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3gsLybQtP-KE6IBfqcW2sl6r-uwxpZK0ZuzEXT-83gSB8adC6aA=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán cafe ruột, ở đây matcha và cafe rất ngon luôn. Mỗi tội chờ nước hơi lâu chút.",
+        "time": 1771473033,
+        "translated": false
+      },
+      {
+        "author_name": "Huong Thuy",
+        "author_url": "https://www.google.com/maps/contrib/104519752326370931319/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuRBIyTA2NTHFwC1dTl85frU2gu5mD9GwCxl5hpjV-T2HiQw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Điểm cộng lớn nhất của quán là mở cửa từ 4h30 sáng, khá hiếm ở khu vực trung tâm. Mình ghé quán lúc còn sớm, không khí yên tĩnh, rất dễ chịu. Món bánh mì chấm sữa ở đây đơn giản nhưng ngon, bánh mì nóng giòn, sữa béo vừa, không quá ngọt, ăn sáng rất ấm bụng. Cà phê pha phin theo kiểu truyền thống, vị đậm, thơm, đúng gu cà phê Bắc.\nNhân viên phục vụ thân thiện, nhanh nhẹn dù thời điểm sáng sớm. Giá cả hợp lý so với vị trí trung tâm và chất lượng quán mang lại. Nếu bạn đang tìm một quán cà phê mở sớm, có không gian yên tĩnh, mang hơi thở Hà Nội giữa lòng thành phố biển thì đây là một địa điểm rất đáng để thử.",
+        "time": 1767397175,
+        "translated": false
+      },
+      {
+        "author_name": "H",
+        "author_url": "https://www.google.com/maps/contrib/103308639292858808408/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUujVsEzrNQ34nAVuHLwKQP_a0WuSfD2FW98dlCkc7d013vAX45=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Vịnh là quán cà phê mở từ 4h30 sáng, rất phù hợp cho người đi làm sớm hoặc thích không khí yên tĩnh buổi sáng. Cà phê đậm vị, đặc biệt ở đây có combo 4h30 rất tiện lợi và tiết kiệm, phục vụ nhanh, nhân viên siu dễ thương. Không gian chill chill, đơn giản, hợp gu gen Z, ngồi nhâm nhi cà phê sáng sớm nghe nhạc nhẹ rất thư giãn.",
+        "time": 1767419019,
+        "translated": false
+      },
+      {
+        "author_name": "Phan Kim Anh",
+        "author_url": "https://www.google.com/maps/contrib/110847193495938700483/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWOawth239B2tltToubQvJFO7lTwqqVQ-yPt__iPfJ9PB_b8xD=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Vịnh mang vibe nhẹ nhàng, gần gũi, không quá cầu kỳ nhưng đủ ấm áp. Nước ngon, quán xinh nói chung là khá okilla",
+        "time": 1759134633,
+        "translated": false
+      },
+      {
+        "author_name": "Siu Siu",
+        "author_url": "https://www.google.com/maps/contrib/102491554405367238875/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKt8ryQRowxpbJx4F6zPqZsOzyZNEi-zp8mtzY6a7vGZjKDIw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nước ngon và phù hợp giá tiền. Quán mang lại cảm giác ấm cúng và gần gũi, phù hợp để gặp gỡ bạn bè, trò chuyện nhẹ nhàng hoặc ngồi một mình thư giãn.",
+        "time": 1767397144,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 342
+  },
+  "harvested_at": "2026-05-02T15:27:41.179875"
+}

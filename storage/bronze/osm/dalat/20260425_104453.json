@@ -1,0 +1,3109 @@
+[
+  {
+    "u_key": "eb37739d296e46fd",
+    "name": "Gia Nguyễn",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9422355,
+      "lon": 108.4361944
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "faee3c6452bab315",
+    "name": "Pini Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8986511,
+      "lon": 108.4377414
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "ab3b153cb74bf774",
+    "name": "Bicycle up",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9448009,
+      "lon": 108.4349506
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "41366453ad9b7ae1",
+    "name": "Cafe Tùng",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Khu Hòa Bình",
+    "location": {
+      "lat": 11.9442999,
+      "lon": 108.4358347
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "0bd5d0d0936cbbe2",
+    "name": "Weasel Coffee Shop - Kopi Lewak",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8994869,
+      "lon": 108.3476438
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d186b9035fc0686a",
+    "name": "Cafe Noi",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9453242,
+      "lon": 108.4348457
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "341c54905427e508",
+    "name": "the muse",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9447051,
+      "lon": 108.4342791
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "987042ee56e3d6c4",
+    "name": "An Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Ba Tháng Hai",
+    "location": {
+      "lat": 11.9418201,
+      "lon": 108.4338744
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "43c83590ae01bdc1",
+    "name": "Cafe Bao Tran",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9350601,
+      "lon": 108.4384611
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "9af502da8d3db03a",
+    "name": "Gare de Café",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Quang Trung",
+    "location": {
+      "lat": 11.9420719,
+      "lon": 108.4528171
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "28270381324e9b48",
+    "name": "News & Art Café",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Trương Công Định",
+    "location": {
+      "lat": 11.944873,
+      "lon": 108.4348706
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "5bfc83f63905ee16",
+    "name": "Tam Chau",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Trần Nhân Tông",
+    "location": {
+      "lat": 11.9534951,
+      "lon": 108.444722
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "03095bc2b4665fd2",
+    "name": "Tam Chau",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Trần Nhân Tông",
+    "location": {
+      "lat": 11.9503039,
+      "lon": 108.447373
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "270f0bd80c76f540",
+    "name": "Le Ky Tea & Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "249 Phan Dihn Phung",
+    "location": {
+      "lat": 11.950938,
+      "lon": 108.4338351
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "aa4a0def171e76a7",
+    "name": "Windmill Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9429682,
+      "lon": 108.4354973
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "756920e04c700ce9",
+    "name": "Napoli Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.942825,
+      "lon": 108.432072
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6fe56bfa81895b17",
+    "name": "Len's Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nguyễn Chí Thanh",
+    "location": {
+      "lat": 11.9415297,
+      "lon": 108.4365897
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "14149771582bc9ae",
+    "name": "Thong Dalat Space",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9469104,
+      "lon": 108.4406502
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "fc3d233b15973f56",
+    "name": "tourist information center & coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9394193,
+      "lon": 108.4406468
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "66a861a7400d4ff8",
+    "name": "Salt Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9437043,
+      "lon": 108.4353422
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b7d2423444a2e540",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.875946,
+      "lon": 108.4700954
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "bc9fdf3fd88b4494",
+    "name": "Thao Quyen Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.935086,
+      "lon": 108.4257029
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "cb08e458be4f2083",
+    "name": "Up Coffee Dalat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9317932,
+      "lon": 108.4307589
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "5e9d3b4f4b212b4b",
+    "name": "Goût",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.945756,
+      "lon": 108.43558
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "258798614dba81be",
+    "name": "La Viet Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nguyễn Công Trứ",
+    "location": {
+      "lat": 11.9569186,
+      "lon": 108.435107
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "09768dbde47621a5",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9415116,
+      "lon": 108.43082
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "17d69a7e845b16b1",
+    "name": "Cafe Phôi Pha",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.935249,
+      "lon": 108.4299242
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "9d960916eb83002d",
+    "name": "One More Café",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9442085,
+      "lon": 108.4329395
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "482fb4da4467ddb8",
+    "name": "HK Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9522878,
+      "lon": 108.4386048
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "8ca8ddcfc509a976",
+    "name": "Phong Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9509502,
+      "lon": 108.4467927
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "0f2dd2c2c5544597",
+    "name": "Backpackers tourist cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9422535,
+      "lon": 108.4341671
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a9cc47fca8ebdd85",
+    "name": "Green Café",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9450795,
+      "lon": 108.4392736
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "2616f05265f7f913",
+    "name": "Napoli Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.936067,
+      "lon": 108.43251
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1d55b141aa927d07",
+    "name": "Napoli Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9538494,
+      "lon": 108.4410514
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a338aaddb19d65f6",
+    "name": "Eslow Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9542568,
+      "lon": 108.4418443
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d9c25a549a04df7c",
+    "name": "Box Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9533522,
+      "lon": 108.4401293
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b16c9bac7832a54c",
+    "name": "Ca Phe Nguyen Chat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9544785,
+      "lon": 108.4420402
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "7e395bab9518eacf",
+    "name": "School Bus cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9663024,
+      "lon": 108.4362548
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "14dd0e2f1c558b90",
+    "name": "Sunshine cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9374314,
+      "lon": 108.4492265
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "cee17f8a39f92e7d",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Quốc lộ 20",
+    "location": {
+      "lat": 11.9467175,
+      "lon": 108.4901966
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1bb58e91ed2f8a2e",
+    "name": "F Coffee & Shop",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9544861,
+      "lon": 108.4326066
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "72b386d3f7d14924",
+    "name": "Tín phát coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9577293,
+      "lon": 108.4417702
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "dd776fd36e2e50e7",
+    "name": "Bùivănngọ coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.924598,
+      "lon": 108.4468449
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e7634c85ef8c60c8",
+    "name": "Café Lịnh Tâm",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9241382,
+      "lon": 108.445432
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "220bac11d487141d",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9442687,
+      "lon": 108.4381083
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "10f8fc2c4d3b0f1c",
+    "name": "The Shack",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9790989,
+      "lon": 108.4109225
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "bb855f4fc5a3c59d",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9394151,
+      "lon": 108.4337928
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "cf19ba33e9885c08",
+    "name": "Anna's Coffee House - Italian Coffee, Brunch, Roastery",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9234209,
+      "lon": 108.4444768
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a569444f1f5870de",
+    "name": "Daily Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9331256,
+      "lon": 108.4298665
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "45d6adf2adba9474",
+    "name": "Tam Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9398264,
+      "lon": 108.434199
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1146cb2fe731ed6c",
+    "name": "cafe An",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9302182,
+      "lon": 108.4411204
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "ed246b26a2ee6109",
+    "name": "Maybe Blue Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9343773,
+      "lon": 108.4315149
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "9f9ccdd99a3f0926",
+    "name": "Sóc Nâu",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hà Huy Tập",
+    "location": {
+      "lat": 11.936091,
+      "lon": 108.4409402
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e84ff6746d05de59",
+    "name": "DelYcious",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9437213,
+      "lon": 108.4349248
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d2d94527452f3bac",
+    "name": "Cafe Veronica",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9405837,
+      "lon": 108.4369757
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "328be6adedaaeb55",
+    "name": "Biang Bistro",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Lý Tự Trọng",
+    "location": {
+      "lat": 11.9463978,
+      "lon": 108.4391821
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "44767d2f9f5fce49",
+    "name": "2p Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9422216,
+      "lon": 108.431542
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "234965b06f61cac4",
+    "name": "Cafe Cánh Đồng Hoa",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9078014,
+      "lon": 108.4595818
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "5efba6163794a9fc",
+    "name": "Cà phê nguyên chất TRANG - Capuchino Đà Lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 11.9431264,
+      "lon": 108.4324587
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6e6f248439505b03",
+    "name": "dãy cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9364789,
+      "lon": 108.4269673
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "04c22d481a23f7d0",
+    "name": "RoiVillaCoffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9455851,
+      "lon": 108.4292158
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6fa4893cd6b8dca4",
+    "name": "French Touch Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 11.943293,
+      "lon": 108.43253
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "9602c0179eb30b74",
+    "name": "Gâu Garden",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9418831,
+      "lon": 108.4671034
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "68613a5ce242f42c",
+    "name": "Wood stock",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9466549,
+      "lon": 108.4405846
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "19ecf014fe6ca46a",
+    "name": "Minino",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9464097,
+      "lon": 108.5011709
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "35e1894791c9a253",
+    "name": "Giai Khat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9464279,
+      "lon": 108.5011158
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "dd77268f2ad7a090",
+    "name": "Chuc",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9461451,
+      "lon": 108.500517
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b4cf064e1733e8a8",
+    "name": "24 hr Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9406105,
+      "lon": 108.4517094
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e41422788cade81d",
+    "name": "Vinh Hung",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9460898,
+      "lon": 108.5008594
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "54bd52d6d02d14f2",
+    "name": "Hai Dung",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9461227,
+      "lon": 108.5007349
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "50bf04d8d68ad104",
+    "name": "Ngoc",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9461315,
+      "lon": 108.5005768
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "8dbcd86f7e9ea5cd",
+    "name": "Cafe 999",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9461477,
+      "lon": 108.5004643
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "650b3a544b643b92",
+    "name": "Milano Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9420455,
+      "lon": 108.4531595
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b5e0d55639655b0c",
+    "name": "Royal Garden Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Dinh",
+    "location": {
+      "lat": 11.9449344,
+      "lon": 108.4699174
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "21e06079ea17037d",
+    "name": "Mê Linh Coffee Garden",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8999642,
+      "lon": 108.3471027
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "87aaa79adc6d075a",
+    "name": "Harry Potter Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Ngô Văn Sở",
+    "location": {
+      "lat": 11.9558341,
+      "lon": 108.4719755
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "988e2ad550d9dc85",
+    "name": "Sữa đậu nành",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Tăng Bạt Hổ",
+    "location": {
+      "lat": 11.943486,
+      "lon": 108.4352953
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "4744132cc45ff5c6",
+    "name": "Tùng Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Khu Hòa Bình",
+    "location": {
+      "lat": 11.943865,
+      "lon": 108.4358513
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e66247edc14be4ed",
+    "name": "Still Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nguyễn Trãi",
+    "location": {
+      "lat": 11.9443315,
+      "lon": 108.454585
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "5ab908663f7a8e05",
+    "name": "Nông trại vui vẻ",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9422587,
+      "lon": 108.4862126
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "9de6d75710a7ee80",
+    "name": "nhạc quán Diễm Xưa",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9335561,
+      "lon": 108.4575253
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "9c312a16e9ccfe84",
+    "name": "Cà phê Dõc Ga",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nguyễn Trãi",
+    "location": {
+      "lat": 11.9421295,
+      "lon": 108.4528364
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "eaa73f8fa52e6a74",
+    "name": "7o’clock coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9439435,
+      "lon": 108.4346859
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d4e39be748007026",
+    "name": "Cau dat Farm Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Xuân Trường, Thành phố Đà Lạt, Lâm Đồng",
+    "location": {
+      "lat": 11.8847044,
+      "lon": 108.563305
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "c4eef95a1ae28ae0",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9390555,
+      "lon": 108.428961
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "97177c49bb717077",
+    "name": "Reply 1994",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Phường 11, Thành phố Đà Lạt, Lâm Đồng,",
+    "location": {
+      "lat": 11.9410611,
+      "lon": 108.4834747
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "544128a54a952569",
+    "name": "Trang Sua Bap Bi Do",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nguyễn Văn Cừ",
+    "location": {
+      "lat": 11.9406235,
+      "lon": 108.4316115
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "edd4b8f5fec673c1",
+    "name": "Vườn Yên",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hẻm 6 Mai Anh, Phường 6, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+    "location": {
+      "lat": 11.949256,
+      "lon": 108.4276498
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6aa5c49eb25b349d",
+    "name": "Langbiang Farm Co. Ltd",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9642334,
+      "lon": 108.4312243
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b70ad9c775b66277",
+    "name": "L'Amant Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9032304,
+      "lon": 108.4381723
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "7de93559e3ea9697",
+    "name": "Sunny Farm",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9441516,
+      "lon": 108.4884062
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "5896e7ce5e95b83d",
+    "name": "Hoa Sūa",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9435607,
+      "lon": 108.435316
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1f6a9b2cc2337527",
+    "name": "Piccolo coffee and funny",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.943833,
+      "lon": 108.4330554
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "4b366b23470783f3",
+    "name": "L'espoir",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9491533,
+      "lon": 108.4355522
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "aee8f64455044f9d",
+    "name": "Harizon Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9328063,
+      "lon": 108.4456548
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a16918d15d8ae997",
+    "name": "Cà Phê Hoa Phượng",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9327713,
+      "lon": 108.4459072
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "bb9ddb75ff4f00df",
+    "name": "The Choco",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Quang Trung",
+    "location": {
+      "lat": 11.9421198,
+      "lon": 108.4545891
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a08d0d1657ca9514",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9420099,
+      "lon": 108.4339191
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "0384d50268f4d9e4",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9259278,
+      "lon": 108.4452095
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6f85f3eae602c9b2",
+    "name": "Cafe Bích Câu",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9482014,
+      "lon": 108.449695
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "40ea7087f56c1b8e",
+    "name": "Dreamer",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9389119,
+      "lon": 108.4547544
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "fa2c5cbc59ed0c66",
+    "name": "Axuka",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9458311,
+      "lon": 108.4348283
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d8d3f055f810b00e",
+    "name": "Fresh Dalat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9480154,
+      "lon": 108.4090708
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "5f334d4226390e19",
+    "name": "Spring cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9438698,
+      "lon": 108.4502421
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a5071121d4ece21b",
+    "name": "Mang Linh view",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9807805,
+      "lon": 108.3957589
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "95b4a5298cbdb8df",
+    "name": "Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.931405,
+      "lon": 108.4290646
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "5c1c74d3ec9c99ab",
+    "name": "Tiệm cafe Cô Bông",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Yersin",
+    "location": {
+      "lat": 11.9501663,
+      "lon": 108.456605
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "624d842615b75707",
+    "name": "Ca phe nguyen chat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9517663,
+      "lon": 108.4390529
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "ba4c45c2f58db681",
+    "name": "Cafe Bin Bin",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9517774,
+      "lon": 108.4390377
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "caf387d11abadeec",
+    "name": "Teddy coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9446054,
+      "lon": 108.4308947
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "21ec6cd724f4304c",
+    "name": "Giai Khat Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9450347,
+      "lon": 108.4356573
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "c118105bb2304994",
+    "name": "Em ta nung Coffee Farm",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9061114,
+      "lon": 108.3512578
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "cdbd0c3607392d23",
+    "name": "Culture Bean",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9402683,
+      "lon": 108.4290945
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e24469d37aed3fc2",
+    "name": "em tà nung coffee farm",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9062005,
+      "lon": 108.3514499
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "90c616bf17a1ad3b",
+    "name": "Café Phia",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9367393,
+      "lon": 108.4827127
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "662f8bad675294d9",
+    "name": "LululoLa Coffee+",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9201166,
+      "lon": 108.4421181
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e1d6f0b56875e75c",
+    "name": "Le Chalet Café",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Huỳnh Thúc Kháng",
+    "location": {
+      "lat": 11.935344,
+      "lon": 108.4302555
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "4833c08225d3c2ee",
+    "name": "Coffee Hang",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9368179,
+      "lon": 108.4279207
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "16f862b1fb1a6260",
+    "name": "Happy Hill",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8833803,
+      "lon": 108.4179266
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e90a95ebfc6f1c3f",
+    "name": "Cuties Coffee M&m",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hẻm 1P Nguyễn Công Trứ",
+    "location": {
+      "lat": 11.9571264,
+      "lon": 108.441
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "8f52d159bded7009",
+    "name": "Ngõ hơi hẹp - Coffee & Tea",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Khe Sanh",
+    "location": {
+      "lat": 11.925108,
+      "lon": 108.4545123
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a4e1d73ee167a90e",
+    "name": "The Seen House",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Tuyền Lâm",
+    "location": {
+      "lat": 11.9006985,
+      "lon": 108.4341959
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "c6b94fedd208f37f",
+    "name": "Kyoudai Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9518328,
+      "lon": 108.4324474
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "68f69b4063b2d2f4",
+    "name": "Người thương ơi coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "tô hiệu",
+    "location": {
+      "lat": 11.9716232,
+      "lon": 108.4364398
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b690c4f61638ad43",
+    "name": "kong cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9366367,
+      "lon": 108.4833715
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "57f9f820d3ecba36",
+    "name": "Đợi ngày hoa nở",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Mimosa",
+    "location": {
+      "lat": 11.90945,
+      "lon": 108.4618114
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "fcce238d0f17702b",
+    "name": "Crazy Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9343551,
+      "lon": 108.4299576
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b063f02671c0747f",
+    "name": "Bánh Căn",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9383552,
+      "lon": 108.4350066
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b36df61d116175a3",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9391645,
+      "lon": 108.4387835
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "03e24e04bd7ab868",
+    "name": "Now And Here Buffet Chay",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Thi Sách",
+    "location": {
+      "lat": 11.9468484,
+      "lon": 108.4324715
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d1db752e6f4ab21a",
+    "name": "Tiem cô Bo",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9403566,
+      "lon": 108.4268057
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6bb1fe7d15b7ed25",
+    "name": "mây lang thang acoustic",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9411877,
+      "lon": 108.4647331
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "4497c78a8c895bc4",
+    "name": "Em Ơi Cà Phê",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9546404,
+      "lon": 108.4419241
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "cab0692dfbbe4b78",
+    "name": "Now Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9354942,
+      "lon": 108.4298307
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "295137df6b565ba1",
+    "name": "Da Lat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9473902,
+      "lon": 108.4342989
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "29fee22626eaab15",
+    "name": "Phuc Long Coffee & Tea",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9361603,
+      "lon": 108.4327898
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6ca7fd86414b3274",
+    "name": "Pi hostel coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9404501,
+      "lon": 108.4330765
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "0d81628f4ee5ae75",
+    "name": "Su Thai Pizza",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9332755,
+      "lon": 108.4330943
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a955a703741b574b",
+    "name": "The Mountain View",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoàng Hoa Thám",
+    "location": {
+      "lat": 11.9385337,
+      "lon": 108.4633554
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d3167a43dfffe5aa",
+    "name": "Milano Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9437463,
+      "lon": 108.4329685
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "811ce8539840e546",
+    "name": "Senso Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9441157,
+      "lon": 108.434437
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b438055f1f30ac20",
+    "name": "Mr. P Bingsu & Tea Đà Lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hải Thượng",
+    "location": {
+      "lat": 11.9434872,
+      "lon": 108.4309607
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d804f45d00cd022a",
+    "name": "Trang 1",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9536864,
+      "lon": 108.4407868
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "3518ccc813e0f0ea",
+    "name": "Uni Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9266415,
+      "lon": 108.4336144
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6d1678f242fa7338",
+    "name": "Cô Lan",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9450892,
+      "lon": 108.4356161
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "df6a0094bd338828",
+    "name": "Banh mi xiu mai Chen",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9417988,
+      "lon": 108.4308051
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b1cb8519de14824b",
+    "name": "Miên Gà 79",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9414863,
+      "lon": 108.4321605
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "cb0eb2f317a945da",
+    "name": "Ma Chan",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9491369,
+      "lon": 108.4340621
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "c78664b7a9469cd2",
+    "name": "Chicken rice",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9567969,
+      "lon": 108.4356164
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "503cbb5f1150eeeb",
+    "name": "Train Café Đà Lạt Railway Station",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9419281,
+      "lon": 108.4548054
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "ccb75fb08b32cb42",
+    "name": "Camly 9",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoàng Văn Thụ",
+    "location": {
+      "lat": 11.9444105,
+      "lon": 108.4185476
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b55a37a0b39ba6fe",
+    "name": "Mình Có Hẹn ở Đây - Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Khởi Nghĩa Bắc Sơn",
+    "location": {
+      "lat": 11.9346459,
+      "lon": 108.4507217
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "ddd867ce4376625f",
+    "name": "Thung lũng khói xanh",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Lâm Văn Thạnh",
+    "location": {
+      "lat": 11.9381086,
+      "lon": 108.4935311
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "57779ce1bc911b79",
+    "name": "Nông Trại Cún Puppy Farm",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Cam Ly",
+    "location": {
+      "lat": 11.9626641,
+      "lon": 108.389072
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "fda48b5a336d63c7",
+    "name": "Cocaland Da Lat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nguyễn Trãi",
+    "location": {
+      "lat": 11.9432659,
+      "lon": 108.4535753
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1b95c5a1842aa3eb",
+    "name": "Tiệm Cà Phê Con Tù Lì",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hùng Vương",
+    "location": {
+      "lat": 11.9382846,
+      "lon": 108.4829119
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1d44766a236e9427",
+    "name": "IXORA HOMESTAY & COFFEE",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Tự Phước",
+    "location": {
+      "lat": 11.9432247,
+      "lon": 108.5023931
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "7cfb7b4f57f1305a",
+    "name": "Suối Mơ",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoa Cẩm Tú Cầu",
+    "location": {
+      "lat": 11.9026315,
+      "lon": 108.4401357
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a8c58d629da6c581",
+    "name": "The pet house",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Khe Sanh",
+    "location": {
+      "lat": 11.9310645,
+      "lon": 108.458962
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "4d75c5ea8e03737b",
+    "name": "DÂU Homestay Bbq Đà Lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nguyễn trung trực",
+    "location": {
+      "lat": 11.9317364,
+      "lon": 108.4380715
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "2f1ab902178c3f65",
+    "name": "Lời Của Gió",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Huỳnh Tấn Phát",
+    "location": {
+      "lat": 11.9499845,
+      "lon": 108.4912153
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "30ab019b60c54bb8",
+    "name": "Ngày của Nắng Coffee+",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Gio An",
+    "location": {
+      "lat": 11.9404352,
+      "lon": 108.4200406
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "18b28d9cf9a3d821",
+    "name": "Mọt BBQ & Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hùng Vương",
+    "location": {
+      "lat": 11.9411339,
+      "lon": 108.4620494
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "2be7817d429937b9",
+    "name": "Tiệm cà phê Nhà Bên Suối",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Trúc Lâm Yên Tử",
+    "location": {
+      "lat": 11.9016681,
+      "lon": 108.4447215
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "0d807900f0399a01",
+    "name": "Đồi Mây Đà Lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "ThônTúy Sơn",
+    "location": {
+      "lat": 11.946122,
+      "lon": 108.5286658
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "7e6c34a71c534c46",
+    "name": "Wi’ Dalat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "An Bình",
+    "location": {
+      "lat": 11.9268648,
+      "lon": 108.4368086
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "fda1fcd5203e7fe0",
+    "name": "K'fe House",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Trần Quốc Toản",
+    "location": {
+      "lat": 11.938698,
+      "lon": 108.4444366
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "426e64b993c9df5b",
+    "name": "Quán Của Thời Thanh Xuân",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Triệu Việt Vương",
+    "location": {
+      "lat": 11.9307864,
+      "lon": 108.4284257
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a82b467f3c3b0ddc",
+    "name": "Cánh Đồng Tuyết Đà Lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Đống Đa",
+    "location": {
+      "lat": 11.9230787,
+      "lon": 108.4440079
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "cf6850c313c20658",
+    "name": "Ami Garden Đà Lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Đống Đa",
+    "location": {
+      "lat": 11.9262247,
+      "lon": 108.4410391
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "9d5e978b226e4745",
+    "name": "Gió Đà Lạt The Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoàng Hoa Thám",
+    "location": {
+      "lat": 11.9386585,
+      "lon": 108.4635176
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "ec16471bf0b0f03b",
+    "name": "Mây lang thang",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoàng Hoa Thám",
+    "location": {
+      "lat": 11.9401777,
+      "lon": 108.4633308
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "64f19f53ec8bb27e",
+    "name": "Cafe Guitar Mộc Căn Nhà Xưa",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Ba Tháng Tư",
+    "location": {
+      "lat": 11.9247948,
+      "lon": 108.4470038
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "0160ba04b203b3a5",
+    "name": "Cung Tơ Chiều",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Ngô Thì Sĩ",
+    "location": {
+      "lat": 11.9330414,
+      "lon": 108.426471
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "c5e88ddde5093c3b",
+    "name": "Beautiful restaurant & Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoa Hồng",
+    "location": {
+      "lat": 11.8838468,
+      "lon": 108.4181127
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "27cb8ecd9b2f656f",
+    "name": "Coffee Bên Đồi",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Ankroet",
+    "location": {
+      "lat": 11.9757987,
+      "lon": 108.4155814
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "54a88b105c4d1b5a",
+    "name": "Ghiền BBQ Buffet Đà Lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9354975,
+      "lon": 108.4280796
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1ffc93b42c05d279",
+    "name": "Tiệm cà phê Cheo veooo",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hùng Vương",
+    "location": {
+      "lat": 11.9382754,
+      "lon": 108.482295
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "3d79c68b080ef14c",
+    "name": "The Hillside- Cafe Đà Lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoàng Hoa Thám",
+    "location": {
+      "lat": 11.9382305,
+      "lon": 108.4634314
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "152dd7e15318c38c",
+    "name": "Ông Bà Ba Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nam Hồ",
+    "location": {
+      "lat": 11.9520237,
+      "lon": 108.4801249
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "617450a151e34c5c",
+    "name": "Kimochi coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Trần Quang Diệu",
+    "location": {
+      "lat": 11.9429134,
+      "lon": 108.4677301
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "dfbec74d9fb6d8cd",
+    "name": "Một Nhánh Thông",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Tự Phước",
+    "location": {
+      "lat": 11.9418994,
+      "lon": 108.4789547
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6bbd94e0ed2daf5d",
+    "name": "Vì Yêu Mà Đến Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Tự Phước",
+    "location": {
+      "lat": 11.9457751,
+      "lon": 108.4886556
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "61270f2efd8fc89a",
+    "name": "NERO caffe Dalat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9415489,
+      "lon": 108.4519565
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "c9d1fccfe720a824",
+    "name": "La Mappa Café & Bistro",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9316736,
+      "lon": 108.4267411
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e54ecfb8a194cf85",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9278546,
+      "lon": 108.4323381
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1d5d739af86b2ed6",
+    "name": "Onion Coffee and Pastry Da Lat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Phù Đổng Thiên Vương",
+    "location": {
+      "lat": 11.9718718,
+      "lon": 108.4415823
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e9b40b223ad82929",
+    "name": "Cafe 84 Da Lat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Nguyễn Chí Thanh",
+    "location": {
+      "lat": 11.9399074,
+      "lon": 108.4337467
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "4ba3083becf67fbc",
+    "name": "1thev Coffee Đà lạt",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoàng Hoa Thám",
+    "location": {
+      "lat": 11.9365464,
+      "lon": 108.4632276
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "8f7ad4ed95286a23",
+    "name": "Com",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9479303,
+      "lon": 108.4659099
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "8516f92357d3f77b",
+    "name": "Cozy cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8824278,
+      "lon": 108.4119455
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b756e319125682d7",
+    "name": "An Lạc Tâm Quán Chay 2",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hùng Vương",
+    "location": {
+      "lat": 11.9469983,
+      "lon": 108.4655474
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b1867eff809f3e14",
+    "name": "Vegan restoran Hang Thien",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9539594,
+      "lon": 108.4402362
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a5546cd8aade7618",
+    "name": "Tiệm Chay Thiên Thảo",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9533885,
+      "lon": 108.430021
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "4ab649643bdf080b",
+    "name": "Là Việt Coffee Kiosk",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Khu Hòa Bình",
+    "location": {
+      "lat": 11.9433406,
+      "lon": 108.4358554
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "67e1d7d3e63ec2f9",
+    "name": "Coffee Em và Trịnh",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9374794,
+      "lon": 108.4484536
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "94d801fcca042bc9",
+    "name": "San May Nhà Gõ",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8934665,
+      "lon": 108.5661397
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b0c29d3d62f457cc",
+    "name": "Strawberry",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Thánh Mẫu",
+    "location": {
+      "lat": 11.9748802,
+      "lon": 108.436169
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "453c66833d04895f",
+    "name": "Dalat Eden",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Ankroet",
+    "location": {
+      "lat": 11.9725782,
+      "lon": 108.4193993
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b3529bd15b2735c9",
+    "name": "Hien Nha Co May - Tiem Ca Phe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8928296,
+      "lon": 108.5689074
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "11d98d2b5176f876",
+    "name": "Cafe Thị trấn Nobi",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9477745,
+      "lon": 108.4789434
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "8a1e09bf4870d313",
+    "name": "Le J' Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Yersin",
+    "location": {
+      "lat": 11.9423644,
+      "lon": 108.451511
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "f52cd43b8993d832",
+    "name": "Ty Crêpe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9529468,
+      "lon": 108.4400364
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "fc35a165bfb2fc77",
+    "name": "Daily Log",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Thông Thiên Học",
+    "location": {
+      "lat": 11.9524348,
+      "lon": 108.437507
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "6c7f61465f2eed00",
+    "name": "MK",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Bạch Đằng",
+    "location": {
+      "lat": 11.9635664,
+      "lon": 108.4262873
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "8a25450c588522ef",
+    "name": "Unnamed",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9733659,
+      "lon": 108.4274298
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "3e233dfc5b902f98",
+    "name": "Reo 20° Chill in Dalat",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.888319,
+      "lon": 108.4127615
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "d5e5e93907ba73e7",
+    "name": "K.A. Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Thông Thiên Học",
+    "location": {
+      "lat": 11.9550343,
+      "lon": 108.4369878
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "848c71e24a21c1ff",
+    "name": "Triệu Đóa Hồng",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9485067,
+      "lon": 108.4315829
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "293928ac16df488f",
+    "name": "Proust",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9545369,
+      "lon": 108.4357323
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "bb561aa70345a55e",
+    "name": "Lá Thì Thầm",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9676579,
+      "lon": 108.4392859
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "393212b82e627341",
+    "name": "Cochin Garden",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Cao Bá Quát",
+    "location": {
+      "lat": 11.9626691,
+      "lon": 108.4305487
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b07c5a6cd176a2a7",
+    "name": "D'Lart Garden Drinking & Dining",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Đào Duy Từ",
+    "location": {
+      "lat": 11.9334266,
+      "lon": 108.4340366
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "290e41b54bb6c228",
+    "name": "HOG Specialty Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Huỳnh Thúc Kháng",
+    "location": {
+      "lat": 11.9354171,
+      "lon": 108.4299458
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "32d762448fe2e1a9",
+    "name": "Đômen",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Phạm Ngọc Thạch",
+    "location": {
+      "lat": 11.9487895,
+      "lon": 108.4306161
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "00bfb3ae1e63c5ed",
+    "name": "Phuoc Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Thủ Khoa Huân",
+    "location": {
+      "lat": 11.9402524,
+      "lon": 108.4337279
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b894c3a92374bf06",
+    "name": "Gu Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Trương Công Định",
+    "location": {
+      "lat": 11.9434102,
+      "lon": 108.4356286
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e3c8a137a55acf39",
+    "name": "Kafein Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 11.9587136,
+      "lon": 108.4278046
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "2355e740a240008d",
+    "name": "Rosa Tea",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Hoàng Diệu",
+    "location": {
+      "lat": 11.9426847,
+      "lon": 108.4286917
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "74604b3f21d3becc",
+    "name": "Tay Mo Amateurs Cafe",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9054804,
+      "lon": 108.4519705
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "987f8cd847223455",
+    "name": "Langfarm Buffet",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9417018,
+      "lon": 108.4373364
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a2ddb1bc354db20c",
+    "name": "The Green Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9399588,
+      "lon": 108.4288146
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "89307a5a65e803f2",
+    "name": "Noir Café & Tea",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "Ngô Thì Sy",
+    "location": {
+      "lat": 11.9316838,
+      "lon": 108.4232073
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a59d817aff505930",
+    "name": "1998",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9516573,
+      "lon": 108.4331715
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "7b524da24f0baa62",
+    "name": "MAM",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9483745,
+      "lon": 108.4371599
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "4650b213dc4cd2e9",
+    "name": "Kimoch",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.948978,
+      "lon": 108.4391136
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "efac49fe84081ec9",
+    "name": "Yen",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9504192,
+      "lon": 108.4342582
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "1629b263d193df28",
+    "name": "Phuc Long",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9436802,
+      "lon": 108.4349119
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "01391a1d1d6ece0e",
+    "name": "The Choco",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9434172,
+      "lon": 108.4352738
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b52f43d4cc0e1327",
+    "name": "Mr To",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9462667,
+      "lon": 108.434931
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "662bb6a05b62b42e",
+    "name": "Talus",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9528643,
+      "lon": 108.4356741
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "8c9ef14ee673b7d0",
+    "name": "indigo",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9493025,
+      "lon": 108.4389211
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "aeaeed4725455cb1",
+    "name": "Mint",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9525903,
+      "lon": 108.4367365
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "a063f2930ebc63bc",
+    "name": "Bumbi",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9518384,
+      "lon": 108.4391515
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "51cc67ce56842a7d",
+    "name": "Bin Bin",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.951749,
+      "lon": 108.4391756
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "e866e9eed200a806",
+    "name": "Ôlong Châu",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.8798993,
+      "lon": 108.5668586
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "c34aaa365dc2fa4d",
+    "name": "Cafe Nhà Gô",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9364162,
+      "lon": 108.4330016
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "2777c1bc0ce56535",
+    "name": "MON Coffee",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9392192,
+      "lon": 108.4251772
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  },
+  {
+    "u_key": "b7cc0f3f66569715",
+    "name": "Them Nha Co Hoa",
+    "type": "cafe",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.937439,
+      "lon": 108.4240751
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:44:53.075622"
+  }
+]

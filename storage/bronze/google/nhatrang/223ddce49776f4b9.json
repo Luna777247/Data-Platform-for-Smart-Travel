@@ -1,0 +1,174 @@
+{
+  "u_key": "223ddce49776f4b9",
+  "original_osm_name": "Banh Canh Bun Ca",
+  "google_raw": {
+    "formatted_phone_number": "0976 477 172",
+    "geometry": {
+      "location": {
+        "lat": 12.2375203,
+        "lng": 109.1891731
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2387990802915,
+          "lng": 109.1905354302915
+        },
+        "southwest": {
+          "lat": 12.2361011197085,
+          "lng": 109.1878374697085
+        }
+      }
+    },
+    "name": "Quán Bánh Canh - Bún Cá Hai Cá",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–21:30",
+        "Thứ Ba: 06:00–21:30",
+        "Thứ Tư: 06:00–21:30",
+        "Thứ Năm: 06:00–21:30",
+        "Thứ Sáu: 06:00–21:30",
+        "Thứ Bảy: 06:00–21:30",
+        "Chủ Nhật: 06:00–21:30"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "My Thảo",
+        "author_url": "https://www.google.com/maps/contrib/101543347478387197560/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjJkzq0JUOBCFxRQpRHEFpi70KPoSIJx-tqGZ1cUuS5LqWke_V=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Tui không biết nói gì luôn. Nó rẻ so với cái tô bún bưng ra. Tô bún to mà sức con gái như tôi có thể phải ăn 2 lần. Chứ nhiều dã man. Nước dùng ngon - ngọt thanh mà không hề tanh cá.\n\nMình có bé đi ăn cùng, mà thấy ông con ăn cũng ngon miệng không chê muỗng nào.\n\nKêu tô thập cẩm để được dùng đủ topping. Chả hấp - và chả chiên dai giòn. Lòng không hề bị tanh. Sứa thì tươi nhưng hơi bé không đã miệng cho lắm.\n\nRc mọi người kêu thêm chả mực. Điểm cộng là chả tươi - chiên liền nóng hổi rất ngon. Nhưng điểm trừ là vì chiên xong ăn liền nên miếng chả mực chưa kịp ráo dầu, hơi bị nhiều dầu. Nếu ráo dầu nữa thì hoàn hảo.\n\nNước chấm rất ngon nhé. Nhìn ớt nhiều nhưng không hề cay. Chấm với chả cá hay chả mực đều thấy hợp miệng.\n\nQuán cũng không quá to nên nếu lúc đông có lẽ sẽ thấy hơi ngộp.",
+        "time": 1773135496,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103347847436879084722/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhv4m_E_ol99zId_j9V1j_Add7WudqWsCLoQNDXR_8iqfwlg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình được người địa phương giới thiệu cho quán này. Quán ngon, tràn trề topping.\nTuy nhiên chả cá khá ngọt\nCá dầm ngon\nThích nhất sứa ăn sực sực",
+        "time": 1773020043,
+        "translated": false
+      },
+      {
+        "author_name": "Ngan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111726431404495999677/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFZ8uA_4-KrcB26hI-WFiJatWOqt0nb1IwCMb-MB6jSyd4bBJ1WQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán ngon, khách du lịch nhiều. Ngồi trong quán hơi ngộp do mùi dầu chiên, chỗ đậu xe cũng hạn chế. Sẽ quay lại.",
+        "time": 1773029737,
+        "translated": false
+      },
+      {
+        "author_name": "Mèo Đen",
+        "author_url": "https://www.google.com/maps/contrib/100955871536399714739/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlsLoSVJeEsQxq1I1qlco7K_uxtqt5AhXJEKDqs-YEvPpWmYU2=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Các cô chú nhẹ nhàng thân thiện\nBát siêu to và đầy đặn, cá tươi ăn là biết lun ấy\nGiá sẽ hơi cao xíu nhưng rất xứng đáng với chất lượng, ăn no lắm luôn\nMình người miền Bắc nên thấy hơi ngọt, chứ bạn mình miền Nam ăn khen vừa miệng. Ăn rùi mới biết sao đánh giá trên này cao vậy\nQuán be bé xinh xinh, nhiều khi ko có bàn phải chờ lâu mọi người hoan hỉ nhé",
+        "time": 1770955809,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Phong",
+        "author_url": "https://www.google.com/maps/contrib/102269920815213741094/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbmgDKAkdDj8snQQRE36mBlelGYqTKo6uTUB--mSTannWacsF63g=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ăn sạch sẽ, bát bún cực nhiều topping, ăn hết bún trước mà vẫn còn 1 đống , về khẩuvị đối với mình là ok không quá xuất sắc nhưng đáng để trải nghiệm",
+        "time": 1768614498,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2863
+  },
+  "harvested_at": "2026-05-02T16:08:15.628652"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "u_key": "d5017172666735eb",
+    "name": "TTTM Maslight",
+    "type": "mall",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8462786,
+      "lon": 106.7067728
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:20.062867"
+  },
+  {
+    "u_key": "10ac6eed8810b81f",
+    "name": "Vincom Plaza Imperia",
+    "type": "mall",
+    "city": "haiphong",
+    "address": "",
+    "location": {
+      "lat": 20.8630346,
+      "lon": 106.6619605
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:40:20.062867"
+  }
+]

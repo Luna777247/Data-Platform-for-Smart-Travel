@@ -1,0 +1,173 @@
+{
+  "u_key": "afbc685e1fb5b5d2",
+  "original_osm_name": "Nhà hàng Phủ Lý",
+  "google_raw": {
+    "formatted_phone_number": "0813 198 888",
+    "geometry": {
+      "location": {
+        "lat": 20.5341367,
+        "lng": 105.9187473
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.5355020802915,
+          "lng": 105.9200198802915
+        },
+        "southwest": {
+          "lat": 20.5328041197085,
+          "lng": 105.9173219197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Thứ Cò Phủ Lý - 52 Lê Công Thanh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Duong Dam",
+        "author_url": "https://www.google.com/maps/contrib/115380355268161842520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZ31wZbOxgf5ocdnp4a5E4HN7yCAFUIevaKicBqGTUyqU7GyzM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Vị trí khá thuận lợi, cách nút giao Liêm Tuyền không xa. Đồ ăn tươi ngon. Chim rất ngọt, thơm. Phục vụ khá nhanh. Phòng ăn tầng 1 hơi nhỏ và ồn. Giá cả hợp lý 300k/ng ăn nó. Món xôi chim rất ổn. Miến thì bình thường. Có chỗ đỗ xe thoải mái trên vỉa hè đối diện.",
+        "time": 1773026827,
+        "translated": false
+      },
+      {
+        "author_name": "Đình Trần",
+        "author_url": "https://www.google.com/maps/contrib/110359103117153996946/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrraywo-8mbA1c7HDZ2upaQAeE-UPkBF2ZJSu19qMmoCgJb5o=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "có rất nhiều món về chim to dần ngon sạch sẽ nhân viên phục vụ nhanh . ở đây có rất nhiều quán giống tên nhau “ Thứ Cò “ nên ăn quán số nhà 42-52 vì đây là quán cũ hoạt động lâu chim tươi sống. hẹn quán sẽ quay lại ủng hộ",
+        "time": 1766839448,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Văn Tài",
+        "author_url": "https://www.google.com/maps/contrib/108939749992727495195/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLVP3tz0W_p38DpmodOoQvjmr0_c6XkHXflPLGK2ViZETlEj3h=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Cũng ok. Không gian mát mẻ. Mình gọi 2 chim ngói, 2 chim dẽ giun, 1 xôi, 1 rau muống và 2 Coca hết tổng cộng 600k.",
+        "time": 1758376497,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Duy",
+        "author_url": "https://www.google.com/maps/contrib/115044169475159502052/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJH6FXiqjBqcvQZTe32IH49yx7G3tjIRZbtPcCQ5zEYY0uYyw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rất nhiều món ngon đặc biệt là món cu quay . Đến quán đúng hôm đông phục vụ ổn",
+        "time": 1769692657,
+        "translated": false
+      },
+      {
+        "author_name": "Lò v Toàn",
+        "author_url": "https://www.google.com/maps/contrib/115438353543892661017/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTp0Xkq79pm7qOh9FGxF9ruOOgjpCm5o7vCkiBd0DxP_jZXg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Thấy rất nhiều quán tên thứ cò cùng dãy với nhau vào quán 52 ăn thử thấy rất ngon phục vụ nhanh dặc biệt món cu đất quay thơm rất dễ ăn trẻ con rất thích",
+        "time": 1765978636,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1178
+  },
+  "harvested_at": "2026-04-28T16:26:30.397539"
+}

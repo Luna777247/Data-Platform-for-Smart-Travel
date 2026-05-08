@@ -1,0 +1,174 @@
+{
+  "u_key": "2d2b0702d687a05d",
+  "original_osm_name": "Tous Les Temps Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0355 710 677",
+    "geometry": {
+      "location": {
+        "lat": 12.2418957,
+        "lng": 109.1907143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2432781802915,
+          "lng": 109.1921034802915
+        },
+        "southwest": {
+          "lat": 12.2405802197085,
+          "lng": 109.1894055197085
+        }
+      }
+    },
+    "name": "Tous Les Temps Tea & Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:30",
+        "Thứ Ba: 07:00–22:30",
+        "Thứ Tư: 07:00–22:30",
+        "Thứ Năm: 07:00–22:30",
+        "Thứ Sáu: 07:00–22:30",
+        "Thứ Bảy: 07:00–22:30",
+        "Chủ Nhật: 07:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Serein",
+        "author_url": "https://www.google.com/maps/contrib/101547950400245541648/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8-PSkr76FN4rCpZL1a-rygvkipXIjMNbsTethHHLyKcfHVsus=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhân viên nhiệt tình, dễ thương\nĐồ uống ngon, thích nhất là matcha ở đây siêu ngon, trà sữa hơi béo, khá nhiều đá nên uống cũng k được đậm vị",
+        "time": 1767063934,
+        "translated": false
+      },
+      {
+        "author_name": "Liên Phạm Bích",
+        "author_url": "https://www.google.com/maps/contrib/112828964258080857495/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH0xMmrt4uvlcAHSFxjPdrjU3P8XK1KU3MiClZJcu7a_rGYYM=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "quán lớn mà gọi 1 ly cà phê sữa tươi không đường thì nhân viên kêu không có",
+        "time": 1768440615,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Như Lê Hà",
+        "author_url": "https://www.google.com/maps/contrib/112965787090393312406/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUeL94zEg91gr-wH3KSNPqGbAtxMp173gKgUA1ghXTDC7ldWV4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "nước ngon, không gian thoải mái, nhân viên dễ thương nhiệt tình lắm ạaaaaa🥰🥰",
+        "time": 1768449521,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107647173196116546224/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9TIXRCob5RnzlxGZrbI4j3AlMa2u1c3FAFtY1vOPGSjx65Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nước ngon, rất thích sự phục vụ tận tình của bạn thu ngân ca chiều",
+        "time": 1768564011,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Huyền",
+        "author_url": "https://www.google.com/maps/contrib/114325891443152638622/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrUFZuR1JBb1QmzYxBDyanSSnnKMQjTakVPILhbBk3HE72EIgm=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán rộng rãi, thoáng mát, luôn có những decor cho những ngày lễ Noel hay Tết rất đẹp.\nMình đến đây rất rất nhiều lần, lần nào cũng cảm thấy hài lòng.\nSáng sớm ngồi ở đây cảm nhận gió trời nhìn cây xanh, cảm thấy rất chill luôn.\nNước uống ở đây cũng rất đa dạng. Các bàn có khoản cách hợp lý. Mấy em nhỏ đi lại thoải mái.",
+        "time": 1723944343,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 457
+  },
+  "harvested_at": "2026-05-02T16:08:02.202342"
+}

@@ -1,0 +1,63 @@
+{
+  "u_key": "b7ed5c8cefe1468b",
+  "original_osm_name": "Nhà Hàng La Bicicleta - Barcelona Bistro",
+  "google_raw": {
+    "formatted_phone_number": "024 3718 3156",
+    "geometry": {
+      "location": {
+        "lat": 21.061824,
+        "lng": 105.827651
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0631382802915,
+          "lng": 105.8290484802915
+        },
+        "southwest": {
+          "lat": 21.0604403197085,
+          "lng": 105.8263505197085
+        }
+      }
+    },
+    "name": "La Bicicleta - Barcelona Bistro",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Alexandre",
+        "author_url": "https://www.google.com/maps/contrib/102765892293331204007/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKszkkQBUpq5SdIuqeclMVpa-tcgjXCs74npBy5J6fkFp5ugw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 năm trước",
+        "text": "Một nơi không thể nào quên...\nNó chắc chắn là một trong những trung tâm của thế giới Hà Nội của tôi, giống như ga xe lửa Perpignan từng là trung tâm thế giới của một họa sĩ siêu thực nổi tiếng người Catalan (Dali).",
+        "time": 1415201512,
+        "translated": true
+      },
+      {
+        "author_name": "John Tacon",
+        "author_url": "https://www.google.com/maps/contrib/100631821080422978250/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzApfNL7A-njytILzOhNNyRi6I9-HGOnE4OFd11V5tWjx41VRa6g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "10 năm trước",
+        "text": "Nơi tuyệt vời trong thời gian nó còn tồn tại.",
+        "time": 1457624573,
+        "translated": true
+      },
+      {
+        "author_name": "Yoshimi Matsumoto",
+        "author_url": "https://www.google.com/maps/contrib/106885954068228738024/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhoeDc531Rzc1BVgB1ArfkUaHqOeV9MyfhIYMvRZHsrYBExdxb=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 năm trước",
+        "text": "",
+        "time": 1451534792,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-04-28T16:21:45.131430"
+}

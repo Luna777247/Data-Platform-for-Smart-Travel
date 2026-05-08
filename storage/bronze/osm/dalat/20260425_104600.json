@@ -1,0 +1,1016 @@
+[
+  {
+    "u_key": "69c1505403935928",
+    "name": "Trúc Tiên Guesthouse",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9410884,
+      "lon": 108.4310999
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "743d311ab80b1004",
+    "name": "Mr. Peace's Backpackers House",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9438226,
+      "lon": 108.4314933
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "a8b661d49c0e9cf3",
+    "name": "Wolfpack Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9513203,
+      "lon": 108.4349358
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "f9d68eb9f4ed1093",
+    "name": "Dalat Rock Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9432628,
+      "lon": 108.4310018
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "8ba8a98478717588",
+    "name": "Tiny Tigers",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Đoàn Thị Điểm",
+    "location": {
+      "lat": 11.938445,
+      "lon": 108.4315894
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "b14610bc1d9ab4c1",
+    "name": "Pizza Tet Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Trần Lê",
+    "location": {
+      "lat": 11.9374665,
+      "lon": 108.427719
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "7d215e547a1af551",
+    "name": "Note hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9515583,
+      "lon": 108.4366799
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "beb1f7fed008e9c2",
+    "name": "City Pass Homestay",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9417853,
+      "lon": 108.4283817
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "d6765eeb0f9d9b42",
+    "name": "The Old House Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 11.9520203,
+      "lon": 108.4317179
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "5afeb6fbfdecf3c3",
+    "name": "Dalat Alan Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Nguyễn Thị Nghĩa",
+    "location": {
+      "lat": 11.9512093,
+      "lon": 108.4393687
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "758a16a4e26c7929",
+    "name": "Dalat easy friends hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9386347,
+      "lon": 108.4337583
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "da6dbd86b1c4aee8",
+    "name": "Backpackers Paradise",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9389015,
+      "lon": 108.4329776
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "865ebee953439c52",
+    "name": "Whoops Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9370181,
+      "lon": 108.4277422
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "1f61fb92bc383fdc",
+    "name": "Backpackers Paradise",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9372229,
+      "lon": 108.4291523
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "ac1de89ba3e7c609",
+    "name": "TAY Backpackers",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.941177,
+      "lon": 108.43293
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "08dffbd35ab775c5",
+    "name": "Backpackers Paradise",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Hoàng Văn Thụ",
+    "location": {
+      "lat": 11.9373721,
+      "lon": 108.4300118
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "9cd0284343aa04bc",
+    "name": "Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9362738,
+      "lon": 108.427588
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "ca7f0247cb66ca7a",
+    "name": "Dobby House Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9361031,
+      "lon": 108.4275461
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "de626692f9bf5594",
+    "name": "Ngôi Nhà Xanh",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Khu Quy Hoạch Hoàng Văn Thụ",
+    "location": {
+      "lat": 11.937455,
+      "lon": 108.4286845
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "e649e595310204a3",
+    "name": "Phuong huy 3.guest house",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9457851,
+      "lon": 108.439655
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "c3b3806ce0dfff32",
+    "name": "Cozy Nook Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Trần Phú",
+    "location": {
+      "lat": 11.9361498,
+      "lon": 108.4341452
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "7ea3a26f65e91e7b",
+    "name": "Dalat Friendly Fun Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9401446,
+      "lon": 108.4275536
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "35e81eeb246c7d44",
+    "name": "Truong Cong Dinh",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9442576,
+      "lon": 108.4342736
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "1bd5ec9a5374a4e7",
+    "name": "Mooka's Home",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Cổ Loa",
+    "location": {
+      "lat": 11.9549549,
+      "lon": 108.4355077
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "7368b57ae52ec2bd",
+    "name": "Happy Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9515121,
+      "lon": 108.4369798
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "2f1ed77ec9e6d0e9",
+    "name": "Pretty Backpackers House",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Hai Bà Trưng",
+    "location": {
+      "lat": 11.9437898,
+      "lon": 108.431363
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "37fd55ac344396d5",
+    "name": "Pretty backpackers house",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9438024,
+      "lon": 108.4313119
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "404f84792d145ae2",
+    "name": "M hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.93744,
+      "lon": 108.43286
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "87a1e5af30e8f0f4",
+    "name": "Nha Kim Cuong",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Bùi Thị Xuân",
+    "location": {
+      "lat": 11.9520432,
+      "lon": 108.4391749
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "c93a2a65e561f8de",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9384761,
+      "lon": 108.4301166
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "82672f4021495f14",
+    "name": "Dalat Easy Friends Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9385619,
+      "lon": 108.4328849
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "2772337739866730",
+    "name": "Pi hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9402347,
+      "lon": 108.4331749
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "4db712ae90a4d780",
+    "name": "Pretty Backpacker House",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.943801,
+      "lon": 108.43139
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "8805ee1ea151fec5",
+    "name": "V-Dragon Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9380326,
+      "lon": 108.4325571
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "b38421fc3b301d98",
+    "name": "Cozy Nook Hostel 2",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9427707,
+      "lon": 108.4331869
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "923a6a571bd4bfab",
+    "name": "Solo Dalat Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.952844,
+      "lon": 108.4339914
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "1ebdea313b463bda",
+    "name": "Lucky D's Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Nguyễn Văn Trỗi",
+    "location": {
+      "lat": 11.9460536,
+      "lon": 108.4363221
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "d6c768869a8a30e5",
+    "name": "Red House Backpacker",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Lương Thế Vinh",
+    "location": {
+      "lat": 11.933164,
+      "lon": 108.4427889
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "9186a50d623d5994",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9524449,
+      "lon": 108.4300508
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "c92926302626fd6c",
+    "name": "Le Soleil Dalat Homestay",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Nguyễn Lương Bằng",
+    "location": {
+      "lat": 11.9528354,
+      "lon": 108.4362423
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "1bc85cb749a657e6",
+    "name": "Cherry villa & Bungalow",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Tô Hiến Thành",
+    "location": {
+      "lat": 11.9286698,
+      "lon": 108.4430775
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "b6fcc7b9a44cb9f2",
+    "name": "IDorms",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9446556,
+      "lon": 108.4400965
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "66b608c70a42fdd7",
+    "name": "The Shelter",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Triệu Việt Vương",
+    "location": {
+      "lat": 11.9247839,
+      "lon": 108.4362405
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "5a04cecc65fd2cb6",
+    "name": "Solo DaLat Hostel (this is the entrance road to the hostel)",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9520661,
+      "lon": 108.4330177
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "febdc9da33dcee54",
+    "name": "iColors Dalat Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Đặng Thái Thân",
+    "location": {
+      "lat": 11.9295163,
+      "lon": 108.449563
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "16a4db53c810dc7c",
+    "name": "Leo's Family hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Hoàng Văn Thụ",
+    "location": {
+      "lat": 11.9375628,
+      "lon": 108.4292722
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "9d080f2076bf22d6",
+    "name": "Kí túc xá tỉnh Lâm Đồng",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.980966,
+      "lon": 108.4261589
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "ba1493a860826862",
+    "name": "Da Lat Backpackers Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.945877,
+      "lon": 108.4354823
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "7c045de52fe32b83",
+    "name": "Da Lat Backpackers Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9363472,
+      "lon": 108.4410532
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "31d5ddacb1b0b602",
+    "name": "Dalat Easy Friend Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Phan Đình Phùng",
+    "location": {
+      "lat": 11.9510251,
+      "lon": 108.434769
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "13ec4c348a500374",
+    "name": "Dalat Coffee House Homestay",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9411096,
+      "lon": 108.4229237
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "0f06c6c2e0ac6fab",
+    "name": "Brothers Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9593528,
+      "lon": 108.4413152
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "3fc8bf419ce097d7",
+    "name": "chị Tùng;Chị Tùng",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Trần Khánh Dư",
+    "location": {
+      "lat": 11.9602534,
+      "lon": 108.4412388
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "b5e13b45c7ab8381",
+    "name": "Spider Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9542487,
+      "lon": 108.4404129
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "f9c5d3ac1d204603",
+    "name": "Vie Dallat",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Đống Đa",
+    "location": {
+      "lat": 11.9241195,
+      "lon": 108.4428484
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "5c6c6b7cf7d3818d",
+    "name": "Yolo Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Trương Công Định",
+    "location": {
+      "lat": 11.9435196,
+      "lon": 108.435053
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "787a1d2dda4df790",
+    "name": "Mai Anh Dao",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.93842,
+      "lon": 108.4319381
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "ac431db32b0bf7a1",
+    "name": "Beginning Homestay",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Lữ Gia",
+    "location": {
+      "lat": 11.9544232,
+      "lon": 108.4636456
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "52f166c6b0118a50",
+    "name": "HomeKey Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9409899,
+      "lon": 108.4276266
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "f20a559d5f60013d",
+    "name": "Beginning Homestay",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Lữ Gia",
+    "location": {
+      "lat": 11.9544282,
+      "lon": 108.4636542
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "7f5821a7fe61620b",
+    "name": "Nguyen Minh Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Hải Thượng",
+    "location": {
+      "lat": 11.9428365,
+      "lon": 108.430937
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "5b24c1cddf9a1937",
+    "name": "Ali Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9432365,
+      "lon": 108.4299654
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "2bf4f1936911d921",
+    "name": "Moc Thach Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9409756,
+      "lon": 108.4273404
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "b3ba1ba78edc7fb3",
+    "name": "Big Home Dalat Homestay",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.933353,
+      "lon": 108.4324085
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "e438ceab8018d818",
+    "name": "Cam Ly",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9332673,
+      "lon": 108.4324791
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "3a8f16f8916fd3c4",
+    "name": "Unnamed",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9335739,
+      "lon": 108.436364
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "c1d9d73a065c278b",
+    "name": "Hugo family hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9277436,
+      "lon": 108.4313065
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "feef4416a31690cb",
+    "name": "Together is Home",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Thủ Khoa Huân",
+    "location": {
+      "lat": 11.9403721,
+      "lon": 108.4340613
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "7c375cdd61bf1c9e",
+    "name": "New Sleep in Dalat",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9483579,
+      "lon": 108.4366443
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "164b613e94d315ea",
+    "name": "Dalat Note Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Bà Triệu",
+    "location": {
+      "lat": 11.9373821,
+      "lon": 108.4342906
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "adeacfa91fbcc1ab",
+    "name": "Ký túc xá Nguyễn Hoàng",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Nguyễn Hoàng",
+    "location": {
+      "lat": 11.982089,
+      "lon": 108.4258573
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "c184b3f2cff33bf8",
+    "name": "O Mo Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9419174,
+      "lon": 108.4297121
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "859b288dc39bc0bb",
+    "name": "Tiny Tigers Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Khu quy hoạch Hoàng Văn Thụ",
+    "location": {
+      "lat": 11.9374063,
+      "lon": 108.4291947
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "9e0768f14f9bbb6f",
+    "name": "Dalat Central Stay hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.94038,
+      "lon": 108.4331936
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "505687b08acefb7e",
+    "name": "The Lake House Dalat",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Tuyen Lam Marina",
+    "location": {
+      "lat": 11.9003969,
+      "lon": 108.4342281
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "c96f408bbff3f33f",
+    "name": "Đồng Đức Hostel",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "Thông Thiên Học",
+    "location": {
+      "lat": 11.9528778,
+      "lon": 108.4379023
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "246e09ebc870cded",
+    "name": "Ký túc xá Đại học Đà Lạt",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9641952,
+      "lon": 108.4423956
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  },
+  {
+    "u_key": "0ebb2613f4a6dbdb",
+    "name": "Bika",
+    "type": "hostel",
+    "city": "dalat",
+    "address": "",
+    "location": {
+      "lat": 11.9503137,
+      "lon": 108.4274291
+    },
+    "source": "osm",
+    "ingestion_at": "2026-04-25T10:46:00.355308"
+  }
+]

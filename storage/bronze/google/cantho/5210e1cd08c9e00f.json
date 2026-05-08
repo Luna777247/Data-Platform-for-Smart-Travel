@@ -1,0 +1,173 @@
+{
+  "u_key": "5210e1cd08c9e00f",
+  "original_osm_name": "Can Tho Riverside Hostel",
+  "google_raw": {
+    "formatted_phone_number": "0934 188 687",
+    "geometry": {
+      "location": {
+        "lat": 10.0623548,
+        "lng": 105.7415203
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.0637371302915,
+          "lng": 105.7429014302915
+        },
+        "southwest": {
+          "lat": 10.0610391697085,
+          "lng": 105.7402034697085
+        }
+      }
+    },
+    "name": "Can Tho Riverside Hostel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–23:00",
+        "Thứ Ba: 06:00–23:00",
+        "Thứ Tư: 06:00–23:00",
+        "Thứ Năm: 06:00–23:00",
+        "Thứ Sáu: 06:00–23:00",
+        "Thứ Bảy: 06:00–23:00",
+        "Chủ Nhật: 06:00–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Yen Voogt",
+        "author_url": "https://www.google.com/maps/contrib/115418041899333180925/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6WiY0vy-NPcp-wEtkS766wdFK8l1RRYB1oMjdDwaJ95t7bglEXA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Đệm hơi mềm. Nhưng giá phòng hostel rất tốt (100k/đêm). Host thân thiện. Khu WC sạch sẽ. Nhiều khách nước ngoài.",
+        "time": 1747134938,
+        "translated": false
+      },
+      {
+        "author_name": "Imperial Tú Hồ",
+        "author_url": "https://www.google.com/maps/contrib/102756557101912741157/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxoTkCf90q9opEDaf3AcX8WVK2G8szgkeXoWNFvl4XkcsF8cZdQg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình có 1 chuyến đi qua Cần Thơ và ở lại đây 1 đêm, với mức giá hợp lý, mọi thứ đều tốt, đầy đủ tiện nghi so với mặt bằng chung tại Cần Thơ, chủ sở hữu ở đây thân thiện, vui vẻ và nhiệt tình hỗ trợ mình trong suốt thời gian mình lưu trú, Recommend cho các bạn nào thích không gian yên tĩnh, cách xa không khí ồn ào của thành phố.",
+        "time": 1723990754,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Dũng",
+        "author_url": "https://www.google.com/maps/contrib/103390503094686084528/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdzbm36RnQILJN2kr53SVrstICnaZbvo-yYq21KeMtu1MvanJd=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Hostel decor dễ thương, không gian thoáng mát, có quầy bar, bida, có tour tham quan, nhân viên nhiệt tình. Sẽ quay lại nếu có dịp.",
+        "time": 1566314971,
+        "translated": false
+      },
+      {
+        "author_name": "Ngân Dư",
+        "author_url": "https://www.google.com/maps/contrib/111025022884549778736/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpi2TAVvaAMAjsuXVPZvvMKkot1M62lWKn6kn-Aag2h5L23-GgAw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Rất tốt, có cho thuê xe máy vào nội ô thành phố, mọi người đều dễ thương, nhiệt tình, đồ ăn ngon, giá rẻ, chỗ ở và nhà tắm sạch sẽ, máy lạnh đầy đủ tiện nghi, ... Nói chung là siêu siêu hài lòng",
+        "time": 1552747301,
+        "translated": false
+      },
+      {
+        "author_name": "Khánh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100093547244490988182/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpZFn_Ms19iWZDvp5d4kJotFwFUPKYLnGuoGW8XWWgyMogeg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Rất tuyệt vời cho 5sao, phục vụ tốt giá rẻ,nhân viên vui vẻ nhiệt tình",
+        "time": 1735602500,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 149
+  },
+  "harvested_at": "2026-04-30T15:18:28.573466"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "5c79ea1ebadbb73e",
+  "original_osm_name": "Sổ Zách",
+  "google_raw": {
+    "formatted_phone_number": "0905 674 655",
+    "geometry": {
+      "location": {
+        "lat": 16.0591856,
+        "lng": 108.2215736
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0605664802915,
+          "lng": 108.2228928802915
+        },
+        "southwest": {
+          "lat": 16.0578685197085,
+          "lng": 108.2201949197085
+        }
+      }
+    },
+    "name": "Quán Cơm Gà Số Zách",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Mac Anh Hao",
+        "author_url": "https://www.google.com/maps/contrib/103974950700148370707/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYYOcIpQx2mQhLIhhmdsz98_TW3lIT3twCcrsE-v1lFUAQ4peL=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cơm và gà làm vị ngon & vừa miệng. Đặc biệt hạt cơm giòn rất đáng được đánh giá cao",
+        "time": 1770296556,
+        "translated": false
+      },
+      {
+        "author_name": "Trọng Võ",
+        "author_url": "https://www.google.com/maps/contrib/109720260431547022785/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUm12B8mDZBahI_vtNy5nQC0rAvoFAfSVrB9n9VBIj6LNZr9HAx=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Cơm thố ngon, gà ăn ngon.\nKhông gian quán rộng rãi\nVote 5 sao.",
+        "time": 1674799186,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Thuy",
+        "author_url": "https://www.google.com/maps/contrib/114781749986007098836/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIS6DF5XDthW0g-65J1nU3IcU8JoTQXUr5SMroOxLivcYJYkw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 tháng trước",
+        "text": "Hộp cơm như này mà 40k á hả? Ăn cũng k ngon\nDịch vụ kém",
+        "time": 1748583028,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Thư nguyen thi",
+        "author_url": "https://www.google.com/maps/contrib/101419553569019681091/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWK9dQngXrc311VBknWvOulaxBSDcRC7ZswOGIBy9m2MCcSHdZBaw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "3 năm trước",
+        "text": "Vị k có gì đặc biệt, tính ra là mắc quá cho 1 phần xôi như vậy. Làm thì lâu kinh khủng.\nCác bạn review nhận tiền cũng đừng làm lố quá giùm.",
+        "time": 1672151504,
+        "translated": false
+      },
+      {
+        "author_name": "Tin Trung",
+        "author_url": "https://www.google.com/maps/contrib/117978302429785027810/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9rUYsSGYL-B-FdcXk_VpWUy4kc03RGJ5EseKMoPYpvy3Mqg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "1. Quán cực kỳ mất vệ sinh\n2. Nhân viên không nhiệt tình\n3. Cố tình chặt chém khách du lịch\nphần cơm 45 - 60k không tới 1 miếng thịt 50g. Thực sự bực mình về quán cơm này. Hy vọng mọi có thể né quán ăn này ra",
+        "time": 1712556832,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 128
+  },
+  "harvested_at": "2026-04-28T16:43:47.183347"
+}

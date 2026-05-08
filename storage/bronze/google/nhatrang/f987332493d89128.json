@@ -1,0 +1,174 @@
+{
+  "u_key": "f987332493d89128",
+  "original_osm_name": "Phỏ Hạnh Phúc",
+  "google_raw": {
+    "formatted_phone_number": "0978 117 235",
+    "geometry": {
+      "location": {
+        "lat": 12.2441179,
+        "lng": 109.191114
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2454989802915,
+          "lng": 109.1924132302915
+        },
+        "southwest": {
+          "lat": 12.2428010197085,
+          "lng": 109.1897152697085
+        }
+      }
+    },
+    "name": "Phở Hạnh Phúc",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–21:00",
+        "Thứ Ba: 06:00–21:00",
+        "Thứ Tư: 06:00–21:00",
+        "Thứ Năm: 06:00–21:00",
+        "Thứ Sáu: 06:00–21:00",
+        "Thứ Bảy: 06:00–21:00",
+        "Chủ Nhật: 06:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Su Su",
+        "author_url": "https://www.google.com/maps/contrib/102193141476475476026/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuAk9SSWoul12y7LMF6smANq2XHjUhmOFilFt6MiM1g9ZyMi1M=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Ghé quán vì thấy được review khá tốt, nhưng phở không hợp khẩu vị mình lắm. Mình đi 2 người, gọi phở tái và phở tái bò viên, nhân viên có hỏi muốn dùng bánh nam hay bánh bắc. Do không hỏi lại kĩ nên mình gọi bánh bắc, hoá ra đó là sợi hủ tíu chứ không phải sợi phở. Nước dùng rất mặn, dù thêm giá và chanh vẫn không át được vị mặn này. Điểm cộng là thịt bò mềm, tuy nhiên sẽ không ghé lại lần hai.",
+        "time": 1769148302,
+        "translated": false
+      },
+      {
+        "author_name": "Rachel",
+        "author_url": "https://www.google.com/maps/contrib/117169788675786488233/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL1TZUWCXmQZugcbqD0u_LxsisZTPUdjOaLvW002KGXAp3tM8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Bánh phở thái tay, có khu tráng và làm phở xem được cũng hay hay. Cảm quan bánh phở hơi dày chút nhưng nước dùng và thịt bò ổn. Có tương ớt phở và dấm tỏi ngon. Bánh phở có lựa chọn giữa bánh phở bắc và nam. Nhân viên nhiệt tình. Lên đồ nhanh k cần đợi. Có cả bún bò ăn cũng oke",
+        "time": 1758293614,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Đình Lực",
+        "author_url": "https://www.google.com/maps/contrib/106529667256408263144/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqSur9BYx1BHzfT9AajrE7cJhV9KedSU13e9OKbYemxxisfNHs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán nằm ngay mặt đường Ngô Gia Tự, quán 2 mặt tiền, góc ngã tư. Quán có cả chỗ ngồi trong nhà và ngoài hiên. Khá rộng rãi.\nBánh phở có vẻ là tự làm, mềm hơn sợi phở bình thường. Thịt bò khá mềm, bò tái nhìn k đẹp mắt bằng các chỗ khác nhưng ăn lại khá mềm\nGiá cho 1 bát tái gầu là 60k. Nói chung ổn\nQuán bán cả phở thố đá nhé",
+        "time": 1758688306,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Quỳnh",
+        "author_url": "https://www.google.com/maps/contrib/103600391423270498006/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq4_uD439zqZo1EGR2g29HrwUxkrNad2TcwnZm8-JNVCw61zCLWw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Công nhận lần đầu tiên đi ăn tô phở mà đáng đồng tiền bát gạo ghee, nhân viên nhiệt tình, ra đồ ăn khá nhanh",
+        "time": 1772413977,
+        "translated": false
+      },
+      {
+        "author_name": "Ha My",
+        "author_url": "https://www.google.com/maps/contrib/107345653584447082661/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWCSCxs9UYLCBAQSMYI7DxiMuuieC-nuYGedBaCdHPzB8WXzcJtg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán rộng rãi ngòồi phía ngoài rất thoáng và dễ chịu. Ăn sáng rồi ngắm phố phường đúng kiểu Hà Nội nhưng mà là ở Nha Trang 😁 quán giữa ngã 4 nên rất đông đúc\nSợi phở mình ăn chưa quen lắm nhưng thịt thì ngon, nước dùng khá thanh và bát 60k đầy đặn\nĐồ dùng sạch sẽ, nhiều rau; tương ớt đầy đủ\nNhân viên nhanh nhẹn và support khách khá nhiệt tình",
+        "time": 1753322068,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 10754
+  },
+  "harvested_at": "2026-05-02T15:16:02.047223"
+}

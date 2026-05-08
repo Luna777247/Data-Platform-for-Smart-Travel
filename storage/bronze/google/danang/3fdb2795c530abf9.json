@@ -1,0 +1,52 @@
+{
+  "u_key": "3fdb2795c530abf9",
+  "original_osm_name": "Nhà trọ Nguyễn Thị Minh",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0427327,
+        "lng": 108.1675288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0441171302915,
+          "lng": 108.1689132802915
+        },
+        "southwest": {
+          "lat": 16.0414191697085,
+          "lng": 108.1662153197085
+        }
+      }
+    },
+    "name": "Nhà trọ Minh Tài",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Manh Hung",
+        "author_url": "https://www.google.com/maps/contrib/101763797399521779018/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWiNwG9LSxIPsv1qtur09NideByrXXf6tQ0-DCcqLlHbt9TwASOQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Phòng trọ gần trường đại học, vị trí cao ráo, không khí mát mẻ.",
+        "time": 1665280393,
+        "translated": false
+      },
+      {
+        "author_name": "Tài Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102235339237501580859/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-su1EYX3KNqh-_pncWJivP_ZP8GykrHgLPxS38D_HfhcfYA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Phòng sạch sẽ thoáng mát, tự do",
+        "time": 1698376897,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-28T16:34:59.528734"
+}

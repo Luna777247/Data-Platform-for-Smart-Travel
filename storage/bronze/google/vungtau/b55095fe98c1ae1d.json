@@ -1,0 +1,41 @@
+{
+  "u_key": "b55095fe98c1ae1d",
+  "original_osm_name": "Cap Saint Jacques Hotel",
+  "google_raw": {
+    "formatted_phone_number": "0254 3859 248",
+    "geometry": {
+      "location": {
+        "lat": 10.3508375,
+        "lng": 107.099901
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3520131302915,
+          "lng": 107.1014555802915
+        },
+        "southwest": {
+          "lat": 10.3493151697085,
+          "lng": 107.0987576197085
+        }
+      }
+    },
+    "name": "Khu phức hợp Cap Saint Jacques",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Tuấn Anh Lê",
+        "author_url": "https://www.google.com/maps/contrib/101721838745764099621/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSya8-ynhEbVNcYtFlCPnNXVNnXCCP8TyN0QJJkZTvWFdP-kCQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Vị trí tòa nhà đẹp gần trung tâm, sát bên công viên bãi sau mới khánh thành. Thiết kế sang trọng, hiện đại.",
+        "time": 1767079512,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-05-03T19:47:50.414502"
+}

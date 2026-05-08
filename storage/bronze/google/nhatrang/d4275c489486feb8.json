@@ -1,0 +1,109 @@
+{
+  "u_key": "d4275c489486feb8",
+  "original_osm_name": "Duong Minh Ngyen Ngoc",
+  "google_raw": {
+    "formatted_phone_number": "0985 328 214",
+    "geometry": {
+      "location": {
+        "lat": 12.2873604,
+        "lng": 109.1944092
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2887146302915,
+          "lng": 109.1956978802915
+        },
+        "southwest": {
+          "lat": 12.2860166697085,
+          "lng": 109.1929999197085
+        }
+      }
+    },
+    "name": "Nhà Nghỉ Minh Ngọc Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Kiều Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114103134223667137141/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSNFHQAtwyWB63cbJgXx_eW_IiHdDa-NIdLT8ljJMWb0Tv08NoGA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Phòng sạch sẽ thoáng mát,2 lầu,lầu cao nhất có ban công thoáng,có bảng giá cả rõ ràng ,giá cả hợp lí,có cơ hội sẽ ghé l2",
+        "time": 1753960637,
+        "translated": false
+      },
+      {
+        "author_name": "Namm",
+        "author_url": "https://www.google.com/maps/contrib/100074493340115223600/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfekOKeNr7ENMwsqP5NhhR1FGYxVkgIufeRRcxuR4K0sdQNEw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quá tệ phòng dơ, khăn bẩn né gấp",
+        "time": 1764590102,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Tường Cao",
+        "author_url": "https://www.google.com/maps/contrib/105140493112270073593/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcgDi3fzY6lq72TimkJWXCQlRTfxqbqGeI-JL3D8Q-N8_Uyjs=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "Khi vào ở thì nói giá khác lúc ra về thì lấy giá khác",
+        "time": 1754472898,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Nguyễn Vlog",
+        "author_url": "https://www.google.com/maps/contrib/108221102680570116561/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsaNHV7rlVcpFi2RhSyvAJ71C0oWaeThPfXxL5FkegECgdlYsw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Phòng ở qua đêm chỉ tới 9h sáng mng nhớ chú ý trước khi thuê. Giá này thì mình có thể bỏ thêm ít để đi chỗ khác nhiều dịch vụ hơn",
+        "time": 1692076286,
+        "translated": false
+      },
+      {
+        "author_name": "Tín Hồ",
+        "author_url": "https://www.google.com/maps/contrib/109126051595824474871/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrx8WpZA1Xoh9TiwpTtLITT3KFAZogdAbYZFRs_Qr7SrxkLFiW7A=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Csvc ok, phòng ốc sạch. Tuy nhiên nặng mùi thuốc lá, mền có mùi mốc và thuốc lá. Tv hư cáp ko mở đài đc.\n\nNhìn nhận phòng lúc 20h giá 160k. Ngày hôm sau ở cả ngày 220k. Thứ 7, CN.",
+        "time": 1686582992,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 36
+  },
+  "harvested_at": "2026-05-02T15:34:58.409576"
+}

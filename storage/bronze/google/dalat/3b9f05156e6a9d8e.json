@@ -1,0 +1,173 @@
+{
+  "u_key": "3b9f05156e6a9d8e",
+  "original_osm_name": "Tiệm nướng Trạm Dừng Chill",
+  "google_raw": {
+    "formatted_phone_number": "0989 765 070",
+    "geometry": {
+      "location": {
+        "lat": 11.9542027,
+        "lng": 108.4946325
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9555837802915,
+          "lng": 108.4959267802915
+        },
+        "southwest": {
+          "lat": 11.9528858197085,
+          "lng": 108.4932288197085
+        }
+      }
+    },
+    "name": "Tiệm Nướng Trạm Dừng Chill",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 15:00–23:00",
+        "Thứ Ba: 15:00–23:00",
+        "Thứ Tư: 15:00–23:00",
+        "Thứ Năm: 15:00–23:00",
+        "Thứ Sáu: 15:00–23:00",
+        "Thứ Bảy: 15:00–23:00",
+        "Chủ Nhật: 15:00–23:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Ngọc Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110272472288264945783/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWx8-1dqYsRTaL_W_A_ThBEFZaEnOy_9n_gnHyfI5cGTHPWk_Wbw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn khá ok thôi. Khẩu vị mình dễ ăn nhưng thấy ăn cũng ok thôi chưa có món để quay lại.\nDịch vụ ok quán khá rộng nên thông cảm cho các bạn nhân viên\nKhuôn viên siêu rộng siêu đẹp. Siêu chill và lãng mạng thích hợp đi gia đình đông người\nQuán k có đặt bàn trước, đến tầm 4h là ok. Có chổ đậu ô tô",
+        "time": 1772878436,
+        "translated": false
+      },
+      {
+        "author_name": "Ngân Trần (LiLi Trần)",
+        "author_url": "https://www.google.com/maps/contrib/117746142630827739893/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbkZ7r-AkPF64JXf7c8kGxX8a7eHV0NKi5QqB6rN8SEUvurO0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đã ghé quán ngày 7/2/26.\nNhưng tới quán phải ngồi chờ. Lúc gọi điện đặt bàn thì quán báo là quán không nhận đặt bàn. Đến vẫn phải đợi xếp hàng. Nhưng khi đến lượt tụi mình thấy vẫn còn bàn trống khu vực dưới nhiều thì tụi mình ngỏ ý xin xuống phía dưới thì nhân viên nói dưới đó bàn đặt hết rồi. Thật khó hiểu. Đồ ăn ở đây cũng bình thường, tôm không tươi. Chỉ vớt vát lại được điểm công là bạn nhân viên đứng bàn mình rất nhiệt tình và nhìn rất hiền. ( bạn dẫn bàn là bạn khác nhé )",
+        "time": 1770505180,
+        "translated": false
+      },
+      {
+        "author_name": "Hưng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109135496287730413065/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjkWt-TVLyWO8jDbIpobFZQtc22TD17SCUDzmnUfOosRCPKAPw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon , nên ăn mì thay vì cơm nha , không gian quán thoáng mát dễ chịu , rộng rãi . Cũng recommend mọi người trải nghiệm thử 🥰🫰",
+        "time": 1772112186,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Uyên Nguyễn Phùng",
+        "author_url": "https://www.google.com/maps/contrib/117554277978626835801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-tsPGlCy1CsYttKyFWObSIbqF_VJVD4VbBJVq1WBd3hylJA7_=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn không hợp khẩu vị mình lắm. Rcm mng ăn bò cuộn kim châm rất ngon. Còn mấy thịt còn lại thì cay và mặn nhiều. Ly trà dứa mình order bị chua nhiều hic hic 🥹",
+        "time": 1772766724,
+        "translated": false
+      },
+      {
+        "author_name": "Lâm Kim Phụng",
+        "author_url": "https://www.google.com/maps/contrib/104985016774039105222/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaJWI1srnEH9wNf-31vO6oRi1KaO6nlIioAeBNkQv4SNROICwwFA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình chỉ biết quán qua review và đây là lần đầu tiên mình và gia đình trải nghiệm. Nhà mình đi cuối tuần dịp 8/3 nên quán rất rất là đông. Có nhiều khách chờ khá lâu mới có bàn ngồi nhưng nhà mình có đặt bàn trước. Nhà mình ngồi khu vực ngoài trời có mái che nên khá lạnh nhưng ngắm tàu lửa và phong cảnh phía ngoài rất rõ. Các món ăn ở đây cũng khá ổn. Đặc biệt là lẩu cá tầm khá ngon. Mọi người nhớ thử nha ❤️",
+        "time": 1773079317,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6162
+  },
+  "harvested_at": "2026-04-30T14:58:42.411949"
+}

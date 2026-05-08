@@ -1,0 +1,173 @@
+{
+  "u_key": "d397ec46b7c14228",
+  "original_osm_name": "Nhà Hàng Frozen Yogurt",
+  "google_raw": {
+    "formatted_phone_number": "0387 561 808",
+    "geometry": {
+      "location": {
+        "lat": 21.0331771,
+        "lng": 105.8522737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0344668802915,
+          "lng": 105.8536200302915
+        },
+        "southwest": {
+          "lat": 21.0317689197085,
+          "lng": 105.8509220697085
+        }
+      }
+    },
+    "name": "Tropirista Frozen Yogurt 2",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–23:00",
+        "Thứ Ba: 10:30–23:00",
+        "Thứ Tư: 10:30–23:00",
+        "Thứ Năm: 10:30–23:00",
+        "Thứ Sáu: 10:30–23:00",
+        "Thứ Bảy: 10:30–23:00",
+        "Chủ Nhật: 10:30–23:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Trường Lục Văn",
+        "author_url": "https://www.google.com/maps/contrib/107910254805308761422/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbEMnsqkV75Ug0FOn3KqAXMd8QqaHZFnXmMHUCNkHby3iCrP1h=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "trong tuần trước",
+        "text": "Nhân viên rất đáng yêu, sạch sẽ. Ăn giống vị của mấy hãng lớn lúc ăn bên Malay, mùa hè ăn đã",
+        "time": 1777099665,
+        "translated": false
+      },
+      {
+        "author_name": "Lam nguyen tung",
+        "author_url": "https://www.google.com/maps/contrib/117160901055081772281/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT33CQdDgq1-voHo1rc1JpDX_CSXchSpyw2r-qCzgPBVFxcRuuZQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "trong tuần trước",
+        "text": "Đi ngang qua ăn thử mà ngon nha, sạch sẽ. Nhân viên thân thiện",
+        "time": 1777099370,
+        "translated": false
+      },
+      {
+        "author_name": "Tú Anh",
+        "author_url": "https://www.google.com/maps/contrib/102306058498212797736/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0V9W0Ibo2_9u-RxXq1kOmVpkxAH6OVDBb85dtqVanxwzoCQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "trong tuần trước",
+        "text": "Ngon , sạch sẽ , giá cả hợp lí",
+        "time": 1776857641,
+        "translated": false
+      },
+      {
+        "author_name": "Bean Jery",
+        "author_url": "https://www.google.com/maps/contrib/100801158606721501690/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJX7d2_-1U_X9jU-lvOObvzzBNOIm-GHjXArpRySAeGIE1awg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tuần trước",
+        "text": "Sau cốc thứ 7 thì tôi đã thích cô gái ấy. Yêu cô ấy, yêu cả sữa chua cô ấy bán# Ly Cẩm",
+        "time": 1776434275,
+        "translated": false
+      },
+      {
+        "author_name": "Lenos._iff",
+        "author_url": "https://www.google.com/maps/contrib/113252161681830177017/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPRG7pG8wxpC7sXkIm5HjoN-BdR9ju_hvLlbPRQV5YXpSfHnw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tuần trước",
+        "text": "Em Ly ngon mà kem cũng ngon lắm hẹ hẹ hẹ",
+        "time": 1776434169,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 79
+  },
+  "harvested_at": "2026-04-28T16:16:25.769514"
+}

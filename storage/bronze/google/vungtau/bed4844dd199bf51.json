@@ -1,0 +1,109 @@
+{
+  "u_key": "bed4844dd199bf51",
+  "original_osm_name": "Grand",
+  "google_raw": {
+    "formatted_phone_number": "0254 3856 888",
+    "geometry": {
+      "location": {
+        "lat": 10.343636,
+        "lng": 107.075186
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3450292802915,
+          "lng": 107.0765537802915
+        },
+        "southwest": {
+          "lat": 10.3423313197085,
+          "lng": 107.0738558197085
+        }
+      }
+    },
+    "name": "Khách sạn Grand",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Duy Ngo",
+        "author_url": "https://www.google.com/maps/contrib/101457047531129611942/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWClBTVZcGXydjDZxIRk6mqfwEpj3NabiKhl6yR8MXlaW9ly6q_=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khách sạn 4 sao lâu đời, không có thang máy nha, phòng sạch sẽ, trang trí kiểu Âu cũ đẹp và ấm cúng, ai thích hiện đại thì nên đặt chỗ khác.\nGiá phòng ngày thường đặt trực tiếp còn rẻ hơn trên mạng, vị trí tốt, ngay mặt tiền giáp biển luôn.",
+        "time": 1772427538,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Trần",
+        "author_url": "https://www.google.com/maps/contrib/103583148004765447099/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqrqM2XP-tGGAtBNs8rFAk6oFtdisLnIpp1Er9zL4SCNhFvWAsjA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "4 tháng trước",
+        "text": "Khách sạn có vị trí khá đẹp, thuận tiện di chuyển và có bãi đổ xe. Tuy nhiên dù được xếp hạng 4⭐ nhưng cơ sở vật chất nhìn khá cũ, cần được nâng cấp nhiều hơn. Phong cách thiết kế cổ điển, hệ thống đèn hơi mờ nên không gian buổi tối khá trầm gây cảm giác thiếu an toàn. Mình đánh giá 6,5/10 nha",
+        "time": 1767438600,
+        "translated": false
+      },
+      {
+        "author_name": "Toan Ha",
+        "author_url": "https://www.google.com/maps/contrib/115728872006850047797/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrQcKh_-WFL37BC5HAfyLAh_S0T5mTyGfShDNisGX5lHfVXFqX=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Khách sạn có khuôn viên rộng, sang trọng và tiện nghi vừa đủ. Nhân viên vui vẻ nhiệt tình.\n\nĐiểm đặc biệt của khách sạn này:\n- Thảm nỉ cả hành lang và trong phòng, thực sự khá êm và dễ chịu, lầu 1 còn có lối đi riêng. Phòng được bố trí hợp lý, cách âm tốt\n- Bãi đỗ xe rộng rãi ngay bên trong khuôn viên\n- Vị trí thuận tiện đi bộ ra công viên tam giác và bãi tắm Bãi Trước\n- Xung quanh nhiều cà phê xịn",
+        "time": 1759668019,
+        "translated": false
+      },
+      {
+        "author_name": "Thiên Thuận",
+        "author_url": "https://www.google.com/maps/contrib/115196100126854965004/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEY3jViJbyda_A58nvzahT2cgtcXqMXeuUof967h2C3nkT7kcwmA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Khách sạn sạch sẽ, chỉnh chu, yên tĩnh, đậu xe hơi thoải mái. Sẽ ghé lại nếu có dịp",
+        "time": 1760844652,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Dai Sy",
+        "author_url": "https://www.google.com/maps/contrib/113725091235508148017/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVd59EtJn2LaoHncag7ctmPRepOGE4mxcIXYjDajyDIguPfMEA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Khách sạn cũ, phòng rộng nhưng lót thảm nên không được sạch lắm, ăn sáng hơi xa",
+        "time": 1760591983,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 529
+  },
+  "harvested_at": "2026-05-03T19:45:59.526664"
+}

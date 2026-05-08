@@ -1,0 +1,173 @@
+{
+  "u_key": "830778f417a23c5b",
+  "original_osm_name": "Qquán Chay Ďiêu Hoa",
+  "google_raw": {
+    "formatted_phone_number": "0905 504 037",
+    "geometry": {
+      "location": {
+        "lat": 16.0782729,
+        "lng": 108.2190744
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0797320302915,
+          "lng": 108.2204094302915
+        },
+        "southwest": {
+          "lat": 16.0770340697085,
+          "lng": 108.2177114697085
+        }
+      }
+    },
+    "name": "Quan Chay Dieu Hoa - Vegan restaurant in Danang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–20:30",
+        "Thứ Ba: 07:00–20:30",
+        "Thứ Tư: 07:00–20:30",
+        "Thứ Năm: 07:00–20:30",
+        "Thứ Sáu: 07:00–20:30",
+        "Thứ Bảy: 07:00–20:30",
+        "Chủ Nhật: 07:00–20:30"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "NGUYEN VAN CUONG",
+        "author_url": "https://www.google.com/maps/contrib/100781085517658788690/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBKSinxtiA-y8SWjtRlz4iAoQILMil_Q34I3M-3tBzXN_EL9DS=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Phục vụ nhanh chóng… nhiều món chay để lựa chọn. Quán nhỏ gia đình.\nNam mô A Mi Đà Phật 🙏🙏🙏",
+        "time": 1757852085,
+        "translated": false
+      },
+      {
+        "author_name": "Pham Trung Dung Aiglevn",
+        "author_url": "https://www.google.com/maps/contrib/103518596147042715926/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmbkTtOGF6oFFcXN9D02Yt3VyTVVwDmVbY39v244tAUyY62fRx=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn được. Nhưng giá hơi cao so với quán khác. Mỳ quảng trộn giá 45k mà ko có gì đặc biệt, nếu 35k thì hợp lý.\n\nKhông gian quán nhỏ, ko được trang trí thiết kế gì.\nPhục vụ nhanh.",
+        "time": 1744791465,
+        "translated": false
+      },
+      {
+        "author_name": "Ng. H. Khắc Hiếu",
+        "author_url": "https://www.google.com/maps/contrib/115899724904287743520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXrL5flyTc7TEHAZIfzMFxhwXlOln3Pa20tz7R90NpwEbmvdUVzQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Vị vừa miệng. Cơm gạo lứt đậu đen hạt sen công phu và đẹp. Rau cải xào đậm đà. Nấm hương kho sả lạ miệng và ngon. Giá rẻ. Cô chú bán dễ thương. Cháu gái nhỏ lễ phép :)",
+        "time": 1545029984,
+        "translated": false
+      },
+      {
+        "author_name": "Thai Kevin",
+        "author_url": "https://www.google.com/maps/contrib/107908482456270411913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbRGdaF0fAyi5ePYDIyGxQ0KhRdu3kthki49VmZZXXAfG0QyQF=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán trong ngõ xe máy nhỏ.\nDiện tích quán bé nhưng khá sạch sẽ, có vài bàn tầng trệt, trên lầu có vẻ ko nhận khách lên.\nKhách đông và ít nhân viên nên sẽ đợi khá lâu.\nĐồ ăn sạch sẽ, ăn được.\nĐĩa cơm thập cẩm chay có giá 35k, lẫu 2 người là 180k.",
+        "time": 1684663175,
+        "translated": false
+      },
+      {
+        "author_name": "Hoanglen Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104324926356465156035/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXX6dnfuxfOUh7v0rnBM8cWbaroHDCObk4pZe2KxVqyUivYsAc=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Đặt hàng ship về ăn vừa mắc hơn vừa không giống món hộp cơm 52k đồ xào 52k mà thua hộp cơm chay 30k nữa. Đặt cơm đem về không có đôi đũa để ăn, giá thì như trên trời. Tệ không bao giờ quay lại",
+        "time": 1689658674,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 198
+  },
+  "harvested_at": "2026-04-29T09:58:36.109369"
+}

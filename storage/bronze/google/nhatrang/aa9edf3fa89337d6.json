@@ -1,0 +1,243 @@
+{
+  "u_key": "aa9edf3fa89337d6",
+  "original_osm_name": "Com Chay Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0825 994 299",
+    "geometry": {
+      "location": {
+        "lat": 12.2391078,
+        "lng": 109.1920453
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2404902302915,
+          "lng": 109.1934285302915
+        },
+        "southwest": {
+          "lat": 12.2377922697085,
+          "lng": 109.1907305697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Chay Bụt Việt - Nha Trang",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–14:00, 16:30–21:00",
+        "Thứ Ba: 10:30–14:00, 16:30–21:00",
+        "Thứ Tư: 10:30–14:00, 16:30–21:00",
+        "Thứ Năm: 10:30–14:00, 16:30–21:00",
+        "Thứ Sáu: 10:30–14:00, 16:30–21:00",
+        "Thứ Bảy: 10:30–14:00, 16:30–21:00",
+        "Chủ Nhật: 10:30–14:00, 16:30–21:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Huyền Phạm Thanh",
+        "author_url": "https://www.google.com/maps/contrib/100416820717827079456/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXW60Yuja-h5IIP2n1b_QttCfIKKiCi5U958-uO5x7Q6Ikxfvaq=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian quán thân thiện thoáng. Có hầm giữ xe và bảo vệ riêng.\nNhân viên bao quát chăm sóc khách phục vụ món nhanh.\nĐồ ăn thì mình họi theo set cho hai người là vừa no.\nMón rong biển cuốn kho vị vừa mềm dễ ăn.\nRau luộc chắm kho quẹt đậm hơn xíu ổn\nCanh chua ngon vừa phải k quá chua.\nMón bánh xếp chiên thì vỏ bánh còn ướt dầu chưa khô giòn khá xìu vỏ.\nMón tráng miệng đông xương quế ăn sực sực vui miệng.\nTổng thể ổn nên ăn thử.\nMình ăn ở đây cũng nhiều năm rồi có vài thay đổi nhỏ nhưng k đáng kể vẫn khá hài lòng.",
+        "time": 1766293994,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Trần",
+        "author_url": "https://www.google.com/maps/contrib/116442278402198937264/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK75U1qw90sPzE33jcoZpjIkSjAD9ps59E2w8ICaRRcLyEdhYw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "2 ngày đầu năm ở nha trang mình ăn ở đây nhân viên dễ thương không gian ấm cúng sạch sẽ, đồ ăn ngon bánh xèo gỏi cuốn",
+        "time": 1771740142,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Vũ",
+        "author_url": "https://www.google.com/maps/contrib/108169248744877816820/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLv6oU6DGSI6NaiZpEKuijG5knCn1-9LFlElt45QKh-EQGrEQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Gặp khách cần riêng tư, mà vào đúng ngày rằm, book lịch trước, may được chị chủ hỗ trợ1 phòng, dịch vụ và đồ ăn 10 điểm luôn, khách e ở HN mê mệt món nước ép ạ",
+        "time": 1762174393,
+        "translated": false
+      },
+      {
+        "author_name": "Nha Khoa TENSHI Đà Lạt",
+        "author_url": "https://www.google.com/maps/contrib/104062685416762450305/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2_PLGiu1E4Z5QWMe8KlJb4S3C5TlK277MMkfTA1kx31Qh1IIF=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Cửa hàng đẹp, sạch\ndịch vụ chuyên nghiệp\nnhân viên dễ thương và món ăn rất ngon.\nxin cám ơn.",
+        "time": 1770123527,
+        "translated": false
+      },
+      {
+        "author_name": "Hằng Nguyễn Thu",
+        "author_url": "https://www.google.com/maps/contrib/105304567881698717166/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8mImZj1xDkYiRfLJoNjfcg5iShN39IaHcnpOJ8gqKEtt0NNo=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Rất ngon. Thanh đạm. Mình ăn thấy ngon nhất món salad vs cơm nứt hấp lá chuối nè. Còn chả ram thì bình thường hơi ngấy. Còn lại khá ngon ạ. Không gian và nhân viên oke. Tổng quan 9,5/10 nhen",
+        "time": 1767528021,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 532
+  },
+  "harvested_at": "2026-05-02T15:15:46.035576"
+}

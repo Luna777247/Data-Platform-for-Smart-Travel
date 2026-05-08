@@ -1,0 +1,1584 @@
+{
+  "city": "osaka",
+  "category": "viewpoint",
+  "timestamp": "20260507_151607",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 412637929,
+      "lat": 34.7005359,
+      "lon": 135.3995518,
+      "timestamp": "2024-07-14T05:52:53Z",
+      "version": 7,
+      "changeset": 153917091,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "direction": "305",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 963001695,
+      "lat": 34.3684409,
+      "lon": 135.5145869,
+      "timestamp": "2019-12-10T09:45:07Z",
+      "version": 3,
+      "changeset": 78198230,
+      "user": "Sattsatter",
+      "uid": 10196336,
+      "tags": {
+        "name": "光滝",
+        "name:en": "Kotaki Waterfall",
+        "operator": "Kotaki Waterfall",
+        "tourism": "viewpoint",
+        "waterway": "waterfall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1960968218,
+      "lat": 34.4479618,
+      "lon": 135.4601786,
+      "timestamp": "2012-10-12T17:22:07Z",
+      "version": 1,
+      "changeset": 13469743,
+      "user": "karida",
+      "uid": 19528,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3066020234,
+      "lat": 34.765483,
+      "lon": 135.416138,
+      "timestamp": "2025-05-04T07:49:26Z",
+      "version": 2,
+      "changeset": 165787154,
+      "user": "Aphaia_JP",
+      "uid": 21006601,
+      "tags": {
+        "internet_access": "no",
+        "name": "掛塚跡プレート",
+        "note": "見当たらない",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3205931775,
+      "lat": 33.8020203,
+      "lon": 135.5682976,
+      "timestamp": "2024-08-25T14:43:18Z",
+      "version": 2,
+      "changeset": 155740870,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "ele": "782.1",
+        "name": "悪四郎山",
+        "name:en": "Mt. Akushiro",
+        "name:ja": "悪四郎山",
+        "name:ja-Hira": "あくしろうやま",
+        "natural": "peak",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207089461,
+      "lat": 33.7822852,
+      "lon": 135.5140061,
+      "timestamp": "2024-10-17T06:52:02Z",
+      "version": 3,
+      "changeset": 157993827,
+      "user": "Snekkern66",
+      "uid": 13888586,
+      "tags": {
+        "ele": "782.1",
+        "name": "飯盛山",
+        "name:en": "Mt. Meshimori",
+        "name:ja": "飯盛山",
+        "name:ja-Hira": "めしもりやま",
+        "natural": "peak",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3207115274,
+      "lat": 33.8133498,
+      "lon": 135.5835967,
+      "timestamp": "2023-10-07T04:31:14Z",
+      "version": 3,
+      "changeset": 142254510,
+      "user": "Peter Newman",
+      "uid": 7096975,
+      "tags": {
+        "name": "Three Fold Moon Viewpoint",
+        "tourism": "viewpoint",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3226318872,
+      "lat": 33.7757243,
+      "lon": 135.426572,
+      "timestamp": "2014-12-09T11:21:51Z",
+      "version": 1,
+      "changeset": 27354300,
+      "user": "mitwada",
+      "uid": 2505176,
+      "tags": {
+        "name": "高尾山展望台",
+        "source": "survey",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3568166333,
+      "lat": 34.7393793,
+      "lon": 135.4154127,
+      "timestamp": "2021-04-08T00:44:43Z",
+      "version": 3,
+      "changeset": 102511329,
+      "user": "okadatsuneo",
+      "uid": 10163840,
+      "tags": {
+        "ele": "1.8",
+        "historic": "highwater_mark",
+        "man_made": "lighthouse",
+        "source": "local knowledge",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3734096733,
+      "lat": 34.57377,
+      "lon": 135.4828783,
+      "timestamp": "2022-11-29T18:36:37Z",
+      "version": 2,
+      "changeset": 129532437,
+      "user": "harumiusinc",
+      "uid": 10230643,
+      "tags": {
+        "name": "堺市役所高層館展望ロビー",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4154665490,
+      "lat": 34.5020264,
+      "lon": 135.5992477,
+      "timestamp": "2016-04-29T06:03:14Z",
+      "version": 2,
+      "changeset": 38973129,
+      "user": "erimts",
+      "uid": 1203469,
+      "tags": {
+        "description": "Tower of　PL",
+        "source": "Survey",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4325335299,
+      "lat": 34.7053004,
+      "lon": 135.4901397,
+      "timestamp": "2025-08-11T17:20:31Z",
+      "version": 15,
+      "changeset": 170304893,
+      "user": "tartiflex",
+      "uid": 507417,
+      "tags": {
+        "charge:adult": "2000 JPY",
+        "charge:child": "500 JPY",
+        "description": "Concept attraction within circular observatory area, on top of the tall building. 高層ビルの屋上にある円形の展望台エリアのアトラクションをモチーフにしたコンセプチュアルガーデンです。",
+        "fee": "yes",
+        "level": "40",
+        "level:ref": "39F",
+        "name": "空中庭園展望台",
+        "name:en": "Floating Garden Observatory",
+        "name:es": "Umeda Sky Building",
+        "name:fr": "Observatoire du jardin flottant",
+        "name:it": "Umeda Sky Building",
+        "name:ja-Hira": "くうちゅう ていえん てんぼうだい",
+        "name:ja-Latn": "Kūchū teien tenbō-dai",
+        "name:ko": "우메다 공중정원 전망대",
+        "name:zh": "梅田藍天大廈",
+        "note": "Go to 3rd floor, to take elevator to 39th floor. 3階へ移動し、エレベーターで39階へ移動します。",
+        "opening_hours": "Mo-Su 09:30-22:30",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4417497790,
+      "lat": 34.2199148,
+      "lon": 135.5724049,
+      "timestamp": "2016-09-25T12:30:27Z",
+      "version": 1,
+      "changeset": 42422412,
+      "user": "Couc243679",
+      "uid": 4508038,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4586417789,
+      "lat": 34.6687571,
+      "lon": 135.4954509,
+      "timestamp": "2025-10-07T16:50:32Z",
+      "version": 2,
+      "changeset": 172968562,
+      "user": "taki3hira",
+      "uid": 1948193,
+      "tags": {
+        "name": "湊町リバープレイス",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4597871697,
+      "lat": 34.5330199,
+      "lon": 135.5878381,
+      "timestamp": "2017-01-09T12:09:17Z",
+      "version": 1,
+      "changeset": 45024937,
+      "user": "nmaxaki",
+      "uid": 4331994,
+      "tags": {
+        "name": "道の駅　しらとりの郷　羽曳野",
+        "name:ja": "道の駅　しらとりの郷　羽曳野",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4641468698,
+      "lat": 34.2737599,
+      "lon": 135.5663096,
+      "timestamp": "2017-01-29T06:01:04Z",
+      "version": 1,
+      "changeset": 45611706,
+      "user": "bulehart",
+      "uid": 2651787,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4663300570,
+      "lat": 34.0609113,
+      "lon": 135.5644447,
+      "timestamp": "2021-05-14T05:42:24Z",
+      "version": 2,
+      "changeset": 104667768,
+      "user": "higa4",
+      "uid": 162590,
+      "tags": {
+        "name": "ごまさんスカイタワー",
+        "tourism": "viewpoint",
+        "wikidata": "Q11641408",
+        "wikipedia": "ja:道の駅田辺市龍神ごまさんスカイタワー"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4807613474,
+      "lat": 34.6459798,
+      "lon": 135.5135227,
+      "timestamp": "2025-03-08T11:19:42Z",
+      "version": 7,
+      "changeset": 163359243,
+      "user": "tartiflex",
+      "uid": 507417,
+      "tags": {
+        "addr:block_number": "1",
+        "addr:city": "大阪市",
+        "addr:housenumber": "24",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "545-0052",
+        "addr:province": "大阪府",
+        "addr:quarter": "阿倍野筋",
+        "addr:suburb": "阿倍野区",
+        "charge:adult": "2000 JPY",
+        "charge:child": "1200 JPY;700 JPY;500 JPY",
+        "contact:instagram": "harukas300",
+        "contact:tripadvisor": "9606157",
+        "contact:twitter": "harukas300_ob",
+        "contact:website": "https://www.abenoharukas-300.jp/observatory/index.html",
+        "fee": "yes",
+        "level": "57;58;59",
+        "name": "ハルカス300",
+        "name:en": "Harukas 300",
+        "name:fr": "Harukas 300",
+        "name:ja-Latn": "Harukas 300",
+        "name:zh": "Harukas 300觀覽台",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "tourism": "viewpoint",
+        "wikidata": "Q118213997"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4920825524,
+      "lat": 34.6383133,
+      "lon": 135.4148695,
+      "timestamp": "2022-02-23T01:35:25Z",
+      "version": 2,
+      "changeset": 117748998,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "alt_name": "さきしまコスモタワー展望台",
+        "name": "大阪府咲洲庁舎展望台",
+        "name:en": "Observation Deck Cosmo Tower",
+        "name:ja": "大阪府咲洲庁舎展望台",
+        "name:zh": "大阪府咲洲行政大樓展望台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4986090498,
+      "lat": 34.6522496,
+      "lon": 135.586579,
+      "timestamp": "2017-07-22T06:07:49Z",
+      "version": 3,
+      "changeset": 50474620,
+      "user": "まんじ丸",
+      "uid": 6357035,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5232229645,
+      "lat": 34.6614239,
+      "lon": 135.6075196,
+      "timestamp": "2017-11-16T08:28:09Z",
+      "version": 1,
+      "changeset": 53832829,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "飯島三郎右衛門墓",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5304484342,
+      "lat": 34.421128,
+      "lon": 135.3741076,
+      "timestamp": "2017-12-26T09:41:38Z",
+      "version": 1,
+      "changeset": 54924884,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "和泉高井城跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5325170332,
+      "lat": 34.4629802,
+      "lon": 135.3714678,
+      "timestamp": "2018-01-07T09:30:02Z",
+      "version": 1,
+      "changeset": 55230641,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "堺町S字",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5325170337,
+      "lat": 34.4633592,
+      "lon": 135.3718277,
+      "timestamp": "2018-01-07T09:30:13Z",
+      "version": 1,
+      "changeset": 55230641,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "旧四十三銀行 岸和田支店跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5369869251,
+      "lat": 34.4622871,
+      "lon": 135.4337458,
+      "timestamp": "2018-01-29T09:14:37Z",
+      "version": 1,
+      "changeset": 55853353,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "摩湯山古墳",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372112129,
+      "lat": 34.688732,
+      "lon": 135.4545312,
+      "timestamp": "2022-10-28T06:18:50Z",
+      "version": 2,
+      "changeset": 128156217,
+      "user": "aerozel",
+      "uid": 17473913,
+      "tags": {
+        "name": "旧鴻池本店",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5375095621,
+      "lat": 34.6839663,
+      "lon": 135.4623266,
+      "timestamp": "2019-10-08T00:05:12Z",
+      "version": 2,
+      "changeset": 75396665,
+      "user": "batchy",
+      "uid": 7671962,
+      "tags": {
+        "name": "初代大坂船奉行所跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5377512232,
+      "lat": 34.6775585,
+      "lon": 135.4587945,
+      "timestamp": "2025-12-20T22:41:24Z",
+      "version": 3,
+      "changeset": 176199096,
+      "user": "MaryHiroshige",
+      "uid": 151227,
+      "tags": {
+        "name": "大阪鉄工所跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5377531430,
+      "lat": 34.6791369,
+      "lon": 135.4571772,
+      "timestamp": "2019-08-14T10:14:32Z",
+      "version": 2,
+      "changeset": 73341151,
+      "user": "batchy",
+      "uid": 7671962,
+      "tags": {
+        "historic": "memorial",
+        "name": "八州軒の跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5393349637,
+      "lat": 34.1534824,
+      "lon": 135.6043167,
+      "timestamp": "2018-02-06T14:45:58Z",
+      "version": 1,
+      "changeset": 56119117,
+      "user": "nakaovic",
+      "uid": 550181,
+      "tags": {
+        "name": "鶴姫公園展望台",
+        "source": "survey",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5540444621,
+      "lat": 34.4482627,
+      "lon": 135.5744706,
+      "timestamp": "2023-08-21T22:33:42Z",
+      "version": 20,
+      "changeset": 140202572,
+      "user": "SomeoneElse_Revert",
+      "uid": 1778799,
+      "tags": {
+        "name:en": "Nagano Park",
+        "name:ru": "Парк Нагано",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5553711434,
+      "lat": 34.7325523,
+      "lon": 135.6365086,
+      "timestamp": "2018-04-15T04:15:01Z",
+      "version": 1,
+      "changeset": 58101963,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "楠木正行公御墓所",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5584078149,
+      "lat": 34.5907193,
+      "lon": 135.4817015,
+      "timestamp": "2018-04-28T10:16:17Z",
+      "version": 1,
+      "changeset": 58500088,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "河口慧海 生家跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5587674531,
+      "lat": 34.5907266,
+      "lon": 135.4805224,
+      "timestamp": "2018-04-30T07:53:15Z",
+      "version": 1,
+      "changeset": 58546191,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "海船政所跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5596326830,
+      "lat": 34.5451587,
+      "lon": 135.4460072,
+      "timestamp": "2025-08-02T18:23:09Z",
+      "version": 2,
+      "changeset": 169875466,
+      "user": "texent",
+      "uid": 13276696,
+      "tags": {
+        "name": "阪堺線 海道畑駅跡地",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5596326833,
+      "lat": 34.5269111,
+      "lon": 135.4317734,
+      "timestamp": "2018-05-04T11:57:20Z",
+      "version": 1,
+      "changeset": 58677165,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "浜寺俘虜収容所跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5718634809,
+      "lat": 34.7711303,
+      "lon": 135.4531487,
+      "timestamp": "2018-06-25T21:10:47Z",
+      "version": 1,
+      "changeset": 60162253,
+      "user": "openamap",
+      "uid": 94381,
+      "tags": {
+        "source": "local knowledge",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5870590985,
+      "lat": 34.491899,
+      "lon": 135.5887717,
+      "timestamp": "2018-08-31T09:16:21Z",
+      "version": 1,
+      "changeset": 62165411,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "新家古墳",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5872951190,
+      "lat": 34.4942402,
+      "lon": 135.5938943,
+      "timestamp": "2018-09-01T08:05:31Z",
+      "version": 1,
+      "changeset": 62192168,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "水郡邸",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5919986799,
+      "lat": 34.7359292,
+      "lon": 135.6324005,
+      "timestamp": "2018-09-21T08:26:02Z",
+      "version": 1,
+      "changeset": 62788126,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "雁屋遺跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5919986802,
+      "lat": 34.7378926,
+      "lon": 135.6320526,
+      "timestamp": "2018-09-21T08:26:11Z",
+      "version": 1,
+      "changeset": 62788126,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "旧御机神社",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5928190913,
+      "lat": 34.7013903,
+      "lon": 135.598198,
+      "timestamp": "2020-12-27T08:46:48Z",
+      "version": 2,
+      "changeset": 96475595,
+      "user": "K_Sakanoshita",
+      "uid": 389520,
+      "tags": {
+        "name": "勿入渕跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5948027295,
+      "lat": 34.7536662,
+      "lon": 135.5780935,
+      "timestamp": "2018-10-02T07:35:46Z",
+      "version": 1,
+      "changeset": 63115414,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "九條殿御別殿御役所 顕如上人御旧跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5965694532,
+      "lat": 34.7550209,
+      "lon": 135.6361535,
+      "timestamp": "2018-10-08T07:40:36Z",
+      "version": 1,
+      "changeset": 63298961,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "高宮遺跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5982043199,
+      "lat": 34.5069114,
+      "lon": 135.5658271,
+      "timestamp": "2018-10-13T21:49:22Z",
+      "version": 1,
+      "changeset": 63495654,
+      "user": "masakiota",
+      "uid": 8946065,
+      "tags": {
+        "name": "富田林実家",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6033502186,
+      "lat": 34.7669908,
+      "lon": 135.6254171,
+      "timestamp": "2018-11-03T06:42:35Z",
+      "version": 1,
+      "changeset": 64133757,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "寝屋川球場跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6048301886,
+      "lat": 34.5411236,
+      "lon": 135.620859,
+      "timestamp": "2018-11-09T06:46:01Z",
+      "version": 1,
+      "changeset": 64315212,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "大黒舘跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6052269107,
+      "lat": 34.5785538,
+      "lon": 135.6333572,
+      "timestamp": "2018-11-11T07:08:30Z",
+      "version": 1,
+      "changeset": 64367850,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "杵築神社跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6065223285,
+      "lat": 34.6178532,
+      "lon": 135.6133459,
+      "timestamp": "2018-11-16T03:09:01Z",
+      "version": 1,
+      "changeset": 64550767,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "中田遺跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6095248613,
+      "lat": 34.6077767,
+      "lon": 135.589327,
+      "timestamp": "2018-11-27T11:23:17Z",
+      "version": 1,
+      "changeset": 64932123,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "柏原船使い場",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6095258112,
+      "lat": 34.5999487,
+      "lon": 135.5889457,
+      "timestamp": "2018-11-27T11:18:33Z",
+      "version": 1,
+      "changeset": 64932123,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "稲城址",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6095283300,
+      "lat": 34.6083026,
+      "lon": 135.604917,
+      "timestamp": "2018-11-27T11:28:42Z",
+      "version": 1,
+      "changeset": 64932123,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "五条宮址",
+        "name:en": "Gojo no Miya Ato",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6101478611,
+      "lat": 34.6014615,
+      "lon": 135.5700698,
+      "timestamp": "2018-11-29T01:29:19Z",
+      "version": 1,
+      "changeset": 64992727,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "真田幸村 休憩所跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6122541998,
+      "lat": 34.5883527,
+      "lon": 135.6201925,
+      "timestamp": "2018-12-07T01:09:51Z",
+      "version": 1,
+      "changeset": 65255125,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "柏原舟だまり跡地",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6122542000,
+      "lat": 34.5890085,
+      "lon": 135.6202186,
+      "timestamp": "2018-12-07T01:09:56Z",
+      "version": 1,
+      "changeset": 65255125,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "三田家住宅",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224428532,
+      "lat": 34.7186485,
+      "lon": 135.4485085,
+      "timestamp": "2019-01-21T08:11:54Z",
+      "version": 1,
+      "changeset": 66495877,
+      "user": "tadaben",
+      "uid": 652696,
+      "tags": {
+        "description": "佃は、東京佃島の本家にあたり、東京佃島の住吉神社は、当区の田蓑神社の分社でもある",
+        "historic": "memorial",
+        "inscription": "佃漁民ゆかりの地",
+        "memorial": "stone",
+        "name": "佃漁民ゆかりの地",
+        "tourism": "viewpoint",
+        "website": "http://www.city.osaka.lg.jp/nishiyodogawa/page/0000001002.html#5"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6353915584,
+      "lat": 34.3925398,
+      "lon": 135.5107543,
+      "timestamp": "2019-03-22T08:54:10Z",
+      "version": 1,
+      "changeset": 68402123,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6357341306,
+      "lat": 34.3923799,
+      "lon": 135.5120082,
+      "timestamp": "2019-03-24T00:35:50Z",
+      "version": 1,
+      "changeset": 68458544,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6364185496,
+      "lat": 34.6327024,
+      "lon": 135.5007281,
+      "timestamp": "2019-03-27T07:47:12Z",
+      "version": 1,
+      "changeset": 68575773,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "聖天坂",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6364194186,
+      "lat": 34.6360829,
+      "lon": 135.5032825,
+      "timestamp": "2022-08-13T19:07:45Z",
+      "version": 2,
+      "changeset": 124864773,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "name": "聖天山古墳",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6364194209,
+      "lat": 34.5768293,
+      "lon": 135.5521713,
+      "timestamp": "2019-03-27T08:08:41Z",
+      "version": 1,
+      "changeset": 68575773,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "長尾街道ちちかみ橋跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6364195301,
+      "lat": 34.5769473,
+      "lon": 135.555794,
+      "timestamp": "2019-03-27T08:09:36Z",
+      "version": 1,
+      "changeset": 68575773,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "阿保茶屋跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6366977589,
+      "lat": 34.5732336,
+      "lon": 135.5461245,
+      "timestamp": "2019-03-28T07:45:09Z",
+      "version": 1,
+      "changeset": 68615215,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "弘法大師の井戸",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6382494883,
+      "lat": 34.6658361,
+      "lon": 135.3915321,
+      "timestamp": "2019-04-04T04:42:12Z",
+      "version": 1,
+      "changeset": 68866262,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "name": "新夕陽ヶ丘",
+        "name:en": "New Sunset Hill",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6516105286,
+      "lat": 34.7034681,
+      "lon": 135.4964427,
+      "timestamp": "2019-08-20T11:55:51Z",
+      "version": 2,
+      "changeset": 73535816,
+      "user": "Rakkka",
+      "uid": 4954428,
+      "tags": {
+        "level": "13",
+        "name": "天空の農園",
+        "name:en": "Tenku-no-noen Farm",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6673681185,
+      "lat": 34.4483221,
+      "lon": 135.5722709,
+      "timestamp": "2019-08-02T09:15:05Z",
+      "version": 1,
+      "changeset": 72929948,
+      "user": "Sattsatter",
+      "uid": 10196336,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6673683685,
+      "lat": 34.4501583,
+      "lon": 135.5734585,
+      "timestamp": "2019-08-02T09:16:14Z",
+      "version": 1,
+      "changeset": 72929997,
+      "user": "Sattsatter",
+      "uid": 10196336,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6835437023,
+      "lat": 34.285435,
+      "lon": 135.4579617,
+      "timestamp": "2019-09-29T23:47:00Z",
+      "version": 2,
+      "changeset": 75074564,
+      "user": "taki3hira",
+      "uid": 1948193,
+      "tags": {
+        "direction": "NE-S",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6840135692,
+      "lat": 33.5432305,
+      "lon": 135.4953987,
+      "timestamp": "2019-10-01T10:02:43Z",
+      "version": 1,
+      "changeset": 75139334,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "串の戸石碑群",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929027685,
+      "lat": 34.2589848,
+      "lon": 135.5273506,
+      "timestamp": "2025-06-20T09:22:52Z",
+      "version": 2,
+      "changeset": 167860395,
+      "user": "palmafu",
+      "uid": 21910180,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929027786,
+      "lat": 34.2523772,
+      "lon": 135.5273534,
+      "timestamp": "2019-10-30T02:48:18Z",
+      "version": 1,
+      "changeset": 76372067,
+      "user": "Anatoly Bogoslovov",
+      "uid": 5438986,
+      "tags": {
+        "name:en": "Kiikogen golf club",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6929394188,
+      "lat": 34.2174961,
+      "lon": 135.5513973,
+      "timestamp": "2019-10-30T05:20:49Z",
+      "version": 1,
+      "changeset": 76375199,
+      "user": "Anatoly Bogoslovov",
+      "uid": 5438986,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7025237150,
+      "lat": 34.7966063,
+      "lon": 135.3734963,
+      "timestamp": "2019-12-02T07:06:03Z",
+      "version": 1,
+      "changeset": 77802117,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "安倉高塚古墳",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7117538761,
+      "lat": 34.4484046,
+      "lon": 135.5740895,
+      "timestamp": "2023-08-21T22:34:17Z",
+      "version": 19,
+      "changeset": 140202572,
+      "user": "SomeoneElse_Revert",
+      "uid": 1778799,
+      "tags": {
+        "direction": "270",
+        "name:en": "Nagano Park",
+        "name:ru": "Парк Нагано",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7391477824,
+      "lat": 34.3078339,
+      "lon": 135.5781984,
+      "timestamp": "2020-04-11T06:14:39Z",
+      "version": 1,
+      "changeset": 83388486,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "神野々廃寺塔跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7391477837,
+      "lat": 34.3053035,
+      "lon": 135.5575975,
+      "timestamp": "2020-04-11T06:16:11Z",
+      "version": 1,
+      "changeset": 83388486,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "ババタレ坂",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7602249586,
+      "lat": 34.4960394,
+      "lon": 135.4415111,
+      "timestamp": "2020-06-08T09:24:38Z",
+      "version": 1,
+      "changeset": 86343398,
+      "user": "aquila2",
+      "uid": 4724810,
+      "tags": {
+        "name": "伯太陣屋跡",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8479087693,
+      "lat": 34.6092026,
+      "lon": 135.5491851,
+      "timestamp": "2021-11-03T00:33:43Z",
+      "version": 5,
+      "changeset": 113307011,
+      "user": "Otenkiya",
+      "uid": 4702051,
+      "tags": {
+        "alt_name": "瓜破;曲がり角",
+        "alt_name:en": "Uriwari",
+        "highway": "traffic_signals",
+        "name": "流町1",
+        "name:en": "Nagaremachi-1",
+        "source": "survey; Bing",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8771189944,
+      "lat": 34.6092976,
+      "lon": 135.5491824,
+      "timestamp": "2022-11-10T03:36:53Z",
+      "version": 4,
+      "changeset": 128711890,
+      "user": "zyxzyx",
+      "uid": 7707735,
+      "tags": {
+        "alt_name": "瓜破;曲がり角",
+        "alt_name:en": "Uriwari",
+        "highway": "traffic_signals",
+        "name": "流町1",
+        "name:en": "Nagaremachi-1",
+        "source": "survey; Bing",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8912760417,
+      "lat": 34.6945261,
+      "lon": 135.5455626,
+      "timestamp": "2021-07-12T05:05:15Z",
+      "version": 1,
+      "changeset": 107808302,
+      "user": "shimao",
+      "uid": 9501540,
+      "tags": {
+        "name": "鴫野西之町地車庫",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9137295361,
+      "lat": 34.4135695,
+      "lon": 135.4244735,
+      "timestamp": "2021-10-01T10:00:13Z",
+      "version": 1,
+      "changeset": 111955489,
+      "user": "sue77",
+      "uid": 8302889,
+      "tags": {
+        "name": "神於山展望台",
+        "name:en": "Konoyama viewpoint",
+        "name:ja": "神於山展望台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9663322027,
+      "lat": 33.7618803,
+      "lon": 135.3817505,
+      "timestamp": "2022-04-13T13:15:45Z",
+      "version": 1,
+      "changeset": 119668280,
+      "user": "javbw",
+      "uid": 902727,
+      "tags": {
+        "name": "第1展望台",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9872994128,
+      "lat": 34.5561885,
+      "lon": 135.4789691,
+      "timestamp": "2025-10-15T13:33:06Z",
+      "version": 2,
+      "changeset": 173321036,
+      "user": "dressed-pleasekin",
+      "uid": 11175011,
+      "tags": {
+        "direction": "SW",
+        "name": "履中天皇陵ビュースポット",
+        "source": "local knowledge",
+        "start_date": "2017",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10839062005,
+      "lat": 34.7044328,
+      "lon": 135.4905545,
+      "timestamp": "2023-04-25T05:14:14Z",
+      "version": 1,
+      "changeset": 135326246,
+      "user": "Lizzie Boswell",
+      "uid": 6392599,
+      "tags": {
+        "name:en": "Viewpoint of Sky Tower",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11060818705,
+      "lat": 33.9649317,
+      "lon": 135.3927363,
+      "timestamp": "2023-07-22T02:15:15Z",
+      "version": 1,
+      "changeset": 138835943,
+      "user": "tosihisa",
+      "uid": 24685,
+      "tags": {
+        "name": "ヤッホーポイント",
+        "survey:date": "2023-07-22",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11279745085,
+      "lat": 33.8278509,
+      "lon": 135.6344164,
+      "timestamp": "2023-10-21T15:13:26Z",
+      "version": 1,
+      "changeset": 142928879,
+      "user": "vbertola",
+      "uid": 4347030,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11279745086,
+      "lat": 33.8277718,
+      "lon": 135.6349073,
+      "timestamp": "2023-10-21T15:13:26Z",
+      "version": 1,
+      "changeset": 142928879,
+      "user": "vbertola",
+      "uid": 4347030,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11279773251,
+      "lat": 34.0619155,
+      "lon": 135.5644769,
+      "timestamp": "2023-10-21T15:41:35Z",
+      "version": 1,
+      "changeset": 142930164,
+      "user": "vbertola",
+      "uid": 4347030,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11279796387,
+      "lat": 34.1479199,
+      "lon": 135.5877491,
+      "timestamp": "2023-10-21T15:42:59Z",
+      "version": 1,
+      "changeset": 142930231,
+      "user": "vbertola",
+      "uid": 4347030,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11323098167,
+      "lat": 34.0938576,
+      "lon": 135.4201637,
+      "timestamp": "2023-11-05T08:01:28Z",
+      "version": 1,
+      "changeset": 143639337,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11323151178,
+      "lat": 34.0937854,
+      "lon": 135.42004,
+      "timestamp": "2023-11-05T08:01:28Z",
+      "version": 1,
+      "changeset": 143639337,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11323151180,
+      "lat": 34.0931795,
+      "lon": 135.4191542,
+      "timestamp": "2023-11-05T08:01:28Z",
+      "version": 1,
+      "changeset": 143639337,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12052398298,
+      "lat": 34.7003104,
+      "lon": 135.399334,
+      "timestamp": "2024-07-14T05:52:53Z",
+      "version": 1,
+      "changeset": 153917091,
+      "user": "HikaruKinkakuji",
+      "uid": 1878070,
+      "tags": {
+        "direction": "SW",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12246045333,
+      "lat": 34.7972734,
+      "lon": 135.4296736,
+      "timestamp": "2024-10-12T10:28:08Z",
+      "version": 1,
+      "changeset": 157789064,
+      "user": "Aphaia_JP",
+      "uid": 21006601,
+      "tags": {
+        "source": "survey",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12601008815,
+      "lat": 33.5058124,
+      "lon": 135.5990172,
+      "timestamp": "2025-02-19T16:07:23Z",
+      "version": 1,
+      "changeset": 162707789,
+      "user": "スペシャルマン",
+      "uid": 21072337,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12785104001,
+      "lat": 34.6134272,
+      "lon": 135.5248659,
+      "timestamp": "2025-04-25T04:27:36Z",
+      "version": 2,
+      "changeset": 165404821,
+      "user": "DEKANY Brice",
+      "uid": 11874650,
+      "tags": {
+        "name": "グラウンディングツリー",
+        "name:en": "Grounding Tree",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12794419193,
+      "lat": 33.7950849,
+      "lon": 135.5302601,
+      "timestamp": "2025-04-28T10:38:47Z",
+      "version": 1,
+      "changeset": 165542897,
+      "user": "Volmax",
+      "uid": 8141131,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12861900401,
+      "lat": 34.6540308,
+      "lon": 135.5170593,
+      "timestamp": "2025-05-25T04:35:26Z",
+      "version": 1,
+      "changeset": 166719328,
+      "user": "limiz",
+      "uid": 6825785,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13042339797,
+      "lat": 34.3103953,
+      "lon": 135.5573857,
+      "timestamp": "2025-08-02T02:05:30Z",
+      "version": 1,
+      "changeset": 169842960,
+      "user": "trimarin",
+      "uid": 10667599,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13234640465,
+      "lat": 34.5571896,
+      "lon": 135.4785629,
+      "timestamp": "2025-10-15T13:33:06Z",
+      "version": 1,
+      "changeset": 173321036,
+      "user": "dressed-pleasekin",
+      "uid": 11175011,
+      "tags": {
+        "tourism": "viewpoint"
+      }
+    }
+  ]
+}

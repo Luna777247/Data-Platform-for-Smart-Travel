@@ -1,0 +1,89 @@
+{
+  "u_key": "0013b64058f161e1",
+  "original_osm_name": "Dong Puong Hotel",
+  "google_raw": {
+    "formatted_phone_number": "0919 132 008",
+    "geometry": {
+      "location": {
+        "lat": 12.234188,
+        "lng": 109.1947279
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2355235802915,
+          "lng": 109.1960214802915
+        },
+        "southwest": {
+          "lat": 12.2328256197085,
+          "lng": 109.1933235197085
+        }
+      }
+    },
+    "name": "Đông Phương Hotel",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Nhi Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/102771287803149291520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjf_XPTRB7gxyLWLpiKW2HXESPYvF0cw1D_aUn8bAxzhbLtw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Khách sạn sạch sẽ, trong trung tâm dễ đi lại ăn uống vui chơi, Vote 5 sao",
+        "time": 1753258952,
+        "translated": false
+      },
+      {
+        "author_name": "Huynh Loc",
+        "author_url": "https://www.google.com/maps/contrib/104515272070921291586/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL0O2vbiY-2YMvMwBAwTCXJhilnP1vMdaRnSci-H2MIpmE0WQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Khách sạn View phố đẹp, nhân viên,chị chủ thân thiện,phòng sạch sẽ, thơm, phục vụ nhiệt tình, chu đáo, hỗ trợ mọi thứ, trong trung tâm đi đâu cũng gần, giá cả rẻ phù hợp đi du lịch công tác",
+        "time": 1753028282,
+        "translated": false
+      },
+      {
+        "author_name": "Hải NguyễnNgọc",
+        "author_url": "https://www.google.com/maps/contrib/108575925400982700100/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6SFlfY2Pi0rlvMvZk66CzLDEgWdcuxxrDv0St49iA1XrNN_ymag=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Khách sạn sạch sẽ, chủ thân thiện, nhiệt tình chỗ đậu xe",
+        "time": 1708427870,
+        "translated": false
+      },
+      {
+        "author_name": "Trọng Văn",
+        "author_url": "https://www.google.com/maps/contrib/102291378715370073432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOBh2DwDVvb8-6UpeodVm1BHUi3YEmc9Yb8GWhrKD0zRLk5A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "không còn dì để bàn",
+        "time": 1753028266,
+        "translated": false
+      },
+      {
+        "author_name": "Bnb Air",
+        "author_url": "https://www.google.com/maps/contrib/106509342813152382166/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKyMDPEiYBNAHmNcBjpS06fIZVDHwTyYDBUcPnt3LjyoK6EPQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chất lượng tuyệt vời",
+        "time": 1739524486,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 14
+  },
+  "harvested_at": "2026-04-30T16:15:46.554473"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "4d3112118ff3bc44",
+  "original_osm_name": "Grill House",
+  "google_raw": {
+    "formatted_phone_number": "0777 804 594",
+    "geometry": {
+      "location": {
+        "lat": 12.2404587,
+        "lng": 109.1903642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2417879302915,
+          "lng": 109.1917366302915
+        },
+        "southwest": {
+          "lat": 12.2390899697085,
+          "lng": 109.1890386697085
+        }
+      }
+    },
+    "name": "Grill House",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–21:00",
+        "Thứ Ba: 11:00–21:00",
+        "Thứ Tư: 11:00–21:00",
+        "Thứ Năm: 11:00–21:00",
+        "Thứ Sáu: 11:00–21:00",
+        "Thứ Bảy: 11:00–21:00",
+        "Chủ Nhật: 11:00–21:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Bao Tram Duong",
+        "author_url": "https://www.google.com/maps/contrib/110366693458459441859/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXET_HwVFzBxrGJOW50U3OwQ6P_Roay_QoQl-_YWz0ZfiTA8qKf0g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Steak ngon\n1 phần ăn khá nhiều\nkhông gian quán ấm cúng",
+        "time": 1767264180,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Trúc Lưu",
+        "author_url": "https://www.google.com/maps/contrib/104483937464651519373/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV196w3rWO72triYW7JleJy1YOfdSITsJLVAoi4dpKfb0nAekl3RA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán ăn rất ngon, nhân viên nhiệt tình, món ăn rất hợp khẩu vị nên thữ",
+        "time": 1763975018,
+        "translated": false
+      },
+      {
+        "author_name": "Mình Thuận Phan",
+        "author_url": "https://www.google.com/maps/contrib/113721263921127096268/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqYI0ag8HwpW3fF6PB8PI6fFM_PIjkgocbkOIe3olJmQ58dc3B=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "\"Trải nghiệm ẩm thực tuyệt vời - Nhất định phải thử!\"",
+        "time": 1768303467,
+        "translated": false
+      },
+      {
+        "author_name": "이예진",
+        "author_url": "https://www.google.com/maps/contrib/102989583021176771833/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIlZP8BEvMcAMC4PXjwJqm-8MPUPuKb4hmHGI9gK_n9_c4lWMi=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tôi mệt mỏi rã rời vì ăn quá nhiều gia vị đến nỗi gần như đói lả, và thật may mắn là tôi đã tìm thấy quán ăn này. Quán do người Hàn Quốc điều hành nên có thực đơn món Hàn, và điều tuyệt vời nhất là sườn nướng BBQ mềm và ngon tuyệt. Xúc xích dai ngon, còn thịt và nước chấm trong bánh mì ăn sáng thì ngon nhất. Quán cũng có rượu soju và bia tươi, rất hợp khẩu vị người Hàn, và mì ramen hải sản là một món giải rượu tuyệt vời. Chủ quán thân thiện, và trò chuyện với người dân Nha Trang rất vui. Chắc chắn tôi sẽ quay lại lần sau khi đến Nha Trang.",
+        "time": 1770945563,
+        "translated": true
+      },
+      {
+        "author_name": "Gamzat Aliev",
+        "author_url": "https://www.google.com/maps/contrib/114814595071001708801/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJYfSTaPGojidzh1Qa9nDOG5jIjaOnKojNNRi83jmKerbT4bw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tôi thực sự rất thích bữa ăn tại Grill House! Chúng tôi đã gọi món BBQ Combo và cá hồi nướng đặc biệt, cả hai đều được chế biến hoàn hảo. Bạn có thể dễ dàng nhận thấy chất lượng tuyệt vời vì chính chủ quán tự tay nấu nướng – ông ấy vô cùng thân thiện và rõ ràng rất đam mê với món ăn của mình. Cảm giác như đây là một bữa ăn \"đặc biệt\" đúng như lời quảng cáo. Rất đáng để thử!",
+        "time": 1772031275,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 116
+  },
+  "harvested_at": "2026-04-30T16:15:20.253355"
+}

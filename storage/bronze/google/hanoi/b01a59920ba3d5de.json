@@ -1,0 +1,51 @@
+{
+  "u_key": "b01a59920ba3d5de",
+  "original_osm_name": "Nhà Hàng Half Man Half Noodle",
+  "google_raw": {
+    "formatted_phone_number": "024 3928 0568",
+    "geometry": {
+      "location": {
+        "lat": 21.0354221,
+        "lng": 105.8530384
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0367624802915,
+          "lng": 105.8543532802915
+        },
+        "southwest": {
+          "lat": 21.03406451970849,
+          "lng": 105.8516553197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Half Man - Half Noodle",
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Jason Lim",
+        "author_url": "https://www.google.com/maps/contrib/106173761310578940012/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPKiAh-fk-EZIs2kd4TALN4E9JJ1biLn2bEmePFgS9HXg90s13=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "12 năm trước",
+        "text": "Đồ ăn ngon",
+        "time": 1388238829,
+        "translated": true
+      },
+      {
+        "author_name": "Melanie Taylor",
+        "author_url": "https://www.google.com/maps/contrib/108186847439896347835/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN2GS5tH0qiB5OH7ceDgdlyCYGtZvckEqVxYhBEvtrYMKVCjvv=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "12 năm trước",
+        "text": "",
+        "time": 1386330145,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-28T16:20:00.556066"
+}

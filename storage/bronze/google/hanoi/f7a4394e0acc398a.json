@@ -1,0 +1,88 @@
+{
+  "u_key": "f7a4394e0acc398a",
+  "original_osm_name": "Phở Cồ",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0355592,
+        "lng": 105.847681
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0369154302915,
+          "lng": 105.8489849802915
+        },
+        "southwest": {
+          "lat": 21.03421746970849,
+          "lng": 105.8462870197085
+        }
+      }
+    },
+    "name": "Phở Cồ restaurant",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Kim Thúy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114063689545667761279/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOs53E6uBB-RvUhnknRS5O6nuz-oVRkOOIjSNRmyGjoUca5XRq=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán nhỏ nằm góc phố, có ngồi ngoài vỉa hè. Mình đến sớm nên chưa đông, không phải xếp hàng đợi.\nNước dùng đậm đà, nên người ăn nhạt sẽ thấy hơi mặn. Bò mềm, thơm. Nói chung mấy địa điểm phở nối nổi ở Hà Nội thì ăn đều ok ạ, chất lượng sêm sêm nhau.",
+        "time": 1755396635,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/100381588565538948432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZjYUI1o7Q6BI_OAX_T6BfkwUk_j4YC2hRsqYng80GO4Y6wVVc=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Phở sốt vang ở đây ngon tuyệt vời luôn :(( Quán dùng bánh phở sợi nhỏ, dày bản, dai mà vẫn có độ mềm, ngấm. Nước dùng đậm đà vô cùng, ko phải là nước sốt vang sệt đâu nhé mà vẫn là nước dùng loãng như nước phở thông thường, nhưng dùng thịt bò sốt vang và chắt một chút nước sốt vang vào. Miếng bò sốt vang mềm, ngấm, có những miếng gân thì giòn giòn dai dai rất ngon. Nước dùng thơm mùi quế, hồi của sốt vang lắm, vô cùng dậy vị. Bát phở lại còn đầy đặn cả nước lẫn cái nữa chứ.  Nhân viên ở đây toàn là các bác đã lớn tuổi, hình như bà chủ có ý tạo công ăn việc làm cho các bác ở khu vực gần đó thì phải :) bà chủ lịch sự, thân thiện, tuy nhiên có bác chồng ngồi đấy khó tính hay càu nhàu, có lúc còn lầm bầm với cả khách _   Quán ngồi vỉa hè. Có chỗ để xe máy.  Một tip nhỏ là ăn càng muộn càng ngon nhé, đi ăn tầm 9-10h ý, là được ăn nước cuối nồi rất đậm đà.",
+        "time": 1615691811,
+        "translated": false
+      },
+      {
+        "author_name": "K.O HOANG",
+        "author_url": "https://www.google.com/maps/contrib/103245892289110153048/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLeN5YrEePBQWh-Uw-lEHMANq4yekhpblNvmS8B0WBCiPYI866lw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Nước dùng trong, thơm nhưng hơi ít mùi hồi quế; bánh phở mỏng ngon, thịt chín nạm thái hơi mỏng nên ăn khô.",
+        "time": 1676185982,
+        "translated": false
+      },
+      {
+        "author_name": "Dinh Viet Tuan",
+        "author_url": "https://www.google.com/maps/contrib/107274447056465291213/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULU0aIUqmzWEpBN1gHRSzuDI4RlweX9GFNvjaDVf7N4oUBLsZD=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán ăn gia truyền nhưng nay mới được biết. Giá cả trung bình khá ở phố cổ, phở ăn ngon, nước dùng ngon ko nhiều vị ngọt giống mì chính như các quán khác. Quán hơi chật chỉ đc mấy bàn ngồi trong nhà, còn lại ngồi vỉa hè.",
+        "time": 1532244520,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Phong Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114477195619120246681/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6GqDNZv4w8oYgLWN64kzbRIDf0XjLfAzW98Aj7HAdqnkt8P8dOg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Bát phở bài trí khá đẹp mắt. Thịt mềm, nước xương trong nhìn hấp dẫn. Tuy nhiên nước dùng hơi nhạt một chút. Giá cả 50-70k/bát, không rẻ nhưng đáng để trải nghiệm.",
+        "time": 1693614748,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 75
+  },
+  "harvested_at": "2026-04-28T16:23:00.874221"
+}

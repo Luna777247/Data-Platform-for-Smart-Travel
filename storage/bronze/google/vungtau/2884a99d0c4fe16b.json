@@ -1,0 +1,89 @@
+{
+  "u_key": "2884a99d0c4fe16b",
+  "original_osm_name": "Spring Hotel",
+  "google_raw": {
+    "formatted_phone_number": "6808 8600",
+    "geometry": {
+      "location": {
+        "lat": 1.3050635,
+        "lng": 103.7885633
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 1.306625030291502,
+          "lng": 103.7902039302915
+        },
+        "southwest": {
+          "lat": 1.303927069708498,
+          "lng": 103.7875059697085
+        }
+      }
+    },
+    "name": "Park Avenue Rochester",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Q. Đạt",
+        "author_url": "https://www.google.com/maps/contrib/104376246972558348481/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXouTxh6TngPAMu4WJhvpQdPbcL4qaEk7GTqj5ymZ2tc85ha6X=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Khách sạn ở gần trường NUS, trung tâm vui chơi mua sắm cho thanh niên",
+        "time": 1772840700,
+        "translated": false
+      },
+      {
+        "author_name": "Hảo Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102332571491231428783/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX98Ecs86UnP0Th7Sn9zLslEcXztZaPI9TaXJB2njJXt9cg83K8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Phòng ốc ok, vị trí ngay gần trạm mrt, thuận tiện di chuyển. Tuy nhiên bữa sáng ít món",
+        "time": 1734752860,
+        "translated": false
+      },
+      {
+        "author_name": "S.E",
+        "author_url": "https://www.google.com/maps/contrib/111911465078758926594/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqwENdIIozhjjFxr9eVt3Fo7tRieM_4WiP_36eMRpSzOiYxNz3FQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Tiêu chí 4 sao ngoại trừ phòng nhỏ ra (đặc thù chung của Singapore) thì nói chung đều tốt.",
+        "time": 1718505261,
+        "translated": false
+      },
+      {
+        "author_name": "Đan Anh nguyễn bá",
+        "author_url": "https://www.google.com/maps/contrib/101078653020670119038/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFRtN7mFyEuXZumtRjqozWaJUg2iQlevj5-BerY9CScnCbT9gu=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "3 năm trước",
+        "text": "Khách sạn ổn, sạch sẽ, tuy phòng hi mới vào có mùi. View đẹp",
+        "time": 1679157734,
+        "translated": false
+      },
+      {
+        "author_name": "Stella Cat",
+        "author_url": "https://www.google.com/maps/contrib/107982250946942638041/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxgulCTc2toIC3yh9N01qgascw1TNKnpi34K_q5rq5--5GRpY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Khách sạn OK. View đẹp.",
+        "time": 1570609905,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1669
+  },
+  "harvested_at": "2026-05-03T19:47:53.582817"
+}

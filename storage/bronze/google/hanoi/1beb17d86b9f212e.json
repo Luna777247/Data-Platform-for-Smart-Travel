@@ -1,0 +1,173 @@
+{
+  "u_key": "1beb17d86b9f212e",
+  "original_osm_name": "Cà Phê Linh",
+  "google_raw": {
+    "formatted_phone_number": "0904 173 484",
+    "geometry": {
+      "location": {
+        "lat": 21.0365227,
+        "lng": 105.8467608
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0379126302915,
+          "lng": 105.8480473802915
+        },
+        "southwest": {
+          "lat": 21.0352146697085,
+          "lng": 105.8453494197085
+        }
+      }
+    },
+    "name": "Coffee Linh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2215"
+          },
+          "open": {
+            "day": 0,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2215"
+          },
+          "open": {
+            "day": 1,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2215"
+          },
+          "open": {
+            "day": 2,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2215"
+          },
+          "open": {
+            "day": 3,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2215"
+          },
+          "open": {
+            "day": 4,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2215"
+          },
+          "open": {
+            "day": 5,
+            "time": "0615"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2215"
+          },
+          "open": {
+            "day": 6,
+            "time": "0615"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:15–22:15",
+        "Thứ Ba: 06:15–22:15",
+        "Thứ Tư: 06:15–22:15",
+        "Thứ Năm: 06:15–22:15",
+        "Thứ Sáu: 06:15–22:15",
+        "Thứ Bảy: 06:15–22:15",
+        "Chủ Nhật: 06:15–22:15"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Z49 - Quach Quynh Anh",
+        "author_url": "https://www.google.com/maps/contrib/104456718746815250166/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUV4bcBtbf2JYXtt5Ci5YMG0BT3dYKnixdKix_QkHFcOOQwUYD44g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đối với mình thì mình hợp bạc xỉu ở đây nhất HN ấy. Ngồi vỉa hè chill chill siêu mê hoặc ngồi tầng 2 cạnh cửa sổ ngắm đường cũng thích. Bác chủ niềm nở, pha trà mãng cầu còn cho rất nhiều topping 😍",
+        "time": 1768410412,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105018503026856202383/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpsZiLYdYovslhpLdmao13ngHTNOQgOmInmL30KEVLJRudpeca=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Bạc sỉu ngon, sữa chua dẻo cũng ngon. Menu nhiều món kiểu cafe hồi trước, giá cả dễ chịu. Ngồi ngoài có quạt. 2 vợ chồng bác chủ quán thân thiện, mến khách. Tránh mùa nóng thì ngồi ngoài khá thích",
+        "time": 1759523487,
+        "translated": false
+      },
+      {
+        "author_name": "Đăng Khôi Trần",
+        "author_url": "https://www.google.com/maps/contrib/103719289180046133921/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLq8oR0PngB1Ekobpqw2Z40nncBCxNnte1is5QuKnJMMM6kNxceQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Cà phê nâu vị rất riêng, ngồi tầng 2 ngắm xuống phổ cổ tấp nập mang lại trải nghiệm vô cùng thú vị đậm chất Hà Nội",
+        "time": 1766020159,
+        "translated": false
+      },
+      {
+        "author_name": "Simon HWoon",
+        "author_url": "https://www.google.com/maps/contrib/106604933757013942147/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWeN4EjhTWckVTCZUb5e99A_2kGwjXoy--dkzPvArIcmsfx2TE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Trên phố nên quán khá ít chỗ ngồi, chủ yếu là vỉa hè. Có chỗ trên tầng nhưng khá nhỏ thui. Đồ uống thì không có gì chê, bạc sỉu bên này ngon lắm. Chú chủ quán cũng nhiệt tình vô cùng. Thấy giá cả cũng khá rẻ so với chất lượng và địa điểm như thế",
+        "time": 1753749412,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/106963398102388534495/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXIwcr5050Az8cnRnbnbP1DfBBcCYlLpl6c1SmsVa11_JRt7msOw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cafe Linh 86A Hàng Mã\nMình đã ngồi Linh 4 tháng liên tiếp không đổi quán vì quá nghiện bạc sỉu, cao xỉu( đặc bịt), cao muối ở đây\nVibe yên bình thích ngồi nhất tầm 5r-7g ngắm đường và tàu đi qua\n🏀 10-40k hạt rẻ",
+        "time": 1697603026,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 95
+  },
+  "harvested_at": "2026-04-26T12:45:29.735908"
+}

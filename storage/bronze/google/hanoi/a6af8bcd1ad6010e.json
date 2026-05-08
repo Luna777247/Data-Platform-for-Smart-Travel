@@ -1,0 +1,109 @@
+{
+  "u_key": "a6af8bcd1ad6010e",
+  "original_osm_name": "Shendo’s Penthouse",
+  "google_raw": {
+    "formatted_phone_number": "0986 700 880",
+    "geometry": {
+      "location": {
+        "lat": 21.0311001,
+        "lng": 105.8136647
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0324486302915,
+          "lng": 105.8150135802915
+        },
+        "southwest": {
+          "lat": 21.0297506697085,
+          "lng": 105.8123156197085
+        }
+      }
+    },
+    "name": "Shendo Vinhomes Metropolis",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Tuyết Ánh",
+        "author_url": "https://www.google.com/maps/contrib/116993768921783319688/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzzWLGSr-ezYfWG49ddkqM_PNIEEAY-fH0iuyUA9oRuEqNe8DQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tôi có chuyến du lịch đến Hà Nội và tôi khá bất ngờ khi nhận phòng. Phòng sạch sẽ, an ninh tốt, căn hộ có view rất đẹp. Căn hộ có đủ máy giặt, máy sấy và bếp, điều đó thật tuyệt vời. Tôi chắc chắn sẽ quay lại đây khi đến Hà Nội vào dịp tới.",
+        "time": 1770177332,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Quang Giáp",
+        "author_url": "https://www.google.com/maps/contrib/105529788866857691251/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc9afvrf-TjYols6yowVLronkflcB6NEvQbsi70vUW39hkE9r7=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đẹp, vị trí tốt và thuận lợi. Rẻ trong tầm giá so với những gì mình nhận được rcm mm",
+        "time": 1770122596,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Nguyenduc",
+        "author_url": "https://www.google.com/maps/contrib/114308064829850677823/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLTPeMFPEPEy2rpH4RaICDnfgJe-PoFfKXs7_rXBzlyleQVkg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Phòng sạch sẽ, an ninh tốt cho cảm giác rất vui khi sử dụng dịch vụ",
+        "time": 1770103748,
+        "translated": false
+      },
+      {
+        "author_name": "Phúc Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112383120156123197296/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjwHrq6ZcwVj_QFR5t0G7N8k4IYXfEKMsYVobfmOkLRFULAqbj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Trải nghiệm tuyệt vời, phục vụ rất thân thiện với khách hàng, mọi người nên đến đây nhé !!",
+        "time": 1770123124,
+        "translated": false
+      },
+      {
+        "author_name": "RamaRamen",
+        "author_url": "https://www.google.com/maps/contrib/110546810536257268365/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHqi78Lii4CyljcMWFvCa0v6AguzBsQYhUcBHSoEcIvrofNx-5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nơi ở tốt, nhân viên tích cực,\nsẽ quay lại",
+        "time": 1770293116,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 10
+  },
+  "harvested_at": "2026-04-26T12:44:26.202028"
+}

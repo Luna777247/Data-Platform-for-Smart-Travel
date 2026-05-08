@@ -1,0 +1,172 @@
+{
+  "u_key": "6b47731c69ef3d96",
+  "original_osm_name": "Cilantro",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2336022,
+        "lng": 109.1960995
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2349496802915,
+          "lng": 109.1974400302915
+        },
+        "southwest": {
+          "lat": 12.2322517197085,
+          "lng": 109.1947420697085
+        }
+      }
+    },
+    "name": "Restaurant Cilantro",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:30",
+        "Thứ Ba: 10:00–21:30",
+        "Thứ Tư: 10:00–21:30",
+        "Thứ Năm: 10:00–21:30",
+        "Thứ Sáu: 10:00–21:30",
+        "Thứ Bảy: 10:00–21:30",
+        "Chủ Nhật: 10:00–21:30"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Hoang Duc",
+        "author_url": "https://www.google.com/maps/contrib/101677190705198122228/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcV5tJkwzZ_O9KV1beQp412G9AdjryJIXxyDVZX4VzzTyTuE0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ăn ngon chuẩn vị tây. Giá khá mềm với khẩu phần ăn lớn. Quán có máy lạnh ngồi ăn mát mẻ thoải mái. Vô tình ghé qua nhưng khá là ưng nha",
+        "time": 1754023594,
+        "translated": false
+      },
+      {
+        "author_name": "Frédéric Bouchard",
+        "author_url": "https://www.google.com/maps/contrib/102917177490920557050/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF1GRF2JrQ7dFTbFB6She8EftMRGwYG2vMfNpNpXFe69W1lBHR=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nothing bad to say about this place. Beautiful, good, not expensive at all. 😀 The air conditioning is efficient, everything was delicious and I received my meal super quickly. The good life!\n\nKhông có gì xấu để nói về nơi này. Đẹp, tốt, không hề đắt chút nào. 😀 Hệ thống điều hòa hiệu quả, mọi thứ đều ngon và tôi nhận được bữa ăn rất nhanh. Cuộc sống tốt đẹp!",
+        "time": 1745735055,
+        "translated": false
+      },
+      {
+        "author_name": "Bích Trâm",
+        "author_url": "https://www.google.com/maps/contrib/115477520490458572980/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVfEeNt3h7M2yVBlnlk-X6uFOVzvATzyIfTkmVYjAeo9HVZw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình khá thích không khí của quán , thoáng mát và sạch sẽ . Menu đa dạng , quán rất đông nhưng nhân viên takecare khá tốt luôn cười với khách hàng , giá cả quá phải chăng , nhà mình đã dùng bữa ở đây được 3 lần bởi vì món ăn rất hợp khẩu vị với gđình mình . Nếu có dịp đến Nha Trang lần nữa thì mình vẫn sẽ vẫn chọn Cilantro để dùng bữa\nTôm hùm ở đây khá ngon và hợp khẩu vị của người Việt như mình nha , mình khuyên mn nên ghé ăn ở đây nhé",
+        "time": 1761657402,
+        "translated": false
+      },
+      {
+        "author_name": "Long Pham",
+        "author_url": "https://www.google.com/maps/contrib/114319762677821183588/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPosktltp8dPil9stMDjbFlrklxum_b3RtkKxcjiIjbiqwDFI2=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "nhà hàng đông nhưng xếp bàn nhanh và phục vụ món cũng nhanh\nmón ăn vừa miệng, ngon, nhiều và giá ổn",
+        "time": 1752055187,
+        "translated": false
+      },
+      {
+        "author_name": "Phan Hào",
+        "author_url": "https://www.google.com/maps/contrib/101600216378604852498/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQijGUY2GlZoQdxYxG0Y0xEWv0-axm14bdlS52hrtXxvvYXbM3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "đồ ăn ngon, nhân viên thân thiện nhiệt tình , lễ tân mời khách rất có tâm , lần sau sẽ quay lại ăn tiếp tục",
+        "time": 1761657628,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1245
+  },
+  "harvested_at": "2026-05-02T15:22:10.016525"
+}

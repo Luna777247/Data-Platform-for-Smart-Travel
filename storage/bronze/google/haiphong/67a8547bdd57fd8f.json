@@ -1,0 +1,108 @@
+{
+  "u_key": "67a8547bdd57fd8f",
+  "original_osm_name": "Tượng Phật",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.7532111,
+        "lng": 106.50538
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.7542304302915,
+          "lng": 106.5067623802915
+        },
+        "southwest": {
+          "lat": 20.7515324697085,
+          "lng": 106.5040644197085
+        }
+      }
+    },
+    "name": "Tượng Phật",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Sơn Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/115079926387138972423/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUionrfj2edVjjGqTVC70fe7EkS7_q5DU9fYWLwz_WhFC3A7xLVSw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Tượng Phật mới được xây dựng!",
+        "time": 1584880404,
+        "translated": false
+      },
+      {
+        "author_name": "Tuân Pham văn",
+        "author_url": "https://www.google.com/maps/contrib/106475678777609041855/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx_1pmjZqggatSeYoAQ0B6OpAFwkgJ8_9whvD8cDsTsx5fo5uW=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Mọi người  qua Hải Phòng  đừng  bỏ nhỡ chỗ này nha",
+        "time": 1638281190,
+        "translated": false
+      },
+      {
+        "author_name": "GEM PHAM",
+        "author_url": "https://www.google.com/maps/contrib/115970517986466057086/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXNz2JPAGjIluGCgIH2kwaVIdPnT_EN0gu4mFWIHYcnK_n0DOytQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Một địa điển thanh tịnh. Mình đến đây đer hít thở không khí trong lành, nghe tiếng chuông gió và tiếng niệm phật, cảm thấy lòng mình thật thanh thản",
+        "time": 1677161432,
+        "translated": false
+      },
+      {
+        "author_name": "Kai Luong",
+        "author_url": "https://www.google.com/maps/contrib/114904254559863309970/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6OoZG4uOTH1CpB7QU8-IOTGzDRQ3UBTeIMDa_icyBOK9OGA8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "8/11/2022 hoa thơm ngát cảnh chùa thanh tịnh, hơi nắng nên mang theo ô và nước uống",
+        "time": 1667896506,
+        "translated": false
+      },
+      {
+        "author_name": "Mr Thái",
+        "author_url": "https://www.google.com/maps/contrib/102497026275696688867/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrd0dtlo5GCPDSAaZVEdC0eASZuaPNg5Yiw_6BgvH2wTbScXSJ=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Tuyệt đẹp rất thanh tịnh đúng chuẩn nơi thiền tự",
+        "time": 1636197664,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 22
+  },
+  "harvested_at": "2026-04-30T15:20:32.399687"
+}

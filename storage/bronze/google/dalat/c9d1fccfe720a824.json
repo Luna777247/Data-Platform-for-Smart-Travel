@@ -1,0 +1,174 @@
+{
+  "u_key": "c9d1fccfe720a824",
+  "original_osm_name": "La Mappa Café & Bistro",
+  "google_raw": {
+    "formatted_phone_number": "0918 138 330",
+    "geometry": {
+      "location": {
+        "lat": 11.9316476,
+        "lng": 108.4266179
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9330285302915,
+          "lng": 108.4280940302915
+        },
+        "southwest": {
+          "lat": 11.9303305697085,
+          "lng": 108.4253960697085
+        }
+      }
+    },
+    "name": "LA MAPPA Café & Bistro",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:00",
+        "Thứ Ba: 06:30–22:00",
+        "Thứ Tư: 06:30–22:00",
+        "Thứ Năm: 06:30–22:00",
+        "Thứ Sáu: 06:30–22:00",
+        "Thứ Bảy: 06:30–22:00",
+        "Chủ Nhật: 06:30–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Gum Fat (Fatgum)",
+        "author_url": "https://www.google.com/maps/contrib/109075563562821414628/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9kB9wewk_bbCXuSZJjIc0e8WjJ7ezsAnjOjJ3_TTdHlQu61Wy=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Thức uống ngon chỉnh chủ và đẹp mắt\nDịch vụ rất tốt nhân viên thân thiện\nBầu không khí tuyệt vời nhiều cây xanh mát mẻ, nhỏ gọn nằm một gốc nhỏ giữa hai nhà nghỉ khách sạn.\nThích hợp nghỉ ngơi thư giản ngồi nghe nhạc đọc sách, khá yên tĩnh",
+        "time": 1772013261,
+        "translated": false
+      },
+      {
+        "author_name": "Thơm Phan",
+        "author_url": "https://www.google.com/maps/contrib/105763324706917777159/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWnkp7aMjuAvWzPU6gS02auiWhauum6ImfFdbu1DeeSQnBvCjgUg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tiệm decor xinh xẻo, dễ thương, chỉnh chu. Nhìn là thấy được chăm chút rất kỹ.\nNhân viên dễ thương, nhiệt tình\nTiệm cũng có đồ ăn, giá thành hơi cao một xíu nhưng ngon nhen.",
+        "time": 1757968363,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Ánh",
+        "author_url": "https://www.google.com/maps/contrib/104407956986692491200/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDBCO1QN67TsHePI8Gmh1lP5OrTee3lqjtFY-dXmg4O7va=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Ở gần đây mà bây giờ mới biết. Tiệm trong khuôn viên không gian villa cũ. Ôi trời ơi siêu thoáng đãng và cổ luôn. Giá nước hợp lý",
+        "time": 1758784328,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/114563423650601093411/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT9CHCF3WWi3F669NFyinoiK4YrjfLnzM5ybXDCuEloPNhtOTF=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán được cái vừa vắng vừa chill. Cafe ngon.",
+        "time": 1772331382,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Trịnh",
+        "author_url": "https://www.google.com/maps/contrib/114408051902182397014/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-4EeCIXxaTkXHULv4qWE2FLmAbG0sGN3kbcI_azj58Mi_rasN=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán nằm ở 8 Triệu Việt Vương, không gian cực chill với tông xanh trắng nhẹ nhàng, góc nào cũng lên hình đẹp. Mình gọi espresso, vị đậm, thơm, pha chuẩn, uống trong tiết trời lạnh của Đà Lạt thì tuyệt. Nhạc nhẹ, chỗ ngồi thoải mái, nhân viên thân thiện. Menu có cả đồ ăn Á – Âu, bánh ngọt cũng ổn. Giá hơi cao hơn mặt bằng chung nhưng xứng đáng với không gian và chất lượng. Rất thích hợp để hẹn hò, làm việc hoặc nghỉ chân giữa chuyến đi. Nhất định sẽ quay lại!",
+        "time": 1761116610,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 168
+  },
+  "harvested_at": "2026-04-30T15:09:51.349399"
+}

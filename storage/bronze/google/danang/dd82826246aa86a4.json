@@ -1,0 +1,174 @@
+{
+  "u_key": "dd82826246aa86a4",
+  "original_osm_name": "Bé Man",
+  "google_raw": {
+    "formatted_phone_number": "0905 207 848",
+    "geometry": {
+      "location": {
+        "lat": 16.0820695,
+        "lng": 108.2473865
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0832832302915,
+          "lng": 108.2487627802915
+        },
+        "southwest": {
+          "lat": 16.0805852697085,
+          "lng": 108.2460648197085
+        }
+      }
+    },
+    "name": "Hải Sản Bé Mặn",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–00:00",
+        "Thứ Ba: 09:00–00:00",
+        "Thứ Tư: 09:00–00:00",
+        "Thứ Năm: 09:00–00:00",
+        "Thứ Sáu: 09:00–00:00",
+        "Thứ Bảy: 09:00–00:00",
+        "Chủ Nhật: 09:00–00:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Ngan Tran",
+        "author_url": "https://www.google.com/maps/contrib/111938350423501778052/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiQsg7AS495d9DYhBip3Hsl_6rQiOdMv0mlBm2sX9TYK375p27=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán hải sản mở nhiều năm và mình cũng đến ăn nhiều lần..Mỗi lần ghé ăn về sau này càng thấy quán có những cải thiện tích cực và tốt cũng như rõ ràng hơn những năm trước.\nNăm nay mình ghé quán những ngày cuối năm cũng mở bình thường.Chỉ ăn nhẹ những món như hình.\nSố lượng ít nhưng cũng ra quầy lựa ốc,lựa ghẹ và cân/chọn cách chế biến bạn muốn.Tiếp theo thì mình cho nhân viên biết số bàn mình ngồi và thức ăn sau khi chế biến sẽ mang ra đúng bàn.\nThao tác chuyên nghiệp,giá công khai vì thế cũng không phải nghĩ đến việc phải trả giá làm gì.Tuy nhiên,bạn cần nắm số lượng và đại khái mình đã chọn những gì để đối chiếu xem đúng sai có như ý mình không.Hoặc sau khi ra bill cũng cần kiểm tra vì quán đông khách lắm nên khó mà tránh được sai sót..Mình đã từng bị nhưng phản hồi thì sẽ trừ lại tiền cho mình nhé.\nKhông gian quán rộng,sát biển nên mát mẻ,nhất là tầm khung giờ chiều tối trở đi.Hải sản tươi,gia vị nêm nếm vừa ăn theo mình thì đây cũng là nơi có thể ngồi thưởng thức các món hải sản tươi sống khá phù hợp,hài lòng tại Đà Nẵng.",
+        "time": 1773025460,
+        "translated": false
+      },
+      {
+        "author_name": "Huỳnh Thị Thanh Nhàn (Rồng kim)",
+        "author_url": "https://www.google.com/maps/contrib/107049999296180724382/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxkZ5aXW9zo5MApu3TUnW-J-LUIUXThehty3CB3GGKN6M8upxvoA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "quán khá đông mặc dù đầu tuần , bạn sẽ được nhân viên đưa 1 tờ giấy có số bàn . Sau đó bắt đầu vô quầy hải sản để lựa chọn kg và cách chế biến. Quán có trả qua thẻ",
+        "time": 1771896098,
+        "translated": false
+      },
+      {
+        "author_name": "Quinnie Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112426500996749834149/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrDd3G3jXW94Eho6d7ZfjtfkKa1HuL2KzGKszEnDDRg2O1Hg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, hải sản siu tươi, giá cả hợp lí. Gia đình mình đến đây khá nhiều lần. Tiếc cái lo ăn quên lun chụp hình lại 😂 sát ngay biển nên đi bộ qua đường là ngắm biển được luôn. Phụ vụ tốt, đồ ăn ra cũng nhanh, 1 phần do mình tới sớm lúc họ chưa đông khách. Chứ đến tầm tối khá đông á. Mọi người có thể thử gọi món mực chiên mắm. Món tủ của mình khi tới đây không thể nào thiếu được =))) nó đẽ lắm",
+        "time": 1771064322,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Vianh",
+        "author_url": "https://www.google.com/maps/contrib/116531915418724140773/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIxCkwvoyfhVVsxRz3tayMtKjMZWLYDvV7G2kHcReiwGMLpsXqyQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "1) không gian rộng nhưng cực kì cực kì đông :) may đến phát là có bàn ( không đặt trước được đâu) mình đi mùng 3 Tết nên đông còn ngày thường không rõ\n2) Ghẹ chắc thịt còn lại bình thường\n3) nhà mình đi 5 người thì 4 người về đau bụng và không biết do món gì\n4) Mình chả hiểu sao họ book PR hay gì chứ tất cả đồ ăn rất bình thường :)) nó còn không ngon như quán Ngọc Hương :)) thật đó ai ăn thì qua Ngọc Hương mà ăn nhé\n5) Nhân viên đông nhưng thái độ quá tệ: bố và chị mình ra đi chợ chọn đồ mà gọi không ai quan tâm và còn hất người khi chị mình đụng vào để gọi, ok mình hiểu quán đông nhân viên rất mệt nhưng thái độ đó quá tệ. Tiếp theo là gọi nhân viên cực kì khó :) họ giả điếc luôn ấy\n6) Đồ ăn ra cực kì chậm :) 30p ra dc mì và hơn 45p mới lên đồ ăn\n=> Được tung hô quá nhiều + không xứng được michelin !",
+        "time": 1771603046,
+        "translated": false
+      },
+      {
+        "author_name": "G1-TCG",
+        "author_url": "https://www.google.com/maps/contrib/117731241137402845345/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8EBHhpm7AhBRL1Gc8XrhRAw8ms1ZcN0YzNlhKIjKzPYRNYiw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Hải sản phong phú , nhiều lựa chọn chế biến, giá cả hợp lý. Đang ăn thì thấy tấm bảng Michelin trong góc tủ cũng ko quá bất ngờ. Sẽ quay lại ủng hộ tiếp",
+        "time": 1762219504,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 7609
+  },
+  "harvested_at": "2026-04-29T09:41:52.125841"
+}

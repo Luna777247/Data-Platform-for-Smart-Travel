@@ -1,0 +1,244 @@
+{
+  "u_key": "9a00868d85fa99ce",
+  "original_osm_name": "Family Indian Restraurant",
+  "google_raw": {
+    "formatted_phone_number": "0942 605 254",
+    "geometry": {
+      "location": {
+        "lat": 16.0669271,
+        "lng": 108.2433426
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0682620302915,
+          "lng": 108.2446151802915
+        },
+        "southwest": {
+          "lat": 16.0655640697085,
+          "lng": 108.2419172197085
+        }
+      }
+    },
+    "name": "Family Indian Halal Restaurant",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–15:00, 17:00–22:00",
+        "Thứ Ba: 10:00–15:00, 17:00–22:00",
+        "Thứ Tư: 10:00–15:00, 17:00–22:00",
+        "Thứ Năm: 10:00–15:00, 17:00–22:00",
+        "Thứ Sáu: 10:00–15:00, 17:00–22:00",
+        "Thứ Bảy: 10:00–15:00, 17:00–22:00",
+        "Chủ Nhật: 10:00–15:00, 17:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Huyen Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107844018489000118536/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ1zDddsePkzfo3ZQpZzBHbkaATdo8z4SRGsqW-JAaE3xW9KVQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán quen của mình nhé\nNhờ nó mà mình bắt đầu thích đồ Ấn nha",
+        "time": 1765107765,
+        "translated": false
+      },
+      {
+        "author_name": "Hạnh Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/101964362424206078763/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPAx284as6ZmZxQDBUcb1HIldrsfj4J2gSSgNZ1QTPPDe8mg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Thức ăn rất ngon, giá cả hợp lý, nhân viên thân thiên. Sẽ quay trở lại với bạn bè.",
+        "time": 1754286150,
+        "translated": false
+      },
+      {
+        "author_name": "Nhung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114098850079094776012/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVnyVVNBgW18tvU4-QfvvqRimuxwaiJW_frkVi4wObdBovN0PEYw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "11 tháng trước",
+        "text": "Mình ăn ở đây rất nhiều lần rồi. Món ăn ngon, nêm nếm ổn dễ ăn. Mà có điều lần gần đây nhất mình ghé thì nhân viên không được niềm nở lắm, vừa vô đã chặn cửa hỏi mình ăn đồ việt hay đồ ấn, ăn đồ việt thì qua bên kia. Mà nói nhanh k rõ ràng. Kiểu như k thích phục vụ khách việt.\nRồi xong lúc order thì có 1 bạn ấn order, mình có thể nói tiếng anh tốt nhưng chị đó cứ đứng bên hỏi trống không khách hàng. Xong mình order rồi và mình chỉ kêu 1 ly Lassi vì nó rất to và mình thấy kêu 2 ly cũng k uống nổi nhưng chị ấy lại cứ hỏi đi hỏi lại mặc dù bạn ng Ấn đã order xong. rồi lấy cho mình 1 ly nước lọc.\nKiếm chỗ đậu xe ô tô bên ngoài rất khó nha. Mặc dù k phải cuối tuần, đường đông, không có bảo vệ hỗ trợ đỗ xe.",
+        "time": 1748774752,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Huy Mạch",
+        "author_url": "https://www.google.com/maps/contrib/113756675157046265539/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLEHYQtU4Fl9Q8W4Vx8K7qCFb21OsxjuGf7X62EVHZLYXp0Fg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "phục vụ rất nhanh, chuyên nghiệp, thái độ tốt, đồ ăn ngon, recommend cà ri cừu nhé, ngon vkl. nhà mình đi đà nẵng 3 lần mà lần nào cũng phải quay lại ăn",
+        "time": 1751980462,
+        "translated": false
+      },
+      {
+        "author_name": "Hân Bảo",
+        "author_url": "https://www.google.com/maps/contrib/104542451198628998667/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHlQPBZreM6V3d6CkfbD4AFPbrii25zHJxz9FPNe6n2sXaI27H=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "quán ngon phết, đồ ăn tuy lên chậm nhma chỉ chậm 5 - 10p thoii",
+        "time": 1750593661,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2608
+  },
+  "harvested_at": "2026-04-29T09:43:23.946914"
+}

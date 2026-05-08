@@ -1,0 +1,89 @@
+{
+  "u_key": "cbebca4d67505a6b",
+  "original_osm_name": "Vsp coffee",
+  "google_raw": {
+    "formatted_phone_number": "0913 070 809",
+    "geometry": {
+      "location": {
+        "lat": 21.0320217,
+        "lng": 105.845757
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0333709302915,
+          "lng": 105.8471065802915
+        },
+        "southwest": {
+          "lat": 21.0306729697085,
+          "lng": 105.8444086197085
+        }
+      }
+    },
+    "name": "VSP Cofee & Drinks",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Việt Người",
+        "author_url": "https://www.google.com/maps/contrib/117988671132135706534/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEl858_t0tLS0CgIK4XbwH_dJyvPEVNE9tIq7MqKcJXxDmFA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Điểm 10 cho chất lượng sản phẩm là đây chứ đâu,",
+        "time": 1498271792,
+        "translated": false
+      },
+      {
+        "author_name": "Khương Nguyễn Duy",
+        "author_url": "https://www.google.com/maps/contrib/116696261044434910523/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyhxZ6z02SRhHN9y1mmHESKzt2OcaaivSEZBNwCIZw_ha3Ryk=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Đánh giá cao chât lượng sản phẩm",
+        "time": 1560056121,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Tùng Anh",
+        "author_url": "https://www.google.com/maps/contrib/112737601434338406980/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQp8fZuc92ykqMhTUni7MzFlbwGNeeXha8_mBflf2RgWQVLPU0qw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Cafe tuyệt vời",
+        "time": 1487155929,
+        "translated": false
+      },
+      {
+        "author_name": "Do Chien Thang",
+        "author_url": "https://www.google.com/maps/contrib/110468285419080895969/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZiYL5iyhkoNOJC66w4y8TOowTxUScT7RR527hQtkbvDY1gtMJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Espresso tuyệt vời và quang cảnh phố cổ tuyệt đẹp!",
+        "time": 1487897023,
+        "translated": true
+      },
+      {
+        "author_name": "Jiwon Lee",
+        "author_url": "https://www.google.com/maps/contrib/109967458048452838598/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDsnZ87O1HQdv9e-YBrtrLL0snmim8p-5HoS6CSee2qPLDnEg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "smoking area",
+        "time": 1499411677,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 7
+  },
+  "harvested_at": "2026-04-26T12:45:21.304912"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "b4520d6c2b3c71f3",
+  "original_osm_name": "Vườn Xoài",
+  "google_raw": {
+    "formatted_phone_number": "0855 308 917",
+    "geometry": {
+      "location": {
+        "lat": 21.1610601,
+        "lng": 105.7937787
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.1624192302915,
+          "lng": 105.7950895802915
+        },
+        "southwest": {
+          "lat": 21.1597212697085,
+          "lng": 105.7923916197085
+        }
+      }
+    },
+    "name": "Khu Du Lịch Vườn Xoài",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Hoài Xuân",
+        "author_url": "https://www.google.com/maps/contrib/106629912853922684406/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSUH7pSYI4GS-ZdoiAYy8-ucAnbBKd7IVb7XMpSIGT0L7xvycZ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Khu du lịch rộng, sạch sẽ có nhiều thú, khu hồ bơi lớn thuận tiện cho các bé vui chơi, có khách sạn ở lại để tận hưởng không khí buổi sáng ở đây",
+        "time": 1703152912,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110643841322303187427/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4D4oCurGLdgaisjmAV4EXi0Curj41Lb_Oo64QNhqFZ3wa0RWP=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian rộng thoáng có nhiều phòng hội nghị, hội thảo , địa chỉ dễ tìm. Đồ ăn da dạng, nhân viên nhiệt tình chu đáo. Phù hợp với những chương trình tập thể.",
+        "time": 1721897197,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Bảo",
+        "author_url": "https://www.google.com/maps/contrib/116322482198414908929/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWR0FRvoQ9CjRXxqLflMpqp2XbK8Y1bjqqRQ4AL1wknPJ1yrDNq=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian rộng rãi, cuối tuần tổ chức party là hợp lý",
+        "time": 1744537818,
+        "translated": false
+      },
+      {
+        "author_name": "minh thong",
+        "author_url": "https://www.google.com/maps/contrib/107744838267962262336/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItXoFvNdwg7NI0XPiyR5gbh9wvhmHQhd7ysFgQLIXxTFvjkQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Khu du lịch nằm tại xã Nam hồng, Đông anh, Hà nội. Đìa điểm không khó tìm và rất rộng rãi. Tại đây có một số hình thức vui chơi, tuy không đa dạng nhưng rộng rãi, thích hợp cho sinh hoạt các đội, nhóm đông người hay các hội nghị dành cho khách hàng, lễ kỷ niệm. Đồ ăn nấu khá ngon, có cả các món chay ngon. Giá cả tuy không rẻ nhưng cũng có thể chấp nhận được. Nơi đây có nhiều lều câu cá, thư giãn và uống Cafe, chỗ để xe cũng rộng rãi nằm rải rác tại các lều, phòng ăn nhỏ nếu khách muốn chút riêng tư. Nếu sang Nam hồng, địa điểm này cũng có thể là nơi đáng ghé thăm.",
+        "time": 1574262713,
+        "translated": false
+      },
+      {
+        "author_name": "Chúc An",
+        "author_url": "https://www.google.com/maps/contrib/103633369704935215374/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgijTdEVW7nRz8e6DOdM7pCIi8ciQiAsaz5pHSVci5Tca4s-SF=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Khu rộng,nhiều cây,có hồ cá,nhân viên nhiệt tình,phù hợp với sự kiện,hoạt động Team.Món ăn nhanh,giá cả phù hợp.Hồ cá hơi nguy hiểm với trẻ nhỏ.",
+        "time": 1691942504,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 563
+  },
+  "harvested_at": "2026-04-26T12:45:23.603487"
+}

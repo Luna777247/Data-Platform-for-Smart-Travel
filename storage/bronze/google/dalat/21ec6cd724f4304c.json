@@ -1,0 +1,125 @@
+{
+  "u_key": "21ec6cd724f4304c",
+  "original_osm_name": "Giai Khat Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0834 015 130",
+    "geometry": {
+      "location": {
+        "lat": 11.9645368,
+        "lng": 108.43193
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9659185802915,
+          "lng": 108.4332447802915
+        },
+        "southwest": {
+          "lat": 11.9632206197085,
+          "lng": 108.4305468197085
+        }
+      }
+    },
+    "name": "Cafe Giải Khát Mót - Nhã",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "David Graaskov",
+        "author_url": "https://www.google.com/maps/contrib/110880059290804994015/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGO4ZoO_xo_El6LBiKqC43vGO6c9aMf5pCggdlBifVpET5fZMI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán cà phê 12K là lựa chọn tuyệt vời khi bạn đang chờ xe buýt. Nằm ngay cạnh bến xe buýt nên cực kỳ tiện lợi.",
+        "time": 1728967124,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-30T15:06:27.466578"
+}

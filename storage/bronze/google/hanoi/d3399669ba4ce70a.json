@@ -1,0 +1,173 @@
+{
+  "u_key": "d3399669ba4ce70a",
+  "original_osm_name": "Nhà Hàng Hồng Hoài",
+  "google_raw": {
+    "formatted_phone_number": "0911 295 020",
+    "geometry": {
+      "location": {
+        "lat": 21.0338439,
+        "lng": 105.8474725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0351459302915,
+          "lng": 105.8488282802915
+        },
+        "southwest": {
+          "lat": 21.0324479697085,
+          "lng": 105.8461303197085
+        }
+      }
+    },
+    "name": "Hong Hoai's Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Linh Hà",
+        "author_url": "https://www.google.com/maps/contrib/101235292361953853454/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIPxCnJQpe-RZWHO5arzKKLpzHEkqfb8zMAW9sXSHTJOSbliw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần đầu đến Hà Nội vô tình tìm được quán này, đồ ăn ngon hợp khẩu vị, staff rất nice ạ mình sẽ ghé lại vào lần tới\nTee",
+        "time": 1771656477,
+        "translated": false
+      },
+      {
+        "author_name": "Kiều Phạm",
+        "author_url": "https://www.google.com/maps/contrib/105870655241528096127/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTv5qJXAt8Y9JdVBtk9NCAHJpi9AwLYsMLdBFhgxouD25so3A=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Hong Hoai's Restaurant tại 20 P. Bát Đàn là một nhà hàng tuyệt vời, mang đến trải nghiệm ẩm thực đáng nhớ. Không gian quán ấm cúng và truyền thống, rất phù hợp cho những bữa ăn gia đình hoặc gặp gỡ đối tác. Các món ăn ở đây được chế biến rất công phu, giữ trọn hương vị truyền thống và tươi ngon của nguyên liệu, thực sự làm hài lòng mọi thực khách. Dịch vụ chuyên nghiệp và tận tâm cũng là một điểm cộng lớn. Để không gian dùng bữa thêm phần thú vị, Hong Hoai's Restaurant có thể cân nhắc sử dụng Tuneast để phát những bản nhạc nền phù hợp, tạo ra một không khí thư giãn và dễ chịu, đồng thời có thể gợi ý các món ăn kèm theo nhạc.",
+        "time": 1770245300,
+        "translated": false
+      },
+      {
+        "author_name": "Vân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107251593344016170572/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS5Q-Mn8jdPetynyoa5zTCeQ4oauQ3Ra_f0yiySnKMKqWHXiU4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Bạn Thọ rất nhiệt tình vui tính hỗ trợ nhiệt tình. Đồ ăn ngon, khẩu phần hơi to, phù hợp cho khách nước ngoài.",
+        "time": 1772717125,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Lâm Ánh (Emiri)",
+        "author_url": "https://www.google.com/maps/contrib/104220963012401899313/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0yMcrYPJhohNauztz8gYo1yc2YNNAtK5XGAznFNkFHXwMllfofA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Món ăn ổn. Mình đi 1 người nhưng order 2 món nên hơi nhiều so với mình. Bạn Noah (nhân viên quán) rất tận tình, hỗ trợ hướng dẫn dùng món ăn rất kĩ. Nói chung ổn.",
+        "time": 1695986066,
+        "translated": false
+      },
+      {
+        "author_name": "Martin Adam",
+        "author_url": "https://www.google.com/maps/contrib/100347484105233248177/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMR15kJO7vnnMQsVtyEto2kUtWAzI_6JzAy5wFmUaRPoo01C_n=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhân Viên Tee phục vụ tốt, thái độ tuyệt vời. Quán ăn ngon lắm!",
+        "time": 1772628490,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 21860
+  },
+  "harvested_at": "2026-04-28T16:15:50.503209"
+}

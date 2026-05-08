@@ -1,0 +1,109 @@
+{
+  "u_key": "393e01e188819c74",
+  "original_osm_name": "Nhà Hàng Bia Mộc Lâm 2",
+  "google_raw": {
+    "formatted_phone_number": "0867 480 084",
+    "geometry": {
+      "location": {
+        "lat": 20.8720584,
+        "lng": 105.8402768
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.8734140302915,
+          "lng": 105.8416232302915
+        },
+        "southwest": {
+          "lat": 20.87071606970849,
+          "lng": 105.8389252697085
+        }
+      }
+    },
+    "name": "Vườn Bia Lâm Mộc Quán",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Phu Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111198318563571243993/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAWhc9hPyli4RieZxQMsjTLWwJPtmeuP_1iLy4u1RCTp2BCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Đồ ăn ngon bia uống bét tên là nhà mà không đau đầu không khí vui nhộn view đẹp cảm thấy thật thư giãn sau một ngày làm việc khi được thưởng thức những ly bia ở đó cùng với đồ ăn ngon",
+        "time": 1745818271,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Hai Tòng",
+        "author_url": "https://www.google.com/maps/contrib/116632261243088146071/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEBZiqoq0x61MhDiD7_oGCayXp9GBUpOxensKSNIiZ3kxnqZZO=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Không gian quán thoáng, mát, sạch sẽ\nĐồ ăn ngon\nBia uống tuyệt vời\nCó cả ship đồ ăn, bia về tận nhà",
+        "time": 1745892102,
+        "translated": false
+      },
+      {
+        "author_name": "duy khánh",
+        "author_url": "https://www.google.com/maps/contrib/110659666461388839873/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKX196U73KHwe-HSNzm4Xw8rD6UOSNbPDTpJ9a1HMy6Y2LfAw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán mới mở thấy ngon ạ",
+        "time": 1745577571,
+        "translated": false
+      },
+      {
+        "author_name": "Ngô Duy Khánh",
+        "author_url": "https://www.google.com/maps/contrib/103444657953437556449/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBr2WTkqjrfGZMB7fzbTwOvNLTlZtLjE8RhhUVFsMw2TmrNVZR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ăn ngon mọi người à",
+        "time": 1745577258,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Triệu",
+        "author_url": "https://www.google.com/maps/contrib/113880862816000070435/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaFMSRFgeeH5fONYW3MtJL3S6U4OCIlLy7XiIsvjMkciDJt9s=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "12 tháng trước",
+        "text": "Ô cê luôn, 9 Sao",
+        "time": 1745895880,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 9
+  },
+  "harvested_at": "2026-04-27T19:58:07.999857"
+}

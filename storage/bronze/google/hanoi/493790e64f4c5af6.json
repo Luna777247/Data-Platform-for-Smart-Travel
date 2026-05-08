@@ -1,0 +1,88 @@
+{
+  "u_key": "493790e64f4c5af6",
+  "original_osm_name": "Purple Cherry",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0344014,
+        "lng": 105.8468321
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0357638802915,
+          "lng": 105.8481842302915
+        },
+        "southwest": {
+          "lat": 21.0330659197085,
+          "lng": 105.8454862697085
+        }
+      }
+    },
+    "name": "Purple Cherry",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Quang Vinh",
+        "author_url": "https://www.google.com/maps/contrib/109417002517351361302/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7Adj4eZDMY-6-CQ--kBPj9ysfNDbk6Q49_xnvM_SF4rjYCPec=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Phải tới đây 1 lần mới đc",
+        "time": 1499952586,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Nguyễn Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/112232372130602392355/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhQMxgaYp2ACpdNhZ_kA-7YbHgFzlyOkx9_hWRS-dO4ffNJw4Y=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Ngon ơi là ngon ^^!",
+        "time": 1497428502,
+        "translated": false
+      },
+      {
+        "author_name": "ty du",
+        "author_url": "https://www.google.com/maps/contrib/117235430082735065230/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG3bs04I3MREdGzLuB0yGx9l-2LHVOd7nPagMpm_k0ZMQM6PBy=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "view ổn",
+        "time": 1489337847,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Duy Nam",
+        "author_url": "https://www.google.com/maps/contrib/102592526326873575874/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOqaX2Ct28qNP2gGa36M0plLJCjkoobiB-l5pQfnN4iZuPf21mbQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "ăn tối được",
+        "time": 1486790860,
+        "translated": false
+      },
+      {
+        "author_name": "Bắc Ninh",
+        "author_url": "https://www.google.com/maps/contrib/104986143203220502573/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXH7VY-mPV0bZm8B1GzmARLI75XZfIHY12MSZJD954ka-ax6Bs=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "View đẹp",
+        "time": 1465349252,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 33
+  },
+  "harvested_at": "2026-04-28T16:15:42.324087"
+}

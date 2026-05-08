@@ -1,0 +1,51 @@
+{
+  "u_key": "0e7535029c3ee8fd",
+  "original_osm_name": "Cà Phê Kiều",
+  "google_raw": {
+    "formatted_phone_number": "024 3822 9064",
+    "geometry": {
+      "location": {
+        "lat": 21.0202538,
+        "lng": 105.8425198
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0216284802915,
+          "lng": 105.8438787802915
+        },
+        "southwest": {
+          "lat": 21.0189305197085,
+          "lng": 105.8411808197085
+        }
+      }
+    },
+    "name": "Cà Phê Kiều",
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Trần Mạnh Hà",
+        "author_url": "https://www.google.com/maps/contrib/106696429929935012226/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVny1aMMWFaR8GQ6HDUh26F4E-l6ZR_lOCk0K8YbNuxLd9kGMoiFg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "3 năm trước",
+        "text": "Bình thường",
+        "time": 1658326988,
+        "translated": false
+      },
+      {
+        "author_name": "Loc Thanh",
+        "author_url": "https://www.google.com/maps/contrib/116405154747200140231/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVitloVCgC_hqsewoNALOP1omXwsmIBD3Br3JTercGczvh4ygk=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1731427715,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-27T19:58:05.778899"
+}

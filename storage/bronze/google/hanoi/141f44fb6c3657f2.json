@@ -1,0 +1,89 @@
+{
+  "u_key": "141f44fb6c3657f2",
+  "original_osm_name": "Khách Sạn Golden Time 2",
+  "google_raw": {
+    "formatted_phone_number": "024 3825 9654",
+    "geometry": {
+      "location": {
+        "lat": 21.0311567,
+        "lng": 105.8545575
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0325219302915,
+          "lng": 105.8559620302915
+        },
+        "southwest": {
+          "lat": 21.0298239697085,
+          "lng": 105.8532640697085
+        }
+      }
+    },
+    "name": "Golden Time Hostel 2",
+    "rating": 3.6,
+    "reviews": [
+      {
+        "author_name": "vượng nguyễn phạm viết",
+        "author_url": "https://www.google.com/maps/contrib/112612758357514782740/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIT75yCeJpyBFxqocxPhCOGmjX6NYkA_I75O0OCUkLdMTbMTQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Khách sạn đã đổi sang tên Kim Ly. Phòng sạch sẽ, còn mới, nhân viên tận tình.\nĐiểm trừ là khăn tắm bị mục sờn",
+        "time": 1556886435,
+        "translated": false
+      },
+      {
+        "author_name": "Jonah Đinh Văn",
+        "author_url": "https://www.google.com/maps/contrib/112809064580077486851/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUdEhnVLOK4j6q0d02zypzR1jnxx-vjDKyls6bUMj3SFEnNuA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "“Vị trí trung tâm, tiện đi bộ quanh hồ vào buổi sáng nhưng rất tiếc ks không mở cửa sớm.",
+        "time": 1540310957,
+        "translated": false
+      },
+      {
+        "author_name": "Lam Tran Hoang",
+        "author_url": "https://www.google.com/maps/contrib/104231303683874952067/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJz1lMI4-8PXQQjEtp2i285sUlbV-zKpm3TUxZBmA5ZfFpxhQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "nhân viên vui vẻ. phòng ốc sạch sẻ. wifi mạnh mẽ. bồn tắm mát mẻ",
+        "time": 1494918377,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Đinh Văn",
+        "author_url": "https://www.google.com/maps/contrib/114211685372382529306/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLb34hGyMiJ99RZmD6vEF3KAqrONyIhzkpvmj2TdWqGvJXk_w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Vị trí trung tâm, tiện đi bộ quanh hồ vào buổi sáng nhưng rất tiếc ks không mở cửa sớm",
+        "time": 1541055080,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Trần Quang",
+        "author_url": "https://www.google.com/maps/contrib/102979939625524445610/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCkaUEEnt5YOpGxGO-2elXpXlXMzn816C0Rd5r3tqp0_Tmc8L3=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "3 năm trước",
+        "text": "Hơi chật hẹp nhưng giá rẻ",
+        "time": 1663673563,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 30
+  },
+  "harvested_at": "2026-04-26T12:44:54.853660"
+}

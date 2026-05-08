@@ -1,0 +1,173 @@
+{
+  "u_key": "5634199f3c5a103f",
+  "original_osm_name": "Quán bún Liễu",
+  "google_raw": {
+    "formatted_phone_number": "0703 889 158",
+    "geometry": {
+      "location": {
+        "lat": 16.0532475,
+        "lng": 108.2464351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0546121802915,
+          "lng": 108.2478377302915
+        },
+        "southwest": {
+          "lat": 16.0519142197085,
+          "lng": 108.2451397697085
+        }
+      }
+    },
+    "name": "Bún Ốc Liễu Châu - Bún Quế Lâm (螺蛳粉 - 桂林米粉)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–02:00",
+        "Thứ Ba: 06:00–02:00",
+        "Thứ Tư: 06:00–02:00",
+        "Thứ Năm: 06:00–02:00",
+        "Thứ Sáu: 06:00–02:00",
+        "Thứ Bảy: 06:00–02:00",
+        "Chủ Nhật: 06:00–02:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Ms. Chanh",
+        "author_url": "https://www.google.com/maps/contrib/103841301523570365879/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRT66q4wGWkR5I0AOt3egy0itaCHE2kS7LOnVKN4025YhrTtc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mình tìm quán 2 lần, đến lần đầu thì quán đóng cửa, lần thứ 2 mới được ăn. Mình gọi 1 bún và 1 hoành thánh chiên. Bún Quế Lâm, sợi bún to, dai, bát toping đầy ú ụ 1 người ăn 1 bát này no đến tận khuya luôn ạ. Anh nhân viên rất nhiệt tình, hướng dẫn mình thêm nước dùng vào tô bún, bên quán còn rất tinh tế cho nước dùng bát mình ít cay vì sợ mình không ăn được cay 😗🫶 . Hoành thánh chiên giòn, chấm ngập dấm ăn mới đã.",
+        "time": 1772588196,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Nhi Bành",
+        "author_url": "https://www.google.com/maps/contrib/107136210602167459391/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl4ajxZZMY3_H-_wiQ_XTzEtXEOhhamobtjlGyDLBFIxcGBE5qNA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Lần đầu trải nghiệm bún ốc Trung Quốc, bún dai ngon, nguyên liệu tươi ngon nhìn tô mì rất hấp dẫn, đánh giá khách quan của mình về quán ạ, lần sau sẽ ghé lại 🫶🏻",
+        "time": 1763529411,
+        "translated": false
+      },
+      {
+        "author_name": "Uyển Nhi",
+        "author_url": "https://www.google.com/maps/contrib/106066733300589659143/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIKtKM1E9Y29XQLCVELATVva18cIqvUQAJE22hYWUxuBWb_A1F=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ngon dữ trời ơi, siêu đề cử mọi người đến thử, nước dùng chuẩn vị lắm luôn. Phần của mình là bún ốc liễu châu thịt bò.\n\n超级好吃😋",
+        "time": 1763552414,
+        "translated": false
+      },
+      {
+        "author_name": "潘Anna",
+        "author_url": "https://www.google.com/maps/contrib/104635591550473762263/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRjHE6pBkHtZs6TcC6ovPsEy20AvdrAmdvv-tqkOj6Z6Rze2_F=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đội ngũ phục vụ vui vẻ , dễ thương\nMón ăn ngon, đặc biệt là bún Quế Lâm nha",
+        "time": 1763461002,
+        "translated": false
+      },
+      {
+        "author_name": "Lương Thị Việt Anh",
+        "author_url": "https://www.google.com/maps/contrib/116219761387902733780/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXKZkoKSUGvzS0adF2lPAbl8UMXOZO3zo7NaUpSR-SK7EGRy0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Lần đầu được thử bún ốc mà cái vị hợp với bản thân. Nhân viên phục vụ nhiệt tình quán trang trí đẹp",
+        "time": 1763462048,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 31
+  },
+  "harvested_at": "2026-04-29T09:40:27.335487"
+}

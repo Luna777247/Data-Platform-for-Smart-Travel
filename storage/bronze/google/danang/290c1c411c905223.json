@@ -1,0 +1,89 @@
+{
+  "u_key": "290c1c411c905223",
+  "original_osm_name": "Sala thai",
+  "google_raw": {
+    "formatted_phone_number": "0236 3888 570",
+    "geometry": {
+      "location": {
+        "lat": 16.0755675,
+        "lng": 108.2199583
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0769113302915,
+          "lng": 108.2212513802915
+        },
+        "southwest": {
+          "lat": 16.0742133697085,
+          "lng": 108.2185534197085
+        }
+      }
+    },
+    "name": "Sala Thai",
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Huy Đức Lê",
+        "author_url": "https://www.google.com/maps/contrib/114951847087041629534/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnG2RatBgrjhwjO9E8UD3IWAST07wJZYjObcd09o_Icc8tGA371Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Đồ ăn tạm nhưng nhân viên phục vụ nhiệt tình và có nhiều ưu đãi cho khách hàng",
+        "time": 1530698188,
+        "translated": false
+      },
+      {
+        "author_name": "ngân nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111197025604663077970/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyqFhDhnOR5TcMItH3TKGkvNWmMfLaLP632aEMq1LHBXRJoTmI=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Đồ ăn ngon, giá cả hợp lý",
+        "time": 1533262592,
+        "translated": false
+      },
+      {
+        "author_name": "Binh Kim",
+        "author_url": "https://www.google.com/maps/contrib/102199426964598863959/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6tISvVzg6uFkd9-7G6r1NpSsGaGE1THbUrxV_Md5XZxFUlA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Món ăn Thái tuyệt vời",
+        "time": 1525753399,
+        "translated": false
+      },
+      {
+        "author_name": "Vuong haisu",
+        "author_url": "https://www.google.com/maps/contrib/110051210009047212810/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBBFPbun6bjjlisAzPPKQtbJvyqtx2v8y6CSu4eJ8UWANQeFA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "ngon",
+        "time": 1531921886,
+        "translated": false
+      },
+      {
+        "author_name": "Анна П",
+        "author_url": "https://www.google.com/maps/contrib/115795794223809660302/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIWj8019Idyo0hv1h3W1chCFC4Ir5Og1KvjZzA_BJOh-0La=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán khá ổn, giá cả hợp lý. NHƯNG: Tôi yêu cầu món tom yum cay hơn một chút, nhưng tôi không ăn nổi. Chồng tôi gọi cà ri xanh, món đó hoàn toàn khác và không ngon. Nước chanh pha soda thì ngon.",
+        "time": 1527008643,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 22
+  },
+  "harvested_at": "2026-04-29T09:47:37.963860"
+}

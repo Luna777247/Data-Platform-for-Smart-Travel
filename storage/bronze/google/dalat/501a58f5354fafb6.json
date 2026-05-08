@@ -1,0 +1,163 @@
+{
+  "u_key": "501a58f5354fafb6",
+  "original_osm_name": "Quan Chay Khai Tâm",
+  "google_raw": {
+    "formatted_phone_number": "0937 567 121",
+    "geometry": {
+      "location": {
+        "lat": 11.9410056,
+        "lng": 108.431441
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9423321802915,
+          "lng": 108.4327725802915
+        },
+        "southwest": {
+          "lat": 11.9396342197085,
+          "lng": 108.4300746197085
+        }
+      }
+    },
+    "name": "Cơm Chay KHAI TAM",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–14:00",
+        "Thứ Ba: 06:00–14:00",
+        "Thứ Tư: 06:00–14:00",
+        "Thứ Năm: 06:00–14:00",
+        "Thứ Sáu: 06:00–14:00",
+        "Thứ Bảy: 06:00–14:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Bùi Lâm",
+        "author_url": "https://www.google.com/maps/contrib/105471916901338073939/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj93IzegOdQnMjwM6or9dqL4P3kG8n1Nj_LQLsXzYjmA06C8bx=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Một tiệm đồ chay giá rất ok luôn\nMình gọi bún thái, vị chua ngọt đậm đà vừa phải, sợi bún hơi nhỏ và vụn hơn bình thường chút",
+        "time": 1757917180,
+        "translated": false
+      },
+      {
+        "author_name": "Thang Tran",
+        "author_url": "https://www.google.com/maps/contrib/118090692286696059695/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJK6dzC1jpPRQyWj9Rpk4MXXGV-HdJoHupZU2I_KB-yDe-wQQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán ăn nhỏ xinh, nằm trong hẻm. Các món dao động từ 35k",
+        "time": 1756551495,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Vinh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108248783747381034015/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUN68ziTB0Et1Aehim1iIWkPRzOorc4X1LzqmzfsA7KYztqNVVN=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán nằm trong hẻm nhỏ, bãi giữ xe nhỏ. Có hai lầu, bàn ghế ngồi cao. Món nêm thanh, không quá đậm đà. Lưu ý ăn sáng không có món cơm, xào. Chỉ có các món nước như hủ tiếu, mì, bún chay.",
+        "time": 1708677096,
+        "translated": false
+      },
+      {
+        "author_name": "Mr Hiếu",
+        "author_url": "https://www.google.com/maps/contrib/117455197029797928088/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9FrEBLkgmdLUdTLWi8CgEUBf7xcuUXhcKY-KT-p3rBS47sm4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Món Bún Huế, Bún Thái ngon, không quá cay, vị vừa phải, không bị mặn so với mặt bằng chung.\n\nNói chung đi rất nhiều quán Đà Lạt thì vẫn ưng nhất là hương vị nơi này, lại bình dân nữa\n❤️❤️❤️\n\nMón mình chia sẻ mình đặt tên là món chay \"Cứu Rỗi\"🥰\n\nBạn đang cần an ủi cứ thử mà xem.\n\nNam Mô A Di Đà Phật🙏🙏🙏",
+        "time": 1732773161,
+        "translated": false
+      },
+      {
+        "author_name": "Tony Art",
+        "author_url": "https://www.google.com/maps/contrib/111547852453782833799/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgL1kO5tWNM3BYXMwOmTa8PFSsrNpSiM2xTfe2qZLQAK4EO0zV=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Phần cơm thập cẩm và chè bổ lượng của mình 75k\nMình thấy mặt bằng chung khá đắt so với các quán chay xung quanh\nĐiểm cộng tại đây các hộp và túi tự hủy rất vệ sinh và bảo vệ môi trường",
+        "time": 1667823807,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 82
+  },
+  "harvested_at": "2026-04-29T21:26:04.335648"
+}

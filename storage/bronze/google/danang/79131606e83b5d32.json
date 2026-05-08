@@ -1,0 +1,71 @@
+{
+  "u_key": "79131606e83b5d32",
+  "original_osm_name": "TASY STUDIO",
+  "google_raw": {
+    "formatted_phone_number": "0773 512 612",
+    "geometry": {
+      "location": {
+        "lat": 15.9256921,
+        "lng": 108.2938995
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9270162802915,
+          "lng": 108.2952110802915
+        },
+        "southwest": {
+          "lat": 15.9243183197085,
+          "lng": 108.2925131197085
+        }
+      }
+    },
+    "name": "Tasy Studio",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Thanh Thiên Trần",
+        "author_url": "https://www.google.com/maps/contrib/117326753222073121012/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO3ZyZidFmJBjA-j9kUEB5e2FFWeYctD1-wdwkrRihMmBiZMdMgQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Vẽ đẹp giá tốt.",
+        "time": 1624842820,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Thịnh",
+        "author_url": "https://www.google.com/maps/contrib/102206885357039110493/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzM1F36WFpqOWIvMXFTlfT2cv3KTped1ZjTHFHqzToQnyDHckU=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "",
+        "time": 1769413418,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-28T16:38:45.863769"
+}

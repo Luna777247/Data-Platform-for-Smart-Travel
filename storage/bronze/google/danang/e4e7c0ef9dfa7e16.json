@@ -1,0 +1,173 @@
+{
+  "u_key": "e4e7c0ef9dfa7e16",
+  "original_osm_name": "RAM Spring roll",
+  "google_raw": {
+    "formatted_phone_number": "0905 233 422",
+    "geometry": {
+      "location": {
+        "lat": 15.8959505,
+        "lng": 108.3638858
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8973340302915,
+          "lng": 108.3652020302915
+        },
+        "southwest": {
+          "lat": 15.8946360697085,
+          "lng": 108.3625040697085
+        }
+      }
+    },
+    "name": "RAM SPRING ROLL RESTAURANT",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Phan “3na2” Galvin",
+        "author_url": "https://www.google.com/maps/contrib/104512165816640442708/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZkUzBjgV6909rqPkohR6TPLpf4dJwKGILADuZ4dpwnnrHLmDd=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Mình ghé vào một ngày trong tuần buổi tối, thấy quán vắng ngắt, mấy bà cô ngồi tám chuyện bên ngoài, cũng sợ không ngon nhưng liều vào ăn thử.    Ngạc nhiên là Đồ ăn bà cô nấu rất hợp khẩu vị và ngon. Khúc cửa Đại này buổi tối vắng lặng nên quán này là một lựa chọn tốt cho buổi tối trước khi vào phố cổ",
+        "time": 1749342549,
+        "translated": false
+      },
+      {
+        "author_name": "Tú Cẩm",
+        "author_url": "https://www.google.com/maps/contrib/113064500623717001486/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXwUHSKWTRMBNYpb_QdkZTp_K-Bk3PcS-rrK54FR7Txhy2BmzU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Rất thích đồ ăn ở đây, ngon và hải sản đều tươi, phục vụ tốt, view cũng đẹp nữaa, nói chung tất cả đều ổn và chắc chắn sẽ quay lại nếu có cơ hội",
+        "time": 1763870881,
+        "translated": false
+      },
+      {
+        "author_name": "dohyun han",
+        "author_url": "https://www.google.com/maps/contrib/103925248441859534680/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKg6rVZfAjMslmEeeXlf4Uddkmw6WfNjt1La1YkZS6hUdj_tA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "한국인들한테 호불호 없을 맛 사장님 남자분 여자분 두분다 전부다 친절하시고 의사소통도 잘됩니다 로컬음식점을 가고싶다면 강추!!👍🏻👍🏻\n\nCảm ơn vì đã đối xử tốt với tôi Giám đốc ơi, nếu lại đến nữa thì tôi sẽ ghé lại Cám ơn các bạn đã tạo nên nhiều kỉ niệm đẹp cho nhóm 😘",
+        "time": 1671796529,
+        "translated": false
+      },
+      {
+        "author_name": "thanh nguyen",
+        "author_url": "https://www.google.com/maps/contrib/102143191028705310413/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4ryurUjcV-7SyEyPyyMYmYw8LINUDk_aIGM1MbyozzvyfXpsnXw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Mình người bắc nhưng phải nói món ăn rất hợp khẩu vị và rất ngon. Tuy nhiên gọi món phải chờ tương đối lâu vì đồ ăn tươi ngon, gọi món mới bắt đầu chế biến. Chủ nhà thân thiện, nếu có lần sau sẽ ghé ủng hộ. Món ngon ăn k còn j",
+        "time": 1720357472,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Huyền",
+        "author_url": "https://www.google.com/maps/contrib/102020939355010807139/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWq2tsT67pUBfNus8s71MAlEMZzChX10KFdPN3DgSn1TXJlhark=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Mua mang về, thời gian chuẩn bị hơi lâu. Chắc do k phải mùa du lịch. Rau muống bị già và héo, còn lại những món khác khá ngon",
+        "time": 1666074587,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 557
+  },
+  "harvested_at": "2026-04-28T16:44:05.481760"
+}

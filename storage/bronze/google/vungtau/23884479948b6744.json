@@ -1,0 +1,89 @@
+{
+  "u_key": "23884479948b6744",
+  "original_osm_name": "33 hotel",
+  "google_raw": {
+    "formatted_phone_number": "0254 3854 616",
+    "geometry": {
+      "location": {
+        "lat": 10.3379143,
+        "lng": 107.0892362
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3393138802915,
+          "lng": 107.0906161802915
+        },
+        "southwest": {
+          "lat": 10.3366159197085,
+          "lng": 107.0879182197085
+        }
+      }
+    },
+    "name": "Khách sạn 33",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "author_name": "Anh Thái",
+        "author_url": "https://www.google.com/maps/contrib/112033873965964168716/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ309Ypzuk9K7cy7fs6Q7zmhReVzcTG0Ly98RgRHzhlxT_i8Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "5 năm trước",
+        "text": "Chủ khách sạn lươn lẹo. Đặt phòng app trước cả tuần đến nơi báo hết phòng. Đi ưu tiên nhường cho khách đến sau trả tiền nhiều hơn app. Quá thất vọng và không bao giờ quay lại.",
+        "time": 1615017249,
+        "translated": false
+      },
+      {
+        "author_name": "Trường Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111822492174179556967/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbe8GLF1FnkqnM-MHRpzoe-XuwyC6YbxknLrPTKLBJ7h84GwJ3zg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "7 năm trước",
+        "text": "Đặt phòng 230k đến khi nhận phòng thì lên 800k lấy lý do ngày lễ và nói là không gọi điện được trong khi đó điện thoại mở 24/24 nhưng không nhận được 1 cuộc gọi mọi người nên cảnh giác",
+        "time": 1555215875,
+        "translated": false
+      },
+      {
+        "author_name": "LE HUNG (lehung911)",
+        "author_url": "https://www.google.com/maps/contrib/101631849920620743768/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKfCo5lyk8EgrGitKlSFD9ZxUPmplFsrgZknz7ISofgpH9yCA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Địa điểm ngay trung tâm du lịch, gần nơi mua sắm, ăn uống. Khách sạn hơi cũ, trang bị bình dân, không có thang máy. Khu trung tâm nên hơi ồn.",
+        "time": 1581682065,
+        "translated": false
+      },
+      {
+        "author_name": "Trí Vũ",
+        "author_url": "https://www.google.com/maps/contrib/106988778284303932536/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlcVNgctG2UvTrkia9T3OWktlDJhlhylztDzwFEfOsvVikmIk=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Ae chị vui vẻ nhiệt tình. Hơi vắng khách. Phòng hơi cũ còn lại ok nhé",
+        "time": 1706981411,
+        "translated": false
+      },
+      {
+        "author_name": "Do Thao",
+        "author_url": "https://www.google.com/maps/contrib/106361703581038838086/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNVZQ8tjDjiIlQBowsnGPW0U32JTHVPWKnmbNsNwuva-B2aUaLAg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "Phòng thoáng mát, có cửa sổ, Gần kề chợ hải sản nên có thể mua về phòng",
+        "time": 1492505326,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 40
+  },
+  "harvested_at": "2026-05-03T19:42:47.554195"
+}

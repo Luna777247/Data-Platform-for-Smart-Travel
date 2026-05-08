@@ -1,0 +1,173 @@
+{
+  "u_key": "71d3eaba100ee806",
+  "original_osm_name": "Paradise golf resort",
+  "google_raw": {
+    "formatted_phone_number": "0254 3853 428",
+    "geometry": {
+      "location": {
+        "lat": 10.3566089,
+        "lng": 107.1033526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.3579534802915,
+          "lng": 107.1046975302915
+        },
+        "southwest": {
+          "lat": 10.3552555197085,
+          "lng": 107.1019995697085
+        }
+      }
+    },
+    "name": "Sân Golf Paradise Vũng Tàu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:30–20:00",
+        "Thứ Ba: 05:30–20:00",
+        "Thứ Tư: 05:30–20:00",
+        "Thứ Năm: 05:30–20:00",
+        "Thứ Sáu: 05:30–20:00",
+        "Thứ Bảy: 05:30–20:00",
+        "Chủ Nhật: 05:30–20:00"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Duy Linh Ta",
+        "author_url": "https://www.google.com/maps/contrib/106601274686875102357/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLX6Th-qzbzMsqQctcTZxxrNBiQdw9tcHOIPUZtzH_oyHl_XSQr=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Sân ở vị trí rất thuận tiện lại đẹp nữa, thật tuyệt vời khi có những trân golf kinh điển tại đây. mặt cỏ green khá nhỏ, cao như mặt trống, gió cũng là một thử thách thú vị.",
+        "time": 1769996774,
+        "translated": false
+      },
+      {
+        "author_name": "DK CHÉP",
+        "author_url": "https://www.google.com/maps/contrib/104860342375617698006/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrXUKFQOEisgy6XOBWtRTshQO4RipUbjb--Hd7Dn1ef1clDc0Y=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Sân giá rẻ nên ko đòi hỏi nhiều.\nDịch vụ ko đa dạng lắm nhưng cũng được. Caddie hơi lớn và cách vận hành vẫn còn thủ công.\nMặt sân ko đẹp do ko được nâng cấp thường xuyên.\nNói chung ưu điểm là giá rẻ, tạm ổn trong tầm giá",
+        "time": 1768570715,
+        "translated": false
+      },
+      {
+        "author_name": "Thuan Harper",
+        "author_url": "https://www.google.com/maps/contrib/102073912068593206357/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNWR4vQucLIgdfiKYtVD3noCnwEwy06Pmjn-TT6xFRCozc8MY=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đã đến đây chơi golf và thật sự thấy hài lòng. Không gian rộng rãi, xanh mướt khiến ai cũng cảm thấy thoải mái. Dịch vụ ở mức ổn, nhân viên nhiệt tình nhưng đôi khi chờ hơi lâu. Tiếc là một số khu vực cần được bảo trì tốt hơn để nâng cao trải nghiệm. Nhìn chung, tôi ấn tượng.",
+        "time": 1764793849,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112624200686282780777/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB2ZL8BH0R10h4xxNVENIp8pX3-IMLPLEzFC1Qrg3x05e6h10q1w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "5 tháng trước",
+        "text": "Sân golf paradise vũng tàu thật đẹp , và lịch lãm , sân rộng và cảnh rất đẹp , thật tuyệt vời hơn khi sân Golf paradise  trang trí thêm căn tin và nhà vệ sinh , cho các a bác tài nữa , thì vá tuyệt vời còn gì bằng cãi thêm''!!! 🤩🤩",
+        "time": 1763035622,
+        "translated": false
+      },
+      {
+        "author_name": "Local Guide Hanoi, Vietnam",
+        "author_url": "https://www.google.com/maps/contrib/100922419158272686612/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5rCd-QoI8N5DAW1EyfgZfPX2hL8St7K0H0bZBTjrZMkEPn0Y=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 3,
+        "relative_time_description": "một năm trước",
+        "text": "Sân có cây xanh tuyệt vời với những hàng cây cổ thụ rợp bóng mát. Sân cũ không được thương xuyên chăm sóc nên fairway rất xấu, cỏ nham nhở từng mảng, rất nhiều cỏ gà. Club House cũ kỹ, chật chội. Tuy nhiên, Không sân nào ở Việt Nam có đặc điểm đặc thù như sân này về green đều luôn cao và tròn như mâm cơm và rất bé, cứng, cực kỳ khó câu on.",
+        "time": 1732981601,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 789
+  },
+  "harvested_at": "2026-05-03T19:43:19.148128"
+}

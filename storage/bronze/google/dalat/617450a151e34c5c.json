@@ -1,0 +1,110 @@
+{
+  "u_key": "617450a151e34c5c",
+  "original_osm_name": "Kimochi coffee",
+  "google_raw": {
+    "formatted_phone_number": "0342 824 179",
+    "geometry": {
+      "location": {
+        "lat": 11.9419828,
+        "lng": 108.4668039
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9433588802915,
+          "lng": 108.4681769802915
+        },
+        "southwest": {
+          "lat": 11.9406609197085,
+          "lng": 108.4654790197085
+        }
+      }
+    },
+    "name": "Kimochi coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Dang Minh",
+        "author_url": "https://www.google.com/maps/contrib/101830932148260062979/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeSMRUoeOZkNrE2JpxrpvWzdoBwuqFJ3rK7u7joV0N0XoUKA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán view siu siu siu đẹp luôn. Đứng trên sườn núi nhìn ra đại ngàn Đà Lạt bát ngát ta nói nó đã gì đâu. Quán còn trang trí hoa và điểm chụp hình check in làm cảnh đẹp càmg thêm lãng mạn. Món uống ổn. Có box ngủ 200k/h",
+        "time": 1770447843,
+        "translated": false
+      },
+      {
+        "author_name": "Trịnh Quốc Tiến",
+        "author_url": "https://www.google.com/maps/contrib/117391289170406596626/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWr2QHNFr-bjzG4OC1LvEx3vjcbJ4-AYuUM62q0niTvD0B9XoE0=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "1 quán núp hẻm, ít khách nên rất chill. Đúng bóc trúng sít rịt luôn. Quán rộng 3 lầu, có trà nóng free, có box ngủ 200k/h. Nước cũng khá rẻ, đồ ăn vặt như hứng dương, snack giá cũng mềm.\nNói chung views đẹp, không đông khách rất chi là ok.",
+        "time": 1767509187,
+        "translated": false
+      },
+      {
+        "author_name": "Bin Phạm",
+        "author_url": "https://www.google.com/maps/contrib/101421200677324736174/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrS8mMoHHKADdjp1OMFIbPNMEs-pS-Rk6o0EstU430OWT5QlV9sw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Sáng sớm ngồi ở quán này cực kỳ thanh bình, cảnh đẹp, chill với âm nhạc. Rất tuyệt vời.",
+        "time": 1762922316,
+        "translated": false
+      },
+      {
+        "author_name": "Phượng Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/107254106320795730304/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpFejSfxBypIG20b7SJVPqD_5Tp84c5GFHE05oYh_QCyO0sw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán mở 24/24, lên Đà Lạt giờ nào ghé cũng ok, view đẹp đồ uống giá ổn. Không gian thoáng mát. Nhân viên siêu cute.",
+        "time": 1768629517,
+        "translated": false
+      },
+      {
+        "author_name": "phuong Đinh",
+        "author_url": "https://www.google.com/maps/contrib/117860266595677815487/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6US8KnydzJcJtJrDFdDHbu04PkWA_bNXknag5k8BADwkrSTYz=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "vô tình phát hiện ra quán cà phê 24/7 xịn xò này . view triệu đô, nhân viên lịch sự , phòng ốc thoáng mát , sẽ ghé thêm",
+        "time": 1763203859,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 745
+  },
+  "harvested_at": "2026-04-30T15:09:40.755974"
+}

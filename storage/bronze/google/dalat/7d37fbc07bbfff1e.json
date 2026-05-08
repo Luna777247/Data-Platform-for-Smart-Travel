@@ -1,0 +1,108 @@
+{
+  "u_key": "7d37fbc07bbfff1e",
+  "original_osm_name": "Kính Chào Quy Khách",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 15.5544259,
+        "lng": 108.5011923
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.5557180302915,
+          "lng": 108.5026035302915
+        },
+        "southwest": {
+          "lat": 15.5530200697085,
+          "lng": 108.4999055697085
+        }
+      }
+    },
+    "name": "Kinh Chao Quy Khach",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Duy Vo",
+        "author_url": "https://www.google.com/maps/contrib/115076117084562699617/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTEmN0xjgLLoT1ao9s9hSCJXCUkqJaGyn6AgwfOcyFBqv4oeci=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán chay decor đẹp, món ngon, phục vụ nhanh tuy khách đông vào mùng 1",
+        "time": 1687073630,
+        "translated": false
+      },
+      {
+        "author_name": "Hiep Phan",
+        "author_url": "https://www.google.com/maps/contrib/105846497350220021532/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJV_liKij-U5jv4mL5JxuicjPp2Nqk5BWb9IhlegH2WKBn0zQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "Mới mua khi tối 2 cơm chiên quá thất vọng còn thua ở nhà chiên cơm chiên mà đặt keo nói chung quá dỡ cho chó ăn hết.",
+        "time": 1754858506,
+        "translated": false
+      },
+      {
+        "author_name": "Bull Street (Bull)",
+        "author_url": "https://www.google.com/maps/contrib/112461967593346418808/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYf1uedBV4-ObnVt2-ZuvBxh5ypr17XcDNh_UTp-uq3CF6D8bw5Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Món chay ngon",
+        "time": 1721478170,
+        "translated": false
+      },
+      {
+        "author_name": "Dao Vu",
+        "author_url": "https://www.google.com/maps/contrib/102692132522317610566/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVb-SLyS3kazP5WMqPlfgPQ1CCjDpd0vVLOSmVv7Xtqdc4ukReN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Món ăn ngon",
+        "time": 1668141688,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Công Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107694141572657126259/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJK5BvfmYiXRnI-b-TVdGBHDMBlsz2ZkW4AAsZouA_I3DzSg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Tốt",
+        "time": 1714376071,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 12
+  },
+  "harvested_at": "2026-05-03T20:21:38.244769"
+}

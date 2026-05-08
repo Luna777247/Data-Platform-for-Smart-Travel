@@ -1,0 +1,89 @@
+{
+  "u_key": "d951552a7d4eb9e1",
+  "original_osm_name": "Cà Phê MV",
+  "google_raw": {
+    "formatted_phone_number": "0919 051 987",
+    "geometry": {
+      "location": {
+        "lat": 21.0639799,
+        "lng": 105.7819988
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0653252302915,
+          "lng": 105.7833493802915
+        },
+        "southwest": {
+          "lat": 21.0626272697085,
+          "lng": 105.7806514197085
+        }
+      }
+    },
+    "name": "MV Coffee",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "PHONG TRUONG HOAI",
+        "author_url": "https://www.google.com/maps/contrib/108526921857063172754/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwrCM06Ka0eo1YSAF-X9UqQE6MuZclOEwzBu-c5WKx6LUbspBf=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "view quán đẹp thư giãn",
+        "time": 1487688301,
+        "translated": false
+      },
+      {
+        "author_name": "Nhã Kì",
+        "author_url": "https://www.google.com/maps/contrib/115328883593518886849/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQwbmXnAkPoMSqy_YlMxN8kVwVU9HSvgjiypXkT-wzl1B0Nkuo=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "không gian rất tuyệt",
+        "time": 1493044726,
+        "translated": false
+      },
+      {
+        "author_name": "Huy Bùi Gia",
+        "author_url": "https://www.google.com/maps/contrib/105747555012765705878/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvK7V_G8_zpJWaGKrzSp-uMuEQUMUnmfLtoxM5aIyQuXhvNA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Đồ uống ngon",
+        "time": 1522072695,
+        "translated": false
+      },
+      {
+        "author_name": "truong pham",
+        "author_url": "https://www.google.com/maps/contrib/111944450591193825199/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXP7ai-LTkCs6Rpn2C8qHmhTjjMq4V8crAVEVzZhDkTKV_R88AZ=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Tạm được",
+        "time": 1564731236,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Trần",
+        "author_url": "https://www.google.com/maps/contrib/104696576385650202703/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCr-v2VF0IZ4Jw16yfsGgqVlsUSGvdU_d8xv7-R7pKn-s52fos=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "đệp",
+        "time": 1482746474,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 10
+  },
+  "harvested_at": "2026-04-26T12:45:27.942954"
+}

@@ -1,0 +1,108 @@
+{
+  "u_key": "fbe8162f679bb44e",
+  "original_osm_name": "Cà Phê Kin",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0434865,
+        "lng": 105.823324
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0448688802915,
+          "lng": 105.8246479802915
+        },
+        "southwest": {
+          "lat": 21.0421709197085,
+          "lng": 105.8219500197085
+        }
+      }
+    },
+    "name": "KIN Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Andromeda T",
+        "author_url": "https://www.google.com/maps/contrib/106113421318888480203/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgz1TiVf3Iq9yJ3zgo5GvRE2vzd-6MtWwlkdJiqP_sXO_EW_U=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "13/2/2026\nCà phê nâu 40k uống cũng được. Quán có trà free thay vì nước lọc để uống và khá mát. Nhân viên nhận order của mình ở tầng 1 là 1 bạn rất trẻ có phần hơi vụng nhưng thái độ k có vấn đề.\n\nTầng 3 có một tủ sách nhỏ để đọc. Quán rất rộng cả trong quán ra tới ngoài ban công với không gian 3 tầng. Nằm ngay đầu veo nên có thể nhìn sang được cả quán hàng xóm Diên An Coffee. View tuy hơi nhiều cây nhưng nhìn thẳng ra hồ. Mình ngồi ở ban công tầng 3 thấy đỡ bụi và ồn hơn so với tầng 1 nhìn ra đường.",
+        "time": 1771121275,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Khuê",
+        "author_url": "https://www.google.com/maps/contrib/118207855035174108053/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDLtXrya4b5jVwWkbRoSbdU10ocU_RVkuQpjZ2RhrdmcgA7os=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình ghé quán ngày mùng 6, menu tết giá khá cao so với ly nước. 1 ly cafe muối của mình là 65k nhưng ly mang ra khá nhỏ 😔 mình ngồi ngoài nhìn ra hồ Tây thì view khá thoáng mát, ngay mặt đường Nguyễn Đình Thi, nhưng cùng đường thì mình nghĩ có thể chọn các quán có tầm nhìn tương tự.",
+        "time": 1771808882,
+        "translated": false
+      },
+      {
+        "author_name": "Mẹ Cún Hằng",
+        "author_url": "https://www.google.com/maps/contrib/112976340857322590800/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlNyep4ewFAg3WNj7F68bNyRMoRgl8LnXn9LFrm6lh9qVU8Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Nếu muốn cảm nhận mùa thu Hà Nội thì đến đây là một lựa chọn vô cùng hợp lý. Với 3 mặt thoáng, bạn sẽ được ngắm cảnh Hồ Tây lộng gió, hít thở bầu không khí mát dịu trong lành của mùa đẹp nhất trong năm. Tầng 1, 2 thường đông đúc, tầng 3 yên tĩnh hơn phù hợp với học tập hoặc làm việc. Đồ uống giá thành vừa phải, xôi cốm ăn khá ổn, tuy nhiên ở đây pha chế hơi bị ngọt quá, nên những ai khẩu vị ít ngọt cần lưu ý khi order.",
+        "time": 1759853885,
+        "translated": false
+      },
+      {
+        "author_name": "K.O HOANG",
+        "author_url": "https://www.google.com/maps/contrib/103245892289110153048/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLeN5YrEePBQWh-Uw-lEHMANq4yekhpblNvmS8B0WBCiPYI866lw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán có view 2 mặt phố, nhìn ra hồ Tây. Đồ uống Ok thôi",
+        "time": 1764089411,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Thủy Hà Thị",
+        "author_url": "https://www.google.com/maps/contrib/118363120987275426533/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl1sOYGi1L27v8pdABDq86SRsIjakoo5xSsJs_kHkkIWxexDUN=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán decor và view đẹp,\n\nTầng 1 decor đẹp hợp chụp ảnh, tầng 2 hợp tán gẫu và tầng 3 hợp làm việc,\n\nQuán nằm ở ngã ba nên có nhiều mặt cửa sổ,  ánh sáng ngoài trời ngập tràn, chiều chiều nhìn nắm chiếu vào bàn qua cửa sổ rất mê,\nview thẳng ra Hồ Tây nữa.\n\nBàn và ghế tầng 3 là dạng bàn ghế cao hợp đọc sách, học bài và đầy đủ ổ điện",
+        "time": 1765719229,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 275
+  },
+  "harvested_at": "2026-04-27T19:57:52.370692"
+}

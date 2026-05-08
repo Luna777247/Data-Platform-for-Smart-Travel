@@ -1,0 +1,49 @@
+{
+  "u_key": "f7b00b7ae107785e",
+  "original_osm_name": "Nhà Hàng Kamasutra",
+  "google_raw": {
+    "formatted_phone_number": "024 6686 1586",
+    "geometry": {
+      "location": {
+        "lat": 21.034303,
+        "lng": 105.847463
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0356733802915,
+          "lng": 105.8488151302915
+        },
+        "southwest": {
+          "lat": 21.0329754197085,
+          "lng": 105.8461171697085
+        }
+      }
+    },
+    "name": "Kamasutra - The Art Lounge",
+    "rating": 1.5,
+    "reviews": [
+      {
+        "author_name": "Thanh Tùng Nguyễn (KondouPt)",
+        "author_url": "https://www.google.com/maps/contrib/101758000043290232042/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5r2ooVMh6fwbsbo22R8kY_KsuURVJykMi98S0WiYCEbJtY1I=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "8 năm trước",
+        "text": "",
+        "time": 1506256124,
+        "translated": false
+      },
+      {
+        "author_name": "Hiệp Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103071450150899071771/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU3BFxsZu1trZhUdT1MP7E8YLtS4uUe79Bd89vndDDGpv7rKQ2=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "9 năm trước",
+        "text": "",
+        "time": 1493371172,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-29T09:27:14.494838"
+}

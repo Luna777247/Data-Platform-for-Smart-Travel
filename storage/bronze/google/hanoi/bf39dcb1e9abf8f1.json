@@ -1,0 +1,162 @@
+{
+  "u_key": "bf39dcb1e9abf8f1",
+  "original_osm_name": "Cà Phê 4 Seasons",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0096051,
+        "lng": 105.7705062
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0108782302915,
+          "lng": 105.7719165302915
+        },
+        "southwest": {
+          "lat": 21.0081802697085,
+          "lng": 105.7692185697085
+        }
+      }
+    },
+    "name": "Four Seasons Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Lan Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/101238910756395121700/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKWk-lFgX3D1U2-B5FwFTxfB2RLkfoOSJ1ncu5hNutCu7agFLO=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không gian quán dạng vườn, chòi cafe, có thể tụ tập nướng bbq các thứ, thích hợp ngày nào mát mát ngồi. Có nhiều chòi, mỗi chòi 1 cặp, mới vào tìm chỗ sẽ hơi khó.\nKhông gian rộng, sạch, decor đẹp. Đồ uống thì quán nào mô hình này đều giá cao. Mình dùng quả dừa 40k nhưng quả đó uống ngon, các món pha khác thì ko rõ.",
+        "time": 1762673262,
+        "translated": false
+      },
+      {
+        "author_name": "Freedom Peace",
+        "author_url": "https://www.google.com/maps/contrib/117691784472751575869/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc828karzCeVlViya62a6NPP3CEyqM7rx0jb6blJML-YrNiA1M=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán rất rộng, nhất là không gian ngoài trời, mình đến vào 1 ngày nắng nhẹ, hơi lạnh 1 chút xíu và ít người vì ko phải cuối tuần nên cảm giác như đi nghỉ dưỡng z, có nhiều cây thoáng đãng, có 1 khu chỗ ngồi có lát sỏi, bth một số nơi nghỉ dưỡng cao cấp sẽ có sỏi để mn đi bộ cho nó kích thích huyệt đạo lòng bàn chân. có khu khác thì nhiều ghế lười ngoài trời, có cả khu vui chơi trẻ em có mấy cái xích đu và mấy trò khác, có cả mấy cái chòi có rèm kín riêng tư\n\nKết luận: Đồ uống đa dạng, NV dịu dàng, quán siêu rộng có cả khu trong nhà và ngoài trời\n\nHình như thuê đồ 45k. Hôm trc mình đi 1 mình nên ko thuê đồ, hôm sau sẽ quay lại cùng ng yêu để thuê đồ chụp ảnh vì ko gian rất đẹp",
+        "time": 1761829900,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Quang Huy smartbusiness",
+        "author_url": "https://www.google.com/maps/contrib/109835449165519324640/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkMTXpoSeOhOOjIHNRfuye3rUCm-sN--4zuRlRwvYlW3GKg8bGPA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Wow, ko nghĩ là Hà Nội lại có quán cafe to rộng thế này. Thường HN chỉ toàn quán nhỏ, hẹp ngồi chen chúc, chật chội. Ở đây không gian quá rộng và nhiều cây cảnh đẹp. Có bạn bè ở xa đến chơi nhất định rủ qua đây ngồi",
+        "time": 1759461311,
+        "translated": false
+      },
+      {
+        "author_name": "Shi Xiong",
+        "author_url": "https://www.google.com/maps/contrib/102749788127460219545/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP6_FWqCCRrTUAFVzmGY5MmetxNWimkgLQp2dPjz9vaQMqhEE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán có bầu không khí khá chill nhưng đổi lại thì đồ uống dở tệ. Ra đây chill chill chụp ảnh thì ổn. Điểm trừ lớn nhất là đồ uống làm trải nghiệm tệ đi hẳn 1 bậc. Mua mà không uống nổi luôn. Còn về không gian thì tuyệt nhé",
+        "time": 1762873947,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Hoang Phuong",
+        "author_url": "https://www.google.com/maps/contrib/117716732938139105534/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVB_95W8lp_ziZoy3Y3ht91pxxfbZe2_ZvTn0j-s2AAW0LbORkGGw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 2,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không gian ngoài trời để chill và ăn uống bbq thì có lẽ là ổn\nNhưng phòng điều hoà để làm việc thì quá tệ. K nên đến. Mục tiêu của mình là đến để làm với cảnh chill chill nhưng ngồi phòng vừa hôi vừa chật vừa cũ, đồ vật ngổn ngang (xem video). k chịu dc nên đã đổi quán.\nĐánh giá tạm thế :)) lỡ sau này đi bbq có trải nghiệm tốt hơn thì sửa sau",
+        "time": 1760584230,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 765
+  },
+  "harvested_at": "2026-04-27T19:58:15.688321"
+}

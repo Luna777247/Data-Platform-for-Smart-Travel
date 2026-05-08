@@ -1,0 +1,244 @@
+{
+  "u_key": "29cf13a77862f88e",
+  "original_osm_name": "Nhà Hàng An Lạc Chay",
+  "google_raw": {
+    "formatted_phone_number": "0978 973 675",
+    "geometry": {
+      "location": {
+        "lat": 21.0235187,
+        "lng": 105.8420107
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0251249802915,
+          "lng": 105.8433891302915
+        },
+        "southwest": {
+          "lat": 21.0224270197085,
+          "lng": 105.8406911697085
+        }
+      }
+    },
+    "name": "Chay An Lạc",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–14:00, 17:00–21:00",
+        "Thứ Ba: 10:00–14:00, 17:00–21:00",
+        "Thứ Tư: 10:00–14:00, 17:00–21:30",
+        "Thứ Năm: 10:00–14:00, 17:00–21:00",
+        "Thứ Sáu: 10:00–14:00, 17:00–21:00",
+        "Thứ Bảy: 10:00–14:00, 17:00–21:00",
+        "Chủ Nhật: 10:00–14:00, 17:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Cuong Le",
+        "author_url": "https://www.google.com/maps/contrib/109746347424702392937/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB6M5tdbF5i4oxA2y1PClR7LUV85PNk7aYnkpwLzRQCh0GYuZI=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Vị trí hơi khuất do vướng công trình ngoài mặt đường Trần Hưng Đạo tuy nhiên với mức giá 100k/người thì đồ ăn ở đây ở mức ổn. Các món đa phần từ củ quả, khoai, đậu và nấm. Có một vài món khá ngon như súp kem nấm, chuối đậu và đậu sốt cà chua. Dồi chay và nem cuốn chay ăn cũng ổn.\n\nTuy nhiên nem cuốn chay mà cuốn thêm nhiều đậu một chút nữa nó sẽ ngon và trông đầy đặn hơn và nên có thêm cơm gạo lứt nữa thì tuyệt vời",
+        "time": 1769995883,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Hằng",
+        "author_url": "https://www.google.com/maps/contrib/104358139494525386015/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvm3lX0yEQe4OxfeCXdpv5yYEKUyhxa7tM0Ljo99pttlUtQDawRA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Lần thứ hai mình cùng các bạn đến với Nhà hàng buffet chay An Lạc, không gian nhỏ ấm cúng, đồ ăn được bày trang trí trên chiếc thuyền rồng, đẹp bắt mắt.\nKhông gian khá yên tĩnh dù có lúc khách hàng khá đông.\nLần này đến đây thấy có nhiều khách hàng nhí ghê nè. Có lẽ các ông bố bà mẹ cũng muốn con cái được tiếp cận với những món ăn nhẹ nhàng thuần thực vật.\nNhân viên ở đây thân thiện, nhẹ nhàng và mến khách.\nĐồ ăn khá phù hợp với khẩu vị của mình.\nChúc nhà hàng ngày càng có nhiều món ăn mới hấp dẫn nhé.",
+        "time": 1764429623,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Hang",
+        "author_url": "https://www.google.com/maps/contrib/102578492498361493362/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfViNRcXW5mDwTXx1kDT_jLygFmsmiCdbgsJU5p3kk1X4Ww0k=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình ưng buffet chay ở An Lạc nhất vì danh sách món đa dạng, đồ ăn nêm nếm vừa vặn, hầu như món nào ở đây cũng ngon (theo khẩu vị của mình). Các món mình thích nhất là: nấm đùi gà hấp xả lá chanh, phở, bún riêu, chè chuối... Menu qua các ngày mình không thấy có sự khác biệt lắm, đa số vẫn là các món đó ở những vị trí đó :v\n\nNgày thường quán sẽ vắng hơn và không quá ồn, nhưng vẫn khá đông, còn ngày rằm và mùng 1 thì đông lắm, và siêu ồn ạ.\n\nQuán phục vụ tốt, fill đồ và dọn đồ nhanh, thỉnh thoảng bát đĩa mình chưa ăn xong muốn dùng tiếp nhưng quay lại các bạn đã dọn đi mất rùi :v",
+        "time": 1761937076,
+        "translated": false
+      },
+      {
+        "author_name": "Dương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110750911838181973550/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOuE9mVMbYOAh66HDoh0n4RhC58AqFlCL_dKJD7_l17AiXObRo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán buffet chay gần khu phố cổ.\nCác món chay đa dạng,  cách nấu và nêm nếm gia vị rất ngon.\nKhách đông từ gia đình, cả người cao tuổi và trẻ.\nGiá chỉ 99k/người thì chấm 10 điểm cho chất lượng luôn.\nXứng đáng làm quán chay có thể ghé thăm thường xuyên cho những hôm đổi vị hay là bữa ăn hàng ngày cho người thuần chay.",
+        "time": 1768456486,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Quỳnh Trang",
+        "author_url": "https://www.google.com/maps/contrib/107742511433413748316/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRuZ_XamH9pb73JVM1T1WxRgiIyKY8NnoK64MYhc0uJz67X4nI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon, rẻ, chất lượng, nhiều món. Mình đi nhiều quán buffet chay rồi nhưng thấy bên này ổn nhất vì giá rẻ và nhiều món, refill đồ cũng nhanh và liên tục. Nhưng để xe bất tiện vì phải để bên ngoài, đi xe máy thì k sao nhưng đi oto sẽ k bt phải để xe ở đâu",
+        "time": 1773075625,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1290
+  },
+  "harvested_at": "2026-04-28T16:32:30.846134"
+}

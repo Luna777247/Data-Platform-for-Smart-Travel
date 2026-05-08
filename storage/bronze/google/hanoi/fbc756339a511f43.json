@@ -1,0 +1,173 @@
+{
+  "u_key": "fbc756339a511f43",
+  "original_osm_name": "Song Thu",
+  "google_raw": {
+    "formatted_phone_number": "024 3939 2710",
+    "geometry": {
+      "location": {
+        "lat": 21.0251119,
+        "lng": 105.8550155
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0263836802915,
+          "lng": 105.8563240802915
+        },
+        "southwest": {
+          "lat": 21.0236857197085,
+          "lng": 105.8536261197085
+        }
+      }
+    },
+    "name": "Song Thu Art Gallery - Tranh sơn mài, sơn dầu Hà Nội - Lacquer painting",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:30–20:30",
+        "Thứ Ba: 08:30–20:30",
+        "Thứ Tư: 08:30–20:30",
+        "Thứ Năm: 08:30–20:30",
+        "Thứ Sáu: 08:30–20:30",
+        "Thứ Bảy: 08:30–20:30",
+        "Chủ Nhật: 08:30–20:30"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Thư",
+        "author_url": "https://www.google.com/maps/contrib/105082318895295472548/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVcj6fOzkcJFrw_mG2_mLg-TKI4keYM20z42GDjy5Hy3AqGjQA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "tranh đẹp, nhân viên chu đáo, highly recommend nhá",
+        "time": 1768027044,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Thư Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/118279234114745743445/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHvX78llg-IpvjXS23_bbrbL25EpVZXG0DYjcU_-PM-uv7Elk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "tranh đẹp, rất ấn tượng với các tác phẩm ở đây, nhân viên thân thiện và cho tôi các thông tin hữu ích",
+        "time": 1738435884,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Son",
+        "author_url": "https://www.google.com/maps/contrib/117878295953814840428/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW--Ujk24RFY-KttZYMLJgq7aYaGzPD3EF8dYSDLADkNxrwEEuk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Nhiều tranh họa sĩ đẹp",
+        "time": 1610550447,
+        "translated": false
+      },
+      {
+        "author_name": "thu song",
+        "author_url": "https://www.google.com/maps/contrib/104808694857663411024/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoj-yRZJW4V8pECNqo-YKDBDJKGKIQbgx8-jf1yLJQr5RYO2xjHg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Tranh đẹp và rõ nguồn gốc,giá cả hợp lí",
+        "time": 1659434912,
+        "translated": false
+      },
+      {
+        "author_name": "Hán Duy Hào",
+        "author_url": "https://www.google.com/maps/contrib/108848842981897962249/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5-S7oebI5z2zqzJXgKLOe-cn8c_XWRXZAQOPtJolpvJO3PQiL=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Nhiều tranh",
+        "time": 1702355975,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 18
+  },
+  "harvested_at": "2026-04-28T16:27:47.929836"
+}

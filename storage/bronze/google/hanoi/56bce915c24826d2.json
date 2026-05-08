@@ -1,0 +1,174 @@
+{
+  "u_key": "56bce915c24826d2",
+  "original_osm_name": "Loving Hut",
+  "google_raw": {
+    "formatted_phone_number": "0855 083 948",
+    "geometry": {
+      "location": {
+        "lat": 21.042261,
+        "lng": 105.8380918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0436106802915,
+          "lng": 105.8394071302915
+        },
+        "southwest": {
+          "lat": 21.0409127197085,
+          "lng": 105.8367091697085
+        }
+      }
+    },
+    "name": "Cơm Chay Loving Hut Hoa Binh Vegan Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:30–20:00",
+        "Thứ Ba: 09:30–20:00",
+        "Thứ Tư: 09:30–20:00",
+        "Thứ Năm: 09:30–20:00",
+        "Thứ Sáu: 09:30–20:00",
+        "Thứ Bảy: 09:30–20:00",
+        "Chủ Nhật: 09:30–20:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Tâm Trần",
+        "author_url": "https://www.google.com/maps/contrib/110876900345471668785/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUel-JZ-cOMKSX8MiocN6NU0Cbn3206wfcj8wv9pXa4ZwPT0snV8A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Quán ấm cúng nằm trong hẻm nhỏ.\n\nMón ăn ổn, không gian gần gũi, thân thiện, chill chill.",
+        "time": 1753183175,
+        "translated": false
+      },
+      {
+        "author_name": "Lead Khanh",
+        "author_url": "https://www.google.com/maps/contrib/103665949869971316590/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3xMlPAj0-9qPqG4M01GM9gj4FSMwaURhAJUdFGm89CaneNLuE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán ngon ăn rất ok. Mình là ng Đà Nẵng tìm 1 số quán chay ở Hà Nội nhưng ăn ko ngon, giá lại khá đắt. Quán ở đây giá tiền rất ok hợp lý. Quán thêm đèn điện sáng nữa là khá ok. Nếu ai ăn chay nên tới đây thử. Rất ok.",
+        "time": 1646967439,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Thi Kieu Oanh",
+        "author_url": "https://www.google.com/maps/contrib/114400594966342019305/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWS5SbCiPUskz0zUFZ72RduwZHy4zK852gy0SvRXey9GuEzlNY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "2 năm trước",
+        "text": "Cơm chay ăn hàng ngày ngon miệng. Ngày tuần thì đông phải đi sớm hoặc gọi món trước. Ngày thường thì ko đông lắm. Gần khu Cửa Bắc VP EVN và nhiều cơ quan quanh đây nên cũng tiện.\nMình tháy bún riêu, cháo, cơm, đều ngon",
+        "time": 1694755858,
+        "translated": false
+      },
+      {
+        "author_name": "Hiển Vũ Văn",
+        "author_url": "https://www.google.com/maps/contrib/101190885400020182972/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFxRpM3g1UFPx8Qmsl3IM3eNEssmBiHC3Gyr-vdthJUF4TPg=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 2,
+        "relative_time_description": "6 năm trước",
+        "text": "Công ty mình đến đây ăn trưa, order rất nhiều món và thấy 1 món cơm 8,500, cả nhóm hỏi nhân viên order (lớn tuổi và mặc vest nên có thể là trưởng nhóm) là sao món này rẻ vậy, ảnh xác nhận và khuyên order mỗi người 1 dĩa cơm vậy vì ít lắm. Ok 8,500 ít là chuyện đương nhiên, nhóm mình gọi 5 phần, dù trước đó đã gọi rất nhiều món rồi. Xong anh nhân viên này bảo vì có cơm sen rồi nên order 4 phần thôi. Ok luôn!. Hồi đem ra 1 dĩa to đùng, cả nhóm hoảng hồn mượn menu để hỏi, thái độ thay đổi liền.. Lúc sau gọi tính tiền, anh này còn thách thức “làm gì có cơm nào 8,500 ngoài lề đường còn không có”. Thái độ thì xấc xược, dù lớn tuổi nhưng anh làm ăn lừa đảo khách như vậy thì anh làm cho QUÁN CHAY làm gì vậy anh?. Cuối cùng mình đòi gặp quản lý, thì 1 chị nào đó chạy ra xin lỗi, nhóm mình vẫn trả full tiền. Nhưng anh ta vẫn xấc xược ko thèm xin lỗi 1 câu, mặt mày hậm hực làm như nhóm mình thèm xin lại tiền.. Nói chung quán này nếu bán đồ chay thì phải trung thực. Đừng để 1 con sâu làm rầu nồi canh.. . Để tấm hình ở đây để nói có sách mách có chứng!",
+        "time": 1585912537,
+        "translated": false
+      },
+      {
+        "author_name": "CƯỜNG MAI VIỆT",
+        "author_url": "https://www.google.com/maps/contrib/115535372847651951527/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9N3ni0sMmggO6Y3pXoUl4fkZGJj7W_LTxedgqrbx7z4kjHBw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Trải nghiệm các món chay thú vị, ngon",
+        "time": 1746533379,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 280
+  },
+  "harvested_at": "2026-04-28T16:28:06.202564"
+}

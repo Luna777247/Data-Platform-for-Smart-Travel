@@ -1,0 +1,89 @@
+{
+  "u_key": "0f32f0e0cad464ff",
+  "original_osm_name": "M Bistro",
+  "google_raw": {
+    "formatted_phone_number": "0903 529 377",
+    "geometry": {
+      "location": {
+        "lat": 15.87704,
+        "lng": 108.3269532
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8784138802915,
+          "lng": 108.3283012302915
+        },
+        "southwest": {
+          "lat": 15.8757159197085,
+          "lng": 108.3256032697085
+        }
+      }
+    },
+    "name": "M Bistro",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Simple ConceptStudio",
+        "author_url": "https://www.google.com/maps/contrib/103123357124310744091/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKoHb2LgYyN6iytQTwTBeTu3VoqsBEJfdpOrseYkJNJ011axChcQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Đồ ăn cũng tạm,không gian trang trí đẹp,nhưng nhân viên ko thân thiện,mặt như đưa đám khi khách gọi món ăn",
+        "time": 1541728323,
+        "translated": false
+      },
+      {
+        "author_name": "Duyet Lan Thieu",
+        "author_url": "https://www.google.com/maps/contrib/110584628630872472517/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj8HKvJfkXbxtcIZFfJDU-g0zadmTYvO4xaw7L7OYtLNrY9w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Nhân viên nhiệt tình, đồ ăn vừa miệng.",
+        "time": 1566546859,
+        "translated": false
+      },
+      {
+        "author_name": "nha lan",
+        "author_url": "https://www.google.com/maps/contrib/102803498642729744028/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLBbRH6VqBmEFD2YRqrzwzwhw_0QvXqS9-z5ryLyiq16Fc5iQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "8 năm trước",
+        "text": "Thức uống ổn nhưng thái độ phục vụ của nhân viên từ khi vào quán không thân thiện, chỗ ngồi nắng nên cần kéo mái che lại thì bạn nhân viên nhăn nhó khó chịu",
+        "time": 1519094083,
+        "translated": false
+      },
+      {
+        "author_name": "Uyên Ngô",
+        "author_url": "https://www.google.com/maps/contrib/112373047881041529239/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIv4lKRL6EeTZE31B3Uh5RD3RIYpngdKvsVjswn-vz5ti1fAtw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Thức uống ngon, 👏🏻👏🏻",
+        "time": 1559872322,
+        "translated": false
+      },
+      {
+        "author_name": "minh thiện Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/111687870387476344218/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHuyA6sqlQhRm6wRuHorR6bKH-mHw-XIwoeoclnLuQSpSepmxj=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Tuyệt vời nhưng giá hơi cao.",
+        "time": 1556607308,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 176
+  },
+  "harvested_at": "2026-04-28T16:43:36.633985"
+}

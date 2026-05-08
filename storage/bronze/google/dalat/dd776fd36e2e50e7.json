@@ -1,0 +1,174 @@
+{
+  "u_key": "dd776fd36e2e50e7",
+  "original_osm_name": "Bùivănngọ coffee",
+  "google_raw": {
+    "formatted_phone_number": "0263 3532 122",
+    "geometry": {
+      "location": {
+        "lat": 11.9247979,
+        "lng": 108.4469176
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9262444802915,
+          "lng": 108.4482950802915
+        },
+        "southwest": {
+          "lat": 11.9235465197085,
+          "lng": 108.4455971197085
+        }
+      }
+    },
+    "name": "Bùi Văn Ngọ Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Mạnh Giáp",
+        "author_url": "https://www.google.com/maps/contrib/100193462270989345040/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7-XtK1bXYi0B8OU9YoqShulM3PAVFpIx-YS09TmvsWCQF1AA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ngay đối diện bến xe Đà Lạt.\n\nQuán bán nước & bánh ngọt.\n\nChất lượng & giá hơi cao so với mặt bằng chung.",
+        "time": 1770364462,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Trần Quốc",
+        "author_url": "https://www.google.com/maps/contrib/104663406034638951530/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWPjfIcWUqRjozjhFBHpVQoNpDSBk9Iz1zc5YKi11W6fXHM8PY=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán ngay đỉnh đồi của đèo đối diện bến xe. Không gian rộng thoáng, đồ uống oke.\nđặc biệt các bạn phục vụ nhiệt tình, sẵn sàng hỗ trợ mình cho đĩa, muỗng để cắt bánh kem kkk. ❤️",
+        "time": 1762657935,
+        "translated": false
+      },
+      {
+        "author_name": "2410 Mht",
+        "author_url": "https://www.google.com/maps/contrib/103907342749421050768/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRtB84M_wZcLpHi_pjAOkKceb2Bg1RBKUGwDnxQf6CgWhDzA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình cũng hay ghé quán vào cuối tuần với gia đinh .hôm nay được trải nghiệm mới mẻ , nhân viên tư vấn các  món nước mới tại quán cho gia đình dùng thử cũng khá hợp vị  , món ăn cũng ngon\nTrải nghiệm mới khá tốt  , không gian yên tĩnh lúc nào cũng phù hợp với gia đình mình",
+        "time": 1759469505,
+        "translated": false
+      },
+      {
+        "author_name": "Tiên Đào",
+        "author_url": "https://www.google.com/maps/contrib/109340180439095026486/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0xcrt7ekrqsi81mMQ1aoiWxHZmNuO0BkHe_5IUfQd4P0cfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Giá hơi cao, tuy nhiên rất xứng đáng với chất lượng và dịch vụ. Có thể đi bộ qua bến xe liên tỉnh Đà Lạt. Sẽ quay lại ❤️",
+        "time": 1762584264,
+        "translated": false
+      },
+      {
+        "author_name": "Windy Liu",
+        "author_url": "https://www.google.com/maps/contrib/117950468370081306831/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtb4NbrhptHAKLCLUWqdc1kYDWNUJCaDgCjt_179MdqUFdZg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn và cà phê ngon. View đẹp. Tầng 1 có thể đi ra đồi nhỏ yên tĩnh và rất Đà Lạt",
+        "time": 1767695082,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 967
+  },
+  "harvested_at": "2026-04-30T15:03:26.172782"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "25e5fa39f01a7cb4",
+  "original_osm_name": "teabox",
+  "google_raw": {
+    "formatted_phone_number": "0967 734 044",
+    "geometry": {
+      "location": {
+        "lat": 21.0415393,
+        "lng": 105.8455657
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0428593302915,
+          "lng": 105.8469698302915
+        },
+        "southwest": {
+          "lat": 21.0401613697085,
+          "lng": 105.8442718697085
+        }
+      }
+    },
+    "name": "Tiệm trà Êpako",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–23:00",
+        "Thứ Ba: 08:00–23:00",
+        "Thứ Tư: 08:00–23:00",
+        "Thứ Năm: 08:00–23:00",
+        "Thứ Sáu: 08:00–23:00",
+        "Thứ Bảy: 08:00–23:00",
+        "Chủ Nhật: 08:00–23:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Hồng Ngoc",
+        "author_url": "https://www.google.com/maps/contrib/107093079953811693781/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITSk-bVHwBvUPTKFznlujJaZk3sKnpaGMrQ4SOGHTyMza5nQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ uống quán ngon lắm, đã quay lại rất rất nhiều lần, quán mới sửa nhìn xinh xỉu mà nhiều góc chụp siêu đẹp, nhân viên nhiệt tình cute. Sẽ đóng họ ở đây dài dài nhoaaa",
+        "time": 1770802207,
+        "translated": false
+      },
+      {
+        "author_name": "Gia Anh Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/108376109964760677386/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbUL6Gb9_1QMoE146JoNDFrz6emHWyyydbIDevMyJd2AofSg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình vô tình ghé quán thui nhưng đồ uống quá ngon luôn nhất là phô mai viên mọi người nên thử nha. Nhân viên thì quá nice  còn nhiệt tình chỉ mình chỗ chụp ảnh.\nThêm 1 quán tủ của mình mỗi chiều đây rồi",
+        "time": 1769243915,
+        "translated": false
+      },
+      {
+        "author_name": "Phùng Dương Ngọc Diệp",
+        "author_url": "https://www.google.com/maps/contrib/117598286461100714825/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs9Ex0YaTpnyTuxtXYJyndrwZxTVOjq_trYWVrFXfFD-IbUjJm=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán siêu xing mà ngay tại phan huy ích, mùa áo dài các nàng thơ ghé vào chụp ảnh uống nước thì tuyệt vời luôn ấy 🥹🥹🥹 Nhân viên quán cũng dễ xương lắm, đồ uống ngon nữa, mọi người nên ghé nhaa 💕",
+        "time": 1770359601,
+        "translated": false
+      },
+      {
+        "author_name": "Ha Hong",
+        "author_url": "https://www.google.com/maps/contrib/110800831144780534058/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaXSdx7kW55z-DmCbck3jjfhLZCBMGVqBgNrj5ALp-UJiN_GkG=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần đầu thử và phải wow lên vì đồ uống của quán 🥰 cốc sz M siêu to tận 1L mà siêu nhiều hoa quả tươi nhiều món hấp dẫn . M thử trà sữa dâu bơ và trà sữa phomai nhiệt đới rất cuốn nha . Không gian ấm cúng siêu chill góc nào cũng xinh giơ máy lên là auto có ảnh đẹp 🥰",
+        "time": 1769590710,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Cẩm Nhi",
+        "author_url": "https://www.google.com/maps/contrib/109098629834571245688/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI_I5pWveHOA66gDVy9-XxKmX_dDvAgAmfCYqSA8Xj2taDfzg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nước uống ngon lắm, thấy hợp khẩu vị của mình. Quán view đẹp, cổ điển, nhìn khá ấm cúng. Nhân viên thân thiện, nhiệt tình.",
+        "time": 1769745412,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 293
+  },
+  "harvested_at": "2026-04-26T16:51:18.173538"
+}

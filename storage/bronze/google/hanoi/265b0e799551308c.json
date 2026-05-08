@@ -1,0 +1,109 @@
+{
+  "u_key": "265b0e799551308c",
+  "original_osm_name": "Khách Sạn Golden Lotus",
+  "google_raw": {
+    "formatted_phone_number": "024 3828 5888",
+    "geometry": {
+      "location": {
+        "lat": 21.0304007,
+        "lng": 105.8499092
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0318501302915,
+          "lng": 105.8511249302915
+        },
+        "southwest": {
+          "lat": 21.0291521697085,
+          "lng": 105.8484269697085
+        }
+      }
+    },
+    "name": "Golden Lotus Luxury Hotel Hanoi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "TUANDUNGAZ NGUYEN (TuanDungAZ)",
+        "author_url": "https://www.google.com/maps/contrib/114382111063036633532/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWScVf3IQHzMHW80QUv6hI2oUwSXK3Sdf8CoLRBtlRejtFBB4AJ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Gia đình tôi có con nhỏ 1 tuổi, đặt phòng nhầm tại DELUXE Apartment 5*Resort- Pools and Beach, tuy nhiên không làm sao liên lạc được họ, và họ đã chiếm đoạt của gia đình tôi hơn 2.5 triệu đồng.",
+        "time": 1771834707,
+        "translated": false
+      },
+      {
+        "author_name": "Việt Tiên (Vite)",
+        "author_url": "https://www.google.com/maps/contrib/117298420344260404301/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWlOR0gm0JAzEfgVQv1sYpMIUeYd5p3bniqc57zmtJLpTSPEA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn ngay trung tâm phố cổ nên rất tiện đi dạo khám phá xung quanh. Phòng ốc sạch sẽ và service rất tận tình. Đặc biệt là bộ phận tiền sảnh có chị lễ tân Thuỳ Linh rất nhiệt tình và chu đáo ạ. Lần sau nhất định gia đình sẽ ghé lạiii.",
+        "time": 1741569812,
+        "translated": false
+      },
+      {
+        "author_name": "hoa duong",
+        "author_url": "https://www.google.com/maps/contrib/104062116731300509958/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpAbwK3VtF7iPACqxD65cqVWxWOnlXFhFEI9FPwT56sOkGMQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn đẹp, ấm cúng, thoái mái. Bữa ăn sáng ngon miệng, nhân viên chứ đáo. Bạn lễ tân Thảo nhiệt tình. Chắc chắn chúng tôi sẽ quay lại vào lần tới",
+        "time": 1739699648,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Anh",
+        "author_url": "https://www.google.com/maps/contrib/106131194158933448403/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEB-_yezG8_3bHbXqGFf64v_uDbYcZCi5cBH2w73j3E76ezbmk=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn 4 sao trong phố cổ, phòng rộng hơn nhiều ks khác tí.\nTrang trí đẹp, tiện nghi đầy đủ.\nKhách sạn theo phong cách bảo vệ môi trường, có sẵn xà phòng để trong chai lớn cho khách, tiết giảm chai nhựa dùng 1 lần.\nPhòng sạch sẽ, có gương soi, két sắt, ấm đun đầy đủ, ko có cân hành lý.\nĐiểm trừ: ko có ổ cắm điện sạc pin ngay giường, cửa nhà tắm đóng mở phía trong, phải đứng nép sát vào tường mới đóng được, rất bất tiện. Khi mình nhận phòng thì trên giá sau cánh cửa vẫn còn 1 khăn dơ của khách cũ xài chưa dọn. Khăn tắm thì tưa hết xơ.\nĂn sáng ổn, món salad ít sauce, trái cây ngon.",
+        "time": 1722931948,
+        "translated": false
+      },
+      {
+        "author_name": "Nam Nguyễn Thành",
+        "author_url": "https://www.google.com/maps/contrib/113143134602645427358/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWffqMenucB-iIqR-BucSfp2CJKNuko0RaIwH94S5wBeqbL0vAs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Khách sạn sạch sẽ, phòng không rộng nhưng thiết kế đẹp và ấm cúng, cách âm tốt. Nhân viên chuyên nghiệp, lịch sự. Đồ ăn sáng ngon",
+        "time": 1736128183,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 656
+  },
+  "harvested_at": "2026-04-27T19:58:48.267862"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "c3f8ad1c7de273bf",
+  "original_osm_name": "Cà phê sạch Nguyễn chất 100%",
+  "google_raw": {
+    "formatted_phone_number": "0389 673 083",
+    "geometry": {
+      "location": {
+        "lat": 12.2883118,
+        "lng": 109.1968409
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2897112302915,
+          "lng": 109.1981891802915
+        },
+        "southwest": {
+          "lat": 12.2870132697085,
+          "lng": 109.1954912197085
+        }
+      }
+    },
+    "name": "Nguyên chất Coffee & Tea - 235 Điện Biên Phủ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Pham Trung Kien",
+        "author_url": "https://www.google.com/maps/contrib/109771654012691300975/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrZ5Jl-BtfCiT8HP9yZ31a7DRDa6JDkw1V2P2R-G2P5St3HA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Cafe đúng gu nguyên chất, trà đào tuyệt, có cả cờ tướng free",
+        "time": 1600932194,
+        "translated": false
+      },
+      {
+        "author_name": "Hung Bui The",
+        "author_url": "https://www.google.com/maps/contrib/110515234023369744392/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3myCiJQK77osKq6nQudhxVb5a2r8I8tmDw0gk8t8R9NMV9nep=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Quán thoáng đẹp, gió mát, thức uống ngon, giá hợp lý.",
+        "time": 1602144251,
+        "translated": false
+      },
+      {
+        "author_name": "Lâm Võ",
+        "author_url": "https://www.google.com/maps/contrib/116636900464525817720/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEGr97uU8Guhs48RH5C3EK12bvX2X41HBacH7dt_Db3Iin7A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán rất ok , lụm.",
+        "time": 1719322380,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Nguyen Phung",
+        "author_url": "https://www.google.com/maps/contrib/110080750197908293144/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuEwxC3G-jVXvRBUJLPQ1ts04kZdKFv9mItlvrRkYIeugX4LEd=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Đồ uống phong phú, coffee ngon.",
+        "time": 1600936484,
+        "translated": false
+      },
+      {
+        "author_name": "nguyen vu",
+        "author_url": "https://www.google.com/maps/contrib/115871697864758851539/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrrJgGaUOEAXDTW_hGhSxxgvXsxs6-H4cSiQRwnPk4JaZ-7jBx=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "QUÁN NGON , PHỤC VỤ CHU ĐÁO , KHÔNG GIAN NGÃ 3 RẤT THOÁNG ,,",
+        "time": 1600934953,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 31
+  },
+  "harvested_at": "2026-05-02T15:38:02.460846"
+}

@@ -1,0 +1,109 @@
+{
+  "u_key": "dfc858dd04ce491e",
+  "original_osm_name": "Nhà nghỉ Quang Vinh",
+  "google_raw": {
+    "formatted_phone_number": "0332 563 680",
+    "geometry": {
+      "location": {
+        "lat": 20.4053107,
+        "lng": 106.1962664
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.4066869802915,
+          "lng": 106.1976478802915
+        },
+        "southwest": {
+          "lat": 20.40398901970849,
+          "lng": 106.1949499197085
+        }
+      }
+    },
+    "name": "Nhà nghỉ Quang Vinh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Long Vũ",
+        "author_url": "https://www.google.com/maps/contrib/118062011091925485565/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW64IKRbLL4_SwOw7TE-B_F6SLr8BtznQZ4k-O3LNn9gc_ZXWCQkw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Chưa bh đi tỉnh có nhà mghir giá rẻ mà phòng sạch sẽ thế này . Phòng ốc thì bình dân thôi đc cái sạch sẽ thoáng mát,cây nhà lá vườn nói chung giá rất rẻ nếu có công tác nam định nhất định sẽ ghé lại đây\nLưu ý : lấy điều khiển điều hoà nhớ cầm xuống trả chủ nhà nha",
+        "time": 1748411899,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Thanh Nguyen Van Thanh",
+        "author_url": "https://www.google.com/maps/contrib/107479784907653110955/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyLNEehpMArTQ_O7HxWu5WT_mcnrZuYJs3zthKX3CaRpsZ3gmV=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Nhà nghỉ sạch sẽ ngọn ngàng nhân viên nhiệt tình , giá cả rẻ",
+        "time": 1706273576,
+        "translated": false
+      },
+      {
+        "author_name": "Con Đường Phía Trước",
+        "author_url": "https://www.google.com/maps/contrib/103960083867888333200/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbA5DnrbuIK91q9yw0ItCbKnsBITDl5ITKNBDBdQRZczdvNDY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Nhà nghỉ bình dân, giá rẻ, ông chủ  vui tính nhiệt tình, phòng sạch sẽ. Có chỗ rộng để xe oto qua đêm.",
+        "time": 1609858385,
+        "translated": false
+      },
+      {
+        "author_name": "Việt Trần",
+        "author_url": "https://www.google.com/maps/contrib/112000707696639151536/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXNIL9I3qnUhprO8RWN5QQPaMqMOYmfa6ZnSNq9Oe46cV_QHk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "5 năm trước",
+        "text": "Giá bình dân\nPhòng tạm",
+        "time": 1613443120,
+        "translated": false
+      },
+      {
+        "author_name": "Phong Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/103752816768712619169/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ_kotPgMPVMGaVEuA3DRDGd5FamzsMnCS4-26FvsAZeT670c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Bao nhiêu một h ạ",
+        "time": 1732983469,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 23
+  },
+  "harvested_at": "2026-04-26T12:45:03.025884"
+}

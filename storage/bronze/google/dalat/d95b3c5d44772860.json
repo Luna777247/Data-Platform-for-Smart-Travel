@@ -1,0 +1,163 @@
+{
+  "u_key": "d95b3c5d44772860",
+  "original_osm_name": "Le Alpi",
+  "google_raw": {
+    "formatted_phone_number": "0818 760 210",
+    "geometry": {
+      "location": {
+        "lat": 11.9547381,
+        "lng": 108.4356343
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9561324302915,
+          "lng": 108.4369488302915
+        },
+        "southwest": {
+          "lat": 11.9534344697085,
+          "lng": 108.4342508697085
+        }
+      }
+    },
+    "name": "Le Alpi - Da Lat",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–22:00",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 17:00–22:00",
+        "Thứ Năm: 17:00–22:00",
+        "Thứ Sáu: 17:00–22:00",
+        "Thứ Bảy: 17:00–22:00",
+        "Chủ Nhật: 17:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Vo Mai",
+        "author_url": "https://www.google.com/maps/contrib/103404908308117817553/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9dyjQdE8udXYxuQa6SCFkWyC0uk6C7fzLCgDVIvGVTXra68Y=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Mình hiếm khi chia sẻ nhưng thật lòng hy vọng là nhà hàng này sẽ nổi tiếng để mình có dịp tiếp tục quay lại!\n\nMình đặt bàn ăn tối, không kỳ vọng nhiều nhưng liên tục WOW sau mỗi món ăn. Nhà hàng do một người Ý làm chủ và trực tiếp phục vụ, món ăn chuẩn vị và ngon hơn hẳn những quán Ý mình đã từng thử ở Sài Gòn.\n\nChủ quán nói thứ Hai có freeflow rượu vang và buffet, nên nếu bạn ghé thăm hãy nhớ hỏi thêm về các sự kiện trong tuần đấy nhé.\n\nMình gọi House Red Wine, vị tuyệt vời, rất mướt. Vang trắng cũng rất ngon. Rau củ và phô mai tươi, đậm vị Đà Lạt, hòa quyện trong tiết trời se lạnh, vô cùng hoàn hảo .\n\nPasta handmade cũng là một lựa chọn tuyệt vời, khuyên mọi người thử option này, đến giờ mình vẫn còn nhớ sợi mì mỏng bám sốt ấn tượng của quán. Steak rất chuẩn và theo thời giá, phần mình gọi là 250gr có giá hơn 700k một xíu. Sau bữa ăn, bạn cũng sẽ được tặng một ly Limoncello.\n\nMột bữa tối ấm cúng, tinh tế và chuẩn vị Ý giữa lòng Đà Lạt 🇮🇹🍷🍝",
+        "time": 1761465791,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Ha",
+        "author_url": "https://www.google.com/maps/contrib/113158722843319054750/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHB0ZvBtO33UuePxHmKIMLdNoBdMUBfOrkjZUgb5smb1BgSpda=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhà hàng có không gian ấm áp, mình đặc biệt yêu thích chỗ ngồi ngay cạnh bếp sưởi. Ở đây bạn có thể thưởng thức đa dạng các loại thịt nguội và cheese của Đà Lạt, theo phong cách và khẩu vị chuẩn Italian. Rượu vang đỏ rất ngon, chúng mình đã thử cả rượu lạnh và rượu ấm. Và đặc biệt ko thể ko nhắc tới ly rượu chanh homemade của chủ quán đã mời tụi mình - bùng vị giác.",
+        "time": 1765084899,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Đào",
+        "author_url": "https://www.google.com/maps/contrib/117782945194504880144/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2avtspLv9G11D_BNUYPBaQ5d0oM42vDtVuJVmE-PDWMPypgnY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán rất tuyệt vời, bạn nên thử. Lần đầu chúng tôi trải nghiệm ăn cheese và thịt muối, rất ngon.",
+        "time": 1771740405,
+        "translated": false
+      },
+      {
+        "author_name": "Rim Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107558584763098472940/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4k8cF2uabNaLy3Arzj_9ZtLXoCJttiprtSm6pwg0D0GpwhqHP=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Nếu muốn trải nghiệm ẩm thực người Ý theo cách chân thực nhất thì nhà hàng này là sự lựa chọn đúng đắn nha! Mình thích nhất khay thịt nguội và cheese, lần sau đến chắc chỉ gọi món này. Mỳ và bò mình ăn không hợp vị lắm, nhưng bạn mình thì thích. Không gian này sẽ không lý tưởng để bạn muốn check in sang chảnh, mà là nơi để bạn thưởng thức món ăn.\n\nMình thấy có người bà đi ra vào tiệm, chắc hẳn bà và anh chủ đã rất cất công chăm sóc cho quán ăn này. Một trải nghiệm tuyệt vờiii",
+        "time": 1748008631,
+        "translated": false
+      },
+      {
+        "author_name": "kim thanh trần",
+        "author_url": "https://www.google.com/maps/contrib/105491356317738233587/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQGfaLcDhRnhCboV5260ab1XZlJSv-p_vMXMqfwF5SAh362D1F=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Không gian sẽ không phải kiểu “elegant” để bạn ghép chụp hình show off sang chảnh. Ở đây cho mình 1 cảm giáo ấm áp, vui vẻ với lò sưởi và bàn ghế gỗ và anh bếp trưởng kiêm chủ nhà hàng người Ý thân thiện dễ thương, tận tình chào đón bạn và giải thích các món ăn trong menu cho bạn.\nĐồ ăn ở đây chỉ có thể nói là xuất sắc, chinh phục mấy người bạn khó tính trong ăn uống của mình. À ở đây, để ăn được món ngon, nóng hổi, bạn có thể sẽ phải kiên nhẫn chờ đợi. Yên tâm là nhà hàng sẽ phục vụ bạn free olive để nhâm nhi trò chuyện trong thời gian chờ này.\nGiá cả là quá rẻ cho chất lượng món ăn và sự phục vụ.",
+        "time": 1704334196,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 408
+  },
+  "harvested_at": "2026-04-30T14:59:00.814141"
+}

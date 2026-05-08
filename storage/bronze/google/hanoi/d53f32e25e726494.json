@@ -1,0 +1,109 @@
+{
+  "u_key": "d53f32e25e726494",
+  "original_osm_name": "Khách Sạn Hanoi Eclipse",
+  "google_raw": {
+    "formatted_phone_number": "024 3926 2333",
+    "geometry": {
+      "location": {
+        "lat": 21.030347,
+        "lng": 105.8563475
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0316910802915,
+          "lng": 105.8576863802915
+        },
+        "southwest": {
+          "lat": 21.0289931197085,
+          "lng": 105.8549884197085
+        }
+      }
+    },
+    "name": "Eclipse Legend Hotel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Meow Hân",
+        "author_url": "https://www.google.com/maps/contrib/102894694680138751336/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWySVsmUfj73lsU2Lw8TVRsCwurNXUOcViSMcaux2lwWpbR2I0q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chúng tôi rất hài lòng khi ở trong khách sạn này. Mọi thứ đều tuyệt vời. Chúng tôi đã có một phòng đẹp và sạch sẽ cho 4 người. Đến thăm Hà Nội thì dễ hơn vì các nhân viên của khách sạn đã hướng dẫn chúng tôi rất nhiều. Cảm ơn nhiều.",
+        "time": 1770887113,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Nam",
+        "author_url": "https://www.google.com/maps/contrib/108680343604162255123/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9f-77Daj118o7MvgfnCgR_YqSpyb3nLIllZ_irLVZ7V_xOA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nhân viên chào đón rất nhiệt tình, vui vẻ và chu đáo, ăn sáng ngon, chỗ nghỉ sạch sẽ, mình sẽ quay lại lưu trú vào dịp khác",
+        "time": 1770641880,
+        "translated": false
+      },
+      {
+        "author_name": "Như Quỳnh Trần Thị",
+        "author_url": "https://www.google.com/maps/contrib/110725831483969256623/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7Q44gxK-Z8KxVcqkqJtVd439iLd9h03GkTx6B0aSb0iToZnjC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Các bạn nhân viên rất tinh tế và biết quan tâm cảm giác khách hàng, luôn tạo cho khách có cảm giác thoải mái và gần gũi.",
+        "time": 1770554068,
+        "translated": false
+      },
+      {
+        "author_name": "Xau Trai Quang",
+        "author_url": "https://www.google.com/maps/contrib/108809091977297041180/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVUbT_Rz_ihbx12mwcQpRAqP72K_zZrOMV1gK84pjvvrvRyHs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "khách sạn rất tốt,phục vụ rất nhiệt tình và thân thiện, chị chủ quản khách sạn rất tỉ mỉ nhiệt tình hướng dẫn những địa điểm mà khách hàng muốn điiiiiiiiiii",
+        "time": 1768148685,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Anh Vũ Thị",
+        "author_url": "https://www.google.com/maps/contrib/109856303528059351227/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6DgIAOsvp2ogPtGkK8bjFDvNUXgvng1-gwNIBcVdJbB3ZkG8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chị chủ và các a/c nhân viên ở đây rất nhiệt tình và dễ thương, hỗ trợ mình nhận phòng sớm, quan tâm cảm nhận của khách hàng.",
+        "time": 1764403671,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 402
+  },
+  "harvested_at": "2026-04-27T19:58:57.160584"
+}

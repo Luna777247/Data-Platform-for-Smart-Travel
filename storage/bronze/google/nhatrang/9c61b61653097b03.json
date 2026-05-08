@@ -1,0 +1,173 @@
+{
+  "u_key": "9c61b61653097b03",
+  "original_osm_name": "Quán Hải Sản Đông Xuân",
+  "google_raw": {
+    "formatted_phone_number": "0767 600 555",
+    "geometry": {
+      "location": {
+        "lat": 12.2653345,
+        "lng": 109.2001341
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2667157302915,
+          "lng": 109.2015041302915
+        },
+        "southwest": {
+          "lat": 12.2640177697085,
+          "lng": 109.1988061697085
+        }
+      }
+    },
+    "name": "QUÁN ỐC ĐÔNG XUÂN",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–02:00",
+        "Thứ Ba: 10:00–02:00",
+        "Thứ Tư: 10:00–02:00",
+        "Thứ Năm: 10:00–02:00",
+        "Thứ Sáu: 10:00–02:00",
+        "Thứ Bảy: 10:00–02:00",
+        "Chủ Nhật: 10:00–02:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Thiên Trúc Lam Hồ",
+        "author_url": "https://www.google.com/maps/contrib/104406434649579844261/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1EH_-nnLfb0Hsfmngvf8Qq4F_lWfIqY7CHzjpsPYvwvbIKA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 tháng trước",
+        "text": "Lên món lâu, thịt sò dương thì dai còn món còn lại thì chả thấy tí thịt nào . Lam nhầm món cho khách kh xin lỗi 1 câu kêu bơ tỏi làm mỡ hành rồi làm lại ra cái dĩa như hình , không đáng giá tiền .\nThe food came out very slowly, the geoduck meat was tough, and the other dishes barely had any meat. They also served the wrong dish without an apology, and when I asked for garlic butter, the replacement dish wasn’t what I ordered. Honestly, the quality wasn’t worth the price.",
+        "time": 1759756927,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/108334743699450237533/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJS45F8sJX0qCAvlKi9Hs9--Mu55XCY4E50XDfs14YS0ksT3zYy=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán ốc ăn ok, đồ hải sản tươi sống. Giá cả cũng hợp lý, trung bình không cao không thấp. Có món hàu nướng bị khét nhẹ, các món còn lại đều ok.",
+        "time": 1756717553,
+        "translated": false
+      },
+      {
+        "author_name": "Amy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/118285305301914735114/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVceJNP7vet24ELm0nX8t6yqMXTl5qkggiRbA0V-oXS926Pn6sNw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "8 tháng trước",
+        "text": "Xem review nên ghé ăn thử, bước vào thấy quán hơi cũ và bẩn, ngại nhưng lỡ vào rồi thì ngồi luôn. Chén đem ra dơ nha, tự dưng thấy mất điểm liền luôn á. Món ăn chế biến vị ăn được, gỏi sứa toàn mình thôi, ko có miếng chân nào luôn.",
+        "time": 1755925082,
+        "translated": false
+      },
+      {
+        "author_name": "L A K.",
+        "author_url": "https://www.google.com/maps/contrib/104778238920170787263/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdaF-RKexpcePRFDDSSWg_XYzr60g68QBHLduI12toLYmdbFM=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ngon, menu đa dạng, thức ăn lên nhanh, giá cả tương đối cao. Không gian nhộn nhịp, thích hợp các buổi nhậu, tiệc tùng.",
+        "time": 1767870087,
+        "translated": false
+      },
+      {
+        "author_name": "Kelsi Bích Trân (Dân Bích Chương)",
+        "author_url": "https://www.google.com/maps/contrib/116176891819600511590/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHZ-87LKJit7DVGHC46hAl1W7SX5-7HPeSaMQ5RTSt_wdyh6Ag=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Quán này tụi tui được anh Hướng Dẫn Viên chỉ ra đây. Cách khách sạn cũng không xa nên đi bộ về tầm 2km dạo biển còn được.\n\nĐiểm cộng: hải sản tươi đa dạng, nêm nếm ok. Có thể trả giá. Ngoài điểm trừ bên dưới thì tui không có chê gì vì thực sự quán này dân local nhiều. Chưa kể quán mở đến rất khuya, có bàn ngoài trời mát mẻ hoặc trong nhà.\n\nĐiểm trừ: check lại hóa đơn khi tính tiền, nhìn 2 hình tui đưa lên là hiểu, giá thấp hơn là do lúc đi chợ chị chủ đưa giá đó, tính tiền không để ý là giá nó khác ngay.",
+        "time": 1755299521,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 370
+  },
+  "harvested_at": "2026-05-02T15:13:45.240691"
+}

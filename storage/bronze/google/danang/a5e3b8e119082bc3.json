@@ -1,0 +1,172 @@
+{
+  "u_key": "a5e3b8e119082bc3",
+  "original_osm_name": "Day & Night Café",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0389743,
+        "lng": 108.2461364
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0403462302915,
+          "lng": 108.2475347802915
+        },
+        "southwest": {
+          "lat": 16.0376482697085,
+          "lng": 108.2448368197085
+        }
+      }
+    },
+    "name": "Cafe Terrace at Night Danang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–21:30",
+        "Thứ Ba: 06:30–21:30",
+        "Thứ Tư: 06:30–21:30",
+        "Thứ Năm: 06:30–21:30",
+        "Thứ Sáu: 06:30–21:30",
+        "Thứ Bảy: 06:30–21:30",
+        "Chủ Nhật: 06:30–21:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Hồng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107487083823012476147/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqUTGc6KJ3t2LdRW-jFwyplKtyWOd1g8AMNXShF1pvh0VtKH1J=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không gian mát mẻ, đồ uống ngon, gjas hợp lý ạ. Sáng, trưa,chiều đều ok nha.",
+        "time": 1762571926,
+        "translated": false
+      },
+      {
+        "author_name": "VÕ TRỌNG ĐỨC",
+        "author_url": "https://www.google.com/maps/contrib/103182015672866338188/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUc1d9mUhy_UE08pFFNKporwXIUbMpgOQQvqYDCqqXd6Nml0HJW=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cafe ngon",
+        "time": 1754615225,
+        "translated": false
+      },
+      {
+        "author_name": "Trương Hoàng Gia_06",
+        "author_url": "https://www.google.com/maps/contrib/113598619082640050647/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6J3jKStAb9-ygFpSuvDEM6ij-pMD4ShEr2V0gTzX4Os0bGQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Nhân viên hoà đồng, mến khách. Đồ uống ngon phù hợp với giá tiền.",
+        "time": 1754361321,
+        "translated": false
+      },
+      {
+        "author_name": "nhat huy",
+        "author_url": "https://www.google.com/maps/contrib/104040428339628287929/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJs4KqId-bQHu6QnIJSOShpBTvC0BAFzzrd1ZLjg_obfCKkZ_w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "quán ngon, trang trí đẹp, nhân viên thân thiện",
+        "time": 1754361311,
+        "translated": false
+      },
+      {
+        "author_name": "kim na",
+        "author_url": "https://www.google.com/maps/contrib/100525923759547702787/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3ahDeR_QMtcsCTxgGyro7am6LqPIRDJ6NWo8UvV-wQDF2blEG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Cà phê ngon!",
+        "time": 1755394702,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 35
+  },
+  "harvested_at": "2026-04-29T09:30:35.792656"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "2b9ce9bd096e5b56",
+  "original_osm_name": "Pizza Like",
+  "google_raw": {
+    "formatted_phone_number": "0263 6253 531",
+    "geometry": {
+      "location": {
+        "lat": 11.9419657,
+        "lng": 108.4311459
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9433345802915,
+          "lng": 108.4325175302915
+        },
+        "southwest": {
+          "lat": 11.9406366197085,
+          "lng": 108.4298195697085
+        }
+      }
+    },
+    "name": "Pizza Like",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Anh Vũ",
+        "author_url": "https://www.google.com/maps/contrib/106340009094240931490/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUf8qj8T8gUuBcc508lHo8-E7G2OTwvi_dJKVIbtkFISIFyrlqg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nếu đã chán đồ ăn truyền thống và muốn đổi vị tại Đà Lạt, mình cực kỳ đề cử Pizza Like trên đường Hoàng Diệu. Đây là một tiệm bánh nhỏ nhưng mang lại trải nghiệm ẩm thực rất chất lượng và ấm cúng.\nĐiểm mình thích nhất ở đây là phần đế bánh. Pizza được làm thủ công, đế mỏng và được nướng chín tới nên giữ được độ giòn rụm, không bị ngán như các dòng pizza công nghiệp. Mình đã thử Pizza Hải sản và Pizza Bò bằm, phần topping rất đầy đặn, phô mai thơm ngậy và kéo sợi cực thích. Đặc biệt, tương ớt và nước sốt ở đây cũng có vị riêng, rất hợp với khẩu vị người Việt.\nKhông gian quán dù không quá lớn nhưng được bài trí rất có gu, sạch sẽ và mang lại cảm giác thoải mái. Nhân viên phục vụ rất dễ thương, thân thiện và lịch sự. Một điểm cộng nữa là mức giá cực kỳ \"hạt dẻ\", rất phù hợp cho các bạn sinh viên hoặc nhóm bạn đi du lịch tự túc. Sau khi ăn xong, bạn còn có thể dễ dàng đi bộ sang khu vực bánh mì xíu mại Hoàng Diệu ngay gần đó để tham quan thêm.\nChắc chắn mình sẽ quay lại để thử thêm các dòng bánh khác. Một địa chỉ Pizza rất đáng đồng tiền bát gạo tại Đà Lạt!",
+        "time": 1767370848,
+        "translated": false
+      },
+      {
+        "author_name": "Tuan anh Tran",
+        "author_url": "https://www.google.com/maps/contrib/105698376005649412247/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ-pPid8inkEbSjQhB5QMDL4FF5nSvAVbdZ2dZ3nXN1UJXD9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nay 24/11 trải nghiệm quán tệ vì lí do quán dơ nuôi động vật cx khá nhiều lông ngay cả áo nhân viên dính rất nhiều lông khi bê đồ ăn cho khách, gián chết cx nhiều mà không quét dọn. Mong quán khắc phục ạ.",
+        "time": 1763976850,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Thị Thuý Loan",
+        "author_url": "https://www.google.com/maps/contrib/114798985121481968820/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViNBrSDBJV98glXhZHk2tCfJNvwp282hGUWAGOZJIkzwuM__SO=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nhân viên không check lại món với khách, tới lúc mang món ra thì sai ý khách thì nhân viên mới ra giải thích, nhân viên kiệm lời không biết xin lỗi hay cảm ơn khách, khách không hài lòng thì tỏ thái độ khó chịu, đồ ăn không ngon như trước, sữa chua giống như để lâu ngày",
+        "time": 1756908111,
+        "translated": false
+      },
+      {
+        "author_name": "Phúc Lâm Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/114924696184778721373/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZ96iWQkn2C_7KDttYfljUqOBtDM0r9mwr6lPP1n7qcTdsIBI=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn không ngon như trước, đế bánh khô. Mình đi 2 người, đã gọi nhiều món , và 1 pizza size nhỏ, bạn nhân viên k nói j thêm. Lúc mang bánh ra thì lại là size lớn, mình có hỏi thì bạn nói là không làm nhỏ được. Điều đáng nói là k làm được nhưng bạn k báo trước, mang ra như ép buộc khách phải dùng cái lớn và thái độ rất khó chịu",
+        "time": 1756907714,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Anh Photographer",
+        "author_url": "https://www.google.com/maps/contrib/107534802260106126838/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhGkpVpNG1IQqO_HoFBNMQBsQ1XtgY22YkuDVh-ABLanRnz8qs=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 tháng trước",
+        "text": "Ăn ở đây rất nhiều lần, nhưng hôm nay (26/10/2025) trải nghiệm nhân viên phục vụ khách rất tệ!",
+        "time": 1761483553,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 462
+  },
+  "harvested_at": "2026-04-29T13:36:46.685694"
+}

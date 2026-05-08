@@ -1,0 +1,173 @@
+{
+  "u_key": "4540b636f7c4120e",
+  "original_osm_name": "Hỷ Lạc Chay",
+  "google_raw": {
+    "formatted_phone_number": "0775 998 438",
+    "geometry": {
+      "location": {
+        "lat": 11.9437167,
+        "lng": 108.4314008
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9450805802915,
+          "lng": 108.4327645802915
+        },
+        "southwest": {
+          "lat": 11.9423826197085,
+          "lng": 108.4300666197085
+        }
+      }
+    },
+    "name": "Hỷ Lạc Chay (Vegetarian Food)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–20:30",
+        "Thứ Ba: 07:30–20:30",
+        "Thứ Tư: 07:30–20:30",
+        "Thứ Năm: 07:30–20:30",
+        "Thứ Sáu: 07:30–20:30",
+        "Thứ Bảy: 07:30–20:30",
+        "Chủ Nhật: 07:30–20:30"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Dy Tong",
+        "author_url": "https://www.google.com/maps/contrib/113391287521180644426/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIec46dlM9TwUfuZRHA-kDnqXEFv8A6TgrRsHY7npIjXdcKBw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nam trong con hẻm Không gian đơn giản, sạch sẽ. Đồ ăn nấu vừa miệng, dễ ăn, đặc biệt với nhiều món sup canh nóng ăn trong thời tiết Đà Lạt thật ấm 😄. Giá cả phải chăng, phục vụ dễ thương. Đi Đà Lạt mà muốn ăn chay cho nhẹ bụng, ấm người thì ghé Hỷ Lạc là hợp lý 🌿",
+        "time": 1768994020,
+        "translated": false
+      },
+      {
+        "author_name": "Lành ƠI",
+        "author_url": "https://www.google.com/maps/contrib/117705220087478896771/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUscvwqe3maYa_pW6IEwrttHKA1oqWAGaFmmR6mIUHRRKw-nax3=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đồ ăn chay ở đây ngonnn mà nhiều lắm ý, giá cũng trong tầm 35-40k thui , mình hay ăn phở cà ry với Phở bth , nước dùng rất ngonnnnn không gian sạch sẽ tươm tất",
+        "time": 1759021920,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Hà",
+        "author_url": "https://www.google.com/maps/contrib/109596730456316321707/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRuloicIvkcR5R5i3MVRdwk7MgyhIOHkh3r4U4o2l6XWzjkf6d=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán chay nấu ngon, thanh đạm, giá cả phải chăng, chất lượng. Đến ăn đợi xíu vì mấy bạn nấu tươi khi có khách gọi.",
+        "time": 1760245119,
+        "translated": false
+      },
+      {
+        "author_name": "Localguidecap1",
+        "author_url": "https://www.google.com/maps/contrib/111624878903246432243/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgvA5rUhCTKc6QgR_MkfyQqV1LwrTzCfODz_ZTPmAekUFqTZdB=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một tháng trước",
+        "text": "Địa điểm dễ tìm, đồ ăn vừa miệng. Chổ ngồi thoải mái, anh trai nhiệt tình, trông như celeb. Lần sau e ghé",
+        "time": 1772791949,
+        "translated": false
+      },
+      {
+        "author_name": "Mai",
+        "author_url": "https://www.google.com/maps/contrib/107373132374718849167/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJgJUQSjjzePHVjV4P90QG1OkToA0hvDA_AzXOzd_wb-aurw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhà hàng nhỏ, sạch sẽ, bún riêu ngon lắm, nhân viên dễ thương.",
+        "time": 1766644052,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 448
+  },
+  "harvested_at": "2026-04-30T14:59:59.226086"
+}

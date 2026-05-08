@@ -1,0 +1,173 @@
+{
+  "u_key": "af6c9f46a9a6303c",
+  "original_osm_name": "Ông Minh",
+  "google_raw": {
+    "formatted_phone_number": "0932 777 703",
+    "geometry": {
+      "location": {
+        "lat": 16.0802935,
+        "lng": 108.2466356
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0816108302915,
+          "lng": 108.2480557802915
+        },
+        "southwest": {
+          "lat": 16.0789128697085,
+          "lng": 108.2453578197085
+        }
+      }
+    },
+    "name": "Quán Hải Sản ÔNG MINH",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–02:00",
+        "Thứ Ba: 10:00–02:00",
+        "Thứ Tư: 10:00–02:00",
+        "Thứ Năm: 10:00–02:00",
+        "Thứ Sáu: 10:00–02:00",
+        "Thứ Bảy: 10:00–02:00",
+        "Chủ Nhật: 10:00–02:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Thuỷ Phạm",
+        "author_url": "https://www.google.com/maps/contrib/114495502069164845753/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjdz7vhMrFmG6EhtI9ddBDd7z03aqp2bg5oUaBo6VpPD2hMBj1vg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán to, rộng thoáng. Nhân viên nhanh nhẹn, ra đồ rất nhanh. Giá cũng khá cao, có bể chứa hải sản tươi, ra chọn món tận bể nhưng nv cân như nào thì m cũng k biết dc vì cũng k cân cho m xem 😂 nhưng lên đồ đầy đặn, chắc cân cũng đủ. Đồ ăn chế biến cũng ổn, vị vừa vặn, tôm sú thì có vẻ k chắc thịt lắm, mực hấp thì giòn ngon.",
+        "time": 1771598575,
+        "translated": false
+      },
+      {
+        "author_name": "An Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114900285395959457085/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVSKdG4iTBAOzaCMNEUCDOIpqpNt89ilsxpcb7OilQNE69ZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Theo review trên fb mà ghé thăm quán.\nHiện tại quán đã bán giá tết. Nhưng giá khá ổn đối với khuôn viên đường Võ Nguyên Giáp.\nTôm Hùm cháy tỏi và món hấp ngon.\nHợp khẩu vị người miền trung.",
+        "time": 1771075443,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Khoa",
+        "author_url": "https://www.google.com/maps/contrib/101899832790975347817/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvh17d5aJ13VmmpPzLxm0M1-viO5M425w2j2RPfgVk2ouIsQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian nhà hàng thoáng cực, quán có view biển nên nhìn chill đẹp lắm, bạn nhân viên tư vấn món siêu nhiệt tình, bàn mình có con nhỏ nên được các bạn take care chu đáo lắm nè. Mình không nghĩ với giá thành rẻ như vậy mà nhận lại 1 trải nghiệm siêu tuyệt vời như vậy đâu. Nhất định sẽ quay lại😉😘",
+        "time": 1770378865,
+        "translated": false
+      },
+      {
+        "author_name": "Le Tho",
+        "author_url": "https://www.google.com/maps/contrib/104425689664175007997/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBDiEOIP9DsEOdzQ14z88Y0zDTHUtJrnG8rFTK9UFckQ2K3kmH=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đang trải nghiệm và cảm thấy hài lòng.\nPhục vụ tận tình,món ăn nhẹ hợp khẩu vị đối với mình.\nVừa túi tiền. Đối với nhà hàng Hải Sản.\nSẽ ghé ủng hộ vào lần tới.",
+        "time": 1770898949,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Nam Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/102321794016699540254/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7LPCBGdbAfyh9FYvMmQIXA8QT2QKO0M-cMV8bCWXx3YlMj67d=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "8 tháng trước",
+        "text": "hàu 169k mà 4 con, ghẹ thì 2 con 1 to gần bằng bàn tay 1 bé như cái bàn tay trẻ con, mực thì khô k có độ giòn độ tươi ( ăn bị dai ), cơm rang thì bê ra đầu tiên cho nguội, tu hài mini nửa cân được độ 12 con, thanh toán 2 củ 😂 nói chung là méo bao giờ gặp lại cho nó vuông. bóc phốt thì xoá bài của khách\nOysters 169k but only 4 pieces, crab was 2—one big almost the size of a hand, one tiny like a kid’s hand. The squid was dry, not fresh or crunchy (chewy to eat). Fried rice was served first so it got cold. Mini geoduck, half a kilo had about 12 pieces. The bill came to 2 mil ( about 81,5$ )😂. Honestly, never going back again. If you post a complaint, they will delete the customer’s review right away , lol :v",
+        "time": 1756536752,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1823
+  },
+  "harvested_at": "2026-04-29T09:43:18.856795"
+}

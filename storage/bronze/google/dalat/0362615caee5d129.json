@@ -1,0 +1,163 @@
+{
+  "u_key": "0362615caee5d129",
+  "original_osm_name": "The Tasty House",
+  "google_raw": {
+    "formatted_phone_number": "0913 671 919",
+    "geometry": {
+      "location": {
+        "lat": 11.9533674,
+        "lng": 108.4368319
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.95471248029151,
+          "lng": 108.4381981302915
+        },
+        "southwest": {
+          "lat": 11.9520145197085,
+          "lng": 108.4355001697085
+        }
+      }
+    },
+    "name": "The Tasty House- Pizza, Pasta, Fried Chicken",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "T - GR",
+        "author_url": "https://www.google.com/maps/contrib/103364998694473522733/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjQozxdKpoUTvazSFwam-U3OPkM2fN6n-NFyui2r4zstqlfxA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian quán khá là ấm cúng, xinh xinh, cũng dễ tìm, món ăn thì cũng lạ miệng nhưng mà ngon đồ ăn ra thì nóng hổi nha mà sẽ lên từng món á chứ không phải lên liên tục đâu, chắc do quán làm nhà á, order thì các bạn ghi lên note rồi gửi nv nha, nv cũng dễ thương dễ chịu lắm, nên đến quán thử nha",
+        "time": 1771737987,
+        "translated": false
+      },
+      {
+        "author_name": "nhat duy vo",
+        "author_url": "https://www.google.com/maps/contrib/115238430468920927568/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7mx-9aJhtqNL3JTDwBhelWbfN7mArs2NHsN_qNLTxF_B7ymk4cA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Đô ăn: 8/10\n\nKhông gian: 8.5/10\n\nĐồ ăn không quá đặc biệt nhưng ăn khá là ổn trong tầm giá\n\nKhông gian quán là căn nhà phố, bàn ghế ngồi thoải mái, khá là dễ chịu\n\nQuán theo mình thấy thì do cả gia đình cùng làm với nhau. Có khoảng 7 bàn. Giá cho mỗi người tâm 100-200 cành.\n\nXe oto thì nên đậu dọc công viên Nguyễn Lương Bằng rồi đi bộ vào khoảng 100m, xe máy chạy tới trước quán.",
+        "time": 1764314953,
+        "translated": false
+      },
+      {
+        "author_name": "Đệ Trần Nhật",
+        "author_url": "https://www.google.com/maps/contrib/106301874154380843124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLudLalwUMXSew0bFFEvfK-SoSarmc050wQ4pvR1ZOKfWz7Yg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Ghé quán vào ngày mưa, Pizza ở đây ổn, vỏ giòn nhẹ, đế mỏng nên ăn rất vừa miệng. Pasta cũng ngon nhưng hơi mặn một chút, nếu gia giảm lại xíu nữa sẽ oke để những ai thích ăn chung vớt sốt tương ớt, tương cà. Món soup bí đỏ cũng tương tự — vị ổn nhưng cần giảm độ mặn để cân bằng hơn.\n\nKhông gian quán theo kiểu gia đình, thoáng mát và ấm cúng. Có cả bàn ngoài trời, ngồi chill vừa ăn vừa ngắm mưa rất thích. Anh chủ quán nhiệt tình, dễ thương\nVề giá thì mình thấy cũng ổn. Nếu có dịp lên lại Đà Lạt, mình sẽ ghé tiếp\nMình chụp mỗi pasta thôi, quên chụp mấy món lại do bận ăn mất 😂",
+        "time": 1763297211,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh Anh",
+        "author_url": "https://www.google.com/maps/contrib/106667283451838270914/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-2LZNsUETNl7yjb3UtsLMK2Uwvq_4y_mImEeTYqs2P6PRTe24=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "vô tình tìm được quán và ăn thử, pizza và mì siêu ngon, không gian quán ấm cúng thích hợp ăn cùng gia đình và bạn bè, anh chị chủ quán cũng nhiệt tình vui vẻ lắm mng ơi 💗 bây giờ về rùi nhưng vẫn muốn lên ĐL ăn tiếp vì quá thèm 🥹",
+        "time": 1771438005,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Vy",
+        "author_url": "https://www.google.com/maps/contrib/107102588972625545054/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnZ1v3UAHE0UKHf463j-fVRow0fOR84oOP-f1sq4RZeKdogg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán nhỏ, decor xinh, không gian khá yên tĩnh, mình ngồi outside chill lắm. Đồ ăn ngon, sinh tố dâu cũng ngon lắm lun 🍓😋 Dịp sau lên Đà Lạt mình chắc chắn sẽ ghé lại!!",
+        "time": 1768457388,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 164
+  },
+  "harvested_at": "2026-04-30T14:59:03.367949"
+}

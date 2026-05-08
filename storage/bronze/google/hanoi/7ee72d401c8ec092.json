@@ -1,0 +1,109 @@
+{
+  "u_key": "7ee72d401c8ec092",
+  "original_osm_name": "Little Charm",
+  "google_raw": {
+    "formatted_phone_number": "024 2211 6895",
+    "geometry": {
+      "location": {
+        "lat": 21.0339934,
+        "lng": 105.84927
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0353035802915,
+          "lng": 105.8506049302915
+        },
+        "southwest": {
+          "lat": 21.0326056197085,
+          "lng": 105.8479069697085
+        }
+      }
+    },
+    "name": "Little Charm Hostel",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Thanh Thư Dương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108829320823590244519/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdQhQ1QrsxznugbkwL9uTCe175qbog0uRzadmoK3_oXh3vFpnj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khách sạn có anh nhân viên cute mình ở 1 hôm thuiii nhưng mà lần sau có dịp chắc chắn sẽ quay lại. Có 1 vấn đề là khách sạn không có thang máy nhưng mình may mắn được anh nhân viên khách sạn hỗ trợ mang vác đồ lên tận phòng huhu anh Victor super ultra cuteeeee",
+        "time": 1770349479,
+        "translated": false
+      },
+      {
+        "author_name": "Lê thị hiền",
+        "author_url": "https://www.google.com/maps/contrib/108871485719350614308/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjevkGupCn9PTUWlT6kARcTy6cbCGBWyLZLFyPR8iShX5jgpFP=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình ở khách sạn này 3 đêm cùng với gia đình, dịch vụ rất tốt, sạch sẽ, nhan viên thân thiện nhiệt tình VICTOR rất cute ,\nChắc chắn sẽ quay lại khi đến Hà Nội,",
+        "time": 1770458026,
+        "translated": false
+      },
+      {
+        "author_name": "Vân",
+        "author_url": "https://www.google.com/maps/contrib/105334926626200451106/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJQji8jWDjzJlu20JiDfPvaMBO2fOOyXN95PQ4Ga2S8zfsZw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ra từ Sài Gòn đây chơi cùng gia đình trước Tết khách sạn rất ok và đồ ăn sáng rất ngon. Nhân viên nhiệt tình nhất là bạn Victor nên chắc chắn sẽ quay lại",
+        "time": 1770857469,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Nguyễn Thị Việt",
+        "author_url": "https://www.google.com/maps/contrib/113211802587543374885/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLzLujkDaDJXTMAIvmAe7y8yIQnfRo9kw46EdI3bBHqHclMKQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "3 mẹ con ở hotel rất ok nhân viên thân thiện nhất là bạn Victor có gì sẽ quay lại lần nữa nếu có dịp",
+        "time": 1770270835,
+        "translated": false
+      },
+      {
+        "author_name": "vân lê",
+        "author_url": "https://www.google.com/maps/contrib/114907229230836077727/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM6nsyKdIj-fuFozKbXMdlIh3lt507DeHqgpnBbQk52-kJai7j=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Khách sạn lần đầu ở rất ok so với những hostel khác ăn uống rất ngon và nhân viên thân thiện nhất là bạn Victor nên có cơ hội sẽ lại ghé qua đây lần nữa",
+        "time": 1767330723,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1129
+  },
+  "harvested_at": "2026-04-26T12:44:50.564228"
+}

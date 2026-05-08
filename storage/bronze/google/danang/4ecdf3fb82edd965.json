@@ -1,0 +1,153 @@
+{
+  "u_key": "4ecdf3fb82edd965",
+  "original_osm_name": "Lava-Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0911 470 568",
+    "geometry": {
+      "location": {
+        "lat": 15.9774356,
+        "lng": 108.2621188
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9788020802915,
+          "lng": 108.2634677802915
+        },
+        "southwest": {
+          "lat": 15.9761041197085,
+          "lng": 108.2607698197085
+        }
+      }
+    },
+    "name": "LAVA GELATO & FOOD",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1600"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1600"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1600"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1600"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–16:00",
+        "Thứ Ba: 07:00–16:00",
+        "Thứ Tư: 07:00–16:00",
+        "Thứ Năm: 07:00–16:00",
+        "Thứ Sáu: 07:00–16:00",
+        "Thứ Bảy: Đóng cửa",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Nam Trân (MM)",
+        "author_url": "https://www.google.com/maps/contrib/114915950406096613093/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6cHJsMmiWoleG0zovSsW68I1FKBOlqJp0Xza7ZRktQq0DBdSx=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn siêu ngon. Phần lẩu 350 chất lượng. Phục vụ ổn áp lắm luôn.",
+        "time": 1727161142,
+        "translated": false
+      },
+      {
+        "author_name": "Bạch Thanh",
+        "author_url": "https://www.google.com/maps/contrib/100584525601372414888/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIK4f66qDmwHG_qwSuDoPLPMu62PM5mz8req7CsL9K-e7nnZRE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Lẩu riêu ngon, cánh gà chiên mắm ngon, phục vụ tốt",
+        "time": 1757667053,
+        "translated": false
+      },
+      {
+        "author_name": "Quảng-Bình Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109840155879043015713/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLyiMDOhfktA9Jv0fKVc7xTblPSYTJFbjxa-J1OICFk8YF0w16=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán lẩu rất ngon, đặc biệt là riêu cua",
+        "time": 1702961718,
+        "translated": false
+      },
+      {
+        "author_name": "quocthanh nguyen",
+        "author_url": "https://www.google.com/maps/contrib/110912151570916577019/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7WcxB3grm5ODihn1LlrHhV5l0Q6Ru-vkL3UktyAR8E-3o4jeX=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Bún ngon, giá cả phải chăng, không gian sạch sẽ & thoáng mát.",
+        "time": 1744099844,
+        "translated": false
+      },
+      {
+        "author_name": "Giang Thuy Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112525454005644345032/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNp4TGX4-LpmJHtAxvW5SqxjrpnWBlRdCFgs6P5Iz70UtdNuE0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Bún ốc ngon, các món chay ok, quán sạch sẽ, giá cả hợp lý, mỗi tuần mình đều sang ăn bún ốc vì thèm",
+        "time": 1696223767,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 16
+  },
+  "harvested_at": "2026-04-28T16:42:32.569056"
+}

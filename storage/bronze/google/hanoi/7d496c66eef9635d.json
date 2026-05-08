@@ -1,0 +1,174 @@
+{
+  "u_key": "7d496c66eef9635d",
+  "original_osm_name": "Cà Phê Hồ Thanh Nhàn",
+  "google_raw": {
+    "formatted_phone_number": "024 6295 7762",
+    "geometry": {
+      "location": {
+        "lat": 21.0026199,
+        "lng": 105.8588318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0038991302915,
+          "lng": 105.8601635802915
+        },
+        "southwest": {
+          "lat": 21.0012011697085,
+          "lng": 105.8574656197085
+        }
+      }
+    },
+    "name": "Cà phê NGUYỄN",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:00",
+        "Thứ Ba: 07:00–21:00",
+        "Thứ Tư: 07:00–21:00",
+        "Thứ Năm: 07:00–21:00",
+        "Thứ Sáu: 07:00–21:00",
+        "Thứ Bảy: 07:00–21:00",
+        "Chủ Nhật: 07:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Juno Tùng",
+        "author_url": "https://www.google.com/maps/contrib/118025875287654997127/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLhcZRzsySdGFKFsnCWDiWvyf2xgrc17sKWUfvihciKS_vIcEz=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán ngay ngã 3 đường, mặt đường Thanh Nhàn, khu vực đông đúc khá là ồn ào do đối diện là bệnh viện Thanh Nhàn. Quán có không gian bên trong rộng nhưng bàn ghế khi đông khá là chật.\n\nĐồ uống cũng ở mức bình thường như mọi quán cafe bình dân khác. Nếu bạn muốn tìm chỗ yên tĩnh nhâm nhi thì quán không phải lựa chọn ở khu vực này.",
+        "time": 1757558196,
+        "translated": false
+      },
+      {
+        "author_name": "AnTuLee",
+        "author_url": "https://www.google.com/maps/contrib/114236948200484516592/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVf_rMbnFNVri0jlIVxkV6Uf8mwUC6W3XI_1ts91gg1ZOx19Ftq=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình không nghĩ mình gọi cốc cafe nóng mang đi mà lại ít đến vậy, chắc được 2 hụm nhỏ là hết, cầm cái cốc nhẹ phèo. Thực sự không bằng mua cafe gói mang về tự pha. À đấy bảo cho nhiều sữa mà uống đắng ngắt 🤭 chịu thật. Giá 25k thực sự không đáng.",
+        "time": 1767015655,
+        "translated": false
+      },
+      {
+        "author_name": "Trịnh Duy Anh",
+        "author_url": "https://www.google.com/maps/contrib/114298173244941781608/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvD3QyYO9uh2bc9vMLxG0wEDcRO8euitbgeGjBaZheRxlPhVGa=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ uống được vị trí đẹp cafe ổn chuỗi nguyễn 3-4 cửa hàng ở quận hai bà trưng hoàng mai có lượng khách ổn định",
+        "time": 1706851120,
+        "translated": false
+      },
+      {
+        "author_name": "Hanh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101374778282222352904/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5ZJlKgk4FbgHiySF3WTkmClJSIXNAB4Ch84Sbf7xsyR-dsw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán ở vị trí đẹp 2 mặt phố, không rộng nhưng có chỗ để xe máy.\nBạc xỉu nóng uống ngon, giá phải chăng. Có cốc nước lọc kèm theo không phải yêu cầu.\nPhục vụ nhiệt tình.",
+        "time": 1695984530,
+        "translated": false
+      },
+      {
+        "author_name": "Khắc Đức Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/109300226423798652365/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLU0hVyk5akUS2jRppksq6OBU9921svwjl0Cl5Qvh0USIJdhQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhân viên thái độ tốt , đồ uống chất lượng do bác pha chế nhỏ nhắn xinh xắn làm quá ok",
+        "time": 1767244348,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 274
+  },
+  "harvested_at": "2026-04-26T12:45:31.010741"
+}

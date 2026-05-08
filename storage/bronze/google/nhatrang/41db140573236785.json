@@ -1,0 +1,173 @@
+{
+  "u_key": "41db140573236785",
+  "original_osm_name": "Ramen Ichibanken",
+  "google_raw": {
+    "formatted_phone_number": "0795 467 028",
+    "geometry": {
+      "location": {
+        "lat": 12.2366878,
+        "lng": 109.194083
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2380302302915,
+          "lng": 109.1954031302915
+        },
+        "southwest": {
+          "lat": 12.2353322697085,
+          "lng": 109.1927051697085
+        }
+      }
+    },
+    "name": "一番軒 Ramen Ichibanken【Nha Trang】",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–21:30",
+        "Thứ Ba: 11:00–21:30",
+        "Thứ Tư: 11:00–21:30",
+        "Thứ Năm: 11:00–21:30",
+        "Thứ Sáu: 11:00–21:30",
+        "Thứ Bảy: 11:00–21:30",
+        "Chủ Nhật: 11:00–21:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Le Huy Son",
+        "author_url": "https://www.google.com/maps/contrib/106507095313180030801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUD3PK1KNopnKA3eAQYCzyLmoHu2hD4UFIgDSDMFRp9RuiF84Am2Q=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần này ăn ramen mới thật sự cảm nhận được vị chính hiệu. Những lần trước thì hoặc là ăn trúng quán làm chưa tới, hoặc là tiệm quen lại không nấu ramen nữa, cho nên mình chưa được nếm món ramen chính hiệu.\nNghe nói để nấu được một nồi ramen hầm xương heo kiểu tonkotsu cực kỳ công phu: xương heo phải được sơ chế kỹ rồi hầm liên tục nhiều giờ liền để nước dùng đạt độ béo, đậm và sánh đặc trưng. Còn một tô ramen hoàn chỉnh thì cũng không hề đơn giản, từ sợi mì tươi đúng độ dai, nước dùng chuẩn vị, đến thịt xá xíu, trứng lòng đào, rong biển và hành lá, mọi thứ phải kết hợp hài hòa mới ra đúng chất ramen Nhật.\nKhi trò chuyện với cô nhân viên, mình mới biết tiệm Ichibanken thuộc một chuỗi thương hiệu ramen rất nổi tiếng của Nhật. Mì được nhập trực tiếp từ Nhật, cách nấu tuân theo công thức nhượng quyền từ công ty mẹ, và chú chủ quán còn thường xuyên bay từ Nhật sang để kiểm tra chất lượng.\nVì vậy nên dù mới ăn lần đầu, mình đã thấy cực kỳ ưng ý.",
+        "time": 1770259985,
+        "translated": false
+      },
+      {
+        "author_name": "Mr Thien tv nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104594525699958446333/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUh-xVtZHOaVFrHbMyHGvSnBCl_6HuPXIVg-rcZEszuiiEFuFyX=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian nhỏ nhưng không quá chật chội, mì ngon vừa miệng, món đặt biệt thì đợi lâu một chút nhưng xứng đáng",
+        "time": 1771737501,
+        "translated": false
+      },
+      {
+        "author_name": "Uyên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105370241059582514076/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTELMCccFiykDm51o0w2PBkm6R78-j3a-jR7S6Je_ZxqWvflar=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán ăn ngon, nhân viên siêu dth 🫶🏼 hợp khẩu vị của mình lắm ạ",
+        "time": 1765542132,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Hiền Trâm",
+        "author_url": "https://www.google.com/maps/contrib/110129332868968239996/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPK5ZJM221OJ_oPGul2pbO_F3bde0HNG08saGuJUJeY6_uSx8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "đồ ăn ngon nhân viên dễ thương nhiệt tình, nước mì hơi mặn nên dặn nvien gia giảm lại để phù hợp với khẩu vị",
+        "time": 1765029404,
+        "translated": false
+      },
+      {
+        "author_name": "Dương nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112799456303927272973/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhBAPDzU7C38lUa5wpimsntTo6CeI4Y9G-4EyofO-PydoihA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mì hợp vị, 1 tô khá lớn, ăn 1 tô thôi là đủ no rồi. Nước dùng mì cay ngon, các bạn nên thử.\nP/s: bạn phục vụ Gia Hân nhiệt tình điều chỉnh khẩu vị mì cho mình đến khi vừa ý",
+        "time": 1765111878,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1208
+  },
+  "harvested_at": "2026-05-02T15:22:59.713877"
+}

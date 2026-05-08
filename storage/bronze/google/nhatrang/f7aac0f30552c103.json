@@ -1,0 +1,40 @@
+{
+  "u_key": "f7aac0f30552c103",
+  "original_osm_name": "View point",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2189818,
+        "lng": 109.2427766
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2205698802915,
+          "lng": 109.2437748802915
+        },
+        "southwest": {
+          "lat": 12.2178719197085,
+          "lng": 109.2410769197085
+        }
+      }
+    },
+    "name": "Sunset Viewpoint",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "pixel vietnam",
+        "author_url": "https://www.google.com/maps/contrib/109728597366535505519/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfQ4n8tc-Csf20n94_Fs85IIswPBv6H83-yJoQJeju8zlmbxRfSw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "2 tuần trước",
+        "text": "Để ngắm thành phố Nha Trang vào hoàng hôn không đâu đẹp bằng ngắm từ VinWonder nói chung và những điểm ngắm từ trên cao nơi đây. Hãy đến và tự cảm nhận cho mình. Từ 16h trở ra, bạn đã có thể có những bức ảnh đẹp với nhiêu khung hình và bố cục khác nhau",
+        "time": 1776071408,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-05-02T16:09:54.385647"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "c41a9f8a1690e298",
+  "original_osm_name": "Wie Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0398 514 044",
+    "geometry": {
+      "location": {
+        "lat": 12.2438309,
+        "lng": 109.1898592
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2451535302915,
+          "lng": 109.1911861802915
+        },
+        "southwest": {
+          "lat": 12.2424555697085,
+          "lng": 109.1884882197085
+        }
+      }
+    },
+    "name": "Wie Coffee and juice",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–17:30",
+        "Thứ Ba: 07:00–17:30",
+        "Thứ Tư: 07:00–17:30",
+        "Thứ Năm: 07:00–17:30",
+        "Thứ Sáu: 07:00–17:30",
+        "Thứ Bảy: 07:00–17:30",
+        "Chủ Nhật: 07:00–17:30"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Thu Hồng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111577087655706715980/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_Z1eaSQwSOg2eSiuNKrjTP0J_5zN-OlbcpouvCSWTpKLL-c_N=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Nước ngon nhé, giá cả này so với mặt bằng Nha Trang là hợp lý roài, nằm ngay ngã ba nên cũng dễ kiếm. Mình thích cafe muối ở đây, bạn mình thì thích nước cam ép, nguyên chất luôn.",
+        "time": 1727335794,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Phương",
+        "author_url": "https://www.google.com/maps/contrib/100510377697124834633/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDX4h6kfysYn3WbzaJTqqPiOntf-PnjOhid63T-moERHlIFCne=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán cf nhỏ nhưng chất lượng rất ok , đặc biệt là cf muối nên thử khi đến đây\nThe store coffee is small but good quality, and best seller is salter coffee, enjoy your drink hah",
+        "time": 1727313104,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Huỳnh",
+        "author_url": "https://www.google.com/maps/contrib/114228899327155472073/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXZXlU-i5X0gTHcZNnHOVI30h58KYBln5WkKvl2cus1Jzypdn0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán đẹp, thoáng mát. Đồ uống ngon so với tầm giá",
+        "time": 1727326711,
+        "translated": false
+      },
+      {
+        "author_name": "Trần Văn Luyện",
+        "author_url": "https://www.google.com/maps/contrib/102098621525569943923/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOl2gFhyvBswsEVaXM58uu-TTvQ9pKTPfhRAsL_l57Rrjesw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán đẹp. Nước ngon",
+        "time": 1727330798,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Mai",
+        "author_url": "https://www.google.com/maps/contrib/106352520148267329176/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEWpC3olgKKaNodhln6TLkbLvlPmuquZNo12Jg-5lagfKYdXdI4Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Xịn xò",
+        "time": 1727329160,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 27
+  },
+  "harvested_at": "2026-05-02T15:38:37.603536"
+}

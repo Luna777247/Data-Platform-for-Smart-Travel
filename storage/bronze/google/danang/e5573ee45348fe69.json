@@ -1,0 +1,223 @@
+{
+  "u_key": "e5573ee45348fe69",
+  "original_osm_name": "Quán Chay Hang Ngay",
+  "google_raw": {
+    "formatted_phone_number": "0903 585 114",
+    "geometry": {
+      "location": {
+        "lat": 16.0582838,
+        "lng": 108.211468
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0596247302915,
+          "lng": 108.2127647802915
+        },
+        "southwest": {
+          "lat": 16.0569267697085,
+          "lng": 108.2100668197085
+        }
+      }
+    },
+    "name": "Nhà hàng chay Shanti Vegan Đà Nẵng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–14:00, 16:00–21:00",
+        "Thứ Ba: 10:00–14:00, 16:00–21:00",
+        "Thứ Tư: 10:00–14:00, 16:00–21:00",
+        "Thứ Năm: 10:00–21:30",
+        "Thứ Sáu: 06:30–21:30",
+        "Thứ Bảy: 10:00–14:00, 16:00–21:00",
+        "Chủ Nhật: 10:00–14:00, 16:00–21:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Hoàng Ngọc Sơn",
+        "author_url": "https://www.google.com/maps/contrib/108242152418292076124/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnhhyJpQat8HtI3RiGOZQLwyt1R3JF-6-Wy-Yhbecp1KpVs4tY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, giá cả phải chăng, nhân viên phục vụ tốt, rất nhiệt tình, hoà đồng. Bối cảnh ở đây nhẹ nhàng, cảnh đẹp cho mọi người chụp ảnh, sẽ quay lại thêm lần nữa.",
+        "time": 1767854706,
+        "translated": false
+      },
+      {
+        "author_name": "Ho Dac Thu Uyen",
+        "author_url": "https://www.google.com/maps/contrib/108140488981110946398/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcgYJMUAllbRSbB6N8Ia-lrkIcAt-MR51zYVuQKy8xen1bcIsQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Các món ăn ở đây rất ngon, giống vị nhà. Không gian quán ấm cúng và hiện đại. Mình đi cùng bạn bè và rất thích, sẽ rủ thêm gia đình đến đây vào lần sau.",
+        "time": 1769927529,
+        "translated": false
+      },
+      {
+        "author_name": "Sami N",
+        "author_url": "https://www.google.com/maps/contrib/100206514593892625076/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLY8qlmuWRqpAnf4WLGYVMmv4CkYID0OMydQbCFHL6_LVcWYe0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán trang trí dễ thương, chỉn chu\nĐồ ăn gia vị vừa, hợp khẩu vị & tươi ngon\nKhông gian hơi bị chật chội nên cảm giác ngồi sẽ ko được thoải mái 1 tí, mặc dù bàn cũng nhỏ, nếu để cùng lúc 3 món thì sẽ hơi khó nè!\nDo ko gian phòng hơi chật, biết là quán để bạn nv đứng để hỗ trợ khách khi cần nhưng vì ko gian quá nhỏ nên cảm giác khi ăn sẽ hơi ko thoải mái, cảm giác như lúc nào cũng có người nhìn mình ấy 🥹",
+        "time": 1770380417,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Truonghanh",
+        "author_url": "https://www.google.com/maps/contrib/109671514685389053202/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpMQ2vmnyTqGRsBjWJ8RLvRzruweBiCmabMG1nVAnetoMJhlFs=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Lần đầu tiên ăn một quán chay mà ko chỉ đẹp về hình thức trang trí món ăn , decor quán cũng khá ấn tượng mà phải nói đồ ăn con làm rất ngon. Đặc biệt ghé quán nhớ thử món lẩu chao nha... chắc chăn sẽ quay lại để thử thêm nhiều món hơn vì menu quan rất đa dạng",
+        "time": 1763618774,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Huong",
+        "author_url": "https://www.google.com/maps/contrib/107658899084971002821/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8D4tUw0qY5Ef9fBB36B3hquaLgrqPu29DnhReRDaefoVGEl2C=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Biết đến Shanti Vegan qua một người bạn và trải nghiệm đáng nhớ cho một quán chay chỉnh chu.\n\nVề không gian: yên tĩnh và bố trí, trang trí hợp lý. Bàn cao rất dễ ngồi và toilet rất sạch sẽ. Ánh sáng ấm vàng 2700k tạo cảm giác thư thái. Những đồ decor thật sự là rất đầu tư ở góc độ người làm chủ.\n\nVề món ăn: Món ăn ngon, chất lượng. Khi được biết đó là hàng vegan thì giá không còn là vấn đề. Highly recommend cơm dừa, tàu hủ Bắc Kinh và gỏi chanh dây. Đồ ăn vừa vặn và bày trí đẹp, có sự đầu tư chi tiết. Bản thân thích ăn chay và đi ăn nhiều quán thì đánh giá cao món ăn tại quán nhen.\n\nVề dịch vụ: nhân viên thân thiện, chuyên nghiệp. Đón tiếp nồng hậu. Đặc biệt chủ quán không chỉ ở mức đến cho có đến mà nắm vững từng thông tin phản hồi cũng như am hiểu về món ăn. Chia sẻ với khách chân tình. Team mình đi 5 người được bố trí bàn ngồi ấm cúng hợp lý hợp với tính cách của nhóm.\n\nKhác: chỗ để xe dễ để, có điều hơi khuất nên cũng cần có bảng vẫy để có thể nhận diện từ xa.\n\nKết luận: highly recommend các bạn tìm một quán ăn thuần chay để ăn cùng gia đình, bạn bè và vào những dịp quan trọng.",
+        "time": 1768292053,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 386
+  },
+  "harvested_at": "2026-04-29T10:51:13.360275"
+}

@@ -1,0 +1,168 @@
+{
+  "u_key": "8a30834f05266825",
+  "original_osm_name": "Cayme restaurant",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0508802,
+        "lng": 108.2466585
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0522413802915,
+          "lng": 108.2480488302915
+        },
+        "southwest": {
+          "lat": 16.0495434197085,
+          "lng": 108.2453508697085
+        }
+      }
+    },
+    "name": "Cây Me Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:00",
+        "Thứ Ba: 07:00–22:00",
+        "Thứ Tư: 07:00–22:00",
+        "Thứ Năm: 07:00–22:00",
+        "Thứ Sáu: 07:00–22:00",
+        "Thứ Bảy: 07:00–22:00",
+        "Chủ Nhật: 07:00–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Justine Alaniz",
+        "author_url": "https://www.google.com/maps/contrib/114594111441460568145/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLB_TYlvYZmY_BF856j0mmDNtq4RZKhy2u6R7qjBDWTgzTONecV=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhân viên thân thiện nhất. Đồ ăn ngon. Luôn sẵn lòng giúp đỡ! Và bạn còn được tặng một quả chuối mang đi nữa. Gỏi cuốn tươi là ngon nhất mà chúng tôi từng ăn ở Việt Nam.",
+        "time": 1769161950,
+        "translated": true
+      },
+      {
+        "author_name": "khushiprk kp",
+        "author_url": "https://www.google.com/maps/contrib/115549604381102737279/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0lpJyV3RXqTiRFcq9EvFe6vOWY_79EXmNE2Jr2_38zwwNOUM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tôi đã ghé thăm nhà hàng dễ thương này vào tháng 9 năm ngoái (2024)... nhân viên rất thân thiện và đồ ăn rất ngon... hoàn toàn khuyên bạn nên đến thử... ❤️",
+        "time": 1758567570,
+        "translated": true
+      },
+      {
+        "author_name": "Leroy Julie",
+        "author_url": "https://www.google.com/maps/contrib/105989318999522233776/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkiH54QPYEvF1nnVk-v607h_lUHks8dHcu_4mOCnVfyjdXcA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn thực sự rất ngon và cô chủ rất nhẹ nhàng và chu đáo.",
+        "time": 1731637014,
+        "translated": true
+      },
+      {
+        "author_name": "Carlos Kalala",
+        "author_url": "https://www.google.com/maps/contrib/113398592285049035139/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzR7Jf8n5cIYSXef0JX5IrKwIjM44zPK-LbiBb4PPbZDiUSyKC=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "",
+        "time": 1758290083,
+        "translated": false
+      },
+      {
+        "author_name": "Isis Wittkamp",
+        "author_url": "https://www.google.com/maps/contrib/115410749902110413701/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmsnjv96f9CDj7cnPGlEn2tmMff9G_wd3TovdoKb_MhtYHl2wK=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1690529603,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 6
+  },
+  "harvested_at": "2026-04-29T09:48:06.455685"
+}

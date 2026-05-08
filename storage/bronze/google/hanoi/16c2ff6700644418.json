@@ -1,0 +1,174 @@
+{
+  "u_key": "16c2ff6700644418",
+  "original_osm_name": "Nhà Hàng Daluva",
+  "google_raw": {
+    "formatted_phone_number": "024 3718 5831",
+    "geometry": {
+      "location": {
+        "lat": 21.0686391,
+        "lng": 105.824252
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0700052302915,
+          "lng": 105.8256444302915
+        },
+        "southwest": {
+          "lat": 21.0673072697085,
+          "lng": 105.8229464697085
+        }
+      }
+    },
+    "name": "Daluva Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–22:00",
+        "Thứ Ba: 10:30–22:00",
+        "Thứ Tư: 10:30–22:00",
+        "Thứ Năm: 10:30–22:00",
+        "Thứ Sáu: 10:30–22:00",
+        "Thứ Bảy: 10:30–22:00",
+        "Chủ Nhật: 10:30–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "hihi",
+        "author_url": "https://www.google.com/maps/contrib/108978739016474599072/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXa1uzBkS2TW9DLtherdrspZfpWfhzdN2oGGeMgzDTa8jJWjA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "quán tủ của tui, tui siêu thích đế sourdough ở đây. 4cheese phải gọi là ngon hơn cả 4Ps. Trà hoa quả thì kh recommend lắm, hôm thì hoa quả để lâu nên trà bị mùi, hôm thì kh sao; nhưng quán cũng kh tính tiền cốc trà hoa quả để lâu kh tươi của mình.",
+        "time": 1772560703,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Lê",
+        "author_url": "https://www.google.com/maps/contrib/107502969824991413470/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4bsEUkmsDV26QBkSyPrZCxupnBIgKhfajCSQyrYt3b70Oa-hpng=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Mỳ cua ngon nha các bác. Thanh hơn 1 tý thì giống hệt 4P, nó đẫm sốt vs thịt cua ý. Là 1 người yêu mỳ cua tui thấy ngon hơn mỳ cua của Aam và union. Pizza đế mỏng, 4cheese ăn giống 4p lắm, hợp mật ong, còn hawaian thì mình thấy bt, ko ấn tượng, hơi nồng mùi dứa. Nước chanh tươi gọi vớ vẩn mà cũng ngon kiểu vị đơn giản của nhà pha, không bị ngọt quá. Chỗ đỗ xe cũng ổn\nĐiểm trừ lớn nhất là trước quán có mùi cống nồng lắm, nên mình đã bị rợn lúc bước vào. Không gian cũng khá bé, nên nếu như hôm nay mình đi thì không sao, còn đông hơn thì sẽ khá ồn và bí.\nGiá rổ cũng hợp lý, không bị đau ví như mấy quán khác. Sẽ quay lại nhiều",
+        "time": 1772367198,
+        "translated": false
+      },
+      {
+        "author_name": "Hường Thúy",
+        "author_url": "https://www.google.com/maps/contrib/111669588209468648775/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkAR8AdAIqgT9Sv8SNzjsR9vdxA8bWD8oOsBCRi0JgPbqloudt=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đi ăn theo review nhưng mà ko hề fail nha. Đồ gì cũng ngon. Pizza đế mỏng mềm dẻo như 4Ps, không gian ấm cúng nhưng hơi cũ. Nhà 3 người ăn chỗ này hết tầm 800k, thừa nửa cái pizza mang về",
+        "time": 1769489204,
+        "translated": false
+      },
+      {
+        "author_name": "Phuc Hoang",
+        "author_url": "https://www.google.com/maps/contrib/101075346285499914246/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmguHqOeX_9Azd8OLNgK7gAo_0oo0-5miLHtovPjPxKAGln3s=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "đồ ăn ngon giá hợp lý, pizza với mỳ ý ngon, món khoai tây sốt ăn dính lắm luôn. Tuyệt vời!!!!!",
+        "time": 1770223238,
+        "translated": false
+      },
+      {
+        "author_name": "Lan Anh Lê",
+        "author_url": "https://www.google.com/maps/contrib/117212795546196531909/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUESUypwX2muw6hSJPL53yIJQB97SYOo0IXjA18NEwAO2oDFGL1yg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Tổng quan: Điểm 10 cho chất lượng!\n\nĐồ ăn: Mình ăn pizza half & half hai vị pepperoni tỏi và heo muối oliu, hương vị đậm đà, đế bánh pizza đúng kiểu mềm dai, nướng chút xém, nó hoà quyện với topping cực kỳ. Mì cua ngon, nhiều sốt, bùng nổ hương vị thơm ngon của cua Cà Mau.\n\nKhông gian: Ấm cúng, cảm giác như sang nhà bạn chơi ấy. Bàn cho nhóm lớn hay ít người đều có. Nên đặt bàn trước, hoặc đi sớm một chút. Nhà vệ sinh trên tầng 2.\n\nGiá cả: Tổng bill của mình hết tầm hơn 400k, rất xứng đáng cho trải nghiệm ngon lành này. Nguyện seeding cho quán dài dài nếu giữ được phong độ.",
+        "time": 1759237739,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 532
+  },
+  "harvested_at": "2026-04-28T16:20:48.891816"
+}

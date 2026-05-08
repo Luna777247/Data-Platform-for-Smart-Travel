@@ -1,0 +1,173 @@
+{
+  "u_key": "f94e8cf9b92ead44",
+  "original_osm_name": "339 Restaurant and Bar",
+  "google_raw": {
+    "formatted_phone_number": "0767 194 074",
+    "geometry": {
+      "location": {
+        "lat": 16.0826849,
+        "lng": 108.2212587
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0839259302915,
+          "lng": 108.2226229302915
+        },
+        "southwest": {
+          "lat": 16.0812279697085,
+          "lng": 108.2199249697085
+        }
+      }
+    },
+    "name": "Gypsy Rooftop Restaurant & Bar",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–23:30",
+        "Thứ Ba: 17:00–23:30",
+        "Thứ Tư: 17:00–23:30",
+        "Thứ Năm: 17:00–23:30",
+        "Thứ Sáu: 17:00–23:30",
+        "Thứ Bảy: 17:00–23:30",
+        "Chủ Nhật: 17:00–23:30"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Nhã An Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111319695617397471082/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOCBV2IDCUd5RK2b1G_Uq9QsPD-qxjyHjDwwmobO_WPAXlUQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán mang phong vị Âu rất ngon, món ăn giữ được vị raw tự nhiên. Nhân viên take care cực kỳ chu đáo và dễ thương. Không gian lãng mạn, rất hợp cho những buổi hẹn hò hoặc ăn tối nhẹ nhàng",
+        "time": 1770647780,
+        "translated": false
+      },
+      {
+        "author_name": "Hang Dinh",
+        "author_url": "https://www.google.com/maps/contrib/116882802147535455559/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4Ln9WlnDDEtV9ArxO00UfqngNxLexOCl0Z-P8wuxBMpjGtYZFnw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn cực ngon, khung cảnh cực chill chill và lãng mạn. Không thể đòi hỏi thêm gì được.",
+        "time": 1771362391,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Chi",
+        "author_url": "https://www.google.com/maps/contrib/108890871234688225732/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_wdLeBKiBqEXcSTvEvdNKm408RBWwnmpYysR1iKApo1lIsQ5B=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Vị trí đẹp, không gian sang trọng, rộng rãi với nhiều lựa chọn chỗ ngồi, phù hợp với tất cả nhóm khách. Gypsy có cái rooftop view đỉnh luôn ạ, ngắm pháo hoa đẹp lắmmm.\n\nĐồ ăn ra nhanh 😚 Rất ưng ý luôn ạ. Nhân viên chu đáo và lịch sự 🫶🏻 Mình rất hài lòng!",
+        "time": 1756183532,
+        "translated": false
+      },
+      {
+        "author_name": "NGÂN THANH",
+        "author_url": "https://www.google.com/maps/contrib/114329522891747522618/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoA4Z-aY8Hy-TmuiIwnw00md2agDJXESvtj75-iHc_MfyxBQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Tạm ổn. Tráng miệng của mình không ngon, cảm giác như dùng đào đóng hộp.\nNhân viên nữ áo đen (chắc là quản lý)  mặt hơi khó chịu ( chắc do cơ địa haha) , mình gọi cũng không nghe hơi lơ là.",
+        "time": 1754752648,
+        "translated": false
+      },
+      {
+        "author_name": "Cẩm Ly Hồ Thị",
+        "author_url": "https://www.google.com/maps/contrib/105848498445958815515/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIifeUlkcZctCACxOs0YqGfNKgpkWeJRJQLMKhyZctSNCpi1A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Lần đầu trải nghiệm, nhưng đồ ăn khá hợp khẩu vị, view đẹp. Đặc biệt nhân viên rất thân thiện và giải thích món ăn khi có. Món pasta ngonnn đáng thử.",
+        "time": 1743998811,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2182
+  },
+  "harvested_at": "2026-04-29T09:46:42.419948"
+}

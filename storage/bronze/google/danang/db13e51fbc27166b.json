@@ -1,0 +1,89 @@
+{
+  "u_key": "db13e51fbc27166b",
+  "original_osm_name": "the Dublin Gate",
+  "google_raw": {
+    "formatted_phone_number": "0235 3939 988",
+    "geometry": {
+      "location": {
+        "lat": 15.8925345,
+        "lng": 108.3609833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8939272802915,
+          "lng": 108.3622751302915
+        },
+        "southwest": {
+          "lat": 15.8912293197085,
+          "lng": 108.3595771697085
+        }
+      }
+    },
+    "name": "The Dublin Gate Irish Pub Hoi An",
+    "rating": 3.7,
+    "reviews": [
+      {
+        "author_name": "Phượng Trần",
+        "author_url": "https://www.google.com/maps/contrib/105096846612003928157/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZnwjCz38mBkNemM-TuhjphKAv_DfuzNv8KezN8ZpxI5yjMrAMWA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Thức uống rất ngon ,đồ ăn cũng vậy .Phục vụ tốt .Buổi tối có nhạc sống .",
+        "time": 1532575506,
+        "translated": false
+      },
+      {
+        "author_name": "Truong Vo (MIN)",
+        "author_url": "https://www.google.com/maps/contrib/109500726886438013864/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpLprcoyQud7_UZrgRKh-xoQVKaDWZbQfQUGeljaHGKea98rlH=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Nhạc hay, nhân viên phục vụ ko hiểu rõ về menu lắm",
+        "time": 1519537525,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Vinh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107904667034588088568/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJl6NT0-_tpFgp970jREBI4l5MAUpkj_nAtd3yjbPUC7EHb_w=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "9 năm trước",
+        "text": "Tốt cho khách nước ngoài",
+        "time": 1480336473,
+        "translated": false
+      },
+      {
+        "author_name": "Gao Lovels",
+        "author_url": "https://www.google.com/maps/contrib/118343132752318066208/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4PZH9krwGsU8OWT0MNkhsZLfZUkDaZomHCHtMzb7tvkRU_4v5JA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Nhạc hay",
+        "time": 1519728234,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Tuấn",
+        "author_url": "https://www.google.com/maps/contrib/117859692940392894156/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeLBMQZZLCxY0UAKNK2ng-fXScYmWuxreKX92jqvaRRq1fvu7e=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "rất thú vị",
+        "time": 1500631182,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 170
+  },
+  "harvested_at": "2026-04-29T09:38:40.557080"
+}

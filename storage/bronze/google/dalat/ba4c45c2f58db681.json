@@ -1,0 +1,173 @@
+{
+  "u_key": "ba4c45c2f58db681",
+  "original_osm_name": "Cafe Bin Bin",
+  "google_raw": {
+    "formatted_phone_number": "0906 819 295",
+    "geometry": {
+      "location": {
+        "lat": 11.9385246,
+        "lng": 108.4380427
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9399274302915,
+          "lng": 108.4393431302915
+        },
+        "southwest": {
+          "lat": 11.9372294697085,
+          "lng": 108.4366451697085
+        }
+      }
+    },
+    "name": "Chốn Bình Yên Coffee - Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–00:00",
+        "Thứ Ba: 07:00–00:00",
+        "Thứ Tư: 07:00–00:00",
+        "Thứ Năm: 07:00–00:00",
+        "Thứ Sáu: 07:00–00:00",
+        "Thứ Bảy: 07:00–00:00",
+        "Chủ Nhật: 07:00–00:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Tea Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/106875741905339577733/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVshQcq88ktZp3B6Ur3UcmO984QWO812-8T-s4Mal1Xv43kPQwQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đúng là chốn bình yên luôn, ko gian rộng, nhìu option trong nhà - ngoài trời.\nQuán có concept chụp hình theo mùa nữa nha.\nNước ngon, bạn NV thu ngân dễ thương lém.\nNên ghé nhó",
+        "time": 1769091515,
+        "translated": false
+      },
+      {
+        "author_name": "Đạt Nguyễn Thành",
+        "author_url": "https://www.google.com/maps/contrib/113076456702393874260/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJmB9_h-TuH_m5GWkNvAhih6-VcJP1s8T4A5s7Vsvc3Dgn9qBtaA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán cà phê hoàn hảo, trang trí đẹp, cà phê ngon, vị trí trên cao nhìn toàn cảnh hồ Xuân Hương và đặc biệt như tên quán là bình yên.",
+        "time": 1768964247,
+        "translated": false
+      },
+      {
+        "author_name": "Bảo Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/106233859789568296754/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI5lYkkoM01QC5gdGvQ-3mN7ExLQD1hyfJ9DUvxpCL7bbOM-S1Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "View quá đẹp, chụp tháp efen kh phải chen. Nước ngon với không gian chill",
+        "time": 1767349724,
+        "translated": false
+      },
+      {
+        "author_name": "Huynh Tien Sy",
+        "author_url": "https://www.google.com/maps/contrib/108790227578357320268/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrLHyXXpxv2UmqTmZQqsX9NVcpPcIrXsBygMRBlUsd0Pxq0A=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán tầng 6 của ks, view hồ buổi tối khá đẹp nhưng rất lạnh, đồ uống bình thuờng, giá hơi cao...",
+        "time": 1767335219,
+        "translated": false
+      },
+      {
+        "author_name": "Trúc Uyên Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/107721594992235745889/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLi4i_zYCA1y40qqzcJm9Uadeab5FYS804eDbZrKLZVgHpRvQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nằm trên sân thượng Park Hotel.\nĐậu xe đối diện khách sạn.\nVào tầng hầm bấm thang máy lên tầng 7.\nKhông gian quán ấm áp, lãng mạn, khá chill.\nGiá nước theo mình là khá rẻ so với vị trí, không gian quán.\nNhân viên thân thiện.\nTối t7 cn có \"Đêm nhạc Chốn bình yên\" có band nhạc hát live rất chill nha.\nView quán cực đẹp, có thể nhìn thấy chợ đêm, khu Hoà Bình, hồ Xuân Hương, nhạc nước, tháp Eiffef Đà Lạt.\nNgồi trên cao nên hơi lạnh.\nSẽ ghé nhiều lần.",
+        "time": 1742739394,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1001
+  },
+  "harvested_at": "2026-04-30T15:06:21.985911"
+}

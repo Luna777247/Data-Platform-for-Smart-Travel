@@ -1,0 +1,233 @@
+{
+  "u_key": "ac54019881bcc261",
+  "original_osm_name": "Cơm gà sườn que số 66 củ chi",
+  "google_raw": {
+    "formatted_phone_number": "0911 024 988",
+    "geometry": {
+      "location": {
+        "lat": 12.2404997,
+        "lng": 109.1890016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2418332302915,
+          "lng": 109.1903867302915
+        },
+        "southwest": {
+          "lat": 12.2391352697085,
+          "lng": 109.1876887697085
+        }
+      }
+    },
+    "name": "Cơm Tấm Sườn Que 63",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–14:00, 16:00–19:00",
+        "Thứ Ba: 07:00–14:00, 16:00–19:00",
+        "Thứ Tư: 07:00–14:00, 16:00–19:00",
+        "Thứ Năm: 07:00–14:00, 16:00–19:00",
+        "Thứ Sáu: 07:00–14:00, 16:00–19:00",
+        "Thứ Bảy: 07:00–14:00, 16:00–19:00",
+        "Chủ Nhật: 07:00–14:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "TH P",
+        "author_url": "https://www.google.com/maps/contrib/110276187300240574465/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSsM69XSUlm3h-53qM124mEID0HctYrHPnB9ehVuP4hMvQFg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Cơm ăn được, chỗ ngồi hơi ngột ngạt, có canh rong biển ăn kèm, 1 phần như đĩa 38k",
+        "time": 1762734426,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Lê Trường",
+        "author_url": "https://www.google.com/maps/contrib/116523080616838555065/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIje0Xh9iK2396Qv9XykCjd5pvTAdCnjb4GT8GafpHcle3fUw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Tôi là một khách hàng quen thuộc, ăn thường xuyên trong tuần. Nhưng dạo gần đây phần ăn bị ít đi. Sáng nay tôi mua hộp sườn que với giá 35k, hộp cơm có 2 cây sườn rất ít thịt và chỉ là xương và gân. Hơi thất vọng.",
+        "time": 1772682649,
+        "translated": false
+      },
+      {
+        "author_name": "Tùng Túng Tung",
+        "author_url": "https://www.google.com/maps/contrib/113404236155306847261/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUFtVTAjlTonvJH6JEUEWMm4CDFLOt_-fpv8iKC7P-YROftmfPjA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cơm sườn bình dân giá cả hợp lý so với khẩu phần và vị.\nGiá 1 phần sườn que 35k\nKhông gian bình dân nên hơi nóng xíu\nQuán nhỏ có tầm 6 bàn, không phù hợp khi đi nhóm quá đông\n\nQuá có free trà đá",
+        "time": 1729964834,
+        "translated": false
+      },
+      {
+        "author_name": "Dinh Trong Duy Tommy",
+        "author_url": "https://www.google.com/maps/contrib/103734337465415065928/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJgN_6ATv5JDJUccOo2ktRjYyZF4zUER1P_QGWD_IadEgFINRR=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Vị trí quán thuận tiện\n\nĐồ ăn vừa miệng. Thịt nướng trực tiếp tại quán, mùi thơm hấp dẫn\n\nGiá cả bình dân",
+        "time": 1746106567,
+        "translated": false
+      },
+      {
+        "author_name": "Quân Nguyễn Anh",
+        "author_url": "https://www.google.com/maps/contrib/110478531057523891180/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUxY6kqyx8rYsM0KX1qCHu0dzeag3mWV2HUaii6VQf-nPxDpM=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Siêu ngon, đảm bảo chất lượng giá phải chăng.\nKhông gian phía trong rộng rãi mà vì nướng sườn nên vẫn hơi khói một chút",
+        "time": 1758686508,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 134
+  },
+  "harvested_at": "2026-05-02T15:29:59.429560"
+}

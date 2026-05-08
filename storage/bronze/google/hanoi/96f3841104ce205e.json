@@ -1,0 +1,172 @@
+{
+  "u_key": "96f3841104ce205e",
+  "original_osm_name": "Nuoc Mia Hang Dieu",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0320976,
+        "lng": 105.8468991
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0334550302915,
+          "lng": 105.8482141802915
+        },
+        "southwest": {
+          "lat": 21.0307570697085,
+          "lng": 105.8455162197085
+        }
+      }
+    },
+    "name": "Quán Nước Mía Hàng Điếu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–23:00",
+        "Thứ Ba: 09:00–23:00",
+        "Thứ Tư: 09:00–23:00",
+        "Thứ Năm: 09:00–23:00",
+        "Thứ Sáu: 09:00–23:00",
+        "Thứ Bảy: 09:00–23:00",
+        "Chủ Nhật: 09:00–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Văn Nguyễn Đình",
+        "author_url": "https://www.google.com/maps/contrib/110999064163693995940/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUi2zCoGZAqUvamV4BJpPaaL6I5DTTatZLdpgiS1IG8cNW8_Zzg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Uống từ những năm 2016 khi lần đầu ra Hà Nội và được giới thiệu ở đây\n\nQuán vẫn luôn ngon, phục vụ nhanh nhẹn và nhiệt tình\n\nHầu hết là bán mang đi và có thanh toán QR code nha",
+        "time": 1768567439,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Bao",
+        "author_url": "https://www.google.com/maps/contrib/107744776956404844946/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSqO8c_ip-wDLI5qJ71LJf_1GyaBvTZqzLVrOHHCfPF_cq7VWJ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán nước mía nổi tiếng phố cổ, giá cũng hơi mắc so với các quán còn lại. Nhưng thơm, ngon, mía chất, quất tươi. Uống nước mía tốt cho sức khoẻ và phục hồi tế bào khuyết gãy nhé các bạn. Nên chăm uống nước mía.",
+        "time": 1744244429,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Đoàn",
+        "author_url": "https://www.google.com/maps/contrib/110722134807214397698/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJu5q54u79T80Jw6koD40FJxE-qqdHWWZFtnJ8z87V2NRIeoj0=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán chè, tào phớ thạch trân châu đúng phong cách xưa. Ngon, nước thanh, thơm mùi hoa nhài. Nhà cô bán đến tối đêm muộn nên ko lo qua muộn quá còn ko ạ. Thích ăn ở đây vì ko quan đường phố, tối ngồi ít xe qua lại, gió thổi hiuhiu. Mà cả quán thơm lừng mùi hoa nhài, phê dã man 🌸🌸🌸",
+        "time": 1721229995,
+        "translated": false
+      },
+      {
+        "author_name": "Bach Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/116985514605165744873/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxrYB5Zx0urXI8GZnGWS_X_xSVN2GTvaD9AaYmzlnNttMN=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Ly nước mía ở đây có vị ngọt dịu, không gắt, với lớp bọt dày mịn, tạo cảm giác tươi mới ngay từ ngụm đầu tiên. Đá xay nhuyễn giúp nước mía luôn mát lạnh, cực kỳ hợp để giải khát giữa phố phường tấp nập. Quán nhỏ, phục vụ nhanh, giá cả hợp lý, là điểm dừng chân lý tưởng cho ai cần một ly nước mía chất lượng.\n\nTuy nhiên, vì nằm ở khu vực đông đúc, chỗ ngồi có phần hạn chế, thường phải mua mang đi.",
+        "time": 1741430952,
+        "translated": false
+      },
+      {
+        "author_name": "Alex Pham",
+        "author_url": "https://www.google.com/maps/contrib/109993114487052644879/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQJ-dn9CvDyDDhJTwb4fk6A8Nj0rmRxJ6vdYYhuqbengRhLhla=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Sấu đá ngon, mát 🥰 sấu xào hơi lạ miệng nhưng ăn nhanh dễ ngán. Chè bưởi ngon topping nhiều, tào phớ nhanh hết sớm nên chưa được ăn🥲",
+        "time": 1749876299,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 65
+  },
+  "harvested_at": "2026-04-27T19:57:52.880656"
+}

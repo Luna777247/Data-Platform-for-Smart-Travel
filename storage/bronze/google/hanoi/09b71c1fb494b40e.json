@@ -1,0 +1,173 @@
+{
+  "u_key": "09b71c1fb494b40e",
+  "original_osm_name": "Cà Phê Gotham",
+  "google_raw": {
+    "formatted_phone_number": "0796 276 666",
+    "geometry": {
+      "location": {
+        "lat": 21.0527393,
+        "lng": 105.8081039
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.05412418029151,
+          "lng": 105.8094879302915
+        },
+        "southwest": {
+          "lat": 21.0514262197085,
+          "lng": 105.8067899697085
+        }
+      }
+    },
+    "name": "The Gotham",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0259"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 17:00–02:00",
+        "Thứ Ba: 17:00–02:00",
+        "Thứ Tư: 18:00–02:59",
+        "Thứ Năm: 18:00–02:00",
+        "Thứ Sáu: 18:00–02:00",
+        "Thứ Bảy: 18:00–02:00",
+        "Chủ Nhật: 18:00–02:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Hiền Trần",
+        "author_url": "https://www.google.com/maps/contrib/110570223743966408468/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIknKg0zQ5wwcVvSsve_JhKx9LKTCq5Ze4zX0VUoeEetgN-GA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán nhỏ nhỏ xinh xinh lấy màu đỏ làm tone chủ đạo, đồ uống giá cả hợp lý và có nhiều chương trình khuyến mãi (tùy ngày). Mình tửu lượng thấp nhưng thấy trải nghiệm khá tốt. Nhân viên xinh trai hài hước lắm heh",
+        "time": 1757667198,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Phương Đinh",
+        "author_url": "https://www.google.com/maps/contrib/109451675655020559787/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEt3bqjKQoMlmg_FH0sMx4UgwPd4UAXHuVitT2pKJ00lFF8vHK=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán nhỏ như một dấu lặng giữa phố xá ồn ào. Vừa đủ tối để cất những mệt mỏi, vừa đủ ấm để người ta không thấy cô đơn. Có những nơi đi một lần là nhớ, có những quán đi mãi vẫn thấy như lần đầu. Đây là kiểu thứ hai.\n\nMỗi ly cocktail ở đây không chỉ có vị, mà còn có cảm. Cảm giác như uống một buổi tối dịu dàng, có gió và có người lắng nghe. Đồ uống không cần phức tạp, chỉ cần đúng lúc, đúng tâm trạng – và ở đây, ly nào cũng đúng. Uống ở đây quen tới mức chẳng cần menu. Bartender chỉ cần nhìn ánh mắt là biết hôm nay mình cần vị gì.\n\nTôi từng nghĩ một ly cocktail chỉ là nước pha cồn, cho đến khi uống ở đây. Đó là lần đầu tiên tôi hiểu cảm giác một thứ đồ uống có thể mang lại ký ức. Không phải vị ngon khiến tôi quay lại, mà là cảm giác được yên ổn trong một góc nhỏ – nơi tôi biết rằng mình có thể ngồi đó thật lâu, không nói gì, và vẫn được chào bằng một nụ cười quen",
+        "time": 1746882388,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Anh Mỹ",
+        "author_url": "https://www.google.com/maps/contrib/102978229081078512176/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6HutkY7eaY4B2qftleCsC3REcfyUdV0hMPYmQhzeqSbT8ZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán khá dễ tìm, đồ uống ngon, bartender vui và chiều khách ☺️ +1 quán sẽ quay lại",
+        "time": 1771616768,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Anh Cao",
+        "author_url": "https://www.google.com/maps/contrib/110907874069048147429/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdxTJpO7ElODkDLekWBK_HUo7-HTjkx1xx6aqp0YJNGIIOBT4=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Quán thiếu mỗi bế khách thôi chứ cần gì cũng chiều 😌 Không gian đẹp, bánh ngon, cocktail mocktail đều hợp khẩu vị lứm nha vì được lựa theo vị mình mún lun á. Thanh toán bill đứng hình nhẹ vì giá hợp lí mà ngồi lê la lâu vch mới chịu về 💯",
+        "time": 1746508525,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Pham Nhat",
+        "author_url": "https://www.google.com/maps/contrib/118277299461710305795/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7pLm8UK5GqmBdUotflVhi_YhIWqu9TjXxXXmIXu2heLl8LA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Muốn đánh giá 1 sao vì tôi không vui thấy quán yêu thích của mình đông khách quá hết cả chỗ ngồi 😃",
+        "time": 1761028079,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 122
+  },
+  "harvested_at": "2026-04-26T16:53:12.669612"
+}

@@ -1,0 +1,50 @@
+{
+  "u_key": "9df1ef3fdc75d8ee",
+  "original_osm_name": "Nhà Riêng",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 9.7781802,
+        "lng": 105.4668545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 9.779691830291501,
+          "lng": 105.4683217802915
+        },
+        "southwest": {
+          "lat": 9.776993869708496,
+          "lng": 105.4656238197085
+        }
+      }
+    },
+    "name": "Nhà riêng.",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "systembliss",
+        "author_url": "https://www.google.com/maps/contrib/108237264447084471427/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPVwskX_tpO5RTnpAl_aYeDL9xjIgoMO52YB9d3TA2sQ22aUXa=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tuần trước",
+        "text": "Một Ngày Tốt Lành.",
+        "time": 1775651670,
+        "translated": false
+      },
+      {
+        "author_name": "Thinh Huynh",
+        "author_url": "https://www.google.com/maps/contrib/112985852607759341425/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3xzsN72_1P1xBUnxjWOem06CFS1MLRoURbLde8twMJIkeQg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tuần trước",
+        "text": "",
+        "time": 1776684542,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-30T16:05:17.757408"
+}

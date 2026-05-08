@@ -1,0 +1,40 @@
+{
+  "u_key": "dc5ef8cba5bf13e9",
+  "original_osm_name": "Hoa Tu",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 16.0558173,
+        "lng": 108.239641
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0572000302915,
+          "lng": 108.2409998302915
+        },
+        "southwest": {
+          "lat": 16.0545020697085,
+          "lng": 108.2383018697085
+        }
+      }
+    },
+    "name": "Tạp Hóa Tư Phước",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Uyên Thanh",
+        "author_url": "https://www.google.com/maps/contrib/117886976439570375570/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPPBhNsxL-UoGEgeoquEP3BJOSiwIRY6LzHjiFlnt7bBPxdw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Được rồi",
+        "time": 1724479801,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-29T09:45:11.855742"
+}

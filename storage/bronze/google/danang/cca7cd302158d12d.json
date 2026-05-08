@@ -1,0 +1,173 @@
+{
+  "u_key": "cca7cd302158d12d",
+  "original_osm_name": "Bao Phuong",
+  "google_raw": {
+    "formatted_phone_number": "0905 055 591",
+    "geometry": {
+      "location": {
+        "lat": 15.8749922,
+        "lng": 108.3282507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8763191302915,
+          "lng": 108.3296192302915
+        },
+        "southwest": {
+          "lat": 15.8736211697085,
+          "lng": 108.3269212697085
+        }
+      }
+    },
+    "name": "Nhà Hàng Bảo Phương",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:00",
+        "Thứ Ba: 09:00–21:00",
+        "Thứ Tư: 09:00–21:00",
+        "Thứ Năm: 09:00–21:00",
+        "Thứ Sáu: 09:00–21:00",
+        "Thứ Bảy: 09:00–21:00",
+        "Chủ Nhật: 09:00–21:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Hui-Fang Wu",
+        "author_url": "https://www.google.com/maps/contrib/106535339995078407837/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRNsrkzVgLMKqMjmiePMuB6oizlNUr5qJvE9nJv7nBl7BIG8sW=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cô chú chủ quán rất thân thiện và tốt bụng, đồ ăn ngon, giá cả hợp lý. Quán có bia tươi Huda giá rẻ và nhiều loại nước trái cây",
+        "time": 1720220637,
+        "translated": false
+      },
+      {
+        "author_name": "minh quang mai vu",
+        "author_url": "https://www.google.com/maps/contrib/111367523670629220026/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNxrDngI8V5h_IiH1swUAndSABn5EG4fZFNp7cZDn726yidcQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, chủ quán thân thiện, nhiệt tình",
+        "time": 1723391327,
+        "translated": false
+      },
+      {
+        "author_name": "Phan Viết Thắng",
+        "author_url": "https://www.google.com/maps/contrib/110311051639156389335/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOc-fQExdCcs5PPBcl16Hb4MDlpbtaYAnMxHn71S7TaQ62kZSv=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Rât tôt",
+        "time": 1529491008,
+        "translated": false
+      },
+      {
+        "author_name": "Ismael Lacoste",
+        "author_url": "https://www.google.com/maps/contrib/111186911354257718176/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7Nj4dkZS_Ls5Yw0o2X0q-LnpM4U92C7XhGWy1tut0Rx6rng=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "người không trung thực",
+        "time": 1684850028,
+        "translated": false
+      },
+      {
+        "author_name": "Professor Cat_Digital_Nomad",
+        "author_url": "https://www.google.com/maps/contrib/118307154365939258211/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXS0LB3ZnCPO_mgdexRZZIc4xftsiKWeuKuk1Gn-F1AnxL5uOe=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ẩm thực Việt Nam chính hiệu. Điều tuyệt vời nhất là đây là một quán ăn gia đình nhỏ nhưng phục vụ những món ăn ngon không kém gì các nhà hàng trong phố cổ với giá gấp 2-3 lần. Tôi đã quay lại đây nhiều lần trong suốt 10 ngày ở Hội An. Hãy chuẩn bị tinh thần, mỗi món ăn đều được làm theo yêu cầu, vì vậy thời gian chờ đợi khá lâu nhưng hoàn toàn xứng đáng. Chả giò có lớp vỏ giòn truyền thống của Việt Nam, nhân nấm, rau và thịt heo băm, cùng nước chấm đậm đà. Tôi rất thích món súp gà với nước dùng nóng hổi, ​​thịt gà xé nhỏ và một ít cơm ở dưới đáy. Đừng bỏ qua món cơm gà. Đó là cơm gà kiểu Việt với đu đủ, hành phi, thịt gà và cơm màu vàng (tôi nghĩ là nghệ). Trộn đều tất cả các nguyên liệu như được hướng dẫn. Bánh xèo được làm thủ công, giòn tan bởi chính bà chủ/đầu bếp ở phía sau, nhân tôm/thịt heo và bạn có thể dùng rau và các loại rau thơm để cuốn vào bánh tráng và chấm với nước mắm. Ngon tuyệt. Thêm một ly sinh tố trái cây nữa là bạn có thể có một món chính, đồ uống và món khai vị với giá chỉ 5-6 đô la Mỹ hoặc ít hơn. Rất nên thử cách này thay vì chen chúc ở khu phố du lịch.",
+        "time": 1771415965,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 391
+  },
+  "harvested_at": "2026-04-28T16:41:57.289089"
+}

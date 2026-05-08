@@ -1,0 +1,173 @@
+{
+  "u_key": "f161f194d725760c",
+  "original_osm_name": "Rue Lamblot",
+  "google_raw": {
+    "formatted_phone_number": "024 3824 3555",
+    "geometry": {
+      "location": {
+        "lat": 21.0306587,
+        "lng": 105.848691
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03200598029151,
+          "lng": 105.8500944302915
+        },
+        "southwest": {
+          "lat": 21.0293080197085,
+          "lng": 105.8473964697085
+        }
+      }
+    },
+    "name": "Rue Lamblot Restaurant & Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Trang Cao",
+        "author_url": "https://www.google.com/maps/contrib/106825712179796764339/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsp4fpf4w0y2GfqkJLkKeFFv2T3prI-Iy5cUlh1GRVcpffcprWIA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Không gian nhà hành sạch sẽ và ấm cúng, nhân viên nhiệt tình thân thiện đồ ăn rất đặc sắc và ngon, gia đình mình sẽ còn quay lại trải nghiệm 10 điểm cho nhà hàng",
+        "time": 1763541438,
+        "translated": false
+      },
+      {
+        "author_name": "ALi Văn",
+        "author_url": "https://www.google.com/maps/contrib/104806763606649288514/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2BfHm0t1XRKhl7OzOUoEWAecaVpdhdTua73YKCVDDvQgs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn rất ngon , trình bày đẹp\nKhông gian phong cách kiểu pháp xưa đậm tính lịch sử",
+        "time": 1766659469,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101108912528275823440/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLyWV1BXeHoXSI7jdRhCX9wavwEu8AjRx9xGMi25DpLxfboQ3p=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Good !!\nĐồ ăn ngon\nKhông gian ấm cúng như gia đình\nThưởng thức cùng âm nhạc nhẹ nhàng",
+        "time": 1766547812,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Văn Hạ",
+        "author_url": "https://www.google.com/maps/contrib/116664535618832653468/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV42X5pzHSSqqbxV1CE7n8bib0L4g_v7EPg0Z-j6ogoJ-WhnBys7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Đồ ăn ngon, dịch vụ rất tốt. Khuyến khích",
+        "time": 1582210612,
+        "translated": false
+      },
+      {
+        "author_name": "Phuc Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111471087687464598418/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc8xZMgvpzaamX1oO6m3TUv-HIXvy4nGx8S3ShO1b78ZM8f1Q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "đồ ăn ngon chỗ ngồi như gd",
+        "time": 1765783989,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 253
+  },
+  "harvested_at": "2026-04-28T16:20:59.241191"
+}

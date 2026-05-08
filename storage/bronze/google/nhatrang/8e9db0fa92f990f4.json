@@ -1,0 +1,90 @@
+{
+  "u_key": "8e9db0fa92f990f4",
+  "original_osm_name": "titi",
+  "google_raw": {
+    "formatted_phone_number": "0976 092 471",
+    "geometry": {
+      "location": {
+        "lat": 12.2439938,
+        "lng": 109.187507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2453671302915,
+          "lng": 109.1887336302915
+        },
+        "southwest": {
+          "lat": 12.2426691697085,
+          "lng": 109.1860356697085
+        }
+      }
+    },
+    "name": "TiTi French Restaurant",
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Thắng Trần",
+        "author_url": "https://www.google.com/maps/contrib/101031979861703969286/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcIhB5WpmE1U27wOGzOOu623gI-u55OvoF8E5xODZjmHPs=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn ngon - nhưng khẩu vị mình thì nhạt\nGiá mềm so với mặt bằng.\nĐồ ăn ra nhanh - nhân viên thân thiện.",
+        "time": 1713357930,
+        "translated": false
+      },
+      {
+        "author_name": "Vi Tran",
+        "author_url": "https://www.google.com/maps/contrib/113484983909776780821/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInJX0zG4ETJVLpPlJPxylbPnl-ASHGjsnSDFoVLXL8J3_yCA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 năm trước",
+        "text": "Gọi 2 phần bò mỹ 1 phần bò lúc lắc. Bò lúc lắc thì k có ớt chuông. Sao ko để tên là bò xào củ hành cho lẹ. Bò mỹ thì dai nhách, mỹ ở đây là mỹ tho hả. Quán mua đánh giá trên gg đó đừng ăn má ơi dở ăn xong tức trong người =)))",
+        "time": 1713535011,
+        "translated": false
+      },
+      {
+        "author_name": "Henry Tan",
+        "author_url": "https://www.google.com/maps/contrib/107184534485785767030/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCbeZ8PFvtl5MfLLj-smeQucGHFqJypUpW9adfsg20TonJpZ8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ ăn ok nhưng cảm giác vị không bằng ở Sài Gòn. Quán đóng cửa hơi sớm.",
+        "time": 1668646609,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Anh",
+        "author_url": "https://www.google.com/maps/contrib/101713182947448661913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL41DtotopEJ9VrQDw5km9kxVnEOxvC-DW2HikkjSHieYAt1Ak=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Đồ ăn ngon, nhân viên phục nhiệt tình 👍 Hãy ghé thử nếu có dịp nhé 🤟",
+        "time": 1563012090,
+        "translated": false
+      },
+      {
+        "author_name": "Quynh Tram Duong",
+        "author_url": "https://www.google.com/maps/contrib/112556934937082524298/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOlMZcJH_CpcV9obe1kEtr9U5nyvEkhYnMVuRR_1rZEhfoLAOU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Thịt cừu sôt bbq ngon, mềm; thịt bò mỹ hơi dai, gia vị ổn; đùi gà xông khói chiên giòn thịt hơi dai, gia vị ổn; salad cá ngừ ngon nhưng mà rau để lá hơi to. Nhìn chung đồ ăn tốt so với giá tiền, nên đến ăn thử.",
+        "time": 1552135001,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 282
+  },
+  "harvested_at": "2026-05-02T15:34:41.286668"
+}

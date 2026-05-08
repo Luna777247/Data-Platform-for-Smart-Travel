@@ -1,0 +1,174 @@
+{
+  "u_key": "3db2903436820eb3",
+  "original_osm_name": "Soup kitchen",
+  "google_raw": {
+    "formatted_phone_number": "0846 599 595",
+    "geometry": {
+      "location": {
+        "lat": 21.0313361,
+        "lng": 105.8489722
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0326610802915,
+          "lng": 105.8503381302915
+        },
+        "southwest": {
+          "lat": 21.02996311970849,
+          "lng": 105.8476401697085
+        }
+      }
+    },
+    "name": "Tung's Kitchen Vietnamese Cuisine & Vegetarian Food",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:30",
+        "Thứ Ba: 10:00–22:30",
+        "Thứ Tư: 10:00–22:30",
+        "Thứ Năm: 10:00–22:30",
+        "Thứ Sáu: 10:00–22:30",
+        "Thứ Bảy: 10:00–22:30",
+        "Chủ Nhật: 10:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "pore SINGA",
+        "author_url": "https://www.google.com/maps/contrib/102295186202276175811/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULd0nfCSqwJxfj_lwr4fUav_RV4n9Cx5t4u163QFaYCitMGZPA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Từ HCM ra hà nội chơi vô tình ghé cửa hàng ăn tạm nhưng không ngờ ngon và vừa miệng ăn sạch hết mới chụp mọi người có ra hà nội ghé cửa hàng trải nhiệm nhé. Các bạn phục vụ rất nhiệt tình luôn hỏi ăn có vừa miệng không. Cảm ơn bạn hiển đã serve.",
+        "time": 1766902908,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/112131139754312517601/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeqLn83i2yLH2qUWnI5Pq47bM69ratRVrOI6Idc6SYtWb1eiITEw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Lần đầu tiên ăn ở quán và mình cần phải viết review luôn. Đồ ăn ở quán thật sự rất ngon, nước chấm cho bánh xèo, bún chả rất vừa miệng, không nhạt như những quán khác mình từng ăn.\nBát đũa nhìn chung sạch sẽ\nChị Trang, nhân viên của quán phục vụ bàn mình rất nhiệt tình. Recommend nếu bạn có bạn nước ngoài muốn lên Phố Cổ ăn thì hãy dẫn họ tới đây 🫕❤️🇻🇳",
+        "time": 1761036794,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Tran",
+        "author_url": "https://www.google.com/maps/contrib/100734920255171719678/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU01qrlt7Fan29g0ANp_bkOr6kPid3qGmxrMQYTtzZb4ERAw4r2w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán đồ ăn ngon lắm nhea, mình sg du lịch HN chọn đại quán này vô thử mà ai dè đúng vị mình thích luôn 10/10đ",
+        "time": 1762704429,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Quang Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117597313453041996075/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU2RRJCEH06RSTZncFm-CDda3qqWKCi6jFBXNCGloq_fbswUjLI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Order nhiều món mà bận ăn quá nên có mỗi hình này. Cảm ơn bạn Tùng to tư vấn món đặc trưng và ngon miệng. Giới thiệu với bạn nước ngoài cũng hãnh diện lắm á",
+        "time": 1764596151,
+        "translated": false
+      },
+      {
+        "author_name": "Phong Trần",
+        "author_url": "https://www.google.com/maps/contrib/100480141764439292614/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdNL0-_Rois6ljymCKHUPrRNNR2gGj0Z0MdyyLxMr6nY9DRPw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Hôm nay mình được bạn Trang phục vụ, cảm thấy rất hài lòng. Bạn thân thiện, nhanh nhẹn và chu đáo, luôn để ý khách cần gì. Thái độ dễ chịu, nói chuyện nhẹ nhàng. Nhìn chung là phục vụ rất tốt, tạo cảm giác thoải mái suốt bữa ăn.",
+        "time": 1762597710,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 17051
+  },
+  "harvested_at": "2026-04-28T16:32:07.308073"
+}

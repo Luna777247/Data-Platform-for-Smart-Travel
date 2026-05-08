@@ -1,0 +1,174 @@
+{
+  "u_key": "0fc23d08237580a4",
+  "original_osm_name": "The Pizza Company",
+  "google_raw": {
+    "formatted_phone_number": "1900 6066",
+    "geometry": {
+      "location": {
+        "lat": 16.0551186,
+        "lng": 108.2419433
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0564238802915,
+          "lng": 108.2433157802915
+        },
+        "southwest": {
+          "lat": 16.05372591970849,
+          "lng": 108.2406178197085
+        }
+      }
+    },
+    "name": "The Pizza Company Nguyễn Văn Thoại (Đà Nẵng)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Vân Thu",
+        "author_url": "https://www.google.com/maps/contrib/103129849881009063939/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLV5eIbx9Kl-y0dnRXbNfy5g9A4NY-eEsZ32Ty4HH6aK6subg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tối ngày 23 đi ăn ở cơ sở Nguyễn Văn Thoại,  ngoif bàn đối diện quầy tính tiền, gần cửa ra vào nvien tên Ly có thái độ với khách, đến không chào, không oder, gửi món không nói, quăng thẳng lên bàn. Trả tiền để được phục vụ nhưng không được phục vụ. Quán không đông, có vài người thôi nhưng nvien không take care đàng hoàng, oder khách phía trên, bên cạnh, nhưng mình không được phục vụ, phải để một người khác ra hỏi. CẦN TRAINING LẠI NHÂN VIÊN",
+        "time": 1771951169,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Pham Quoc",
+        "author_url": "https://www.google.com/maps/contrib/117699794237401661690/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwEC-2if_RQMX9HeDhOnOIYGhnAKv10t1gRvBXs98mTd2s5bmy=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đi ăn vào trưa, không biết là để xe có bắt trả tiền không mà lúc ra lấy xe thì bảo vệ lại kêu là \"chưa có lương cho xin ít tiền\". Thái độ dịch vụ như vậy làm mất thiện cảm khi quay lại, 20k không to nhưng cách bảo vệ nói chuyện như vậy gây mất thiện cảm (15/12/2025-14:00)",
+        "time": 1765782787,
+        "translated": false
+      },
+      {
+        "author_name": "Thuý vy Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103539302946028877490/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2NPmExW2TJNGkuwWHgjFNAZmYne-bdAt24L2Re9s5GjdNzOC3=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "2 tháng trước",
+        "text": "Khách đến không một ai thèm đến order, mình kêu cũng lơ khách tới lúc làm căng thì mới chạy tới, quán thì vắng khách được có 3 bàn thôi. Phục vụ rất tệ đi ăn rước bực vào người thêm",
+        "time": 1770783772,
+        "translated": false
+      },
+      {
+        "author_name": "Mộc",
+        "author_url": "https://www.google.com/maps/contrib/113655569489712135907/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrRjI00UQLuZmExF37CHTOUck5HPGY6eK9OlhsglO8lR24YBw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Ở đây phục vụ rất là nhanh nhân viên rất là nhẹ nhàng vui vẻ tôi rất hài lòng với cách phục vụ. Cách phục vụ rất là quan trọng tôi ăn pizza company ở nhiều khu vực nhưng ở đây tôi cảm thấy rất hài lòng. Vào những ngày đặc biệt chương trình của pizza 🍕 👉Pizza company Vincom ở tp. biên Hòa phục vụ rất chậm và khi gọi bánh thì lúc nào cũng hết bột chỉ còn đế mỏng",
+        "time": 1755670856,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Đặng",
+        "author_url": "https://www.google.com/maps/contrib/100458751828235508418/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvWX9GZ5dwjuNlSLGvu5NpVdjh70Bv1bam_qp0uLM2ZpuYwgru=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán rộng rãi không khí mát mẻ. Đồ ăn ngon",
+        "time": 1772888898,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1792
+  },
+  "harvested_at": "2026-04-29T09:58:30.995253"
+}

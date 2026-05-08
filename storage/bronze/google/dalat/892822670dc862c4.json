@@ -1,0 +1,174 @@
+{
+  "u_key": "892822670dc862c4",
+  "original_osm_name": "Banh can Tang Bat Ho",
+  "google_raw": {
+    "formatted_phone_number": "0925 090 999",
+    "geometry": {
+      "location": {
+        "lat": 11.9439348,
+        "lng": 108.4351737
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9453457302915,
+          "lng": 108.4364898302915
+        },
+        "southwest": {
+          "lat": 11.9426477697085,
+          "lng": 108.4337918697085
+        }
+      }
+    },
+    "name": "Bánh Căn - Bánh Ướt Lòng Gà 07 Tăng Bạt Hổ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–18:00",
+        "Thứ Ba: 06:00–18:00",
+        "Thứ Tư: 06:00–18:00",
+        "Thứ Năm: 06:00–18:00",
+        "Thứ Sáu: 06:00–18:00",
+        "Thứ Bảy: 06:00–18:00",
+        "Chủ Nhật: 06:00–18:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "KmH Ng",
+        "author_url": "https://www.google.com/maps/contrib/118112609013796371278/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz5Y9ibJozZbWK4XirF0Pf9efcT_9G1OHjKeWbojdXNDDKiE-oBQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "Suất ăn mỗi tô bánh ướt ít. Vị cũng được thôi không đặc sắc lắm. Chỗ để xe ít. Đường Tăng Bạt Hổ này nhiều hàng bán Bánh Ướt Lòng Gà lắm, nên đọc đánh giá rồi hẳn đến thử.",
+        "time": 1769735198,
+        "translated": false
+      },
+      {
+        "author_name": "Thanh Cong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105426950352894451365/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNyOAGrPGqhnvFgZkX7KqaBA6OCppUMGaLecclddjNfKIJ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Bánh căn ăn ổn, mọi thứ đều vừa phải. Vị bánh không quá đặc sắc nhưng dễ ăn, nước chấm hợp vị, phục vụ nhanh và không gian thoải mái. Phù hợp cho một bữa ăn đơn giản, không cầu kỳ.",
+        "time": 1751770852,
+        "translated": false
+      },
+      {
+        "author_name": "Hằng Phạm",
+        "author_url": "https://www.google.com/maps/contrib/116078102785455861069/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKuLZ89hoVtdk0TZ3Rs5ywmHnCd52Idr6289hzGg2kRLkWCGBtSw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán ngay tại trung tâm Đà Lạt, mặt tiền dễ tìm thấy, mình đi sáng thứ 5 không quá đông.\nĐồ ăn:\n1. Bánh ướt ngon, ăn vừa miệng không bị quá ngọt, topping gà xé lòng gà ăn cảm giác sạch sẽ, thơm, lòng gà ăn dai giòn bùi bùi, thịt gà xé nhiều, tô 50k thấy cũng hợp lý.\n2. Chúng mình gọi 1 đĩa bánh căn thập cẩm, theo mình vị bình thường khá bão hoà so vs 1 địa điểm quá nhiều quán bán bánh căn là đặc sản, mắm ăn hơi ngọt so vs mình, vị bánh k nổi trội.\n3. Có trà đá dù trên menu k có\nDịch vụ: nhân viên niềm nở, phục vụ hơi chậm tý, đồ ăn lên hơi lâu, nc cũng khá lâu dù quán không đông khách.\nKhông gian quán cũng tạm ổn không quá rộng rãi nhưng có nhiều tầng, vắng khách thì chỗ ngồi cũng thoải mái nhưng sắp xếp bàn khá lộn xộn. Không khí gần gũi, quán nhìn sạch sẽ.",
+        "time": 1751516434,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Dom",
+        "author_url": "https://www.google.com/maps/contrib/104085603282228665079/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZnwW9ha6s1NiLwIZHwZbMb8v5pQPPrJ5fUI1D9pCsQ3rA_F_i=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "1 quán ăn nổi tiếng cho khách du lịch khi đến với đà lạt, menu gồm tất cả các món mà du khách đến đà lạt muốn dùng vào mỗi buổi sáng, có bánh căn, bánh ướt lòng gà.,,,, hương vị ngon vừa ăn điểm trừ duy nhất là không gian quán hơi nhỏ",
+        "time": 1740984955,
+        "translated": false
+      },
+      {
+        "author_name": "Hân Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114396526339639747862/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsypSy5mSKBvHNG2FN9oWk9UB-8LO74MO-lcemElJGGjiigH2jcA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "- Sáng đi dạo đường TBH thấy thiên đường bánh căn bánh ướt, tản bộ 1 vòng thì thấy quán này đông nhất nên a vua đi ạ :))\n- Mình gọi 2 bánh căn thập cẩm 45k/ dĩa và 1 bánh ướt lòng gà trứng non 55k/ phần\n- Bánh căn có topping đa dạng như mực tôm thịt bằm trứng cút. Theo mình thì bột bánh hơi dày nên ăn hơi ngán xíu. Bánh cũng khá thơm, nước chấm mình thấy hơi nhạt nhưng bạn mình thì bảo vừa khẩu vị. Chén xíu mại hơi mini xíu haha ăn cũng ok.\n- Bánh ướt ăn cũng được ạ, bạn mình thì thích. Mình thì thấy tô bánh ướt nhiều nước nắm quá để ngập cả tô nhìn hơi lạ, gà ngon, topping khác ăn cũng ổn. Nói chung ăn ok đó mng",
+        "time": 1690264351,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1602
+  },
+  "harvested_at": "2026-04-30T14:55:16.433204"
+}

@@ -1,0 +1,89 @@
+{
+  "u_key": "43c83590ae01bdc1",
+  "original_osm_name": "Cafe Bao Tran",
+  "google_raw": {
+    "formatted_phone_number": "0263 3825 603",
+    "geometry": {
+      "location": {
+        "lat": 11.9351849,
+        "lng": 108.4384079
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9364723802915,
+          "lng": 108.4397264802915
+        },
+        "southwest": {
+          "lat": 11.9337744197085,
+          "lng": 108.4370285197085
+        }
+      }
+    },
+    "name": "Quán Cà Phê Bảo Trân",
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Ken 2038",
+        "author_url": "https://www.google.com/maps/contrib/113822424890386921541/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0awiXyhhDsHu4PkV5rN0z6hE_t-bakpVAcxQAakhJlrw4IR8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Khá ok nhưng nhân viên không thân thiện cho lắm.",
+        "time": 1563204521,
+        "translated": false
+      },
+      {
+        "author_name": "Khôi Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110689747607105036303/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjz7H_IW7YWX2vs0A1Mnk1kmwb_nc6KruBZwHYpIFO3it6ZA=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "10 năm trước",
+        "text": "đồ ăn rất ngon trà sữa rất tuyệt tiramisu cũng v",
+        "time": 1447171876,
+        "translated": false
+      },
+      {
+        "author_name": "Quang Trần",
+        "author_url": "https://www.google.com/maps/contrib/103220447130064653107/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZJjezna2WzgvZ9wr2KLc3ws0oh-V5BJVx6ENSVlwI7xnfMKXI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán thoáng, đẹp.",
+        "time": 1563781385,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Hiếu Bùi",
+        "author_url": "https://www.google.com/maps/contrib/116280922161125305012/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKcmVIFLp8kuUGNgO_scqJ5LuwlVAZruEG3DH3Slv9SzC44eA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Nhớ chị phục vụ tên Trang :(",
+        "time": 1605371252,
+        "translated": false
+      },
+      {
+        "author_name": "Chongxiu Wang",
+        "author_url": "https://www.google.com/maps/contrib/114481867960767360786/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaISjJ2xgrTRqgJUekYFY7gtTrDkMF4M5epxUnpZDel27gV7E2kg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Đồ uống chanh dây rất ngon!",
+        "time": 1531398537,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 7
+  },
+  "harvested_at": "2026-04-30T15:01:54.375016"
+}

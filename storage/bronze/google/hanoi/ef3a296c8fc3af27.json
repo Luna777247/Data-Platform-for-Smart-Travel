@@ -1,0 +1,173 @@
+{
+  "u_key": "ef3a296c8fc3af27",
+  "original_osm_name": "IVegan Supershop",
+  "google_raw": {
+    "formatted_phone_number": "0868 173 168",
+    "geometry": {
+      "location": {
+        "lat": 21.0325862,
+        "lng": 105.8467942
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0339284302915,
+          "lng": 105.8481956302915
+        },
+        "southwest": {
+          "lat": 21.0312304697085,
+          "lng": 105.8454976697085
+        }
+      }
+    },
+    "name": "IVEGAN SUPERSHOP",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Ngọc Linh Mai",
+        "author_url": "https://www.google.com/maps/contrib/114239352100665229578/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpNZRWb9ucoaMpYPVoLx14lv7YWg8TD8JzOF4lQKIhoOHyxhh6=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán siêu đỉnhhhh. Chúng mình gọi saigon bowl ( kiểu bún trộn nam bộ nhưng mà là bún gạo lứt, chả và đậu rất ngon, sợi bún hơi vụn chắc vì phục vụ khách tây nhiều sợ khách k dùng được đũa 😅) và pink up (sinh tố thanh long, chuối, dâu, hoa quả tươi, ăn ngọt và mát đối với mình thì hơi ngọt quá nhưng mình nghĩ nó là ngọt của hoa quả chứ không phải đường). Tổng kết 2 người gọi 2 món 2 nước hết 300k mà no phè. Điểm cộng là quán có set bát đũa quá là thiên nhiên và độc đáo. Quả view quá ăn tiền, ngắm đường phố chill phải biết.Rất đáng thử 😍😍😍",
+        "time": 1768047467,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Thi Thu Huyen",
+        "author_url": "https://www.google.com/maps/contrib/115493588609927154185/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqNfUE-VtZ30cQzCN-8wbp73Kt1GPoR2ku4OSDfUsXf27BsjSNag=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Bánh mì hơi ỉu, dâu tây ngon. Vì bánh bị ỉu nên hơi khó ăn. Không gian dễ chịu. View đẹp. Mình sẽ thử thêm các món khác vac review thêm.\nUpdate: review tg dc tru caphe, vi minh order cùng do an. Khi minh hoi nhan viên nhân viên nói ok. Sau khi mình xuong thì nv nói luôn e ki nói thế. Cần xem lại về dịch vụ và rõ ràng về chính sách trả quyền lợi cho khách hàng",
+        "time": 1772438227,
+        "translated": false
+      },
+      {
+        "author_name": "Oanh Phùng Lâm",
+        "author_url": "https://www.google.com/maps/contrib/102689298027084131990/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZrFJN9TIQwTrU1-73jzxp4F10lcgrqRflaXbSS8-UpZ3FYVvk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán nhỏ xinh nằm trên Hàng Điếu. Không gian không quá rộng nhưng khá thoải mái. Đồ ăn ngon, mình mê nhất SG bowl, đậu hũ, chả rất giòn, ăn khá cuốn. Đồ ăn to, đầy đặn, mình ăn hai người no căng. Các bạn nhân viên, nhanh nhẹn, nhiệt tình. Khách thì mình thấy khách Tây ra vô khá nhiều.",
+        "time": 1767861769,
+        "translated": false
+      },
+      {
+        "author_name": "Thao Linh Vu",
+        "author_url": "https://www.google.com/maps/contrib/113484453208904721533/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtI2Ju1_DEebPtoHwZ9kqrt_ToTSf7olhTmsCupu1EGuXxdj749A=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Dạo này thấy acai bowl có vẻ hot nên mình chủ đích đến đây định gọi acai bowl nhưng nay lại hết nên mình đã gọi smoothies. Hoa quả tươi ngon và có nhiều lựa chọn. Quán đẹp, đồ ăn ngon. Mình đến ngày chủ nhật nên khá đông và phải chờ xếp hàng để gọi món. Quán có 3 tầng, có điều hoá và rất sạch sẽ. Chắc chắn mình sẽ quay lại",
+        "time": 1759639850,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Planet",
+        "author_url": "https://www.google.com/maps/contrib/114916337753992825592/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2IYWcDusuRqVYtkyhJT0P3c_oIJwn_T6k-ebF7lmKATjoUhPA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Không gian sạch sẽ, sáng sủa, trung tâm, view phố cổ. Service nhanh, đồ ăn bày trí đẹp mắt",
+        "time": 1770012271,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3561
+  },
+  "harvested_at": "2026-04-26T12:45:24.424892"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "8943b1324f1902d7",
+  "original_osm_name": "Thúy Hồng",
+  "google_raw": {
+    "formatted_phone_number": "0236 2376 369",
+    "geometry": {
+      "location": {
+        "lat": 16.0351014,
+        "lng": 108.2182213
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0364603302915,
+          "lng": 108.2196683802915
+        },
+        "southwest": {
+          "lat": 16.0337623697085,
+          "lng": 108.2169704197085
+        }
+      }
+    },
+    "name": "Massage Mưa Hồng",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–02:00",
+        "Thứ Ba: 10:00–02:00",
+        "Thứ Tư: 10:00–02:00",
+        "Thứ Năm: 10:00–02:00",
+        "Thứ Sáu: 10:00–02:00",
+        "Thứ Bảy: 10:00–02:00",
+        "Chủ Nhật: 10:00–02:00"
+      ]
+    },
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Phạm Phong",
+        "author_url": "https://www.google.com/maps/contrib/113781613682672665857/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLc2YmaBQR9qbx9kTt0KRkn4y4hh8qDgNckSFcOn_QwRCyMZg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Vé 100k vs 200k để làm màu, vào mua vé đắt hơn đổi đến cả 3 lần vẫn toàn máy bay 8x, toàn hàng hết đát, quản lý lầu 7 thái độ lấc cấc, so với mấy năm trước thì giờ chỉ là 1 nơi trải nghiệm phí tiền",
+        "time": 1756792009,
+        "translated": false
+      },
+      {
+        "author_name": "phong binh",
+        "author_url": "https://www.google.com/maps/contrib/111165219137561677478/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaciNdfdjcZi3oDJQ6I8rQkjvPe57qVJscTLzgH8fS38PfAw=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "bạn tôi đi về xong nhiễm bệnh từ cơ sở này , mọi người không nên vào đây ! vẫn để nhân viên nhiễm bệnh làm!",
+        "time": 1769156088,
+        "translated": false
+      },
+      {
+        "author_name": "Canh Than",
+        "author_url": "https://www.google.com/maps/contrib/104103101605331940079/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVh0XI6OcunDKklH1QQl7vKhz87P5Xrxb_T6Yp4z5ynhuKPQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bạn mình đã nhiễm bệnh từ cơ sở này, mọi người nên tránh !",
+        "time": 1769155631,
+        "translated": false
+      },
+      {
+        "author_name": "Tuấn Tạ",
+        "author_url": "https://www.google.com/maps/contrib/109346340199411288339/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt4mM7tIern7n1mNSiByH57WH0cZa340shySQWPcB9Ulz5ZabY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Phục vụ tốt nhân viên nhiệt tình .",
+        "time": 1769930655,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Danh",
+        "author_url": "https://www.google.com/maps/contrib/113003903578441837105/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWX5oYqWMlKvr4EI84_fHetqRkcDdNZUIBxduPMiyityb4jHX9hAg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "(03.2022)\nGiá ổn. 300k/vip/1ng 70p\n800k/supervip/2ng.\nHàng hoá bình thường. +600k/s",
+        "time": 1662222209,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 132
+  },
+  "harvested_at": "2026-04-29T09:43:57.038987"
+}

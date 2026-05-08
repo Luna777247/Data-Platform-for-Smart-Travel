@@ -1,0 +1,173 @@
+{
+  "u_key": "4ed9e20393004759",
+  "original_osm_name": "Vandana Authentic Indian Food",
+  "google_raw": {
+    "formatted_phone_number": "0375 136 492",
+    "geometry": {
+      "location": {
+        "lat": 12.2322147,
+        "lng": 109.1955901
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2335735802915,
+          "lng": 109.1969738802915
+        },
+        "southwest": {
+          "lat": 12.2308756197085,
+          "lng": 109.1942759197085
+        }
+      }
+    },
+    "name": "Vandana Authentic Indian Food",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:00",
+        "Thứ Ba: 11:00–23:00",
+        "Thứ Tư: 11:00–23:00",
+        "Thứ Năm: 11:00–23:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 11:00–23:00"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Tô Minh Thi",
+        "author_url": "https://www.google.com/maps/contrib/106548993560620693853/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQd266sYVW9Ig_ac436F7ZEujXbnjB-vMh-xxxrcuDEDDrj6PV=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn ngon, mí bạn phục vụ cũng rất là dễ thương nữa.\nKhông gian roof top thoáng mát, và thoải mái. Mình hiếm khi thấy có nhà hàng có không gian mở roof top như này. I love it. 🤌🤌🤌🥰🥰🥰",
+        "time": 1756824534,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Cà ri gà bơ 125k/phần. Không kèm cơm hay bánh Naan.\nBánh Naan tỏi để chấm cà ri 40k/phần.\nMón ăn nêm nếm gia vị ngon, cà ri hơi loãng.\nAnh bán hàng thân thiện. Giao tiếp tiếng Anh tốt.\nChỗ ngồi là Food Court của Nha Trang Center. View nhìn ra biển, đẹp. Máy lạnh được bật nên không khí thoáng, không bị ngột ngạt.\n\nTháng 8/2024: Tiệm dời về địa chỉ ở 73/16 Trần Quang Khải. Nhà hàng món Ấn ở tầng 6, rooftop bar ở tầng 7. Ngồi ăn ở tầng nào cũng được.",
+        "time": 1724232368,
+        "translated": false
+      },
+      {
+        "author_name": "21 Duy Na",
+        "author_url": "https://www.google.com/maps/contrib/107166053551759621086/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyKWb2y76p8lGfQhGYsHZ2b3rHMHyt-28XeJY0XUddjavqCPLR=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Tuyệt vời! chi nhánh 1 hay 2 gì mình thấy đồ ăn đều rất ngon. nhân viên nhiệt tình. mình sẽ quay lại nhiều lần nữa.",
+        "time": 1748261785,
+        "translated": false
+      },
+      {
+        "author_name": "hoang pham",
+        "author_url": "https://www.google.com/maps/contrib/110386582754390178185/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0FS71FruJiitDL10U6_ZVcgpLB3zX73jl6nkkD5LtiViVibU=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "Chưa bh mình ăn một nhà hàng mà phải để chờ lâu đến như vậy. Chờ 1 tiếng đồng hồ mới ra hết món, ko một lời xin lỗi từ quản lý. Món mì xào tôm của bạn mình còn bị nấu với tôm thiu. Thực sự chưa bh trải nghiệm một nhà hàng tệ như vậy, ko một lời xl, ko một lời giải thích. Good Job quán",
+        "time": 1724248501,
+        "translated": false
+      },
+      {
+        "author_name": "dang khanh tran",
+        "author_url": "https://www.google.com/maps/contrib/112657795797224377680/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCk_jmrN2sLqMrE2clSOSNgZcRPYlS-3ArPgWWziv5-xbywg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Rất ngon nhé mọi người. Mình đi 4 người mà full luôn. Chicken tikka masala is the bét. I love it.",
+        "time": 1732533325,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 516
+  },
+  "harvested_at": "2026-05-02T15:18:26.891966"
+}

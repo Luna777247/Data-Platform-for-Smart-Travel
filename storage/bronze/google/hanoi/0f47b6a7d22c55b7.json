@@ -1,0 +1,89 @@
+{
+  "u_key": "0f47b6a7d22c55b7",
+  "original_osm_name": "Nhà nghỉ Hải Yến",
+  "google_raw": {
+    "formatted_phone_number": "024 3717 3561",
+    "geometry": {
+      "location": {
+        "lat": 21.0437424,
+        "lng": 105.8479728
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0450410802915,
+          "lng": 105.8492952802915
+        },
+        "southwest": {
+          "lat": 21.0423431197085,
+          "lng": 105.8465973197085
+        }
+      }
+    },
+    "name": "Nhà Nghỉ Hải Yến",
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Trang Phan",
+        "author_url": "https://www.google.com/maps/contrib/108942366249649612893/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdWpuSZO4ret21gUzGFCNw9unzN318OKpU3ER7IfeM_ydd8GKq9g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Ra hà nội vs giá cả và chỗ ở vậy là tuyệt rồi.",
+        "time": 1537543102,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Huy - Truyền thông media",
+        "author_url": "https://www.google.com/maps/contrib/100246583552979300707/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVHTW8MxTFt4IgyViz1Gwj7AeJDCggFjBuHPAZFH-phypO4pdGz=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Không sạch sẽ được cái rẻ 250k",
+        "time": 1544431339,
+        "translated": false
+      },
+      {
+        "author_name": "Thực Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/110017717496274223736/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2JcxbFCbZ2nmZYXYUjVA_UN7Pc2QvFgr1PziDqHovjabLtg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Một nơi phong cảnh đẹp",
+        "time": 1574130641,
+        "translated": false
+      },
+      {
+        "author_name": "ヴィエット（349）",
+        "author_url": "https://www.google.com/maps/contrib/110906172398755811898/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWERGAcYGds-U90FAeaiOzTuh7W1AWiGQQ43NViPktEZkkBoBPf1w=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Sạch sẽ, giá rẻ",
+        "time": 1513438495,
+        "translated": false
+      },
+      {
+        "author_name": "Xuân Đường Bùi",
+        "author_url": "https://www.google.com/maps/contrib/108804686280324470852/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3QXw2afi-Yzxf3HB_kpN-hxWQC_N4nTaG5I0R__VL3hhci0IIow=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 1,
+        "relative_time_description": "5 năm trước",
+        "text": "Giá cao ,phòng tệ",
+        "time": 1616044365,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 19
+  },
+  "harvested_at": "2026-04-26T12:44:59.215059"
+}

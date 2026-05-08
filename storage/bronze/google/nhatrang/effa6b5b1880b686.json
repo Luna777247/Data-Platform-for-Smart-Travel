@@ -1,0 +1,89 @@
+{
+  "u_key": "effa6b5b1880b686",
+  "original_osm_name": "Quán Chay Tịnh Liên",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2650945,
+        "lng": 109.1996518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2664414802915,
+          "lng": 109.2009631802915
+        },
+        "southwest": {
+          "lat": 12.2637435197085,
+          "lng": 109.1982652197085
+        }
+      }
+    },
+    "name": "Quán Chay Tịnh Liên",
+    "price_level": 1,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Món ăn ngon. Giá cả phải chăng.",
+        "time": 1715965149,
+        "translated": false
+      },
+      {
+        "author_name": "Hiền Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/101730320846058337280/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2c2ZUezd-jM4IA1GvKmKgBM5hw5a6ujBwzdPX45qvFxg_Tg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon, giá hợp lí, sạch sẽ thoáng mát, chủ quán dễ thương nhiệt tình",
+        "time": 1718588610,
+        "translated": false
+      },
+      {
+        "author_name": "Thị Bộ Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112680454864178616801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJwsF2bWe5GFLucwu1OV4IZi6HXA2Vhtf_FK0uiLqgOpDcXh8=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Cô chú dễ thương, đồ ăn ngon hợp vị, món lẩu đặt trước ăn rất cuốn ^^ sẽ giới thiệu cho bạn bè người thân sẽ quay lại",
+        "time": 1677555055,
+        "translated": false
+      },
+      {
+        "author_name": "An Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112013913715389146095/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ65coMV3iIn0aVciT0w1SSUI_xEHIn6AmI3NmzWPBFZUn85w=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Cơm chay rất ngon, giá rẻ. Anh chị chủ nhiệt tình thân thiện",
+        "time": 1688779964,
+        "translated": false
+      },
+      {
+        "author_name": "Timothy Walker",
+        "author_url": "https://www.google.com/maps/contrib/111918795683303404935/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIhh2ig6eNtgBeE650kXZsWQzeiI3y8gpHDdQ8JHt2oQ4-fFQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn bị ngọt nhiều đường mì chính, ăn dễ bị ngán",
+        "time": 1693188804,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 61
+  },
+  "harvested_at": "2026-05-02T15:21:31.162108"
+}

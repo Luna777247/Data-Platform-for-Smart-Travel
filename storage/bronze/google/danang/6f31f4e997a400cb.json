@@ -1,0 +1,89 @@
+{
+  "u_key": "6f31f4e997a400cb",
+  "original_osm_name": "1812 Boutique hostel",
+  "google_raw": {
+    "formatted_phone_number": "0236 3941 812",
+    "geometry": {
+      "location": {
+        "lat": 16.069292,
+        "lng": 108.242184
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0706988802915,
+          "lng": 108.2435310802915
+        },
+        "southwest": {
+          "lat": 16.0680009197085,
+          "lng": 108.2408331197085
+        }
+      }
+    },
+    "name": "1812 Boutique Hostel",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Đông Nguyễn Thành",
+        "author_url": "https://www.google.com/maps/contrib/115158442827999087876/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWRnomOCmA77W2runZrrlsZxapZ6mTGA88oVvi3hk3ny2u=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Sạch sẽ nhân viên rất nhiệt tình phòng rất đẹp mà mát mẻ",
+        "time": 1528700306,
+        "translated": false
+      },
+      {
+        "author_name": "Hồ Văn Diệp",
+        "author_url": "https://www.google.com/maps/contrib/101385261154703142484/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVf7knSHt89rApqDew5wbHYMESZudDIR1x3_nI1sCEBw_3dAYI=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Đẹp mà rẻ",
+        "time": 1531574315,
+        "translated": false
+      },
+      {
+        "author_name": "Lana Benet",
+        "author_url": "https://www.google.com/maps/contrib/102800447665060368499/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVTY6ZM1isd350KuiCnHvj7JLCOaI3ov3YO3fx2UgtgmPafBxm=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Bình thường. Nhân viên khá ok",
+        "time": 1514118023,
+        "translated": false
+      },
+      {
+        "author_name": "Amater Phạm",
+        "author_url": "https://www.google.com/maps/contrib/106508580127754411060/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVES2ZcEERWdxwOeqwsVGMpl-fvm3yzDu6BLAOnF6M-0N6Wi4XcZg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Nơi dừng chân giá bình dân",
+        "time": 1517810359,
+        "translated": false
+      },
+      {
+        "author_name": "NK Vlog",
+        "author_url": "https://www.google.com/maps/contrib/116334384239401769052/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQWfdM1q0uZzr1ob06Iqt0svEL57PcC0xKp2CrYzkitAWJTCNr=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "Nơi lưu trú giá rẻ",
+        "time": 1538662545,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 66
+  },
+  "harvested_at": "2026-04-28T16:33:58.598064"
+}

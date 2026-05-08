@@ -1,0 +1,79 @@
+{
+  "u_key": "1c6f53afbf9557ce",
+  "original_osm_name": "Nhà Hàng Long Hà",
+  "google_raw": {
+    "formatted_phone_number": "0964 128 800",
+    "geometry": {
+      "location": {
+        "lat": 20.9961372,
+        "lng": 105.8798181
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9974483802915,
+          "lng": 105.8812429802915
+        },
+        "southwest": {
+          "lat": 20.9947504197085,
+          "lng": 105.8785450197085
+        }
+      }
+    },
+    "name": "Nhà hàng Long Hà",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Nastia Lash",
+        "author_url": "https://www.google.com/maps/contrib/101715838938949643666/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB8qIfqlCn1d1i0up0Nveeq-2fsAQkM4shXJkTfZsjhPYYrA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1703211890,
+        "translated": false
+      },
+      {
+        "author_name": "Toan Tong",
+        "author_url": "https://www.google.com/maps/contrib/106969897142602072699/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTMpzGKfGh0N9MeLRIPz9c_WiLeqPim-XUGtJcJePLSwfk34hiQg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "",
+        "time": 1654979300,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Đức Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/112856557198040287818/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWavTwQSgCrUYlLzUsbYPL3fnXB6AnW5EyUaqTHI_F4JU8LCXjT=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1546930198,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-04-28T16:26:11.729158"
+}

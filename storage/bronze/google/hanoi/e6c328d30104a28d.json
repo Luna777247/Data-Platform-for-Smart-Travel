@@ -1,0 +1,224 @@
+{
+  "u_key": "e6c328d30104a28d",
+  "original_osm_name": "Nhà Hàng La Badiane",
+  "google_raw": {
+    "formatted_phone_number": "024 3942 4509",
+    "geometry": {
+      "location": {
+        "lat": 21.026583,
+        "lng": 105.8431351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0278859802915,
+          "lng": 105.8444836802915
+        },
+        "southwest": {
+          "lat": 21.0251880197085,
+          "lng": 105.8417857197085
+        }
+      }
+    },
+    "name": "La Badiane",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:30–13:30, 18:00–21:30",
+        "Thứ Ba: 11:30–13:30, 18:00–21:30",
+        "Thứ Tư: 11:30–13:30, 18:00–21:30",
+        "Thứ Năm: 11:30–13:30, 18:00–21:30",
+        "Thứ Sáu: 11:30–13:30, 18:00–21:30",
+        "Thứ Bảy: 11:30–13:30, 18:00–21:30",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Le Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/118195755898161082910/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHFOvIEFuXoQI98KFvPCDH76I129lFa0mvUFP45QzkkZ1JNxFh=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Định ăn nhà hàng trong ngõ này nhưng tình cờ đi qua thấy biển của michellin, đồng thời thấy không gian quán cũng khá chill nên chạy vào hỏi có còn bàn ko. May quá quán còn bàn, nhân viên rất lịch sự và thấu hiểu khi nói rằng mang menu ra cho xem trước ok thì sẽ dẫn vào bàn. Nhưng gia đình quyết định vào bàn luôn.\nĐược dẫn lên tầng 2 ngồi cạnh cửa sổ, không gian khá thoải mái và ấm cúng.\nNhân viên rất ổn khi giới thiệu từng món. Đồ ăn ok. Giá hơi cao xíu nhưng với quán được đề xuất bởi Michelin thì cũng phù hợp",
+        "time": 1772450038,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Phạm",
+        "author_url": "https://www.google.com/maps/contrib/111372898948157643278/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL88idI84AHMhyEy2pPpLBm2l-Kwrqubq7B2C6PaLlk4l-3RGA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình biết quán vì được bạn dẫn đi, bọn mình ăn sinh nhật bạn mình ở đây\nĐến nơi nhà hàng cho mình cảm giác lâu năm, từ xây dựng trang trí, đến nhân viên trông cũng đứng tuổi và chuyên nghiệp, họ biết rõ từng món ăn từng loại rượu của nhà hàng, nhớ order của từng khách trên bàn mà không cần hỏi lại\nKhi đặt bàn họ yêu cầu order món trước để tránh phải đợi lâu, đó cũng là dịp cuối năm nhà hàng đông khách, rất chu đáo\nVề đồ ăn, từ khai vị với salad đến món chính đều rất vừa miệng. Bọn mình mỗi người gọi 1 món chính, và tất cả đều hài lòng với lựa chọn của mình\nCuối buổi nhà hàng còn tặng bạn mình 1 món dessert mừng sinh nhật siêu dễ thương, các món dessert khác bọn mình gọi cũng ngon lắm\nMình viết review sau gần 1 tháng, trải nghiệm ở nhà hàng vẫn đọng lại nơi mình, và mình chắc chắn sẽ quay lại đây💚",
+        "time": 1769485574,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Quang Minh",
+        "author_url": "https://www.google.com/maps/contrib/116609782783598206635/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgNJ_YuATGldkpJC_XzRlrNIEaO5mDE2HTNSZzrcNNxFN0kRd2=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình không có trải nghiệm tuyệt vời cho lắm, mình chưa biết nhà hàng trước đó, không tìm hiểu gì, không quan tâm sao Michelin\n+ service không có điểm chê, dù cũng chưa phải ở mức quiet fine dining\n- không gian tầng 2 bị sáng và loãng.\n- hơi có cảm giác ồn\n- theme trang trí vào tháng 2/2026 làm mình không biết đây là nhà hàng fine dining\n- về đồ ăn: các món sử dụng gia vị quá mạnh, mình 2 người, 2 món chính đều có cảm giác gai vòm miệng, không biết refresh bằng cách nào nếu không uống nước.\nSoup ler ổn, không có option khác.\nPate gan ngỗng ổn\nBánh mì Việt Nam lượt 1 nguội, cứng, lượt 2 mới nóng và texture tốt hơn, rõ vị men.\n- đĩa ăn, khăn trải bàn làm mình hơi bất ngờ\n- chất lượng này là chưa tương xứng với giá tiền.",
+        "time": 1771041026,
+        "translated": false
+      },
+      {
+        "author_name": "Bao Trang Lam",
+        "author_url": "https://www.google.com/maps/contrib/101409607652125656421/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7ArdgszFHvBqtWKAt2nXSpSO65dxe29kQYViFf7hPXuQUwGu2=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Nhà hàng ra đồ nhanh, đồ ăn ngon, phục vụ thân thiện. Hôm mình đi sinh nhật còn được tặng thêm dessert.",
+        "time": 1755696174,
+        "translated": false
+      },
+      {
+        "author_name": "Anna Dang",
+        "author_url": "https://www.google.com/maps/contrib/114562608168765441168/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMr1v_NkJJaCEbh_KJxN7-4n_RYte3-BdP4iC1CsYMoXWyBg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "U là trời nó ngon kakaa",
+        "time": 1772774303,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2001
+  },
+  "harvested_at": "2026-04-28T16:19:55.090654"
+}

@@ -1,0 +1,161 @@
+{
+  "u_key": "5c20c54fcfdf842d",
+  "original_osm_name": "dau bep banh mi",
+  "google_raw": {
+    "formatted_phone_number": "0905 624 356",
+    "geometry": {
+      "location": {
+        "lat": 16.0459446,
+        "lng": 108.2453433
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0474089802915,
+          "lng": 108.2466709302915
+        },
+        "southwest": {
+          "lat": 16.0447110197085,
+          "lng": 108.2439729697085
+        }
+      }
+    },
+    "name": "Ăn vặt & Đồ uống Anh đầu bếp",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–22:00",
+        "Thứ Ba: 06:00–22:00",
+        "Thứ Tư: 06:00–22:00",
+        "Thứ Năm: 06:00–22:00",
+        "Thứ Sáu: 06:00–22:00",
+        "Thứ Bảy: 06:00–22:00",
+        "Chủ Nhật: 06:00–22:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "thị phương anh nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/103387239465685274414/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDIhMTmQ6Hna548ckphgBi8Sb9pnqDd-2cfd8IcN-30i2a3cX1AA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Bánh mì rất ngon đặc biệt bánh mì chảo nhìu,ngon mà rẻ, bánh mì muối ớt ăn là ghiền, đồ ăn vặt rất rẻ đặc biệt nước siêu ngon ❤️❤️❤️",
+        "time": 1651640211,
+        "translated": false
+      },
+      {
+        "author_name": "Tố Linh",
+        "author_url": "https://www.google.com/maps/contrib/116574745540225831323/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUcz35JQcFiq2kjW5VErlSB_19SK2T8RHNJLslNVbpfatnMyn5agA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ ăn ngon mà giá học sinh sinh viên😍😍😍 must try nha mn ơi👏👏👏",
+        "time": 1651631973,
+        "translated": false
+      },
+      {
+        "author_name": "Thiên Nguyễn Quang Trung",
+        "author_url": "https://www.google.com/maps/contrib/100049174744998668623/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqdzCAxxutvPj7y5YyRHQun9LhoYn8QjuyjzOXjkrFPbUdsHIn=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Đồ ăn đồ uống ngon tuyệt☺️☺️. Giá cả quá chi là bình dân. 🌺🌺🌺",
+        "time": 1651622689,
+        "translated": false
+      },
+      {
+        "author_name": "김민승",
+        "author_url": "https://www.google.com/maps/contrib/102601320978575499013/reviews",
+        "language": "vi",
+        "original_language": "ko",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXD6pb6l0QBsiNtpp5eKOre5bdkHgnopjnw4UPUB2-SrbUu47s=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Giá cả địa phương tốt",
+        "time": 1688878195,
+        "translated": true
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-29T09:55:06.072337"
+}

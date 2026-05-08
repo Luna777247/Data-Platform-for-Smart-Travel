@@ -1,0 +1,25 @@
+{
+  "u_key": "c03152d372b29f73",
+  "original_osm_name": "Rosa's Hostel",
+  "google_raw": {
+    "formatted_phone_number": "0942 905 337",
+    "geometry": {
+      "location": {
+        "lat": 12.2445065,
+        "lng": 109.1945861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2458553302915,
+          "lng": 109.1959730802915
+        },
+        "southwest": {
+          "lat": 12.2431573697085,
+          "lng": 109.1932751197085
+        }
+      }
+    },
+    "name": "Rosa's Hostel"
+  },
+  "harvested_at": "2026-05-02T16:11:13.364182"
+}

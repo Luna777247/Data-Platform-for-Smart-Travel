@@ -1,0 +1,184 @@
+{
+  "u_key": "1b7748c742c0cb8e",
+  "original_osm_name": "Viet Vic",
+  "google_raw": {
+    "formatted_phone_number": "0906 123 858",
+    "geometry": {
+      "location": {
+        "lat": 16.066058,
+        "lng": 108.2443163
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0674091802915,
+          "lng": 108.2457047302915
+        },
+        "southwest": {
+          "lat": 16.0647112197085,
+          "lng": 108.2430067697085
+        }
+      }
+    },
+    "name": "Nhà Bếp Xưa Restaurant",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1600"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:30",
+        "Thứ Ba: 10:00–21:30",
+        "Thứ Tư: 10:00–16:00, 17:00–21:30",
+        "Thứ Năm: 10:00–21:30",
+        "Thứ Sáu: 10:00–21:30",
+        "Thứ Bảy: 10:00–21:30",
+        "Chủ Nhật: 11:00–21:30"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "tran bnul",
+        "author_url": "https://www.google.com/maps/contrib/100217010777307017973/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVM7Pi6hcPWKwWrBKxkZY4Rz3-5AEue-eEvtrW0gEH9fFOvaegy=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Không gian quán mát mẻ. Nhân viên nhiệt tình.\nMón ăn ngon, vị hơi nhạt, thích nhất bún chả.",
+        "time": 1772432307,
+        "translated": false
+      },
+      {
+        "author_name": "Lien Bui",
+        "author_url": "https://www.google.com/maps/contrib/103077712250120394176/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUDBNQ7NusYx5xQvNskKWCzYybujCH3nr5qir0Q0bDAYOqiQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "một tháng trước",
+        "text": "Mặc dù đi ăn những quán khác đồ ăn có không ngon thì tôi cũng không để lại bất cứ đánh giá gì, nhưng quán này đồ ăn đã nhạt nhẽo mà nhân viên thì như không thể mở mồm ra được.\nBước vào quán với trải nghiệm nhân viên không mở mồm ra chào khách, mặt thì luôn khó chịu. Bê đồ ăn cho khách cũng không chịu mở mồm ra nói 1 câu. Không chỉ một mà cả 2 bạn nhân viên nữ đều có thái độ như vậy, người duy nhất giao tiếp với chúng tôi là chị đứng ở quầy thanh toán. Tôi đã đến quán ăn vào ngày 5-2 và đã định không đánh giá gì nhưng cứ nghĩ đến thái độ của nhân viên đó làm tôi có ngày đầu tiên đặt chân đến Đà Nẵng thật tệ.",
+        "time": 1772365246,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa Cao (12.23.32)",
+        "author_url": "https://www.google.com/maps/contrib/104368199946640665058/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWuPT9kms9zcp56Wdz_dbWE6TglPLGBxZXMDGtezAIbHkzj9Wm=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình đi qua và mua mang về 2 suất mì Quảng tụi trẻ con ăn rất thích. Quán cho nhiều rau sống lắm mà trẻ con không ăn nên mình không chụp ở đây. Quán rất đông gần như các bàn luôn kín chỗ",
+        "time": 1771126930,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Pham",
+        "author_url": "https://www.google.com/maps/contrib/106017950762901719022/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtqQcbHxLjGaMFGGYtB2UjKxF2PmRfm-CxPgi_GDCnsumZFjW9=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn ngon, giá hợp lý. Quán rất đông nên đôi khi phải đợi mới có bàn, nhưng nhân viên nhanh nhẹn, lịch sự, quét dọn thường xuyên.\n\nNhà mình ăn mấy món này đều ngon:\n- Canh chua nghêu\n- Bánh xèo\n- Bạch tuộc xào cay\n- Trứng chiên\n\nNhược điểm duy nhất của quán là nhà vệ sinh không sạch.",
+        "time": 1767336789,
+        "translated": false
+      },
+      {
+        "author_name": "tan linh",
+        "author_url": "https://www.google.com/maps/contrib/115810523676525301801/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqHtiU28cX7LxjNnLJWQrwYkyPt1UGdbHWWVTCHiXKRgSfEg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Lần đầu đi ăn mà đánh giá, muốn lan toả sự ngon miệng này đến mọi người. Lần thứ 3 đến Đà Nẵng đây là bữa ăn mì Quảng ngon nhất mình từng ăn😋",
+        "time": 1770900633,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 8436
+  },
+  "harvested_at": "2026-04-29T09:31:26.687126"
+}

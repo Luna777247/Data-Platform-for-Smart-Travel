@@ -1,0 +1,174 @@
+{
+  "u_key": "27e60b80690acfcc",
+  "original_osm_name": "Thùy Dương quán",
+  "google_raw": {
+    "formatted_phone_number": "0985 513 208",
+    "geometry": {
+      "location": {
+        "lat": 11.9011039,
+        "lng": 108.4342727
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9023984802915,
+          "lng": 108.4355758802915
+        },
+        "southwest": {
+          "lat": 11.8997005197085,
+          "lng": 108.4328779197085
+        }
+      }
+    },
+    "name": "Quán ăn gia đình Thùy Dương",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–20:00",
+        "Thứ Ba: 07:00–20:00",
+        "Thứ Tư: 07:00–20:00",
+        "Thứ Năm: 07:00–20:00",
+        "Thứ Sáu: 07:00–20:00",
+        "Thứ Bảy: 07:00–20:00",
+        "Chủ Nhật: 07:00–20:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Kjce Shidou",
+        "author_url": "https://www.google.com/maps/contrib/109584415339599154330/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcB_496-gdg146wskz0BERzLptUz-tvWm3vnYJ-vQeMOThKhwB=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nice Vietnamese food, helpful and friendly owner and gorgeous views. Highly reccommend this!\nChị chủ quán rất nhiệt tình, món ăn ngon, vừa miệng. Giá cả hợp lý.",
+        "time": 1766556348,
+        "translated": false
+      },
+      {
+        "author_name": "Vinh Huy Quách",
+        "author_url": "https://www.google.com/maps/contrib/106558653897254471575/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-6mmPEiBHIBolj0faYZJ-mMc1_1DwCucxRABbs01A3WYglS7L=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, giá vừa phải so với mặt bằng chung các quán.",
+        "time": 1771417535,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Bui",
+        "author_url": "https://www.google.com/maps/contrib/110339065340297871209/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5Nd9c4qRr3goJxZOWSnzygofKCUuOGiG5rUvdojmMBiathnl0yA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Chị chủ siêu dễ thương!!! Quán sạch sẽ ổn áp. Đồ ăn ngon và tươi. Cá tầm và gà nướng xuất sắc. Ngồi trên đồi view hoàng hôn cực đỉnh!",
+        "time": 1768043596,
+        "translated": false
+      },
+      {
+        "author_name": "Hoang Hai Chau",
+        "author_url": "https://www.google.com/maps/contrib/107992558894146920248/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpwX8Ak2Y1mgUHgTEUpGoGwPDjAvveZeuvNaDubfFdhxw8HmfY9g=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán có view tuyệt vời, các món ăn đêu ngon, cô chủ nhiệt tình quay clip cho gia đình, các bạn nên đến để thưởng thức 1 lần khi đến Dalat. Riêng gia đình mình luôn chọn quán Thuỳ Dương khi đến Dalat.",
+        "time": 1766622655,
+        "translated": false
+      },
+      {
+        "author_name": "Duong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115872585360115672509/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuW4KFWYdMjV_3DhfWhT_v10V0KvbGLgGez-RM8LkgmUqL=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "View quán rất là đẹp, gia đình mình đến ngay lúc hoàn hôn ngắm cảnh tuyệt vời luôn.\nMón ăn rất tươi và ngon, ướp vị vừa phải, phục vụ nhanh chóng nữa. Thịt nướng tại bàn trên lửa than rất là chill, lẩu cá tầm có rất nhiều rau cá thì được tự chọn trong bể luôn 👍\nChị chủ và nhân viên thì siêu nhiệt tình và thân thiện, tư vấn đồ ăn vừa phải, hợp lý và có tâm.\nĐến ĐL mọi người nhớ phải trãi nghiệm chỗ này.",
+        "time": 1762872897,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1210
+  },
+  "harvested_at": "2026-04-30T14:56:56.951081"
+}

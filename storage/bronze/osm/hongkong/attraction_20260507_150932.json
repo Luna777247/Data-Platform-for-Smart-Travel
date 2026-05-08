@@ -1,0 +1,1514 @@
+{
+  "city": "hongkong",
+  "category": "attraction",
+  "timestamp": "20260507_150932",
+  "count": 82,
+  "elements": [
+    {
+      "type": "node",
+      "id": 26412045,
+      "lat": 22.271123,
+      "lon": 114.1501414,
+      "timestamp": "2025-11-25T08:39:57Z",
+      "version": 16,
+      "changeset": 175098986,
+      "user": "Cypp0847",
+      "uid": 9161716,
+      "tags": {
+        "alt_name": "Victoria Peak",
+        "funicular": "yes",
+        "name": "山頂 The Peak",
+        "name:en": "The Peak",
+        "name:zh": "山頂",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "tourism": "attraction",
+        "tram": "yes",
+        "website": "https://www.thepeak.com.hk/",
+        "wikidata": "Q5959277"
+      }
+    },
+    {
+      "type": "node",
+      "id": 638298712,
+      "lat": 22.2708788,
+      "lon": 114.1765318,
+      "timestamp": "2022-03-31T03:57:47Z",
+      "version": 3,
+      "changeset": 119139492,
+      "user": "hkpeakname",
+      "uid": 15436648,
+      "tags": {
+        "ele": "159",
+        "name": "姻緣石 Lover's Rock",
+        "name:en": "Lover's Rock",
+        "name:zh": "姻緣石",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1019305706,
+      "lat": 22.282598,
+      "lon": 114.183816,
+      "timestamp": "2023-10-21T07:19:47Z",
+      "version": 10,
+      "changeset": 142910648,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "historic": "cannon",
+        "name": "怡和午砲 Noonday Gun",
+        "name:en": "Noonday Gun",
+        "name:zh": "怡和午砲",
+        "tourism": "attraction",
+        "wikidata": "Q837123",
+        "wikimedia_commons": "Category:The Jardines Noonday Gun",
+        "wikipedia": "en:Noonday Gun"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1093902099,
+      "lat": 22.2535401,
+      "lon": 114.2555394,
+      "timestamp": "2018-12-28T12:45:35Z",
+      "version": 5,
+      "changeset": 65840685,
+      "user": "This Is A Display Name Desu",
+      "uid": 196051,
+      "tags": {
+        "alt_name:en": "Cape Collinson Battery Defence Electric Light (North)",
+        "historic": "ruins",
+        "name": "歌連臣角砲台探射燈碉堡 Cape Collinson Battery Searchlight (North)",
+        "name:en": "Cape Collinson Battery Searchlight (North)",
+        "name:zh": "歌連臣角砲台探射燈碉堡",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1093902109,
+      "lat": 22.253272,
+      "lon": 114.2554401,
+      "timestamp": "2018-12-28T12:45:35Z",
+      "version": 7,
+      "changeset": 65840685,
+      "user": "This Is A Display Name Desu",
+      "uid": 196051,
+      "tags": {
+        "alt_name:en": "Cape Collinson Battery Defence Electric Light (South)",
+        "alt_name:zh": "大電視",
+        "historic": "ruins",
+        "name": "歌連臣角砲台探射燈碉堡 Cape Collinson Battery Searchlight (South)",
+        "name:en": "Cape Collinson Battery Searchlight (South)",
+        "name:zh": "歌連臣角砲台探射燈碉堡",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1122164722,
+      "lat": 22.2181952,
+      "lon": 114.2125152,
+      "timestamp": "2020-01-17T15:45:35Z",
+      "version": 6,
+      "changeset": 79705011,
+      "user": "vbertola",
+      "uid": 4347030,
+      "tags": {
+        "name": "赤柱市集 Stanley Market",
+        "name:en": "Stanley Market",
+        "name:zh": "赤柱市集",
+        "tourism": "attraction",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1145313766,
+      "lat": 22.257631,
+      "lon": 114.192126,
+      "timestamp": "2011-06-09T01:15:39Z",
+      "version": 2,
+      "changeset": 8384761,
+      "user": "bTonyB",
+      "uid": 230481,
+      "tags": {
+        "historic": "ruins",
+        "name": "Pillbox PB3",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1276535198,
+      "lat": 22.2424449,
+      "lon": 114.1917075,
+      "timestamp": "2011-05-09T00:45:32Z",
+      "version": 2,
+      "changeset": 8088949,
+      "user": "bTonyB",
+      "uid": 230481,
+      "tags": {
+        "historic": "ruins",
+        "name": "Middle Spur AOP",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1458518665,
+      "lat": 22.2610317,
+      "lon": 114.19518,
+      "timestamp": "2025-08-12T13:05:09Z",
+      "version": 2,
+      "changeset": 170341301,
+      "user": "Jeremy Liong",
+      "uid": 9185571,
+      "tags": {
+        "historic": "ruins",
+        "name": "Pillbox JLO1",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1572955025,
+      "lat": 22.1609358,
+      "lon": 114.2561908,
+      "timestamp": "2025-08-22T18:44:26Z",
+      "version": 13,
+      "changeset": 170847753,
+      "user": "ubahnverleih",
+      "uid": 114388,
+      "tags": {
+        "archaeological_site": "petroglyph",
+        "heritage": "2",
+        "historic": "archaeological_site",
+        "name": "蒲台島石刻 Rock Carvings on Po Toi Island",
+        "name:en": "Rock Carvings on Po Toi Island",
+        "name:zh": "蒲台島石刻",
+        "ref:hk": "M0006",
+        "tourism": "attraction",
+        "wikidata": "Q15930011"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1658864663,
+      "lat": 22.2461941,
+      "lon": 114.2487864,
+      "timestamp": "2023-10-26T15:32:20Z",
+      "version": 9,
+      "changeset": 143167868,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "heritage": "2",
+        "historic": "archaeological_site",
+        "name": "大浪灣石刻 Big Wave Bay Rock Carving",
+        "name:en": "Big Wave Bay Rock Carving",
+        "name:zh": "大浪灣石刻",
+        "ref:hk": "M0001",
+        "tourism": "attraction",
+        "wikidata": "Q10936432",
+        "wikimedia_commons": "Category:Big Wave Bay Rock Carving",
+        "wikipedia": "zh:大浪灣石刻"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1676464182,
+      "lat": 22.2063001,
+      "lon": 114.2175929,
+      "timestamp": "2017-12-28T03:31:00Z",
+      "version": 4,
+      "changeset": 54972359,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "犀牛石 Rhino Rock",
+        "name:en": "Rhino Rock",
+        "name:zh": "犀牛石",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2120886241,
+      "lat": 22.2051698,
+      "lon": 114.1453687,
+      "timestamp": "2013-01-20T12:27:54Z",
+      "version": 1,
+      "changeset": 14719290,
+      "user": "bTonyB",
+      "uid": 230481,
+      "tags": {
+        "historic": "ruins",
+        "name": "Old School",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2130595424,
+      "lat": 22.4031629,
+      "lon": 114.2449752,
+      "timestamp": "2020-07-04T12:08:38Z",
+      "version": 5,
+      "changeset": 87529571,
+      "user": "Pizza加菠蘿",
+      "uid": 11426978,
+      "tags": {
+        "ele": "240",
+        "historic": "mine",
+        "mineral": "iron",
+        "name": "馬鞍山礦場 Ma On Shan Iron Mines 240M入口",
+        "name:en": "Ma On Shan Iron Mines",
+        "name:zh": "馬鞍山礦場",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2130611963,
+      "lat": 22.3964178,
+      "lon": 114.2462356,
+      "timestamp": "2024-10-12T10:31:28Z",
+      "version": 7,
+      "changeset": 157789184,
+      "user": "Lepuse",
+      "uid": 9560399,
+      "tags": {
+        "alt_name:zh": "龍船石",
+        "name": "獨木舟石 Canoe Rock",
+        "name:en": "Canoe Rock",
+        "name:zh": "獨木舟石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2439978557,
+      "lat": 22.3377461,
+      "lon": 114.2644625,
+      "timestamp": "2025-08-27T10:34:05Z",
+      "version": 6,
+      "changeset": 171072766,
+      "user": "KX675",
+      "uid": 31685,
+      "tags": {
+        "amenity": "fountain",
+        "drinking_water": "no",
+        "name": "天一泉 One-World-Fountain",
+        "name:en": "One-World-Fountain",
+        "name:zh": "天一泉",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2525250101,
+      "lat": 22.2771695,
+      "lon": 114.158577,
+      "timestamp": "2025-11-25T08:39:57Z",
+      "version": 6,
+      "changeset": 175098986,
+      "user": "Cypp0847",
+      "uid": 9161716,
+      "tags": {
+        "funicular": "yes",
+        "name": "花園道 Garden Road",
+        "name:en": "Garden Road",
+        "name:zh": "花園道",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "funicular",
+        "tourism": "attraction",
+        "tram": "yes",
+        "website": "https://www.thepeak.com.hk/",
+        "wikidata": "Q5522306"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2802933901,
+      "lat": 22.2525533,
+      "lon": 114.1746421,
+      "timestamp": "2026-03-29T11:56:28Z",
+      "version": 5,
+      "changeset": 180579322,
+      "user": "Hidden Mountain",
+      "uid": 14202257,
+      "tags": {
+        "archaeological_site": "petroglyph",
+        "historic": "archaeological_site",
+        "historic:period": "stone-age",
+        "name": "黃竹坑石刻 Rock Carvings at Wong Chuk Hang",
+        "name:en": "Rock Carvings at Wong Chuk Hang",
+        "name:zh": "黃竹坑石刻",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3151878479,
+      "lat": 22.3895339,
+      "lon": 114.2275598,
+      "timestamp": "2024-04-21T09:22:43Z",
+      "version": 11,
+      "changeset": 150293268,
+      "user": "GSF1200S",
+      "uid": 16705050,
+      "tags": {
+        "alt_name": "元陽石",
+        "alt_name:zh": "元陽石",
+        "description:en": "penis shape",
+        "description:zh": "類似中國廣東省韶關市丹霞山的陽元石",
+        "loc_name": "朝陽石",
+        "loc_name:zh": "元陽石",
+        "name": "陽元石",
+        "name:zh": "陽元石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3712152167,
+      "lat": 22.1646736,
+      "lon": 114.2505963,
+      "timestamp": "2017-10-10T00:56:02Z",
+      "version": 2,
+      "changeset": 52775959,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "響螺石 Conch Rock",
+        "name:en": "Conch Rock",
+        "name:zh": "響螺石",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3712152168,
+      "lat": 22.1649607,
+      "lon": 114.2584763,
+      "timestamp": "2015-08-24T15:20:47Z",
+      "version": 1,
+      "changeset": 33549547,
+      "user": "ystsoi",
+      "uid": 2238851,
+      "tags": {
+        "name": "巫氏古宅 Mo's Old House",
+        "name:en": "Mo's Old House",
+        "name:zh": "巫氏古宅",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3712152169,
+      "lat": 22.1579857,
+      "lon": 114.2589836,
+      "timestamp": "2022-03-08T16:58:53Z",
+      "version": 4,
+      "changeset": 118244324,
+      "user": "hsys",
+      "uid": 9219126,
+      "tags": {
+        "name": "僧人石 Monk Rock",
+        "name:en": "Monk Rock",
+        "name:zh": "僧人石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3712152170,
+      "lat": 22.1578182,
+      "lon": 114.2569498,
+      "timestamp": "2020-09-19T08:34:06Z",
+      "version": 3,
+      "changeset": 91143250,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "佛手崖 Palm Cliff",
+        "name:en": "Palm Cliff",
+        "name:zh": "佛手崖",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3712152171,
+      "lat": 22.1580645,
+      "lon": 114.2587804,
+      "timestamp": "2022-03-08T16:58:53Z",
+      "version": 3,
+      "changeset": 118244324,
+      "user": "hsys",
+      "uid": 9219126,
+      "tags": {
+        "name": "靈龜上山石 Turtle Rock",
+        "name:en": "Turtle Rock",
+        "name:zh": "靈龜上山石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3965148556,
+      "lat": 22.3489008,
+      "lon": 114.1871579,
+      "timestamp": "2020-08-24T19:08:31Z",
+      "version": 5,
+      "changeset": 89874332,
+      "user": "Free gems 8",
+      "uid": 7646386,
+      "tags": {
+        "name": "雄獅拉矢石",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4331969136,
+      "lat": 22.3386941,
+      "lon": 114.2622007,
+      "timestamp": "2019-02-04T01:28:02Z",
+      "version": 4,
+      "changeset": 66889987,
+      "user": "KX675",
+      "uid": 31685,
+      "tags": {
+        "entrance": "main",
+        "name": "香港科技大學北閘 HKUST North Gate",
+        "name:en": "HKUST North Gate",
+        "name:yue": "香港科技大學北閘",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4436569965,
+      "lat": 22.3825219,
+      "lon": 114.2221449,
+      "timestamp": "2024-01-09T01:20:17Z",
+      "version": 3,
+      "changeset": 146047883,
+      "user": "GSF1200S",
+      "uid": 16705050,
+      "tags": {
+        "name": "花心石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4443950090,
+      "lat": 22.290617,
+      "lon": 114.1676469,
+      "timestamp": "2023-10-21T07:19:47Z",
+      "version": 6,
+      "changeset": 142910648,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "幻彩詠香江 Symphony of Lights",
+        "name:en": "Symphony of Lights",
+        "name:ko": "심포니 오브 라이츠",
+        "name:zh": "幻彩詠香江",
+        "tourism": "attraction",
+        "wikidata": "Q1068874",
+        "wikipedia": "en:A Symphony of Lights"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4537843192,
+      "lat": 22.3383424,
+      "lon": 114.2230743,
+      "timestamp": "2024-12-24T12:34:59Z",
+      "version": 10,
+      "changeset": 160574070,
+      "user": "Halbmastwurf",
+      "uid": 20777909,
+      "tags": {
+        "alt_name": "騎樓石",
+        "alt_name2": "主壁 Main Crag",
+        "climbing": "crag",
+        "name": "自殺崖 Suicide Wall",
+        "name:en": "Suicide Wall",
+        "name:zh": "自殺崖",
+        "natural": "cliff",
+        "sport": "climbing",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4646376111,
+      "lat": 22.215718,
+      "lon": 114.2015582,
+      "timestamp": "2017-06-17T06:14:04Z",
+      "version": 4,
+      "changeset": 49607469,
+      "user": "kfyip",
+      "uid": 2490180,
+      "tags": {
+        "name": "魔爪石",
+        "name:zh": "魔爪石",
+        "natural": "rock",
+        "place": "locality",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4646383925,
+      "lat": 22.2142018,
+      "lon": 114.1999862,
+      "timestamp": "2024-10-12T10:31:28Z",
+      "version": 8,
+      "changeset": 157789184,
+      "user": "Lepuse",
+      "uid": 9560399,
+      "tags": {
+        "alt_name": "Snoppy石",
+        "alt_name:zh": "狗仔石",
+        "name": "狗頭石 Snoopy Rock",
+        "name:en": "Snoopy Rock",
+        "name:zh": "狗頭石",
+        "natural": "rock",
+        "place": "locality",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4721469991,
+      "lat": 22.2717923,
+      "lon": 114.1333848,
+      "timestamp": "2025-08-17T10:15:13Z",
+      "version": 2,
+      "changeset": 170558325,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "西高山西崖入口",
+        "name:zh": "西高山西崖入口",
+        "name:zh-Hans": "西高山西崖入口",
+        "name:zh-Hant": "西高山西崖入口",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4721581390,
+      "lat": 22.2721786,
+      "lon": 114.1340496,
+      "timestamp": "2025-08-17T10:15:13Z",
+      "version": 2,
+      "changeset": 170558325,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "西高崖底",
+        "name:zh": "西高崖底",
+        "name:zh-Hans": "西高崖底",
+        "name:zh-Hant": "西高崖底",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4758952308,
+      "lat": 22.2147935,
+      "lon": 114.2005545,
+      "timestamp": "2026-01-21T01:39:44Z",
+      "version": 7,
+      "changeset": 177500893,
+      "user": "Hb-",
+      "uid": 162827,
+      "tags": {
+        "name": "骷髏石",
+        "name:en": "Skull Rock",
+        "name:zh": "骷髏石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4771915169,
+      "lat": 22.3450569,
+      "lon": 114.2175746,
+      "timestamp": "2021-12-11T09:25:57Z",
+      "version": 7,
+      "changeset": 114810893,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "landform": "rock",
+        "name": "仙人曬靴石",
+        "name:zh": "仙人曬靴石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4771953720,
+      "lat": 22.3616687,
+      "lon": 114.2240173,
+      "timestamp": "2021-12-11T09:24:04Z",
+      "version": 13,
+      "changeset": 114810844,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "landform": "rock",
+        "name": "兔仔許願石",
+        "name:yue": "兔仔許願石",
+        "name:zh": "兔仔許願石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4780310523,
+      "lat": 22.3041789,
+      "lon": 114.1697182,
+      "timestamp": "2023-10-21T07:19:47Z",
+      "version": 3,
+      "changeset": 142910648,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "name": "廟街 Temple Street",
+        "name:en": "Temple Street",
+        "name:zh": "廟街",
+        "tourism": "attraction",
+        "wikidata": "Q7698673",
+        "wikimedia_commons": "Category:Temple Street, Hong Kong",
+        "wikipedia": "zh:廟街 (香港)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4794982521,
+      "lat": 22.2536921,
+      "lon": 114.2535604,
+      "timestamp": "2020-04-11T03:30:05Z",
+      "version": 4,
+      "changeset": 83387140,
+      "user": "Wright One",
+      "uid": 261189,
+      "tags": {
+        "historic": "ruins",
+        "name": "歌連臣角舊英軍發電碉堡 Cape Collinson Battery Defence Electric Light Engine Room",
+        "name:en": "Cape Collinson Battery Defence Electric Light Engine Room",
+        "name:zh": "歌連臣角舊英軍發電碉堡",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4828151922,
+      "lat": 22.4008983,
+      "lon": 114.2378839,
+      "timestamp": "2024-10-27T11:00:29Z",
+      "version": 5,
+      "changeset": 158407575,
+      "user": "GSF1200S",
+      "uid": 16705050,
+      "tags": {
+        "name": "真肥豬石",
+        "name:en": "Pig Rock",
+        "name:zh": "真肥豬石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4834619277,
+      "lat": 22.2077855,
+      "lon": 114.2603356,
+      "timestamp": "2017-05-04T12:32:42Z",
+      "version": 1,
+      "changeset": 48393492,
+      "user": "ystsoi",
+      "uid": 2238851,
+      "tags": {
+        "name": "鯨魚骨 Whale Bone",
+        "name:en": "Whale Bone",
+        "name:zh": "鯨魚骨",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4839621573,
+      "lat": 22.3963851,
+      "lon": 114.246163,
+      "timestamp": "2021-12-11T09:22:57Z",
+      "version": 8,
+      "changeset": 114810808,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "landform": "rock",
+        "name": "鱷魚張口",
+        "name:zh": "鱷魚張口",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4923641621,
+      "lat": 22.296242,
+      "lon": 114.1729015,
+      "timestamp": "2017-09-21T19:50:42Z",
+      "version": 2,
+      "changeset": 52255165,
+      "user": "bgard",
+      "uid": 6172648,
+      "tags": {
+        "name:en": "Chungking mansions",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4962599421,
+      "lat": 22.2858951,
+      "lon": 114.1526149,
+      "timestamp": "2024-09-27T23:54:29Z",
+      "version": 3,
+      "changeset": 157191650,
+      "user": "KX675",
+      "uid": 31685,
+      "tags": {
+        "addr:housenumber": "61",
+        "addr:street": "永樂街 Wing Lok Street",
+        "name:en": "Shun Heng Hong",
+        "opening_hours": "Mo-Sa 10:30-15:30",
+        "phone": "+852 2544 1911",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040215422,
+      "lat": 22.2817793,
+      "lon": 114.235646,
+      "timestamp": "2017-08-17T03:51:41Z",
+      "version": 1,
+      "changeset": 51192041,
+      "user": "Vancouver Pearl",
+      "uid": 5170345,
+      "tags": {
+        "name": "鯉魚門渡口砲台",
+        "name:zh": "鯉魚門渡口砲台",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5069449421,
+      "lat": 22.3010114,
+      "lon": 114.1730881,
+      "timestamp": "2026-01-05T07:41:21Z",
+      "version": 5,
+      "changeset": 176848646,
+      "user": "luftmolch",
+      "uid": 23278336,
+      "tags": {
+        "name": "諾士佛臺 Knutsford Terrace",
+        "name:en": "Knutsford Terrace",
+        "name:zh": "諾士佛臺",
+        "tourism": "attraction",
+        "wikidata": "Q6424045",
+        "wikimedia_commons": "Category:Knutsford Terrace",
+        "wikipedia": "zh:諾士佛臺"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5778191354,
+      "lat": 22.2468144,
+      "lon": 114.159421,
+      "timestamp": "2018-07-23T03:00:22Z",
+      "version": 1,
+      "changeset": 60967130,
+      "user": "Amy Victoria",
+      "uid": 8587519,
+      "tags": {
+        "name:en": "Sampan Boat",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5858900385,
+      "lat": 22.2790858,
+      "lon": 114.1811876,
+      "timestamp": "2025-12-10T12:39:52Z",
+      "version": 3,
+      "changeset": 175757668,
+      "user": "vectorial8192",
+      "uid": 10815817,
+      "tags": {
+        "amenity": "marketplace",
+        "covered": "yes",
+        "description": "Traditional hitting villians spot",
+        "description:en": "Traditional hitting villians spot",
+        "indoor": "no",
+        "informal": "yes",
+        "marketplace": "religion",
+        "name": "鵝頸橋打小人 Bowrington Bridge villain hitting",
+        "name:en": "Bowrington Bridge villain hitting",
+        "name:zh": "鵝頸橋打小人",
+        "religion": "folk",
+        "street_vendor": "only",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5881488985,
+      "lat": 22.3110785,
+      "lon": 114.1702731,
+      "timestamp": "2019-06-04T15:52:39Z",
+      "version": 4,
+      "changeset": 70928112,
+      "user": "Momocalbee",
+      "uid": 1724771,
+      "tags": {
+        "name": "廟街夜市 Temple Street Night Market",
+        "name:en": "Temple Street Night Market (North)",
+        "name:zh": "廟街夜市",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5923815985,
+      "lat": 22.272836,
+      "lon": 114.1732127,
+      "timestamp": "2019-12-26T11:08:41Z",
+      "version": 2,
+      "changeset": 78877288,
+      "user": "green_leek",
+      "uid": 3559445,
+      "tags": {
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6000578186,
+      "lat": 22.2790216,
+      "lon": 114.1872268,
+      "timestamp": "2025-02-22T00:41:37Z",
+      "version": 3,
+      "changeset": 162800651,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "奧運橋 Olympic Bridge",
+        "name:en": "Olympic Bridge",
+        "name:zh": "奧運橋",
+        "name:zh-Hans": "奥运桥",
+        "name:zh-Hant": "奧運橋",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6000731285,
+      "lat": 22.3172728,
+      "lon": 114.2133959,
+      "timestamp": "2025-01-21T04:56:22Z",
+      "version": 2,
+      "changeset": 161586282,
+      "user": "minghong",
+      "uid": 541214,
+      "tags": {
+        "name": "志明橋 Jimmy Bridge",
+        "name:en": "Jimmy Bridge",
+        "name:zh": "志明橋",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6243489585,
+      "lat": 22.3233481,
+      "lon": 114.168688,
+      "timestamp": "2019-01-29T04:25:25Z",
+      "version": 1,
+      "changeset": 66725644,
+      "user": "Maggie Chin",
+      "uid": 7750572,
+      "tags": {
+        "addr:street": "太子道西 Prince Edward Road West",
+        "name:en": "Allied Plaza",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6257419188,
+      "lat": 22.2832354,
+      "lon": 114.1537527,
+      "timestamp": "2026-01-15T17:25:47Z",
+      "version": 3,
+      "changeset": 177268014,
+      "user": "KX675",
+      "uid": 31685,
+      "tags": {
+        "addr:street": "嘉咸街 Graham Street",
+        "addr:street:en": "Graham Street",
+        "addr:street:zh": "嘉咸街",
+        "historic": "marketplace",
+        "name": "嘉咸街街市 Graham Street Street Market",
+        "name:en": "Graham Street Street Market",
+        "name:zh": "嘉咸街街市",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6344539485,
+      "lat": 22.2777183,
+      "lon": 114.1767457,
+      "timestamp": "2025-02-12T02:23:57Z",
+      "version": 2,
+      "changeset": 162412770,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "Neon Deer",
+        "name:en": "Neon Deer",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6441853585,
+      "lat": 22.3486549,
+      "lon": 114.213907,
+      "timestamp": "2023-05-24T07:21:42Z",
+      "version": 6,
+      "changeset": 136484627,
+      "user": "GSF1200S",
+      "uid": 16705050,
+      "tags": {
+        "name": "鯊魚石 Shark Rock",
+        "name:en": "Shark Rock",
+        "name:zh": "鯊魚石",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6535032893,
+      "lat": 22.2760702,
+      "lon": 114.1576593,
+      "timestamp": "2023-11-20T02:42:25Z",
+      "version": 6,
+      "changeset": 144229034,
+      "user": "Dragonhk",
+      "uid": 15230995,
+      "tags": {
+        "name": "舊紅色/綠色車廂山頂纜車 Old Peak Tram carriages",
+        "name:en": "Old Peak Tram carriages",
+        "name:zh": "舊紅色/綠色車廂山頂纜車",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7235040655,
+      "lat": 22.2866146,
+      "lon": 114.2235674,
+      "timestamp": "2020-02-22T11:18:42Z",
+      "version": 1,
+      "changeset": 81343484,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "landuse": "retail",
+        "name": "SoHo East 蘇豪東",
+        "name:en": "SoHo East",
+        "name:zh": "蘇豪東",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7893330412,
+      "lat": 22.283452,
+      "lon": 114.1540654,
+      "timestamp": "2024-10-27T14:23:52Z",
+      "version": 3,
+      "changeset": 158415500,
+      "user": "GasaiYuno",
+      "uid": 10054182,
+      "tags": {
+        "historic": "shop",
+        "level": "0",
+        "level:ref": "G",
+        "name": "永和號 Wing Woo Grocery",
+        "name:en": "Wing Woo Grocery",
+        "name:yue": "永和號",
+        "tourism": "attraction",
+        "was:shop": "grocery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8547956279,
+      "lat": 22.2791631,
+      "lon": 114.131277,
+      "timestamp": "2023-10-21T07:19:47Z",
+      "version": 7,
+      "changeset": 142910648,
+      "user": "tg4567",
+      "uid": 12500589,
+      "tags": {
+        "boundary": "historic",
+        "disused:admin_level": "6",
+        "disused:boundary": "administrative",
+        "format": "squared_stone",
+        "format:top": "pyramidal",
+        "height": "1.36",
+        "historic": "boundary_stone",
+        "inscription": "CITY|BOUNDARY|1903",
+        "inscription:en": "CITY|BOUNDARY|1903",
+        "man_made": "obelisk",
+        "material": "stone",
+        "obelisk:size": "medium",
+        "related_law": "第1章附表1 Chapter 1 Schedule 1",
+        "related_law:en": "Chapter 1 Schedule 1",
+        "related_law:url": "https://www.elegislation.gov.hk/hk/cap1?xpid=ID_1438402522937_002",
+        "related_law:zh": "第1章附表1",
+        "start_date": "1903",
+        "tourism": "attraction",
+        "visibility": "house",
+        "wikidata": "Q15915746",
+        "wikimedia_commons": "Category:Victoria City boundary stones"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9259959494,
+      "lat": 22.3928152,
+      "lon": 114.2447033,
+      "timestamp": "2021-11-17T10:59:45Z",
+      "version": 1,
+      "changeset": 113892314,
+      "user": "Barry Lee Hiking",
+      "uid": 8796518,
+      "tags": {
+        "name": "中尉石室",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9260002514,
+      "lat": 22.3928491,
+      "lon": 114.2444965,
+      "timestamp": "2021-11-17T10:57:05Z",
+      "version": 1,
+      "changeset": 113892180,
+      "user": "Barry Lee Hiking",
+      "uid": 8796518,
+      "tags": {
+        "name": "金字塔石 Pyramid Rock",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9327389537,
+      "lat": 22.3424414,
+      "lon": 114.2228152,
+      "timestamp": "2025-03-12T09:30:40Z",
+      "version": 9,
+      "changeset": 163518949,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "landform": "rock",
+        "loc_name": "燒鵝乳豬石",
+        "loc_name:zh": "燒鵝乳豬石",
+        "name": "肥豬石",
+        "name:zh": "肥豬石",
+        "natural": "rock",
+        "reg_name": "乳豬石",
+        "reg_name:zh": "乳豬石",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9327492107,
+      "lat": 22.3463747,
+      "lon": 114.2222737,
+      "timestamp": "2021-12-11T08:10:50Z",
+      "version": 8,
+      "changeset": 114809179,
+      "user": "Kovoschiz",
+      "uid": 6250193,
+      "tags": {
+        "name": "綿羊頭石",
+        "name:yue": "綿羊頭石",
+        "name:zh": "綿羊頭石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9404751970,
+      "lat": 22.3485167,
+      "lon": 114.2133398,
+      "timestamp": "2023-05-25T09:21:25Z",
+      "version": 3,
+      "changeset": 136534591,
+      "user": "GSF1200S",
+      "uid": 16705050,
+      "tags": {
+        "name": "空心樹 Hollow Tree",
+        "name:en": "Hollow Tree",
+        "name:zh": "空心樹",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9516972932,
+      "lat": 22.1861949,
+      "lon": 114.1446927,
+      "timestamp": "2022-04-03T10:17:10Z",
+      "version": 2,
+      "changeset": 119259001,
+      "user": "hkpeakname",
+      "uid": 15436648,
+      "tags": {
+        "ele": "112",
+        "name": "山字石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9626292673,
+      "lat": 22.2623884,
+      "lon": 114.2566203,
+      "timestamp": "2025-07-23T03:46:19Z",
+      "version": 8,
+      "changeset": 169321320,
+      "user": "Jeremy Liong",
+      "uid": 9185571,
+      "tags": {
+        "access": "yes",
+        "addr:country": "HK",
+        "addr:street": "黑角徑 Cape Collinson Path,",
+        "description": "measuring about 160cm high , 260cm wide",
+        "ele": "11",
+        "historic": "archaeological_site",
+        "historic:civilization": "bronze_age",
+        "image": "https://zh.wikipedia.org/wiki/File:Rock_Carving_at_Cape_Collinson,_Chai_Wan.jpg",
+        "name": "黑角頭石刻",
+        "name:en": "rock carving at Cape Collinson",
+        "source": "https://www.news.gov.hk/eng/2019/10/20191025/20191025_120449_301.html",
+        "tourism": "attraction",
+        "wikipedia": "zh:黑角頭石刻"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10599366370,
+      "lat": 22.374177,
+      "lon": 114.2094537,
+      "timestamp": "2023-02-01T16:48:17Z",
+      "version": 2,
+      "changeset": 131970666,
+      "user": "Barry Lee Hiking",
+      "uid": 8796518,
+      "tags": {
+        "name": "微笑老鼠石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10603802505,
+      "lat": 22.2934509,
+      "lon": 114.1724301,
+      "timestamp": "2023-02-03T10:25:38Z",
+      "version": 1,
+      "changeset": 132036085,
+      "user": "PhilippB1",
+      "uid": 7187877,
+      "tags": {
+        "name:en": "Wooden Cube",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10660655105,
+      "lat": 22.348814,
+      "lon": 114.1882257,
+      "timestamp": "2023-11-29T02:50:24Z",
+      "version": 2,
+      "changeset": 144571241,
+      "user": "千溪水印",
+      "uid": 18486467,
+      "tags": {
+        "name:en": "獅王點將台",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11299402069,
+      "lat": 22.3259317,
+      "lon": 114.164928,
+      "timestamp": "2023-10-30T07:31:04Z",
+      "version": 1,
+      "changeset": 143348745,
+      "user": "JLTCLEE",
+      "uid": 16958151,
+      "tags": {
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12204667741,
+      "lat": 22.3965693,
+      "lon": 114.2462851,
+      "timestamp": "2024-09-27T09:19:01Z",
+      "version": 1,
+      "changeset": 157161561,
+      "user": "Cypp0847",
+      "uid": 9161716,
+      "tags": {
+        "landform": "rock",
+        "name": "試劍石",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12492976393,
+      "lat": 22.2708409,
+      "lon": 114.1496004,
+      "timestamp": "2025-01-11T20:25:10Z",
+      "version": 1,
+      "changeset": 161252960,
+      "user": "vbertola",
+      "uid": 4347030,
+      "tags": {
+        "name:en": "Historic tram car",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12564255233,
+      "lat": 22.2434429,
+      "lon": 114.1750548,
+      "timestamp": "2025-02-07T01:58:07Z",
+      "version": 1,
+      "changeset": 162228748,
+      "user": "Cypp0847",
+      "uid": 9161716,
+      "tags": {
+        "name": "海馬標誌 Seahorse insignia",
+        "name:en": "Seahorse insignia",
+        "name:yue": "海馬標誌",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12723335842,
+      "lat": 22.281232,
+      "lon": 114.1272598,
+      "timestamp": "2025-07-30T15:38:54Z",
+      "version": 2,
+      "changeset": 169727588,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "Forbes Street Tree Wall 科士街樹牆",
+        "name:en": "Forbes Street Tree Wall",
+        "name:zh": "科士街樹牆",
+        "name:zh-Hans": "科士街树墙",
+        "name:zh-Hant": "科士街樹牆",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12749691976,
+      "lat": 22.3794195,
+      "lon": 114.1777322,
+      "timestamp": "2025-04-13T15:18:36Z",
+      "version": 2,
+      "changeset": 164900247,
+      "user": "vectorial8192",
+      "uid": 10815817,
+      "tags": {
+        "name": "博雅山莊 Pok Ngar Villa",
+        "name:en": "Pok Ngar Villa",
+        "name:zh": "博雅山莊",
+        "note": "城門 Shing Mun",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12886219777,
+      "lat": 22.3299967,
+      "lon": 114.1683567,
+      "timestamp": "2025-06-04T08:29:32Z",
+      "version": 1,
+      "changeset": 167166455,
+      "user": "Cypp0847",
+      "uid": 9161716,
+      "tags": {
+        "name": "前深水埗配水庫 Ex-Sham Shui Po Service Reservoir",
+        "name:en": "Ex-Sham Shui Po Service Reservoir",
+        "name:zh": "前深水埗配水庫",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13161373501,
+      "lat": 22.2489584,
+      "lon": 114.1365881,
+      "timestamp": "2025-12-18T07:29:45Z",
+      "version": 4,
+      "changeset": 176080494,
+      "user": "Cypp0847",
+      "uid": 9161716,
+      "tags": {
+        "alt_name": "The Graveyard of abandoned Gods",
+        "name": "神像山 A Sky Full of Gods and Buddhas",
+        "name:en": "A Sky Full of Gods and Buddhas",
+        "name:zh": "神像山",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13243260390,
+      "lat": 22.207851,
+      "lon": 114.1600241,
+      "timestamp": "2025-10-19T13:35:42Z",
+      "version": 1,
+      "changeset": 173491994,
+      "user": "Jeremy Liong",
+      "uid": 9185571,
+      "tags": {
+        "name": "獅象鬥法",
+        "natural": "rock",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13724513123,
+      "lat": 22.320478,
+      "lon": 114.1283533,
+      "timestamp": "2026-04-12T04:16:00Z",
+      "version": 1,
+      "changeset": 181213843,
+      "user": "フーヴァー　リー",
+      "uid": 18110850,
+      "tags": {
+        "name": "青沙公路觀景點",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13724515019,
+      "lat": 22.2811553,
+      "lon": 114.1270967,
+      "timestamp": "2026-04-12T03:54:41Z",
+      "version": 1,
+      "changeset": 181213670,
+      "user": "フーヴァー　リー",
+      "uid": 18110850,
+      "tags": {
+        "name": "堅尼地城籃球場打卡點",
+        "name:zh": "堅尼地城籃球場打卡點",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13724515021,
+      "lat": 22.3097339,
+      "lon": 114.1688268,
+      "timestamp": "2026-04-12T03:54:41Z",
+      "version": 1,
+      "changeset": 181213670,
+      "user": "フーヴァー　リー",
+      "uid": 18110850,
+      "tags": {
+        "name": "油麻地警署",
+        "name:zh": "油麻地警署",
+        "tourism": "attraction",
+        "wikidata": "Q8050314",
+        "wikipedia": "zh:舊油麻地警署"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13770841773,
+      "lat": 22.3325536,
+      "lon": 114.1908024,
+      "timestamp": "2026-04-28T14:44:15Z",
+      "version": 1,
+      "changeset": 181944885,
+      "user": "vbertola",
+      "uid": 4347030,
+      "tags": {
+        "name:en": "Chinese Zodiac Sculptures",
+        "tourism": "attraction"
+      }
+    }
+  ]
+}

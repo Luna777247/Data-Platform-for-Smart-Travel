@@ -1,0 +1,173 @@
+{
+  "u_key": "5335c9efe43c0f96",
+  "original_osm_name": "Rooftop coffee - Infinity Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0926 141 357",
+    "geometry": {
+      "location": {
+        "lat": 21.0301704,
+        "lng": 105.8440809
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03147828029151,
+          "lng": 105.8454206802915
+        },
+        "southwest": {
+          "lat": 21.0287803197085,
+          "lng": 105.8427227197085
+        }
+      }
+    },
+    "name": "Lagoon Rooftop Hà Nội",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:00",
+        "Thứ Ba: 11:00–23:00",
+        "Thứ Tư: 11:00–23:00",
+        "Thứ Năm: 11:00–23:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 13:00–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Trọng Quyền Giang",
+        "author_url": "https://www.google.com/maps/contrib/112308629208712203523/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzc_xU7dm82XD4Htn7BwNu66FVAGm-HloCtJcgecfhQ4al9w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Mình tìm thấy quán này trên google , nên mình chọn quán để ngồi xem pháo hoa . Không mong đợi gì nhiều nhưng nước và bánh ngọt ở đây rất oke nha ( theo cảm nhận của mình ) . Vibe quán này cũng rất chill , hợp cho các đôi đi hẹn hò hoặc có thể lên đây làm việc . Các bạn nhân viên lại nhiệt tình dễ thương",
+        "time": 1756816010,
+        "translated": false
+      },
+      {
+        "author_name": "Hồng Nhung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/105451476636264682728/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUM7hSxscYsxQ78c1CNDNsZVo2a4FXl9e4TOdaLZ951ShRAIO4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Nhân viên ngoan, nhiệt tình, đồ uống ngon, không gian k quá đông đúc, phù hợp đi date hoặc ngồi làm việc. Khá riêng tư và yên tĩnh",
+        "time": 1762941804,
+        "translated": false
+      },
+      {
+        "author_name": "Yến Yến",
+        "author_url": "https://www.google.com/maps/contrib/105651154824493100904/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOSNWTCPOf8HjVY54DiJp8M4f-8agZi_Gwg16AuOeZklCPXfpB=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn siu ngon, nhân viên nhiệt tình, không khí chill chill. Chắc chắn sẽ quay lại!!!",
+        "time": 1738085984,
+        "translated": false
+      },
+      {
+        "author_name": "Lan Anh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111324773976520512838/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXUH5nhdgfg9HCVxcJrnj9LmOkTSJdiDbSbPamez3wGaint-uJxdA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán yên tĩnh, nhạc hay, đồ uống ngon, bánh ngon, nhân viên thân thiện dễ thương, không gian trong nhà ấm áp, ngoài trời có view đường tàu",
+        "time": 1717257251,
+        "translated": false
+      },
+      {
+        "author_name": "Cafe Railway Tuan (Original)",
+        "author_url": "https://www.google.com/maps/contrib/112540391777499260529/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURKZ8Tn7tASOd9F5wGFH2L5Yu_9F4__DCUqcggZE08VbZ6mqId=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Chất lượng tốt, view phố + đường tầu khá đẹp.\nCó dịp bạn nên ghé thăm và trải nghiệm 👌",
+        "time": 1705295188,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 85
+  },
+  "harvested_at": "2026-04-27T19:57:55.679074"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "32a31a6e1df8afeb",
+  "original_osm_name": "Quán thịt trâu",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0137792,
+        "lng": 105.8499697
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0150268802915,
+          "lng": 105.8512762302915
+        },
+        "southwest": {
+          "lat": 21.0123289197085,
+          "lng": 105.8485782697085
+        }
+      }
+    },
+    "name": "Trâu Ngon Quán - 145 Bùi Thị Xuân",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:30–22:30",
+        "Thứ Ba: 10:30–22:30",
+        "Thứ Tư: 10:30–22:30",
+        "Thứ Năm: 10:30–22:30",
+        "Thứ Sáu: 10:30–22:30",
+        "Thứ Bảy: 10:30–22:30",
+        "Chủ Nhật: 10:30–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Alex Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101994342035329918825/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgJ_nV_W5mA0q2_zizMIugvHGHQRCyOrip6rZwt-LNpLkUCRA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Địa điểm ghé chân quen thuộc của các buổi tiệc tri ân đối tác. Đồ ăn vẫn ngon & tươi như xưa, thực đơn đa dạng, phục vụ rất nhanh & nhiệt tình. Nhân viên thậm chí còn hỗ trợ tư vấn và kết nối các dịch vụ tiện ích khác xung quanh không gian của quán tại phố Bùi Thị Xuân & Triệu Việt Vương.\nCó không gian phòng VIP rất ấm cúng và thoải mái.\nNgoài đồ ăn chính thì đồ tráng miệng gồm bưởi, hoa quả và chè cũng rất tươi ngon. Nhất định có dịp sẽ tiếp tục ghé thăm ủng hộ.",
+        "time": 1768356182,
+        "translated": false
+      },
+      {
+        "author_name": "Kim Liên Lê",
+        "author_url": "https://www.google.com/maps/contrib/111198505387047422677/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKklaRcfEqXhPxHQ20ZICDGJjrUxpcG_Bq4xcIW1rJZyh_Lzg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn trang trí đẹp mắt , các món rất mềm gia đình mình ăn hết, bạn tuyết phục vụ nhiệt tình, view quán đẹp",
+        "time": 1772518373,
+        "translated": false
+      },
+      {
+        "author_name": "Ly Anh",
+        "author_url": "https://www.google.com/maps/contrib/113404071183977369971/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzlGxa75spz5DmvpPwcis9pBfNqm3hz_q-TJ1NlHi0QJrZSIY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Không gian thoáng đãng, nhân viên ngoan, nhiệt tình. Đồ ăn ngon, cực kỳ đầy đặn, giá hợp lý. Đây là một trong những quán ưa thích của gia đình mình.\n\nMình thích trâu nhúng mẻ và trâu xào ngồng tỏi nhất.",
+        "time": 1760156733,
+        "translated": false
+      },
+      {
+        "author_name": "Vuong Ngo",
+        "author_url": "https://www.google.com/maps/contrib/103637051732265754310/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmatubM0yk3ADCGIQjmI9c4uXZ1u-BG7CAHOSqz2h3zBStTz0=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Quán không gian rộng, vị trí đẹp. Có chỗ để ô tô miễn phí. Đồ ăn cực kỳ tươi ngon và giá cũng rất vừa phải, ăn ở đây rất hài lòng",
+        "time": 1760266733,
+        "translated": false
+      },
+      {
+        "author_name": "Heidi Ngo",
+        "author_url": "https://www.google.com/maps/contrib/105292163159770862706/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcWe4YhlgLhaKCsHspAKO3AUy-6vSU4Mxe4E1tR5Cu_hp59a9dtw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán nằm trên hai con phố Bùi Thị Xuân và Tô Hiến Thành, không gian hai tầng rộng thoáng. Đặc biệt tầng 2 có thể ngồi ngoài trời vừa ăn vừa ngắm phố xá bên dưới. Quán có khu bàn chung và cả khu phòng riêng thích hợp tiếp khách hoặc nhóm thích yên tĩnh, riêng tư.\n\nCác món về trâu của quán khá đồng đều về chất lượng, món nào cũng ngon do thịt trâu tươi và cách nêm nếm gia giảm phù hợp. Nhất định phải thử trâu chao vừng, trâu thiết bản và trâu nướng tảng. Đây là quán trâu duy nhất mà các bạn bé nhà mình khen mềm và ngon, bình thường rủ đi ăn trâu ấn tượng đầu tiên là sợ dai😅.\n\nTrời mát nhấn nhá thêm với nồi lầu riêu cua thịt trâu cho đủ vị. Thịt trâu nhúng lẩu đưa lên bàn vẫn dẻo dính, màu tươi của thịt mới - một điều mình rất hiếm thấy ở các nhà hàng phục vụ món lẩu hiện nay. Thịt tươi, mềm và ngọt. Mình không đặt trước nên hết thịt bắp nhưng cả nhà lại rất hài lòng với thịt thăn trâu. Có lẽ thịt bắp giòn phù hợp cho anh em lai rai, thăn thì chị em và các bạn nhỏ sẽ thích hơn.\n\nLưu ý đặc biệt là các món đặc sản như trâu chao vừng, nướng tảng hoặc thiết bản thường hết sớm, khi đặt bàn nên gọi một số món luôn.\n\nNhà hàng cũng rất chu đáo khi tổ chức sinh nhật và tặng bánh kem. Đồ lên nhanh, phục vụ tốt.\n\nĐiểm góp ý duy nhất là cách bài trí lối vào. Trước đây mình thấy nhà hàng hay decor phong cách dân gian tạo không khí rất riêng và khách cũng rất hào hứng check-in. Hôm vừa rồi hơi giật mình thấy hình nộm Tôn ngộ không ngay lối vào, không liên quan lắm nhỉ!",
+        "time": 1758380390,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 683
+  },
+  "harvested_at": "2026-04-28T16:21:21.924219"
+}

@@ -1,0 +1,174 @@
+{
+  "u_key": "88f070e0224ae147",
+  "original_osm_name": "Nom Thit Bo Kho",
+  "google_raw": {
+    "formatted_phone_number": "0904 656 708",
+    "geometry": {
+      "location": {
+        "lat": 21.0320133,
+        "lng": 105.853241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0334290802915,
+          "lng": 105.8545558302915
+        },
+        "southwest": {
+          "lat": 21.0307311197085,
+          "lng": 105.8518578697085
+        }
+      }
+    },
+    "name": "Long Vi Dung Nộm Thịt Bò Khô",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:30",
+        "Thứ Ba: 08:00–22:30",
+        "Thứ Tư: 08:00–22:30",
+        "Thứ Năm: 08:00–22:30",
+        "Thứ Sáu: 08:00–22:30",
+        "Thứ Bảy: 08:00–22:30",
+        "Chủ Nhật: 08:00–22:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Ngọc Bích",
+        "author_url": "https://www.google.com/maps/contrib/100708161824659613406/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYJC-xdcv1OgW8_H7UXXb-sEA7S2cAwEgR0R4N_qePPQPRN4ad=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Hôm ấy lên hồ Gươm chụp ảnh áo dài nên đứa em đòi vào đây ăn cho tiện. Mình cũng đi qua nhiều rồi chưa ăn nên oke. Cảm nhận chung là giá hơi cao, đợi cũng hơi lâu. Muốn ăn nem cuốn mà buổi chiều ko có nên gọi nộm bò và nộm chim. Nộm bò còn đc chứ nộm chim thịt hơi bở. 110k cho 2 đĩa nộm và 2 trà đá 🥲 chắc là ko quay lại",
+        "time": 1770654885,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Khuê",
+        "author_url": "https://www.google.com/maps/contrib/118207855035174108053/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDLtXrya4b5jVwWkbRoSbdU10ocU_RVkuQpjZ2RhrdmcgA7os=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Ăn sáng chơi chơi quanh khu Hoàn Kiếm xong có thể ghé qua đây ăn vặt luôn. 1 phần như hình là 50k, vừa 1 sức nữ ăn. Nộm được nêm nếm khá vừa vị, ăn cùng topping siêu cuốn. Ở đây có nhận cả đặt tiệc liên hoan tiệc cưới nữa lol.",
+        "time": 1771754262,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Minh",
+        "author_url": "https://www.google.com/maps/contrib/101040975995068751552/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhf9Zm_TMXKYltsMtDkXafXu1jtbEWJ8oVX8SkT4j0ytACdejt=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "4 tháng trước",
+        "text": "Lâu lắm mới lang thang phố cổ, tạt vào quán ăn ven đường tìm lại hương vị thời sinh viên.\n\nStyle chung vẫn là chèo kéo, mời mọc khách như mọi quán khác ở đây. Lúc mới vào, quán đang đón một nhóm khách nước ngoài siêu đông. Chủ/nhân viên giới thiệu món ăn như đang kể một câu chuyện sử thi vậy, rất nhiệt tình!\n\nGiá cả không minh bạch nha. Hổng hiểu quản quanh khu này \"sao sao ấy\".\nVề đồ ăn:\n- Nộm: Khá là ngon;\n- Bánh Bột Lọc: Làm ẩu, nguội lạnh, ăn hổng ngon tẹo nào. Thất vọng!\n- Nem Chua: Bình thường như bao quán khác, không ấn tượng gì.\nCó lẽ quán cho quá nhiều mì chính để tăng vị, nên ăn xong mình thấy \"hơi khó chịu\".\n\nVới một quán ăn vỉa hè thì chi phí khá đắt cho 3 món như ảnh zậy đó. Chắc là do phục vụ \"khách Tây là chính\" nên giá cũng phải \"Tây hóa\" theo!\n\nẤn tượng nhất là khúc thanh toán, BẮT BUỘC phải thanh toán bằng TIỀN MẶT, không chịu nhận chuyển khoản! Không biết là do né thuế hay là do \"thích thế\" nữa. Cú chốt này làm mình tụt cảm xúc tới chân luôn!",
+        "time": 1764423136,
+        "translated": false
+      },
+      {
+        "author_name": "Quỳnh Hương Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113105903187132292074/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq84S60DPln3_1HFDWE-qeNsfoG-kmxqz4LKbp4-7IKM3yQBa2=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nộm chan đẫm nước mắm, giá là 40 hay 45k ấy mình quên mất rùi. Đĩa nộm cũng nhỏ thôi mà giá hơi đắt, chắc phục vụ cho khách du lịch là chính. Các anh phục vụ ở đây nhiều mà nhanh lắm, chỉ cần các bạn đỗ xe cái rẹt là các anh đã ra dắt và trông xe rồi. Mọi người ra ghế ngồi phát là đã có menu và chỉ 2p là có đồ luôn ấy. Khách quá đông đi nên mọi thứ hình như cung nhanh nhanh chóng hơn ấy. Mọi người ăn xong về thì chú ý đường tại đông lắm áấ, mình sẽ quay lại tiếp vì nộm ngon đỉnh chóp ấy, trừ mỗi điểm khẩu phần ít thui",
+        "time": 1769148616,
+        "translated": false
+      },
+      {
+        "author_name": "Trang Donna",
+        "author_url": "https://www.google.com/maps/contrib/102102318722470217855/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTK__1Pto0OdREFcX3S--TGJzr7uO-cXx2hat3B_MymptgGIOM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhân viên dễ chịu chu đáo nhiệt tình. Nem chua ngon ổn áp. Nộm bò khô ngon, đĩa của tui hôm đấy hình như bị quên cho hành tỏi khô. Chân gà quá chua.",
+        "time": 1765553330,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1624
+  },
+  "harvested_at": "2026-04-28T16:29:06.209768"
+}

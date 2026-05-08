@@ -1,0 +1,173 @@
+{
+  "u_key": "57769c668557f094",
+  "original_osm_name": "Khách Sạn - Căn Hộ Bảo Hùng",
+  "google_raw": {
+    "formatted_phone_number": "024 3581 4666",
+    "geometry": {
+      "location": {
+        "lat": 21.0335383,
+        "lng": 105.7878282
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0348712802915,
+          "lng": 105.7892096802915
+        },
+        "southwest": {
+          "lat": 21.0321733197085,
+          "lng": 105.7865117197085
+        }
+      }
+    },
+    "name": "Bảo Hưng Apartment",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:30–22:30",
+        "Thứ Ba: 06:30–22:30",
+        "Thứ Tư: 06:30–22:30",
+        "Thứ Năm: 06:30–22:30",
+        "Thứ Sáu: 06:30–22:30",
+        "Thứ Bảy: 06:30–22:30",
+        "Chủ Nhật: 06:30–22:30"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Truong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100681730648137170036/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkArG-qw0Tv5XQ7Lth9E9y5tmlt9QLbnF9WuGpyh7CIGYI0w=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "5 tháng trước",
+        "text": "Phòng ốc rộng rải, thoải mái (phòng ngủ riêng, phòng khách và có bếp, không có máy giặt)\nĐồ ăn phục vụ tận phòng khá ổn nhưng quá ít món (phở,cháo, bánh mì và không còn gì để lựa chọn)\nChủ nhật không dọn phòng nhưng trả full tiền như ngày thường. Hỏi thì nhân viên bảo bên em nó thế, nhân viên trực buồng phòng kiểu làm theo giờ 😂",
+        "time": 1762785553,
+        "translated": false
+      },
+      {
+        "author_name": "Chung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114926442732763282984/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlzEH7ybXaVQYeAECsGprBny5BsnPParoPFa1Z28VXelAj8Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Phòng ốc sạch sẽ, nhân viên thân thiện support nhiệt tình lúc check in check out",
+        "time": 1762821728,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Phan Minh Vĩ",
+        "author_url": "https://www.google.com/maps/contrib/109908391907274303758/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaA_AqElblbWmI6lKXmyzQEaEcIA9ZhSvVyOqRv32n-pWK6Z4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Bảo Hưng Apartment là một điểm đến lý tưởng cho kỳ nghỉ tại Đà Nẵng. Với phòng ốc sang trọng, dịch vụ đẳng cấp và vị trí thuận tiện, khách sạn chắc chắn sẽ mang đến cho bạn một trải nghiệm đáng nhớ.",
+        "time": 1704977657,
+        "translated": false
+      },
+      {
+        "author_name": "Hà Chan",
+        "author_url": "https://www.google.com/maps/contrib/104811632410913566164/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHrKUgSF-hCJNVeN-vIDH752FNBRGDPiE0EYknaQ-UcrjE9R5-=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Uii hơi bị được đấy mng ơi, đẹp dã man lun giá còn hợp lí, em chắc chắn sẽ quay lại lần nữa, phục vụ tốt quá trờiiiii",
+        "time": 1720776365,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Anh",
+        "author_url": "https://www.google.com/maps/contrib/118116204504645591723/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAou9SFl-vrW8IURUlVKS77ytv-a1bPdjL4emgqqiMJHQRFcx2bA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Toà nhà to đẹp, phòng rất rộng và thoáng. Có đẩy đủ đồ hiện đại.\nCó phòng tập Gym trên tầng top và view rất đẹp\nNhân viên thân thiết và rất quan tâm khách.\nGiá hợp lý!",
+        "time": 1599922197,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 131
+  },
+  "harvested_at": "2026-04-28T16:10:29.584472"
+}

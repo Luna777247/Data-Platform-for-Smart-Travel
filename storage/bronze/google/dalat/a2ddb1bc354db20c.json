@@ -1,0 +1,173 @@
+{
+  "u_key": "a2ddb1bc354db20c",
+  "original_osm_name": "The Green Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0908 091 100",
+    "geometry": {
+      "location": {
+        "lat": 11.9371608,
+        "lng": 108.4270227
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9384779802915,
+          "lng": 108.4284274802915
+        },
+        "southwest": {
+          "lat": 11.9357800197085,
+          "lng": 108.4257295197085
+        }
+      }
+    },
+    "name": "The Green Coffee - Trần Lê",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–21:00",
+        "Thứ Ba: 07:00–21:00",
+        "Thứ Tư: 07:00–21:00",
+        "Thứ Năm: 07:00–21:00",
+        "Thứ Sáu: 07:00–21:00",
+        "Thứ Bảy: 07:00–21:00",
+        "Chủ Nhật: 07:00–21:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Thư Anh",
+        "author_url": "https://www.google.com/maps/contrib/102210255381430655533/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJRFlb4I8rKd8B1XLa82jUgS1fcCn865QFpKLoW5_ada6XlbcF=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "bánh ngonnn nha mn ơiii, cà phê thì khỏi phải bàn rồi, không gian quán chill chill, giá cả hợp lý lắm ạaa",
+        "time": 1766377865,
+        "translated": false
+      },
+      {
+        "author_name": "Vy Tường",
+        "author_url": "https://www.google.com/maps/contrib/101124367349777316096/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2TCLuOi2lsR3QsY6NqYNa4v9wNtIUsqqCyljQKN4CtG-a8NST=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "nhân viên dễ thương thân thiện , nước uống ngon và rẻ thoáng mát",
+        "time": 1755399989,
+        "translated": false
+      },
+      {
+        "author_name": "Lan Đinh",
+        "author_url": "https://www.google.com/maps/contrib/107806121883722797017/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzpD_B_lPBhq-8s1GAR-WqqQM8oQLpXIsTk-_SbAaiqu--5g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "quán thoáng,nhiều cây xanh mát hợp để chill chill.\nNước ngon giá cũng rất hợp lí\ngen z nên thử nhen\nnv dethw nhiệt tình\n1 địa điểm đáng để ghé tới\n❤️❤️❤️❤️❤️",
+        "time": 1732605372,
+        "translated": false
+      },
+      {
+        "author_name": "Giao Giao",
+        "author_url": "https://www.google.com/maps/contrib/112259712390066710434/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQKiV6SUr3ZxGuO43XnjDpMMiresD-y6a5uM1SGvKvYrOj7Tnj=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán chill, nước ngon, giá cả phù hợp, nhân viên nhiệt tình + dễ thương 🫶 10₫",
+        "time": 1768111520,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Trương Thị Mai",
+        "author_url": "https://www.google.com/maps/contrib/109110637297861643419/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJuJ2LUjgGecf_WA_ehPPA8Q1zpC1myR9kCBImRk8l3TcU9Wg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán không gian yên tĩnh, thoải mái, cafe ngon, nhân viên nhiệt tình dễ thương",
+        "time": 1766400148,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 66
+  },
+  "harvested_at": "2026-04-30T15:11:30.370740"
+}

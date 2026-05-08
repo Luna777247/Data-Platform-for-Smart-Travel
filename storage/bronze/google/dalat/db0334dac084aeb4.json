@@ -1,0 +1,174 @@
+{
+  "u_key": "db0334dac084aeb4",
+  "original_osm_name": "Lau Ga La E",
+  "google_raw": {
+    "formatted_phone_number": "0919 550 009",
+    "geometry": {
+      "location": {
+        "lat": 11.9546217,
+        "lng": 108.4285174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9559548302915,
+          "lng": 108.4298734802915
+        },
+        "southwest": {
+          "lat": 11.9532568697085,
+          "lng": 108.4271755197085
+        }
+      }
+    },
+    "name": "Lẩu gà lá é Ò ó o Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–22:00",
+        "Thứ Ba: 09:00–22:00",
+        "Thứ Tư: 09:00–22:00",
+        "Thứ Năm: 09:00–22:00",
+        "Thứ Sáu: 09:00–22:00",
+        "Thứ Bảy: 09:00–22:00",
+        "Chủ Nhật: 09:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Thủy Nguyễn Thu",
+        "author_url": "https://www.google.com/maps/contrib/101364139995990669520/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLeKPXZc02dVOswMGA52_LKeeLkF2rngW0tIaUbAM7gFuC6XA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình đến quán theo review đánh giá trên google chứ ko đi theo review trên tiktok, thấy quán rất ưng ý luôn nhé, ko gian thoáng đãng, sạch sẽ và mở nhạc cũng hay luôn, hôm đến thấy mở nhạc Vũ vừa ăn vừa nghe nhạc rất chill. Vị lẩu gà mình thấy cũng rất vừa miệng và quan trọng là mình thấy sạch sẽ hơn rất nhiều so với các quán vỉa hè\n\nBạn nào đi theo gia đình, có người già hoặc con nhỏ quán này rất hợp lý nhé",
+        "time": 1768741367,
+        "translated": false
+      },
+      {
+        "author_name": "Nhan Le",
+        "author_url": "https://www.google.com/maps/contrib/108496620871495057848/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7hfmyg-1--T02TO6aByLzIiaTdaz6PpR90d2vRpOWXZdqueoolw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Lẩu ngon, quán deco đẹp sạch sẽ. Lầu 2 nhân viên lo nói chuyện với nhau, khách muốn thêm món phải gọi vài lần mới lại",
+        "time": 1772357461,
+        "translated": false
+      },
+      {
+        "author_name": "Hoài Đặng Thanh",
+        "author_url": "https://www.google.com/maps/contrib/101139555551276262861/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUW9acCbXd8roHvS-RonzqKyNtitEWaT2ItHnaRGadMDC75TF51g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Mình ăn lẩu gà lá é này cách đây 9 năm rồi ( ý là không phải ăn chỗ này).\nGiờ mới ăn quán này lần đầu. Nước lẩu ngon.\nMọi người không nhất thiết là lẩu gà tao ngộ đâu.\nSạch sẽ, ngon, giá phù hợp là ok nhất.",
+        "time": 1762589450,
+        "translated": false
+      },
+      {
+        "author_name": "Alex King",
+        "author_url": "https://www.google.com/maps/contrib/110816429603198360523/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpkSdE4DmrGlLUoY32UfmNfgyD9pTUAA9nXNKeygzYI2Mhtz6m=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán nhân viên chăm sóc khách tốt thân thiện, tôn trọng khách, phục vụ rất chuyên nghiệp. Nhạc to quá ồn nói nhân viên liền mở nhỏ nhạc lại và đổi thể loại nhạc. Khách bị sổ mũi không dùng khăn ướt được nhờ và được bạn nhân viên nam lấy khăn khô. Gà lẫu lá e ăn okay, còn món thập cẩm chân gà xả tắc hấp không có xả ớt hay chua cây gì cả mà không vị không mùi, trứng gà non thì dẻo không vị, tóm lại không phải món mình tưởng sẽ ngon.\nNhân viên 5 sao, thức ăn 3 sao nên trung bình 4 sao.",
+        "time": 1763111819,
+        "translated": false
+      },
+      {
+        "author_name": "Hiep Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/100919275289011726558/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuyFjtzWon__Kt67IiWvj6FaxNtdYtSicvsnN47D2RAtwZoDdKJQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nếu nhắc đến đặc sản Đà Lạt, lẩu gà lá é gần như là “must-try”, và quán Ô Ô Ô trên đường Kim Đồng là một trong những nơi được nhiều nhóm bạn trẻ lựa chọn.\n\n⸻\n\n🏡 Không gian\n•\tQuán có nhiều tầng, không gian mở, nhiều cây xanh và ánh đèn vàng nên tạo cảm giác ấm cúng.\n•\tBàn ghế khá sát nhau, khi đông khách sẽ hơi ồn, nhưng bù lại rất hợp để đi nhóm bạn đông vui.\n•\tView không quá đặc biệt nhưng có chất “ấm áp Đà Lạt”.\n\n⸻\n\n🍲 Món ăn\n1.\tLẩu gà lá é\n•\tNước lẩu trong, ngọt tự nhiên từ gà, xen vị cay the nhẹ của lá é – rất hợp với không khí se lạnh Đà Lạt.\n•\tGà ta thịt chắc, da giòn, ăn kèm bún tươi, nấm, rau xanh.\n•\tCó thêm khoai lang chiên và da heo giòn rụm để ăn kèm, khá lạ miệng.\n2.\tĐồ ăn kèm\n•\tBún trắng mềm, không bị bở.\n•\tRau sống tươi, nhiều loại, sạch sẽ.\n•\tKhoai chiên giòn, ngọt tự nhiên, khá bắt vị.\n3.\tĐồ uống\n•\tChủ yếu là nước ngọt, bia lon, không có nhiều lựa chọn đặc biệt.\n\n⸻\n\n👥 Phục vụ\n•\tNhân viên nhanh nhẹn, đồ ăn được mang ra đầy đủ trước khi nồi lẩu sôi.\n•\tVì quán khá đông nên đôi khi cần gọi nhắc thêm rau hoặc bún.\n\n⸻\n\n💸 Giá cả\n•\tGiá lẩu dao động khoảng 200k – 300k/nồi, ăn no cho 2–3 người.\n•\tTính ra hợp lý so với mặt bằng Đà Lạt và chất lượng món ăn.\n\n⸻\n\n⭐ Tổng kết\n•\tĐiểm mạnh: Lẩu gà lá é ngon đúng điệu, nước lẩu thanh ngọt, cay nhẹ, ăn rất ấm bụng. Không gian vui vẻ, hợp nhóm bạn.\n•\tĐiểm trừ: Quán đông, hơi ồn, không có view đặc biệt.",
+        "time": 1758174362,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 847
+  },
+  "harvested_at": "2026-04-30T14:55:32.034563"
+}

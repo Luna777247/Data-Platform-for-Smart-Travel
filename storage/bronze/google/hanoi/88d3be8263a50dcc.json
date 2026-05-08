@@ -1,0 +1,173 @@
+{
+  "u_key": "88d3be8263a50dcc",
+  "original_osm_name": "Khách Sạn Cầu Am 1",
+  "google_raw": {
+    "formatted_phone_number": "024 3382 4514",
+    "geometry": {
+      "location": {
+        "lat": 20.9748809,
+        "lng": 105.777247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9762664802915,
+          "lng": 105.7786502802915
+        },
+        "southwest": {
+          "lat": 20.9735685197085,
+          "lng": 105.7759523197085
+        }
+      }
+    },
+    "name": "Khách sạn Cầu Am 1",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–18:00",
+        "Thứ Ba: 08:00–18:00",
+        "Thứ Tư: 08:00–18:00",
+        "Thứ Năm: 08:00–18:00",
+        "Thứ Sáu: 08:00–18:00",
+        "Thứ Bảy: 08:00–18:00",
+        "Chủ Nhật: 08:00–18:00"
+      ]
+    },
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "anh anh",
+        "author_url": "https://www.google.com/maps/contrib/118411808685769470192/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCqjZn0GogP5hMaCVZ-NmqQWFlyz9LevwwMcktKo9cjfAFQXZBQQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Là nơi tổ chức sự kiện cho gia đình và đoàn thể rất ổn,,đồ ăn ngon,nhân viên nhiệt tình..",
+        "time": 1770256391,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Mai",
+        "author_url": "https://www.google.com/maps/contrib/116100726398068285298/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpSR1j0aN4PJNJ-3hUp2bdljQKXxgoguuGEwUSNXariltKLgw=s128-c0x00000000-cc-rp-mo",
+        "rating": 2,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nhân viên kinh doanh tiếp khách thái độ cau có. Hỏi thì trả lời gắt gỏng. Trung tâm tiệc đẹp mà cách phục vụ khách hàng như vậy thì thật đáng xem xét lại.",
+        "time": 1765715276,
+        "translated": false
+      },
+      {
+        "author_name": "cuối trời Vệt nắng",
+        "author_url": "https://www.google.com/maps/contrib/116353851764550865087/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc2dqd5NqREvmGfdwP4x7NC4Lyf9uRm5cyfpT0aRSXyXzlsRxYzA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Bên trong hội trường rộng, đẹp. Không có bãi đỗ xe oto riêng",
+        "time": 1765205022,
+        "translated": false
+      },
+      {
+        "author_name": "Hong_Phong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/112267638192696453082/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPloMPTWm7jV8-5EFdb0hDiW7GSfiRueBejd8QStu6Q_C-Xg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng cưới được thiết kế kiểu châu Âu, có cả sàn Catwalk thuận tiện biểu diễn văn nghệ .",
+        "time": 1751294181,
+        "translated": false
+      },
+      {
+        "author_name": "Tuyến Nguyễn văn",
+        "author_url": "https://www.google.com/maps/contrib/117108376358102126798/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVe9DPc3NhYCpcjVm6Kf2WYXWJEmz7KsLp5R6aW90_t7Y2cSrA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Google map dẫn ta đến cầu Am1Cuộc sống dân cư đông đúc nhộn nhịp rất vui khi được đặt chân đến",
+        "time": 1751762620,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 340
+  },
+  "harvested_at": "2026-04-27T19:58:37.424284"
+}

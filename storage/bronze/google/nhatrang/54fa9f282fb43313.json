@@ -1,0 +1,173 @@
+{
+  "u_key": "54fa9f282fb43313",
+  "original_osm_name": "Bo Ko Seafood Restaurant",
+  "google_raw": {
+    "formatted_phone_number": "0909 738 396",
+    "geometry": {
+      "location": {
+        "lat": 12.2584656,
+        "lng": 109.1906382
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2598553802915,
+          "lng": 109.1920388802915
+        },
+        "southwest": {
+          "lat": 12.2571574197085,
+          "lng": 109.1893409197085
+        }
+      }
+    },
+    "name": "Quán Hải Sản Bờ Kè Xóm Cồn 79",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–00:00",
+        "Thứ Ba: 09:00–00:00",
+        "Thứ Tư: 09:00–00:00",
+        "Thứ Năm: 09:00–00:00",
+        "Thứ Sáu: 09:00–00:00",
+        "Thứ Bảy: 09:00–00:00",
+        "Chủ Nhật: 09:00–00:00"
+      ]
+    },
+    "rating": 3.3,
+    "reviews": [
+      {
+        "author_name": "Uyên Nguỹen",
+        "author_url": "https://www.google.com/maps/contrib/109247643594209595653/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIU5PZekqDwpSYqkUr9JG_Mq4K66bTzHbVv6M_1VteWYO2R=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình đi 2 người, quán do tài xế taxi giới thiệu. Khi vào quán, nhân viên tư vấn gọi món khá nhiều dù chỉ có 2 người, cảm giác hơi bị “định hướng order” nhiều hơn nhu cầu thực tế.\n\nHải sản nhìn tươi nhưng chế biến không ngon, nêm nếm bình thường, không xứng với mức giá. Tổng bill hơn 2,3 triệu cho 2 người, trong đó riêng bọ biển đã hơn 1,5 triệu.\n\nCảm giác quán có thể có hoa hồng cho tài xế giới thiệu khách nên tư vấn món khá mạnh tay. Mọi người nếu ghé nên:\n•\tHỏi giá kỹ trước khi cân\n•\tXem size và ước lượng số lượng phù hợp\n•\tChủ động từ chối nếu thấy gọi quá nhiều\n\nCá nhân mình sẽ không quay lại",
+        "time": 1772028921,
+        "translated": false
+      },
+      {
+        "author_name": "Trung Hiếu Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/114129466747462532689/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWQNfJfywGdeqwNvuni0fibUOScnw4qT9C3NHMXOxtNyHk13H8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán nấu ăn ngon nhanh nhẹn\nNhưng hôm mình đến ăn nói rõ ràng tôm hùm đầu nấu cháo mình hấp nhưng cho vào nấu cháo hết khá là phí phạm",
+        "time": 1763399155,
+        "translated": false
+      },
+      {
+        "author_name": "Khánh Đan",
+        "author_url": "https://www.google.com/maps/contrib/117721581801655286773/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdsyTmmgFqjULH4uw86-lGjPT6za4bUmxgxufU9ZbQrHVuTHrO=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "7 tháng trước",
+        "text": "Quán phục vụ nhiệt tình\nHỗ trợ nhanh lẹ\nLên đồ ăn nhanh\nĐồ ăn vị hơi nhạt\nNhưng món ăn chưa phải thuộc dạng ngon, đa dạng món ăn để gọi và lựa chọn\nĐánh giá theo sở thích cá nhân",
+        "time": 1759125549,
+        "translated": false
+      },
+      {
+        "author_name": "Thảo Lương Thị Phương",
+        "author_url": "https://www.google.com/maps/contrib/116567403926508651071/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiQsmtTmumnFh8BHxKWl4-hCHBpUowAsZU72nTNoDb7DtPCM4Q=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 1,
+        "relative_time_description": "7 tháng trước",
+        "text": "Đến với quán vì được taxi giới thiệu vào đây. Vì tin vào người dân địa phương nên nhóm mình cũng k check xem review thế nào. Nhóm mình vào quán hỏi menu, ý là muốn nhìn giá chọn cho dễ, nhưng ngoài bảng hiệu giá hải sản theo cân ra thì k còn gì hết. Nhân viên ở đây thì bán hàng kiểu chèo kéo, tư vấn dồn dập để khách hàng k có thời gian suy nghĩ, bạn mình bảo e ăn thế thôi thì vẫn tiếp tục mời cái này cái kia. Đồng ý đấy có thể là một cách bán hàng nhưng nó khiến mình cảm thấy k thoải mái.\nVề 3 món mình gọi thì có ốc hương bơ tỏi là ốc ngon, còn những món còn lại k hợp khẩu vị người miền bắc mình lắm. Đồ ăn thì chế biến khá nhanh, nhưng không gian quán, chất lượng phục vụ take care khách thì k đến cái mức giá đắt thế này.\nMong mọi người bước chân đến đây có thể đọc review trước",
+        "time": 1758722973,
+        "translated": false
+      },
+      {
+        "author_name": "Nhi Tuyết",
+        "author_url": "https://www.google.com/maps/contrib/105296924126694386880/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWY0FruzOjc1aVn2Lguhn1WSP4jBBhL4gek_cY9D1eQXFpwoY-T=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Một trải nghiệm quá thất vọng,cảm báo mn không nên tin vào các tài xế lái xe vì tụi nó nhận pr quán 1ng tụi nó được 200k, 3 người phụ nữ kêu từng này món gần 900k, không bằng một gốc bên hải sản TS, đĩa sò chén 400k 6 con qá dở không xứng đáng.",
+        "time": 1767438805,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1083
+  },
+  "harvested_at": "2026-05-02T15:11:25.295800"
+}

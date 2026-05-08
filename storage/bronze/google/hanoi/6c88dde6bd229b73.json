@@ -1,0 +1,174 @@
+{
+  "u_key": "6c88dde6bd229b73",
+  "original_osm_name": "Starbucks",
+  "google_raw": {
+    "formatted_phone_number": "024 3832 5678",
+    "geometry": {
+      "location": {
+        "lat": 21.0292532,
+        "lng": 105.8502676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0305284302915,
+          "lng": 105.8515974802915
+        },
+        "southwest": {
+          "lat": 21.02783046970849,
+          "lng": 105.8488995197085
+        }
+      }
+    },
+    "name": "Starbucks Reserve Nhà Thờ",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–22:30",
+        "Thứ Ba: 07:00–22:30",
+        "Thứ Tư: 07:00–22:30",
+        "Thứ Năm: 07:00–22:30",
+        "Thứ Sáu: 07:00–22:30",
+        "Thứ Bảy: 07:00–22:30",
+        "Chủ Nhật: 07:00–22:30"
+      ]
+    },
+    "price_level": 3,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Lan Hương Belle",
+        "author_url": "https://www.google.com/maps/contrib/114653867801037194965/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYshx-eiGbLwV9hwMdtJG_jDiies2s8ix4xXVluwh2Yf0wd3qE=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Nay lên phố mới có dịp vào Starbucks reserve. Quán rộng rãi, chỗ ngồi thoải mái, 2 tầng. Tầng 1 có 2 quầy: 1 quầy bán đồ như SB bình thường, 1 quầy bán cafe của riêng SB reserve. Mình gọi 1 vanilla latte ở quầy reserve. Được tặng kèm 1 bánh (chọn bánh bất kỳ ở quầy reserve hoặc quầy thường) khi thanh toán bằng thẻ visa signature. Tổng thiệt hại 90k cho 1 nước+1 bánh. Quá hời. Bác nào mang bình cá nhân được giảm 10k nữa. Các bạn nhân viên rất nhiệt tình. Đồ uống và bánh phù hợp với giá mua 1 tặng 1 chứ nguyên giá thì hơi cao 😂",
+        "time": 1769590266,
+        "translated": false
+      },
+      {
+        "author_name": "VY NGỌC",
+        "author_url": "https://www.google.com/maps/contrib/111149598978142171595/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUko6r1_gh2JbGYb_0AO_rZus5SgvGW-jOWI_T2GkJ3y2DUaOU=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Nằm ở vị trí đẹp thuận tiện, không gian quán rộng rãi phù hợp cho việc làm việc và tụ tập bạn bè, thức uống bình thường nhưng nhân viên ở đây siêu dễ thương phục vụ rất khéo, quán có view đẹp, nhìn hợp không khí hà nội, sạch sẽ phù hợp cho đi nhóm và gia đình",
+        "time": 1766097458,
+        "translated": false
+      },
+      {
+        "author_name": "Quoc Tuan Tran",
+        "author_url": "https://www.google.com/maps/contrib/114573763684387148560/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYGcakjGzDQCMZ-8Gt5dSsHb56ehLWWFqI8I8eNUyeDQswxWeo=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán view đẹp, to rộng rãi, có quầy mini bar rất đẹp, nhưng thức uống ở đây mình chưa thực sự ấn tượng.\n\nNói chung là starbucks hà nội mà khác sài gòn quá, cũng ko biết diễn tả như thế nào.\n\nMình đã phải đổi 1 ly nước khác, chứ matcha latte mà nó đắng quá.\n\nGhé 1 lần cho biết vậy thôi.",
+        "time": 1766631459,
+        "translated": false
+      },
+      {
+        "author_name": "Đồng Mai Lan",
+        "author_url": "https://www.google.com/maps/contrib/104804754497597549963/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_Xb_DSvETX8K_xV5NlzK2wLiC0L8ZtxThl4wDhcDion0D_BRw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình đến SB chỉ toàn gọi matcha thôi, vì không uống được cf hay mất ngủ. Mà lần nào uống matcha buổi chiều về cũng mất ngủ như chơi :))) tầng 1 bị đông, vì ngay khu Nhà Thờ nên nhiều tệp khách, khách du lịch quá trời nên bị ồn lắm đó. Tầng 2 sẽ yên tĩnh hơn, có phòng họp riêng, ngồi view cửa sổ cũng chill đồ lắm. Bánh ăn cũng okee.",
+        "time": 1765109583,
+        "translated": false
+      },
+      {
+        "author_name": "An Bùi",
+        "author_url": "https://www.google.com/maps/contrib/101917764459304790956/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkNZ0rgRGMwNk1sBCK4Sp_Bc4R15TrmTKYR6tHMoVdKV9IyVY=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán xịn xò\nKhông gian rộng rãi nhưng khá đông\nnhân viên làm đồ uống nhanh\ngần nhà thờ nên khá chill",
+        "time": 1769570627,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3378
+  },
+  "harvested_at": "2026-04-27T19:57:54.386997"
+}

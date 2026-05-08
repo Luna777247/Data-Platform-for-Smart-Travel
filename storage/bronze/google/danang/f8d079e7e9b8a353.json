@@ -1,0 +1,109 @@
+{
+  "u_key": "f8d079e7e9b8a353",
+  "original_osm_name": "Family Homestay",
+  "google_raw": {
+    "formatted_phone_number": "0905 179 745",
+    "geometry": {
+      "location": {
+        "lat": 16.0565452,
+        "lng": 108.2445602
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0579032802915,
+          "lng": 108.2459375802915
+        },
+        "southwest": {
+          "lat": 16.0552053197085,
+          "lng": 108.2432396197085
+        }
+      }
+    },
+    "name": "Hana Homestay Danang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Huy Duong",
+        "author_url": "https://www.google.com/maps/contrib/117554815093740349833/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpdpUNw43Ot-yRlC5_Jf5umqFe2ReDexBBzkA7O0vKcexNHnV1=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "10 tháng trước",
+        "text": "Ban đầu mình tính đặt 10 đêm ở đây. Nhưng qua trải nghiệm mình thấy không hài lòng với dịch vụ ở đây. Mặc dù chỉ đặt phòng dorm và giá tiền rẻ nhưng mình mong chị chủ sẽ cải thiện dịch vụ hơn. Bạn nào muốn đặt phòng dorm thì nên cân nhắc. Thứ nhất trong phòng rất nóng. Mặc dù có điều hoà và 1 cái quạt chung. Thứ 2 nhà vệ sinh rất dơ. Thứ 3 khu vực sinh hoạt chung cũng dơ và lộn xộn. Mong chị chủ sẽ dọn sạch phần trước nhà. Mình thấy rất dơ và lộn xộn. Nhất là chỗ để giày. Bạn nào muốn sạch sẽ thì nên cân nhắc homestay này.",
+        "time": 1749790232,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Anh",
+        "author_url": "https://www.google.com/maps/contrib/102403155506540169892/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOfhdUHTnPWtv4G9BnyQbr5-_gHO_vfDTgs3fC2sZJ3gJoAYE=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Ở phòng rẻ nhất trong quá trình đi xuyên Việt của mình. P có 110k 1 đêm. Ở cùng dorm với mấy bạn Tây nên mùi hơi khó chịu. Rẻ nên chấp nhận thôi. Ac chủ thoải mái, thân thiện",
+        "time": 1743700569,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Lê",
+        "author_url": "https://www.google.com/maps/contrib/108903374662125782400/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwPLBHxAjgmkLoXYmF4o902EcsrtMcn_mnz-JSDq90kpGHHBP1=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng mát, giường ngủ cứng và phòng chỉ có 1 cái quạt bé, phòng to và thoáng nên đặt phòng có ban công",
+        "time": 1751525528,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Minh Đức",
+        "author_url": "https://www.google.com/maps/contrib/103096223254390755193/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgvD21P56mtfm9WZDGcgPPWWJHLo_IlUl_EtXM9HPU8lB_o7N3=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chị chủ và anh chồng rất rất nice, thoải mái như ở nhà vậy, chị nhiệt tình lắm, gần biển đi bộ là tới, quán gần nhiều địa điểm ăn chơi, ra sân bay cũng tiện lắm, đáng để thử và quay lại",
+        "time": 1723725071,
+        "translated": false
+      },
+      {
+        "author_name": "Hoai Dao",
+        "author_url": "https://www.google.com/maps/contrib/116722251477072341637/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXU79eJSVJgSIAs6ltUBrfYY_KzAV-YI1h8hotkeSCRY7C5tCu0=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "- Yên tĩnh, sạch sẽ, thoáng, giá cả phù hợp\n- Đi bộ ra biển Mĩ khê 5phut\n- Số nhà 84 ngõ Thạch lam đi được oto 4 chỗ vào tận cửa\n- Xung quanh nhiều tiện ích\n- Chủ nhà thân thiện .\n- Có bếp ăn tầng 1( có thấy 2 máy giặt mình chưa hỏi)\n- Có máy sấy tóc, bàn chải đáng răng cá nhân, dầu gội, khăn tắm, Wifi, tủ lạnh.( không có ấm đun nước trên phòng_ xuống bếp tầng 1 có)\n- Gặp nhiều bạn nước ngoài\nRất phù hợp với đi gia đình chi phí phù hợp",
+        "time": 1714582924,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 157
+  },
+  "harvested_at": "2026-05-03T19:51:12.180566"
+}

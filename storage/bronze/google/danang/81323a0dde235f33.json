@@ -1,0 +1,173 @@
+{
+  "u_key": "81323a0dde235f33",
+  "original_osm_name": "Driftwood Village",
+  "google_raw": {
+    "formatted_phone_number": "0899 225 969",
+    "geometry": {
+      "location": {
+        "lat": 15.9011157,
+        "lng": 108.3285835
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9024721802915,
+          "lng": 108.3299275302915
+        },
+        "southwest": {
+          "lat": 15.8997742197085,
+          "lng": 108.3272295697085
+        }
+      }
+    },
+    "name": "Làng Củi Lũ Hội An - Driftwood Village",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–17:00",
+        "Thứ Ba: 08:00–17:00",
+        "Thứ Tư: 08:30–17:00",
+        "Thứ Năm: 08:00–17:00",
+        "Thứ Sáu: 08:00–17:00",
+        "Thứ Bảy: 08:00–17:00",
+        "Chủ Nhật: 08:00–17:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "hai leu",
+        "author_url": "https://www.google.com/maps/contrib/108684050484388898272/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRo63PCaZ1tzkXKtVXYEggw_rqLMiaTiQTe6G7dnXIvW9OdKe3uQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Một ý tưởng tốt, một quá trình lao động nghiêm túc để có nên một góc không phải là lớn nhưng rất có câu truyện có ý.",
+        "time": 1759379162,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Do Thi Tuyet",
+        "author_url": "https://www.google.com/maps/contrib/101061301742334435640/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvBB0W3TcFrLJLJsBqGy8quW8qLHuALfpFd7roiWL9mV_2JA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Làng Củi Lũ - nơi những chiếc củi trôi dạt vì lũ được tái sinh, được thổi hồn thành những tác phẩm nghệ thuật.\nMột không gian hoạt động nghệ thuật dành cho tất cả mọi người.\nĐến đây mọi người có thể tự tay điêu khắc những tác phẩm của riêng mình. Các bạn bé thì có hoạt động tô màu 😍\nThỉnh thoảng cuối tuần có thêm các hoạt động workshop khác nữa.\nRất thích không gian và cả ý nghĩa mà Làng Củi Lũ mang lại.",
+        "time": 1722229918,
+        "translated": false
+      },
+      {
+        "author_name": "Boss Big",
+        "author_url": "https://www.google.com/maps/contrib/108902766471097995546/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWd0rhAy0vbbpohuVYkwrzKrxCv1nOUobUGymHv9GetxLz-Kdz_w=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Đây là nơi đến tham quan trải nghiệm công việc làm mộc của các nghệ nhân ở đây. Bạn có thể đăng kí để được các nhân viên ở đây bày làm các sản phẩm mộc đươc điêu khắc bằng tay.",
+        "time": 1750732490,
+        "translated": false
+      },
+      {
+        "author_name": "Ngoc Pham",
+        "author_url": "https://www.google.com/maps/contrib/117066987035122317878/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBUMM-gs3V_F7slp7Xh3KZI1ZZynGTyn38u5M5kPGIX1ePVq6jWA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Lúc đầu mình nhầm đây là làng nghề mộc truyền thống nhưng không phải. Đến rồi mới biết là xưởng mộc kiêm nhà trưng bày và workshop làm mộc. Cái tên Củi Lũ quá ý nghĩa. Làng nằm giữa cánh đồng, gió thổi mát rượi, ngồi đợi con rất dễ chịu, có cả quán cafe luôn. Các bạn lớn được học đục đẽo, các bạn nhỏ có thể tô màu sản phẩm mộc. “Người làng” cực nhiệt tình và dễ chịu, mình rất thích chỗ này!",
+        "time": 1748963181,
+        "translated": false
+      },
+      {
+        "author_name": "vinh van",
+        "author_url": "https://www.google.com/maps/contrib/111501342805628837796/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIZM0xR8MfAiAZ2kqDIJG189sJq7ZS7jlHvvb1Kp8fUJZhfv6P=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Không gian yên bình của chốn làng quê, chuyên về các sản phẩm trang trí về gỗ; có thể ghé tham quan, trải nghiệm tự chạm khắc gỗ, mua đồ lưu niệm.",
+        "time": 1747295136,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 119
+  },
+  "harvested_at": "2026-04-28T16:39:37.711290"
+}

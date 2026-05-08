@@ -1,0 +1,39 @@
+{
+  "u_key": "5abb5a799bef3b55",
+  "original_osm_name": "Nhà trọ Nguyễn Ngọc Linh",
+  "google_raw": {
+    "formatted_phone_number": "0905 028 786",
+    "geometry": {
+      "location": {
+        "lat": 15.9442501,
+        "lng": 108.2529086
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.9455927802915,
+          "lng": 108.2542575802915
+        },
+        "southwest": {
+          "lat": 15.9428948197085,
+          "lng": 108.2515596197085
+        }
+      }
+    },
+    "name": "Nhà trọ Thành Nguyễn",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Trâm Đặng Lê Huyền",
+        "author_url": "https://www.google.com/maps/contrib/101801888355909947070/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu7KHn5tE43ftO8vid451U9kAloB0g6waHPCDvbLyIDcjJcASp=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "",
+        "time": 1774391642,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1
+  },
+  "harvested_at": "2026-04-28T16:35:53.019729"
+}

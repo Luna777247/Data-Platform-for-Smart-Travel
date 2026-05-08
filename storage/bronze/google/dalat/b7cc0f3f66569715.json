@@ -1,0 +1,173 @@
+{
+  "u_key": "b7cc0f3f66569715",
+  "original_osm_name": "Them Nha Co Hoa",
+  "google_raw": {
+    "formatted_phone_number": "0868 141 622",
+    "geometry": {
+      "location": {
+        "lat": 11.9374483,
+        "lng": 108.4240525
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9387573802915,
+          "lng": 108.4254475302915
+        },
+        "southwest": {
+          "lat": 11.9360594197085,
+          "lng": 108.4227495697085
+        }
+      }
+    },
+    "name": "Thềm Nhà Có Hoa",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Hammy",
+        "author_url": "https://www.google.com/maps/contrib/116751202439256521785/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKh05iKDArhDQknyPX5JT8Xz8cIHR-unULrF8p5VFrXOu1qnDCTQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tụi nhỏ dễ cưng lắm, có bé chó vàng Du luôn chạy ra mừng khách nè, bé nhỏ trắng tên Gôn bông xù, với anh đại đeo dây chuyền kim cương\n\nMấy bé mèo dễ chịu luôn á bế nhẹ nhàng đc nhen, cảnh sáng sớm trời nắng nhẹ thơ lắm, nhiều cây nhiều hoa, xinh xắn lắm nhen",
+        "time": 1770948692,
+        "translated": false
+      },
+      {
+        "author_name": "Vu Nguyen Uyen Truong",
+        "author_url": "https://www.google.com/maps/contrib/109383955080172217316/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUg7NPvQ89iIId6q__d3lL5YIux6t8kM486mso6EziVCeRcFEJDhw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Tình cờ chồng mình chọn dựa trên GG thui nhưng quán siêu chill. Mình đi sáng sớm đã được gặp cả một vườn mèo siêu dễ thương và hai bé chó ta nói nó hài. Có thể là sẽ quay lại mỗi lần tới đây quá hehe",
+        "time": 1766321932,
+        "translated": false
+      },
+      {
+        "author_name": "Tina Ng",
+        "author_url": "https://www.google.com/maps/contrib/103136755132314682978/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXViFivCugf33O56An-709sLPKjRfjnbBrF465u1kg2gs-j2_o=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "quán có 2 không gian chính là trong nhà và ngoài trời. nhìn chung góc ngoài trời sẽ nhìn bao trọn được vườn hoa và cây cối trong khuôn viên. quán không to lắm nên cảm giác mang lại thân thuộc, giống như ghé nhà một người bạn chơi vậy. vô tình tìm được quán vào một ngày mưa dai dẳng, nên đã ngồi hẳn 5 tiếng trú mưa hít mùi đất và cỏ cây ở đây. mấy bé mèo lười biếng cuộn tròn lại ngủ thôi vì lạnh quá mà, còn 2 đứa nhỏ kia thì lăn xăn chạy khắp nơi rồi còn nói quá trời nói nữa. gần quán cà phê này có tiệm chay Ăn Chay Hông nữa, nếu có duyên mọi người có thể sắp xếp trải nghiệm nha~ chắc chắn sẽ ghé lại\n\ncó một điểm mình thích là tất cả hoa và cây trang trí ở đây đều là hoa và cây thật, hôm mình đi có hoa cẩm chướng và hoa ly rất đẹp và thơm",
+        "time": 1762456064,
+        "translated": false
+      },
+      {
+        "author_name": "Hai Tran",
+        "author_url": "https://www.google.com/maps/contrib/111976340712576642572/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZ7LnbqdGh_vEmtgIsVzk07vYvhjPpvZWLkNyvmsVQefOjTsiTMw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Trong chuyến đi Đà Lạt lần này, tôi và chị khách thân thiết quyết định ghé quán Thềm Nhà Có Hoa sau khi nghe nhiều lời khen. Thật sự nơi đây mang lại một cảm giác rất khác biệt: không gian mộc mạc, nhiều hoa nở quanh sân, vừa gần gũi vừa tinh tế. Ngồi trên hiên nhà, nhìn ra khu vườn nhỏ đầy màu sắc, cả hai chúng tôi đều thấy lòng nhẹ nhàng, thoải mái.\n\nTôi gọi cà phê đen đá, còn chị thì chọn trà ổi hồng. Ly cà phê đen đá mang vị đậm vừa đủ, thơm nồng nhưng không gắt, uống trong cái se lạnh Đà Lạt thì càng thêm tỉnh táo, sảng khoái. Chị khách của tôi rất thích trà ổi hồng: nước trong, vị thanh ngọt xen chút chua dịu, vừa dễ uống vừa giữ lại dư vị nhẹ nhàng sau mỗi ngụm. Chị bảo rằng loại trà này “ngọt ngào như không khí ở đây”, nghe vậy tôi cũng phải gật gù đồng ý.\n\nNhân viên quán nhiệt tình, thân thiện, phục vụ nhanh và luôn niềm nở. Cả hai chúng tôi đều thống nhất rằng, Thềm Nhà Có Hoa không chỉ là một quán cà phê mà còn là một góc an yên đúng nghĩa ở Đà Lạt. Trải nghiệm trọn vẹn, xứng đáng 5 sao!",
+        "time": 1759230369,
+        "translated": false
+      },
+      {
+        "author_name": "Dang Minh",
+        "author_url": "https://www.google.com/maps/contrib/101830932148260062979/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeSMRUoeOZkNrE2JpxrpvWzdoBwuqFJ3rK7u7joV0N0XoUKA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Quán view siêu chill luôn! Nhìn như vườn hoa trong.một ngày xa xưa nào vậy. Món uống ngon. Dàn \"nhân viên\" gâu gâu meo meo của quán siêu quấn người. Lần tới mình quay lại sẽ ghé nữa!hihi ",
+        "time": 1766328225,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 466
+  },
+  "harvested_at": "2026-04-30T15:12:13.940229"
+}

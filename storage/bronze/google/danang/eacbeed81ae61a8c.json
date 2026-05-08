@@ -1,0 +1,89 @@
+{
+  "u_key": "eacbeed81ae61a8c",
+  "original_osm_name": "Jack's Cat Cafe",
+  "google_raw": {
+    "formatted_phone_number": "0975 832 515",
+    "geometry": {
+      "location": {
+        "lat": 15.8840709,
+        "lng": 108.366945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 15.8854509802915,
+          "lng": 108.3682615302915
+        },
+        "southwest": {
+          "lat": 15.8827530197085,
+          "lng": 108.3655635697085
+        }
+      }
+    },
+    "name": "Jack's Cat Cafe",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "fiona jones",
+        "author_url": "https://www.google.com/maps/contrib/113118157931062132156/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3TCm7LtFfYJSFFJMl02OI5mmhV8sSiqLzdJ6SMydVaiv6qq9LGQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Booking trước khi tới.\nVé vào cửa cho lần đầu 150k. Lần 2 tới chỉ cần thanh toán tiền nước.\n60ph cho mỗi lần tới thăm.\nHơn 100 chú mèo ngoan và quấn người lắm.",
+        "time": 1752038852,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Mộc Thiên (Căn hộ mini Hà Thu)",
+        "author_url": "https://www.google.com/maps/contrib/115652640053959394666/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAXAljHCPfGW1XQ-fzmkWqMuVTklvRQweTpcig_Bcw4FYO5q-x7g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đáng yêu",
+        "time": 1752038991,
+        "translated": false
+      },
+      {
+        "author_name": "Ngân Thanh",
+        "author_url": "https://www.google.com/maps/contrib/112777330682069056806/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXI2bFPa_xVt0l9qK0_H8a5OxuNVwc1SJjLYic7D_NSaXUG8WWk0g=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "2 vk ck và bé siêu cute, mèo rất nhiều, nước hơi đắt,",
+        "time": 1570952426,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Checker",
+        "author_url": "https://www.google.com/maps/contrib/109982181485609490916/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJLAfdFCWgC8PifwbenEGcD1QpjxgUsVBr9Igw5ykxOTGPf8A=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "ngon, đông khách, mà giá cũng hơi đắt\n-t-",
+        "time": 1500091258,
+        "translated": false
+      },
+      {
+        "author_name": "Security Website",
+        "author_url": "https://www.google.com/maps/contrib/108280212684653690835/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX2uLo8BTa3Aw8ysJqU5iGg2A3hAukIHIO8b-kbBxEHy7-hUV8G6Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "9 năm trước",
+        "text": "Cafe tạm, không gian không thật sự thoải mái cho lắm",
+        "time": 1465957783,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 312
+  },
+  "harvested_at": "2026-04-29T09:45:33.037509"
+}

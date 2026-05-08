@@ -1,0 +1,172 @@
+{
+  "u_key": "3f2831557e129625",
+  "original_osm_name": "Прокат байков",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.2357336,
+        "lng": 109.1945049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2371097302915,
+          "lng": 109.1958482802915
+        },
+        "southwest": {
+          "lat": 12.2344117697085,
+          "lng": 109.1931503197085
+        }
+      }
+    },
+    "name": "Прокат байков.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–21:00",
+        "Thứ Ba: 08:00–21:00",
+        "Thứ Tư: 08:00–21:00",
+        "Thứ Năm: 08:00–21:00",
+        "Thứ Sáu: 08:00–21:00",
+        "Thứ Bảy: 08:00–21:00",
+        "Chủ Nhật: 08:00–21:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Кирилл",
+        "author_url": "https://www.google.com/maps/contrib/106327570815846871708/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTGtatWwgq1tHzhuFUWzJFbMPMYee5DwEwpF9pgJOqfv9oULfU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Tôi thuê hai chiếc xe máy. Họ cho tôi thuê xe 125cc theo đúng hộ chiếu của tôi. Xe chạy tốt, dù rõ ràng là đã được sử dụng thường xuyên! Tốc độ tối đa 100km/h!!!!! Họ không kiểm tra bằng lái quốc tế của tôi, không giống như cửa hàng cho thuê xe bên cạnh, nơi họ cho thuê xe không cần bằng lái đến 50cc! Các cửa hàng cho thuê xe ở Nga đòi giá gần gấp đôi cho cùng loại xe, mà xe lại còn được đánh bóng hơn! Tôi rất hài lòng với nơi này! Chủ cửa hàng thân thiện, tôi trả xe với nụ cười trên môi, và không ai làm phiền hay nhìn chằm chằm vào tôi! Tôi khuyên bạn nên đến đây thuê xe!\n\nMỗi xe có giá 150.000 dangan một ngày, vì vậy tôi nghĩ bạn có thể thương lượng với họ.",
+        "time": 1768117545,
+        "translated": true
+      },
+      {
+        "author_name": "Zafar Xakimov",
+        "author_url": "https://www.google.com/maps/contrib/105384080782593230474/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKW0VWus2vDDML7hPoUYvpSO86wIwqtKkW6DYqJWDebEyGpfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Tôi đã thuê một chiếc Honda 125 trong 5 ngày vào ngày 6 tháng 8 năm 2025. Xe trong tình trạng tuyệt vời. Bình xăng đầy khi tôi nhận xe và trả lại. Vui lòng đặt cọc 100 đô la; chúng tôi sẽ hoàn trả xe mà không gặp bất kỳ rắc rối nào. Hãy cẩn thận, không phải ai cũng tuân thủ luật giao thông. Chúc may mắn.",
+        "time": 1758635657,
+        "translated": true
+      },
+      {
+        "author_name": "Андрей Григоров",
+        "author_url": "https://www.google.com/maps/contrib/110385269396138877297/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDeEgVC4EZghJdCi_ju8SXpIcpS96eHQWUKi0ByqaiIPV0cJo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một nơi tuyệt vời để thuê xe đạp với giá rẻ. Xe đã được sử dụng nhiều và đã chạy khá nhiều, nhưng về mặt cơ khí, mọi thứ đều hoạt động hoàn hảo. Nếu bạn thuê xe dài hạn, bạn luôn có thể thương lượng. Tôi đã đặt cọc 100 đô la và nhận lại xe mà không gặp bất kỳ rắc rối nào. Tôi khuyên bạn nên đến đây; tỷ lệ giá cả/chất lượng rất tuyệt vời.",
+        "time": 1731739209,
+        "translated": true
+      },
+      {
+        "author_name": "Antony",
+        "author_url": "https://www.google.com/maps/contrib/106483080684543156445/reviews",
+        "language": "vi",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkub29QOcAFQNjIyr2ipEQXy3YG1PJmAI-Cc46Zf2Phh7tWA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "11 tháng trước",
+        "text": "Tôi lấy xe vào ngày 12 tháng 5 năm 2025. Bình xăng đã cạn sạch. Tôi phải đổ đầy bình. Tôi trả xe sớm hơn dự kiến ​​bốn tiếng, tức là một ngày sau đó. Tôi yêu cầu hoàn lại tiền cho bình xăng đầy. Họ từ chối, nói rằng tôi phải trả xe rỗng. Đây là một thái độ rất khó chịu đối với khách du lịch. Tại sao chúng tôi phải lấy xe khi bình xăng đã cạn, lo lắng tìm cây xăng ngay khi nhận xe, rồi lại cho không bình xăng.",
+        "time": 1747103441,
+        "translated": true
+      },
+      {
+        "author_name": "Игорь Вячеславович",
+        "author_url": "https://www.google.com/maps/contrib/116978505710141565552/reviews",
+        "language": "ru",
+        "original_language": "ru",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKVqo4teRJHaa4aQX23tIPDfp08dRZ1Gbf_bQ7aWFJBICk1KQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "Отдыхал с 18 по 28 февраля брал на 2 раза на несколько дней. Проблем ни каких. Смело можете оставлять депозит 100$ вернут ваши. Брал хонду оранж. Отл. Мот. Белый постарее но в удовл. Состоянии. Удачи будьте аккуратны.",
+        "time": 1552248871,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 26
+  },
+  "harvested_at": "2026-05-02T16:10:56.880121"
+}

@@ -1,0 +1,135 @@
+{
+  "u_key": "35e1894791c9a253",
+  "original_osm_name": "Giai Khat",
+  "google_raw": {
+    "formatted_phone_number": "0967 766 855",
+    "geometry": {
+      "location": {
+        "lat": 11.9418258,
+        "lng": 108.4314465
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9432314802915,
+          "lng": 108.4327553302915
+        },
+        "southwest": {
+          "lat": 11.9405335197085,
+          "lng": 108.4300573697085
+        }
+      }
+    },
+    "name": "Nguyên Liệu Giải Khát Đà Lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 09:00–18:00",
+        "Thứ Tư: 09:00–18:00",
+        "Thứ Năm: 09:00–18:00",
+        "Thứ Sáu: 09:00–18:00",
+        "Thứ Bảy: 09:00–18:00",
+        "Chủ Nhật: 09:00–18:00"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "tú phạm",
+        "author_url": "https://www.google.com/maps/contrib/114340151334274059274/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG17iZHDCJO8AugB17honX9dCTVytCllSXyh8FM7QBvfLo9kfA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "Một địa chỉ nên ghé khi cần mua những nguyên liệu phục vụ pha chế bởi giá cả khá ok,chất lượng",
+        "time": 1579175032,
+        "translated": false
+      },
+      {
+        "author_name": "Neko Nyan",
+        "author_url": "https://www.google.com/maps/contrib/117217833961229124702/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjDqiXQbLouMqn3xdOgrkMDrLh4Vp9d_ALgJC8jPt-OPTrBG_v=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "",
+        "time": 1620263938,
+        "translated": false
+      },
+      {
+        "author_name": "Mai Thúy Mai",
+        "author_url": "https://www.google.com/maps/contrib/113685157564431324005/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUtrRD80qPfyJB28SDAZxY_4XZLsIo2QxalWUrlF5MdLZOQM_LhQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1563974650,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-04-30T15:04:29.047373"
+}

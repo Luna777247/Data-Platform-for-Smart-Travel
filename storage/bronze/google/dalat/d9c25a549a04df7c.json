@@ -1,0 +1,174 @@
+{
+  "u_key": "d9c25a549a04df7c",
+  "original_osm_name": "Box Coffee",
+  "google_raw": {
+    "formatted_phone_number": "0975 376 930",
+    "geometry": {
+      "location": {
+        "lat": 11.9640313,
+        "lng": 108.4311411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9653428302915,
+          "lng": 108.4325603302915
+        },
+        "southwest": {
+          "lat": 11.9626448697085,
+          "lng": 108.4298623697085
+        }
+      }
+    },
+    "name": "Green Box Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–17:00",
+        "Thứ Ba: 07:30–17:00",
+        "Thứ Tư: 07:30–17:00",
+        "Thứ Năm: 07:30–17:00",
+        "Thứ Sáu: 07:30–17:00",
+        "Thứ Bảy: 07:00–17:00",
+        "Chủ Nhật: 07:30–17:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Hien DT",
+        "author_url": "https://www.google.com/maps/contrib/112329293092331669577/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSFogfULqQ_Q3Iy7YJq1xVqG6wAEpYCRqaHTrhuPG-0FKUt46h=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán cafe kết hợp mô hình farm rất độc đáo.\nĐồ uống healthy, farm rộng với nhiều loại rau/quả theo mùa được bố trí theo từng tầng.\nMình là khách du lịch mà bị luỵ quán quá, lần nào tới Đà Lạt cũng ghé, năm nay ghé 3 lần rồi.",
+        "time": 1762261786,
+        "translated": false
+      },
+      {
+        "author_name": "Lipton Tipton",
+        "author_url": "https://www.google.com/maps/contrib/110835674357360802645/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFf_MAUPXNp0OlIDApWIC_61bM61wdNflqWS2S3A8GlhgSUC0RIw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Nguyện quảng cáo suốt đời cho quán. Trong 7 năm gần đây lần nào đi cũng ghé uống berry mix và ăn 1 hộp cà chua tại vườn. Quán hiếm hoi ở ĐL nước uống hợp khẩu vị mình.  Tặng 2 bông hoa thược dược chụp ở quán hồi năm ngoái",
+        "time": 1757778160,
+        "translated": false
+      },
+      {
+        "author_name": "Vivian Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104807119781027370461/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9Tevt82h9iMgzJSNp_3vyy3ZNHZ_Wqq0SMz6pJAnEHPZp_OU=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Không gian xanh, thoải mái, có khu nông trại dâu và cà cải nhỏ xinh. NV nhiệt tình, dễ thương. Quán lại có phiên chợ nông sản hữu cơ rất bổ ích và thiết thực.",
+        "time": 1754839583,
+        "translated": false
+      },
+      {
+        "author_name": "A H",
+        "author_url": "https://www.google.com/maps/contrib/101479290301803449950/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_yPitx4lnQgSoDxaKTVBYFiU_JjHDVg-SYAk4a4SfEUDVnoEkvw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một nơi thật đẹp, rộng thoáng mát, kết hợp giữa cà phê và vườn rau, không khí cực kì mát mẻ. Nhân viên lịch sự, phục vụ tốt, sẵn sàng thay đổi theo yêu cầu của khách. Quán được chăm chuốt từ những chi tiết nhỏ, hoa trên bàn cà phê được trưng bằng hoa thật, cà phê cho nữ có kèm ống hút để các cô không bị trôi son (tinh tế đấy!!!). Đồ ăn sáng ngon, trứng có kèm theo rau kale xào tỏi, bánh mì sandwich có hạt bên trong, cà chua bi ngọt được hái trực tiếp tại vườn. Đồ ăn ngon chỉnh chu, rất hài lòng, một nơi đáng để chi tiền ☺️",
+        "time": 1730600706,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Hoang",
+        "author_url": "https://www.google.com/maps/contrib/117663017095567942819/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfNhBoYaAfTFX6-mWRGbhiq27-NX5yFVZ37vv2lPfSdOCA4Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Vườn dâu và cà chua rất đẹp, bé nhà mình rất thích. Quán lại có phiên chợ nông sản hữu cơ rất bổ ích và thiết thực...",
+        "time": 1740664389,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 512
+  },
+  "harvested_at": "2026-04-30T15:03:07.262975"
+}

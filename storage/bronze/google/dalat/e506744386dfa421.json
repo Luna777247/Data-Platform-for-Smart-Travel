@@ -1,0 +1,163 @@
+{
+  "u_key": "e506744386dfa421",
+  "original_osm_name": "Moto Laurie",
+  "google_raw": {
+    "formatted_phone_number": "0908 144 449",
+    "geometry": {
+      "location": {
+        "lat": 11.9327402,
+        "lng": 108.4263717
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9340873302915,
+          "lng": 108.4277538802915
+        },
+        "southwest": {
+          "lat": 11.9313893697085,
+          "lng": 108.4250559197085
+        }
+      }
+    },
+    "name": "Moto Laurie Cafe & Bistro",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: 08:00–21:00",
+        "Thứ Tư: 08:00–21:00",
+        "Thứ Năm: 08:00–21:00",
+        "Thứ Sáu: 08:00–21:00",
+        "Thứ Bảy: 08:00–21:00",
+        "Chủ Nhật: 08:00–21:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Linh Bùi",
+        "author_url": "https://www.google.com/maps/contrib/106038979523920751043/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCoXxIQKQp22vLzyrr8zLHdKgpwtEmxyu-RWqW6cWTVHpRVWf5=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đọc review của A.N xong mình phải vào viết ngay vài dòng. Mình là người Đà Lạt xa quê, đến quán nhiều lần, từ chủ tới nhân viên ai gặp mình cũng niềm nở. Nên dù nhà khá xa mình vẫn ghé khi có dịp về quê để thưởng thức capuchino và brunch. Khẩu vị mỗi người mỗi khác, cảm nhận về không gian cũng vậy nên nếu không hợp cá nhân ai cũng là chuyện thường tình. Thật không công bằng khi 1 quán đàng hoàng bị gắn mác phân biệt giữa tây và ta chỉ vì trải nghiệm chủ quan của 1 khách. Chúc quán làm ăn phát đạt và luôn có bơ ngon chứ mình chờ vô mùa chỉ để ăn salmon bagel thôi",
+        "time": 1772737464,
+        "translated": false
+      },
+      {
+        "author_name": "Van Luu",
+        "author_url": "https://www.google.com/maps/contrib/102611985315384950742/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhwmgsTbej16IIZuHIY6b3cOdiwI30OquuD0EmbNPUZldxog=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Pizza ngon và phục vụ tận tâm . Khác với những nơi pizza công nghiệp . Và cũng ngon hơn pizza 4p rất nhiều . Một nơi đáng quay lại nhiều lần . Mình đã có một buổi tối rất vui.",
+        "time": 1758989488,
+        "translated": false
+      },
+      {
+        "author_name": "Hin Hin",
+        "author_url": "https://www.google.com/maps/contrib/107174271199627011915/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtgWtKBPaPLFMqwyQwEVs8FOBSkF3cjXMlDiizms4akDteaOc=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nhà hàng gây ấn tượng tốt ngay từ lần đầu ghé thăm nhờ không gian rộng rãi, thoáng đãng và được thiết kế theo phong cách châu Âu hiện đại. Bố cục bàn ghế hợp lý, khoảng cách giữa các bàn thoải mái, rất phù hợp cho cả đi nhóm, gia đình lẫn hẹn hò. Ánh sáng và âm nhạc được điều chỉnh vừa phải, tạo cảm giác dễ chịu khi dùng bữa.\n\nChất lượng món ăn là điểm cộng lớn. Các món Tây được chế biến cẩn thận, hương vị chuẩn, nêm nếm vừa miệng và trình bày đẹp mắt. Nguyên liệu tươi, đặc biệt là các món thịt và salad cho cảm giác chất lượng, không bị ngấy. Khẩu phần hợp lý, ăn no nhưng không quá nặng bụng.\n\nNhân viên phục vụ lịch sự, nhanh nhẹn và sẵn sàng tư vấn món cho khách chưa quen đồ Âu. Thời gian lên món ổn, không phải chờ đợi lâu dù nhà hàng khá đông. Tổng thể, đây là một địa điểm đáng quay lại nếu bạn muốn thưởng thức ẩm thực Tây trong không gian thoải mái, chỉn chu và dễ chịu.",
+        "time": 1767502365,
+        "translated": false
+      },
+      {
+        "author_name": "Khang Lương",
+        "author_url": "https://www.google.com/maps/contrib/109737952650237503172/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_ogD5PBM2hs6iOXmRQiW_kP3UAaMsUz1Jxp6iDIvGK6WfVnY-=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Lần đầu tới với Moto Laurie mà trải nghiệm quá tuyệt vời 😍 mình đã thử món Egg Benedict trong sự mãn nguyện luôn, anh đầu bếp cho mình một lớp sốt Holiday siêu hoàn hảo 10đ cho sự trải nghiệm này. Lại có thêm 1 quán mới tại Đà Lạt cảm ơn anh chef tại Moto Laurie rất nhiều 😘😘",
+        "time": 1762308599,
+        "translated": false
+      },
+      {
+        "author_name": "An Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/104130360952224627293/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYb_aj19dC3Od1eOL1i1TOts0mJTB3opWtXW7_O6otO-gG6g=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn ngon, 1 phần ăn nhiều và chất lượng, đồ uống bình thường.",
+        "time": 1771226298,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1569
+  },
+  "harvested_at": "2026-04-30T14:58:47.648737"
+}

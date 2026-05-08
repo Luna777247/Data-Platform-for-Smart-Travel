@@ -1,0 +1,133 @@
+{
+  "u_key": "235bc722ad5364ba",
+  "original_osm_name": "Street",
+  "google_raw": {
+    "formatted_phone_number": "0368 770 537",
+    "geometry": {
+      "location": {
+        "lat": 16.4686386,
+        "lng": 107.5953273
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.4700186302915,
+          "lng": 107.5966435302915
+        },
+        "southwest": {
+          "lat": 16.4673206697085,
+          "lng": 107.5939455697085
+        }
+      }
+    },
+    "name": "Đường đi bộ Huế",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Đóng cửa",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: Đóng cửa",
+        "Thứ Năm: Đóng cửa",
+        "Thứ Sáu: 18:00–02:00",
+        "Thứ Bảy: 18:00–02:00",
+        "Chủ Nhật: 18:00–00:00"
+      ]
+    },
+    "rating": 4.4,
+    "reviews": [
+      {
+        "author_name": "Thanh Le",
+        "author_url": "https://www.google.com/maps/contrib/117541498835824160699/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXojT3xDizwOeZAW2eBGFU8g2P69hQWfU0Nty5qKofzEgjrtu3kow=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Phố đi bộ đông vui, có nhiều khách du lịch phương Tây.\nĐỡ xô bồ hơn Bùi Viện hay Tạ Hiện, nhẹ nhàng theo cách Huế.\nTrên phố có nhiều hàng ăn, quán bán đồ lưu niệm",
+        "time": 1754713950,
+        "translated": false
+      },
+      {
+        "author_name": "Song Ngoc",
+        "author_url": "https://www.google.com/maps/contrib/111825139050018373086/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMpP9sbJ7Se6wx9SOJpaoxtKGbV3l24itR6p-xkm_Mw9EjpQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Phố đi bộ tiện lợi, có bãi đỗ xe, gần cơm Chạn. có nhiều hàng bán đồ lưu niệm và bar club pub đông vui nhộn nhịp nhiều khách du lịch và khách nuớc ngoài. Nhưng nhẹ nhàng lịch sự k xô bồ như các phố chợ đêm khác.",
+        "time": 1755623431,
+        "translated": false
+      },
+      {
+        "author_name": "Viết Nghĩa Lê",
+        "author_url": "https://www.google.com/maps/contrib/111729516337974279323/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpDSIy4bunJJvTfbGXRiKJfM0iEHzcz_3M41M5xFSPZ-WnKw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Phố Tây đi bộ ở Huế buổi tối cực sôi động, đèn sáng rực và nhạc vang mọi ngóc ngách. Hàng quán đông vui, đồ ăn uống đa dạng, giá ổn. Đi dạo vừa chill vừa vui, hợp tụ tập bạn bè hay đổi gió cuối tuần.",
+        "time": 1764065905,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/100369916297109826199/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_ZWC_n0usmC8okpZgP2R-kmZTO0OcLRm4N-oCnFhy6aZcXHgy=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Lần đầu tiên được đặt chân tới Huế về rồi mà vẫn muốn có cơ hội sẽ giao tiếp con người ở đây rất là thân thiện rất là quý khách",
+        "time": 1753681006,
+        "translated": false
+      },
+      {
+        "author_name": "Hồ Phương Anh",
+        "author_url": "https://www.google.com/maps/contrib/103089544336293706569/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYmzhoS-JPhwzdNGdOBkGR9tzbolyMn-DCZMBN6qiYOD_etA03rQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Tôi đến ban ngày nên k cảm nhận được nh ng nước ngoài rất tò mò…",
+        "time": 1770211076,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2278
+  },
+  "harvested_at": "2026-04-30T15:23:11.186379"
+}

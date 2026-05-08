@@ -1,0 +1,72 @@
+{
+  "u_key": "94204d02c67dd872",
+  "original_osm_name": "nhom6,T01-29,nhà trọ",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 20.9870015,
+        "lng": 105.9288936
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 20.9883750802915,
+          "lng": 105.9302346802915
+        },
+        "southwest": {
+          "lat": 20.9856771197085,
+          "lng": 105.9275367197085
+        }
+      }
+    },
+    "name": "Xóm Trọ Nhỏ",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Scan BO03",
+        "author_url": "https://www.google.com/maps/contrib/115741886912435494819/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-G4EDKBXds1lXtYZGfhBIBcbwqexWhOjHxwLdr7lZLKnFIA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng đẹp, không gian yên tĩnh, giá cả phù hợp.",
+        "time": 1749537532,
+        "translated": false
+      },
+      {
+        "author_name": "Khắc Điệp Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/117904244248698373426/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp9ItDfyA5S-w-VWA_yLEfXvAOSPSvYN5wimkJ0FrYbQP5fw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Phòng mới sạch sẽ, đầy đủ.",
+        "time": 1749537378,
+        "translated": false
+      },
+      {
+        "author_name": "Diep Nguyen Khac",
+        "author_url": "https://www.google.com/maps/contrib/104735050827303641610/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI1tWOLfelWNwvh-eKUiGNKMxTVbfnfp7wfrEh5o8D5jrRLLA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "",
+        "time": 1749537607,
+        "translated": false
+      },
+      {
+        "author_name": "Mỹ Anh Tống",
+        "author_url": "https://www.google.com/maps/contrib/108288451158362928887/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT7S952mo1BUQ8a2iFTE9_SN_lPE0_EbDqPB2hmwesqZTpOlvz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1720017354,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-29T09:30:20.373969"
+}

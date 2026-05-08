@@ -1,0 +1,72 @@
+{
+  "u_key": "7fbda665967d79c2",
+  "original_osm_name": "Chin Chin's House",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0440134,
+        "lng": 105.732256
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0453624302915,
+          "lng": 105.7336213302915
+        },
+        "southwest": {
+          "lat": 21.0426644697085,
+          "lng": 105.7309233697085
+        }
+      }
+    },
+    "name": "Chin Chin's House",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Chu Ngọc Khanh",
+        "author_url": "https://www.google.com/maps/contrib/112744731243300702774/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIh1yPX288iajRPsv9p2946ftS77T7CIt6fde1rRS6ouSyR7_l=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Sạch sẽ, thoáng mát, đầy đủ tiện ích",
+        "time": 1699246636,
+        "translated": false
+      },
+      {
+        "author_name": "Tien Ta",
+        "author_url": "https://www.google.com/maps/contrib/115527930388430004929/reviews",
+        "language": "vi",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURiCl5ywhzTspY8nvsiodTrCwgObwnfKW0ne7ivi2vQbIceSk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Một nơi khá tốt để ngủ",
+        "time": 1729335889,
+        "translated": true
+      },
+      {
+        "author_name": "Bằng Đinh Văn",
+        "author_url": "https://www.google.com/maps/contrib/101790779414808091257/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdfnAUdiBX3BBiUqf9uS_1cqKvj-gkJdj5aRA9wiZ4GKE0zKFylg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "",
+        "time": 1747323202,
+        "translated": false
+      },
+      {
+        "author_name": "Huyen Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103749812132059839086/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTf_ziC1qMcTLUZN-Sq6-mul4kEQK384IuG4hsSOOrKrUGPMQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1723786928,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-26T12:45:04.321172"
+}

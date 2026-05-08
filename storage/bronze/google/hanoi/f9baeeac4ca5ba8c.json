@@ -1,0 +1,174 @@
+{
+  "u_key": "f9baeeac4ca5ba8c",
+  "original_osm_name": "Nhà Hàng Hot Rock",
+  "google_raw": {
+    "formatted_phone_number": "024 3844 5661",
+    "geometry": {
+      "location": {
+        "lat": 21.0275208,
+        "lng": 105.8241481
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0288438302915,
+          "lng": 105.8255780302915
+        },
+        "southwest": {
+          "lat": 21.0261458697085,
+          "lng": 105.8228800697085
+        }
+      }
+    },
+    "name": "Hot Rock Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–22:00",
+        "Thứ Ba: 08:00–22:00",
+        "Thứ Tư: 08:00–22:00",
+        "Thứ Năm: 08:00–22:00",
+        "Thứ Sáu: 08:00–22:00",
+        "Thứ Bảy: 08:00–22:00",
+        "Chủ Nhật: 08:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "T A",
+        "author_url": "https://www.google.com/maps/contrib/108594519763317974014/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUX5q5jrewuo3g4CWUAa3t6shcwzqbTg3UNhsJkiXhE6erJhHSv=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "một tháng trước",
+        "text": "Lần đầu ăn ở đây do có bạn gợi ý. Menu rất nhiều món và đa dạng, tuy nhiên lúc mình đi ăn thì nguyên liệu nhiều món hết. Buổi trưa rất vắng khách. Quán có mùi ẩm ẩm và có 1 con gián nhỏ bò trên bàn ăn của mình. Pizza nhiều cheese rất chất lượng. Steak có thịt bò rất dai và khô do bị chín kỹ quá. Khi mình bảo nhân viên thì chỉ đáp: \"Bò ta thì đương nhiên dai\". Mình rất hay ăn bò ta nên biết nếu biết nấu đúng cách thì cũng ko bị dai như này. Đây là dai của việc nấu kỹ quá.",
+        "time": 1772368147,
+        "translated": false
+      },
+      {
+        "author_name": "Dung Đinh Thùy",
+        "author_url": "https://www.google.com/maps/contrib/108097412025921778484/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsMCGglB_Y09vLHDfifo_c6SfsGpeeWGv38_QF4_OS1b57Ns92=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán quen mà nay ăn pizza quá tệ, thực sự thất vọng kinh khủng. Kể cả thái độ phục vụ của nhân viên quán!",
+        "time": 1770643535,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Chi Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/101143702251690015853/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsfAD4YtXUVKy0xFOip-C2Uw1aBhhsI7FSrETSfkv4WmMZ2Fii=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Không gian warm and cozy\nRất phù hợp để dating hoặc ăn với gia đình\nNhà hàng đã có mặt từ rất lâu rồi. Chuyên đồ Tây và pizza\nPhô mai ở pizza kéo sợi cực dài\nSalad nga và các món mì cũng cực ngon",
+        "time": 1766861173,
+        "translated": false
+      },
+      {
+        "author_name": "Thuy Trang",
+        "author_url": "https://www.google.com/maps/contrib/102407647415878768141/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVE6a5e1wk70AOvUsMPiMrnyeuHffEXlplm4sVi0rKRV-QlWKE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Đồ ăn siêu ngon. Ai cũng nên thử pizza, bò nướng đá, salat Nga ở đây. Nhân viên phục vụ tuyệt vời. Tôi gọi đồ ăn mang về nhưng lại chưa phải đi ngay nên muốn ngồi ăn tạm nhưng nhân viên đã mời tôi lên tầng và bày suất ăn của tôi thật ngon mắt. Hiếm có quán nào ở HN nhân viên tuyệt vời như vậy.",
+        "time": 1767617224,
+        "translated": false
+      },
+      {
+        "author_name": "Lil Trịnh",
+        "author_url": "https://www.google.com/maps/contrib/115487001301318760878/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqh53AKG9Wh1VpcvbY56cIdQFwfjqpRHT9m7ETeuj7hw_3zBM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Bò bít tết thăn Úc ăn ok, lên món nhanh. Món salad Nga ăn rất ngon và ko bị béo. Quán nhìn ngoài nhỏ nhưng ko gian bên trong rất rộng và các anh chị phục vụ nhiệt tình. Đến khi bọn mình thấy ko còn ái vẫn còn nói chuyện mãi 1 lúc mới về mà anh phục vụ đợi chứ ko nhắc khéo là quán cần đóng cửa.",
+        "time": 1736350477,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 370
+  },
+  "harvested_at": "2026-04-28T16:26:25.141302"
+}

@@ -1,0 +1,71 @@
+{
+  "u_key": "8b540813aa2f3e7f",
+  "original_osm_name": "Nhà trọ Nguyễn Long",
+  "google_raw": {
+    "formatted_phone_number": "0905 866 849",
+    "geometry": {
+      "location": {
+        "lat": 16.0666584,
+        "lng": 108.1881544
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0680440302915,
+          "lng": 108.1896008802915
+        },
+        "southwest": {
+          "lat": 16.0653460697085,
+          "lng": 108.1869029197085
+        }
+      }
+    },
+    "name": "Cho thuê phòng trọ",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "hoa khanh",
+        "author_url": "https://www.google.com/maps/contrib/114479966555217876173/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWwDcFYm1ps2Qx0iTWfrCPpKGoc0xS6xXD93KoKXeZNxoKbx07Og=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Phòng đẹp giá hợp lí, an ninh rất tốt",
+        "time": 1727057586,
+        "translated": false
+      },
+      {
+        "author_name": "khoa nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113892323540299337167/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT6mVQGWV7T132RIMbppz8Vkp-B_AUDVAd_irwVXd0zrgiFTt3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "",
+        "time": 1761976551,
+        "translated": false
+      },
+      {
+        "author_name": "Hạnh Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/100692522557857472753/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOIGqr2iO0mPlwSFTr-QEI9yCIddMvWqNuOugHauzuciZp3g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "",
+        "time": 1754297766,
+        "translated": false
+      },
+      {
+        "author_name": "Thiện Thanh Trần",
+        "author_url": "https://www.google.com/maps/contrib/102360768524452694451/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIRCbkNUyxlMlPj1kCZCAa1Od4h3Lch_5y-da1l8D3CaVtenA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1726194791,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 4
+  },
+  "harvested_at": "2026-04-28T16:35:47.591620"
+}

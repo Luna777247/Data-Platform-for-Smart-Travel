@@ -1,0 +1,173 @@
+{
+  "u_key": "97703cec06dbc687",
+  "original_osm_name": "Nhà Hàng Kiếu Gia",
+  "google_raw": {
+    "formatted_phone_number": "0366 028 888",
+    "geometry": {
+      "location": {
+        "lat": 21.0255765,
+        "lng": 105.84513
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.02689648029151,
+          "lng": 105.8465849802915
+        },
+        "southwest": {
+          "lat": 21.0241985197085,
+          "lng": 105.8438870197085
+        }
+      }
+    },
+    "name": "Nhà hàng Nguyễn Gia",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–22:00",
+        "Thứ Ba: 11:00–22:00",
+        "Thứ Tư: 11:00–22:00",
+        "Thứ Năm: 11:00–22:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 11:00–22:00"
+      ]
+    },
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Tuấn Lê",
+        "author_url": "https://www.google.com/maps/contrib/117587744639212822507/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjA5DIXo7c99q-hArUwdwLyTvH9gV5baO97OL_m5UEN_qo_54skA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "ABSOLUTELY NOT RECOMMENDED! The service was terrible and the staff was very unprofessional. Save your money and go somewhere else.\nMặc dù chỉ có vài mống khách nhưng tìm nhân viên khó đến nỗi tưởng mình đang cầu xin được phục vụ, đã thế lại còn đơ. Đồ ăn thì tầm tầm chứ cũng chả đến nỗi. Riêng món 'ba chỉ chấm mắm tép' là cái thứ thảm hoạ nhất vì mắm tép mặn đến mức có thể chết ngay tại chỗ. Bát thì mẻ lung tung, thật sự là một cái nhà hàng to như vậy và đã từng bị đánh giá phản ánh về bát mẻ nhưng vẫn ko thay đổi. điểm tốt duy nhất là đc cái không gian đẹp nhưng vẫn đắt thấy mẹ so với nhiều nhà hàng cũng có không gian ngang vậy.\nIt is so bad i wanna give you a zero, but that's not possible so i give you a one",
+        "time": 1767951817,
+        "translated": false
+      },
+      {
+        "author_name": "Cậu Bé Thoát Hói",
+        "author_url": "https://www.google.com/maps/contrib/117335515039467420942/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzSCQK9W90WN1MwxiMobgCPNADGTm84EESsJDg6CrN-Dw_9ig1=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Sau cấy tóc tự thân thành công mình tự tin phục hồi được tóc. Mình tự tin đi mọi nơi không còn mặc cảm như lúc hói trước đây.\nTrong chuyến đến Hà Nội gần đây mình có ghé vào Nguyễn Gia Nhà Hàng ăn trưa vội. Mình đặc biệt thích không khí và cách thiết kế của Quán.\nĐồ ăn mình thấy ngon, hợp khẩu vị mình xứng đáng 10Đ, với giá cả như vậy món ăn ra cũng khá nhiều.\nNhân viên phục vụ dễ thương và chu đáo không có gì chê.\nMình thấy khá yên tĩnh để trò chuyện với bạn bè.",
+        "time": 1755583317,
+        "translated": false
+      },
+      {
+        "author_name": "DP",
+        "author_url": "https://www.google.com/maps/contrib/103734128488160634494/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdFivOcBAdaWzJqqv7D9cY9mrVyYv9Y04436tNim-uwDv2TIiQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Là 1 người trẻ, từ miền Nam vào ăn thì nhà hàng thật sự rất chỉn chu. Đồ ăn đa dạng, nêm nếm rất đậm đà, món lạ, phục vụ rất nhiệt tình, dễ thương. Nhà mình có bà lớn tuổi, nv còn đưa qua đường để bắt xe. Có không gian phòng riêng trên lầu. Rất recommend mng ăn món \"gạch\" kho quẹt",
+        "time": 1760457203,
+        "translated": false
+      },
+      {
+        "author_name": "Annie Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/101127573379214535066/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6vgEEotOCWbTek91zr3vkvW6cGOdAyRLg4qVF-nVcByO8pxbL=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "Đồ ngon, dịch vụ ổn, chỉ hơi đắt.\n\n1. Đồ ăn: các món đều ngon, theo kiểu cơm canh gia đình truyền thống. Gia giảm rất vừa vặn. Món signature là bún hến chấm gạch cua, highly recommend. Nước tía tô cũng rất ngon và ít ngọt.\n\n2. Dịch vụ: nhanh nhẹn, thân thiện. Đồ ăn lên nhanh luôn là điểm cộng.\n\n3. Không gian: vibe nhà cổ Bắc Bộ, khá đẹp và hợp tiếp khách trong và ngoài nước. Vị trí trung tâm phố lớn.\n\nNếu không phải giá cả có phần quá căng thì sẽ ghé thường xuyên hơn.",
+        "time": 1751737200,
+        "translated": false
+      },
+      {
+        "author_name": "Lucy Nguyên",
+        "author_url": "https://www.google.com/maps/contrib/116344317014336125432/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHwDGZhv2J2iUBICkUniHD1E0lNqygwC5TfhksjB4W87KThfw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "9 tháng trước",
+        "text": "NGUYỄN GIA – 64B Quán Sứ\n\n✅ Không gian: Quán sạch sẽ, vị trí dễ tìm, thuận tiện di chuyển. Không cần đặt bàn trước.\n✅ Nhân viên: Phục vụ ổn, không có gì để phàn nàn.\n✅ Giá cả: Ở mức vừa phải, phù hợp với chất lượng quán ăn trong phố trung tâm.\n\n🍽️ Món ăn:\n•\tTổng thể các món tạm ổn.\n•\tNem cuốn lá lốt và nem rán ăn kèm bún đều chiên dầu quá nhiều, gây cảm giác ngấy.\n•\tHoa thiên lý xào vẫn để cả phần cẫng già, ăn bị dai.\n•\tCác món khác còn lại ổn, không có gì đặc biệt nhưng ăn được.\n👉 Tóm lại: Ai không quá khó tính thì vẫn có thể thử. Nếu quán cải thiện món chiên & khâu sơ chế nguyên liệu, trải nghiệm sẽ tốt hơn nhiều.",
+        "time": 1753636979,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 123
+  },
+  "harvested_at": "2026-04-28T16:29:52.652752"
+}

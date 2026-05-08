@@ -1,0 +1,173 @@
+{
+  "u_key": "6a741e518faa2d67",
+  "original_osm_name": "Nhà Hàng Chay Mihn",
+  "google_raw": {
+    "formatted_phone_number": "0388 996 855",
+    "geometry": {
+      "location": {
+        "lat": 21.0440056,
+        "lng": 105.8442473
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0453182802915,
+          "lng": 105.8455788802915
+        },
+        "southwest": {
+          "lat": 21.0426203197085,
+          "lng": 105.8428809197085
+        }
+      }
+    },
+    "name": "Ẩm thực chay Nhà Mình",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–21:00",
+        "Thứ Ba: 07:30–21:00",
+        "Thứ Tư: 07:30–21:00",
+        "Thứ Năm: 07:30–21:00",
+        "Thứ Sáu: 07:30–21:00",
+        "Thứ Bảy: 07:30–21:00",
+        "Chủ Nhật: 07:30–21:00"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Bùi Phạm Ngọc Anh Thư",
+        "author_url": "https://www.google.com/maps/contrib/115075213241213233335/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNvg3SNG6vIQQtaMukE8mtx2Jm6OPoqQJZ2I-E-4jcrwIGa-7K=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon khẩu vị vừa miệng, giá cả hợp lí phải chăng, sẽ quay lại để thưởng thức các món khác của quán ạ. Cô chủ và nhân  viên thân thiện nhiệt tình ạ",
+        "time": 1772628350,
+        "translated": false
+      },
+      {
+        "author_name": "Oanh Trần",
+        "author_url": "https://www.google.com/maps/contrib/105976086122447346999/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnSZYfuLxiv-Ms_ScsgllP8g_ZZSeLZ-tP1vhnzzvXDcL79Wsg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon lắm ạ, highly recommend mẹt cuốn thịt heo quay cho cả nhà. Cô chủ quán và nhân viên dễ thương, còn tặng thêm chè và hoa quả tráng miệng nữa. Chắc chắn mình sẽ quay lại 😋👌💯",
+        "time": 1772982755,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Hoài Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/118084320962525441313/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTRxCy6TSeAdPXKAqmnjKtboEalirNTRSWpGIAlqQdjPHQ1giI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nhân viên nhẹ Nhàng, đồ ăn hợp khẩu vị, sạch sẽ, đẹp mắt. Giá cả phải chăng, hợp lí ~ từ 50k/ suất. 🤍 sẽ ghé lại ạaaaa",
+        "time": 1772682943,
+        "translated": false
+      },
+      {
+        "author_name": "ĐỖ HỌC",
+        "author_url": "https://www.google.com/maps/contrib/118316201910796850508/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX-VyoVmSE1zLafxTrsrI0pkI-_OVHHKOJRvVegA0tFlylk1oxk=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán mới khai trương nên còn vắng khách và yên tĩnh. Vị khá đặc trưng do đầu bếp là người nam, vị rất vừa miệng. Món bún bò Huế rất ngon, mình ăn sạch luôn, hết cả nước lẫn cái. Nếu có dịp đến khu vực Phạm Hồng Thái, Cửa Bắc các bạn nên ghé qua trải nghiệm.",
+        "time": 1772778502,
+        "translated": false
+      },
+      {
+        "author_name": "Vuongthi Thong",
+        "author_url": "https://www.google.com/maps/contrib/107374823801398497129/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJupOdTCuUbVdNFBV6_X72xWKQXiefS2teiksP4PaPPGijcjw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đến với Ấm thực chay Nhà Mình ban sẽ  cảm nhận được những món ăn ngon đậm đà hợp khẩu vi với tất cả vùng miền  thưởng thức không gian ấm cúng phong cách phuc vụ rất vui vẻ niềm nở  hãy đến để trải nghiệm",
+        "time": 1772097553,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 80
+  },
+  "harvested_at": "2026-04-28T16:31:40.650408"
+}

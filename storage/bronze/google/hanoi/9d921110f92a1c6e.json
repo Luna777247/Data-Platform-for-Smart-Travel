@@ -1,0 +1,174 @@
+{
+  "u_key": "9d921110f92a1c6e",
+  "original_osm_name": "The Kneipe",
+  "google_raw": {
+    "formatted_phone_number": "0903 439 286",
+    "geometry": {
+      "location": {
+        "lat": 21.0688558,
+        "lng": 105.8243399
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0701639802915,
+          "lng": 105.8256511302915
+        },
+        "southwest": {
+          "lat": 21.0674660197085,
+          "lng": 105.8229531697085
+        }
+      }
+    },
+    "name": "The Kneipe Hanoi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 16:30–00:30",
+        "Thứ Ba: 16:30–00:30",
+        "Thứ Tư: 16:30–00:30",
+        "Thứ Năm: 16:30–00:30",
+        "Thứ Sáu: 16:30–00:30",
+        "Thứ Bảy: 16:30–00:30",
+        "Chủ Nhật: 16:30–00:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "Nguyễn Hà",
+        "author_url": "https://www.google.com/maps/contrib/104543379922006114154/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDHpR_GI0Q--gaNY4vtUoVZ5Zr60A77tDxNFuMfS7uaauj6Rc=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Bình thường mình không thích xúc xích, nhưng thấy ngon lắm, không gian quán nhỏ xinh, anh chị phục vụ cute. Không phải fan cồn nên không đánh giá bia",
+        "time": 1767666159,
+        "translated": false
+      },
+      {
+        "author_name": "Sơn Đặng",
+        "author_url": "https://www.google.com/maps/contrib/106226505475499067314/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEU4IQnwijoy_dvMlq4W5bAWJ-FuSOEzGaDfHYOR3LSTgtobw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Nhà hàng có đồ ăn ngon, đa dạng đồ uống và các bạn nhân viên rất nhiệt tình\nSẽ quay lại nhiều hơn.",
+        "time": 1755170665,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Trung Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102188830671449585851/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfr0n1opxrwEa5N_uFTpPqZopnhtCDMGZ0EaGyIKdv8b726QJP=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán rượu mở về đêm sẽ có rất đông khách Tây đến đây uống. Thi thoảng có nhạc sống. Không gian không quá rộng nhưng nhà hàng đang mở rộng thêm không gian tầng 2.",
+        "time": 1658408574,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/113743387255330083188/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuaMeXnjj_GsbEQ_7VpxLjAdMaP8tWuEVV7iEQzcGh2nPJz6Hn4g=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Điểm cộng: quán mở muộn, đồ uống ngon. Mấy shot B52 uống chất phết, nhưng sáng hôm sau hơi đau đầu.\nĐiểm trừ: tạm thời chưa thấy.\nNhất định sẽ quay lại !",
+        "time": 1608259830,
+        "translated": false
+      },
+      {
+        "author_name": "Hiếu Lê Trung",
+        "author_url": "https://www.google.com/maps/contrib/114178392188949496808/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqnp6zr_uyDKSposF1NG8PKSagaQBshArpN2Cqu8WVCwBcmng=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "11 tháng trước",
+        "text": "Tôi qua cũng những đồng nghiệp trong công ty\nMột buổi tối tuyệt vời",
+        "time": 1747572198,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 427
+  },
+  "harvested_at": "2026-04-28T16:29:35.328062"
+}

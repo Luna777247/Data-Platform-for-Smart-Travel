@@ -1,0 +1,145 @@
+{
+  "u_key": "d00344745bb03121",
+  "original_osm_name": "Green Mango",
+  "google_raw": {
+    "formatted_phone_number": "024 3928 9915",
+    "geometry": {
+      "location": {
+        "lat": 21.0680012,
+        "lng": 105.8252549
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0693917302915,
+          "lng": 105.8266222302915
+        },
+        "southwest": {
+          "lat": 21.0666937697085,
+          "lng": 105.8239242697085
+        }
+      }
+    },
+    "name": "Green Mango Appartment & Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:00–23:30",
+        "Thứ Ba: 07:00–23:30",
+        "Thứ Tư: 07:00–23:30",
+        "Thứ Năm: 07:00–23:30",
+        "Thứ Sáu: 07:00–23:30",
+        "Thứ Bảy: 07:00–23:30",
+        "Chủ Nhật: 07:00–23:30"
+      ]
+    },
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Małgorzata Sienkiewicz",
+        "author_url": "https://www.google.com/maps/contrib/101094424276162564038/reviews",
+        "language": "vi",
+        "original_language": "pl",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjT0dkOnvDX0BrMF4-pHS5WaJA-1DvKSQHf8OSrsFSEmXqsw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Một buổi hội thảo nấu ăn tuyệt vời. Người hướng dẫn nói tiếng Anh rất tốt, giải thích từng bước một và mọi người đều hăng say thực hiện các món ăn.",
+        "time": 1670053779,
+        "translated": true
+      },
+      {
+        "author_name": "Xuan Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105683181444747110558/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbSyprSBurl9h_rbruBg1U1pgrWLv0w7ays4SXOJKDBrvePXCw=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "6 năm trước",
+        "text": "",
+        "time": 1578684745,
+        "translated": false
+      },
+      {
+        "author_name": "Denis Tau",
+        "author_url": "https://www.google.com/maps/contrib/111533170074081409659/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIayCJqwnb30QTCOoeaioaUU70u_CJKoRCDnp-c3FPy3mJRiQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "7 năm trước",
+        "text": "",
+        "time": 1547006143,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 3
+  },
+  "harvested_at": "2026-04-28T16:33:18.504346"
+}

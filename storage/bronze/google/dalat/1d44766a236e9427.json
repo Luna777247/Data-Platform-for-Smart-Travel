@@ -1,0 +1,110 @@
+{
+  "u_key": "1d44766a236e9427",
+  "original_osm_name": "IXORA HOMESTAY & COFFEE",
+  "google_raw": {
+    "formatted_phone_number": "0918 819 233",
+    "geometry": {
+      "location": {
+        "lat": 11.9431576,
+        "lng": 108.5025077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9445222802915,
+          "lng": 108.5037665802915
+        },
+        "southwest": {
+          "lat": 11.9418243197085,
+          "lng": 108.5010686197085
+        }
+      }
+    },
+    "name": "Ixora Homestay & Coffee",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: Mở cửa cả ngày",
+        "Thứ Ba: Mở cửa cả ngày",
+        "Thứ Tư: Mở cửa cả ngày",
+        "Thứ Năm: Mở cửa cả ngày",
+        "Thứ Sáu: Mở cửa cả ngày",
+        "Thứ Bảy: Mở cửa cả ngày",
+        "Chủ Nhật: Mở cửa cả ngày"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author_name": "Hồng Uyên",
+        "author_url": "https://www.google.com/maps/contrib/106588645036423967730/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXd3ZhkrAT6fcaXmmeXQmHX8TeWUlKxxdkjhT-DI6TTGOuIqfkN=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán được trang trí với rất nhiều chậu sen đá nhỏ xinh đặt khắp nơi: từ bàn, kệ đến khu sân vườn. Không gian khá thoáng, nhiều cây xanh nên cảm giác rất dễ chịu. Ánh sáng tự nhiên vào ban ngày rất đẹp, chụp hình cũng khá “ăn ảnh”.",
+        "time": 1772945791,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/105917733578659131571/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvP43USwhFKNZpEkOXohFMsJ347HxOU7sOM2sR4qqbHlZjGLs=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Quán view rất xinh, nhiều góc sống ảo kiểu vườn hoa – rừng thông nhìn chill lắm. Không gian rộng, thoáng, đi giữa tuần là bao yên tĩnh.",
+        "time": 1772598242,
+        "translated": false
+      },
+      {
+        "author_name": "thi nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/111667993179086149283/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgBM4LaAQ3TDz6xBp6za5LNd-JztfQkho5ECbAwsF5J1JrSze8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Nước ngon. Giá hợp lý. Sen đá quá đẹp cho thấy chủ quán chăm sóc rất chỉnh chu. Thiên đường cho những người yêu thích sen đá",
+        "time": 1772942718,
+        "translated": false
+      },
+      {
+        "author_name": "Hân Nguyễn Ngọc",
+        "author_url": "https://www.google.com/maps/contrib/104794580225006106619/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKWV6gr-H6zUx2OaS57iSJEBG_dIfcCX8DqHq4RBrZ07miCw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nước ngon, không gian nhạc chill siêu thíchh cho bạn nào đam mê sen đá. Có tặng kèm 1 chậu mini nhỏ xinh cho khách đánh giá gg ^^",
+        "time": 1768459278,
+        "translated": false
+      },
+      {
+        "author_name": "Song Toàn",
+        "author_url": "https://www.google.com/maps/contrib/113631311244934650775/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFYrc9t73_TbmfLPWHaPG0kgqbpSkkEbaEiGOKfdZYPgYaFA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một nơi quá đẹp, cần phải ghé qua nếu đi Đà Lạt chơi.\nSen đá có ở khắp mọi nơi, nhiều về số lượng lẫn chủng loại.\nGiá đồ uống quá rẻ so với mặt bằng chung.",
+        "time": 1770022450,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2074
+  },
+  "harvested_at": "2026-04-30T15:08:36.749732"
+}

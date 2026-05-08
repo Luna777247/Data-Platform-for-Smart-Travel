@@ -1,0 +1,163 @@
+{
+  "u_key": "0b854a1444d931bf",
+  "original_osm_name": "DC Bistro & Boutique",
+  "google_raw": {
+    "formatted_phone_number": "024 3726 4782",
+    "geometry": {
+      "location": {
+        "lat": 21.030954,
+        "lng": 105.816635
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.03221523029151,
+          "lng": 105.8180543802915
+        },
+        "southwest": {
+          "lat": 21.0295172697085,
+          "lng": 105.8153564197085
+        }
+      }
+    },
+    "name": "The Bistro",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 07:30–18:00",
+        "Thứ Ba: 07:30–18:00",
+        "Thứ Tư: 07:30–18:00",
+        "Thứ Năm: 07:30–18:00",
+        "Thứ Sáu: 07:30–18:00",
+        "Thứ Bảy: 07:30–18:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Ngoc Ha Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/105371838848071945649/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZm4kwseUDTLovefUV-K2Kw3S2LULo5FBGYrwH1XFSnBdwc4aA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Phở khá ngon, phần ăn đầy đặn. Không gian quán rộng rãi, thoáng mát và tạo cảm giác dễ chịu!",
+        "time": 1761193547,
+        "translated": false
+      },
+      {
+        "author_name": "Hương Đặng",
+        "author_url": "https://www.google.com/maps/contrib/105020438837651388380/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9ULCzPKMO7MGVAxOaKGe4Tn1nbsMvuhOIfBMh5P6n0cT1em1X=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn ở đây rất ngon và đầy đặn, nhân viên phục vụ tận tình và mến khách ❤️",
+        "time": 1701408544,
+        "translated": false
+      },
+      {
+        "author_name": "Huong Lai Thu",
+        "author_url": "https://www.google.com/maps/contrib/109879905653611949100/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqOhQ3i-n6YpJt9bHTTwLUCY3DPbKQaN_ujgVErpN-We-RJiaW0Q=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Super fresh fruit tart, not too sweet, very tasty. Bánh tart hoa quả siêu tươi ngon, không quá ngọt, rất vừa miệng. Quán đẹp, phong cách, 10 điểm!",
+        "time": 1688643353,
+        "translated": false
+      },
+      {
+        "author_name": "duy nguyen van",
+        "author_url": "https://www.google.com/maps/contrib/113432422713053277456/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaPyjidJ7NBfxQTfbMiAvbuW5TRR16Xdih2tqm90v0dsPvdQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Đồ ăn rất ngon, giá cả hợp lý, nhân viên thân thiện",
+        "time": 1698117881,
+        "translated": false
+      },
+      {
+        "author_name": "Viet Huong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/117149796413008100936/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNCfh2TsADEtCaAoAIt2oxsQRlW8J1NC-sO4_RPkUawYKVElF6=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Đồ ăn ổn. Menu đa dạng các món Âu - Á. Bánh ngon. Phục vụ hơi chậm.",
+        "time": 1759506551,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 226
+  },
+  "harvested_at": "2026-04-28T16:16:57.435286"
+}

@@ -1,0 +1,1844 @@
+{
+  "city": "shanghai",
+  "category": "attraction",
+  "timestamp": "20260507_150333",
+  "count": 100,
+  "elements": [
+    {
+      "type": "node",
+      "id": 299453008,
+      "lat": 14.2835665,
+      "lon": 121.5107287,
+      "timestamp": "2011-05-24T02:18:04Z",
+      "version": 6,
+      "changeset": 8231655,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "name": "Japanese Garden",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 310526581,
+      "lat": 15.7697129,
+      "lon": 121.4770282,
+      "timestamp": "2024-04-28T10:17:45Z",
+      "version": 5,
+      "changeset": 150611518,
+      "user": "mueschel",
+      "uid": 616774,
+      "tags": {
+        "genus": "Ficus",
+        "leaf_type": "broadleaved",
+        "name": "Asia's Largest Balete Tree",
+        "natural": "tree",
+        "species": "Stipulosa",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476081313,
+      "lat": 31.2414831,
+      "lon": 121.4853948,
+      "timestamp": "2022-09-27T04:06:26Z",
+      "version": 12,
+      "changeset": 126678184,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "中国银行大楼",
+        "name:en": "Bank of China Building",
+        "name:zh": "中国银行大楼",
+        "name:zh-Hans": "中国银行大楼",
+        "name:zh-Hant": "中國銀行大樓",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476082235,
+      "lat": 31.242325,
+      "lon": 121.4855801,
+      "timestamp": "2017-04-29T02:42:48Z",
+      "version": 7,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "怡和洋行大楼",
+        "name:en": "Jardine Matheson Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476082363,
+      "lat": 31.2417559,
+      "lon": 121.4854592,
+      "timestamp": "2017-04-29T02:42:48Z",
+      "version": 12,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "横滨正金银行大楼",
+        "name:en": "Yokohama Specie Bank",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476082453,
+      "lat": 31.2419875,
+      "lon": 121.4855155,
+      "timestamp": "2017-04-29T02:42:48Z",
+      "version": 11,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "扬子大楼",
+        "name:en": "Yangtze Insurance Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476082753,
+      "lat": 31.2406912,
+      "lon": 121.4853362,
+      "timestamp": "2017-04-29T02:56:26Z",
+      "version": 9,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "汇中饭店大楼",
+        "name:en": "Palace Hotel",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476082989,
+      "lat": 31.2403999,
+      "lon": 121.4853871,
+      "timestamp": "2017-04-29T02:56:26Z",
+      "version": 10,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "麦加利银行大楼",
+        "name:en": "Chartered Bank Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476148697,
+      "lat": 31.2401622,
+      "lon": 121.4854137,
+      "timestamp": "2017-04-29T02:48:47Z",
+      "version": 10,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "字林大楼",
+        "name:en": "North China Daily News Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476148920,
+      "lat": 31.2399676,
+      "lon": 121.4854322,
+      "timestamp": "2017-04-29T02:56:26Z",
+      "version": 9,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "台湾银行大楼",
+        "name:en": "Bank of Taiwan Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476149140,
+      "lat": 31.2396328,
+      "lon": 121.4854885,
+      "timestamp": "2017-04-29T02:56:26Z",
+      "version": 7,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "华俄道胜银行大楼",
+        "name:en": "Russo-Chinese Bank Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476149253,
+      "lat": 31.2390962,
+      "lon": 121.485604,
+      "timestamp": "2022-09-25T03:02:22Z",
+      "version": 8,
+      "changeset": 126601382,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "交通银行大楼",
+        "name:en": "Bank of Communications Building",
+        "name:zh": "交通银行大楼",
+        "name:zh-Hans": "交通银行大楼",
+        "name:zh-Hant": "交通銀行大樓",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476149343,
+      "lat": 31.2386397,
+      "lon": 121.4856441,
+      "timestamp": "2022-09-27T03:52:29Z",
+      "version": 9,
+      "changeset": 126677928,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "江海关大楼",
+        "name:en": "Customs House",
+        "name:zh": "江海关大楼",
+        "name:zh-Hans": "江海关大楼",
+        "name:zh-Hant": "江海關大樓",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476149515,
+      "lat": 31.2380045,
+      "lon": 121.4857569,
+      "timestamp": "2018-09-02T16:47:55Z",
+      "version": 9,
+      "changeset": 62223701,
+      "user": "jason_yanczhang",
+      "uid": 7395151,
+      "tags": {
+        "name": "前汇丰银行大楼",
+        "name:en": "Former HSBC Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476149638,
+      "lat": 31.2367496,
+      "lon": 121.4862961,
+      "timestamp": "2022-09-25T03:02:22Z",
+      "version": 12,
+      "changeset": 126601382,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "中国通商银行大楼",
+        "name:en": "China Merchants Bank Building",
+        "name:zh": "中国通商银行大楼",
+        "name:zh-Hans": "中国通商银行大楼",
+        "name:zh-Hant": "中國通商銀行大樓",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476151005,
+      "lat": 31.2371051,
+      "lon": 121.4860868,
+      "timestamp": "2017-04-29T02:56:26Z",
+      "version": 8,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "电报大楼",
+        "name:en": "Great Northern Telegraph Corporation Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476151248,
+      "lat": 31.2365093,
+      "lon": 121.4864622,
+      "timestamp": "2022-09-27T03:58:16Z",
+      "version": 9,
+      "changeset": 126678051,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "日清大楼",
+        "name:en": "Nissin Building",
+        "name:zh": "日清大楼",
+        "name:zh-Hans": "日清大楼",
+        "name:zh-Hant": "日清大樓",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476151413,
+      "lat": 31.2358621,
+      "lon": 121.4868862,
+      "timestamp": "2023-05-08T02:56:37Z",
+      "version": 9,
+      "changeset": 135832252,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "上海总会大楼",
+        "name:en": "Shanghai Club",
+        "name:zh": "上海总会大楼",
+        "name:zh-Hans": "上海总会大楼",
+        "name:zh-Hant": "上海總會大樓",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476151449,
+      "lat": 31.2355318,
+      "lon": 121.487015,
+      "timestamp": "2017-04-29T02:56:26Z",
+      "version": 8,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "亚细亚大楼",
+        "name:en": "Asia Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 476771920,
+      "lat": 31.2411292,
+      "lon": 121.4853496,
+      "timestamp": "2022-09-27T03:46:14Z",
+      "version": 8,
+      "changeset": 126677796,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "name": "沙逊大厦",
+        "name:en": "Sassoon House",
+        "name:zh": "沙逊大厦",
+        "name:zh-Hans": "沙逊大厦",
+        "name:zh-Hant": "沙遜塔樓",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 530696824,
+      "lat": 31.2305882,
+      "lon": 121.4937792,
+      "timestamp": "2025-09-22T21:54:25Z",
+      "version": 8,
+      "changeset": 172317161,
+      "user": "ftrebien",
+      "uid": 401472,
+      "tags": {
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "十六铺码头",
+        "name:en": "Shiliupu Wharf",
+        "public_transport": "station",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 601583772,
+      "lat": 23.4965215,
+      "lon": 121.3432883,
+      "timestamp": "2017-10-31T14:55:44Z",
+      "version": 4,
+      "changeset": 53398086,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "瑞穗溫泉",
+        "name:en": "Rueisuei Hot Spring",
+        "name:zh": "瑞穗溫泉",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 651013995,
+      "lat": 31.2800115,
+      "lon": 121.4469268,
+      "timestamp": "2013-05-05T09:58:57Z",
+      "version": 6,
+      "changeset": 15982200,
+      "user": "adong33",
+      "uid": 1417804,
+      "tags": {
+        "name": "上海马戏城",
+        "name:en": "Shanghai Circus World",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 697170201,
+      "lat": 25.1753902,
+      "lon": 121.5476114,
+      "timestamp": "2023-03-26T04:47:00Z",
+      "version": 7,
+      "changeset": 134124106,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "小油坑",
+        "name:en": "Small oil pit",
+        "name:zh": "小油坑",
+        "natural": "volcano",
+        "tourism": "attraction",
+        "wikidata": "Q10959487",
+        "wikipedia": "zh:小油坑"
+      }
+    },
+    {
+      "type": "node",
+      "id": 737742579,
+      "lat": 25.0133837,
+      "lon": 121.530364,
+      "timestamp": "2024-10-10T14:44:44Z",
+      "version": 13,
+      "changeset": 157719216,
+      "user": "Lepuse",
+      "uid": 9560399,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:full": "臺北市中正區思源街1號",
+        "addr:housenumber": "1",
+        "addr:postcode": "100",
+        "addr:street": "思源街",
+        "alt_name": "自來水博物館",
+        "alt_name:zh": "自來水博物館",
+        "name": "自來水園區",
+        "name:en": "Taipei Water Park",
+        "name:zh": "自來水園區",
+        "name:zh-Latn-pinyin": "Zì​lái​shuǐ​ Yuán​qū",
+        "tourism": "attraction",
+        "website": "http://waterpark.water.taipei",
+        "wikidata": "Q13499289",
+        "wikipedia": "zh:臺北水道水源地"
+      }
+    },
+    {
+      "type": "node",
+      "id": 775752405,
+      "lat": 29.8679332,
+      "lon": 121.5467747,
+      "timestamp": "2025-02-03T16:04:02Z",
+      "version": 7,
+      "changeset": 162092854,
+      "user": "minusmajorityhh",
+      "uid": 20632533,
+      "tags": {
+        "building": "yes",
+        "fee": "yes",
+        "man_made": "tower",
+        "name": "天封塔",
+        "name:de": "Tianfeng Pagode",
+        "name:en": "Tianfeng Pagoda",
+        "opening_hours": "Mo-Su 08:30-16:00",
+        "tourism": "attraction",
+        "tower:type": "pagoda",
+        "wikidata": "Q10939419",
+        "wikipedia": "zh:天封塔"
+      }
+    },
+    {
+      "type": "node",
+      "id": 897597265,
+      "lat": 14.3212632,
+      "lon": 121.4816809,
+      "timestamp": "2012-09-29T14:40:42Z",
+      "version": 5,
+      "changeset": 13297489,
+      "user": "ianlopez1115",
+      "uid": 44938,
+      "tags": {
+        "addr:city": "Kalayaan",
+        "name": "Kalayaan Twin Falls",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 929021085,
+      "lat": 25.0429124,
+      "lon": 121.5154958,
+      "timestamp": "2024-12-26T11:47:12Z",
+      "version": 5,
+      "changeset": 160633583,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "access": "yes",
+        "barrier": "gate",
+        "historic": "yes",
+        "name": "黃氏節孝坊",
+        "name:en": "Huang Family Widow's Memorial",
+        "name:zh": "黃氏節孝坊",
+        "name:zh-Hans": "黄氏节孝坊",
+        "name:zh-Hant": "黃氏節孝坊",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q11176522"
+      }
+    },
+    {
+      "type": "node",
+      "id": 929021102,
+      "lat": 25.041085,
+      "lon": 121.5142824,
+      "timestamp": "2024-12-26T11:47:12Z",
+      "version": 4,
+      "changeset": 160633583,
+      "user": "cnvery",
+      "uid": 3627342,
+      "tags": {
+        "access": "yes",
+        "barrier": "gate",
+        "historic": "yes",
+        "name": "急公好義牌坊",
+        "name:zh": "急公好義牌坊",
+        "name:zh-Hans": "急公好义牌坊",
+        "name:zh-Hant": "急公好義牌坊",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 940950153,
+      "lat": 22.6370781,
+      "lon": 121.504017,
+      "timestamp": "2026-03-17T13:26:25Z",
+      "version": 10,
+      "changeset": 180007918,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺東縣",
+        "addr:country": "TW",
+        "addr:district": "綠島鄉",
+        "addr:full": "951臺東縣綠島鄉溫泉路167號",
+        "addr:housenumber": "167",
+        "addr:postcode": "951",
+        "addr:province": "台灣省",
+        "addr:street": "溫泉路",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%E6%9C%9D%E6%97%A5%E6%BA%AB%E6%B3%89%E5%85%A5%E5%8F%A3%E8%99%95.jpg",
+        "name": "綠島朝日溫泉",
+        "name:en": "Green Island Asahi Hot Spring",
+        "name:zh": "綠島朝日溫泉",
+        "phone": "+886 89 671133",
+        "tourism": "attraction",
+        "wikidata": "Q11092538",
+        "wikimedia_commons": "Category:Zhaori Hot Springs",
+        "wikipedia": "zh:朝日溫泉"
+      }
+    },
+    {
+      "type": "node",
+      "id": 940950176,
+      "lat": 22.6693492,
+      "lon": 121.5096748,
+      "timestamp": "2020-06-12T05:39:58Z",
+      "version": 8,
+      "changeset": 86545501,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "alt_name": "藍洞",
+        "alt_name:en": "Blue hole",
+        "alt_name:zh": "藍洞",
+        "name": "彎弓洞",
+        "name:en": "Wangong Arch",
+        "name:zh": "彎弓洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 940951342,
+      "lat": 22.6716376,
+      "lon": 121.4941583,
+      "timestamp": "2026-03-17T13:26:25Z",
+      "version": 10,
+      "changeset": 180007918,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "臺東縣",
+        "addr:country": "TW",
+        "addr:district": "綠島鄉",
+        "addr:full": "951臺東縣綠島鄉草山201號",
+        "addr:housenumber": "201",
+        "addr:place": "草山",
+        "addr:postcode": "951",
+        "addr:province": "台灣省",
+        "facebook": "https://www.facebook.com/SikaDeerLyudaotownship/",
+        "name": "綠島梅花鹿生態文創園區",
+        "name:en": "Sika deer ecological park",
+        "name:zh": "綠島梅花鹿生態文創園區",
+        "opening_hours": "10:00-17:00,19:00-22:00",
+        "tourism": "attraction",
+        "website": "https://sikadeer.okgo.tw/",
+        "wikidata": "Q102609105"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1271039314,
+      "lat": 23.9696345,
+      "lon": 121.6280056,
+      "timestamp": "2023-12-28T07:12:42Z",
+      "version": 7,
+      "changeset": 145604298,
+      "user": "LKAsahi",
+      "uid": 4857354,
+      "tags": {
+        "man_made": "lighthouse",
+        "name": "花蓮港紅燈塔",
+        "official_name": "東防波堤突堤末端燈桿",
+        "seamark:light:character": "Fl",
+        "seamark:light:colour": "red",
+        "seamark:light:height": "24",
+        "seamark:light:period": "3",
+        "seamark:light:range": "12",
+        "seamark:light:reference": "NGA 13748",
+        "seamark:light:sequence": "0.5+(2.5)",
+        "seamark:type": "light_minor",
+        "source": "https://hl.twport.com.tw/chinese/cp.aspx",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1332879056,
+      "lat": 14.2625628,
+      "lon": 121.4999861,
+      "timestamp": "2025-08-02T17:16:46Z",
+      "version": 6,
+      "changeset": 169872879,
+      "user": "seav",
+      "uid": 11126,
+      "tags": {
+        "addr:city": "Cavinti",
+        "name": "Pagsanjan Falls",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q38832",
+        "wikimedia_commons": "Category:Pagsanjan Falls",
+        "wikipedia": "en:Pagsanjan Falls"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1762782473,
+      "lat": 23.8645079,
+      "lon": 121.5221058,
+      "timestamp": "2022-08-30T08:19:29Z",
+      "version": 5,
+      "changeset": 125555945,
+      "user": "Vintagejhan",
+      "uid": 1224430,
+      "tags": {
+        "name": "立川漁場",
+        "name:en": "Tachikawa fishing ground",
+        "name:zh": "立川漁場",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1762782476,
+      "lat": 23.8277141,
+      "lon": 121.5136457,
+      "timestamp": "2020-02-25T06:04:09Z",
+      "version": 3,
+      "changeset": 81436730,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "雲山水",
+        "name:en": "Clouds and mountains",
+        "name:zh": "雲山水",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1872020556,
+      "lat": 31.3080632,
+      "lon": 121.510273,
+      "timestamp": "2018-06-03T08:24:31Z",
+      "version": 2,
+      "changeset": 59501871,
+      "user": "jason_yanczhang",
+      "uid": 7395151,
+      "tags": {
+        "addr:housenumber": "234",
+        "addr:street": "淞沪路",
+        "historic": "building",
+        "name": "江湾体育场 (原上海市体育场)",
+        "name:en": "Jiangwan Stadium (formerly Shanghai Stadium)",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1883305088,
+      "lat": 31.2430242,
+      "lon": 121.4856601,
+      "timestamp": "2025-10-21T03:18:39Z",
+      "version": 4,
+      "changeset": 173562216,
+      "user": "Shamardina",
+      "uid": 23418277,
+      "tags": {
+        "name": "东方汇理银行大楼",
+        "name:en": "Banque de l'Indochine Building",
+        "name:ru": "Восточный биржевый банк",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1883305093,
+      "lat": 31.2428182,
+      "lon": 121.4856526,
+      "timestamp": "2017-04-29T02:42:48Z",
+      "version": 3,
+      "changeset": 48244439,
+      "user": "Esperanza36",
+      "uid": 83557,
+      "tags": {
+        "name": "格林邮船大楼",
+        "name:en": "Glen Line Building",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1982645007,
+      "lat": 14.300169,
+      "lon": 121.4981786,
+      "timestamp": "2012-10-25T09:12:48Z",
+      "version": 1,
+      "changeset": 13625007,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "name": "Caliraya Slip n Slide",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1982645010,
+      "lat": 14.3003712,
+      "lon": 121.4980438,
+      "timestamp": "2012-10-25T09:12:48Z",
+      "version": 1,
+      "changeset": 13625007,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "name": "Caliraya Wall Climbing",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1982645019,
+      "lat": 14.301,
+      "lon": 121.4981471,
+      "timestamp": "2012-10-25T09:12:48Z",
+      "version": 1,
+      "changeset": 13625007,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "name": "Obstacle Course",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1982645022,
+      "lat": 14.299644,
+      "lon": 121.4980908,
+      "timestamp": "2012-10-25T09:12:48Z",
+      "version": 1,
+      "changeset": 13625007,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "name": "Rainbow Pass",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1997001712,
+      "lat": 25.0157102,
+      "lon": 121.5374785,
+      "timestamp": "2024-10-10T16:34:23Z",
+      "version": 7,
+      "changeset": 157724086,
+      "user": "LKAsahi",
+      "uid": 4857354,
+      "tags": {
+        "name": "共同三松",
+        "name:en": "Common three pine",
+        "name:zh": "共同三松",
+        "tourism": "attraction",
+        "wikidata": "Q15931752",
+        "wikipedia": "zh:臺灣大學共同三松"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2029509024,
+      "lat": 25.1340534,
+      "lon": 121.5096101,
+      "timestamp": "2023-07-27T11:29:16Z",
+      "version": 10,
+      "changeset": 139081683,
+      "user": "Innertia",
+      "uid": 19415963,
+      "tags": {
+        "historic": "memorial",
+        "material": "stone",
+        "name": "弘法大師紀念碑",
+        "name:en": "HongFaDaShi",
+        "name:zh": "弘法大師紀念碑",
+        "religion": "buddhist",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2090589313,
+      "lat": 15.674615,
+      "lon": 121.4775578,
+      "timestamp": "2014-04-15T15:06:34Z",
+      "version": 2,
+      "changeset": 21711553,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "alt_name": "Ditumabo Falls",
+        "name": "Mother Falls",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2124910159,
+      "lat": 23.6223944,
+      "lon": 121.4015013,
+      "timestamp": "2020-02-25T06:04:09Z",
+      "version": 4,
+      "changeset": 81436730,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "大農大富平地森林園區",
+        "name:en": "Da Nong Dafuping Forest Park",
+        "name:zh": "大農大富平地森林園區",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2125115335,
+      "lat": 23.6584482,
+      "lon": 121.4388201,
+      "timestamp": "2013-01-23T14:04:40Z",
+      "version": 1,
+      "changeset": 14757539,
+      "user": "dongpo",
+      "uid": 1048,
+      "tags": {
+        "name": "阿漾咕咕",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2158549922,
+      "lat": 25.1019066,
+      "lon": 121.5890521,
+      "timestamp": "2025-09-14T04:57:40Z",
+      "version": 5,
+      "changeset": 171900451,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "leaf_type": "broadleaved",
+        "name": "夫妻樹",
+        "name:en": "Couple's Tree",
+        "name:zh": "夫妻樹",
+        "natural": "tree",
+        "species:wikidata": "Q5792073",
+        "species:wikipedia": "zh:红楠",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2178330622,
+      "lat": 24.8475159,
+      "lon": 121.552362,
+      "timestamp": "2023-02-20T12:04:27Z",
+      "version": 10,
+      "changeset": 132787893,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "height": "80",
+        "name": "烏來瀑布",
+        "name:en": "Wulai Waterfall",
+        "name:zh": "烏來瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q15912407",
+        "wikipedia": "zh:烏來瀑布",
+        "wikipedia:zh": "烏來瀑布"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2281063016,
+      "lat": 24.9312373,
+      "lon": 121.3554133,
+      "timestamp": "2024-09-20T12:51:10Z",
+      "version": 6,
+      "changeset": 156866588,
+      "user": "s8321414",
+      "uid": 3319547,
+      "tags": {
+        "alt_name": "光復紀念鐘;鳶山大鐘",
+        "alt_name:en": "Yuanshan Bell",
+        "man_made": "campanile",
+        "name": "光復大鐘",
+        "name:en": "Remembrance bell",
+        "name:zh": "光復大鐘",
+        "name:zh-Hant": "光復大鐘",
+        "tourism": "attraction",
+        "wikidata": "Q130317642",
+        "wikimedia_commons": "Category:Yuanshan Bell",
+        "wikipedia": "zh:光復紀念鐘"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2288158544,
+      "lat": 24.155504,
+      "lon": 121.6216294,
+      "timestamp": "2022-10-16T12:39:43Z",
+      "version": 10,
+      "changeset": 127614427,
+      "user": "s8321414",
+      "uid": 3319547,
+      "tags": {
+        "alt_name": "東西橫貫公路牌樓",
+        "alt_name:zh": "東西橫貫公路牌樓",
+        "name": "太魯閣牌樓",
+        "name:en": "Entrance Arch Gate Taroko",
+        "name:ja": "東西橫貫公路牌樓",
+        "name:zh": "太魯閣牌樓",
+        "start_date": "1960-05-09",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wheelchair:description": "沒有廁所，拍照地點可通行，但部分坡道較陡。",
+        "wikidata": "Q10941867",
+        "wikimedia_commons": "Category:Taroko Archway",
+        "wikipedia": "zh:太魯閣牌樓"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2299991436,
+      "lat": 24.9058086,
+      "lon": 121.4906409,
+      "timestamp": "2022-01-02T22:32:16Z",
+      "version": 5,
+      "changeset": 115687868,
+      "user": "SOWSUN123",
+      "uid": 8866893,
+      "tags": {
+        "name": "大土匪洞",
+        "name:en": "Big earthen cave",
+        "name:zh": "大土匪洞",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2300441180,
+      "lat": 24.9312056,
+      "lon": 121.3536501,
+      "timestamp": "2020-06-29T02:50:18Z",
+      "version": 4,
+      "changeset": 87266062,
+      "user": "ESVL",
+      "uid": 5068082,
+      "tags": {
+        "name": "鳶山岩",
+        "name:en": "Yanshanyan",
+        "name:zh": "鳶山岩",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2300575302,
+      "lat": 25.1341006,
+      "lon": 121.5097269,
+      "timestamp": "2023-07-27T11:29:16Z",
+      "version": 3,
+      "changeset": 139081683,
+      "user": "Innertia",
+      "uid": 19415963,
+      "tags": {
+        "amenity": "place_of_worship",
+        "historic": "yes",
+        "material": "stone",
+        "name": "波切不動明王尊",
+        "religion": "buddhist",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2338753987,
+      "lat": 25.148061,
+      "lon": 121.5432324,
+      "timestamp": "2024-07-16T15:46:20Z",
+      "version": 8,
+      "changeset": 154021970,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "historic": "ruins",
+        "name": "太子亭遺跡",
+        "ruined:amenity": "shelter",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2368694171,
+      "lat": 24.16055,
+      "lon": 121.6024167,
+      "timestamp": "2024-02-24T02:06:26Z",
+      "version": 4,
+      "changeset": 147839637,
+      "user": "Kirk Tilney",
+      "uid": 3828543,
+      "tags": {
+        "addr:postcode": "972",
+        "name": "洞天仙府 (觀音洞)",
+        "name:en": "GuanYin Cave",
+        "name:zh": "洞天仙府 (觀音洞)",
+        "natural": "cave_entrance",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2368694387,
+      "lat": 24.1595408,
+      "lon": 121.6048562,
+      "timestamp": "2020-02-25T06:41:19Z",
+      "version": 5,
+      "changeset": 81438493,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "索道步雲",
+        "name:en": "Cableway step cloud",
+        "name:zh": "索道步雲",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2372854852,
+      "lat": 24.1805833,
+      "lon": 121.4747135,
+      "timestamp": "2019-11-11T13:32:36Z",
+      "version": 6,
+      "changeset": 76911345,
+      "user": "Skrachen",
+      "uid": 10456026,
+      "tags": {
+        "name": "水濂洞",
+        "name:en": "Water Curtain Cave",
+        "name:fr": "Grotte du Rideau d'Eau",
+        "name:zh": "水濂洞",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2383293669,
+      "lat": 22.084211,
+      "lon": 121.5025658,
+      "timestamp": "2020-02-25T07:01:35Z",
+      "version": 3,
+      "changeset": 81439360,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "坦克岩",
+        "name:en": "Flat rock",
+        "name:zh": "坦克岩",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2383293672,
+      "lat": 22.0802867,
+      "lon": 121.5173875,
+      "timestamp": "2020-02-25T07:01:35Z",
+      "version": 3,
+      "changeset": 81439360,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "玉女岩",
+        "name:en": "Jade rock",
+        "name:zh": "玉女岩",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2383293863,
+      "lat": 22.0855201,
+      "lon": 121.5672866,
+      "timestamp": "2020-02-25T07:01:35Z",
+      "version": 3,
+      "changeset": 81439360,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "雙獅岩",
+        "name:en": "Two lion rock",
+        "name:zh": "雙獅岩",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2530372642,
+      "lat": 24.7932625,
+      "lon": 121.3756146,
+      "timestamp": "2025-03-31T04:30:05Z",
+      "version": 3,
+      "changeset": 164311987,
+      "user": "Edison Wen",
+      "uid": 20204470,
+      "tags": {
+        "contact:phone": "+886 3 3821835;+886 3 3821235",
+        "name": "小烏來風景特定區",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2640923329,
+      "lat": 24.9337288,
+      "lon": 121.3697975,
+      "timestamp": "2020-02-22T08:57:09Z",
+      "version": 3,
+      "changeset": 81341081,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "三峽老街",
+        "name:en": "Three Gorges Old Street",
+        "name:zh": "三峽老街",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2645591452,
+      "lat": 24.8198739,
+      "lon": 121.51391,
+      "timestamp": "2020-12-14T18:34:27Z",
+      "version": 3,
+      "changeset": 95825672,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "alt_name": "蘭吼瀑布",
+        "name": "五重溪瀑布",
+        "name:zh": "五重溪瀑布",
+        "tourism": "attraction",
+        "waterway": "waterfall",
+        "wikidata": "Q34755331"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2803741309,
+      "lat": 15.7600652,
+      "lon": 121.5619504,
+      "timestamp": "2014-04-20T14:02:52Z",
+      "version": 1,
+      "changeset": 21816259,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "name": "Douglas McArthur Vehicle",
+        "source": "Schadow1 Expeditions",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2803741310,
+      "lat": 15.758593,
+      "lon": 121.5625014,
+      "timestamp": "2014-11-27T09:23:50Z",
+      "version": 2,
+      "changeset": 27063425,
+      "user": "schadow1",
+      "uid": 81841,
+      "tags": {
+        "name": "Manuel Quezon Vehicle",
+        "source": "Schadow1 Expeditions",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2804092338,
+      "lat": 15.7551724,
+      "lon": 121.5808391,
+      "timestamp": "2023-06-05T02:56:40Z",
+      "version": 2,
+      "changeset": 136952914,
+      "user": "caspermonte",
+      "uid": 1888269,
+      "tags": {
+        "name": "Ermita Hill",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2900773060,
+      "lat": 25.1891365,
+      "lon": 121.5882132,
+      "timestamp": "2014-06-05T11:10:41Z",
+      "version": 2,
+      "changeset": 22753497,
+      "user": "Jonathan Tsai",
+      "uid": 1903826,
+      "tags": {
+        "name": "洗滌池",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2912238299,
+      "lat": 25.1658559,
+      "lon": 121.4462357,
+      "timestamp": "2017-06-18T14:53:30Z",
+      "version": 5,
+      "changeset": 49636921,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "殼牌故事館",
+        "name:en": "Shell Story House",
+        "name:zh": "殼牌故事館",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2932216201,
+      "lat": 25.1690716,
+      "lon": 121.4438341,
+      "timestamp": "2026-01-30T02:24:26Z",
+      "version": 13,
+      "changeset": 177871735,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:street": "中正路",
+        "name": "BK20蒸汽火車",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "wheelchair": "limited",
+        "wheelchair:description": "適合輪椅"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2945202593,
+      "lat": 25.1687991,
+      "lon": 121.4614602,
+      "timestamp": "2017-06-18T14:53:31Z",
+      "version": 2,
+      "changeset": 49636921,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "滬尾櫻花大道",
+        "name:en": "Huwei Cherry Blossom Path",
+        "name:zh": "滬尾櫻花大道",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2945234685,
+      "lat": 25.1682146,
+      "lon": 121.478136,
+      "timestamp": "2017-06-18T14:53:31Z",
+      "version": 3,
+      "changeset": 49636921,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "百年楓香",
+        "name:en": "Hundred Years Formosan Sweetgum",
+        "name:zh": "百年楓香",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2985740753,
+      "lat": 24.9829524,
+      "lon": 121.4915423,
+      "timestamp": "2023-06-11T21:42:03Z",
+      "version": 2,
+      "changeset": 137220793,
+      "user": "Innertia",
+      "uid": 19415963,
+      "tags": {
+        "name": "一線天",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3024014220,
+      "lat": 31.2384868,
+      "lon": 121.4415901,
+      "timestamp": "2014-08-18T08:03:45Z",
+      "version": 1,
+      "changeset": 24825429,
+      "user": "姑苏小恐龙",
+      "uid": 2238844,
+      "tags": {
+        "name": "东海园旅游咨询服务中心",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3042518000,
+      "lat": 25.2050667,
+      "lon": 121.54485,
+      "timestamp": "2020-02-17T16:03:34Z",
+      "version": 2,
+      "changeset": 81124990,
+      "user": "ESVL",
+      "uid": 5068082,
+      "tags": {
+        "historic": "ruins",
+        "name": "菁礐遺址",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3067815333,
+      "lat": 25.1701123,
+      "lon": 121.4397405,
+      "timestamp": "2023-10-04T18:05:58Z",
+      "version": 3,
+      "changeset": 142157871,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "媽祖石",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3081126107,
+      "lat": 25.172539,
+      "lon": 121.5804714,
+      "timestamp": "2018-03-12T06:47:57Z",
+      "version": 5,
+      "changeset": 57100886,
+      "user": "林阿凱",
+      "uid": 7535457,
+      "tags": {
+        "GNS:dsg_code": "PPL",
+        "GNS:dsg_string": "populated place",
+        "GNS:id": "-2638672",
+        "name": "大油坑硫磺谷地熱景觀區",
+        "name:en": "Dayoukeng",
+        "name:zh": "大油坑",
+        "source": "GNS",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3143154901,
+      "lat": 25.1692721,
+      "lon": 121.5529708,
+      "timestamp": "2025-03-11T21:04:04Z",
+      "version": 5,
+      "changeset": 163502538,
+      "user": "Jade Jossen",
+      "uid": 11571794,
+      "tags": {
+        "name": "恐龍接吻石",
+        "name:en": "Dinosaur-kissing stone",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3143154902,
+      "lat": 25.169082,
+      "lon": 121.5531916,
+      "timestamp": "2025-03-11T21:02:18Z",
+      "version": 3,
+      "changeset": 163502485,
+      "user": "Jade Jossen",
+      "uid": 11571794,
+      "tags": {
+        "name": "七星錐(祭壇、月形池)",
+        "name:en": "Seven Star Cones (Altar, Crescent Moon Pond)",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3194136113,
+      "lat": 23.1221556,
+      "lon": 121.407536,
+      "timestamp": "2020-02-25T06:04:09Z",
+      "version": 4,
+      "changeset": 81436730,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "三仙台遊憩區",
+        "name:en": "Sanxiantai Recreation Area",
+        "name:zh": "三仙台遊憩區",
+        "natural": "cape",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3203336799,
+      "lat": 25.1065832,
+      "lon": 121.6066294,
+      "timestamp": "2025-04-05T08:44:18Z",
+      "version": 5,
+      "changeset": 164540896,
+      "user": "Koalaman",
+      "uid": 18365451,
+      "tags": {
+        "name": "大邱田石壁洞",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3219715871,
+      "lat": 25.0429157,
+      "lon": 121.5332533,
+      "timestamp": "2022-10-12T05:28:22Z",
+      "version": 3,
+      "changeset": 127392696,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "彩繪階梯",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3227509100,
+      "lat": 23.934905,
+      "lon": 121.507544,
+      "timestamp": "2023-12-24T14:59:12Z",
+      "version": 4,
+      "changeset": 145471819,
+      "user": "LKAsahi",
+      "uid": 4857354,
+      "tags": {
+        "name": "鯉魚潭",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wheelchair:description": "有殘障坡道"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3259507066,
+      "lat": 25.0282361,
+      "lon": 121.5764559,
+      "timestamp": "2024-01-09T18:10:42Z",
+      "version": 7,
+      "changeset": 146076072,
+      "user": "Innertia",
+      "uid": 19415963,
+      "tags": {
+        "name": "一線天",
+        "name:en": "One Thread of Sky",
+        "name:zh": "一線天",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3323987417,
+      "lat": 24.7906867,
+      "lon": 121.3751455,
+      "timestamp": "2025-03-30T13:04:20Z",
+      "version": 4,
+      "changeset": 164286776,
+      "user": "Edison Wen",
+      "uid": 20204470,
+      "tags": {
+        "name": "小烏來天空步道",
+        "name:en": "Xiaowulai Sky Walk",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3323987656,
+      "lat": 24.7904693,
+      "lon": 121.3752714,
+      "timestamp": "2015-01-31T19:14:16Z",
+      "version": 1,
+      "changeset": 28530643,
+      "user": "kcwu",
+      "uid": 432265,
+      "tags": {
+        "name": "風動石",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3335583045,
+      "lat": 24.9136119,
+      "lon": 121.4822328,
+      "timestamp": "2015-02-07T06:41:28Z",
+      "version": 1,
+      "changeset": 28667069,
+      "user": "JingGeocacher",
+      "uid": 153500,
+      "tags": {
+        "name": "建安131櫻花園",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3343902758,
+      "lat": 25.07198,
+      "lon": 121.5209672,
+      "timestamp": "2022-05-07T06:43:25Z",
+      "version": 2,
+      "changeset": 120655376,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "name": "大砥石",
+        "natural": "stone",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3359565842,
+      "lat": 24.8318285,
+      "lon": 121.4095672,
+      "timestamp": "2025-05-05T04:00:06Z",
+      "version": 2,
+      "changeset": 165826043,
+      "user": "Edison Wen",
+      "uid": 20204470,
+      "tags": {
+        "name": "東眼山森林公園字",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3393458390,
+      "lat": 24.6422367,
+      "lon": 121.610753,
+      "timestamp": "2015-03-11T08:02:54Z",
+      "version": 1,
+      "changeset": 29399467,
+      "user": "Vintagejhan",
+      "uid": 1224430,
+      "tags": {
+        "name": "長埤湖風景區",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3443053350,
+      "lat": 24.8785188,
+      "lon": 121.4624135,
+      "timestamp": "2024-02-06T03:21:36Z",
+      "version": 3,
+      "changeset": 147116722,
+      "user": "Bruce Lin",
+      "uid": 2846786,
+      "tags": {
+        "name": "禾煦熊空休閒農場",
+        "operator": "台灣農林",
+        "phone": "+886 2 2162 1710",
+        "source:addr": "新北市三峽區竹崙路243-2號",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3494507181,
+      "lat": 25.2935059,
+      "lon": 121.5423299,
+      "timestamp": "2026-04-30T07:52:32Z",
+      "version": 3,
+      "changeset": 182020829,
+      "user": "WWSS",
+      "uid": 5062752,
+      "tags": {
+        "name": "老梅石槽",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3507269127,
+      "lat": 24.3713158,
+      "lon": 121.370431,
+      "timestamp": "2015-05-09T17:25:13Z",
+      "version": 1,
+      "changeset": 30942821,
+      "user": "chihchun",
+      "uid": 973373,
+      "tags": {
+        "name": "松風嶺",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3656286367,
+      "lat": 23.3338107,
+      "lon": 121.307334,
+      "timestamp": "2020-11-01T20:04:33Z",
+      "version": 2,
+      "changeset": 93380779,
+      "user": "ESVL",
+      "uid": 5068082,
+      "tags": {
+        "historic": "yes",
+        "name": "玉里社殘蹟",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3662473498,
+      "lat": 25.1310982,
+      "lon": 121.5076271,
+      "timestamp": "2023-10-31T03:58:53Z",
+      "version": 3,
+      "changeset": 143398054,
+      "user": "b-jazz-bot",
+      "uid": 9451067,
+      "tags": {
+        "name": "章嘉活佛舍利塔",
+        "operator": "中和禪寺",
+        "tourism": "attraction",
+        "website": "https://www.boch.gov.tw/boch/frontsite/cultureassets/caseBasicInfoAction.do?method=doViewCaseBasicInfo&caseId=AA09705000055&version=1&assetsClassifyId=1.2",
+        "wheelchair": "no",
+        "wikidata": "Q106647503"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3662474438,
+      "lat": 25.1286438,
+      "lon": 121.5084137,
+      "timestamp": "2026-01-30T02:24:26Z",
+      "version": 5,
+      "changeset": 177871735,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:district": "北投區",
+        "addr:postcode": "112",
+        "addr:street": "奇岩路201巷",
+        "name": "三石頭陀奇岩",
+        "natural": "stone",
+        "tourism": "attraction",
+        "website": "https://blog.xuite.net/yeh.zi59/twblog/128234704-%E5%8C%97%E6%8A%95%E5%B7%96%E6%99%AF%E3%80%90%E4%B8%89%E3%80%91%E5%A5%87%E5%B2%A9%E4%B8%89%E7%9F%B3%E9%A0%AD%E9%99%80"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3688048485,
+      "lat": 25.0527095,
+      "lon": 121.5404049,
+      "timestamp": "2024-10-10T08:42:27Z",
+      "version": 14,
+      "changeset": 157703548,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:full": "10491台北市中山區龍江路104號",
+        "addr:housenumber": "104",
+        "addr:street": "龍江路",
+        "alt_name": "中華郵政;郵局",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "description": "被蘇迪勒颱風吹倒的診所招牌打中而歪掉的郵筒",
+        "drive_through": "no",
+        "facebook": "https://www.facebook.com/leaningmailboxes/",
+        "name": "歪腰郵筒",
+        "name:en": "Leaning Mailbox",
+        "name:ja": "傾いたポスト",
+        "name:zh": "歪腰郵筒",
+        "note:start_date": "因颱風而成為歪腰郵筒之起始日",
+        "operator": "中華郵政",
+        "operator:en": "Chunghwa Post",
+        "operator:nan": "Tiong-hôa Iû-chèng",
+        "operator:nan-Hant": "中華郵政",
+        "operator:nan-Latn-pehoeji": "Tiong-hôa Iû-chèng",
+        "operator:nan-Latn-tailo": "Tiong-huâ Iû-tsìng",
+        "operator:wikidata": "Q709259",
+        "operator:zh": "中華郵政",
+        "start_date": "2015-08-07",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q21016986",
+        "wikipedia": "zh:歪腰郵筒"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3763974334,
+      "lat": 25.0958988,
+      "lon": 121.5172568,
+      "timestamp": "2024-11-19T04:42:36Z",
+      "version": 4,
+      "changeset": 159308600,
+      "user": "iigmir",
+      "uid": 1563242,
+      "tags": {
+        "disused:amenity": "food_court",
+        "disused:name": "科教館地下美食街",
+        "layer": "-1",
+        "level": "-1",
+        "name": "科學展演探索基地",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3835143757,
+      "lat": 23.7524224,
+      "lon": 121.4676923,
+      "timestamp": "2026-03-17T14:54:15Z",
+      "version": 8,
+      "changeset": 180012087,
+      "user": "Supaplex",
+      "uid": 274857,
+      "tags": {
+        "addr:city": "花蓮縣",
+        "addr:country": "TW",
+        "addr:district": "鳳林鎮",
+        "addr:full": "975花蓮縣鳳林鎮復興路71號",
+        "addr:housenumber": "71",
+        "addr:postcode": "975",
+        "addr:province": "台灣省",
+        "addr:street": "復興路",
+        "name": "移民村警察廳",
+        "name:en": "Immigration Village Police Department",
+        "name:zh": "移民村警察廳",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "website": "http://www.smartimc.com.tw/fonglintraveling/article.aspx?t=2&id=18",
+        "wheelchair": "limited",
+        "wheelchair:description": "very flat, but no restroom"
+      }
+    }
+  ]
+}

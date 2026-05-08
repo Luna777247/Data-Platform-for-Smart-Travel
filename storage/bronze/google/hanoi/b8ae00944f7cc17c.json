@@ -1,0 +1,50 @@
+{
+  "u_key": "b8ae00944f7cc17c",
+  "original_osm_name": "Petit Jardin Coffee",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 21.0500612,
+        "lng": 105.8391158
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0514316802915,
+          "lng": 105.8404954302915
+        },
+        "southwest": {
+          "lat": 21.0487337197085,
+          "lng": 105.8377974697085
+        }
+      }
+    },
+    "name": "Petit Jardin Café",
+    "rating": 3,
+    "reviews": [
+      {
+        "author_name": "Duy Luong",
+        "author_url": "https://www.google.com/maps/contrib/114069029285697005860/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7YxXt6FBwlN3TUD9g1cD0lm1dm3BMoJml14l2WCLzUVcjnA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "Đồ uống được",
+        "time": 1520994600,
+        "translated": false
+      },
+      {
+        "author_name": "Tony T",
+        "author_url": "https://www.google.com/maps/contrib/114745718360114924370/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKB57OMWjjdQ-A3hkFtJlJqptpJxPLoDc9hVuWQJ4bzjFbCug=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "8 năm trước",
+        "text": "",
+        "time": 1522642378,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 2
+  },
+  "harvested_at": "2026-04-26T12:45:16.678820"
+}

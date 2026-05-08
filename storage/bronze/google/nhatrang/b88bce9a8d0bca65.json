@@ -1,0 +1,224 @@
+{
+  "u_key": "b88bce9a8d0bca65",
+  "original_osm_name": "Quan com chay Au Lac",
+  "google_raw": {
+    "formatted_phone_number": "0702 404 272",
+    "geometry": {
+      "location": {
+        "lat": 12.2440204,
+        "lng": 109.1874725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2453258302915,
+          "lng": 109.1887862302915
+        },
+        "southwest": {
+          "lat": 12.2426278697085,
+          "lng": 109.1860882697085
+        }
+      }
+    },
+    "name": "Quán cơm chay Âu Lạc",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 06:00–13:00, 16:00–20:00",
+        "Thứ Ba: 06:00–13:00, 16:00–20:00",
+        "Thứ Tư: 06:00–13:00, 16:00–20:00",
+        "Thứ Năm: 06:00–13:00, 16:00–20:00",
+        "Thứ Sáu: 06:00–13:00, 16:00–20:00",
+        "Thứ Bảy: 06:00–13:00, 16:00–20:00",
+        "Chủ Nhật: Đóng cửa"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "LinhDan Tran",
+        "author_url": "https://www.google.com/maps/contrib/111853570052545190928/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuyB1ALPugYkL2nVkjNIBh51LuOGdWtgkB2i4K0AIDbt46cYM=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Mình gọi một phần bún Huế\nVị bún đậm đà, thơm mùi sả\nGiá bình dân 25k một tô như hình\nDịch vụ tốt",
+        "time": 1768798574,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Cơm hay phở (sợi hủ tiếu) 20k/phần.\nMón ăn ngon. Giá bình dân nên quán cũng hơi cũ.",
+        "time": 1616220811,
+        "translated": false
+      },
+      {
+        "author_name": "Hải Anh",
+        "author_url": "https://www.google.com/maps/contrib/101713182947448661913/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL41DtotopEJ9VrQDw5km9kxVnEOxvC-DW2HikkjSHieYAt1Ak=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 năm trước",
+        "text": "Quán cơm này mình đã đến đây rất nhiều lần rồi. Thật sự rất thích cơm chay ở đây, rất ngon và nhiều món để lựa chọn. Cô chủ và nhân viên cực kì thân thiện, phục vụ nhanh.\n\nMột phần cơm cũng nhiều, phù hợp với giá tiền. Lần này ghé lại mình thử phở chay, khá ngon, nước phở rất ngọt, vừa miệng nữa. Ngoài ra còn có mì quảng, bún,... nhiều món để thưởng thức lắm 😋\nHãy ghé thử một lần nhé ❤️",
+        "time": 1564890623,
+        "translated": false
+      },
+      {
+        "author_name": "Lim Huang",
+        "author_url": "https://www.google.com/maps/contrib/107146755453960793701/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8HmylCFwh-TwqIzONaEw3vBpJA1uQvrncK6pvMTlaK0ZepQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "- Quán ăn chay sạch sẽ và ngon miệng.\n- Mình rất thích món bánh xèo và gỏi cuốn ở đây (siêu đỉnh luôn á) - chỉ bán buổi tối thôi nà.\n- Ngoài ra còn có cơm bún mì phở các thứ, cùng nước đồ nữa.\n- Giá hợp lí 6k/cuốn, 10k/1 cái bánh xèo, cơm thì 25k, bún phở mì đồ hình như là 20-25k.\n- Rất high recommend mọi người ăn ở đây nha.\n_mình là Nhân, là khách thôi nha.",
+        "time": 1687454805,
+        "translated": false
+      },
+      {
+        "author_name": "Cam Nguyen Tri",
+        "author_url": "https://www.google.com/maps/contrib/107767788519599217716/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoSZVKgbf2dpmTIuJ5fk0BeuVEB0pk31nDrxWYkKqTcRUbzHm9dg=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 3,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán chay nhỏ, bình dân. Thức ăn khá đa dạng các món và các món ăn sáng thông thường như phở, bún bò, bánh canh v.vv giá bình dân.",
+        "time": 1672290934,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 173
+  },
+  "harvested_at": "2026-05-02T15:15:53.957400"
+}

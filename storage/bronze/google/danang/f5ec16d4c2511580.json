@@ -1,0 +1,173 @@
+{
+  "u_key": "f5ec16d4c2511580",
+  "original_osm_name": "Quán Ân",
+  "google_raw": {
+    "formatted_phone_number": "0788 661 233",
+    "geometry": {
+      "location": {
+        "lat": 16.0556756,
+        "lng": 108.2457347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0570279302915,
+          "lng": 108.2471038802915
+        },
+        "southwest": {
+          "lat": 16.0543299697085,
+          "lng": 108.2444059197085
+        }
+      }
+    },
+    "name": "An Nam Quán",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 09:00–21:30",
+        "Thứ Ba: 09:00–21:30",
+        "Thứ Tư: 09:00–21:30",
+        "Thứ Năm: 09:00–21:30",
+        "Thứ Sáu: 09:00–21:30",
+        "Thứ Bảy: 09:00–21:30",
+        "Chủ Nhật: 09:00–21:30"
+      ]
+    },
+    "rating": 4.5,
+    "reviews": [
+      {
+        "author_name": "minh thanh",
+        "author_url": "https://www.google.com/maps/contrib/110984830591117640196/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQT6hlF9uVsCNaQ4sDhMCyisRz1v50Xa5i4Z5ARTXwGYjmlg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán ăn ngon giá hợp lý. Mới nhìn bên ngoài tưởng giá mắc mà không hề nha mọi người",
+        "time": 1769509316,
+        "translated": false
+      },
+      {
+        "author_name": "nhi nguyen",
+        "author_url": "https://www.google.com/maps/contrib/103540049339276443288/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWekB_Q5YUoZAagOH6FdEAIpvLhMPzkghPgGey6T1ZDxh3ZDo5Z=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 2,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán phục vụ chậm dù chỉ có 4-5 bàn. Tối nên nhiều món muốn gọi hết. Tuy nhiên đồ ăn ở đây vị chán thật sự, rau muống đậu phộng cứ chua chua như gỏi, canh rau tập tàng ăn rất chán. 1 điểm cho đồ ăn",
+        "time": 1771771682,
+        "translated": false
+      },
+      {
+        "author_name": "Phương Dung Nguyễn Vũ",
+        "author_url": "https://www.google.com/maps/contrib/116885548433682208807/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjS0KJ69K0EufSEWrxqWzEi4AO6nIP2J8kKfdylaMC_dz9aVg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Sườn tươi nha, ướp vừa vị và đồ ăn kèm cũng nhiều nữa. So với chất lượng thì giá ở mức rẻ ổn. Có dịp ra lại ĐN sẽ ghé tiếp ạ",
+        "time": 1772344290,
+        "translated": false
+      },
+      {
+        "author_name": "Kim",
+        "author_url": "https://www.google.com/maps/contrib/106885184379466017967/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLfCqWCP45KcbMN0OwiERHJRDwCktYGh2EnKwRx6KLEZfGQJA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "An Nam Quan rat xuất sắc.\nNhà hàng thoáng mát, sạch sẽ.\nCác em phục vụ thật nhiệt tình, than thiện.\nMón Ba Rọi gion da với goi xoài tắc thật vừa ngon miệng.\nTôm thịt rim tieu dung với cơm trắng rất xuất sắc voi rau muống xào tỏi.\nOverall chúng tôi rất hài lòng và sẽ trở lại.",
+        "time": 1764762785,
+        "translated": false
+      },
+      {
+        "author_name": "Như Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/102112845482095911689/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXEE9GpnarXOlhrIZ6-o6A9HRGkUNDoawdU0oajW7r67QPBg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một tháng trước",
+        "text": "Đồ ăn ngon ,quán mát  tôi sẽ đến nhìu lần tiếp theo",
+        "time": 1772349944,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 744
+  },
+  "harvested_at": "2026-04-29T09:43:26.991775"
+}

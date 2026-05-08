@@ -1,0 +1,173 @@
+{
+  "u_key": "fecf7ec14262142a",
+  "original_osm_name": "Hong Sinh To Smoothies",
+  "google_raw": {
+    "formatted_phone_number": "0796 148 700",
+    "geometry": {
+      "location": {
+        "lat": 21.0409109,
+        "lng": 105.8439213
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0421681302915,
+          "lng": 105.8453922802915
+        },
+        "southwest": {
+          "lat": 21.0394701697085,
+          "lng": 105.8426943197085
+        }
+      }
+    },
+    "name": "Hồng Sinh Tố - 52 Hàng Bún",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:00",
+        "Thứ Ba: 10:00–23:00",
+        "Thứ Tư: 10:00–23:00",
+        "Thứ Năm: 10:00–23:00",
+        "Thứ Sáu: 10:00–23:00",
+        "Thứ Bảy: 10:00–23:00",
+        "Chủ Nhật: 10:00–23:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Mai Emma",
+        "author_url": "https://www.google.com/maps/contrib/105122631460893829284/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUxEdEQeWeHEk0XRxTYzFo33X4R6KwvE6CCUOz3DOKYWamzsPtOA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Sinh tố tươi ngon, sạch sẽ. Cô chủ thân thiện và dễ thương cực kì. Mình thấy giá rất hợp lí vì cô cho rất nhiều loại trái cây và loại nào cũng tươi thơm lắm. Sẽ quay lại ăn nhiều hơn ❤ ❤❤❤❤",
+        "time": 1750614737,
+        "translated": false
+      },
+      {
+        "author_name": "Yen Nhi Pham",
+        "author_url": "https://www.google.com/maps/contrib/107440513674337801990/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3xFbAnS6u-DmqDoAnYhr73gry6aQXpLO84CyO1zuPspD627j8mQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Kem trứng ngon tuyệt, ngậy, không bị tanh, vị ngọt vừa phải, vị truyền thống 20k\nHoa quả dầm 30k đầy đặn vị ngon, tươi mát hợp mồm 😋\nCô chủ nhiệt tình, vui vẻ lịch sự\nQuán không mất tiền gửi xe, thoáng mát sạch sẽ\nHighly recommend",
+        "time": 1730285224,
+        "translated": false
+      },
+      {
+        "author_name": "Tran Le",
+        "author_url": "https://www.google.com/maps/contrib/101243953553861672185/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkZ_u54rwWOuuBcvu0D_FtOWdb9ra3ZBtZWM9msBC3G0zgT6mC=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "9 tháng trước",
+        "text": "hên xui. có hôm ngon có hôm không tươi lắm. chắc ăn 1 lần cho biết rồi thôi chứ cũng ko có gì quá đặc sắc để phải quay lại.\ngiá tầm 30-50k.\nchúc quán làm ăn tốt.",
+        "time": 1752467644,
+        "translated": false
+      },
+      {
+        "author_name": "Vàng A Vâu",
+        "author_url": "https://www.google.com/maps/contrib/107723112647704568365/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5jjZWL0jfhjKBJ9PB56MM7m5rDVQ2ikYad2CByEFVf-2cfEhI=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Sinh tố ngon, chất lượng. Cảm giác tươi ngon và sạch sẽ lắm ạ. Giá cả cũng phù hợp với chất lượng, không đắt không rẻ. Hoa quả dầm cảm thấy xắt hơi to. Phục vụ thân thiện niềm nở. Vị trí trong ngõ Yên Ninh mà mọi người cứ tìm đầu ngõ 52 Hàng Bún là thấy ngay. Chỗ ngồi ngoài có trong nhà và vỉa hè, ngồi tí mà mấy con muỗi đốt rùi 🥲 nói chung mình khá hài lòng với trải nghiệm ở đây, lần sau sẽ ghé lại thử kem trứng nổi tiếng xem sao ạ.",
+        "time": 1718295334,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Hương",
+        "author_url": "https://www.google.com/maps/contrib/106275077910914436444/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWI4bJsXs873aboHCqtXNY0DskcP_sJRvwbE84G3cvj23EALR7_=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Hoa quả tươi, kem trứng kiểu truyền thống nên rất ngậy và béo. Cô Hồng rất vui tính và nhiệt tình. Quán khá dễ tìmm 👍🏻👍🏻💯 sẽ quay lại để thử mấy món khác nữa",
+        "time": 1696394315,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 97
+  },
+  "harvested_at": "2026-04-26T16:53:12.620541"
+}

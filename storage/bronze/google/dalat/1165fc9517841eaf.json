@@ -1,0 +1,173 @@
+{
+  "u_key": "1165fc9517841eaf",
+  "original_osm_name": "Kho'i BBQ",
+  "google_raw": {
+    "formatted_phone_number": "0978 228 193",
+    "geometry": {
+      "location": {
+        "lat": 11.965199,
+        "lng": 108.4325822
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9665768802915,
+          "lng": 108.4338729302915
+        },
+        "southwest": {
+          "lat": 11.9638789197085,
+          "lng": 108.4311749697085
+        }
+      }
+    },
+    "name": "KHÓI - Lẩu & Nướng",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:00–23:00",
+        "Thứ Ba: 11:00–23:00",
+        "Thứ Tư: 11:00–23:00",
+        "Thứ Năm: 11:00–23:00",
+        "Thứ Sáu: 11:00–23:00",
+        "Thứ Bảy: 11:00–23:00",
+        "Chủ Nhật: 11:00–23:00"
+      ]
+    },
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Minh Trí",
+        "author_url": "https://www.google.com/maps/contrib/102187114904451003119/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdcmJyqIH_fwTbl75uzhg4JADJJVRv8bnjg7ZqwSC9OWsDrS8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Một địa điểm ẩm thực rất đáng trải nghiệm khi đến Đà Lạt! 🍲 Thức ăn ở đây được chế biến rất vừa miệng, nguyên liệu tươi ngon và trình bày đẹp mắt. Điều mình ấn tượng nhất chính là phong cách thiết kế nhẹ nhàng, tạo cảm giác ấm cúng và thư giãn giữa cái se lạnh của phố núi. Đội ngũ nhân viên phục vụ cực kỳ lịch sự, nhiệt tình và chu đáo với khách hàng. Nếu bạn đang tìm kiếm một không gian ăn uống có gu và món ăn chất lượng thì đây là lựa chọn không thể bỏ qua. Sẽ còn quay lại ủng hộ quán nhiều lần nữa! ⭐⭐⭐⭐⭐",
+        "time": 1770025465,
+        "translated": false
+      },
+      {
+        "author_name": "Yen Nhi Le",
+        "author_url": "https://www.google.com/maps/contrib/115929295571441032082/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhfQ8_eOYVVIPydVUoBIkbHXFPpUKOek2XuLjUi5ZDfYvKNdQ=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Homestay mình gần đây nên tấp vào ăn thử.\nMỗi dĩa như hình là 79k. hơi ít so với cảm nhận của mình.\nMình có đọc thấy món Tung Lò Mò đâm ra tò mò gọi thử thì dính luôn 2 đĩa.\nkhông gian rộng, riêng tư\nnhân viên nhanh nhẹn nhiệt tình\nnhân viên 4 chân dễ thương lắm\nPhù hợp đi gia đình, bạn bè càng đông càng vui\nĐiểm cộng là quá lạnh mà phục vụ mỗi người/ ly trà nóng to bự là ấm lòng thực khách lắm rồi\nMình đi tối ngày thường nên rất vắng, nhóm nào đông cứ order trước cho chắc, đỡ phải chờ đợi",
+        "time": 1766504775,
+        "translated": false
+      },
+      {
+        "author_name": "Thu Thảo Đỗ",
+        "author_url": "https://www.google.com/maps/contrib/115012985519853326592/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9WIqh6Y-pEhJOg505pylwjf6VNhijFruPKFXXVM9lzqSkVJ92=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Mình chủ quan nên ko đặt bàn ở các quán nướng đang hot. Search vội quán này rồi vào. Trải nghiệm rất tốt. Quán ko có view đồi như các quán khác và decor khá xưa rồi nên vắng hoe. Nhưng mà đồ ăn vừa ngon vừa rẻ. Nhân viên cực kì nhiệt tình dễ thương. Có 2 em tay vịn đáng iu đón vào từ cổng. 10đ sẽ quay lại lần sau.",
+        "time": 1770557974,
+        "translated": false
+      },
+      {
+        "author_name": "Bui Manh Nam",
+        "author_url": "https://www.google.com/maps/contrib/118160969919872993038/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWrWcJtZ9jqdb05L0Mzr2SvAWFMVi7QwtLIh8mB8RLoPZXyPU=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Mình được bạn giới thiệu quán này và quả thật không thất vọng vì đồ ăn rất ngon và giá cả lại hợp lý ..",
+        "time": 1766319954,
+        "translated": false
+      },
+      {
+        "author_name": "Touyen Huynh",
+        "author_url": "https://www.google.com/maps/contrib/100400230998509149839/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNCBahr5Fs2tbLCOvjnyFpByymBvBbh_WGuxT_dbaCYiqxkye5bA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Đồ ăn quán rất ngon! Không gian ấm áp. Còn được tặng đĩa ổi nữa.",
+        "time": 1770985457,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 198
+  },
+  "harvested_at": "2026-04-29T13:36:15.429426"
+}

@@ -1,0 +1,173 @@
+{
+  "u_key": "846b53814417833c",
+  "original_osm_name": "Au Lac",
+  "google_raw": {
+    "formatted_phone_number": "0905 336 549",
+    "geometry": {
+      "location": {
+        "lat": 16.0508325,
+        "lng": 108.2483813
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 16.0522008302915,
+          "lng": 108.2498093302915
+        },
+        "southwest": {
+          "lat": 16.0495028697085,
+          "lng": 108.2471113697085
+        }
+      }
+    },
+    "name": "ÂU LẠC BEACH",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–00:00",
+        "Thứ Ba: 08:00–00:00",
+        "Thứ Tư: 08:00–00:00",
+        "Thứ Năm: 08:00–00:00",
+        "Thứ Sáu: 08:00–00:00",
+        "Thứ Bảy: 08:00–00:00",
+        "Chủ Nhật: 08:00–00:00"
+      ]
+    },
+    "rating": 3.9,
+    "reviews": [
+      {
+        "author_name": "Hung Nguyen Xuan",
+        "author_url": "https://www.google.com/maps/contrib/108952459549418829844/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE06tqhPFgsb9z70WfeCI5IoPxgNj22e8Wsp7H0UFRdm04BQix=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "10 tháng trước",
+        "text": "Nhà hàng cũng khá rộng rãi thoáng mát. Nhân viên phục vụ thì có vẻ hơi chậm, có thể do đồn quá nên làm không xuể. Các món cũng khá nhiều, vị thì có lẽ đặc trưng ở đây, nhưng do mình có lẽ không quen nên tháy hơi nhạt. Nhiều món đa dạng nên cũng không khó để mọi người lựa chọn.",
+        "time": 1750781616,
+        "translated": false
+      },
+      {
+        "author_name": "THONG VICTOR",
+        "author_url": "https://www.google.com/maps/contrib/100397985550703187183/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQatbrIwjLj9Hpc15U1RoCAhxZFLK7boZXYvuLu4oxZh26Z6BZig=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "9 tháng trước",
+        "text": "Một nhà hàng nằm ở bờ biển Mỹ Khê thuộc thành phố biển Đà Nẵng, đối diện là công viên bờ biển, buổi tối sầm uất nhộn nhịp, nhà hàng giá cả phải chăng phục vụ khách đoàn lẫn khách lẻ, món ăn khá hợp khẩu vị.",
+        "time": 1752298093,
+        "translated": false
+      },
+      {
+        "author_name": "Cuong Tong",
+        "author_url": "https://www.google.com/maps/contrib/110625058342313168614/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8JTlWPHRZqNC7K77x7pxXi8b12JerROCaz8arjHALXwzd5FYB=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "10 tháng trước",
+        "text": "Quán rộng lớn, nằm ngay vị trí đắc địa, đường ven biển, view biển, chỗ đỗ xe rộng rãi. Đồ ăn cũng khá vừa miệng. Nhà mình đi tour nên cũng không trải nghiệm được nhiều. Tuy nhiên cũng khá hài lòng với chất lượng phục vụ.",
+        "time": 1750916996,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Nhật Khang",
+        "author_url": "https://www.google.com/maps/contrib/102900858551774666187/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5mv999Jz7T5PjKoFA3T27dcqdIgS0fhmyTrcHxYoGWhBCNF23=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon - nhà hàng rộng rãi - đối diện biển mát mẻ",
+        "time": 1764997206,
+        "translated": false
+      },
+      {
+        "author_name": "Pham Thang",
+        "author_url": "https://www.google.com/maps/contrib/116498252603441938291/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPFCoYb-PDpsk4JcD4F30RtBuoSroELdHXR9HSyEh3t1lMGpE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 tháng trước",
+        "text": "Đồ ăn ok. Chỗ ngồi bình dân. Các phòng ăn riêng có trang bị hát karaoke. Giá cả hợp lý.",
+        "time": 1755323191,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 380
+  },
+  "harvested_at": "2026-04-29T09:41:25.876008"
+}

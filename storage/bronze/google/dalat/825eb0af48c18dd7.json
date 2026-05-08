@@ -1,0 +1,174 @@
+{
+  "u_key": "825eb0af48c18dd7",
+  "original_osm_name": "Nhat Ly",
+  "google_raw": {
+    "formatted_phone_number": "0263 3821 651",
+    "geometry": {
+      "location": {
+        "lat": 11.9456842,
+        "lng": 108.4348817
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9470488802915,
+          "lng": 108.4361886802915
+        },
+        "southwest": {
+          "lat": 11.9443509197085,
+          "lng": 108.4334907197085
+        }
+      }
+    },
+    "name": "Nhà Hàng Nhật Ly",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:00",
+        "Thứ Ba: 10:00–21:00",
+        "Thứ Tư: 10:00–21:00",
+        "Thứ Năm: 10:00–21:00",
+        "Thứ Sáu: 10:00–21:00",
+        "Thứ Bảy: 10:00–21:00",
+        "Chủ Nhật: 10:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Hùng Cường Lã",
+        "author_url": "https://www.google.com/maps/contrib/117146259394666957843/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX88JpbO9Rslq5YylHkpxgglGZfQBpTLes2Bz3KkGWLFGCWDAiCPA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 tháng trước",
+        "text": "Biết qua ng bạn giới thiệu, quán mặt tiền nhỏ chỗ để xe máy hơi , đồ ăn ngon vị khác do chưa thưởng thức nhiều ko đánh giá dc, thèm bát canh xương nụ Astiso có luôn huong vị vẫn như 10 năm trước đây. Nhân viên phục vụ chuyên nghiệp, khá nhiều khách ngoại quốc dùng bữa ở đây. Có thể phù hợ với khác đoàn giá nhẹ hơn. 2 ng ăn hết gần 800k , rau rất tươi order luôn 2 đĩa, ăn xong có chuối tráng miệng free. Không gian trong quá khá sâu. Hôm đến có cãi nhau mà ng đà lạt cãi nhau cũng nhẹ nhàng văn hóa 😆😆😆.",
+        "time": 1766564821,
+        "translated": false
+      },
+      {
+        "author_name": "Quoc Tran Dang Phi Minh",
+        "author_url": "https://www.google.com/maps/contrib/105806178607823433593/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVg_glDWpr842YX2ofTVD0mZMtgRUi4kwSNVhlmnekDcF9WXeRM=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "8 tháng trước",
+        "text": "Một nhà hàng luôn được khách của mình khen khi đưa đến đây ăn, đồ ăn đậm vị đặc trưng của Đà Lạt, ra món nhanh, giá cả hợp lý.",
+        "time": 1756006895,
+        "translated": false
+      },
+      {
+        "author_name": "Vũ Duy Minh",
+        "author_url": "https://www.google.com/maps/contrib/115101599926951930847/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgVONbJC0T2zTy7GM10p4BgDISWq0xaLDiyN6oHHAG326bzfLr=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Đồ ăn ngon. Phục vụ nhanh. Giá cả hợp lý. Không gian hơi chật một xíu tuy nhiên cũng khá ok. Phù hợp cho cơm gia đình.",
+        "time": 1744092699,
+        "translated": false
+      },
+      {
+        "author_name": "Linh Hoang",
+        "author_url": "https://www.google.com/maps/contrib/105610737863048043168/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo1uE8DDV2MxFRkIQlSg4WxzzF_cPTSnSPcNliCZGPkIUWgKVs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "- Quán phục vụ nhanh, chu đáo\n- Đồ ăn không còn xuất sắc như ngày xưa (7 năm trước từng ăn ở quán này nhiều lần, hương vị khiến mình nhớ mãi), giờ quay lại ăn những món trước đây yêu thích nhưng cảm nhận chỉ còn được 7/10đ, đánh giá khách quan vẫn là khá ngon, vừa miệng.",
+        "time": 1717768924,
+        "translated": false
+      },
+      {
+        "author_name": "Bao Tran",
+        "author_url": "https://www.google.com/maps/contrib/101782044885162839953/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSx_EksZV-wPt1k8LGDf8SBIszdcOEr9nd8kFJCh3TmHDuCDLjzA=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "Quán có thực đơn phong phú, chế biến ngon.\nPhục vụ nhanh, sạch sẽ.",
+        "time": 1726814169,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 863
+  },
+  "harvested_at": "2026-04-29T13:36:28.224562"
+}

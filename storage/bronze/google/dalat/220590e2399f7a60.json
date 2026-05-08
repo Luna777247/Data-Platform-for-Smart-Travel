@@ -1,0 +1,174 @@
+{
+  "u_key": "220590e2399f7a60",
+  "original_osm_name": "địa điểm ăn",
+  "google_raw": {
+    "formatted_phone_number": "0888 947 947",
+    "geometry": {
+      "location": {
+        "lat": 11.9309167,
+        "lng": 108.4511751
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9322142802915,
+          "lng": 108.4525494302915
+        },
+        "southwest": {
+          "lat": 11.9295163197085,
+          "lng": 108.4498514697085
+        }
+      }
+    },
+    "name": "Tiệm Gà Lưng Chừng Đồi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–22:00",
+        "Thứ Ba: 10:00–22:00",
+        "Thứ Tư: 10:00–22:00",
+        "Thứ Năm: 10:00–22:00",
+        "Thứ Sáu: 10:00–22:00",
+        "Thứ Bảy: 10:00–22:00",
+        "Chủ Nhật: 10:00–22:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Chau Ly",
+        "author_url": "https://www.google.com/maps/contrib/110858589361266278879/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgEeYqFlblKDQvbNC9-a-Ir-L0qPpz3gq4n1KCuRqmVQglPA=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "5 tháng trước",
+        "text": "Quán năm ngay lưng chừng đồi, có view đồi núi vừa ngồi ăn vừa trò chuyện chill thiệt sự. Mình tới quán vì gà nướng cơm lam, nhưng món làm mình wow là BBQ. Quán ướp vừa miệng, đồ ăn tươi, thịt bò mềm chấm vào sốt như hoà tan. Đồ ăn kèm salad thì rau tươi, cơm chiên khô ráo (mình phải gội thêm 2 dĩa). Ăn no quá chừng luôn mà giá có 300k/người. Nếu có đi mình sẽ quay lại chill tiếp",
+        "time": 1763040412,
+        "translated": false
+      },
+      {
+        "author_name": "deepholeful",
+        "author_url": "https://www.google.com/maps/contrib/113535299615409359158/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUY3hD6iRwInxpnafPnzUPz3fEGeT7Ol2hz_WXOmnVul3SVPgZt=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Đồ ăn ngon, giá cũng rất ổn, view đẹp. Mấy món bò và món nướng nêm rất ngon nha, cơm lam dẻo thơm và béo.\nCực thích rượu mơ ở qán, lúc về mình còn mua thêm 1 chai đem đi.\nMấy bé nhân viên cũng nhiệt tình, dễ thương.",
+        "time": 1766908148,
+        "translated": false
+      },
+      {
+        "author_name": "huy tran",
+        "author_url": "https://www.google.com/maps/contrib/106658374259256215405/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUacce9ugcZNvBpsWNb6HjzHNnAAQvaaFVnfqnvhYQpbM-H1s1x=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "3 tháng trước",
+        "text": "7/10.\n- không gian quán được view đẹp.\n- Các món nướng được, món gà nướng ướp vừa, cơm lam ngon .\n- Nhân viên quán nhiệt tình ( tolet sạch)\n- quán không có chỗ đậu xe ôtô",
+        "time": 1767427939,
+        "translated": false
+      },
+      {
+        "author_name": "Lê Hoàng Ninh",
+        "author_url": "https://www.google.com/maps/contrib/101987301819151890069/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkdB6gMpCEhl8THcz8pLXWuFaWhEEq3w03Jo_sKqIo0ffiPmc=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Chời ơi quán nướng vừa ngon vừa rẻ nè🤎🤎 Đã z nhân viên siêu nhiệt tình luôn á, luôn thay vỉ nướng liên tục . Respect!!! Lần sau có đi đà lạt sẽ ghé tiếppp",
+        "time": 1772124647,
+        "translated": false
+      },
+      {
+        "author_name": "Windy Liu",
+        "author_url": "https://www.google.com/maps/contrib/117950468370081306831/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtb4NbrhptHAKLCLUWqdc1kYDWNUJCaDgCjt_179MdqUFdZg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 tháng trước",
+        "text": "Quán làm đồ ăn ngon, vưac miệng với gđ mình. Lên đồ ăn siêu nhanh. Nhưng điểm trừ lớn nhất là đường đi, khó ra vô vô cùng.",
+        "time": 1767397127,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1400
+  },
+  "harvested_at": "2026-04-30T14:53:46.914127"
+}

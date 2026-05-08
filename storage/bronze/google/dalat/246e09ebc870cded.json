@@ -1,0 +1,170 @@
+{
+  "u_key": "246e09ebc870cded",
+  "original_osm_name": "Ký túc xá Đại học Đà Lạt",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 11.9641828,
+        "lng": 108.4420161
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 11.9654611302915,
+          "lng": 108.4433686302915
+        },
+        "southwest": {
+          "lat": 11.9627631697085,
+          "lng": 108.4406706697085
+        }
+      }
+    },
+    "name": "Ký túc xá đại học đà lạt",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:00–22:00",
+        "Thứ Ba: 05:00–22:00",
+        "Thứ Tư: 05:00–22:00",
+        "Thứ Năm: 05:00–22:00",
+        "Thứ Sáu: 05:00–22:00",
+        "Thứ Bảy: 05:00–22:00",
+        "Chủ Nhật: 05:00–22:00"
+      ]
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Yaka성시퍼",
+        "author_url": "https://www.google.com/maps/contrib/113344774086866499266/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWizjdK4F1978C2p9pv8IbjYRPmo-aXB-5rl-a3AIm25-0jDwzeRA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chỗ học quân sự khá thoáng mát rộng rãi là chỗ khu nội trú sinh viên hay kí túc xá đại học đà lạt, góp ý chút là bên trong chỗ học quân sự có vài nhà vệ sinh bồn cầu xả nước không được đã vậy còn bốc mùi rất hôi nữa, ở chỗ này có bé mèo cute lắm nè không nhát như mấy bé mèo khác thấy người là bỏ chạy 🥰☺️",
+        "time": 1742387835,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng",
+        "author_url": "https://www.google.com/maps/contrib/110204688082522718739/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVz30w41oNL-oviplS9fN2ENuDyKPkV2cf-eNgUnHF5iUrtCdFjVA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "một năm trước",
+        "text": "có ba bốn em đào ở gần nhà xe phía sau ✅\n07:00 - 22:00\ngiữ xe 2k / lần\nqua đêm 5k / lần",
+        "time": 1719642495,
+        "translated": false
+      },
+      {
+        "author_name": "Ngọc Đông Phan",
+        "author_url": "https://www.google.com/maps/contrib/117477574622761381088/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVomjpXZGOz7jgde4y6XH7R3OlUaQS8a-J5b_hzFdgFK5ptW1XlgQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Không gian thoáng mát.",
+        "time": 1737597215,
+        "translated": false
+      },
+      {
+        "author_name": "The Anh Cao",
+        "author_url": "https://www.google.com/maps/contrib/109930281723188863935/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUP26skT653SB3E9mPnMFmVByuOxp4dz-JTI1N-aSuT_v1He-r3=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Tuyệt vời",
+        "time": 1739074425,
+        "translated": false
+      },
+      {
+        "author_name": "QPNN26",
+        "author_url": "https://www.google.com/maps/contrib/102684488656343011715/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbWUXgdMT8i11Q6nfDhWlFKIOoWayIomOLjnbBidgiZFTTI5YA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 tuần trước",
+        "text": "",
+        "time": 1775044469,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 12
+  },
+  "harvested_at": "2026-04-30T15:17:05.373650"
+}

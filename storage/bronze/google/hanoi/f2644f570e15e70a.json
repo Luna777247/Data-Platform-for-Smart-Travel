@@ -1,0 +1,174 @@
+{
+  "u_key": "f2644f570e15e70a",
+  "original_osm_name": "Little bowl",
+  "google_raw": {
+    "formatted_phone_number": "0766 000 205",
+    "geometry": {
+      "location": {
+        "lat": 21.0354437,
+        "lng": 105.8486507
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0367638302915,
+          "lng": 105.8499966802915
+        },
+        "southwest": {
+          "lat": 21.0340658697085,
+          "lng": 105.8472987197085
+        }
+      }
+    },
+    "name": "Little Bowl",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 11:30–22:00",
+        "Thứ Ba: 11:30–22:00",
+        "Thứ Tư: 11:30–22:00",
+        "Thứ Năm: 11:30–22:00",
+        "Thứ Sáu: 11:30–22:00",
+        "Thứ Bảy: 11:30–22:00",
+        "Chủ Nhật: 11:30–22:00"
+      ]
+    },
+    "price_level": 1,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author_name": "Ha Linh Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115426493905648303183/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItuRnXR7UW1wHDf-8sHBIBENxH0vFAolxf2grjURWRGda-rQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 tháng trước",
+        "text": "Chè rất ngon, đảm bảo vệ sinh, mình tới quán nhiều lần rồi, nhưng lần nào cũng muốn quay lại. View đẹp, không gian ấm cúng.\nĐặc biệt là chị chủ vô cùng tốt bụng và niềm nở, hôm nay mình bị đổ chè, mà chị không ngại ngay lập tức lấy thêm đầy bát cho mình 🥹😘🤍",
+        "time": 1766067921,
+        "translated": false
+      },
+      {
+        "author_name": "Trinh Phương",
+        "author_url": "https://www.google.com/maps/contrib/101513559081223668609/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVp2_ZCbinpvpB0Ymy3Cp-ms7ykLzjK7jGIilhGKOg_6PrT8D1e9A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Ấn tượng đầu tiên là không gian quán rất chill, kiểu phong cách Hà Nội xưa 🇻🇳 Phần chè mình có od chè thái & schua mít, ăn khá ngon. Thích nhất là hạt nổ việt quất\nChủ quán thân thiện, nhiệt tình, mỗi tội chỉ có 1 ng làm nên phải chờ hơi lâu xíu\nGiá khá ổn, trải nghiệm đáng thử",
+        "time": 1757954624,
+        "translated": false
+      },
+      {
+        "author_name": "Minh Anh Phạm",
+        "author_url": "https://www.google.com/maps/contrib/114980873908240573280/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUI2eqy8xkhIbYdVpa6QprD6ID1u4sHpq0oWDIRiifaVQKBkC4=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Hai vợ chồng đi đón thu Hà Nộ 2025. Gặp chị Liu Liu luôn ihihi. Chè ngon và chỗ ngồi cũng thoáng nha, ưng ưng. Vừa ngồi vừa ngắm các ekip chụp ảnh và thưởng thức “ké” mùi thuốc Bắc gia truyền lun.",
+        "time": 1761469496,
+        "translated": false
+      },
+      {
+        "author_name": "Thành Long Nguyễn Hữu",
+        "author_url": "https://www.google.com/maps/contrib/109951874195092196067/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO71xtS-5rEPdUZO3vG_iGODiSCoE9WSRR8tjA0OJSCC2XQIUd=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "- Các món tráng miệng quá ngon\n- Độ mịn, độ ngọt vừa phải\n- Chua, ngọt, thanh, mềm mại, rõ ràng, thanh bạch\n- Độ mát cũng vừa phải, không ê buốt, không khó chịu. Ăn không thể ngừng.\n- Thật sự thiếu điều là tôi có thể húp hết toàn bộ mọi thứ",
+        "time": 1768795557,
+        "translated": false
+      },
+      {
+        "author_name": "luong phong",
+        "author_url": "https://www.google.com/maps/contrib/103455721184916240049/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPO1mUzBjhEd1Kz_4lR62pUhRy9UeJWeLd6xJsPmbKINxSIIE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 tháng trước",
+        "text": "Trè ngon - thơm - đặc biệt là thanh mát k bị ngọt nha .   Thưởng thức nhẹ nhành muốn gọi hết menu luôn ấy .",
+        "time": 1756807930,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 1224
+  },
+  "harvested_at": "2026-04-26T12:45:21.499233"
+}

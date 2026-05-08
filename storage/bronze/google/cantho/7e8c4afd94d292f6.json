@@ -1,0 +1,169 @@
+{
+  "u_key": "7e8c4afd94d292f6",
+  "original_osm_name": "3D Café",
+  "google_raw": {
+    "formatted_phone_number": "0919 756 333",
+    "geometry": {
+      "location": {
+        "lat": 9.9988418,
+        "lng": 105.6639206
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 10.0002722802915,
+          "lng": 105.6653444802915
+        },
+        "southwest": {
+          "lat": 9.9975743197085,
+          "lng": 105.6626465197085
+        }
+      }
+    },
+    "name": "Coffee 3D ‍ ️‍",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2128"
+          },
+          "open": {
+            "day": 0,
+            "time": "0528"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2128"
+          },
+          "open": {
+            "day": 1,
+            "time": "0528"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2128"
+          },
+          "open": {
+            "day": 2,
+            "time": "0528"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2128"
+          },
+          "open": {
+            "day": 3,
+            "time": "0528"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2128"
+          },
+          "open": {
+            "day": 4,
+            "time": "0528"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2128"
+          },
+          "open": {
+            "day": 5,
+            "time": "0528"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2128"
+          },
+          "open": {
+            "day": 6,
+            "time": "0528"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 05:28–21:28",
+        "Thứ Ba: 05:28–21:28",
+        "Thứ Tư: 05:28–21:28",
+        "Thứ Năm: 05:28–21:28",
+        "Thứ Sáu: 05:28–21:28",
+        "Thứ Bảy: 05:28–21:28",
+        "Chủ Nhật: 05:28–21:28"
+      ]
+    },
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "Nhựt Phan Minh",
+        "author_url": "https://www.google.com/maps/contrib/112479498837383457982/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWS0Ef9B7LQJKQIZNuDqO4iHAm-EHyU8V-jzBFwJVlDOyZ0nVH2=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán có chỗ để xe, không gian vui chơi cho các bé, đối diện quãng trường. Co dịch vụ thuê xe điện cho các bé…",
+        "time": 1691414491,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyen Simple",
+        "author_url": "https://www.google.com/maps/contrib/111771082006519968909/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLo0rIIha_YXp-PC1oThNldve1F7yk5sKLNBzvFkI-X_3npxYY=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "3 tháng trước",
+        "text": "Nước ngon, giá bình dân. Buổi chiều Kế bên quán có bán hột vịt lộn đủ thứ... thích hợp để đi ăn chơi",
+        "time": 1767520240,
+        "translated": false
+      },
+      {
+        "author_name": "Cuong Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/107405348496079715211/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXsrj2E6u5mpMJp5dlMTlQ9wvwIiKISNjA10vxM-bO7VXIKcHr6=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Tuyệt vời",
+        "time": 1691139609,
+        "translated": false
+      },
+      {
+        "author_name": "Xiong Jiang Ruan",
+        "author_url": "https://www.google.com/maps/contrib/109656698514182598941/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZ-zKdSv7whmvNyPpIqOAijiqXRsWm95wUvYyv8Bp8NvlLPnk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "",
+        "time": 1732894155,
+        "translated": false
+      },
+      {
+        "author_name": "kha duy",
+        "author_url": "https://www.google.com/maps/contrib/111854869843872760450/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-b33LXMFfBBLSrc40a-dGCH2uafBKv0AE35cfgTNjAZ7Gxm6P=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "",
+        "time": 1709333664,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 7
+  },
+  "harvested_at": "2026-04-30T15:18:31.171174"
+}

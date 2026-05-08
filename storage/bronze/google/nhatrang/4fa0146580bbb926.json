@@ -1,0 +1,164 @@
+{
+  "u_key": "4fa0146580bbb926",
+  "original_osm_name": "Kim Chi",
+  "google_raw": {
+    "formatted_phone_number": "0258 3512 357",
+    "geometry": {
+      "location": {
+        "lat": 12.2421343,
+        "lng": 109.1915347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2435268802915,
+          "lng": 109.1928870302915
+        },
+        "southwest": {
+          "lat": 12.2408289197085,
+          "lng": 109.1901890697085
+        }
+      }
+    },
+    "name": "Nhà hàng Kim Chi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–21:00",
+        "Thứ Ba: Đóng cửa",
+        "Thứ Tư: 10:00–21:00",
+        "Thứ Năm: 10:00–21:00",
+        "Thứ Sáu: 10:00–21:00",
+        "Thứ Bảy: 10:00–21:00",
+        "Chủ Nhật: 10:00–21:00"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "Phượng Nguyễn",
+        "author_url": "https://www.google.com/maps/contrib/108001933894729385460/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4y6-Os68pD9x6Yrz6a9ImhJW_TrmBMIRKhTZrSrbjyLazp7g=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Quán rộng rãi sạch sẽ. Chủ quán người hàn quốc. Bàn ghế to rộng. Đồ ăn kèm quá trời: kim chi, củ cải, trứng cuộn ngon, giá đỗ, đậu ve, salad, cá cơm chiên. Cơm trộn ngon nha, đáng thử, ghiền món cơm trộn luôn. Tokbokki hơi nhạt, ko đủ sức hút. Mì lạnh khá ngon ạ. Canh kim chi vẫn mãi ngon. Có nước lọc đá đi kèm. Quán bài trí đơn giản. Dụng cụ ăn uống sạch sẽ quá chừng. Nhân viên thân thiện dễ thương nhiệt tình hỗ trợ. Giá cả hợp lí so với mặt bằng chung.",
+        "time": 1711170230,
+        "translated": false
+      },
+      {
+        "author_name": "Ngô Thị Hương Lan",
+        "author_url": "https://www.google.com/maps/contrib/115592790675746935202/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeJD8etW7dO1-pIVsShwsc3JHSbYg506EzAOnxxZhWDr8Osug=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 tháng trước",
+        "text": "Quán ruột của mình từ 2016, chủ quán người Hàn, các món ăn chuẩn Hàn, có mỳ lạnh là món ngon nhất (canh kimchi cá, canh rong biển, cơm trộn, ba chỉ nướng cũng rất rất ngon). Không gian sạch sẽ rộng rãi, đồ ăn kèm đa dạng và chất lượng, là quán Hàn ngon nhất ở Nha Trang.",
+        "time": 1770716400,
+        "translated": false
+      },
+      {
+        "author_name": "Khanh Dinh",
+        "author_url": "https://www.google.com/maps/contrib/102262734455351167960/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz0ghPKA8A1DZxJCLsA20I0hW0fiX2B3fFGWFQkD1zv4n57mI5Sg=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 3,
+        "relative_time_description": "4 năm trước",
+        "text": "Quán sạch sẽ, nhân viên cũng lịch sự nhẹ nhàng.\nCanh bò hầm ăn ổn. Mì lạnh cũng OK. Mà món thịt heo xào nó dai ơi là dai.\nTiệm chấp nhận trả thẻ hoặc tiền mặt.",
+        "time": 1642532382,
+        "translated": false
+      },
+      {
+        "author_name": "Phoenix",
+        "author_url": "https://www.google.com/maps/contrib/113363590915773522968/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyjzXS6zNX8-sstl7mMzTjo37BgwURcd2zboEHOmXEkQhtWJfEnw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 năm trước",
+        "text": "Gọi 1 set thịt nướng được 6 dĩa nhỏ đồ ăn kèm theo. Đồ ăn rất ngon. Có kimbap thì thanh cua không ngon. Giá không bình dân. Khách người Hàn nhiều.",
+        "time": 1692179193,
+        "translated": false
+      },
+      {
+        "author_name": "Nguyễn Ngọc Như Quỳnh",
+        "author_url": "https://www.google.com/maps/contrib/104435414571009323499/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDxPylvHJ6ISadiUy5YPMO9YbjbTlp59ZbLKYr_IwPBfYnHg=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "3 tháng trước",
+        "text": "Tôi có đến lúc 19h tối ngày 31/12 , nhân viên thái độ , pv tệ , món ăn lên hơi chậm … đồ ăn ngon . Nhưng cần chỉnh lại thái độ của nhân viên, trước kia tôi có đến buổi sáng pv nhanh nhẹn , hiểu ý tôi .",
+        "time": 1767494104,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 763
+  },
+  "harvested_at": "2026-05-02T15:13:53.772126"
+}

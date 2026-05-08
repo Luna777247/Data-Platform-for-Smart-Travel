@@ -1,0 +1,174 @@
+{
+  "u_key": "ea73fbfd3a02f283",
+  "original_osm_name": "Cửa Hàng Bia Minh",
+  "google_raw": {
+    "formatted_phone_number": "0984 486 668",
+    "geometry": {
+      "location": {
+        "lat": 21.0196076,
+        "lng": 105.8120989
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 21.0209468802915,
+          "lng": 105.8134535802915
+        },
+        "southwest": {
+          "lat": 21.0182489197085,
+          "lng": 105.8107556197085
+        }
+      }
+    },
+    "name": "Quán Bia Minh Phích",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 10:00–23:30",
+        "Thứ Ba: 10:00–23:30",
+        "Thứ Tư: 10:00–23:30",
+        "Thứ Năm: 10:00–23:30",
+        "Thứ Sáu: 10:00–23:30",
+        "Thứ Bảy: 10:00–23:30",
+        "Chủ Nhật: 10:00–23:30"
+      ]
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Bung - Nguyen Tran Vu",
+        "author_url": "https://www.google.com/maps/contrib/101650756393568837314/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-hNOcHT6Yr2qS3ye6rAvOfKZlRWApbLdNqxjX0c1dorvULty9cw=s128-c0x00000000-cc-rp-mo-ba8",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Quán bia của các bạn vận động viên nhiều môn khác nhau cùng mở. Mọi thứ đều ổn ngoại trừ nhà vệ sinh hix",
+        "time": 1732340051,
+        "translated": false
+      },
+      {
+        "author_name": "Huyền Ngô",
+        "author_url": "https://www.google.com/maps/contrib/108329035156132977783/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPsrfjx9475-CYNkhNqX8uB3qI5P-RJSlP6LCpDIJ_YL3ttqdNaQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Hơi ít loại đồ ăn.\nQuán nv ổn dù hơi chậm xíu nhưng chiều khách.\nNhà vs hơi lụp xụp đúng kiểu mấy quán bia cỏ, nhưng đc cái ko bị mùi",
+        "time": 1653840414,
+        "translated": false
+      },
+      {
+        "author_name": "Hoàng Tử Jang Royal",
+        "author_url": "https://www.google.com/maps/contrib/110333311746087456421/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUrje0j0SX7fS5IuvcS2GJl7-1eF8m7FFcTIpIVGhKAawPwDPb=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 năm trước",
+        "text": "Bia chuẩn Hà Nội, phục vụ nhiệt tình và rất thanh niên.",
+        "time": 1677337614,
+        "translated": false
+      },
+      {
+        "author_name": "son nguyen",
+        "author_url": "https://www.google.com/maps/contrib/115338161747827055881/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX491WAhFgssdSauW71fp6I42eMTtj4Tkj9cgz7z-u8blUYVJ4P=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "3 năm trước",
+        "text": "Quán phục vụ người cao tuổi, thịt quay 9₫\nNhân viên dễ bảo, nói chung oke, ngồi thoáng!",
+        "time": 1658919780,
+        "translated": false
+      },
+      {
+        "author_name": "Đức Lê",
+        "author_url": "https://www.google.com/maps/contrib/100769105931522773273/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWv8uY_9SZEKXpY-fTubM9neoPlNYVLCfc-bUAzXUTca4zqRZckTA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "2 năm trước",
+        "text": "Lâu ngon\nThịt quay ngon",
+        "time": 1694570076,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 132
+  },
+  "harvested_at": "2026-04-28T16:29:40.650126"
+}

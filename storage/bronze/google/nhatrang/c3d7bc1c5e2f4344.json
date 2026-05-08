@@ -1,0 +1,173 @@
+{
+  "u_key": "c3d7bc1c5e2f4344",
+  "original_osm_name": "Rubik",
+  "google_raw": {
+    "formatted_phone_number": "0567 634 580",
+    "geometry": {
+      "location": {
+        "lat": 12.2636166,
+        "lng": 109.1610131
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2649678802915,
+          "lng": 109.1623631302915
+        },
+        "southwest": {
+          "lat": 12.2622699197085,
+          "lng": 109.1596651697085
+        }
+      }
+    },
+    "name": "Cửa hàng Rubik Nha Trang",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Thứ Hai: 08:00–21:00",
+        "Thứ Ba: 08:00–21:00",
+        "Thứ Tư: 08:00–21:00",
+        "Thứ Năm: 08:00–21:00",
+        "Thứ Sáu: 08:00–21:00",
+        "Thứ Bảy: 08:00–21:00",
+        "Chủ Nhật: 08:00–21:00"
+      ]
+    },
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author_name": "Harvard Real",
+        "author_url": "https://www.google.com/maps/contrib/109795075919054587814/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWn7aERTGO26Nn62KT7gvThB7wt9zSCrXfFFkcaNZPqb5O0bjBo=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "hàng tốt giá cả hợp lý tư vấn nhiệt tình 10 điểm ko có nhưng trừ cái hẻm hơi sâu nhưng vẫn ok",
+        "time": 1724285457,
+        "translated": false
+      },
+      {
+        "author_name": "Bách Nhật",
+        "author_url": "https://www.google.com/maps/contrib/103426915451549380730/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWZ9woEmemLp4UMyR1sTdKsdtG9VkFBUK6EqC2iYO7kDuV2Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 tháng trước",
+        "text": "Hàng tốt chất lượng 👌",
+        "time": 1760773991,
+        "translated": false
+      },
+      {
+        "author_name": "Anh Than",
+        "author_url": "https://www.google.com/maps/contrib/108776905837506656032/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUMD9ApEYgR3ceZWWYVtkJNxJcDxNSdJWiZSvDUBRhtMgsXD3j=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "một năm trước",
+        "text": "Chất lương cực kì tốt nên mua",
+        "time": 1742916914,
+        "translated": false
+      },
+      {
+        "author_name": "Phuong Mr",
+        "author_url": "https://www.google.com/maps/contrib/105912933322211778732/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJkD1D0uiHtUVhQJDPGcGqtJuaJDertCXaMrLZN9HO-0qoENg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 năm trước",
+        "text": "Chào tôi tên là Nguyễn Hoài Phong có phải là lão bá đạo không",
+        "time": 1650187215,
+        "translated": false
+      },
+      {
+        "author_name": "Nhật Trần",
+        "author_url": "https://www.google.com/maps/contrib/116870076148605006996/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJt4taD8oDnDkXP3Oc05-IZQMS2kSGEzx_CZbE08yVl3rD2LQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 năm trước",
+        "text": "Shop bán hàng chất lượng , giá rẻ",
+        "time": 1610091127,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 66
+  },
+  "harvested_at": "2026-05-02T15:24:34.035210"
+}

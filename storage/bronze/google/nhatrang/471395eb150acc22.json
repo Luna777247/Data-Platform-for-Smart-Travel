@@ -1,0 +1,89 @@
+{
+  "u_key": "471395eb150acc22",
+  "original_osm_name": "City Fox",
+  "google_raw": {
+    "geometry": {
+      "location": {
+        "lat": 12.243797,
+        "lng": 109.1914611
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 12.2451248802915,
+          "lng": 109.1928116302915
+        },
+        "southwest": {
+          "lat": 12.2424269197085,
+          "lng": 109.1901136697085
+        }
+      }
+    },
+    "name": "City Fox Café",
+    "price_level": 2,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "author_name": "Châu Vũ",
+        "author_url": "https://www.google.com/maps/contrib/117319970225792070522/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvIsb1ZCZu9-Jgl_2yt1ygM9ZNh_XPHWClmDIO52qOwQBY0WEG=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 năm trước",
+        "text": "Quán trang trí đẹp, nước uống và đồ ăn đều ngon, nhân viên thân thiện, dễ thương",
+        "time": 1519869322,
+        "translated": false
+      },
+      {
+        "author_name": "quach van nghia",
+        "author_url": "https://www.google.com/maps/contrib/107524677789855909311/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6kgmruAgz3zxbqhF_cPXZTFBTk4W5DSdhsHMw8u1XviUvjc4dcg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 2,
+        "relative_time_description": "8 năm trước",
+        "text": "Quán khá cũ, thức uống đc đặt trong cốc nhựa. Tạm thôi!",
+        "time": 1517541708,
+        "translated": false
+      },
+      {
+        "author_name": "Hoa My",
+        "author_url": "https://www.google.com/maps/contrib/100596039876434229189/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3Z0hs-MWhjDhPvDLrLRCW7zR8bTBxEpc6lkDUdG_VUihN4yC8=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 4,
+        "relative_time_description": "7 năm trước",
+        "text": "Quán view tầng trên đẹp, nước uống cũng bt",
+        "time": 1535207831,
+        "translated": false
+      },
+      {
+        "author_name": "Tony Tran",
+        "author_url": "https://www.google.com/maps/contrib/113995207698100297226/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX44QpD7_ZChj4NJb29-zQUgRaHaJV-oE2DJnleCuK5QNgIFu9qHA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "8 năm trước",
+        "text": "Đồ uống ngon, không gian khá thoáng. Buổi tối hơi đông.",
+        "time": 1519894812,
+        "translated": false
+      },
+      {
+        "author_name": "Hernaz Nguyen",
+        "author_url": "https://www.google.com/maps/contrib/111286123598733406901/reviews",
+        "language": "vi",
+        "original_language": "vi",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVclw3CBYNNp9MXOVVmdyPF4uR0mndCX-RefeWNCXPmK7n_Ikw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "9 năm trước",
+        "text": "Không gian đẹp đồ ăn uống ngon miệng giá phải chăng",
+        "time": 1485740865,
+        "translated": false
+      }
+    ],
+    "user_ratings_total": 95
+  },
+  "harvested_at": "2026-05-02T15:31:29.738145"
+}
