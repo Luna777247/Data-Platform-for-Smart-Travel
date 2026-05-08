@@ -88,7 +88,7 @@ export default function EditConnectionPage() {
           setHeaderEntries(entries)
         }
       } catch (err) {
-        console.error('[v0] Error fetching connection:', err)
+        console.error('Error fetching connection:', err)
         setError(err instanceof Error ? err.message : 'Failed to load connection')
       } finally {
         setLoading(false)
@@ -119,7 +119,7 @@ export default function EditConnectionPage() {
       toast.success('Connection updated successfully!')
       navigate(`/connections/${connection.id}`)
     } catch (err) {
-      console.error('[v0] Error updating connection:', err)
+      console.error('Error updating connection:', err)
       setError(err instanceof Error ? err.message : 'Failed to update connection')
       toast.error('Failed to update connection')
     } finally {

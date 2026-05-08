@@ -105,18 +105,13 @@ export default function NewConnectionPage() {
       }
 
       const response = await apiClient.post('/api/connections', connectionData)
-      console.log('Connection create response:', response)
-      console.log('Response status:', response.status)
-      console.log('Response data:', response.data)
-      
-      // Check if response is successful (status 2xx or has data)
       if (response.status >= 200 && response.status < 300 && response.data) {
         navigate('/connections')
       } else {
         throw new Error(`Failed to save connection: ${response.status} - ${JSON.stringify(response.data)}`)
       }
     } catch (error) {
-      console.error('[v0] Error saving connection:', error)
+      console.error('Error saving connection:', error)
       alert('Failed to save connection. Please try again.')
     }
   }

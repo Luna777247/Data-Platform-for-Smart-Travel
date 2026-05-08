@@ -19,22 +19,12 @@ export function SystemStats() {
   useEffect(() => {
     async function fetchStats() {
       try {
-        console.log('[SystemStats] Starting fetch from /api/status...')
-        
         const response = await apiClient.get('/api/status', {
-          validateStatus: () => true // Accept all status codes
+          validateStatus: () => true
         })
-        
-        console.log('[SystemStats] Response received:', {
-          status: response.status,
-          statusText: response.statusText,
-          data: response.data
-        })
-        
+
         if (response.status === 200 && response.data) {
           const data = response.data
-          console.log('[SystemStats] Processing data:', data)
-
           setStats({
             uptime: data.uptime || '--',
             totalRuns: (data.runs?.total !== undefined) ? data.runs.total.toString() : '--',
@@ -44,19 +34,12 @@ export function SystemStats() {
             totalSchedules: (data.schedules?.total !== undefined) ? data.schedules.total.toString() : '--'
           })
           setError(null)
-          console.log('[SystemStats] Stats updated successfully')
         } else {
           throw new Error(`API returned status ${response.status}`)
         }
       } catch (err) {
         const errorMsg = err.message || 'Unknown error'
-        console.error('[SystemStats] Error fetching stats:', {
-          message: errorMsg,
-          url: err.config?.url,
-          baseURL: err.config?.baseURL,
-          code: err.code,
-          response: err.response?.data
-        })
+        console.error('Error fetching stats:', errorMsg)
         setError(errorMsg)
         setStats({
           uptime: '--',

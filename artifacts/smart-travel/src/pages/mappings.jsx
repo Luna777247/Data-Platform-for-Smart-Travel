@@ -28,16 +28,11 @@ export default function MappingsPage() {
   useEffect(() => {
     async function fetchMappings() {
       try {
-        console.log('Starting to fetch mappings...')
         setLoading(true)
         const response = await apiClient.get('/api/mappings')
-        console.log('API Response:', response)
         const data = response?.data || {}
-        console.log('Response data:', data)
         const mappings = data.mappings || []
-        console.log('Mappings array:', mappings)
         setMappings(mappings)
-        console.log('State updated with mappings')
       } catch (err) {
         console.error('Error fetching mappings:', err)
         setError(err instanceof Error ? err.message : 'Failed to load field mappings')

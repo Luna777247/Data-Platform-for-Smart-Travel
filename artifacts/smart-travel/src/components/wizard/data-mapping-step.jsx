@@ -213,46 +213,33 @@ export function DataMappingStep({ data, apiConfig, parameters = [], onChange }) 
             normalizedData = parsedBody
           } else if (parsedBody?.body && Array.isArray(parsedBody.body)) {
             normalizedData = parsedBody.body
-            console.log('Found array in parsedBody.body')
           } else if (parsedBody?.data && Array.isArray(parsedBody.data)) {
             normalizedData = parsedBody.data
-            console.log('Found array in parsedBody.data')
           } else if (parsedBody?.results && Array.isArray(parsedBody.results)) {
             normalizedData = parsedBody.results
-            console.log('Found array in parsedBody.results')
           } else if (parsedBody?.items && Array.isArray(parsedBody.items)) {
             normalizedData = parsedBody.items
-            console.log('Found array in parsedBody.items')
           } else if (parsedBody?.Prices && Array.isArray(parsedBody.Prices)) {
             normalizedData = parsedBody.Prices
-            console.log('Found array in parsedBody.Prices')
           } else if (parsedBody?.products && Array.isArray(parsedBody.products)) {
             normalizedData = parsedBody.products
-            console.log('Found array in parsedBody.products')
           } else if (parsedBody?.places && Array.isArray(parsedBody.places)) {
             normalizedData = parsedBody.places
-            console.log('Found array in parsedBody.places')
           } else {
             // If array not found, wrap in array to handle as single document
             normalizedData = [parsedBody]
-            console.log('No array found, wrapping single object in array')
           }
 
           dataToExtract = normalizedData
           previewData = normalizedData // Show the normalized data in preview
-          console.log('✅ Successfully normalized API data:', normalizedData)
-          console.log('Final data type:', Array.isArray(normalizedData) ? 'Array' : typeof normalizedData)
         } catch (parseError) {
           console.warn('❌ Failed to parse response body:', parseError)
-          console.log('Raw response body that failed to parse:', json.response.body)
           // Fallback: use response.body as-is
           dataToExtract = json.response.body
           previewData = json.response.body
         }
       } else {
         // No response.body found, try to normalize the raw response
-        console.log('❌ No response.body found, normalizing raw response data')
-        console.log('Raw json:', json)
 
         let normalizedData = json
 
@@ -277,10 +264,7 @@ export function DataMappingStep({ data, apiConfig, parameters = [], onChange }) 
       
       if (dataToExtract && typeof dataToExtract === 'object') {
         const fields = extractFields(dataToExtract)
-        console.log('Final extracted fields for mapping:', fields)
-        console.log('Field mapping summary:')
         fields.forEach(f => {
-          console.log(`  ${f.path} -> ${f.suggestedName} (${f.type})`)
         })
 
         if ((data?.selectedFields || []).length === 0) {

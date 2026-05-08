@@ -36,7 +36,7 @@ export default function ConnectionsPage() {
       setConnections(connectionsArray)
       setFilteredConnections(connectionsArray)
     } catch (err) {
-      console.error('[v0] Error fetching connections:', err)
+      console.error('Error fetching connections:', err)
       setError('Failed to load connections')
     } finally {
       setLoading(false)
@@ -171,7 +171,7 @@ export default function ConnectionsPage() {
     } catch (err) {
       // Revert optimistic update on error
       setConnections(previousConnections)
-      console.error('[v0] Error deleting connection:', err)
+      console.error('Error deleting connection:', err)
       setError(err instanceof Error ? err.message : 'Failed to delete connection')
     } finally {
       setDeletingId(null)

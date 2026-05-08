@@ -43,8 +43,6 @@ export default function HomeDashboard() {
 
         // Fetch status stats
         const statusRes = await apiClient.get('/api/status')
-        // status loaded
-
         const data = statusRes.data
         setStats({
           status: 'healthy',
@@ -56,8 +54,7 @@ export default function HomeDashboard() {
           successRate: data.activity?.successRate || 0,
         })
       } catch (err) {
-        console.error('[Dashboard Error]', err)
-        console.error('[Dashboard Error details]', err.response?.data, err.message)
+        console.error('Dashboard error:', err.message)
         setError('Failed to load dashboard stats')
       } finally {
         setLoading(false)

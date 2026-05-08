@@ -34,13 +34,10 @@ export default function AnalyticsPage() {
     try {
       setLoading(true)
       const res = await apiClient.get("/api/analytics")
-      console.log("[Analytics] API Response:", res)
-      // Handle both res.data (normal) and res directly (from cache)
-      const data = res.data?.summary ? res.data : res
+      const data = res.data?.summary ? res.data : res.data
       setAnalytics(data)
-      console.log("[Analytics] Processed data:", data)
     } catch (err) {
-      console.error("[Analytics] Error fetching analytics:", err)
+      console.error('Error fetching analytics:', err)
       setError("Failed to load analytics")
     } finally {
       setLoading(false)

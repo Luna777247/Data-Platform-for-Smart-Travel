@@ -30,7 +30,6 @@ export default function RunsPage() {
         await apiClient.delete(`/api/runs/${runId}`)
       } catch (err) {
         if (err.response?.status === 404) {
-          console.log('Run not found on server, removing from UI...')
           // Still remove from UI even if not found on server
         } else {
           throw err
@@ -50,10 +49,8 @@ export default function RunsPage() {
   useEffect(() => {
     apiClient.get('/api/runs')
       .then(res => {
-        // response loaded
         const data = res?.data || {}
         const runsData = Array.isArray(data) ? data : (data.runs || [])
-        // runs extracted
         setRuns(runsData)
         setLoading(false)
       })

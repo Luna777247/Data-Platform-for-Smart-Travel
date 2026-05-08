@@ -657,6 +657,59 @@ router.get("/airflow/runs", (_req, res) => {
   })));
 });
 
+// --- ANALYTICS ---
+router.get("/analytics", (_req, res) => {
+  const allRuns = runs;
+  const successCount = allRuns.filter(r => r.status === "success").length;
+  const failedCount = allRuns.filter(r => r.status === "failed").length;
+  const runningCount = allRuns.filter(r => r.status === "running").length;
+  const totalCount = allRuns.length;
+  const successRate = totalCount > 0 ? (successCount / totalCount) * 100 : 0;
+  const runs24h = allRuns.filter(r => new Date(r.startedAt).getTime() > Date.now() - 86400000).length;
+
+  const successRateHistory = Array.from({ length: 30 }, (_, i) => {
+    const d = new Date(Date.now() - (29 - i) * 86400000);
+    const dateStr = d.toISOString().slice(0, 10);
+    return { date: dateStr, successRate: Math.round(85 + Math.random() * 15) };
+  });
+
+  const dailyActivity = Array.from({ length: 30 }, (_, i) => {
+    const d = new Date(Date.now() - (29 - i) * 86400000);
+    const dateStr = d.toISOString().slice(0, 10);
+    return { date: dateStr, runs: Math.floor(2 + Math.random() * 12) };
+  });
+
+  const connectionCounts: Record<string, number> = {};
+  allRuns.forEach(r => {
+    connectionCounts[r.connectionName] = (connectionCounts[r.connectionName] || 0) + 1;
+  });
+  const runsByConnection = Object.entries(connectionCounts).map(([name, value]) => ({ name, value }));
+
+  const statusDistribution = [
+    { name: "Success", value: successCount },
+    { name: "Failed", value: failedCount },
+    { name: "Running", value: runningCount },
+  ].filter(s => s.value > 0);
+
+  const completedRuns = allRuns.filter(r => r.executionTime != null);
+  const avgResponseTime = completedRuns.length > 0
+    ? Math.round(completedRuns.reduce((sum, r) => sum + (r.executionTime || 0), 0) / completedRuns.length / 1000)
+    : 0;
+
+  res.json({
+    summary: {
+      totalRuns: totalCount,
+      successRate: parseFloat(successRate.toFixed(2)),
+      avgResponseTime,
+      runsLast24h: runs24h,
+    },
+    successRateHistory,
+    dailyActivity,
+    runsByConnection,
+    statusDistribution,
+  });
+});
+
 // --- SYSTEM SETTINGS ---
 let systemSettings = {
   siteName: "SmartTravel Data Platform",

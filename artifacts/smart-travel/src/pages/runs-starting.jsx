@@ -89,9 +89,6 @@ export default function RunStartingPage() {
         const response = await apiClient.post('/api/execute-run', runData)
         const result = response.data
 
-        console.log('API Response:', response)
-        console.log('Result data:', result)
-
         clearInterval(progressInterval)
         setProgress(100)
 

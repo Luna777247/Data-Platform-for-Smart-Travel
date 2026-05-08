@@ -40,12 +40,6 @@ export default function ConnectionDetailPage() {
         if (!connectionId) return
         setLoading(true)
         const connectionRes = await apiClient.get(`/api/connections/${connectionId}`)
-        console.log('Raw connection data from API:', connectionRes.data)
-        console.log('Connection authType from API:', connectionRes.data.authType)
-        console.log('Connection authConfig from API:', connectionRes.data.authConfig)
-        console.log('Connection baseUrl from API:', connectionRes.data.baseUrl)
-        console.log('Connection method from API:', connectionRes.data.method)
-        console.log('Connection headers from API:', connectionRes.data.headers)
         setConnection(connectionRes.data)
         const runsRes = await apiClient.get(`/api/runs`, { params: { connectionId: connectionRes.data.connectionId, limit: 10 } })
         const runsData = runsRes.data?.runs || []
@@ -65,7 +59,7 @@ export default function ConnectionDetailPage() {
           lastRun
         }))
       } catch (err) {
-        console.error('[v0] Error fetching connection:', err)
+        console.error('Error fetching connection:', err)
         setError(err instanceof Error ? err.message : 'Failed to load connection')
       } finally {
         setLoading(false)
@@ -105,38 +99,15 @@ export default function ConnectionDetailPage() {
         }
       }
       
-      console.log('About to make API call to /api/test-connection')
-      console.log('Test data being sent:', JSON.stringify(testData, null, 2))
-
       const response = await apiClient.post('/api/test-connection', testData)
-      console.log('Raw API response received:', response)
-      console.log('Response status:', response.status)
-      console.log('Response headers:', response.headers)
-      
       const result = response.data
-      console.log('Parsed response data:', result)
-      console.log('Response body:', result.body)
-      console.log('Response success:', result.success)
-      console.log('Response status from data:', result.status)
-      console.log('Response message:', result.message)
-      
-      // Determine success based on status code (2xx) or explicit success flag
       const isSuccess = result.success === true || (result.status >= 200 && result.status < 300)
-      console.log('Calculated isSuccess:', isSuccess)
-      
       setTestResult({
         success: isSuccess,
         message: isSuccess ? (result.message || 'Connection successful') : (result.error || result.message || 'Connection failed'),
         status: result.status,
         statusText: result.statusText,
         timestamp: new Date()
-      })
-      
-      console.log('Test result set to:', {
-        success: isSuccess,
-        message: isSuccess ? (result.message || 'Connection successful') : (result.error || result.message || 'Connection failed'),
-        status: result.status,
-        statusText: result.statusText
       })
       
       // Also show an alert for immediate feedback
@@ -368,8 +339,6 @@ export default function ConnectionDetailPage() {
                     <label className="text-sm font-semibold text-foreground">Headers</label>
                     <div className="space-y-2">
                       {connection.headers.map((header, index) => {
-                        console.log('Header', index, ':', header, 'Type:', typeof header, 'Keys:', Object.keys(header))
-                        
                         // Simplified header display logic
                         let displayKey = '', displayValue = ''
                         
