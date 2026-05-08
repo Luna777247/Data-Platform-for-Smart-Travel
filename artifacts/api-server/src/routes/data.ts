@@ -77,16 +77,19 @@ const parameterModes = [
 ];
 
 let osmConfig = {
-  cities: { hanoi: ["restaurant", "attraction"], hcmc: ["restaurant", "hotel"], danang: ["attraction", "beach"] },
+  cities: {
+    hanoi: { name: "Thành phố Hà Nội", bbox: "20.7,105.7,21.3,106.0" },
+    hcmc: { name: "Thành phố Hồ Chí Minh", bbox: "10.5,106.4,11.0,106.9" },
+    danang: { name: "Thành phố Đà Nẵng", bbox: "" }
+  },
   overpass_urls: ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"]
 };
 
 let enrichmentConfig = {
-  enabled: true,
-  provider: "google_places",
-  batch_size: 50,
-  rate_limit_delay_ms: 200,
-  fields: ["rating", "user_ratings_total", "photos", "opening_hours"]
+  fields: "name,rating,user_ratings_total,photos,opening_hours",
+  language: "vi",
+  smart_delay: 2.0,
+  daily_limit: 500
 };
 
 const airflowDags = [
@@ -653,7 +656,9 @@ router.get("/airflow/runs", (_req, res) => {
     status: d.isPaused ? "skipped" : "success",
     startDate: d.lastRun,
     executionDate: d.lastRun,
-    duration: Math.floor(Math.random() * 300) + 30
+    duration: Math.floor(Math.random() * 300) + 30,
+    successTasks: d.isPaused ? 0 : Math.floor(Math.random() * 8) + 2,
+    failedTasks: d.isPaused ? 0 : (Math.random() > 0.8 ? 1 : 0),
   })));
 });
 
