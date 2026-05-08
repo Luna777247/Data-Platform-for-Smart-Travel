@@ -1,157 +1,49 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+# See https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
-# Virtual environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+# compiled output
+dist
+tmp
+out-tsc
+*.tsbuildinfo
+.expo
+.expo-shared
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# dependencies
+node_modules
 
-# OS
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Logs
-*.log
-logs/
-
-# Environment & Secrets
-.env
-.env.local
-.env.*.local
-.env.production
-.env.*.production
-.secrets.baseline
-.gitleaks.sarif
-.trufflehog.json
-secrets/
-.secrets/
-*.pem
-*.key
-*.p12
-*.pfx
-
-# Docker
-docker-compose.prod.yml
-docker-compose.prod.*.yml
-.dockerignore
-
-# Temporary files
-*.tmp
-*.swp
-*.swo
-*~
-.DS_Store
-temp_*.py
-test_*.txt
-test_*.log
-
-# IDE additional
-.vscode/settings.json
-.vscode/extensions.json
-.idea/workspace.xml
-.idea/misc.xml
-*.sublime-project
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
 *.sublime-workspace
 
-# Build outputs
-*.egg-info/
-dist/
-build/
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
-# Database
-*.db
-*.sqlite
-*.sqlite3
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
 
-# Frontend
-node_modules/
-.npm
-.yarn/cache
-.yarn/unplugged
-
-# Airflow
-airflow-webserver.pid
-airflow-scheduler.pid
-unittests.cfg
-
-# Coverage
-.coverage
-.coverage.*
-htmlcov/
-.pytest_cache/
-
-# OS
-thumbs.db
+# System Files
 .DS_Store
-.AppleDouble
-.LSOverride
-logs/
+Thumbs.db
 
-# Database
-data/
-*.db
-*.sqlite3
+.cursor/rules/nx-rules.mdc
+.github/instructions/nx.instructions.md
 
-# Node.js
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.next/
-out/
-
-# Docker
-.dockerignore
-
-# Airflow
-airflow/logs/
-airflow/dags/__pycache__/
-
-# Testing
-.coverage
-htmlcov/
-.pytest_cache/
-.tox/
-
-# Temporary files
-*.tmp
-*.temp
-
-# Local Data Storage
-storage/
+# Replit
+.cache/
+.local/
