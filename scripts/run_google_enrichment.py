@@ -33,7 +33,9 @@ async def main():
     enrichor = GoogleEnrichor()
     
     # 1. READ SILVER DATA (UNIQUE POIs)
-    cities = ["hanoi", "danang", "hcm", "dalat"] # Start with main cities
+    cities_env = os.getenv("SMART_TRAVEL_CITIES", "hanoi,danang,hcm,dalat")
+    cities = [c.strip() for c in cities_env.split(",") if c.strip()]
+
     
     for city in cities:
         logger.info(f"🔍 Starting Google Enrichment for {city}...")

@@ -4,7 +4,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import yaml
 import logging
 from minio import Minio
-from src.ingestion.silver_processor import SilverProcessor
+from src.transformers.silver_processor import SilverProcessor
 
 from src.shared.path_manager import get_path, DOTENV_PATH
 from dotenv import load_dotenv
