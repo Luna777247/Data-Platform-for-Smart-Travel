@@ -1,0 +1,81 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: smart-travel-frontend
+  labels:
+    app: smart-travel-frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: smart-travel-frontend
+  template:
+    metadata:
+      labels:
+        app: smart-travel-frontend
+    spec:
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 10001
+        runAsGroup: 10001
+        fsGroup: 10001
+        seccompProfile:
+          type: RuntimeDefault
+      containers:
+      - name: frontend
+        image: myorg/smart-travel-frontend:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 3000
+        env:
+        - name: NEXT_PUBLIC_API_URL
+          value: "https://smart-travel.example.com/api"
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "256Mi"
+            cpu: "200m"
+        securityContext:
+          allowPrivilegeEscalation: false
+          readOnlyRootFilesystem: true
+          capabilities:
+            drop:
+              - ALL
+        livenessProbe:
+          httpGet:
+            path: /
+            port: 3000
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /
+            port: 3000
+          initialDelaySeconds: 5
+          periodSeconds: 5
+        volumeMounts:
+        - name: tmp
+          mountPath: /tmp
+        - name: next-cache
+          mountPath: /app/.next/cache
+      volumes:
+      - name: tmp
+        emptyDir: {}
+      - name: next-cache
+        emptyDir: {}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: smart-travel-frontend-service
+  labels:
+    app: smart-travel-frontend
+spec:
+  selector:
+    app: smart-travel-frontend
+  ports:
+  - port: 80
+    targetPort: 3000
+  type: ClusterIP

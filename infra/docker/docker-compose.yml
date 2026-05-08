@@ -1,0 +1,194 @@
+version: '3.8'
+
+services:
+  # Database Layer
+  mongodb:
+    image: mongo:6.0
+    container_name: smart_travel_mongo
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD:?required}
+      MONGO_INITDB_DATABASE: smart_travel
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    healthcheck:
+      test: [ "CMD", "mongosh", "--eval", "db.adminCommand('ping')" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  postgres:
+    image: postgis/postgis:15-3.3
+    container_name: smart_travel_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?required}
+      POSTGRES_DB: smart_travel
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U admin -d smart_travel" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: smart_travel_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: [ "CMD", "redis-cli", "ping" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  minio:
+    image: minio/minio:RELEASE.2026-01-26T00-23-51Z
+    container_name: smart_travel_minio
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ACCESS_KEY:?required}
+      MINIO_ROOT_PASSWORD: ${MINIO_SECRET_KEY:?required}
+    command: server /data --console-address ":9001"
+    volumes:
+      - minio_data:/data
+
+  # API Layer
+  backend:
+    build:
+      context: ../..
+      dockerfile: infra/docker/Dockerfile.backend
+    container_name: smart_travel_backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGODB_URI=${MONGODB_URI:?required}
+      - DB_NAME=smart_travel
+      - POSTGRES_URL=${POSTGRES_URL:?required}
+      - REDIS_URL=redis://redis:6379
+      - ENVIRONMENT=production
+      - LOG_LEVEL=INFO
+      - JWT_SECRET=${JWT_SECRET:?required}
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:?required}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:?required}
+      - MINIO_ENDPOINT=${MINIO_ENDPOINT:-minio:9000}
+      - MINIO_SECURE=${MINIO_SECURE:-false}
+    depends_on:
+      mongodb:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      minio:
+        condition: service_started
+    healthcheck:
+      test: [ "CMD", "python", "-c", "import httpx; r = httpx.get('http://localhost:8000/api/health'); exit(0 if r.status_code==200 else 1)" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Frontend Layer
+  frontend:
+    build:
+      context: ../../apps/frontend
+      dockerfile: Dockerfile
+    container_name: smart_travel_frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000/api
+    depends_on:
+      - backend
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:3000" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Pipeline Layer
+  airflow-webserver:
+    build:
+      context: ../..
+      dockerfile: infra/docker/Dockerfile.airflow
+    container_name: smart_travel_airflow_webserver
+    restart: unless-stopped
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=${AIRFLOW__DATABASE__SQL_ALCHEMY_CONN:?required}
+      - AIRFLOW__CORE__FERNET_KEY=${AIRFLOW_FERNET_KEY:?required}
+      - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - AIRFLOW__WEBSERVER__SECRET_KEY=${AIRFLOW_WEBSERVER_SECRET:?required}
+      - PYTHONPATH=/opt/airflow
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:?required}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:?required}
+      - MINIO_ENDPOINT=${MINIO_ENDPOINT:-minio:9000}
+      - MINIO_SECURE=${MINIO_SECURE:-false}
+    ports:
+      - "8080:8080"
+    volumes:
+      - ../../dags:/opt/airflow/dags
+      - ../../src:/opt/airflow/src
+      - airflow_logs:/opt/airflow/logs
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: webserver
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8080/health" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  airflow-scheduler:
+    build:
+      context: ../..
+      dockerfile: infra/docker/Dockerfile.airflow
+    container_name: smart_travel_airflow_scheduler
+    restart: unless-stopped
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=${AIRFLOW__DATABASE__SQL_ALCHEMY_CONN:?required}
+      - AIRFLOW__CORE__FERNET_KEY=${AIRFLOW_FERNET_KEY:?required}
+      - AIRFLOW__CORE__DAGS_FOLDER=/opt/airflow/dags
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - PYTHONPATH=/opt/airflow
+      - MINIO_ACCESS_KEY=${MINIO_ACCESS_KEY:?required}
+      - MINIO_SECRET_KEY=${MINIO_SECRET_KEY:?required}
+      - MINIO_ENDPOINT=${MINIO_ENDPOINT:-minio:9000}
+      - MINIO_SECURE=${MINIO_SECURE:-false}
+    volumes:
+      - ../../dags:/opt/airflow/dags
+      - ../../src:/opt/airflow/src
+      - airflow_logs:/opt/airflow/logs
+    depends_on:
+      postgres:
+        condition: service_healthy
+      airflow-webserver:
+        condition: service_healthy
+      minio:
+        condition: service_started
+    command: scheduler
+
+volumes:
+  mongodb_data:
+  postgres_data:
+  redis_data:
+  minio_data:
+  airflow_logs:

@@ -1,0 +1,92 @@
+﻿import json
+import os
+import logging
+from datetime import datetime, timezone
+from minio import Minio
+from io import BytesIO
+from src.shared.data_utils import make_ukey
+
+# Configure Logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
+logger = logging.getLogger(__name__)
+
+class BronzeWriter:
+    def __init__(self, endpoint=None, access_key=None, secret_key=None, secure=False):
+        endpoint = endpoint or os.getenv("MINIO_ENDPOINT", "localhost:9000")
+        access_key = access_key or os.getenv("MINIO_ACCESS_KEY") or os.getenv("MINIO_ROOT_USER")
+        secret_key = secret_key or os.getenv("MINIO_SECRET_KEY") or os.getenv("MINIO_ROOT_PASSWORD")
+        try:
+            # Enterprise-grade: use short timeout and no retries for initial check
+            from urllib3 import PoolManager, Timeout, Retry
+            http_client = PoolManager(
+                timeout=Timeout(connect=1.0, read=2.0),
+                retries=Retry(total=0)
+            )
+            
+            self.client = Minio(
+                endpoint,
+                access_key=access_key,
+                secret_key=secret_key,
+                secure=secure,
+                http_client=http_client
+            )
+            self.bucket = "lakehouse"
+            self.minio_active = False 
+            
+            self._ensure_bucket()
+            self.minio_active = True
+
+        except Exception as e:
+            logger.error(f"❌ MinIO connection failed: {e}. Switching to LOCAL ONLY mode.")
+            self.minio_active = False
+
+    def _ensure_bucket(self):
+        if not self.client.bucket_exists(self.bucket):
+            self.client.make_bucket(self.bucket)
+            logger.info(f"Created bucket: {self.bucket}")
+
+    def write_raw(self, source: str, city: str, data: list):
+        """
+        Ghi dữ liệu thô vào Bronze Layer. Tự động Fallback về Local nếu MinIO offline.
+        """
+        now = datetime.now(timezone.utc)
+        timestamp = now.strftime("%Y%m%d_%H%M%S")
+        
+        # 1. ÁP DỤNG CHUẨN ĐỊNH DANH (u_key)
+        for item in data:
+            # Linh hoạt trích xuất tọa độ (hỗ trợ cả lon/lng và nested)
+            lat = item.get("lat") or item.get("location", {}).get("lat")
+            lon = item.get("lon") or item.get("lng") or item.get("location", {}).get("lon") or item.get("location", {}).get("lng")
+            
+            # Chỉ tạo u_key nếu có đủ tọa độ
+            if item.get("name") and lat is not None and lon is not None:
+                item["u_key"] = make_ukey(item.get("name"), lat, lon)
+            item["ingestion_at"] = now.isoformat()
+
+        file_name = f"bronze/{source}/{city}/{timestamp}.json"
+        
+        try:
+            # TRY MINIO
+            if self.minio_active:
+                content = json.dumps(data, ensure_ascii=False, indent=2).encode('utf-8')
+                self.client.put_object(self.bucket, file_name, BytesIO(content), length=len(content), content_type="application/json")
+                logger.info(f"🚀 [MINIO] Saved {len(data)} records to {file_name}")
+            else:
+                raise ConnectionError("MinIO marked as inactive.")
+        except Exception:
+            # FALLBACK TO LOCAL
+            local_path = os.path.join("storage", file_name)
+            os.makedirs(os.path.dirname(local_path), exist_ok=True)
+            with open(local_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            logger.warning(f"⚠️ [FALLBACK] MinIO Offline. Saved {len(data)} records to local: {local_path}")
+            
+        return file_name
+
+# For local testing/integration
+if __name__ == "__main__":
+    # Test connection
+    # Use environment variables for local testing; defaults are in .env or environment
+    writer = BronzeWriter()
+    test_data = [{"name": "Test Place", "location": {"lat": 21.0285, "lon": 105.8542}}]
+    writer.write_raw("osm", "hanoi", test_data)
