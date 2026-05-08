@@ -15,8 +15,7 @@ class LoginRequest(BaseModel):
     password: str
 
 # --- Authentication ---
-@router.post("/auth/login")
-async def login(data: LoginRequest):
+async def _login(data: LoginRequest):
     users = await repo.get_users()
     user = next((u for u in users if u["email"] == data.username), None)
     
@@ -27,6 +26,17 @@ async def login(data: LoginRequest):
         data={"sub": user["email"], "role": user["role"]}
     )
     return {"access_token": access_token, "token_type": "bearer", "user": user}
+
+
+@router.post("/auth/login")
+async def login(data: LoginRequest):
+    return await _login(data)
+
+
+@router.post("/login")
+async def login_legacy(data: LoginRequest):
+    return await _login(data)
+
 
 # --- Enterprise Observability ---
 @router.get("/quality-stats")
