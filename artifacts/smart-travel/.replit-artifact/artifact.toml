@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Smart Travel Dashboard"
+version = "1.0.0"
+id = "artifacts/smart-travel"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25914
+
+[services.development]
+run = "pnpm --filter @workspace/smart-travel run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/smart-travel", "run", "build" ]
+publicDir = "artifacts/smart-travel/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25914"
+BASE_PATH = "/"
