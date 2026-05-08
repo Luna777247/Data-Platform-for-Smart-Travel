@@ -9,16 +9,26 @@ class GoogleEnricher:
         self.city = city
         self.api_key = api_key
         self.base_url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
-        self.city_queries = {
-            "hanoi": "tourist attractions in Hanoi Vietnam",
-            "hcm": "tourist attractions in Ho Chi Minh City Vietnam",
-            "danang": "tourist attractions in Da Nang Vietnam",
-        }
+        self._load_city_config()
+
+    def _load_city_config(self):
+        from src.shared.path_manager import ROOT_DIR
+        import json
+        import os
+        
+        config_path = os.path.join(ROOT_DIR, "storage", "configs", "cities.json")
+        try:
+            with open(config_path, "r", encoding="utf-8") as f:
+                self.city_config = json.load(f)
+        except Exception:
+            self.city_config = {}
 
     async def enrich(self) -> List[BronzePlace]:
-        query = self.city_queries.get(self.city)
-        if not query:
-            raise ValueError(f"Unsupported city: {self.city}")
+        city_data = self.city_config.get(self.city, {})
+        city_name = city_data.get("name", self.city)
+        country = city_data.get("country", "")
+        
+        query = f"tourist attractions in {city_name} {country}".strip()
 
         params = {
             "query": query,

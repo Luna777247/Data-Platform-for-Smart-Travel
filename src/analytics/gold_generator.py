@@ -61,5 +61,33 @@ class GoldGenerator:
         )
         logger.info(f"Saved Gold table: {path}")
 
+    async def generate_for_city(self, city: str) -> dict:
+        """Generate analytics specific to a city."""
+        logger.info(f"Generating analytics for city: {city}")
+        
+        # Load silver data for this city
+        obj_name = f"silver/pois_cleaned/{city}.parquet"
+        try:
+            response = self.minio.get_object(self.bucket, obj_name)
+            df = pd.read_parquet(BytesIO(response.read()))
+        except Exception:
+            logger.warning(f"No silver data found for {city}")
+            return {"status": "no_data", "city": city}
+
+        # Example city-specific analytics: Category distribution
+        cat_dist = df.explode('categories')['categories'].value_counts().to_dict()
+        
+        result = {
+            "city": city,
+            "total_places": len(df),
+            "avg_rating": float(df['rating'].mean()) if 'rating' in df.columns else 0.0,
+            "category_distribution": cat_dist
+        }
+        
+        # Write to gold
+        self._write_gold(f"city_analytics_{city}", pd.DataFrame([result]))
+        
+        return result
+
 if __name__ == "__main__":
     pass

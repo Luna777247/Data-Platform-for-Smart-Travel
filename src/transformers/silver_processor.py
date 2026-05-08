@@ -4,111 +4,128 @@ from src.shared.data_contracts import SilverPlace
 import re
 
 
-class SilverTransformer:
-    def __init__(self, mongo_client: AsyncIOMotorClient):
-        self.mongo_client = mongo_client
-        self.bronze_collection = mongo_client.smart_travel.places_bronze
-        self.silver_collection = mongo_client.smart_travel.places_silver
+import pandas as pd
+import json
+import os
+import logging
+import asyncio
+import re
+from typing import List, Dict, Optional
+from datetime import datetime, timezone
+from motor.motor_asyncio import AsyncIOMotorClient
 
-    async def process(self, city: str) -> int:
-        """Clean bronze data and insert into silver collection."""
-        raw_places = await self.bronze_collection.find({"city": city}).to_list(length=None)
+logger = logging.getLogger(__name__)
 
-        cleaned_places = []
-        for raw in raw_places:
-            cleaned = self._clean_place_data(raw)
-            if cleaned:
-                cleaned_places.append(cleaned)
+class SilverProcessor:
+    def __init__(self, mongo_client: Optional[AsyncIOMotorClient] = None):
+        if not mongo_client:
+            from app.api.dependencies.database import mongo_client as default_client
+            self.mongo_client = default_client
+        else:
+            self.mongo_client = mongo_client
+            
+        self.bronze_collection = self.mongo_client.smart_travel.places_bronze
+        self.silver_collection = self.mongo_client.smart_travel.places_silver
 
-        # Deduplication
-        deduplicated = self._deduplicate_places(cleaned_places)
+    def process_city(self, city: str):
+        """Orchestrates the silver processing steps for a city."""
+        logger.info(f"✨ >>> STARTING SILVER PROCESSING FOR: {city.upper()} <<<")
+        
+        # 1. OSM to Silver
+        self._process_osm(city)
+        
+        # 2. Google to Silver
+        self._process_google(city)
+        
+        # 3. Merge and Save
+        self._merge_and_save(city)
+        
+        logger.info(f"✅ >>> SILVER PROCESSING COMPLETE FOR: {city.upper()} <<<")
 
-        # Insert into silver
-        if deduplicated:
-            await self.silver_collection.insert_many(deduplicated)
+    def _process_osm(self, city: str):
+        from src.shared.path_manager import get_path
+        from src.shared.data_utils import make_ukey
+        
+        osm_dir = get_path(f"storage/bronze/osm/{city}")
+        if not os.path.exists(osm_dir):
+            return
 
-        return len(deduplicated)
+        all_data = []
+        for file in [f for f in os.listdir(osm_dir) if f.endswith(".json")]:
+            with open(os.path.join(osm_dir, file), "r", encoding="utf-8") as f:
+                data = json.load(f)
+                all_data.extend(data if isinstance(data, list) else [data])
+        
+        df = pd.DataFrame(all_data)
+        if df.empty: return
+        
+        # Map OSM tags to silver schema
+        df['name'] = df['raw_data'].apply(lambda x: x.get('tags', {}).get('name', '').strip())
+        df['address'] = df['raw_data'].apply(self._build_osm_address)
+        df['latitude'] = df['raw_data'].apply(lambda x: x.get('center', {}).get('lat', 0.0))
+        df['longitude'] = df['raw_data'].apply(lambda x: x.get('center', {}).get('lon', 0.0))
+        df['u_key'] = df.apply(lambda x: make_ukey(x['name'], x['latitude'], x['longitude']), axis=1)
+        
+        output_path = get_path(f"storage/silver/pois_osm/{city}/data.parquet")
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        df.to_parquet(output_path, index=False)
 
-    def _clean_place_data(self, raw_place: dict) -> Optional[SilverPlace]:
-        try:
-            if raw_place["source"] == "osm":
-                return self._clean_osm_place(raw_place)
-            elif raw_place["source"] == "google":
-                return self._clean_google_place(raw_place)
-        except (KeyError, TypeError):
-            return None
+    def _process_google(self, city: str):
+        from src.shared.path_manager import get_path
+        from src.shared.data_utils import make_ukey
+        
+        google_dir = get_path(f"storage/bronze/google/{city}")
+        if not os.path.exists(google_dir):
+            return
 
-    def _clean_osm_place(self, raw: dict) -> SilverPlace:
-        tags = raw["raw_data"]["tags"]
-        center = raw["raw_data"].get("center", {})
+        all_data = []
+        for file in [f for f in os.listdir(google_dir) if f.endswith(".json")]:
+            with open(os.path.join(google_dir, file), "r", encoding="utf-8") as f:
+                data = json.load(f)
+                all_data.extend(data if isinstance(data, list) else [data])
+        
+        df = pd.DataFrame(all_data)
+        if df.empty: return
+        
+        df['name'] = df['raw_data'].apply(lambda x: x.get('name', '').strip())
+        df['latitude'] = df['raw_data'].apply(lambda x: x.get('geometry', {}).get('location', {}).get('lat', 0.0))
+        df['longitude'] = df['raw_data'].apply(lambda x: x.get('geometry', {}).get('location', {}).get('lng', 0.0))
+        df['u_key'] = df.apply(lambda x: make_ukey(x['name'], x['latitude'], x['longitude']), axis=1)
+        
+        output_path = get_path(f"storage/silver/pois_google/{city}/data.parquet")
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        df.to_parquet(output_path, index=False)
 
-        return SilverPlace(
-            source_id=raw["source_id"],
-            raw_data=raw["raw_data"],
-            collected_at=raw["collected_at"],
-            city=raw["city"],
-            source=raw["source"],
-            name=tags.get("name", "").strip(),
-            address=self._build_osm_address(tags),
-            latitude=center.get("lat", 0.0),
-            longitude=center.get("lon", 0.0),
-            categories=self._extract_osm_categories(tags),
-            deduplication_key=self._generate_dedup_key(
-                tags.get("name", ""),
-                center.get("lat", 0.0),
-                center.get("lon", 0.0),
-            ),
-        )
+    def _merge_and_save(self, city: str):
+        from src.shared.path_manager import get_path
+        
+        osm_path = get_path(f"storage/silver/pois_osm/{city}/data.parquet")
+        google_path = get_path(f"storage/silver/pois_google/{city}/data.parquet")
+        
+        if not os.path.exists(osm_path): return
+        
+        df_osm = pd.read_parquet(osm_path)
+        if os.path.exists(google_path):
+            df_google = pd.read_parquet(google_path)
+            df_final = pd.merge(df_osm, df_google, on="u_key", how="outer", suffixes=('', '_google'))
+            # Combine logic...
+            df_final['name'] = df_final['name'].fillna(df_final['name_google'])
+        else:
+            df_final = df_osm
 
-    def _clean_google_place(self, raw: dict) -> SilverPlace:
-        result = raw["raw_data"]
+        final_path = get_path(f"storage/silver/pois_cleaned/{city}.parquet")
+        os.makedirs(os.path.dirname(final_path), exist_ok=True)
+        df_final.to_parquet(final_path, index=False)
+        
+        # Save to MongoDB
+        asyncio.run(self._save_to_mongo(df_final.to_dict('records')))
 
-        return SilverPlace(
-            source_id=raw["source_id"],
-            raw_data=raw["raw_data"],
-            collected_at=raw["collected_at"],
-            city=raw["city"],
-            source=raw["source"],
-            name=result.get("name", "").strip(),
-            address=result.get("formatted_address", ""),
-            latitude=result["geometry"]["location"]["lat"],
-            longitude=result["geometry"]["location"]["lng"],
-            categories=result.get("types", []),
-            deduplication_key=self._generate_dedup_key(
-                result.get("name", ""),
-                result["geometry"]["location"]["lat"],
-                result["geometry"]["location"]["lng"],
-            ),
-        )
+    async def _save_to_mongo(self, records: List[Dict]):
+        if not records: return
+        await self.silver_collection.delete_many({"u_key": {"$in": [r["u_key"] for r in records]}})
+        await self.silver_collection.insert_many(records)
 
-    def _deduplicate_places(self, places: List[SilverPlace]) -> List[dict]:
-        seen_keys = set()
-        deduplicated = []
-
-        for place in places:
-            if place.deduplication_key not in seen_keys:
-                seen_keys.add(place.deduplication_key)
-                deduplicated.append(place.model_dump())
-
-        return deduplicated
-
-    def _build_osm_address(self, tags: dict) -> str:
-        parts = []
-        for key in ["addr:housenumber", "addr:street", "addr:city"]:
-            if key in tags:
-                parts.append(tags[key])
-        return ", ".join(parts) if parts else ""
-
-    def _extract_osm_categories(self, tags: dict) -> List[str]:
-        categories = []
-        if "tourism" in tags:
-            categories.append(tags["tourism"])
-        if "amenity" in tags:
-            categories.append(tags["amenity"])
-        return categories
-
-    def _generate_dedup_key(self, name: str, lat: float, lng: float) -> str:
-        normalized_name = re.sub(r"[^\w\s]", "", name.lower()).strip()
-        lat_rounded = round(lat, 3)  # ~100m precision
-        lng_rounded = round(lng, 3)
-        return f"{normalized_name}_{lat_rounded}_{lng_rounded}"
+    def _build_osm_address(self, raw_data: dict) -> str:
+        tags = raw_data.get('tags', {})
+        parts = [tags.get(f"addr:{k}") for k in ["housenumber", "street", "city"] if tags.get(f"addr:{k}")]
+        return ", ".join(parts)

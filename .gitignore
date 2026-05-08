@@ -152,3 +152,6 @@ htmlcov/
 # Temporary files
 *.tmp
 *.temp
+
+# Local Data Storage
+storage/

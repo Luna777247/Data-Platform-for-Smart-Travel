@@ -1,0 +1,151 @@
+{
+  "timestamp": "20260508_002844",
+  "total_pois": 11147,
+  "total_cities": 12,
+  "cities": {
+    "mumbai": {
+      "total": 1763,
+      "categories": {
+        "attraction": 92,
+        "restaurant": 874,
+        "hotel": 264,
+        "cafe": 413,
+        "museum": 0,
+        "viewpoint": 36,
+        "park": 84
+      }
+    },
+    "delhi": {
+      "total": 3510,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 1726,
+        "hotel": 752,
+        "cafe": 723,
+        "museum": 41,
+        "viewpoint": 122,
+        "park": 146
+      }
+    },
+    "phuket": {
+      "total": 2335,
+      "categories": {
+        "attraction": 81,
+        "restaurant": 1354,
+        "hotel": 728,
+        "cafe": 0,
+        "museum": 6,
+        "viewpoint": 164,
+        "park": 2
+      }
+    },
+    "chiangrai": {
+      "total": 3539,
+      "categories": {
+        "attraction": 195,
+        "restaurant": 1580,
+        "hotel": 780,
+        "cafe": 715,
+        "museum": 27,
+        "viewpoint": 203,
+        "park": 39
+      }
+    },
+    "jakarta": {
+      "total": 0,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 0,
+        "hotel": 0,
+        "cafe": 0,
+        "museum": 0,
+        "viewpoint": 0,
+        "park": 0
+      }
+    },
+    "manila": {
+      "total": 0,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 0,
+        "hotel": 0,
+        "cafe": 0,
+        "museum": 0,
+        "viewpoint": 0,
+        "park": 0
+      }
+    },
+    "rome": {
+      "total": 0,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 0,
+        "hotel": 0,
+        "cafe": 0,
+        "museum": 0,
+        "viewpoint": 0,
+        "park": 0
+      }
+    },
+    "paris": {
+      "total": 0,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 0,
+        "hotel": 0,
+        "cafe": 0,
+        "museum": 0,
+        "viewpoint": 0,
+        "park": 0
+      }
+    },
+    "barcelona": {
+      "total": 0,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 0,
+        "hotel": 0,
+        "cafe": 0,
+        "museum": 0,
+        "viewpoint": 0,
+        "park": 0
+      }
+    },
+    "london": {
+      "total": 0,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 0,
+        "hotel": 0,
+        "cafe": 0,
+        "museum": 0,
+        "viewpoint": 0,
+        "park": 0
+      }
+    },
+    "dubai": {
+      "total": 0,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 0,
+        "hotel": 0,
+        "cafe": 0,
+        "museum": 0,
+        "viewpoint": 0,
+        "park": 0
+      }
+    },
+    "taipei": {
+      "total": 0,
+      "categories": {
+        "attraction": 0,
+        "restaurant": 0,
+        "hotel": 0,
+        "cafe": 0,
+        "museum": 0,
+        "viewpoint": 0,
+        "park": 0
+      }
+    }
+  }
+}

@@ -73,7 +73,6 @@ mongo_client = AsyncIOMotorClient(
     serverSelectionTimeoutMS=5000,
     maxPoolSize=50,         # Max connections in pool
     minPoolSize=10,         # Min connections to maintain
-    socket_keepalive=True,  # Keep connections alive
 )
 
 

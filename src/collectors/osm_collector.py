@@ -1,209 +1,131 @@
 ﻿# src/collectors/osm_collector.py
-import requests
 import logging
 import json
 import os
-from typing import List, Dict, Any
 import time
+import random
+import asyncio
+from typing import List, Dict, Any
+from datetime import datetime
 
+import httpx
 from src.shared.data_utils import make_ukey
 from src.shared.path_manager import ROOT_DIR
+from src.shared.data_contracts import BronzePlace
 
 logger = logging.getLogger(__name__)
 
-import asyncio
-import httpx
-from datetime import datetime
-from src.shared.data_contracts import BronzePlace
-
 class OSMCollector:
-    def __init__(self, city: str):
+    def __init__(self, city: str = None):
         self.city = city
-        self.overpass_url = "https://lz4.overpass-api.de/api/interpreter"
-        self.city_queries = {
-            "hanoi": 'area["name"="Thành phố Hà Nội"]->.searchArea;',
-            "hcm": 'area["name"="Thành phố Hồ Chí Minh"]->.searchArea;',
-            "danang": 'area["name"="Thành phố Đà Nẵng"]->.searchArea;'
-        }
-
-    async def collect(self) -> list:
-        if self.city not in self.city_queries:
-            return []
-            
-        # Simplified query for testing
-        query = f"""
-        [out:json][timeout:25];
-        {self.city_queries[self.city]}
-        node["tourism"="attraction"](area.searchArea);
-        out center meta;
-        """
-        
-        async with httpx.AsyncClient(timeout=30.0) as client:
-            try:
-                response = await client.post(self.overpass_url, data={'data': query})
-                response.raise_for_status()
-                data = response.json()
-            except Exception as e:
-                logger.error(f"Failed to fetch OSM data: {e}")
-                return []
-
-        places = []
-        for element in data.get('elements', [])[:10]: # Limit to 10 for quick testing
-            place = BronzePlace(
-                source_id=str(element["id"]),
-                raw_data=element,
-                collected_at=datetime.utcnow(),
-                city=self.city,
-                source="osm"
-            )
-            places.append(place)
-
-        return places
+        self.base_path = ROOT_DIR
+        self.load_config()
 
     def load_config(self):
         """Load cities and types from JSON config files."""
         cities_path = os.path.join(self.base_path, "storage", "configs", "cities.json")
         types_path = os.path.join(self.base_path, "storage", "configs", "poi_types.json")
+        settings_path = os.path.join(self.base_path, "storage", "configs", "osm_settings.json")
 
         try:
             with open(cities_path, "r", encoding="utf-8") as f:
                 self.city_config = json.load(f)
             with open(types_path, "r", encoding="utf-8") as f:
                 self.type_query_map = json.load(f)
+            with open(settings_path, "r", encoding="utf-8") as f:
+                self.settings = json.load(f)
+            
+            self.overpass_urls = self.settings.get("overpass_urls", ["https://lz4.overpass-api.de/api/interpreter"])
+            
             logger.info(f"Loaded {len(self.city_config)} cities and {len(self.type_query_map)} types from config.")
         except Exception as e:
             logger.error(f"Error loading config files: {e}")
             # Fallbacks
-            self.city_config = {"hanoi": {"name": "Thành phố Hà Nội"}}
+            self.city_config = {
+                "hanoi": {"name": "Thành phố Hà Nội"},
+                "hcm": {"name": "Thành phố Hồ chí Minh"},
+                "danang": {"name": "Thành phố Đà Nẵng"}
+            }
             self.type_query_map = {"attraction": 'node["tourism"="attraction"](area.searchArea);'}
+            self.overpass_urls = ["https://lz4.overpass-api.de/api/interpreter"]
 
-    def fetch_data(self, city: str, category: str, limit: int = 150) -> List[Dict[str, Any]]:
-        import random
-        user_agents = [
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "SmartTourismProject/1.0 (Research Purpose; contact@smarttravel.vn)"
-        ]
-
-        if city not in self.city_config:
-            logger.error(f"City '{city}' not found in config.")
+    async def collect(self, city: str = None) -> List[BronzePlace]:
+        """
+        Collect all POIs for the configured city using all categories in poi_types.json.
+        """
+        target_city = city or self.city
+        if not target_city or target_city not in self.city_config:
+            logger.error(f"City '{target_city}' not found in configuration.")
             return []
 
-        if category not in self.type_query_map:
-            logger.error(f"Category '{category}' not found in config.")
+        all_places = []
+        for category in self.type_query_map.keys():
+            raw_data = await self.fetch_data_async(target_city, category)
+            for item in raw_data:
+                place = BronzePlace(
+                    source_id=str(item.get("id") or item.get("osm_id")),
+                    raw_data=item,
+                    collected_at=datetime.utcnow(),
+                    city=target_city,
+                    source="osm"
+                )
+                all_places.append(place)
+        
+        return all_places
+
+    async def fetch_data_async(self, city: str, category: str, limit: int = 50000) -> List[Dict[str, Any]]:
+        """Async version of fetch_data."""
+        if city not in self.city_config or category not in self.type_query_map:
             return []
 
         city_data = self.city_config[city]
+        city_name = city_data.get('name', city)
         query_template = self.type_query_map[category]
-
-        # Build Overpass query
+        
         query = f"""
-        [out:json][timeout:25];
-        area["name"="{city_data['name']}"]->.searchArea;
+        [out:json][timeout:60];
+        area["name"="{city_name}"]->.searchArea;
         (
           {query_template}
         );
         out center meta;
         """
+        
+        user_agents = [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edge/120.0.0.0",
+            "SmartTourismProject/1.0 (Research; contact@smarttravel.vn)"
+        ]
 
-        logger.info(f"Fetching OSM data for {city} - {category}")
-
-        for url in self.overpass_urls:
-            try:
-                headers = {
-                    'User-Agent': random.choice(user_agents),
-                    'Accept': 'application/json',
-                    'Accept-Language': 'en-US,en;q=0.9',
-                }
-
-                response = requests.post(url, data={'data': query}, headers=headers, timeout=30)
-                response.raise_for_status()
-
-                data = response.json()
-                elements = data.get('elements', [])
-
-                if not elements:
-                    logger.warning(f"No data found for {city} - {category} from {url}")
+        async with httpx.AsyncClient(timeout=60.0) as client:
+            for url in self.overpass_urls:
+                try:
+                    headers = {
+                        'User-Agent': random.choice(user_agents),
+                        'Accept': 'application/json, text/javascript, */*; q=0.01',
+                        'Accept-Language': 'en-US,en;q=0.9,vi;q=0.8',
+                        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                        'Origin': 'https://overpass-turbo.eu',
+                        'Referer': 'https://overpass-turbo.eu/'
+                    }
+                    response = await client.post(url, data={'data': query}, headers=headers)
+                    response.raise_for_status()
+                    data = response.json()
+                    elements = data.get('elements', [])
+                    logger.info(f"✅ Found {len(elements)} items for {category} in {city}")
+                    return elements[:limit]
+                except Exception as e:
+                    logger.warning(f"⚠️ Failed to fetch {category} from {url}: {e}")
                     continue
-
-                # Process and return data
-                processed_data = []
-                for element in elements[:limit]:
-                    processed_item = self._process_element(element, city, category)
-                    if processed_item:
-                        processed_data.append(processed_item)
-
-                logger.info(f"Successfully fetched {len(processed_data)} items from {url}")
-                return processed_data
-
-            except requests.exceptions.RequestException as e:
-                logger.warning(f"Failed to fetch from {url}: {e}")
-                time.sleep(1)  # Brief pause before trying next URL
-                continue
-
-        logger.error(f"All Overpass URLs failed for {city} - {category}")
         return []
 
-    def _process_element(self, element: Dict[str, Any], city: str, category: str) -> Dict[str, Any]:
-        """Process a single OSM element into our data format."""
+    def fetch_data(self, city: str, category: str, limit: int = 1000) -> List[Dict[str, Any]]:
+        """Synchronous wrapper for fetch_data_async."""
         try:
-            tags = element.get('tags', {})
-            center = element.get('center', {})
-
-            # Extract coordinates
-            lat = center.get('lat') or element.get('lat')
-            lon = center.get('lon') or element.get('lon')
-
-            if not lat or not lon:
-                return None
-
-            # Build address from tags
-            address_parts = []
-            if tags.get('addr:housenumber'):
-                address_parts.append(tags['addr:housenumber'])
-            if tags.get('addr:street'):
-                address_parts.append(tags['addr:street'])
-            if tags.get('addr:city'):
-                address_parts.append(tags['addr:city'])
-            address = ', '.join(address_parts) if address_parts else None
-
-            # Create processed item
-            item = {
-                'ukey': make_ukey(city, category, str(element['id'])),
-                'osm_id': element['id'],
-                'name': tags.get('name', f"Unnamed {category}"),
-                'category': category,
-                'city': city,
-                'latitude': float(lat),
-                'longitude': float(lon),
-                'address': address,
-                'tags': tags,
-                'source': 'osm',
-                'collected_at': time.time()
-            }
-
-            return item
-
-        except Exception as e:
-            logger.error(f"Error processing element {element.get('id')}: {e}")
-            return None
-
-    def save_to_file(self, data: List[Dict[str, Any]], city: str, category: str):
-        """Save collected data to bronze storage."""
-        if not data:
-            logger.warning(f"No data to save for {city} - {category}")
-            return
-
-        bronze_dir = os.path.join(self.base_path, "storage", "bronze", "osm")
-        os.makedirs(bronze_dir, exist_ok=True)
-
-        filename = f"{city}_{category}_{int(time.time())}.json"
-        filepath = os.path.join(bronze_dir, filename)
-
-        try:
-            with open(filepath, 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=2)
-            logger.info(f"Saved {len(data)} items to {filepath}")
-        except Exception as e:
-            logger.error(f"Error saving data to {filepath}: {e}")
+            loop = asyncio.get_event_loop()
+        except RuntimeError:
+            loop = asyncio.new_event_loop()
+            asyncio.set_event_loop(loop)
+            
+        return loop.run_until_complete(self.fetch_data_async(city, category, limit))

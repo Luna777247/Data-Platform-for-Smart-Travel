@@ -34,16 +34,16 @@ async def run_end_to_end():
     logger.info("🚀 INITIATING END-TO-END DATA PIPELINE (PHASE 1)")
     
     # STEP 1: BRONZE (Ingestion)
-    if not await run_step("BRONZE_INGESTION", "run_bronze.py"): return
+    if not await run_step("BRONZE_INGESTION", "scripts/run_bronze.py"): return
     
     # STEP 2: SILVER (Processing & Quality)
-    if not await run_step("SILVER_PROCESSING", "run_silver.py"): return
+    if not await run_step("SILVER_PROCESSING", "scripts/run_silver.py"): return
     
     # STEP 3: SERVING (Postgres Load)
-    if not await run_step("POSTGRES_LOAD", "run_postgres_loader.py"): return
+    if not await run_step("POSTGRES_LOAD", "scripts/run_postgres_loader.py"): return
     
     # STEP 4: GOLD (Analytics)
-    if not await run_step("GOLD_ANALYTICS", "run_gold.py"): return
+    if not await run_step("GOLD_ANALYTICS", "scripts/run_gold.py"): return
 
     logger.info("🏆 PIPELINE RUN FINISHED SUCCESSFULLY")
 

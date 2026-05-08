@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // Use Next.js public env variable with a sane default
-const baseURL = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:8000'
+const baseURL = process.env.NEXT_PUBLIC_API_URL || process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:8000/api'
 
 console.log('[API Client] Initialized with baseURL:', baseURL)
 
@@ -55,7 +55,7 @@ apiClient.interceptors.request.use(
 apiClient.interceptors.response.use(
   (response) => {
     console.log('[API Response]', response.status, response.config.url, '- Response time:', response.headers['x-response-time'] || 'N/A')
-    
+
     // Cache successful GET responses (skip cached responses)
     if (response.config.method === 'get' && !response.cached) {
       const cacheKey = `${response.config.baseURL}${response.config.url}`
@@ -64,7 +64,7 @@ apiClient.interceptors.response.use(
         timestamp: Date.now()
       })
     }
-    
+
     return response
   },
   (error) => {
@@ -77,7 +77,7 @@ apiClient.interceptors.response.use(
       console.error('[API No Response]', 'No response from server', error.message)
       console.error('[API Request URL]', error.config?.baseURL + error.config?.url)
       console.error('[API Code]', error.code)
-      
+
       // Nếu timeout, gợi ý kiểm tra backend
       if (error.code === 'ECONNABORTED' || error.message?.includes('timeout')) {
         console.warn('[API Timeout Warning] Backend có thể chậm. Hãy kiểm tra:')

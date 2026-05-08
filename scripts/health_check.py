@@ -1,21 +1,30 @@
 import asyncio
 import os
-from app.db.client import MongoClient
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "apps", "backend"))
+
+from src.shared.path_manager import DOTENV_PATH
+from dotenv import load_dotenv
+load_dotenv(DOTENV_PATH)
+
+from app.api.dependencies.database import mongo_client as client
 
 async def check_health():
     print("--- SYSTEM HEALTH CHECK ---")
     
     # 1. MongoDB
     print("Checking MongoDB...")
-    await MongoClient.connect()
-    if MongoClient.is_connected:
+    try:
+        await client.admin.command('ping')
         print("✅ MongoDB: Connected")
-        db = MongoClient.get_db()
+        db_name = os.getenv("DB_NAME", "smart_travel")
+        db = client[db_name]
         stats = await db.command("dbStats")
         print(f"   Collections: {stats.get('collections')}")
         print(f"   Objects: {stats.get('objects')}")
-    else:
-        print("❌ MongoDB: Disconnected")
+    except Exception as e:
+        print(f"❌ MongoDB: Connection failed - {e}")
 
     # 2. Storage
     print("\nChecking Local Storage...")
@@ -38,7 +47,29 @@ async def check_health():
     else:
         print("⚠️ MinIO: Offline (Local Fallback Active)")
 
-    await MongoClient.disconnect()
+    # 4. PostgreSQL
+    print("\nChecking PostgreSQL...")
+    from app.api.dependencies.database import engine
+    from sqlalchemy import text
+    try:
+        async with engine.connect() as conn:
+            await conn.execute(text("SELECT 1"))
+        print("✅ PostgreSQL: Connected")
+    except Exception as e:
+        print(f"❌ PostgreSQL: Connection failed - {e}")
+
+    # 5. Redis
+    print("\nChecking Redis...")
+    from app.api.dependencies.database import redis_client
+    try:
+        await redis_client.ping()
+        print("✅ Redis: Connected")
+    except Exception as e:
+        print(f"❌ Redis: Connection failed - {e}")
+
+    client.close()
+    await engine.dispose()
+    await redis_client.aclose()
     print("\n--- HEALTH CHECK COMPLETE ---")
 
 if __name__ == "__main__":

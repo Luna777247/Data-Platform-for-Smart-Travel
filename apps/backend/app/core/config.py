@@ -2,7 +2,7 @@ from functools import lru_cache
 from urllib.parse import quote_plus
 
 from pydantic import Field, field_validator, model_validator
-from pydantic_settings import BaseSettings
+from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
 _ALLOWED_JWT_ALGORITHMS = {"HS256", "HS384", "HS512"}
@@ -57,13 +57,13 @@ class Settings(BaseSettings):
     use_docker_secrets: bool = Field(default=True, alias="USE_DOCKER_SECRETS")
     vault_addr: str | None = Field(default=None, alias="VAULT_ADDR")
 
-    model_config = {
-        "env_file": ".env",
-        "env_file_encoding": "utf-8",
-        "secrets_dir": "/run/secrets",
-        "populate_by_name": True,
-        "extra": "ignore",
-    }
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        env_file_encoding="utf-8",
+        secrets_dir="/run/secrets",
+        populate_by_name=True,
+        extra="ignore",
+    )
 
     @field_validator("algorithm")
     @classmethod
@@ -85,6 +85,7 @@ class Settings(BaseSettings):
 
     @model_validator(mode="after")
     def validate_security_configuration(self):
+        print("DEBUG: Validation started")
         production_mode = self.environment.lower() in {"prod", "production"}
 
         if self.access_token_expire_minutes <= 0:

@@ -27,7 +27,7 @@ logger = logging.getLogger(__name__)
 # ============================================================================
 
 # Cities to process (can be overridden via Airflow Variables)
-CITIES = os.getenv("SMART_TRAVEL_CITIES", "hanoi,hochiminh,danang").split(",")
+CITIES = [c.strip().lower() for c in os.getenv("SMART_TRAVEL_CITIES", "hanoi,hcm,danang").split(",") if c.strip()]
 
 # Default DAG arguments
 DEFAULT_ARGS: Dict[str, Any] = {

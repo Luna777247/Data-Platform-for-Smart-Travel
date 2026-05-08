@@ -6,7 +6,7 @@
         "country": "Vietnam"
     },
     "hcm": {
-        "name": "Thành phố Hồ chí Minh",
+        "name": "Thành phố Hồ Chí Minh",
         "lat": 10.8231,
         "lon": 106.6297,
         "country": "Vietnam"
@@ -171,5 +171,82 @@
         "lon": 78.0081,
         "country": "India",
         "highlight": "Thành phố của Taj Mahal"
+    },
+    "mumbai": {
+        "name": "Mumbai",
+        "lat": 19.0760,
+        "lon": 72.8777,
+        "country": "India",
+        "highlight": "Trung tâm kinh tế Ấn Độ, Bollywood"
+    },
+    "delhi": {
+        "name": "Delhi",
+        "lat": 28.7041,
+        "lon": 77.1025,
+        "country": "India",
+        "highlight": "Thủ đô Ấn Độ, lịch sử cổ"
+    },
+    "phuket": {
+        "name": "Phuket",
+        "lat": 7.8804,
+        "lon": 98.3923,
+        "country": "Thailand",
+        "highlight": "Du lịch biển Thái Lan, resort sang trọng"
+    },
+    "chiangrai": {
+        "name": "Chiang Rai",
+        "lat": 19.9101,
+        "lon": 99.8803,
+        "country": "Thailand",
+        "highlight": "Miền núi, tam giác vàng, văn hóa"
+    },
+    "jakarta": {
+        "name": "Jakarta",
+        "lat": -6.2088,
+        "lon": 106.8456,
+        "country": "Indonesia",
+        "highlight": "Thủ đô Indonesia, trung tâm kinh tế"
+    },
+    "manila": {
+        "name": "Manila",
+        "lat": 14.5995,
+        "lon": 120.9842,
+        "country": "Philippines",
+        "highlight": "Thủ đô Philippines, cảng chính"
+    },
+    "rome": {
+        "name": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964,
+        "country": "Italy",
+        "highlight": "Thành phố Vĩnh cửu, bảo tàng lịch sử"
+    },
+    "paris": {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "country": "France",
+        "highlight": "Thành phố ánh sáng, tình yêu, nghệ thuật"
+    },
+    "barcelona": {
+        "name": "Barcelona",
+        "lat": 41.3851,
+        "lon": 2.1734,
+        "country": "Spain",
+        "highlight": "Kiến trúc Gaudí, bãi biển, văn hóa"
+    },
+    "london": {
+        "name": "London",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "country": "England",
+        "highlight": "Thủ đô nước Anh, lịch sử hoàng gia"
+    },
+    "dubai": {
+        "name": "Dubai",
+        "lat": 25.2048,
+        "lon": 55.2708,
+        "country": "UAE",
+        "highlight": "Thành phố tương lai, shopping, du lịch"
     }
 }
