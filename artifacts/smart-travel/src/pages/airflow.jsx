@@ -26,7 +26,7 @@ export default function AirflowPage() {
       const res = await apiClient.get("/api/airflow/stats")
       setStats(res.data)
     } catch (err) {
-      console.error("[v0] Error fetching Airflow stats:", err)
+      console.error("Error fetching Airflow stats:", err)
       setError("Failed to load Airflow statistics")
     } finally {
       setLoading(false)

@@ -40,7 +40,7 @@ export function ParameterModeFormDialog({ mode, onSave, trigger }) {
       setOpen(false)
       onSave?.()
     } catch (err) {
-      console.error("[v0] Error saving parameter mode:", err)
+      console.error("Error saving parameter mode:", err)
     } finally {
       setLoading(false)
     }

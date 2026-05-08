@@ -23,7 +23,7 @@ export default function AdminPage() {
         const res = await apiClient.get("/api/system/status")
         setSystemStatus(res.data)
       } catch (err) {
-        console.error("[v0] Error fetching system status:", err)
+        console.error("Error fetching system status:", err)
         setError("Failed to load system status")
       } finally {
         setLoading(false)

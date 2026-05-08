@@ -34,7 +34,7 @@ export function AirflowDAGsList({ searchTerm, onStatsUpdate }) {
       const res = await apiClient.get("/api/airflow/dags")
       setDAGs(res.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching DAGs:", err)
+      console.error("Error fetching DAGs:", err)
       setError("Failed to load DAGs")
     } finally {
       setLoading(false)
@@ -48,7 +48,7 @@ export function AirflowDAGsList({ searchTerm, onStatsUpdate }) {
       loadDAGs()
       onStatsUpdate?.()
     } catch (err) {
-      console.error("[v0] Error triggering DAG:", err)
+      console.error("Error triggering DAG:", err)
       setError("Failed to trigger DAG")
     } finally {
       setActioningId(null)
@@ -62,7 +62,7 @@ export function AirflowDAGsList({ searchTerm, onStatsUpdate }) {
       loadDAGs()
       onStatsUpdate?.()
     } catch (err) {
-      console.error("[v0] Error pausing DAG:", err)
+      console.error("Error pausing DAG:", err)
       setError("Failed to pause DAG")
     } finally {
       setActioningId(null)
@@ -76,7 +76,7 @@ export function AirflowDAGsList({ searchTerm, onStatsUpdate }) {
       loadDAGs()
       onStatsUpdate?.()
     } catch (err) {
-      console.error("[v0] Error resuming DAG:", err)
+      console.error("Error resuming DAG:", err)
       setError("Failed to resume DAG")
     } finally {
       setActioningId(null)

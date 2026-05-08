@@ -43,19 +43,10 @@ export default function HomeDashboard() {
 
         // Fetch status stats
         const statusRes = await apiClient.get('/api/status')
-        console.log('[Dashboard] Status response:', statusRes.data)
+        // status loaded
 
         const data = statusRes.data
         setStats({
-          status: 'healthy', // Assume healthy if API responds
-          uptime: data.uptime,
-          connections: data.connections?.active || 0,
-          schedules: data.schedules?.total || 0,
-          totalRuns: data.runs?.total || 0,
-          runs24h: data.runs?.last24h || 0,
-          successRate: data.activity?.successRate || 0,
-        })
-        console.log('[Dashboard] Stats set:', {
           status: 'healthy',
           uptime: data.uptime,
           connections: data.connections?.active || 0,

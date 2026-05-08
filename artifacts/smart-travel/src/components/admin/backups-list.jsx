@@ -36,7 +36,7 @@ export function AdminBackupsList() {
       const res = await apiClient.get("/api/backups")
       setBackups(res.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching backups:", err)
+      console.error("Error fetching backups:", err)
       setError("Failed to load backups")
     } finally {
       setLoading(false)
@@ -49,7 +49,7 @@ export function AdminBackupsList() {
       const res = await apiClient.post("/api/backups", {})
       setBackups([res.data, ...backups])
     } catch (err) {
-      console.error("[v0] Error creating backup:", err)
+      console.error("Error creating backup:", err)
       setError("Failed to create backup")
     } finally {
       setCreatingBackup(false)
@@ -62,7 +62,7 @@ export function AdminBackupsList() {
       await apiClient.post(`/api/backups/${backupId}/restore`, {})
       setError(null)
     } catch (err) {
-      console.error("[v0] Error restoring backup:", err)
+      console.error("Error restoring backup:", err)
       setError("Failed to restore backup")
     } finally {
       setRestoringId(null)
@@ -75,7 +75,7 @@ export function AdminBackupsList() {
       await apiClient.delete(`/api/backups/${backupId}`)
       setBackups(backups.filter((b) => b.id !== backupId))
     } catch (err) {
-      console.error("[v0] Error deleting backup:", err)
+      console.error("Error deleting backup:", err)
       setError("Failed to delete backup")
     } finally {
       setDeletingId(null)

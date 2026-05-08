@@ -36,7 +36,7 @@ export default function NewReportPage() {
       const res = await apiClient.post("/api/reports", formData)
       navigate(`/reports/${res.data.id}`)
     } catch (err) {
-      console.error("[v0] Error creating report:", err)
+      console.error("Error creating report:", err)
       setError(err.response?.data?.message || "Failed to create report")
     } finally {
       setLoading(false)

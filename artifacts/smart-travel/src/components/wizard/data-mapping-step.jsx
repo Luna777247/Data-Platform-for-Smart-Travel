@@ -175,19 +175,10 @@ export function DataMappingStep({ data, apiConfig, parameters = [], onChange }) 
         }
       }
       const res = await apiClient.post('/api/test-connection', payload)
-      console.log('Full axios response:', res)
-      console.log('Response data:', res?.data)
 
       // Axios already parses JSON responses, so res.data should be the parsed object
       let json = res?.data
 
-      console.log('Parsed json from axios:', json)
-      console.log('Response structure check:')
-      console.log('- json exists:', !!json)
-      console.log('- json is object:', typeof json === 'object')
-      console.log('- json.response exists:', json && json.response)
-      console.log('- json.response.body exists:', json && json.response && json.response.body)
-      console.log('- json.response.body type:', json && json.response && json.response.body ? typeof json.response.body : 'N/A')
 
       // Extract fields from the actual API response data, not the test metadata
       let dataToExtract = json
@@ -195,20 +186,15 @@ export function DataMappingStep({ data, apiConfig, parameters = [], onChange }) 
 
       // PRIORITY: Always try to extract from response.body if it exists (this is the actual API data)
       if (json && typeof json === 'object' && json.response && json.response.body) {
-        console.log('Found response.body, attempting to parse...')
         try {
           // Parse the actual API response from the body
           const rawBody = json.response.body
-          console.log('Raw body to parse:', rawBody)
-          console.log('Raw body type:', typeof rawBody)
 
           let parsedBody
           if (typeof rawBody === 'string') {
             parsedBody = JSON.parse(rawBody)
-            console.log('Parsed string body:', parsedBody)
           } else {
             parsedBody = rawBody
-            console.log('Body was already object:', parsedBody)
           }
 
           // 3. If body after parsing is still a JSON string → parse one more time
@@ -216,9 +202,7 @@ export function DataMappingStep({ data, apiConfig, parameters = [], onChange }) 
             try {
               const doubleParsed = JSON.parse(parsedBody)
               parsedBody = doubleParsed
-              console.log('Double-parsed body (was JSON string):', doubleParsed)
             } catch (doubleParseError) {
-              console.log('Body is string but not JSON, keeping as-is')
             }
           }
           // 4. Normalize data structure before extraction
@@ -227,7 +211,6 @@ export function DataMappingStep({ data, apiConfig, parameters = [], onChange }) 
           // Automatically find main data array
           if (Array.isArray(parsedBody)) {
             normalizedData = parsedBody
-            console.log('Body is already an array, using directly')
           } else if (parsedBody?.body && Array.isArray(parsedBody.body)) {
             normalizedData = parsedBody.body
             console.log('Found array in parsedBody.body')

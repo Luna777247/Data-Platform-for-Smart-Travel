@@ -21,7 +21,7 @@ export function AirflowRunsHistory() {
       const res = await apiClient.get("/api/airflow/runs")
       setRuns(res.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching runs:", err)
+      console.error("Error fetching runs:", err)
       setError("Failed to load runs")
     } finally {
       setLoading(false)

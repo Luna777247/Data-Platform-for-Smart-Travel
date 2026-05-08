@@ -38,7 +38,7 @@ export default function ExportsPage() {
       const res = await apiClient.get("/api/exports")
       setExports(res.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching exports:", err)
+      console.error("Error fetching exports:", err)
       setError("Failed to load exports")
     } finally {
       setLoading(false)
@@ -51,7 +51,7 @@ export default function ExportsPage() {
       await apiClient.delete(`/api/exports/${exportId}`)
       setExports(exports.filter((e) => e.id !== exportId))
     } catch (err) {
-      console.error("[v0] Error deleting export:", err)
+      console.error("Error deleting export:", err)
       setError("Failed to delete export")
     } finally {
       setDeletingId(null)
@@ -69,7 +69,7 @@ export default function ExportsPage() {
       link.click()
       link.parentNode.removeChild(link)
     } catch (err) {
-      console.error("[v0] Error downloading export:", err)
+      console.error("Error downloading export:", err)
       setError("Failed to download export")
     }
   }

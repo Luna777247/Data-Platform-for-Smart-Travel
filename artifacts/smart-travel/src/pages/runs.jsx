@@ -50,15 +50,15 @@ export default function RunsPage() {
   useEffect(() => {
     apiClient.get('/api/runs')
       .then(res => {
-        console.log('[DEBUG] Full API Response:', res)
+        // response loaded
         const data = res?.data || {}
         const runsData = Array.isArray(data) ? data : (data.runs || [])
-        console.log('[DEBUG] Extracted runs:', runsData)
+        // runs extracted
         setRuns(runsData)
         setLoading(false)
       })
       .catch(err => {
-        console.error('[DEBUG] Error loading runs:', err)
+        console.error('Error loading runs:', err)
         setError('Failed to load runs')
         setLoading(false)
       })

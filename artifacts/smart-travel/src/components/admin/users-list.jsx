@@ -39,7 +39,7 @@ export function AdminUsersList() {
       const res = await apiClient.get("/api/users")
       setUsers(res.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching users:", err)
+      console.error("Error fetching users:", err)
       setError("Failed to load users")
     } finally {
       setLoading(false)
@@ -52,7 +52,7 @@ export function AdminUsersList() {
       await apiClient.delete(`/api/users/${userId}`)
       setUsers(users.filter((u) => u.id !== userId))
     } catch (err) {
-      console.error("[v0] Error deleting user:", err)
+      console.error("Error deleting user:", err)
       setError("Failed to delete user")
     } finally {
       setDeletingId(null)

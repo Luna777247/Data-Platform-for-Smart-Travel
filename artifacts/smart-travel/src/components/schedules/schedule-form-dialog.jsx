@@ -77,7 +77,7 @@ export function ScheduleFormDialog({ schedule, onSave, trigger, open: externalOp
       const response = await apiClient.get("/api/connections")
       setConnections(response.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching connections:", err)
+      console.error("Error fetching connections:", err)
     }
   }
 
@@ -124,7 +124,7 @@ export function ScheduleFormDialog({ schedule, onSave, trigger, open: externalOp
         onSave(response.data || response) // Handle both response formats
       }
     } catch (err) {
-      console.error("[v0] Error saving schedule:", err)
+      console.error("Error saving schedule:", err)
       // You might want to show an error message to the user here
     } finally {
       setLoading(false)

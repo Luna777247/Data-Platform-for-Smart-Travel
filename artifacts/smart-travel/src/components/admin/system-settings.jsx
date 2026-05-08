@@ -26,7 +26,7 @@ export function AdminSystemSettings() {
       const res = await apiClient.get("/api/system/settings")
       setSettings(res.data || {})
     } catch (err) {
-      console.error("[v0] Error fetching settings:", err)
+      console.error("Error fetching settings:", err)
       setError("Failed to load system settings")
     } finally {
       setLoading(false)
@@ -42,7 +42,7 @@ export function AdminSystemSettings() {
       setSuccess(true)
       setTimeout(() => setSuccess(false), 3000)
     } catch (err) {
-      console.error("[v0] Error saving settings:", err)
+      console.error("Error saving settings:", err)
       setError("Failed to save settings")
     } finally {
       setSaving(false)

@@ -39,7 +39,7 @@ export function UserFormDialog({ user, onSave, trigger }) {
       setOpen(false)
       onSave?.()
     } catch (err) {
-      console.error("[v0] Error saving user:", err)
+      console.error("Error saving user:", err)
     } finally {
       setLoading(false)
     }

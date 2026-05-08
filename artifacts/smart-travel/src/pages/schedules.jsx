@@ -43,7 +43,7 @@ export default function SchedulesPage() {
       }))
       setSchedules(mappedData)
     } catch (err) {
-      console.error("[v0] Error fetching schedules:", err)
+      console.error("Error fetching schedules:", err)
       setError(err instanceof Error ? err.message : "Failed to load schedules")
     } finally {
       setLoading(false)
@@ -67,7 +67,7 @@ export default function SchedulesPage() {
         )
       )
     } catch (err) {
-      console.error("[v0] Error updating schedule status:", err)
+      console.error("Error updating schedule status:", err)
       setError(`Failed to ${newStatus ? 'resume' : 'pause'} schedule`)
     } finally {
       setActioningId(null)
@@ -84,7 +84,7 @@ export default function SchedulesPage() {
       await apiClient.delete(`/api/schedules/${scheduleId}`)
       setSchedules(schedules.filter((s) => s.id !== scheduleId))
     } catch (err) {
-      console.error("[v0] Error deleting schedule:", err)
+      console.error("Error deleting schedule:", err)
       setError("Failed to delete schedule")
     } finally {
       setActioningId(null)

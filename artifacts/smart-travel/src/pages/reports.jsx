@@ -37,7 +37,7 @@ export default function ReportsPage() {
       const res = await apiClient.get("/api/reports")
       setReports(res.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching reports:", err)
+      console.error("Error fetching reports:", err)
       setError("Failed to load reports")
     } finally {
       setLoading(false)
@@ -50,7 +50,7 @@ export default function ReportsPage() {
       await apiClient.delete(`/api/reports/${reportId}`)
       setReports(reports.filter((r) => r.id !== reportId))
     } catch (err) {
-      console.error("[v0] Error deleting report:", err)
+      console.error("Error deleting report:", err)
       setError("Failed to delete report")
     } finally {
       setDeletingId(null)

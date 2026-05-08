@@ -31,7 +31,7 @@ export default function ReportDetailPage() {
       const res = await apiClient.get(`/api/reports/${reportId}`)
       setReport(res.data)
     } catch (err) {
-      console.error("[v0] Error fetching report:", err)
+      console.error("Error fetching report:", err)
       setError("Failed to load report")
     } finally {
       setLoading(false)
@@ -44,7 +44,7 @@ export default function ReportDetailPage() {
       const res = await apiClient.post(`/api/reports/${reportId}/refresh`, {})
       setReport(res.data)
     } catch (err) {
-      console.error("[v0] Error refreshing report:", err)
+      console.error("Error refreshing report:", err)
       setError("Failed to refresh report")
     } finally {
       setRefreshing(false)

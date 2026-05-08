@@ -24,7 +24,7 @@ export function AdminRolesList() {
       const res = await apiClient.get("/api/roles")
       setRoles(res.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching roles:", err)
+      console.error("Error fetching roles:", err)
       setError("Failed to load roles")
     } finally {
       setLoading(false)
@@ -36,7 +36,7 @@ export function AdminRolesList() {
       await apiClient.delete(`/api/roles/${roleId}`)
       setRoles(roles.filter((r) => r.id !== roleId))
     } catch (err) {
-      console.error("[v0] Error deleting role:", err)
+      console.error("Error deleting role:", err)
       setError("Failed to delete role")
     }
   }

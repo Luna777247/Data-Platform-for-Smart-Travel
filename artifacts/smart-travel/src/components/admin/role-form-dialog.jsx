@@ -64,7 +64,7 @@ export function RoleFormDialog({ role, onSave, trigger }) {
       setOpen(false)
       onSave?.()
     } catch (err) {
-      console.error("[v0] Error saving role:", err)
+      console.error("Error saving role:", err)
     } finally {
       setLoading(false)
     }

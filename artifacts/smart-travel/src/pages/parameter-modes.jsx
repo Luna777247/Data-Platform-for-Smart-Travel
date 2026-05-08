@@ -39,7 +39,7 @@ export default function ParameterModesPage() {
       const res = await apiClient.get("/api/parameter-modes")
       setModes(res.data || [])
     } catch (err) {
-      console.error("[v0] Error fetching parameter modes:", err)
+      console.error("Error fetching parameter modes:", err)
       setError("Failed to load parameter modes")
     } finally {
       setLoading(false)
@@ -52,7 +52,7 @@ export default function ParameterModesPage() {
       await apiClient.delete(`/api/parameter-modes/${modeId}`)
       setModes(modes.filter((m) => m.id !== modeId))
     } catch (err) {
-      console.error("[v0] Error deleting mode:", err)
+      console.error("Error deleting mode:", err)
       setError("Failed to delete parameter mode")
     } finally {
       setDeletingId(null)

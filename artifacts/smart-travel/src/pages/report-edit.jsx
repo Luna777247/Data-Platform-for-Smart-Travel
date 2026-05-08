@@ -32,7 +32,7 @@ export default function EditReportPage() {
       const res = await apiClient.get(`/api/reports/${reportId}`)
       setFormData(res.data)
     } catch (err) {
-      console.error("[v0] Error fetching report:", err)
+      console.error("Error fetching report:", err)
       setError("Failed to load report")
     } finally {
       setLoading(false)
@@ -47,7 +47,7 @@ export default function EditReportPage() {
       await apiClient.put(`/api/reports/${reportId}`, formData)
       navigate(`/reports/${reportId}`)
     } catch (err) {
-      console.error("[v0] Error updating report:", err)
+      console.error("Error updating report:", err)
       setError(err.response?.data?.message || "Failed to update report")
     } finally {
       setSaving(false)

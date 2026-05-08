@@ -5,27 +5,27 @@ const router = Router();
 const startTime = Date.now();
 
 const connections = [
-  { id: "conn-1", name: "MongoDB Atlas", type: "database", status: "connected", host: "cluster0.mongodb.net", port: 27017, database: "smarttravel", username: "admin", lastUsed: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 10).toISOString() },
-  { id: "conn-2", name: "OpenStreetMap Overpass API", type: "api", status: "connected", host: "overpass-api.de", port: 443, database: "", username: "", lastUsed: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 8).toISOString() },
-  { id: "conn-3", name: "Google Places API", type: "api", status: "connected", host: "maps.googleapis.com", port: 443, database: "", username: "", lastUsed: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 7).toISOString() },
-  { id: "conn-4", name: "PostgreSQL Analytics", type: "database", status: "disconnected", host: "localhost", port: 5432, database: "analytics", username: "postgres", lastUsed: new Date(Date.now() - 86400000 * 2).toISOString(), createdAt: new Date(Date.now() - 86400000 * 5).toISOString() },
-  { id: "conn-5", name: "Redis Cache", type: "cache", status: "connected", host: "localhost", port: 6379, database: "", username: "", lastUsed: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 3).toISOString() },
+  { id: "conn-1", name: "MongoDB Atlas", type: "database", status: "connected", isActive: true, host: "cluster0.mongodb.net", port: 27017, database: "smarttravel", username: "admin", description: "Primary data store for travel POI data", lastUsed: new Date().toISOString(), lastUsedAt: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 10).toISOString() },
+  { id: "conn-2", name: "OpenStreetMap Overpass API", type: "api", status: "connected", isActive: true, host: "overpass-api.de", port: 443, database: "", username: "", description: "OSM data collection via Overpass API", lastUsed: new Date().toISOString(), lastUsedAt: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 8).toISOString() },
+  { id: "conn-3", name: "Google Places API", type: "api", status: "connected", isActive: true, host: "maps.googleapis.com", port: 443, database: "", username: "", description: "Place enrichment via Google Places", lastUsed: new Date().toISOString(), lastUsedAt: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 7).toISOString() },
+  { id: "conn-4", name: "PostgreSQL Analytics", type: "database", status: "disconnected", isActive: false, host: "localhost", port: 5432, database: "analytics", username: "postgres", description: "Analytics data warehouse", lastUsed: new Date(Date.now() - 86400000 * 2).toISOString(), lastUsedAt: new Date(Date.now() - 86400000 * 2).toISOString(), createdAt: new Date(Date.now() - 86400000 * 5).toISOString() },
+  { id: "conn-5", name: "Redis Cache", type: "cache", status: "connected", isActive: true, host: "localhost", port: 6379, database: "", username: "", description: "Caching layer for API responses", lastUsed: new Date().toISOString(), lastUsedAt: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 3).toISOString() },
 ];
 
 const runs = [
-  { id: "run-1", connectionId: "conn-1", connectionName: "MongoDB Atlas", status: "completed", startTime: new Date(Date.now() - 3600000).toISOString(), endTime: new Date(Date.now() - 3300000).toISOString(), recordsExtracted: 15420, logSummary: "Successfully processed 15420 records for hanoi", city: "hanoi", type: "restaurant" },
-  { id: "run-2", connectionId: "conn-2", connectionName: "OpenStreetMap Overpass API", status: "completed", startTime: new Date(Date.now() - 7200000).toISOString(), endTime: new Date(Date.now() - 6800000).toISOString(), recordsExtracted: 8930, logSummary: "Extracted 8930 POIs from OSM for hcmc", city: "hcmc", type: "attraction" },
-  { id: "run-3", connectionId: "conn-3", connectionName: "Google Places API", status: "failed", startTime: new Date(Date.now() - 10800000).toISOString(), endTime: new Date(Date.now() - 10600000).toISOString(), recordsExtracted: 0, logSummary: "API rate limit exceeded", city: "danang", type: "hotel" },
-  { id: "run-4", connectionId: "conn-1", connectionName: "MongoDB Atlas", status: "completed", startTime: new Date(Date.now() - 86400000).toISOString(), endTime: new Date(Date.now() - 86000000).toISOString(), recordsExtracted: 22100, logSummary: "Full sync completed for hue", city: "hue", type: "restaurant" },
-  { id: "run-5", connectionId: "conn-2", connectionName: "OpenStreetMap Overpass API", status: "running", startTime: new Date(Date.now() - 1800000).toISOString(), endTime: null, recordsExtracted: 4210, logSummary: "In progress: collecting data for quangnam", city: "quangnam", type: "attraction" },
+  { id: "run-1", connectionId: "conn-1", connectionName: "MongoDB Atlas", status: "success", startedAt: new Date(Date.now() - 3600000).toISOString(), completedAt: new Date(Date.now() - 3300000).toISOString(), executionTime: 300000, totalRequests: 154, successfulRequests: 154, failedRequests: 0, recordsProcessed: 15420, logSummary: "Successfully processed 15420 records for hanoi" },
+  { id: "run-2", connectionId: "conn-2", connectionName: "OpenStreetMap Overpass API", status: "success", startedAt: new Date(Date.now() - 7200000).toISOString(), completedAt: new Date(Date.now() - 6800000).toISOString(), executionTime: 400000, totalRequests: 89, successfulRequests: 89, failedRequests: 0, recordsProcessed: 8930, logSummary: "Extracted 8930 POIs from OSM for hcmc" },
+  { id: "run-3", connectionId: "conn-3", connectionName: "Google Places API", status: "failed", startedAt: new Date(Date.now() - 10800000).toISOString(), completedAt: new Date(Date.now() - 10600000).toISOString(), executionTime: 200000, totalRequests: 12, successfulRequests: 8, failedRequests: 4, recordsProcessed: 0, logSummary: "API rate limit exceeded" },
+  { id: "run-4", connectionId: "conn-1", connectionName: "MongoDB Atlas", status: "success", startedAt: new Date(Date.now() - 86400000).toISOString(), completedAt: new Date(Date.now() - 86000000).toISOString(), executionTime: 400000, totalRequests: 221, successfulRequests: 221, failedRequests: 0, recordsProcessed: 22100, logSummary: "Full sync completed for hue" },
+  { id: "run-5", connectionId: "conn-2", connectionName: "OpenStreetMap Overpass API", status: "running", startedAt: new Date(Date.now() - 1800000).toISOString(), completedAt: null, executionTime: null, totalRequests: 42, successfulRequests: 42, failedRequests: 0, recordsProcessed: 4210, logSummary: "In progress: collecting data for quangnam" },
 ];
 
 const schedules = [
-  { id: "sched-1", connectionId: "conn-1", connectionName: "MongoDB Atlas", name: "Daily Hanoi Sync", status: "active", frequency: "daily", cronExpression: "0 2 * * *", nextRun: new Date(Date.now() + 3600000 * 6).toISOString(), lastRun: new Date(Date.now() - 3600000).toISOString(), enabled: true },
-  { id: "sched-2", connectionId: "conn-2", connectionName: "OSM Overpass API", name: "Weekly OSM Full Scan", status: "active", frequency: "weekly", cronExpression: "0 1 * * 0", nextRun: new Date(Date.now() + 86400000 * 5).toISOString(), lastRun: new Date(Date.now() - 86400000 * 2).toISOString(), enabled: true },
-  { id: "sched-3", connectionId: "conn-3", connectionName: "Google Places API", name: "Google Enrichment", status: "paused", frequency: "daily", cronExpression: "0 4 * * *", nextRun: null, lastRun: new Date(Date.now() - 86400000 * 3).toISOString(), enabled: false },
-  { id: "sched-4", connectionId: "conn-4", connectionName: "PostgreSQL Analytics", name: "Analytics Rollup", status: "active", frequency: "hourly", cronExpression: "0 * * * *", nextRun: new Date(Date.now() + 3600000).toISOString(), lastRun: new Date(Date.now() - 3600000).toISOString(), enabled: true },
-  { id: "sched-5", connectionId: "conn-5", connectionName: "Redis Cache", name: "Cache Warmup", status: "active", frequency: "daily", cronExpression: "30 0 * * *", nextRun: new Date(Date.now() + 3600000 * 18).toISOString(), lastRun: new Date(Date.now() - 3600000 * 6).toISOString(), enabled: true },
+  { id: "sched-1", connectionId: "conn-1", connectionName: "MongoDB Atlas", name: "Daily Hanoi Sync", description: "Daily full sync for Hanoi POI data", status: "active", isActive: true, scheduleType: "daily", frequency: "daily", cronExpression: "0 2 * * *", nextRun: new Date(Date.now() + 3600000 * 6).toISOString(), lastRun: new Date(Date.now() - 3600000).toISOString(), lastStatus: "success", totalRuns: 47 },
+  { id: "sched-2", connectionId: "conn-2", connectionName: "OSM Overpass API", name: "Weekly OSM Full Scan", description: "Weekly full OSM data collection scan", status: "active", isActive: true, scheduleType: "weekly", frequency: "weekly", cronExpression: "0 1 * * 0", nextRun: new Date(Date.now() + 86400000 * 5).toISOString(), lastRun: new Date(Date.now() - 86400000 * 2).toISOString(), lastStatus: "success", totalRuns: 18 },
+  { id: "sched-3", connectionId: "conn-3", connectionName: "Google Places API", name: "Google Enrichment", description: "Daily Google Places enrichment run", status: "paused", isActive: false, scheduleType: "daily", frequency: "daily", cronExpression: "0 4 * * *", nextRun: null, lastRun: new Date(Date.now() - 86400000 * 3).toISOString(), lastStatus: "failed", totalRuns: 12 },
+  { id: "sched-4", connectionId: "conn-4", connectionName: "PostgreSQL Analytics", name: "Analytics Rollup", description: "Hourly analytics aggregation rollup", status: "active", isActive: true, scheduleType: "cron", frequency: "hourly", cronExpression: "0 * * * *", nextRun: new Date(Date.now() + 3600000).toISOString(), lastRun: new Date(Date.now() - 3600000).toISOString(), lastStatus: "success", totalRuns: 320 },
+  { id: "sched-5", connectionId: "conn-5", connectionName: "Redis Cache", name: "Cache Warmup", description: "Daily cache warmup job", status: "active", isActive: true, scheduleType: "daily", frequency: "daily", cronExpression: "30 0 * * *", nextRun: new Date(Date.now() + 3600000 * 18).toISOString(), lastRun: new Date(Date.now() - 3600000 * 6).toISOString(), lastStatus: "success", totalRuns: 89 },
 ];
 
 const reports = [
@@ -35,9 +35,9 @@ const reports = [
 ];
 
 const users = [
-  { id: "usr-1", email: "admin@smarttravel.io", name: "Admin User", role: "admin", status: "active", lastLogin: new Date(Date.now() - 3600000).toISOString(), createdAt: new Date(Date.now() - 86400000 * 60).toISOString() },
-  { id: "usr-2", email: "analyst@smarttravel.io", name: "Data Analyst", role: "analyst", status: "active", lastLogin: new Date(Date.now() - 86400000).toISOString(), createdAt: new Date(Date.now() - 86400000 * 30).toISOString() },
-  { id: "usr-3", email: "viewer@smarttravel.io", name: "Report Viewer", role: "viewer", status: "inactive", lastLogin: new Date(Date.now() - 86400000 * 14).toISOString(), createdAt: new Date(Date.now() - 86400000 * 20).toISOString() },
+  { id: "usr-1", email: "admin@smarttravel.io", name: "Admin User", role: "admin", status: "active", isActive: true, lastLogin: new Date(Date.now() - 3600000).toISOString(), createdAt: new Date(Date.now() - 86400000 * 60).toISOString() },
+  { id: "usr-2", email: "analyst@smarttravel.io", name: "Data Analyst", role: "analyst", status: "active", isActive: true, lastLogin: new Date(Date.now() - 86400000).toISOString(), createdAt: new Date(Date.now() - 86400000 * 30).toISOString() },
+  { id: "usr-3", email: "viewer@smarttravel.io", name: "Report Viewer", role: "viewer", status: "inactive", isActive: false, lastLogin: new Date(Date.now() - 86400000 * 14).toISOString(), createdAt: new Date(Date.now() - 86400000 * 20).toISOString() },
 ];
 
 const roles = [
@@ -57,7 +57,7 @@ const backups = [
   { id: "bkp-2", name: "auto_backup_20260508_020000.sql", size: 55834624, createdAt: new Date(Date.now() - 86400000).toISOString(), status: "completed" },
 ];
 
-const exports_ = [
+const exports_: Array<{ id: string; name: string; format: string; status: string; size: number; createdAt: string; connectionId: string }> = [
   { id: "exp-1", name: "hanoi_pois_export.json", format: "json", status: "ready", size: 12345678, createdAt: new Date(Date.now() - 3600000 * 5).toISOString(), connectionId: "conn-1" },
   { id: "exp-2", name: "hcmc_restaurants.csv", format: "csv", status: "ready", size: 4567890, createdAt: new Date(Date.now() - 3600000 * 2).toISOString(), connectionId: "conn-2" },
   { id: "exp-3", name: "full_dataset_export.json", format: "json", status: "processing", size: 0, createdAt: new Date(Date.now() - 1800000).toISOString(), connectionId: "conn-1" },
@@ -111,17 +111,17 @@ function makeId(prefix: string): string {
 // --- STATUS & HEALTH ---
 router.get("/status", (_req, res) => {
   const totalRuns = runs.length;
-  const completedRuns = runs.filter(r => r.status === "completed").length;
+  const completedRuns = runs.filter(r => r.status === "success").length;
   const successRate = totalRuns > 0 ? Math.round((completedRuns / totalRuns) * 100 * 10) / 10 : 0;
   res.json({
     status: "healthy",
     health: "healthy",
     uptime: getUptimeString(),
-    activeUsers: users.filter(u => u.status === "active").length,
+    activeUsers: users.filter(u => u.isActive).length,
     totalConnections: connections.length,
-    connections: { active: connections.filter(c => c.status === "connected").length, total: connections.length },
-    schedules: { total: schedules.length, active: schedules.filter(s => s.status === "active").length },
-    runs: { total: totalRuns, last24h: runs.filter(r => new Date(r.startTime) > new Date(Date.now() - 86400000)).length },
+    connections: { active: connections.filter(c => c.isActive).length, total: connections.length },
+    schedules: { total: schedules.length, active: schedules.filter(s => s.isActive).length },
+    runs: { total: totalRuns, last24h: runs.filter(r => new Date(r.startedAt) > new Date(Date.now() - 86400000)).length },
     activity: { successRate, totalRuns },
     performance: { successRate, avgResponseTime: 245 }
   });
@@ -145,7 +145,15 @@ router.get("/connections", (_req, res) => {
 });
 
 router.post("/connections", (req, res) => {
-  const conn = { id: makeId("conn"), createdAt: new Date().toISOString(), lastUsed: new Date().toISOString(), status: "disconnected", ...req.body };
+  const conn = {
+    id: makeId("conn"),
+    createdAt: new Date().toISOString(),
+    lastUsed: new Date().toISOString(),
+    lastUsedAt: new Date().toISOString(),
+    status: "disconnected",
+    isActive: false,
+    ...req.body
+  };
   connections.push(conn as typeof connections[0]);
   res.status(201).json(conn);
 });
@@ -171,11 +179,7 @@ router.delete("/connections/:id", (req, res) => {
 });
 
 router.post("/test-connection", (req, res) => {
-  const { type } = req.body;
   const latency = Math.floor(Math.random() * 50) + 10;
-  if (type === "database" && !req.body.host) {
-    return res.status(400).json({ status: "error", message: "Host is required for database connections" });
-  }
   res.json({ status: "success", message: "Connection successful", latency });
 });
 
@@ -201,10 +205,10 @@ router.get("/runs/:id/logs", (req, res) => {
   const run = runs.find(r => r.id === req.params.id);
   if (!run) return res.status(404).json({ error: "Run not found" });
   res.json([
-    { timestamp: run.startTime, level: "INFO", message: `Starting pipeline run for ${run.city}` },
-    { timestamp: new Date(new Date(run.startTime).getTime() + 5000).toISOString(), level: "INFO", message: `Connected to data source` },
-    { timestamp: new Date(new Date(run.startTime).getTime() + 30000).toISOString(), level: "INFO", message: `Collected ${run.recordsExtracted} records` },
-    { timestamp: run.endTime || new Date().toISOString(), level: run.status === "failed" ? "ERROR" : "INFO", message: run.logSummary },
+    { timestamp: run.startedAt, level: "INFO", message: `Starting pipeline run` },
+    { timestamp: new Date(new Date(run.startedAt).getTime() + 5000).toISOString(), level: "INFO", message: "Connected to data source" },
+    { timestamp: new Date(new Date(run.startedAt).getTime() + 30000).toISOString(), level: "INFO", message: `Processed ${run.recordsProcessed} records` },
+    { timestamp: run.completedAt || new Date().toISOString(), level: run.status === "failed" ? "ERROR" : "INFO", message: run.logSummary },
   ]);
 });
 
@@ -212,8 +216,8 @@ router.get("/runs/:id/requests", (req, res) => {
   const run = runs.find(r => r.id === req.params.id);
   if (!run) return res.status(404).json({ error: "Run not found" });
   res.json([
-    { id: 1, method: "GET", url: `/api/places?city=${run.city}`, status: 200, duration: 123, timestamp: run.startTime },
-    { id: 2, method: "POST", url: "/api/pipeline/run", status: 200, duration: 45, timestamp: run.startTime },
+    { id: 1, method: "GET", url: "/api/places", status: 200, duration: 123, timestamp: run.startedAt },
+    { id: 2, method: "POST", url: "/api/pipeline/run", status: 200, duration: 45, timestamp: run.startedAt },
   ]);
 });
 
@@ -225,12 +229,14 @@ router.post("/execute-run", (req, res) => {
     connectionId: connectionId || "conn-1",
     connectionName: conn?.name || "Unknown",
     status: "running",
-    startTime: new Date().toISOString(),
-    endTime: null,
-    recordsExtracted: 0,
-    logSummary: "Pipeline started",
-    city: "hanoi",
-    type: "restaurant"
+    startedAt: new Date().toISOString(),
+    completedAt: null,
+    executionTime: null,
+    totalRequests: 0,
+    successfulRequests: 0,
+    failedRequests: 0,
+    recordsProcessed: 0,
+    logSummary: "Pipeline started"
   };
   runs.unshift(run as typeof runs[0]);
   res.status(201).json(run);
@@ -241,10 +247,36 @@ router.get("/schedules", (_req, res) => {
   res.json(schedules);
 });
 
+router.post("/schedules", (req, res) => {
+  const conn = connections.find(c => c.id === req.body.connectionId);
+  const sched = {
+    id: makeId("sched"),
+    connectionId: req.body.connectionId || "",
+    connectionName: conn?.name || req.body.connectionName || "",
+    name: req.body.name || req.body.connectionName || "New Schedule",
+    description: req.body.description || "",
+    status: "active",
+    isActive: req.body.isActive !== false,
+    scheduleType: req.body.scheduleType || "cron",
+    frequency: req.body.scheduleType || "daily",
+    cronExpression: req.body.cronExpression || "0 0 * * *",
+    nextRun: new Date(Date.now() + 86400000).toISOString(),
+    lastRun: null,
+    lastStatus: null,
+    totalRuns: 0
+  };
+  schedules.push(sched as typeof schedules[0]);
+  res.status(201).json(sched);
+});
+
 router.put("/schedules/:id", (req, res) => {
   const idx = schedules.findIndex(s => s.id === req.params.id);
   if (idx === -1) return res.status(404).json({ error: "Schedule not found" });
-  schedules[idx] = { ...schedules[idx], ...req.body, id: req.params.id };
+  const updated = { ...schedules[idx], ...req.body, id: req.params.id };
+  if (typeof req.body.isActive === "boolean") {
+    updated.status = req.body.isActive ? "active" : "paused";
+  }
+  schedules[idx] = updated as typeof schedules[0];
   res.json(schedules[idx]);
 });
 
@@ -296,10 +328,29 @@ router.get("/users", (_req, res) => {
   res.json(users);
 });
 
+router.post("/users", (req, res) => {
+  const user = {
+    id: makeId("usr"),
+    email: req.body.email || "",
+    name: req.body.name || "",
+    role: req.body.role || "user",
+    status: req.body.isActive !== false ? "active" : "inactive",
+    isActive: req.body.isActive !== false,
+    lastLogin: null,
+    createdAt: new Date().toISOString()
+  };
+  users.push(user as typeof users[0]);
+  res.status(201).json(user);
+});
+
 router.put("/users/:id", (req, res) => {
   const idx = users.findIndex(u => u.id === req.params.id);
   if (idx === -1) return res.status(404).json({ error: "User not found" });
-  users[idx] = { ...users[idx], ...req.body, id: req.params.id };
+  const updated = { ...users[idx], ...req.body, id: req.params.id };
+  if (typeof req.body.isActive === "boolean") {
+    updated.status = req.body.isActive ? "active" : "inactive";
+  }
+  users[idx] = updated as typeof users[0];
   res.json(users[idx]);
 });
 
@@ -312,6 +363,17 @@ router.delete("/users/:id", (req, res) => {
 
 router.get("/roles", (_req, res) => {
   res.json(roles);
+});
+
+router.post("/roles", (req, res) => {
+  const role = {
+    id: makeId("role"),
+    name: req.body.name || "",
+    description: req.body.description || "",
+    permissions: req.body.permissions || []
+  };
+  roles.push(role);
+  res.status(201).json(role);
 });
 
 router.put("/roles/:id", (req, res) => {
@@ -370,8 +432,8 @@ router.post("/backups", (_req, res) => {
   };
   backups.push(backup);
   setTimeout(() => {
-    backup.status = "completed";
-    backup.size = Math.floor(Math.random() * 10000000) + 50000000;
+    (backup as { status: string }).status = "completed";
+    (backup as { size: number }).size = Math.floor(Math.random() * 10000000) + 50000000;
   }, 3000);
   res.status(201).json(backup);
 });
@@ -404,7 +466,7 @@ router.post("/data/export", (req, res) => {
     createdAt: new Date().toISOString(),
     connectionId: req.body.connectionId || "conn-1"
   };
-  exports_.push(exp as typeof exports_[0]);
+  exports_.push(exp);
   setTimeout(() => {
     (exp as { status: string }).status = "ready";
     (exp as { size: number }).size = Math.floor(Math.random() * 5000000) + 1000000;
@@ -483,8 +545,8 @@ router.get("/pipeline/status", (_req, res) => {
     status: "running",
     activeRuns: runs.filter(r => r.status === "running").length,
     queuedRuns: 0,
-    lastRun: runs[0]?.startTime || null,
-    nextScheduled: schedules.find(s => s.status === "active")?.nextRun || null
+    lastRun: runs[0]?.startedAt || null,
+    nextScheduled: schedules.find(s => s.isActive)?.nextRun || null
   });
 });
 
@@ -498,12 +560,14 @@ router.post("/pipeline/run", (req, res) => {
     connectionId: req.body.connectionId || "conn-1",
     connectionName: "Manual Run",
     status: "running",
-    startTime: new Date().toISOString(),
-    endTime: null,
-    recordsExtracted: 0,
-    logSummary: "Pipeline started manually",
-    city: req.body.city || "hanoi",
-    type: req.body.type || "restaurant"
+    startedAt: new Date().toISOString(),
+    completedAt: null,
+    executionTime: null,
+    totalRequests: 0,
+    successfulRequests: 0,
+    failedRequests: 0,
+    recordsProcessed: 0,
+    logSummary: "Pipeline started manually"
   };
   runs.unshift(run as typeof runs[0]);
   res.status(201).json({ run_id: run.id, status: "started" });
@@ -525,7 +589,7 @@ router.get("/dashboard/pipeline-metrics", (_req, res) => {
     totalRuns: runs.length,
     successRate: 92.4,
     avgDuration: 245,
-    lastRun: runs[0]?.startTime || null,
+    lastRun: runs[0]?.startedAt || null,
     history
   });
 });
@@ -583,10 +647,11 @@ router.post("/airflow/dags/:dagId/resume", (req, res) => {
 });
 
 router.get("/airflow/runs", (_req, res) => {
-  res.json(airflowDags.map((d, i) => ({
-    runId: makeId("airflow-run"),
+  res.json(airflowDags.map(d => ({
+    runId: `run-${d.dagId}-${Date.now()}`,
     dagId: d.dagId,
     status: d.isPaused ? "skipped" : "success",
+    startDate: d.lastRun,
     executionDate: d.lastRun,
     duration: Math.floor(Math.random() * 300) + 30
   })));

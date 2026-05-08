@@ -50,7 +50,7 @@ export function DataExportDialog({ connection }) {
 
       setOpen(false)
     } catch (err) {
-      console.error("[v0] Error exporting data:", err)
+      console.error("Error exporting data:", err)
     } finally {
       setExporting(false)
     }

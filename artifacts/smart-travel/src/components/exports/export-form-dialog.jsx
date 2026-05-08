@@ -42,7 +42,7 @@ export function ExportFormDialog({ onSave, trigger }) {
       })
       onSave?.()
     } catch (err) {
-      console.error("[v0] Error creating export:", err)
+      console.error("Error creating export:", err)
     } finally {
       setLoading(false)
     }
