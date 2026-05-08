@@ -1,8 +1,20 @@
 import { Router } from "express";
+import { getCollection } from "../lib/mongo";
 
 const router = Router();
 
 const startTime = Date.now();
+
+async function fromMongo<T>(collection: string, fallback: T[]): Promise<T[]> {
+  try {
+    const col = await getCollection<T & { _id?: unknown }>(collection);
+    if (!col) return fallback;
+    const docs = await col.find({}).toArray();
+    return docs.map(({ _id, ...rest }) => rest as unknown as T);
+  } catch {
+    return fallback;
+  }
+}
 
 const connections = [
   { id: "conn-1", name: "MongoDB Atlas", type: "database", status: "connected", isActive: true, host: "cluster0.mongodb.net", port: 27017, database: "smarttravel", username: "admin", description: "Primary data store for travel POI data", lastUsed: new Date().toISOString(), lastUsedAt: new Date().toISOString(), createdAt: new Date(Date.now() - 86400000 * 10).toISOString() },
@@ -143,8 +155,9 @@ router.get("/monitoring", (_req, res) => {
 });
 
 // --- CONNECTIONS ---
-router.get("/connections", (_req, res) => {
-  res.json(connections);
+router.get("/connections", async (_req, res) => {
+  const data = await fromMongo("connections", connections);
+  res.json(data);
 });
 
 router.post("/connections", (req, res) => {
@@ -187,8 +200,9 @@ router.post("/test-connection", (req, res) => {
 });
 
 // --- RUNS ---
-router.get("/runs", (_req, res) => {
-  res.json(runs);
+router.get("/runs", async (_req, res) => {
+  const data = await fromMongo("runs", runs);
+  res.json(data);
 });
 
 router.delete("/runs/:id", (req, res) => {
@@ -246,8 +260,9 @@ router.post("/execute-run", (req, res) => {
 });
 
 // --- SCHEDULES ---
-router.get("/schedules", (_req, res) => {
-  res.json(schedules);
+router.get("/schedules", async (_req, res) => {
+  const data = await fromMongo("schedules", schedules);
+  res.json(data);
 });
 
 router.post("/schedules", (req, res) => {

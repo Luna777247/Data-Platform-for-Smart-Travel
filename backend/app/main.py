@@ -19,7 +19,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from prometheus_fastapi_instrumentator import Instrumentator
 
 from app.api.routes import places, pipeline, health
-from app.api import admin
+from app.api import admin, system, airflow, dashboard
 from app.core.config import settings
 from app.core.logging_config import setup_logging
 from app.core.background_tasks import wait_for_pending_tasks
@@ -167,6 +167,9 @@ app.add_middleware(
 app.include_router(health.router, prefix="/api", tags=["health"])
 app.include_router(places.router, prefix="/api", tags=["places"])
 app.include_router(pipeline.router, prefix="/api", tags=["pipeline"])
+app.include_router(system.router, prefix="/api", tags=["system"])
+app.include_router(airflow.router, prefix="/api/airflow", tags=["airflow"])
+app.include_router(dashboard.router, prefix="/api/smart-travel/dashboard", tags=["dashboard"])
 app.include_router(admin.router, prefix="/admin", tags=["admin"])
 
 # Backward-compatible route mounts used by older dashboards and tests.

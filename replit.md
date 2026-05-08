@@ -73,3 +73,19 @@ All endpoints return data matching the frontend's exact field contracts:
 - `GET /api/airflow/stats`, `/api/airflow/dags`, trigger/pause/resume, `/api/airflow/runs` (includes successTasks/failedTasks)
 - `GET /api/status`, `/api/health`
 - `GET /api/smart-travel/dashboard/*` — 10 sub-routes with Vietnam POI seed data
+
+## Python FastAPI backend (backend/)
+
+Running via Docker Compose (not active in Replit). Registered routers (backend/app/main.py):
+- `system.router` at `/api` — status, settings, schedules CRUD, analytics, dashboard/pipeline-metrics, OSM/enrichment config, RapidAPI keys
+- `airflow.router` at `/api/airflow` — stats, dags, trigger/pause/resume, runs (path-unified with frontend)
+- `dashboard.router` at `/api/smart-travel/dashboard` — overview, top-places, places-by-category, etc.
+- `places.router`, `pipeline.router`, `health.router` at `/api`
+- `admin.router` at `/admin`
+
+## MongoDB wiring (Express → MongoDB)
+
+Express API server tries MongoDB first for key collections, falls back to in-memory:
+- `artifacts/api-server/src/lib/mongo.ts` — MongoDB client (connects if MONGODB_URI env var set)
+- Collections: `connections`, `runs`, `schedules` read from MongoDB when available
+- Set `MONGODB_URI=mongodb+srv://...` env var to enable real data
