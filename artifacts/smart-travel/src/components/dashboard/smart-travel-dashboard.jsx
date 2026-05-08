@@ -635,7 +635,7 @@ export default function SmartTravelDashboard() {
                   plot_bgcolor: 'rgba(0,0,0,0)'
                 }}
                 config={{
-                  mapboxAccessToken: process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN || '',
+                  mapboxAccessToken: import.meta.env.VITE_MAPBOX_ACCESS_TOKEN || '',
                   displayModeBar: true,
                   displaylogo: false,
                   modeBarButtonsToRemove: ['pan2d', 'select2d', 'lasso2d', 'autoScale2d'],

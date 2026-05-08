@@ -20,7 +20,7 @@ class ErrorBoundary extends React.Component {
     })
 
     // Log error to console in development
-    if (process.env.NODE_ENV === 'development') {
+    if (import.meta.env.MODE === 'development') {
       console.error('ErrorBoundary caught an error:', error, errorInfo)
     }
 
@@ -35,7 +35,7 @@ class ErrorBoundary extends React.Component {
           <AlertTitle>Đã xảy ra lỗi</AlertTitle>
           <AlertDescription>
             Có lỗi xảy ra khi tải trang. Vui lòng thử lại hoặc liên hệ hỗ trợ.
-            {process.env.NODE_ENV === 'development' && (
+            {import.meta.env.MODE === 'development' && (
               <details className="mt-2">
                 <summary className="cursor-pointer text-sm">Chi tiết lỗi (development)</summary>
                 <pre className="mt-2 text-xs overflow-auto max-h-32 bg-muted p-2 rounded">

@@ -11,7 +11,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Badge } from "@/components/ui/badge"
 import { ArrowLeft, Save, X, Plus, Trash2 } from "lucide-react"
 import { toast } from "sonner"
-import apiClient from "../../../../services/apiClient.js"
+import apiClient from "@/services/apiClient"
 
 export default function EditConnectionPage() {
   const [, navigate] = useLocation()

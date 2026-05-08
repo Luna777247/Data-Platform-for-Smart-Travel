@@ -11,7 +11,7 @@ import { Checkbox } from "@/components/ui/checkbox"
 import { PageLayout } from "@/components/ui/page-layout"
 import { ArrowLeft } from "lucide-react"
 import { Link } from "wouter"
-import apiClient from "../../../../services/apiClient.js"
+import apiClient from "@/services/apiClient"
 
 export default function EditReportPage() {
   const params = useParams()

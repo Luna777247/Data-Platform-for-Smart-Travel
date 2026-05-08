@@ -83,7 +83,7 @@ export function SystemStats() {
             <p className="font-semibold">Unable to fetch system stats</p>
             <p className="text-sm">{error}</p>
             <p className="text-xs text-red-600 mt-2">
-              Make sure the backend API is running at {process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:8000'}
+              Make sure the backend API is running at {import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000'}
             </p>
           </div>
         </div>
