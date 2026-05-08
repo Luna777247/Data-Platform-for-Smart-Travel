@@ -173,7 +173,7 @@ def test_token_verification_rejects_expired_token():
 # ============================================================================
 
 def test_refresh_token_generation():
-    \"\"\"Refresh tokens should have longer expiration\"\"\"
+    """Refresh tokens should have longer expiration"""
     manager = TokenManager(
         secret_key="a" * 32,
         algorithm="HS256",
@@ -194,7 +194,7 @@ def test_refresh_token_generation():
 
 
 def test_token_rotation():
-    \"\"\"Token rotation should invalidate old refresh tokens\"\"\"
+    """Token rotation should invalidate old refresh tokens"""
     manager = TokenManager(
         secret_key="a" * 32,
         algorithm="HS256",
@@ -214,7 +214,7 @@ def test_token_rotation():
 
 @pytest.mark.asyncio
 async def test_places_service_initialization():
-    \"\"\"PlacesService should initialize with dependencies\"\"\"
+    """PlacesService should initialize with dependencies"""
     mock_db = AsyncMock()
     mock_redis = AsyncMock()
     mock_mongo = AsyncMock()
@@ -231,7 +231,7 @@ async def test_places_service_initialization():
 
 @pytest.mark.asyncio
 async def test_get_places_constructs_query():
-    \"\"\"get_places should build correct MongoDB query\"\"\"
+    """get_places should build correct MongoDB query"""
     from app.api.schemas.places import PlaceFilter
     
     mock_db = AsyncMock()
@@ -259,7 +259,7 @@ async def test_get_places_constructs_query():
 
 @pytest.mark.asyncio
 async def test_get_places_respects_pagination():
-    \"\"\"get_places should respect limit and offset\"\"\"
+    """get_places should respect limit and offset"""
     from app.api.schemas.places import PlaceFilter
     
     filter_params = PlaceFilter(city="hanoi", limit=20, offset=100)
@@ -273,7 +273,7 @@ async def test_get_places_respects_pagination():
 # ============================================================================
 
 def test_sensitive_data_masking():
-    \"\"\"Sensitive data should be masked in logs\"\"\"
+    """Sensitive data should be masked in logs"""
     from app.core.security_middleware import _mask_sensitive
     
     data = {
@@ -298,7 +298,7 @@ def test_sensitive_data_masking():
 # ============================================================================
 
 def test_rbac_roles_exist():
-    \"\"\"RBAC roles should be defined\"\"\"
+    """RBAC roles should be defined"""
     roles = [
         "Administrator",
         "Operator",
@@ -315,7 +315,7 @@ def test_rbac_roles_exist():
 
 @pytest.mark.asyncio
 async def test_rate_limiter_tracks_requests():
-    \"\"\"Rate limiter should track requests per user\"\"\"
+    """Rate limiter should track requests per user"""
     from app.core.security_middleware import RateLimiter
     
     mock_redis = AsyncMock()
@@ -335,7 +335,7 @@ async def test_rate_limiter_tracks_requests():
 
 @pytest.mark.asyncio
 async def test_audit_logger_records_events():
-    \"\"\"Audit logger should record security events\"\"\"
+    """Audit logger should record security events"""
     from app.core.security_middleware import AuditLogger
     
     logger = AuditLogger()
