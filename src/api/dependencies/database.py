@@ -16,7 +16,7 @@ from motor.motor_asyncio import AsyncIOMotorClient
 import redis.asyncio as redis
 import logging
 
-from app.core.config import settings
+from src.core.config import settings
 
 logger = logging.getLogger(__name__)
 
@@ -61,4 +61,29 @@ redis_client = redis.Redis.from_url(
 
 
 async def get_redis_client() -> redis.Redis:
+    yield redis_client
+
+
+# Aliases for compatibility with existing code
+async def get_database():
+    """
+    Alias for get_mongo_client() - Get MongoDB client.
+    
+    Tương thích với code cũ sử dụng get_database().
+    
+    Returns:
+        AsyncIOMotorClient: MongoDB client singleton
+    """
+    yield mongo_client
+
+
+async def get_redis_pool():
+    """
+    Alias for get_redis_client() - Get Redis client.
+    
+    Tương thích với code cũ sử dụng get_redis_pool().
+    
+    Returns:
+        redis.Redis: Redis client singleton
+    """
     yield redis_client

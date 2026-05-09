@@ -48,3 +48,44 @@ class MongoClient:
     @classmethod
     def get_db(cls):
         return cls.db
+
+
+# Module-level convenience functions for easier imports
+def get_database():
+    """
+    Get MongoDB database instance.
+
+    Hàm tiện ích để lấy database instance từ MongoClient.
+    Được sử dụng trong dependencies và repositories.
+
+    Returns:
+        AsyncIOMotorDatabase: MongoDB database instance
+
+    Example:
+        >>> db = get_database()
+        >>> await db.pois.find_one({"_id": "123"})
+    """
+    return MongoClient.get_db()
+
+
+# Redis client placeholder (to be implemented with actual Redis client)
+_redis_pool = None
+
+
+def get_redis_pool():
+    """
+    Get Redis connection pool.
+
+    Hàm tiện ích để lấy Redis connection pool.
+    Hiện tại trả về None (placeholder cho future implementation).
+
+    Returns:
+        Optional[Redis]: Redis client instance hoặc None
+
+    Example:
+        >>> redis = get_redis_pool()
+        >>> if redis:
+        ...     await redis.set("key", "value")
+    """
+    global _redis_pool
+    return _redis_pool

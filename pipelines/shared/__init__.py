@@ -13,12 +13,12 @@ Example:
 """
 
 from .utils import setup_logging, make_ukey, normalize_coordinates
-from .schemas import BronzeRecord, SilverRecord
+from .schemas import BronzeRecord, SilverPlace
 
 __all__ = [
     "setup_logging",
     "make_ukey",
     "normalize_coordinates",
     "BronzeRecord",
-    "SilverRecord",
+    "SilverPlace",
 ]

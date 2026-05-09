@@ -24,6 +24,14 @@ Usage trong API routes:
         return {"message": f"Hello {current_user}"}
 """
 
+# Import typing components cho type hints
+# Optional: Type cho giá trị có thể là None
+from typing import Optional
+
+# Import datetime components cho JWT expiration
+# timedelta: Duration cho token expiration calculation
+from datetime import datetime, timedelta
+
 # Import FastAPI components cho dependency injection và error handling
 # Depends: Dependency injection decorator
 # HTTPException: Exception để trả về HTTP error responses
