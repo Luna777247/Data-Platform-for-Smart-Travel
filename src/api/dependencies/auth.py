@@ -75,7 +75,7 @@ from src.core.config import settings
 security = HTTPBearer(
     scheme_name="JWT Bearer",
     description="Enter your JWT token",
-    auto_error=True  # Tự động trả về 401 nếu không có token
+    auto_error=False  # Cho phép public endpoints - không tự động trả về 401
 )
 
 
@@ -84,8 +84,8 @@ security = HTTPBearer(
 # ============================================
 
 async def get_current_user(
-    credentials: HTTPAuthorizationCredentials = Depends(security)
-) -> str:
+    credentials: Optional[HTTPAuthorizationCredentials] = Depends(security)
+) -> Optional[str]:
     """
     Validate JWT token và trả về username
     
@@ -116,6 +116,10 @@ async def get_current_user(
             "iss": "smart-travel-api"     # Issuer
         }
     """
+    # Nếu không có credentials (public endpoint), trả về None
+    if credentials is None:
+        return None
+        
     try:
         # Decode và validate JWT token
         # Sử dụng PyJWT/jose library với các security options
@@ -125,11 +129,11 @@ async def get_current_user(
             
             # Secret key để verify signature
             # Phải match với key dùng để encode token
-            key=settings.jwt_secret_key,
+            key=settings.jwt_secret,
             
             # JWT algorithms được phép
             # HS256, HS384, HS512 là HMAC-SHA algorithms
-            algorithms=settings.jwt_algorithms,
+            algorithms=[settings.algorithm],
             
             # Audience validation - đảm bảo token đúng audience
             # Ngăn chặn token từ ứng dụng khác
@@ -213,8 +217,8 @@ async def get_current_user_optional(
         # Thử validate token giống như get_current_user
         payload = jwt.decode(
             token=credentials.credentials,
-            key=settings.jwt_secret_key,
-            algorithms=settings.jwt_algorithms,
+            key=settings.jwt_secret,
+            algorithms=[settings.algorithm],
             audience="smart-travel-users",
             options={
                 "require_exp": True,
@@ -236,16 +240,28 @@ async def get_current_user_optional(
 # ============================================
 
 async def get_current_active_user(
-    current_user: str = Depends(get_current_user)
+    current_user: Optional[str] = Depends(get_current_user)
 ) -> str:
     """Get current active user."""
+    if current_user is None:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Authentication required",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
     return current_user
 
 
 async def get_current_admin_user(
-    current_user: str = Depends(get_current_user)
+    current_user: Optional[str] = Depends(get_current_user)
 ) -> str:
     """Get current admin user."""
+    if current_user is None:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Authentication required",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
     # TODO: Check if user is admin
     return current_user
 
@@ -299,8 +315,8 @@ def create_access_token(
     # Encode thành JWT string
     encoded_jwt = jwt.encode(
         claims=to_encode,
-        key=settings.jwt_secret_key,
-        algorithm=settings.jwt_algorithms[0],  # Dùng algorithm đầu tiên
+        key=settings.jwt_secret,
+        algorithm=settings.algorithm,  # Dùng algorithm đầu tiên
     )
     
     return encoded_jwt
@@ -338,6 +354,14 @@ async def get_current_admin_user(
     """
     # Lấy username từ token (reuse existing logic)
     username = await get_current_user(credentials)
+    
+    # Kiểm tra nếu không có token hoặc token invalid
+    if username is None:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Authentication required",
+            headers={"WWW-Authenticate": "Bearer"},
+        )
     
     # Trong thực tế, query database để lấy user details và role
     # Đây là simplified version - giả định user là admin nếu username có suffix "_admin"

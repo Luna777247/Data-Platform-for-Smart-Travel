@@ -361,7 +361,7 @@ async def list_pois(
     city: Optional[str] = Query(None, description="Filter by city name"),
     category: Optional[str] = Query(None, description="Filter by category"),
     country: Optional[str] = Query(None, min_length=2, max_length=2, description="Filter by country code (ISO)"),
-    status: Optional[str] = Query(None, description="Filter by status"),
+    poi_status: Optional[str] = Query(None, description="Filter by status"),
     min_rating: Optional[float] = Query(None, ge=0, le=5, description="Minimum rating"),
     layer: Optional[str] = Query(None, pattern="^(bronze|silver|gold)$", description="Filter by data layer"),
     search: Optional[str] = Query(None, description="Text search in name/address"),
@@ -384,7 +384,7 @@ async def list_pois(
             city=city,
             category=category,
             country=country,
-            status=status,
+            status=poi_status,
             min_rating=min_rating,
             layer=layer
         )

@@ -421,10 +421,11 @@ async def readiness_check(
     timestamp = datetime.now(timezone.utc).isoformat()
     
     # Determine overall status
-    status = "ready" if all_ready else "not_ready"
+    from fastapi import status as http_status
+    readiness_status = "ready" if all_ready else "not_ready"
     
     response = ReadinessStatus(
-        status=status,
+        status=readiness_status,
         checks=checks,
         timestamp=timestamp
     )
@@ -432,7 +433,7 @@ async def readiness_check(
     # Return 503 nếu not ready
     if not all_ready:
         raise HTTPException(
-            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            status_code=http_status.HTTP_503_SERVICE_UNAVAILABLE,
             detail=response.dict()
         )
     

@@ -384,7 +384,7 @@ async def health_check():
     from src.core.database import mongodb_manager, redis_manager
     
     health_status = {
-        "status": "healthy",
+        "state": "healthy",
         "timestamp": datetime.now(timezone.utc).isoformat(),
         "version": "1.0.0",
         "services": {}
@@ -396,10 +396,10 @@ async def health_check():
             health_status["services"]["mongodb"] = "connected"
         else:
             health_status["services"]["mongodb"] = "disconnected"
-            health_status["status"] = "unhealthy"
+            health_status["state"] = "unhealthy"
     except Exception as e:
         health_status["services"]["mongodb"] = f"error: {str(e)}"
-        health_status["status"] = "unhealthy"
+        health_status["state"] = "unhealthy"
     
     # Check Redis
     try:
@@ -407,13 +407,13 @@ async def health_check():
             health_status["services"]["redis"] = "connected"
         else:
             health_status["services"]["redis"] = "disconnected"
-            health_status["status"] = "unhealthy"
+            health_status["state"] = "unhealthy"
     except Exception as e:
         health_status["services"]["redis"] = f"error: {str(e)}"
-        health_status["status"] = "unhealthy"
+        health_status["state"] = "unhealthy"
     
     # Return response
-    if health_status["status"] == "healthy":
+    if health_status["state"] == "healthy":
         return health_status
     else:
         return JSONResponse(
@@ -430,13 +430,14 @@ async def readiness_check():
     Returns:
         200 OK nếu app sẵn sàng nhận traffic
     """
+    from fastapi import status as http_status
     from src.core.database import mongodb_manager
     
     if mongodb_manager.is_connected:
         return {"ready": True}
     else:
         return JSONResponse(
-            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            status_code=http_status.HTTP_503_SERVICE_UNAVAILABLE,
             content={"ready": False, "reason": "Database not connected"}
         )
 
