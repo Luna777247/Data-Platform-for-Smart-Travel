@@ -81,10 +81,6 @@ scrape_configs:
       - targets:
           - 'localhost:9090'
     
-    # Labels cho metrics từ target này
-    labels:
-      service: 'prometheus'
-      tier: 'monitoring'
   
   # --------------------------------------------------------------------------
   # FASTAPI APPLICATION
@@ -223,35 +219,9 @@ scrape_configs:
 #     read_recent: true
 
 # ============================================================================
-# STORAGE CONFIGURATION
-# ============================================================================
-storage:
-  # Time series retention (15 ngày cho development, 30+ cho production)
-  tsdb:
-    retention.time: 15d
-    
-    # Retention size (500MB default, tăng cho production)
-    retention.size: 2GB
-    
-    # Wal compression
-    wal-compression: true
-
-# ============================================================================
-# QUERY CONFIGURATION
-# ============================================================================
-# Query settings cho PromQL queries
-query:
-  # Timeout cho queries
-  timeout: 2m
-  
-  # Max concurrency
-  max-concurrency: 20
-
-# ============================================================================
 # RULES EVALUATION
 # ============================================================================
-# Cấu hình cho rule evaluation
-rule_query_offset: 1m
+# Cấu hình cho rule evaluation - trong global config
 
 # ============================================================================
 # TRACING (Experimental)

@@ -65,9 +65,9 @@ class UserResponse(BaseModel):
 class CreateUserRequest(BaseModel):
     """Schema cho create user request"""
     username: str = Field(..., min_length=3, max_length=50)
-    email: str = Field(..., regex=r"^[\w\.-]+@[\w\.-]+\.[a-zA-Z]{2,}$")
+    email: str = Field(..., pattern=r"^[\w\.-]+@[\w\.-]+\.[a-zA-Z]{2,}$")
     password: str = Field(..., min_length=8)
-    role: str = Field(default="user", regex="^(admin|user|viewer)$")
+    role: str = Field(default="user", pattern="^(admin|user|viewer)$")
 
 
 class SystemStats(BaseModel):
@@ -251,7 +251,7 @@ async def get_system_stats(
 )
 async def get_system_logs(
     current_user: User = Depends(get_current_admin_user),
-    level: str = Query("INFO", regex="^(DEBUG|INFO|WARNING|ERROR)$"),
+    level: str = Query("INFO", pattern="^(DEBUG|INFO|WARNING|ERROR)$"),
     limit: int = Query(100, ge=1, le=1000)
 ):
     """Lấy recent system logs"""

@@ -110,11 +110,11 @@ services:
     networks:
       - smart-tourism-network
     healthcheck:
-      test: [ "CMD", "mongosh", "--eval", "db.adminCommand('ping')", "||", "exit 0" ]
+      test: ["CMD-SHELL", "pgrep mongod || exit 1"]
       interval: 10s
       timeout: 5s
       retries: 5
-      start_period: 40s
+      start_period: 30s
     logging:
       driver: "json-file"
       options:

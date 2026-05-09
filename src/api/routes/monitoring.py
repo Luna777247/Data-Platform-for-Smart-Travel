@@ -95,7 +95,7 @@ from motor.motor_asyncio import AsyncIOMotorDatabase
 from src.core.config import get_settings
 
 # Import Redis client
-from src.core.database import get_redis_pool
+from src.db.client import get_redis_pool
 
 # ============================================================================
 # ROUTER INITIALIZATION

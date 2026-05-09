@@ -1,26 +1,3 @@
-"""
-Smart Tourism Data Platform - Python Dependencies
-=================================================
-Danh sách các packages cần thiết để chạy dự án
-
-Installation:
-    pip install -r requirements.txt
-
-Categories:
-- Web Framework: FastAPI và các dependencies
-- Database: MongoDB (Motor), Redis
-- Data Processing: Pandas, NumPy
-- HTTP Clients: HTTPx cho async requests
-- Authentication: JWT handling
-- Validation: Pydantic cho data models
-- Utilities: Các helper libraries
-
-Notes:
-- FastAPI 0.104+ yêu cầu Python 3.8+
-- Motor 3.3+ cho MongoDB 5.0+
-- HTTPx 0.25+ cho HTTP/2 support
-"""
-
 # ============================================
 # WEB FRAMEWORK
 # ============================================

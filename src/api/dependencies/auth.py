@@ -38,10 +38,22 @@ from datetime import datetime, timedelta
 # status: HTTP status codes constants
 from fastapi import Depends, HTTPException, status
 
-# Import FastAPI security components cho HTTP Bearer authentication
-# HTTPBearer: Class để yêu cầu Bearer token trong Authorization header
+# Import FastAPI components cho dependencies
+# HTTPBearer: Security scheme cho JWT token extraction
 # HTTPAuthorizationCredentials: Type cho credentials object
+from fastapi import Depends, HTTPException, status
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
+
+# Import Pydantic cho User model
+from pydantic import BaseModel, Field
+
+class User(BaseModel):
+    """User model cho authenticated user."""
+    id: str = Field(..., description="User ID")
+    username: str = Field(..., description="Username")
+    email: str = Field(..., description="Email")
+    role: str = Field(default="user", description="User role")
+    is_active: bool = Field(default=True, description="Is active")
 
 # Import jose (JavaScript Object Signing and Encryption) cho JWT operations
 # JWTError: Exception khi JWT validation thất bại
@@ -220,6 +232,25 @@ async def get_current_user_optional(
 
 
 # ============================================
+# ACTIVE USER DEPENDENCY
+# ============================================
+
+async def get_current_active_user(
+    current_user: str = Depends(get_current_user)
+) -> str:
+    """Get current active user."""
+    return current_user
+
+
+async def get_current_admin_user(
+    current_user: str = Depends(get_current_user)
+) -> str:
+    """Get current admin user."""
+    # TODO: Check if user is admin
+    return current_user
+
+
+# ============================================
 # UTILITY FUNCTIONS
 # ============================================
 
@@ -273,31 +304,6 @@ def create_access_token(
     )
     
     return encoded_jwt
-
-
-# ============================================
-# USER MODEL
-# ============================================
-
-from pydantic import BaseModel, Field
-from typing import Optional
-
-class User(BaseModel):
-    """
-    User model cho authenticated user
-    
-    Attributes:
-        id: User ID
-        username: Username
-        email: Email address
-        role: User role (admin, user, viewer)
-        is_active: Account active status
-    """
-    id: Optional[str] = Field(None, description="User ID")
-    username: str = Field(..., description="Username")
-    email: Optional[str] = Field(None, description="Email")
-    role: str = Field(default="user", description="User role")
-    is_active: bool = Field(default=True, description="Is account active")
 
 
 # ============================================

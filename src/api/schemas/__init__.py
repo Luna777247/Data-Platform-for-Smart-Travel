@@ -15,13 +15,13 @@ All schemas kế thừa từ BaseSchema với common configuration.
 from .pipeline_management import (
     PipelineExecutionRequest,
     PipelineExecutionResponse,
-    PipelineStatus,
-    PipelineConfig,
+    PipelineStatusResponse,
+    PipelineConfigResponse,
 )
 
 __all__ = [
     "PipelineExecutionRequest",
     "PipelineExecutionResponse",
-    "PipelineStatus",
-    "PipelineConfig",
+    "PipelineStatusResponse",
+    "PipelineConfigResponse",
 ]

@@ -363,14 +363,14 @@ async def list_pois(
     country: Optional[str] = Query(None, min_length=2, max_length=2, description="Filter by country code (ISO)"),
     status: Optional[str] = Query(None, description="Filter by status"),
     min_rating: Optional[float] = Query(None, ge=0, le=5, description="Minimum rating"),
-    layer: Optional[str] = Query(None, regex="^(bronze|silver|gold)$", description="Filter by data layer"),
+    layer: Optional[str] = Query(None, pattern="^(bronze|silver|gold)$", description="Filter by data layer"),
     search: Optional[str] = Query(None, description="Text search in name/address"),
     # Pagination parameters
     page: int = Query(1, ge=1, description="Page number"),
     page_size: int = Query(20, ge=1, le=100, description="Items per page"),
     # Sorting
     sort_by: str = Query("quality_score", description="Sort field"),
-    sort_order: str = Query("desc", regex="^(asc|desc)$", description="Sort order"),
+    sort_order: str = Query("desc", pattern="^(asc|desc)$", description="Sort order"),
 ):
     """
     List POIs với filtering và pagination.
@@ -478,7 +478,7 @@ async def get_poi(
     poi_id: str,
     db: AsyncIOMotorDatabase = Depends(get_database),
     current_user: User = Depends(get_current_active_user),
-    layer: Optional[str] = Query(None, regex="^(bronze|silver|gold)$", description="Search in specific layer")
+    layer: Optional[str] = Query(None, pattern="^(bronze|silver|gold)$", description="Search in specific layer")
 ):
     """
     Get chi tiết POI theo ID.
