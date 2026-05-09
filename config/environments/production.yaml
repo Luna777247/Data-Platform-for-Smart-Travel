@@ -1,0 +1,231 @@
+# Production Environment Configuration
+# ======================================
+# Cấu hình cho môi trường production
+# 
+# WARNING: Chỉ dùng cho production deployment!
+# Yêu cầu tất cả secrets phải được set qua environment variables
+
+# Application Settings
+app:
+  name: "Smart Tourism API"
+  version: "1.0.0"
+  environment: "production"
+  debug: false  # TUYỆT ĐỐI không bật trong production
+  
+  # Logging
+  log_level: "INFO"  # WARNING cho production thực tế
+  log_format: "json"  # Luôn JSON trong production
+  
+  # Security
+  cors_origins:
+    - "https://app.smarttravel.vn"
+    - "https://admin.smarttravel.vn"
+    - "https://api.smarttravel.vn"
+  
+  # Rate Limiting - BẬT trong production
+  rate_limit:
+    enabled: true
+    requests_per_minute: 60
+    requests_per_hour: 1000
+
+# Database Settings
+database:
+  mongodb:
+    # Production replica set
+    uri: "${MONGODB_URI}"  # Full connection string
+    
+    # Connection Pool - Tăng cho production
+    max_pool_size: 50
+    min_pool_size: 10
+    max_idle_time_ms: 60000
+    wait_queue_timeout_ms: 5000
+    
+    # Timeouts (giây)
+    connect_timeout: 10
+    server_selection_timeout: 30
+    socket_timeout: 30
+    
+    # Retry
+    retry_writes: true
+    retry_reads: true
+    max_retries: 3
+  
+  redis:
+    # Production Redis (cluster hoặc sentinel)
+    uri: "${REDIS_URL}"
+    
+    # Connection Pool
+    pool_size: 50
+    
+    # Timeouts
+    socket_timeout: 10
+    socket_connect_timeout: 10
+    health_check_interval: 30
+    
+    # SSL cho production
+    ssl: true
+    ssl_cert_reqs: "required"
+
+# External APIs
+external:
+  osm:
+    overpass_url: "https://lz4.overpass-api.de/api/interpreter"
+    timeout: 60
+    rate_limit: 60  # Tuân thủ OSM usage policy
+    
+    # Backup endpoints
+    fallback_urls:
+      - "https://overpass.kumi.systems/api/interpreter"
+      - "https://overpass-api.de/api/interpreter"
+  
+  google_places:
+    api_key: "${GOOGLE_PLACES_API_KEY}"
+    timeout: 30
+    retry_attempts: 3
+
+# Pipeline Settings
+pipeline:
+  # Production cities (đầy đủ)
+  cities:
+    - "tokyo"
+    - "bangkok"
+    - "singapore"
+    - "ho-chi-minh-city"
+    - "hanoi"
+    - "kuala-lumpur"
+    - "jakarta"
+    - "manila"
+    - "seoul"
+    - "taipei"
+  
+  # All categories
+  categories:
+    - "hotel"
+    - "restaurant"
+    - "attraction"
+    - "shopping"
+    - "entertainment"
+    - "transport"
+  
+  # Concurrency - Tăng cho production
+  max_workers: 8
+  
+  # Storage - Production paths
+  bronze_path: "/data/bronze"
+  silver_path: "/data/silver"
+  gold_path: "/data/gold"
+  
+  # Cleanup
+  retention_days:
+    bronze: 30
+    silver: 60
+    gold: -1  # Không xóa
+
+# Monitoring - Đầy đủ trong production
+monitoring:
+  # Prometheus
+  prometheus:
+    enabled: true
+    port: 9090
+    retention: "15d"
+    
+  # Grafana
+  grafana:
+    enabled: true
+    port: 3001
+    
+  # Sentry - BẬT trong production
+  sentry:
+    enabled: true
+    dsn: "${SENTRY_DSN}"
+    environment: "production"
+    traces_sample_rate: 0.1
+    
+  # Datadog (optional)
+  datadog:
+    enabled: false
+    api_key: "${DATADOG_API_KEY}"
+    app_key: "${DATADOG_APP_KEY}"
+  
+  # Health Checks
+  health:
+    enabled: true
+    detailed: false  # Ít thông tin hơn trong production
+    
+  # Alerting
+  alerting:
+    enabled: true
+    channels:
+      - "slack"
+      - "email"
+    slack_webhook: "${SLACK_WEBHOOK_URL}"
+    email_recipients:
+      - "oncall@smarttravel.vn"
+
+# Security
+security:
+  # HTTPS
+  force_https: true
+  hsts_max_age: 31536000  # 1 year
+  
+  # Headers
+  security_headers:
+    x_frame_options: "DENY"
+    x_content_type_options: "nosniff"
+    x_xss_protection: "1; mode=block"
+    referrer_policy: "strict-origin-when-cross-origin"
+  
+  # Content Security Policy
+  csp: "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'"
+  
+  # JWT
+  jwt:
+    secret_key: "${JWT_SECRET_KEY}"  # PHẢI là env var
+    algorithm: "HS256"
+    access_token_expire_minutes: 30
+    refresh_token_expire_days: 7
+    
+  # API Keys
+  require_api_key: true
+
+# Performance
+performance:
+  # Caching
+  cache_ttl:
+    default: 300  # 5 phút
+    pois: 600     # 10 phút
+    stats: 3600   # 1 giờ
+  
+  # Compression
+  gzip_enabled: true
+  brotli_enabled: true
+  
+  # CDN (nếu có)
+  cdn_enabled: false
+  cdn_url: ""
+
+# Backup & Recovery
+backup:
+  enabled: true
+  schedule: "0 2 * * *"  # 2 AM daily
+  retention_days: 30
+  storage:
+    type: "s3"
+    bucket: "smart-tourism-backups"
+    region: "ap-southeast-1"
+  encryption: true
+
+# Maintenance
+maintenance:
+  # Maintenance window
+  window_start: "03:00"
+  window_end: "05:00"
+  timezone: "Asia/Ho_Chi_Minh"
+  
+  # Auto-scale settings
+  autoscaling:
+    enabled: true
+    min_replicas: 3
+    max_replicas: 20
+    target_cpu_utilization: 70
+    target_memory_utilization: 80

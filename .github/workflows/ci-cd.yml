@@ -1,0 +1,381 @@
+# Smart Tourism Data Platform - CI/CD Pipeline
+# ============================================
+# GitHub Actions workflow cho automated testing và deployment
+#
+# Triggers:
+#   - Push lên main branch
+#   - Pull request lên main
+#   - Manual trigger (workflow_dispatch)
+#
+# Jobs:
+#   1. test: Run unit tests, integration tests, coverage
+#   2. lint: Code quality checks (black, isort, flake8, mypy)
+#   3. security: Security scanning (bandit, safety)
+#   4. build: Build Docker image
+#   5. deploy: Deploy lên staging/production
+
+name: CI/CD Pipeline
+
+# ============================================================================
+# TRIGGERS
+# ============================================================================
+on:
+  # Trigger khi push lên main branch
+  push:
+    branches: [ main, develop ]
+    # Chỉ trigger khi files trong src/, tests/, pipelines/ thay đổi
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'pipelines/**'
+      - 'requirements*.txt'
+      - 'Dockerfile'
+      - '.github/workflows/**'
+  
+  # Trigger khi tạo pull request
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'pipelines/**'
+      - 'requirements*.txt'
+  
+  # Manual trigger từ GitHub UI
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy'
+        required: true
+        default: 'staging'
+        type: choice
+        options:
+          - staging
+          - production
+      skip_tests:
+        description: 'Skip tests (emergency only)'
+        required: false
+        default: false
+        type: boolean
+
+# ============================================================================
+# ENVIRONMENT VARIABLES
+# ============================================================================
+env:
+  # Python version
+  PYTHON_VERSION: '3.11'
+  
+  # Docker registry
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+  
+  # Test configuration
+  MONGODB_URI: mongodb://localhost:27017/test
+  REDIS_URL: redis://localhost:6379/0
+  JWT_SECRET_KEY: test-secret-key-32-chars-long-minimum
+
+# ============================================================================
+# JOBS
+# ============================================================================
+jobs:
+  # ==========================================================================
+  # JOB 1: TEST
+  # ==========================================================================
+  test:
+    name: Run Tests
+    runs-on: ubuntu-latest
+    
+    # Services cần cho testing
+    services:
+      # MongoDB service cho tests
+      mongodb:
+        image: mongo:7.0
+        env:
+          MONGO_INITDB_ROOT_USERNAME: admin
+          MONGO_INITDB_ROOT_PASSWORD: admin123
+        ports:
+          - 27017:27017
+        options: >-
+          --health-cmd "mongosh --eval 'db.adminCommand({ ping: 1 })'"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+      
+      # Redis service cho tests
+      redis:
+        image: redis:7.2-alpine
+        ports:
+          - 6379:6379
+        options: >-
+          --health-cmd "redis-cli ping"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+    
+    steps:
+      # Step 1: Checkout code
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      # Step 2: Setup Python
+      - name: Setup Python ${{ env.PYTHON_VERSION }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r requirements-dev.txt
+      
+      # Step 4: Run unit tests với coverage
+      - name: Run unit tests
+        run: |
+          pytest tests/unit -v --cov=src --cov-report=xml --cov-report=term
+      
+      # Step 5: Run integration tests
+      - name: Run integration tests
+        run: |
+          pytest tests/integration -v --cov=src --cov-append
+        env:
+          MONGODB_URI: ${{ env.MONGODB_URI }}
+          REDIS_URL: ${{ env.REDIS_URL }}
+          JWT_SECRET_KEY: ${{ env.JWT_SECRET_KEY }}
+      
+      # Step 6: Upload coverage report
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          file: ./coverage.xml
+          flags: unittests
+          name: codecov-umbrella
+          fail_ci_if_error: false
+      
+      # Step 7: Archive test results
+      - name: Archive test results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: test-results
+          path: |
+            pytest-report.xml
+            coverage.xml
+            htmlcov/
+
+  # ==========================================================================
+  # JOB 2: LINT & FORMAT
+  # ==========================================================================
+  lint:
+    name: Code Quality
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install linting tools
+        run: |
+          pip install black isort flake8 mypy
+      
+      # Check code formatting với Black
+      - name: Check Black formatting
+        run: |
+          black --check --diff src/ tests/ pipelines/
+      
+      # Check import sorting với isort
+      - name: Check isort
+        run: |
+          isort --check-only --diff src/ tests/ pipelines/
+      
+      # Lint với flake8
+      - name: Lint with flake8
+        run: |
+          flake8 src/ tests/ pipelines/ --max-line-length=100 --extend-ignore=E203,W503
+      
+      # Type check với mypy
+      - name: Type check with mypy
+        run: |
+          mypy src/ --ignore-missing-imports --show-error-codes
+
+  # ==========================================================================
+  # JOB 3: SECURITY SCAN
+  # ==========================================================================
+  security:
+    name: Security Scan
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      
+      # Security linting với Bandit
+      - name: Run Bandit security scan
+        run: |
+          pip install bandit
+          bandit -r src/ -f json -o bandit-report.json || true
+          bandit -r src/ -ll
+      
+      # Check vulnerable dependencies với Safety
+      - name: Check dependencies vulnerabilities
+        run: |
+          pip install safety
+          safety check -r requirements.txt --full-report || true
+      
+      # Upload security reports
+      - name: Archive security reports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: security-reports
+          path: bandit-report.json
+
+  # ==========================================================================
+  # JOB 4: BUILD DOCKER IMAGE
+  # ==========================================================================
+  build:
+    name: Build Docker Image
+    runs-on: ubuntu-latest
+    needs: [test, lint, security]  # Chỉ build nếu các jobs trước pass
+    
+    permissions:
+      contents: read
+      packages: write  # Cần để push lên GHCR
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      # Setup Docker Buildx
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+      
+      # Login vào GitHub Container Registry
+      - name: Login to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Extract metadata cho Docker image
+      - name: Extract metadata
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+          tags: |
+            type=ref,event=branch
+            type=ref,event=pr
+            type=sha,prefix=,suffix=,format=short
+            type=raw,value=latest,enable={{is_default_branch}}
+      
+      # Build và push Docker image
+      - name: Build and push
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: ${{ github.event_name != 'pull_request' }}  # Không push PR builds
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha  # GitHub Actions cache
+          cache-to: type=gha,mode=max
+          platforms: linux/amd64,linux/arm64
+
+  # ==========================================================================
+  # JOB 5: DEPLOY TO STAGING
+  # ==========================================================================
+  deploy-staging:
+    name: Deploy to Staging
+    runs-on: ubuntu-latest
+    needs: [build]
+    # Chỉ deploy staging từ develop branch hoặc manual trigger
+    if: github.ref == 'refs/heads/develop' || github.event.inputs.environment == 'staging'
+    
+    environment:
+      name: staging
+      url: https://staging-api.smarttravel.vn
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Deploy to staging server
+        run: |
+          echo "Deploying to staging..."
+          # SSH commands hoặc API calls để deploy
+          # Ví dụ: ssh user@server "docker pull ... && docker-compose up -d"
+        env:
+          DEPLOY_KEY: ${{ secrets.STAGING_DEPLOY_KEY }}
+      
+      - name: Run health check
+        run: |
+          # Wait for deployment
+          sleep 30
+          # Health check
+          curl -f https://staging-api.smarttravel.vn/health || exit 1
+
+  # ==========================================================================
+  # JOB 6: DEPLOY TO PRODUCTION
+  # ==========================================================================
+  deploy-production:
+    name: Deploy to Production
+    runs-on: ubuntu-latest
+    needs: [build]
+    # Chỉ deploy production từ main branch hoặc manual trigger với approval
+    if: github.ref == 'refs/heads/main' || github.event.inputs.environment == 'production'
+    
+    environment:
+      name: production
+      url: https://api.smarttravel.vn
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Deploy to production
+        run: |
+          echo "Deploying to production..."
+          # Production deployment commands
+          # Ví dụ: kubectl apply -f k8s/
+        env:
+          KUBECONFIG: ${{ secrets.KUBECONFIG }}
+      
+      - name: Run smoke tests
+        run: |
+          sleep 30
+          curl -f https://api.smarttravel.vn/health
+          curl -f https://api.smarttravel.vn/ready
+      
+      - name: Notify deployment success
+        if: success()
+        uses: slackapi/slack-github-action@v1
+        with:
+          payload: |
+            {
+              "text": "✅ Production deployment successful!",
+              "blocks": [
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "*Smart Tourism API* deployed successfully to production"
+                  }
+                }
+              ]
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}

@@ -1,0 +1,446 @@
+{
+  "metadata": {
+    "platform": "SMART TOURISM DATA PLATFORM",
+    "version": "1.0",
+    "created": "2026-05-08",
+    "description": "Complete JSON Schema Reference for all MongoDB Collections"
+  },
+
+  "collections": {
+    "source_registry": {
+      "description": "Quản lý các nguồn dữ liệu",
+      "index_keys": ["source_name"],
+      "schema": {
+        "_id": { "type": "ObjectId", "description": "MongoDB ID" },
+        "source_name": { "type": "string", "required": true, "description": "Tên nguồn (osm, google_places, etc)" },
+        "source_type": { "type": "string", "required": true, "description": "Loại nguồn (geo_api, review_api, etc)" },
+        "api_endpoint": { "type": "string", "required": true, "description": "API endpoint" },
+        "enabled": { "type": "boolean", "default": true },
+        "capabilities": {
+          "type": "object",
+          "supports_reviews": "boolean",
+          "supports_images": "boolean",
+          "supports_geo": "boolean",
+          "supports_rating": "boolean"
+        },
+        "rate_limit": {
+          "type": "object",
+          "rpm": { "type": "integer", "description": "Requests per minute" },
+          "requests_per_day": { "type": "integer" }
+        },
+        "authentication": {
+          "type": "object",
+          "type_field": { "type": "string", "description": "api_key, oauth2, basic_auth" },
+          "key_location": { "type": "string", "description": "Path trong vault" }
+        },
+        "retry_policy": {
+          "type": "object",
+          "max_retries": { "type": "integer", "default": 3 },
+          "backoff_ms": { "type": "integer", "default": 1000 }
+        },
+        "created_at": { "type": "ISODate" },
+        "updated_at": { "type": "ISODate" },
+        "last_health_check": { "type": "ISODate" }
+      },
+      "example": {
+        "_id": "ObjectId(...)",
+        "source_name": "osm",
+        "source_type": "geo_api",
+        "api_endpoint": "https://api.openstreetmap.org/api/0.6",
+        "enabled": true,
+        "capabilities": {
+          "supports_reviews": false,
+          "supports_images": false,
+          "supports_geo": true,
+          "supports_rating": false
+        },
+        "rate_limit": {
+          "rpm": 60,
+          "requests_per_day": 50000
+        },
+        "authentication": {
+          "type": "none"
+        },
+        "retry_policy": {
+          "max_retries": 3,
+          "backoff_ms": 1000
+        },
+        "created_at": "2026-05-01T10:00:00Z",
+        "updated_at": "2026-05-08T10:00:00Z",
+        "last_health_check": "2026-05-08T10:00:00Z"
+      }
+    },
+
+    "pipeline_registry": {
+      "description": "Định nghĩa các pipeline",
+      "index_keys": ["pipeline_name", "source_name"],
+      "schema": {
+        "_id": { "type": "ObjectId" },
+        "pipeline_name": { "type": "string", "required": true, "unique": true },
+        "source_name": { "type": "string", "required": true },
+        "version": { "type": "string", "default": "1.0" },
+        "enabled": { "type": "boolean", "default": true },
+        "stages": { "type": "array", "items": "string", "description": "[bronze, silver, gold]" },
+        "stage_config": {
+          "type": "object",
+          "bronze": {
+            "type": { "type": "string" },
+            "batch_size": "integer",
+            "timeout_sec": "integer"
+          },
+          "silver": {
+            "type": { "type": "string" },
+            "transformations": { "type": "array", "items": "string" },
+            "timeout_sec": "integer"
+          },
+          "gold": {
+            "type": { "type": "string" },
+            "aggregations": { "type": "array", "items": "string" },
+            "timeout_sec": "integer"
+          }
+        },
+        "retry_policy": {
+          "max_retry": "integer",
+          "backoff_type": "string",
+          "backoff_ms": "integer"
+        },
+        "schedule": { "type": "string", "description": "Cron expression" },
+        "schedule_timezone": { "type": "string", "default": "UTC" },
+        "dependencies": { "type": "array", "items": "string" },
+        "owner": { "type": "string" },
+        "created_at": "ISODate",
+        "updated_at": "ISODate"
+      }
+    },
+
+    "pipeline_execution": {
+      "description": "Lịch sử thực thi pipeline",
+      "index_keys": [
+        { "key": "execution_id", "unique": true },
+        { "key": "status" },
+        { "key": ["pipeline_name", "started_at"] },
+        { "key": "started_at", "sort": -1 }
+      ],
+      "schema": {
+        "_id": "ObjectId",
+        "execution_id": { "type": "string", "required": true, "unique": true },
+        "pipeline_name": "string",
+        "source_name": "string",
+        "status": { "type": "string", "enum": ["CREATED", "SCHEDULED", "RUNNING", "VALIDATING", "BRONZE_PROCESSING", "SILVER_PROCESSING", "GOLD_PROCESSING", "COMPLETED", "FAILED", "FAILED_PERMANENTLY"] },
+        "current_stage": "string",
+        "started_at": "ISODate",
+        "completed_at": "ISODate",
+        "scheduled_at": "ISODate",
+        "triggered_by": { "type": "string", "description": "scheduler, manual, api" },
+        "duration_ms": "integer",
+        "records": {
+          "total_processed": "integer",
+          "successfully_processed": "integer",
+          "failed": "integer",
+          "skipped": "integer"
+        },
+        "retry_count": { "type": "integer", "default": 0 },
+        "last_retry_at": "ISODate",
+        "error_message": "string",
+        "logs_location": { "type": "string", "description": "S3/GCS path" },
+        "artifacts": {
+          "bronze_location": "string",
+          "silver_location": "string",
+          "gold_location": "string"
+        }
+      }
+    },
+
+    "pipeline_stage_execution": {
+      "description": "Chi tiết thực thi từng stage",
+      "index_keys": [
+        { "key": "execution_id" },
+        { "key": ["execution_id", "stage_name"] }
+      ],
+      "schema": {
+        "_id": "ObjectId",
+        "stage_execution_id": { "type": "string", "unique": true },
+        "execution_id": "string",
+        "pipeline_name": "string",
+        "stage_name": { "type": "string", "enum": ["bronze", "silver", "gold"] },
+        "status": "string",
+        "started_at": "ISODate",
+        "completed_at": "ISODate",
+        "duration_ms": "integer",
+        "records": {
+          "input": "integer",
+          "output": "integer",
+          "failed": "integer",
+          "error_rate": "float"
+        },
+        "transformations": {
+          "type": "object",
+          "normalize": { "applied": "boolean", "affected": "integer" },
+          "validate": { "applied": "boolean", "failed": "integer" },
+          "deduplicate": { "applied": "boolean", "removed": "integer" }
+        },
+        "resource_usage": {
+          "memory_used_mb": "integer",
+          "cpu_usage_percent": "float",
+          "disk_usage_mb": "integer"
+        },
+        "checkpoint_location": "string"
+      }
+    },
+
+    "master_poi": {
+      "description": "Dữ liệu POI chính sau khi hợp nhất từ nhiều nguồn",
+      "index_keys": [
+        { "key": "poi_id", "unique": true },
+        { "key": "location", "type": "2dsphere" },
+        { "key": ["name", "search_keywords"], "type": "text" },
+        { "key": ["city", "category"] },
+        { "key": ["rating", "review_count"], "sort": [-1, -1] },
+        { "key": "business_score", "sort": -1 },
+        { "key": "updated_at", "sort": -1 }
+      ],
+      "schema": {
+        "_id": "ObjectId",
+        "poi_id": { "type": "string", "unique": true, "required": true },
+        "name": { "type": "string", "required": true },
+        "city": "string",
+        "country": "string",
+        "category": "string",
+        "sub_categories": { "type": "array", "items": "string" },
+        "location": {
+          "type": "Point",
+          "coordinates": [139.7454, 35.6586],
+          "description": "[longitude, latitude]"
+        },
+        "address": {
+          "street": "string",
+          "city": "string",
+          "postal_code": "string",
+          "country": "string"
+        },
+        "rating": {
+          "overall": "float",
+          "osm": "float",
+          "google": "float",
+          "tripadvisor": "float"
+        },
+        "review_count": "integer",
+        "reviews": {
+          "total": "integer",
+          "osm": "integer",
+          "google": "integer",
+          "tripadvisor": "integer"
+        },
+        "sources": { "type": "array", "items": "string" },
+        "source_pois": {
+          "osm": "string",
+          "google": "string",
+          "tripadvisor": "string"
+        },
+        "search_keywords": { "type": "array", "items": "string" },
+        "embedding_ready_text": "string",
+        "business_score": { "type": "float", "min": 0, "max": 1 },
+        "popularity_score": { "type": "float", "min": 0, "max": 1 },
+        "relevance_score": { "type": "float", "min": 0, "max": 1 },
+        "tags": { "type": "array", "items": "string" },
+        "opening_hours": "string",
+        "phone": "string",
+        "website": "string",
+        "admission_fee": {
+          "amount": "float",
+          "currency": "string",
+          "source": "string"
+        },
+        "amenities": { "type": "array", "items": "string" },
+        "quality_score": { "type": "float", "description": "Data quality score 0-1" },
+        "last_verified_at": "ISODate",
+        "updated_at": { "type": "ISODate", "required": true },
+        "created_at": "ISODate"
+      }
+    },
+
+    "poi_reviews": {
+      "description": "Đánh giá và nhận xét cho POI",
+      "index_keys": [
+        { "key": "poi_id" },
+        { "key": ["poi_id", "created_at"] },
+        { "key": "source" }
+      ],
+      "schema": {
+        "_id": "ObjectId",
+        "review_id": { "type": "string", "unique": true },
+        "poi_id": { "type": "string", "required": true },
+        "source": { "type": "string", "description": "osm, google, tripadvisor" },
+        "author": "string",
+        "rating": { "type": "float", "min": 0, "max": 5 },
+        "title": "string",
+        "text": "string",
+        "language": { "type": "string", "default": "en" },
+        "helpful_count": { "type": "integer", "default": 0 },
+        "created_at": "ISODate",
+        "updated_at": "ISODate"
+      }
+    },
+
+    "poi_categories": {
+      "description": "Phân loại POI",
+      "index_keys": ["poi_id", "category_name"],
+      "schema": {
+        "_id": "ObjectId",
+        "poi_id": "string",
+        "category_id": { "type": "string", "unique": true },
+        "category_name": "string",
+        "source": "string",
+        "confidence": { "type": "float", "min": 0, "max": 1 },
+        "created_at": "ISODate"
+      }
+    },
+
+    "data_quality_reports": {
+      "description": "Báo cáo chất lượng dữ liệu",
+      "index_keys": [
+        { "key": "execution_id" },
+        { "key": "report_date", "sort": -1 }
+      ],
+      "schema": {
+        "_id": "ObjectId",
+        "report_id": { "type": "string", "unique": true },
+        "execution_id": "string",
+        "report_date": "ISODate",
+        "stage": "string",
+        "total_records": "integer",
+        "quality_metrics": {
+          "null_count": "integer",
+          "duplicate_count": "integer",
+          "invalid_schema_count": "integer",
+          "outlier_count": "integer",
+          "quality_score": { "type": "float", "min": 0, "max": 1 }
+        },
+        "issues": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "field": "string",
+            "issue_type": "string",
+            "count": "integer",
+            "severity": { "type": "string", "enum": ["low", "medium", "high"] }
+          }
+        },
+        "recommendations": { "type": "array", "items": "string" }
+      }
+    }
+  },
+
+  "indexes": {
+    "master_poi_indexes": [
+      {
+        "name": "geospatial_index",
+        "fields": { "location": "2dsphere" },
+        "purpose": "Geospatial queries"
+      },
+      {
+        "name": "text_search_index",
+        "fields": { "name": "text", "search_keywords": "text" },
+        "purpose": "Full-text search"
+      },
+      {
+        "name": "city_category_index",
+        "fields": { "city": 1, "category": 1 },
+        "purpose": "Filter by city and category"
+      },
+      {
+        "name": "rating_index",
+        "fields": { "rating.overall": -1, "review_count": -1 },
+        "purpose": "Sort by rating"
+      },
+      {
+        "name": "business_score_index",
+        "fields": { "business_score": -1 },
+        "purpose": "Priority ranking"
+      }
+    ],
+    "pipeline_execution_indexes": [
+      {
+        "name": "execution_id_unique",
+        "fields": { "execution_id": 1 },
+        "unique": true
+      },
+      {
+        "name": "status_index",
+        "fields": { "status": 1, "started_at": -1 },
+        "purpose": "Monitor execution status"
+      },
+      {
+        "name": "pipeline_timeline",
+        "fields": { "pipeline_name": 1, "started_at": -1 },
+        "purpose": "View pipeline history"
+      }
+    ]
+  },
+
+  "queries": {
+    "find_nearby_poi": {
+      "description": "Tìm POI gần nhất trong bán kính",
+      "query": {
+        "location": {
+          "$near": {
+            "$geometry": {
+              "type": "Point",
+              "coordinates": [139.7454, 35.6586]
+            },
+            "$maxDistance": 5000
+          }
+        }
+      },
+      "uses_index": "geospatial_index"
+    },
+    "search_by_text": {
+      "description": "Tìm kiếm toàn văn bản",
+      "query": {
+        "$text": {
+          "$search": "tokyo tower restaurant"
+        }
+      },
+      "uses_index": "text_search_index"
+    },
+    "filter_by_location_and_category": {
+      "description": "Lọc theo thành phố và loại POI",
+      "query": {
+        "city": "tokyo",
+        "category": "restaurant",
+        "rating.overall": { "$gte": 4.0 }
+      },
+      "uses_index": "city_category_index"
+    },
+    "get_execution_history": {
+      "description": "Lấy lịch sử thực thi pipeline",
+      "query": {
+        "pipeline_name": "osm_pipeline",
+        "status": "COMPLETED"
+      },
+      "sort": { "started_at": -1 },
+      "uses_index": "pipeline_timeline"
+    }
+  },
+
+  "best_practices": {
+    "indexing": [
+      "Always create index before deploying new queries",
+      "Monitor index size and rebuild periodically",
+      "Use compound indexes for common filter combinations",
+      "Profile slow queries and add indexes accordingly"
+    ],
+    "data_organization": [
+      "Partition large collections by date and city",
+      "Archive old records to separate collections",
+      "Keep frequently accessed data in hot storage",
+      "Use TTL indexes for temporary data cleanup"
+    ],
+    "query_optimization": [
+      "Use projection to retrieve only needed fields",
+      "Limit result sets with $limit",
+      "Use aggregation pipeline for complex operations",
+      "Avoid expensive $lookup operations when possible"
+    ]
+  }
+}

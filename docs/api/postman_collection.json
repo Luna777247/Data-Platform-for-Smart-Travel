@@ -1,0 +1,609 @@
+{
+  "info": {
+    "name": "Smart Tourism Data Platform API",
+    "description": "Postman collection cho Smart Tourism Data Platform API",
+    "version": "1.0.0",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health & Monitoring",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/health",
+              "host": ["{{base_url}}"],
+              "path": ["health"]
+            },
+            "description": "Basic health check endpoint"
+          },
+          "response": []
+        },
+        {
+          "name": "Readiness Check",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/ready",
+              "host": ["{{base_url}}"],
+              "path": ["ready"]
+            },
+            "description": "Readiness probe với dependency checks"
+          },
+          "response": []
+        },
+        {
+          "name": "Prometheus Metrics",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/metrics",
+              "host": ["{{base_url}}"],
+              "path": ["metrics"]
+            },
+            "description": "Prometheus metrics endpoint"
+          },
+          "response": []
+        },
+        {
+          "name": "Detailed Status",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/monitoring/status",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "monitoring", "status"]
+            },
+            "description": "Detailed system status (requires auth)"
+          },
+          "response": []
+        },
+        {
+          "name": "API Version",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/monitoring/version",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "monitoring", "version"]
+            },
+            "description": "Get API version information"
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Authentication",
+      "item": [
+        {
+          "name": "Login",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/v1/auth/login",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "auth", "login"]
+            },
+            "description": "Authenticate và nhận JWT token"
+          },
+          "response": [],
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "var jsonData = pm.response.json();",
+                  "if (jsonData.access_token) {",
+                  "    pm.environment.set(\"access_token\", jsonData.access_token);",
+                  "    pm.environment.set(\"token_type\", jsonData.token_type);",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pipeline Management",
+      "item": [
+        {
+          "name": "Start Pipeline",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"pipeline_id\": \"osm_ingestion_pipeline\",\n  \"config\": {\n    \"city\": \"tokyo\",\n    \"category\": \"hotel\",\n    \"dry_run\": false\n  }\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/v1/pipeline/start",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pipeline", "start"]
+            },
+            "description": "Khởi động data pipeline"
+          },
+          "response": []
+        },
+        {
+          "name": "Stop Pipeline",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/pipeline/stop/{{execution_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pipeline", "stop", "{{execution_id}}"]
+            },
+            "description": "Dừng pipeline đang chạy"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Pipeline Status",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/pipeline/status/{{execution_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pipeline", "status", "{{execution_id}}"]
+            },
+            "description": "Lấy trạng thái pipeline execution"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Pipeline History",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/pipeline/history?limit=10&offset=0",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pipeline", "history"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10"
+                },
+                {
+                  "key": "offset",
+                  "value": "0"
+                }
+              ]
+            },
+            "description": "Lấy lịch sử pipeline executions"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Dashboard",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/pipeline/dashboard",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pipeline", "dashboard"]
+            },
+            "description": "Lấy dashboard data"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Metrics",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/pipeline/metrics?period=24h",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "pipeline", "metrics"],
+              "query": [
+                {
+                  "key": "period",
+                  "value": "24h"
+                }
+              ]
+            },
+            "description": "Lấy pipeline metrics"
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Data Query",
+      "item": [
+        {
+          "name": "List POIs",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/data/pois?city=tokyo&category=hotel&page=1&page_size=20",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "data", "pois"],
+              "query": [
+                {
+                  "key": "city",
+                  "value": "tokyo"
+                },
+                {
+                  "key": "category",
+                  "value": "hotel"
+                },
+                {
+                  "key": "page",
+                  "value": "1"
+                },
+                {
+                  "key": "page_size",
+                  "value": "20"
+                }
+              ]
+            },
+            "description": "List POIs với filter và pagination"
+          },
+          "response": []
+        },
+        {
+          "name": "Get POI Detail",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/data/pois/{{poi_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "data", "pois", "{{poi_id}}"]
+            },
+            "description": "Lấy chi tiết POI"
+          },
+          "response": []
+        },
+        {
+          "name": "Find Nearby POIs",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/data/pois/nearby?lat=35.6762&lon=139.6503&radius=1000&category=restaurant&limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "data", "pois", "nearby"],
+              "query": [
+                {
+                  "key": "lat",
+                  "value": "35.6762"
+                },
+                {
+                  "key": "lon",
+                  "value": "139.6503"
+                },
+                {
+                  "key": "radius",
+                  "value": "1000"
+                },
+                {
+                  "key": "category",
+                  "value": "restaurant"
+                },
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ]
+            },
+            "description": "Tìm POIs gần một vị trí"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Data Stats",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/data/stats",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "data", "stats"]
+            },
+            "description": "Lấy thống kê dữ liệu"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Layer Info",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/data/layers",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "data", "layers"]
+            },
+            "description": "Lấy thông tin các data layers"
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Admin",
+      "item": [
+        {
+          "name": "List Users",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/admin/users?skip=0&limit=100",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "admin", "users"],
+              "query": [
+                {
+                  "key": "skip",
+                  "value": "0"
+                },
+                {
+                  "key": "limit",
+                  "value": "100"
+                }
+              ]
+            },
+            "description": "List tất cả users (admin only)"
+          },
+          "response": []
+        },
+        {
+          "name": "Create User",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json",
+                "type": "text"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"newuser\",\n  \"email\": \"newuser@example.com\",\n  \"password\": \"securepassword123\",\n  \"role\": \"user\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/v1/admin/users",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "admin", "users"]
+            },
+            "description": "Tạo user mới (admin only)"
+          },
+          "response": []
+        },
+        {
+          "name": "Delete User",
+          "request": {
+            "method": "DELETE",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/admin/users/{{user_id}}",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "admin", "users", "{{user_id}}"]
+            },
+            "description": "Xóa user (admin only)"
+          },
+          "response": []
+        },
+        {
+          "name": "Get System Stats",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/admin/stats",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "admin", "stats"]
+            },
+            "description": "Lấy system statistics (admin only)"
+          },
+          "response": []
+        },
+        {
+          "name": "Run Cleanup",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{access_token}}",
+                "type": "text"
+              }
+            ],
+            "url": {
+              "raw": "{{base_url}}/api/v1/admin/cleanup",
+              "host": ["{{base_url}}"],
+              "path": ["api", "v1", "admin", "cleanup"]
+            },
+            "description": "Chạy cleanup tasks (admin only)"
+          },
+          "response": []
+        }
+      ]
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "// Set default timeout",
+          "pm.request.timeout = {",
+          "    connect: 5000,",
+          "    read: 30000,",
+          "    write: 30000,",
+          "    request: 30000",
+          "};"
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:8000",
+      "type": "string",
+      "description": "API base URL"
+    },
+    {
+      "key": "access_token",
+      "value": "",
+      "type": "string",
+      "description": "JWT access token"
+    },
+    {
+      "key": "execution_id",
+      "value": "",
+      "type": "string",
+      "description": "Pipeline execution ID"
+    },
+    {
+      "key": "poi_id",
+      "value": "",
+      "type": "string",
+      "description": "POI identifier"
+    },
+    {
+      "key": "user_id",
+      "value": "",
+      "type": "string",
+      "description": "User ID"
+    }
+  ]
+}

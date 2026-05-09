@@ -1,0 +1,160 @@
+"""
+Smart Tourism Data Platform - Python Dependencies
+=================================================
+Danh sách các packages cần thiết để chạy dự án
+
+Installation:
+    pip install -r requirements.txt
+
+Categories:
+- Web Framework: FastAPI và các dependencies
+- Database: MongoDB (Motor), Redis
+- Data Processing: Pandas, NumPy
+- HTTP Clients: HTTPx cho async requests
+- Authentication: JWT handling
+- Validation: Pydantic cho data models
+- Utilities: Các helper libraries
+
+Notes:
+- FastAPI 0.104+ yêu cầu Python 3.8+
+- Motor 3.3+ cho MongoDB 5.0+
+- HTTPx 0.25+ cho HTTP/2 support
+"""
+
+# ============================================
+# WEB FRAMEWORK
+# ============================================
+# FastAPI: High-performance web framework cho APIs
+# Starlette: ASGI framework (FastAPI dependency)
+# Uvicorn: ASGI server để chạy FastAPI
+fastapi>=0.104.1
+uvicorn[standard]>=0.24.0
+
+# Pydantic: Data validation và settings management
+# pydantic-settings: Settings management với env vars
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Python-JOSE: JWT tokens cho authentication
+cryptography>=41.0.0
+python-jose[cryptography]>=3.3.0
+
+# Passlib: Password hashing
+passlib[bcrypt]>=1.7.4
+
+# ============================================
+# DATABASE
+# ============================================
+# Motor: Async MongoDB driver (wrapper của PyMongo)
+# PyMongo: MongoDB driver (Motor dependency)
+motor>=3.3.2
+pymongo>=4.6.0
+
+# Redis: Async Redis client
+redis>=5.0.0
+
+# ============================================
+# HTTP CLIENTS
+# ============================================
+# HTTPx: Modern async HTTP client
+# Hỗ trợ HTTP/2, streaming, connection pooling
+httpx>=0.25.0
+
+# aiohttp: Alternative async HTTP client (cho một số use cases)
+aiohttp>=3.9.0
+
+# ============================================
+# DATA PROCESSING
+# ============================================
+# Pandas: Data manipulation và analysis
+# NumPy: Numerical computing (Pandas dependency)
+pandas>=2.1.0
+numpy>=1.26.0
+
+# PyArrow: In-memory columnar data format (cho Parquet)
+pyarrow>=14.0.0
+
+# ============================================
+# TASK SCHEDULING & BACKGROUND JOBS
+# ============================================
+# Celery: Distributed task queue
+# Redis là broker và backend cho Celery
+celery[redis]>=5.3.0
+
+# APScheduler: Advanced Python Scheduler (cho cron jobs)
+apscheduler>=3.10.0
+
+# ============================================
+# MONITORING & OBSERVABILITY
+# ============================================
+# Prometheus Client: Metrics collection
+prometheus-client>=0.19.0
+
+# OpenTelemetry: Distributed tracing
+opentelemetry-api>=1.21.0
+opentelemetry-sdk>=1.21.0
+opentelemetry-instrumentation-fastapi>=0.42b0
+
+# ============================================
+# TESTING
+# ============================================
+# pytest: Testing framework
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# HTTPretty: HTTP request mocking cho tests
+httpretty>=1.1.0
+
+# Faker: Generate fake data cho tests
+faker>=20.0.0
+
+# ============================================
+# DEVELOPMENT TOOLS
+# ============================================
+# Black: Code formatter
+black>=23.11.0
+
+# isort: Import sorter
+isort>=5.12.0
+
+# flake8: Linter
+flake8>=6.1.0
+
+# mypy: Static type checker
+mypy>=1.7.0
+
+# ============================================
+# DOCUMENTATION
+# ============================================
+# MkDocs: Static site generator cho documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.4.0
+
+# ============================================
+# UTILITIES
+# ============================================
+# python-dotenv: Load environment variables từ .env files
+python-dotenv>=1.0.0
+
+# tenacity: Retry library
+# Dùng cho automatic retry với exponential backoff
+tenacity>=8.2.0
+
+# email-validator: Email validation
+email-validator>=2.1.0
+
+# orjson: Fast JSON library (optional, thay thế json)
+orjson>=3.9.0
+
+# python-multipart: Form data parsing (FastAPI dependency)
+python-multipart>=0.0.6
+
+# ============================================
+# PRODUCTION DEPLOYMENT
+# ============================================
+# Gunicorn: WSGI HTTP Server (production)
+gunicorn>=21.2.0
+
+# Supervisor: Process control system (cho production)
+supervisor>=4.2.0

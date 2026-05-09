@@ -1,0 +1,272 @@
+# Smart Tourism Data Platform - Prometheus Configuration
+# =======================================================
+# Configuration cho Prometheus metrics collection
+#
+# Mục đích:
+# - Scrape metrics từ FastAPI application
+# - Monitor system performance
+# - Alert rules cho critical issues
+#
+# Targets:
+# - api:8000: FastAPI application metrics
+# - mongodb: MongoDB exporter metrics (nếu có)
+# - redis: Redis exporter metrics (nếu có)
+# - node: Node exporter cho system metrics
+
+# ============================================================================
+# GLOBAL CONFIGURATION
+# ============================================================================
+global:
+  # scrape_interval: Tần suất scrape metrics (default: 15s)
+  scrape_interval: 15s
+  
+  # evaluation_interval: Tần suất evaluate rules (default: 15s)
+  evaluation_interval: 15s
+  
+  # external_labels: Labels được attach vào tất cả alerts và remote writes
+  external_labels:
+    # Cluster identifier
+    cluster: 'smart-tourism'
+    # Environment label
+    environment: 'production'
+    # Replica identifier (cho HA setups)
+    replica: '{{.ExternalURL}}'
+
+# ============================================================================
+# ALERTING
+# ============================================================================
+alerting:
+  alertmanagers:
+    # Cấu hình Alertmanager endpoints
+    - static_configs:
+        - targets:
+            # Alertmanager service (nếu có setup)
+            - 'alertmanager:9093'
+      
+      # Timeout cho alertmanager requests
+      timeout: 10s
+      
+      # API version
+      api_version: v2
+
+# ============================================================================
+# RULE FILES
+# ============================================================================
+# Load alerting rules từ files
+rule_files:
+  # Application alerts (pipeline failures, API errors)
+  - 'alerts.yml'
+  # Có thể thêm nhiều rule files
+  # - 'infrastructure_alerts.yml'
+  # - 'business_alerts.yml'
+
+# ============================================================================
+# SCRAPE CONFIGURATIONS
+# ============================================================================
+scrape_configs:
+  
+  # --------------------------------------------------------------------------
+  # PROMETHEUS SELF-MONITORING
+  # --------------------------------------------------------------------------
+  - job_name: 'prometheus'
+    
+    # Override global scrape_interval
+    scrape_interval: 15s
+    
+    # Metrics path (default: /metrics)
+    metrics_path: '/metrics'
+    
+    # Scrape targets
+    static_configs:
+      - targets:
+          - 'localhost:9090'
+    
+    # Labels cho metrics từ target này
+    labels:
+      service: 'prometheus'
+      tier: 'monitoring'
+  
+  # --------------------------------------------------------------------------
+  # FASTAPI APPLICATION
+  # --------------------------------------------------------------------------
+  - job_name: 'smart-tourism-api'
+    
+    # Scrape interval cho API metrics
+    scrape_interval: 10s
+    
+    # Timeout cho scrape requests
+    scrape_timeout: 5s
+    
+    # Metrics endpoint của FastAPI app
+    metrics_path: '/metrics'
+    
+    # Static targets (trong Docker network)
+    static_configs:
+      - targets:
+          - 'api:8000'  # Service name trong docker-compose network
+        labels:
+          service: 'api'
+          tier: 'application'
+          language: 'python'
+    
+    # Relabel configs để modify labels
+    relabel_configs:
+      # Drop unnecessary labels
+      - regex: '(.+)'
+        action: labeldrop
+        # Giữ lại các labels quan trọng
+  
+  # --------------------------------------------------------------------------
+  # MONGODB METRICS (nếu có MongoDB exporter)
+  # --------------------------------------------------------------------------
+  - job_name: 'mongodb'
+    
+    scrape_interval: 30s
+    
+    static_configs:
+      - targets:
+          - 'mongodb-exporter:9216'  # MongoDB exporter port
+        labels:
+          service: 'mongodb'
+          tier: 'database'
+    
+    # Metric relabeling để filter
+    metric_relabel_configs:
+      # Drop system và admin database metrics
+      - source_labels: [database]
+        regex: '(admin|config|local)'
+        action: drop
+  
+  # --------------------------------------------------------------------------
+  # REDIS METRICS (nếu có Redis exporter)
+  # --------------------------------------------------------------------------
+  - job_name: 'redis'
+    
+    scrape_interval: 30s
+    
+    static_configs:
+      - targets:
+          - 'redis-exporter:9121'  # Redis exporter port
+        labels:
+          service: 'redis'
+          tier: 'cache'
+  
+  # --------------------------------------------------------------------------
+  # NODE EXPORTER (System metrics)
+  # --------------------------------------------------------------------------
+  - job_name: 'node-exporter'
+    
+    scrape_interval: 15s
+    
+    static_configs:
+      - targets:
+          - 'node-exporter:9100'
+        labels:
+          service: 'node'
+          tier: 'infrastructure'
+  
+  # --------------------------------------------------------------------------
+  # DOCKER DAEMON METRICS (nếu có Docker daemon metrics)
+  # --------------------------------------------------------------------------
+  - job_name: 'docker'
+    
+    scrape_interval: 30s
+    
+    static_configs:
+      - targets:
+          - 'docker-exporter:9323'
+        labels:
+          service: 'docker'
+          tier: 'infrastructure'
+  
+  # --------------------------------------------------------------------------
+  # CELERY WORKERS METRICS (nếu có Celery exporter)
+  # --------------------------------------------------------------------------
+  - job_name: 'celery'
+    
+    scrape_interval: 30s
+    
+    static_configs:
+      - targets:
+          - 'celery-exporter:9808'
+        labels:
+          service: 'celery'
+          tier: 'workers'
+
+# ============================================================================
+# REMOTE WRITE (Optional - cho external storage)
+# ============================================================================
+# remote_write:
+#   - url: 'https://prometheus-remote-write.example.com/api/v1/write'
+#     
+#     # Basic auth
+#     basic_auth:
+#       username: 'prometheus'
+#       password_file: '/etc/prometheus/remote_write_password'
+#     
+#     # Queue config
+#     queue_config:
+#       capacity: 10000
+#       max_samples_per_send: 1000
+#       max_shards: 200
+
+# ============================================================================
+# REMOTE READ (Optional - cho external storage)
+# ============================================================================
+# remote_read:
+#   - url: 'https://prometheus-remote-read.example.com/api/v1/read'
+#     
+#     basic_auth:
+#       username: 'prometheus'
+#       password_file: '/etc/prometheus/remote_read_password'
+#     
+#     read_recent: true
+
+# ============================================================================
+# STORAGE CONFIGURATION
+# ============================================================================
+storage:
+  # Time series retention (15 ngày cho development, 30+ cho production)
+  tsdb:
+    retention.time: 15d
+    
+    # Retention size (500MB default, tăng cho production)
+    retention.size: 2GB
+    
+    # Wal compression
+    wal-compression: true
+
+# ============================================================================
+# QUERY CONFIGURATION
+# ============================================================================
+# Query settings cho PromQL queries
+query:
+  # Timeout cho queries
+  timeout: 2m
+  
+  # Max concurrency
+  max-concurrency: 20
+
+# ============================================================================
+# RULES EVALUATION
+# ============================================================================
+# Cấu hình cho rule evaluation
+rule_query_offset: 1m
+
+# ============================================================================
+# TRACING (Experimental)
+# ============================================================================
+# tracing:
+#   # Jaeger hoặc OTLP endpoint
+#   endpoint: 'jaeger:14268'
+#   client_type: 'http'
+#   service_name: 'prometheus'
+
+# ============================================================================
+# NOTES
+# ============================================================================
+# 1. Trong Docker, dùng service names (api, mongodb, redis) làm targets
+# 2. Cần setup exporters (mongodb-exporter, redis-exporter) để có metrics
+# 3. Alertmanager cần được cấu hình riêng cho alerting
+# 4. Remote write/read optional cho long-term storage
+# ============================================================================

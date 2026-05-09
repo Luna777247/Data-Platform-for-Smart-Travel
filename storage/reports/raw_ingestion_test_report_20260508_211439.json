@@ -1,0 +1,59 @@
+{
+  "test_suite": "raw_ingestion",
+  "started_at": "2026-05-08T21:14:39.824399+00:00",
+  "osm_tests": {
+    "api_connectivity": {
+      "test_name": "osm_api_connectivity",
+      "started_at": "2026-05-08T21:14:39.826238+00:00",
+      "status": "failed",
+      "details": {
+        "config_loaded": {
+          "status": "failed",
+          "error": "'OSMIngestionEngine' object has no attribute 'overpass_urls'"
+        }
+      },
+      "errors": [
+        "Config loading failed: 'OSMIngestionEngine' object has no attribute 'overpass_urls'",
+        "Test execution failed: cannot access local variable 'urls' where it is not associated with a value"
+      ],
+      "completed_at": "2026-05-08T21:14:39.826562+00:00"
+    },
+    "ingestion_mechanisms": {
+      "test_name": "ingestion_mechanisms",
+      "started_at": "2026-05-08T21:14:39.826787+00:00",
+      "status": "failed",
+      "details": {
+        "retry_mechanism": {
+          "invalid_city": {
+            "records_count": 0,
+            "handled_gracefully": true,
+            "status": "success"
+          }
+        }
+      },
+      "errors": [
+        "Test execution failed: cannot access local variable 'original_urls' where it is not associated with a value"
+      ],
+      "completed_at": "2026-05-08T21:14:39.827250+00:00"
+    },
+    "bronze_storage": {
+      "test_name": "bronze_storage_validation",
+      "started_at": "2026-05-08T21:14:39.827534+00:00",
+      "status": "failed",
+      "details": {},
+      "errors": [
+        "Test execution failed: name 'os' is not defined"
+      ],
+      "completed_at": "2026-05-08T21:14:39.827744+00:00"
+    }
+  },
+  "google_tests": {},
+  "summary": {
+    "total_tests": 3,
+    "passed_tests": 0,
+    "failed_tests": 3,
+    "success_rate": 0.0,
+    "overall_status": "failed",
+    "completed_at": "2026-05-08T21:14:39.828062+00:00"
+  }
+}

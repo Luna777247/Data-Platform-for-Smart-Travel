@@ -1,0 +1,117 @@
+# Staging Environment Configuration
+# ======================================
+# Cấu hình cho môi trường staging (pre-production)
+# 
+# Mô phỏng production nhưng với ít resources hơn
+
+# Application Settings
+app:
+  name: "Smart Tourism API"
+  version: "1.0.0"
+  environment: "staging"
+  debug: false  # Giống production
+  
+  # Logging
+  log_level: "INFO"
+  log_format: "json"
+  
+  # Security - production-like
+  cors_origins:
+    - "https://staging-app.smarttravel.vn"
+    - "https://staging-admin.smarttravel.vn"
+  
+  # Rate Limiting - BẬT
+  rate_limit:
+    enabled: true
+    requests_per_minute: 60
+
+# Database Settings
+database:
+  mongodb:
+    # Staging database
+    uri: "${MONGODB_URI}"
+    
+    # Connection Pool - Nhỏ hơn production
+    max_pool_size: 20
+    min_pool_size: 5
+    
+    # Timeouts
+    connect_timeout: 10
+    server_selection_timeout: 30
+    socket_timeout: 30
+  
+  redis:
+    uri: "${REDIS_URL}"
+    pool_size: 20
+    socket_timeout: 10
+    socket_connect_timeout: 10
+
+# External APIs
+external:
+  osm:
+    overpass_url: "https://lz4.overpass-api.de/api/interpreter"
+    timeout: 60
+    rate_limit: 60
+  
+  google_places:
+    api_key: "${GOOGLE_PLACES_API_KEY}"
+    timeout: 30
+
+# Pipeline Settings
+pipeline:
+  # Staging cities (subset)
+  cities:
+    - "tokyo"
+    - "bangkok"
+    - "ho-chi-minh-city"
+  
+  categories:
+    - "hotel"
+    - "restaurant"
+    - "attraction"
+  
+  max_workers: 4
+  
+  storage:
+    bronze_path: "/data/staging/bronze"
+    silver_path: "/data/staging/silver"
+    gold_path: "/data/staging/gold"
+
+# Monitoring
+monitoring:
+  prometheus:
+    enabled: true
+    port: 9090
+    retention: "7d"  # Ngắn hơn production
+  
+  grafana:
+    enabled: true
+    port: 3001
+  
+  sentry:
+    enabled: true
+    dsn: "${SENTRY_DSN}"
+    environment: "staging"
+    traces_sample_rate: 0.5  # Cao hơn production
+  
+  health:
+    enabled: true
+    detailed: true
+
+# Security
+security:
+  force_https: true
+  
+  jwt:
+    secret_key: "${JWT_SECRET_KEY}"
+    algorithm: "HS256"
+    access_token_expire_minutes: 30
+
+# Performance
+performance:
+  cache_ttl:
+    default: 300
+    pois: 600
+    stats: 1800  # 30 phút (ngắn hơn production)
+  
+  gzip_enabled: true

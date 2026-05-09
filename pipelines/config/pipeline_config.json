@@ -1,0 +1,82 @@
+{
+  "source": "osm",
+  "cities": [
+    "hanoi",
+    "hcm", 
+    "danang",
+    "dalat",
+    "hue",
+    "cantho",
+    "haiphong",
+    "nhatrang",
+    "vungtau",
+    "tokyo",
+    "beijing",
+    "seoul",
+    "bangkok",
+    "singapore",
+    "taipei",
+    "shanghai",
+    "hongkong",
+    "osaka",
+    "kyoto",
+    "chiangmai"
+  ],
+  "categories": [
+    "tourist_attraction",
+    "restaurant", 
+    "hotel",
+    "cafe",
+    "shopping_mall",
+    "park",
+    "cinema",
+    "museum"
+  ],
+  "batch_size": 1000,
+  "max_retries": 3,
+  "timeout_seconds": 60,
+  "enable_validation": true,
+  "enable_deduplication": true,
+  "enable_enrichment": true,
+  "processing": {
+    "bronze": {
+      "output_format": "json",
+      "compression": false,
+      "chunk_size": 5000
+    },
+    "silver": {
+      "output_format": "json",
+      "compression": false,
+      "chunk_size": 1000
+    },
+    "gold": {
+      "output_format": "parquet",
+      "compression": true,
+      "chunk_size": 500
+    }
+  },
+  "validation": {
+    "quality_threshold": 0.8,
+    "duplicate_radius": 0.001,
+    "required_fields": [
+      "name",
+      "location", 
+      "category",
+      "city"
+    ],
+    "coordinate_validation": true,
+    "encoding_validation": true
+  },
+  "enrichment": {
+    "generate_keywords": true,
+    "generate_embeddings": true,
+    "calculate_scores": true,
+    "region_hierarchy": true
+  },
+  "monitoring": {
+    "log_level": "INFO",
+    "metrics_enabled": true,
+    "alert_on_failure": true,
+    "progress_reporting": true
+  }
+}

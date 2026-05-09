@@ -1,0 +1,189 @@
+{
+  "test_suite": "raw_ingestion",
+  "started_at": "2026-05-08T21:16:52.796975+00:00",
+  "osm_tests": {
+    "api_connectivity": {
+      "test_name": "osm_api_connectivity",
+      "started_at": "2026-05-08T21:16:52.798420+00:00",
+      "status": "failed",
+      "details": {
+        "config_loaded": {
+          "status": "failed",
+          "error": "'OSMIngestionEngine' object has no attribute 'overpass_urls'"
+        }
+      },
+      "errors": [
+        "Config loading failed: 'OSMIngestionEngine' object has no attribute 'overpass_urls'",
+        "Test execution failed: cannot access local variable 'overpass_urls' where it is not associated with a value"
+      ],
+      "completed_at": "2026-05-08T21:16:52.798652+00:00"
+    },
+    "ingestion_mechanisms": {
+      "test_name": "ingestion_mechanisms",
+      "started_at": "2026-05-08T21:16:52.798866+00:00",
+      "status": "completed",
+      "details": {
+        "retry_mechanism": {
+          "invalid_city": {
+            "records_count": 0,
+            "handled_gracefully": true,
+            "status": "success"
+          }
+        },
+        "large_payload": {
+          "large_payload": {
+            "records_count": 0,
+            "handled_large_request": false,
+            "memory_usage": "acceptable",
+            "status": "success"
+          }
+        }
+      },
+      "errors": [],
+      "completed_at": "2026-05-08T21:16:56.223729+00:00"
+    },
+    "bronze_storage": {
+      "test_name": "bronze_storage_validation",
+      "started_at": "2026-05-08T21:16:56.224023+00:00",
+      "status": "completed",
+      "details": {
+        "directory_structure": {
+          "bronze_exists": true,
+          "osm_exists": true,
+          "writable": 128
+        },
+        "file_naming": {
+          "follows_convention": false,
+          "sample_files": [],
+          "invalid_files": [
+            "storage\\bronze\\osm\\bangkok\\attraction_20260507_150506.json",
+            "storage\\bronze\\osm\\bangkok\\hotel_20260507_150526.json",
+            "storage\\bronze\\osm\\bangkok\\museum_20260507_150549.json",
+            "storage\\bronze\\osm\\bangkok\\park_20260507_150609.json",
+            "storage\\bronze\\osm\\bangkok\\restaurant_20260507_150520.json",
+            "storage\\bronze\\osm\\beijing\\20260506_025105.json",
+            "storage\\bronze\\osm\\beijing\\20260506_025229.json",
+            "storage\\bronze\\osm\\beijing\\attraction_20260507_151206.json",
+            "storage\\bronze\\osm\\beijing\\cafe_20260507_151247.json",
+            "storage\\bronze\\osm\\beijing\\museum_20260507_151256.json",
+            "storage\\bronze\\osm\\beijing\\restaurant_20260507_151222.json",
+            "storage\\bronze\\osm\\beijing\\viewpoint_20260507_151307.json",
+            "storage\\bronze\\osm\\cantho\\20260425_103845.json",
+            "storage\\bronze\\osm\\cantho\\20260425_103909.json",
+            "storage\\bronze\\osm\\cantho\\20260425_103918.json",
+            "storage\\bronze\\osm\\chiangmai\\attraction_20260507_151335.json",
+            "storage\\bronze\\osm\\chiangmai\\cafe_20260507_151417.json",
+            "storage\\bronze\\osm\\chiangmai\\hotel_20260507_151359.json",
+            "storage\\bronze\\osm\\chiangmai\\park_20260507_151450.json",
+            "storage\\bronze\\osm\\chiangmai\\restaurant_20260507_151353.json",
+            "storage\\bronze\\osm\\chiangmai\\viewpoint_20260507_151441.json",
+            "storage\\bronze\\osm\\dalat\\20260425_104418.json",
+            "storage\\bronze\\osm\\dalat\\20260425_104427.json",
+            "storage\\bronze\\osm\\dalat\\20260425_104453.json",
+            "storage\\bronze\\osm\\dalat\\20260425_104508.json",
+            "storage\\bronze\\osm\\dalat\\20260425_104533.json",
+            "storage\\bronze\\osm\\dalat\\20260425_104600.json",
+            "storage\\bronze\\osm\\danang\\20260425_092419.json",
+            "storage\\bronze\\osm\\danang\\20260425_103454.json",
+            "storage\\bronze\\osm\\danang\\20260425_103605.json",
+            "storage\\bronze\\osm\\danang\\20260425_103632.json",
+            "storage\\bronze\\osm\\danang\\20260425_103642.json",
+            "storage\\bronze\\osm\\haiphong\\20260425_103928.json",
+            "storage\\bronze\\osm\\haiphong\\20260425_104020.json",
+            "storage\\bronze\\osm\\haiphong\\20260425_104033.json",
+            "storage\\bronze\\osm\\haiphong\\20260425_104141.json",
+            "storage\\bronze\\osm\\hanoi\\20260425_102817.json",
+            "storage\\bronze\\osm\\hanoi\\20260425_103032.json",
+            "storage\\bronze\\osm\\hanoi\\20260425_103050.json",
+            "storage\\bronze\\osm\\hanoi\\20260425_103117.json",
+            "storage\\bronze\\osm\\hanoi\\20260425_103127.json",
+            "storage\\bronze\\osm\\hanoi\\20260425_103207.json",
+            "storage\\bronze\\osm\\hanoi_test\\20260506_002356.json",
+            "storage\\bronze\\osm\\hanoi_test\\20260506_040537.json",
+            "storage\\bronze\\osm\\hanoi_test\\20260506_044306.json",
+            "storage\\bronze\\osm\\hongkong\\attraction_20260507_150932.json",
+            "storage\\bronze\\osm\\hongkong\\hotel_20260507_150948.json",
+            "storage\\bronze\\osm\\hongkong\\restaurant_20260507_150939.json",
+            "storage\\bronze\\osm\\hongkong\\viewpoint_20260507_151022.json",
+            "storage\\bronze\\osm\\hue\\20260425_104328.json",
+            "storage\\bronze\\osm\\hue\\20260425_104407.json",
+            "storage\\bronze\\osm\\kyoto\\cafe_20260507_151713.json",
+            "storage\\bronze\\osm\\kyoto\\hotel_20260507_151706.json",
+            "storage\\bronze\\osm\\kyoto\\museum_20260507_151720.json",
+            "storage\\bronze\\osm\\kyoto\\park_20260507_151749.json",
+            "storage\\bronze\\osm\\kyoto\\restaurant_20260507_151647.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231137.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231202.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231218.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231240.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231258.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231414.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231547.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231739.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_231916.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_232008.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_232548.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_232620.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260505_234242.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260506_002337.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260506_002354.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260506_040535.json",
+            "storage\\bronze\\osm\\lifecycle_test\\20260506_044305.json",
+            "storage\\bronze\\osm\\nhatrang\\20260425_104848.json",
+            "storage\\bronze\\osm\\nhatrang\\20260425_104857.json",
+            "storage\\bronze\\osm\\nhatrang\\20260425_104920.json",
+            "storage\\bronze\\osm\\nhatrang\\20260425_104955.json",
+            "storage\\bronze\\osm\\nhatrang\\20260425_105005.json",
+            "storage\\bronze\\osm\\nhatrang\\20260425_105020.json",
+            "storage\\bronze\\osm\\nhatrang\\20260425_105032.json",
+            "storage\\bronze\\osm\\nhatrang\\20260425_105041.json",
+            "storage\\bronze\\osm\\osaka\\attraction_20260507_151502.json",
+            "storage\\bronze\\osm\\osaka\\cafe_20260507_151548.json",
+            "storage\\bronze\\osm\\osaka\\hotel_20260507_151529.json",
+            "storage\\bronze\\osm\\osaka\\museum_20260507_151554.json",
+            "storage\\bronze\\osm\\osaka\\viewpoint_20260507_151607.json",
+            "storage\\bronze\\osm\\seoul\\cafe_20260507_150703.json",
+            "storage\\bronze\\osm\\seoul\\hotel_20260507_150654.json",
+            "storage\\bronze\\osm\\seoul\\restaurant_20260507_150640.json",
+            "storage\\bronze\\osm\\shanghai\\attraction_20260507_150333.json",
+            "storage\\bronze\\osm\\shanghai\\cafe_20260507_150415.json",
+            "storage\\bronze\\osm\\shanghai\\hotel_20260507_150404.json",
+            "storage\\bronze\\osm\\shanghai\\restaurant_20260507_150353.json",
+            "storage\\bronze\\osm\\shanghai\\viewpoint_20260507_150441.json",
+            "storage\\bronze\\osm\\singapore\\hotel_20260507_151111.json",
+            "storage\\bronze\\osm\\singapore\\park_20260507_151153.json",
+            "storage\\bronze\\osm\\singapore\\restaurant_20260507_151101.json",
+            "storage\\bronze\\osm\\singapore\\viewpoint_20260507_151145.json",
+            "storage\\bronze\\osm\\taipei\\attraction_20260507_171828.json",
+            "storage\\bronze\\osm\\taipei\\cafe_20260507_171924.json",
+            "storage\\bronze\\osm\\taipei\\hotel_20260507_171901.json",
+            "storage\\bronze\\osm\\taipei\\museum_20260507_171941.json",
+            "storage\\bronze\\osm\\taipei\\park_20260507_172011.json",
+            "storage\\bronze\\osm\\taipei\\restaurant_20260507_171848.json",
+            "storage\\bronze\\osm\\taipei\\viewpoint_20260507_171959.json",
+            "storage\\bronze\\osm\\tokyo\\attraction_20260507_150758.json",
+            "storage\\bronze\\osm\\tokyo\\cafe_20260507_150847.json",
+            "storage\\bronze\\osm\\tokyo\\hotel_20260507_150822.json",
+            "storage\\bronze\\osm\\tokyo\\park_20260507_150920.json",
+            "storage\\bronze\\osm\\tokyo\\restaurant_20260507_150814.json",
+            "storage\\bronze\\osm\\vungtau\\20260425_104624.json",
+            "storage\\bronze\\osm\\vungtau\\20260425_104647.json",
+            "storage\\bronze\\osm\\vungtau\\20260425_104726.json",
+            "storage\\bronze\\osm\\vungtau\\20260425_104835.json"
+          ]
+        }
+      },
+      "errors": [],
+      "completed_at": "2026-05-08T21:16:56.226494+00:00"
+    }
+  },
+  "google_tests": {},
+  "summary": {
+    "total_tests": 3,
+    "passed_tests": 2,
+    "failed_tests": 1,
+    "success_rate": 66.66666666666666,
+    "overall_status": "partial",
+    "completed_at": "2026-05-08T21:16:56.226744+00:00"
+  }
+}

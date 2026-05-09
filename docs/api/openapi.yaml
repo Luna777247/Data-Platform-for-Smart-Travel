@@ -1,0 +1,998 @@
+# Smart Tourism Data Platform - OpenAPI 3.0 Specification
+# ======================================================
+# Mô tả đầy đủ API endpoints cho Smart Tourism Data Platform
+# 
+# Generated: Theo thiết kế RECOMMENDED_STRUCTURE.md
+# Version: 1.0.0
+
+openapi: 3.0.3
+
+# ============================================================================
+# API METADATA
+# ============================================================================
+info:
+  title: Smart Tourism Data Platform API
+  description: |
+    **Enterprise-grade API cho Smart Tourism Data Platform**
+    
+    API này cung cấp các endpoints để:
+    - Quản lý data pipelines (bronze → silver → gold)
+    - Query và search POI (Points of Interest) data
+    - Giám sát system health và metrics
+    - Quản lý data quality và validation
+    
+    ## Authentication
+    
+    API sử dụng JWT Bearer token authentication. Thêm header sau vào mỗi request:
+    ```
+    Authorization: Bearer <your_jwt_token>
+    ```
+    
+    ## Rate Limiting
+    
+    - 60 requests/minute cho mỗi IP/user (default)
+    - 1000 requests/hour cho mỗi authenticated user
+    
+    ## Data Layers
+    
+    - **Bronze**: Raw data từ OSM, Google Places, v.v.
+    - **Silver**: Cleaned và normalized data
+    - **Gold**: Enriched và deduplicated master records
+    
+  version: 1.0.0
+  contact:
+    name: Smart Tourism Team
+    email: support@smarttravel.vn
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+
+# ============================================================================
+# SERVERS
+# ============================================================================
+servers:
+  - url: http://localhost:8000
+    description: Local development server
+  - url: https://staging-api.smarttravel.vn
+    description: Staging server
+  - url: https://api.smarttravel.vn
+    description: Production server
+
+# ============================================================================
+# SECURITY
+# ============================================================================
+security:
+  - BearerAuth: []
+
+# ============================================================================
+# TAGS
+# ============================================================================
+tags:
+  - name: Pipeline Management
+    description: Điều khiển và giám sát data pipelines
+  - name: Data Query
+    description: Query và search POI data
+  - name: Monitoring
+    description: Health checks và system monitoring
+  - name: Health
+    description: Health checks và readiness probes
+  - name: Authentication
+    description: User authentication và authorization
+
+# ============================================================================
+# PATHS
+# ============================================================================
+paths:
+  
+  # ========================================================================
+  # ROOT & HEALTH
+  # ========================================================================
+  /:
+    get:
+      tags:
+        - Health
+      summary: Root endpoint
+      description: Thông tin cơ bản về API
+      security: []  # Public endpoint
+      responses:
+        '200':
+          description: API information
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                    example: "Smart Tourism Data Platform API"
+                  version:
+                    type: string
+                    example: "1.0.0"
+                  documentation:
+                    type: string
+                    example: "/docs"
+                  health:
+                    type: string
+                    example: "/health"
+
+  /health:
+    get:
+      tags:
+        - Health
+      summary: Basic health check
+      description: Liveness probe cho Kubernetes và load balancers
+      security: []  # Public endpoint
+      responses:
+        '200':
+          description: API is healthy
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HealthStatus'
+
+  /ready:
+    get:
+      tags:
+        - Health
+      summary: Readiness check
+      description: Kiểm tra tất cả dependencies (MongoDB, Redis)
+      security: []  # Public endpoint
+      responses:
+        '200':
+          description: All dependencies ready
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ReadinessStatus'
+        '503':
+          description: One or more dependencies not ready
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ReadinessStatus'
+
+  /metrics:
+    get:
+      tags:
+        - Monitoring
+      summary: Prometheus metrics
+      description: Metrics ở Prometheus exposition format
+      security: []  # Public endpoint (internal network only)
+      responses:
+        '200':
+          description: Prometheus metrics
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  # ========================================================================
+  # AUTHENTICATION
+  # ========================================================================
+  /api/v1/auth/login:
+    post:
+      tags:
+        - Authentication
+      summary: User login
+      description: Authenticate user và nhận JWT token
+      security: []  # Public endpoint
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/LoginRequest'
+      responses:
+        '200':
+          description: Login successful
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LoginResponse'
+        '401':
+          description: Invalid credentials
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /api/v1/auth/register:
+    post:
+      tags:
+        - Authentication
+      summary: User registration
+      description: Register new user account
+      security: []  # Public endpoint
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/RegisterRequest'
+      responses:
+        '201':
+          description: User created successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserResponse'
+        '400':
+          description: Invalid input data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  # ========================================================================
+  # PIPELINE MANAGEMENT
+  # ========================================================================
+  /api/v1/pipeline/start:
+    post:
+      tags:
+        - Pipeline Management
+      summary: Start pipeline
+      description: Khởi động data pipeline với cấu hình được chỉ định
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PipelineStartRequest'
+      responses:
+        '202':
+          description: Pipeline started successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PipelineStartResponse'
+        '400':
+          description: Invalid configuration
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '409':
+          description: Pipeline already running
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /api/v1/pipeline/stop/{pipeline_id}:
+    post:
+      tags:
+        - Pipeline Management
+      summary: Stop pipeline
+      description: Dừng pipeline đang chạy
+      parameters:
+        - name: pipeline_id
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Pipeline ID cần dừng
+      responses:
+        '200':
+          description: Pipeline stopped successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PipelineStopResponse'
+        '404':
+          description: Pipeline not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /api/v1/pipeline/status/{execution_id}:
+    get:
+      tags:
+        - Pipeline Management
+      summary: Get pipeline status
+      description: Lấy trạng thái và thông tin pipeline execution
+      parameters:
+        - name: execution_id
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Execution ID
+      responses:
+        '200':
+          description: Pipeline status retrieved
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PipelineStatusResponse'
+        '404':
+          description: Execution not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /api/v1/pipeline/history:
+    get:
+      tags:
+        - Pipeline Management
+      summary: Get pipeline history
+      description: Lấy lịch sử các pipeline executions
+      parameters:
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 10
+            maximum: 100
+          description: Số records trả về
+        - name: offset
+          in: query
+          schema:
+            type: integer
+            default: 0
+          description: Offset cho pagination
+        - name: status
+          in: query
+          schema:
+            type: string
+            enum: [pending, running, completed, failed, cancelled]
+          description: Filter theo status
+      responses:
+        '200':
+          description: Pipeline history retrieved
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PipelineHistoryResponse'
+
+  /api/v1/pipeline/dashboard:
+    get:
+      tags:
+        - Pipeline Management
+      summary: Get dashboard data
+      description: Lấy aggregated data cho dashboard
+      responses:
+        '200':
+          description: Dashboard data retrieved
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DashboardResponse'
+
+  /api/v1/pipeline/metrics:
+    get:
+      tags:
+        - Pipeline Management
+      summary: Get pipeline metrics
+      description: Lấy performance metrics của pipelines
+      parameters:
+        - name: period
+          in: query
+          schema:
+            type: string
+            enum: [1h, 24h, 7d, 30d]
+            default: 24h
+          description: Time period cho metrics
+      responses:
+        '200':
+          description: Metrics retrieved
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MetricsResponse'
+
+  # ========================================================================
+  # DATA QUERY
+  # ========================================================================
+  /api/v1/data/pois:
+    get:
+      tags:
+        - Data Query
+      summary: List POIs
+      description: Lấy danh sách POIs với filtering và pagination
+      parameters:
+        - name: city
+          in: query
+          schema:
+            type: string
+          description: Filter theo city
+        - name: category
+          in: query
+          schema:
+            type: string
+          description: Filter theo category
+        - name: country
+          in: query
+          schema:
+            type: string
+            minLength: 2
+            maxLength: 2
+          description: Filter theo country code (ISO)
+        - name: status
+          in: query
+          schema:
+            type: string
+          description: Filter theo status
+        - name: min_rating
+          in: query
+          schema:
+            type: number
+            minimum: 0
+            maximum: 5
+          description: Minimum rating filter
+        - name: layer
+          in: query
+          schema:
+            type: string
+            enum: [bronze, silver, gold]
+          description: Filter theo data layer
+        - name: search
+          in: query
+          schema:
+            type: string
+          description: Text search trong name và address
+        - name: page
+          in: query
+          schema:
+            type: integer
+            default: 1
+            minimum: 1
+          description: Page number
+        - name: page_size
+          in: query
+          schema:
+            type: integer
+            default: 20
+            minimum: 1
+            maximum: 100
+          description: Items per page
+        - name: sort_by
+          in: query
+          schema:
+            type: string
+            default: quality_score
+          description: Field để sort
+        - name: sort_order
+          in: query
+          schema:
+            type: string
+            enum: [asc, desc]
+            default: desc
+          description: Sort order
+      responses:
+        '200':
+          description: POIs retrieved successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/POIListResponse'
+
+  /api/v1/data/pois/{poi_id}:
+    get:
+      tags:
+        - Data Query
+      summary: Get POI details
+      description: Lấy chi tiết thông tin của một POI
+      parameters:
+        - name: poi_id
+          in: path
+          required: true
+          schema:
+            type: string
+          description: POI identifier
+        - name: layer
+          in: query
+          schema:
+            type: string
+            enum: [bronze, silver, gold]
+          description: Search trong specific layer
+      responses:
+        '200':
+          description: POI retrieved successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/POIResponse'
+        '404':
+          description: POI not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /api/v1/data/pois/nearby:
+    get:
+      tags:
+        - Data Query
+      summary: Find nearby POIs
+      description: Tìm POIs gần một vị trí cụ thể (geo search)
+      parameters:
+        - name: lat
+          in: query
+          required: true
+          schema:
+            type: number
+            minimum: -90
+            maximum: 90
+          description: Latitude
+        - name: lon
+          in: query
+          required: true
+          schema:
+            type: number
+            minimum: -180
+            maximum: 180
+          description: Longitude
+        - name: radius
+          in: query
+          schema:
+            type: number
+            default: 1000
+            minimum: 100
+            maximum: 50000
+          description: Search radius in meters
+        - name: category
+          in: query
+          schema:
+            type: string
+          description: Filter theo category
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 20
+            minimum: 1
+            maximum: 100
+          description: Maximum results
+      responses:
+        '200':
+          description: Nearby POIs retrieved
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/POIListResponse'
+
+  /api/v1/data/stats:
+    get:
+      tags:
+        - Data Query
+      summary: Get data statistics
+      description: Lấy thống kê tổng quan về dữ liệu
+      responses:
+        '200':
+          description: Statistics retrieved
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DataStats'
+
+  /api/v1/data/layers:
+    get:
+      tags:
+        - Data Query
+      summary: Get layer information
+      description: Lấy thông tin về các data layers
+      responses:
+        '200':
+          description: Layer information retrieved
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/LayerInfo'
+
+  # ========================================================================
+  # MONITORING (Authenticated)
+  # ========================================================================
+  /api/v1/monitoring/status:
+    get:
+      tags:
+        - Monitoring
+      summary: Detailed system status
+      description: Lấy comprehensive system status (requires auth)
+      responses:
+        '200':
+          description: Detailed status retrieved
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/DetailedStatus'
+
+  /api/v1/monitoring/version:
+    get:
+      tags:
+        - Monitoring
+      summary: API version information
+      description: Lấy version và build information
+      responses:
+        '200':
+          description: Version information retrieved
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/VersionInfo'
+
+  /api/v1/monitoring/dependencies:
+    get:
+      tags:
+        - Monitoring
+      summary: Dependency health status
+      description: Lấy chi tiết health status của dependencies
+      responses:
+        '200':
+          description: Dependencies status retrieved
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  timestamp:
+                    type: string
+                    format: date-time
+                  dependencies:
+                    type: object
+
+# ============================================================================
+# COMPONENTS
+# ============================================================================
+components:
+  
+  # ========================================================================
+  # SECURITY SCHEMES
+  # ========================================================================
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+      description: JWT token cho authentication
+
+  # ========================================================================
+  # SCHEMAS
+  # ========================================================================
+  schemas:
+    
+    # Error Response
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+          description: Error type
+        message:
+          type: string
+          description: Error message
+        details:
+          type: object
+          description: Additional error details
+      required:
+        - error
+        - message
+
+    # Health Status
+    HealthStatus:
+      type: object
+      properties:
+        status:
+          type: string
+          enum: [healthy, unhealthy]
+        timestamp:
+          type: string
+          format: date-time
+        uptime_seconds:
+          type: number
+      required:
+        - status
+        - timestamp
+
+    # Readiness Status
+    ReadinessStatus:
+      type: object
+      properties:
+        status:
+          type: string
+          enum: [ready, not_ready]
+        checks:
+          type: object
+          properties:
+            mongodb:
+              type: object
+            redis:
+              type: object
+        timestamp:
+          type: string
+          format: date-time
+      required:
+        - status
+        - checks
+
+    # Login Request
+    LoginRequest:
+      type: object
+      properties:
+        username:
+          type: string
+        password:
+          type: string
+          format: password
+      required:
+        - username
+        - password
+
+    # Login Response
+    LoginResponse:
+      type: object
+      properties:
+        access_token:
+          type: string
+        token_type:
+          type: string
+          example: bearer
+        expires_in:
+          type: integer
+          description: Token expiration in seconds
+        user:
+          $ref: '#/components/schemas/UserResponse'
+
+    # User Response
+    UserResponse:
+      type: object
+      properties:
+        id:
+          type: string
+        username:
+          type: string
+        email:
+          type: string
+          format: email
+        role:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+
+    # POI Response
+    POIResponse:
+      type: object
+      properties:
+        poi_id:
+          type: string
+        name:
+          type: string
+        name_en:
+          type: string
+        category:
+          type: string
+        subcategory:
+          type: string
+        city:
+          type: string
+        country:
+          type: string
+          minLength: 2
+          maxLength: 2
+        location:
+          type: object
+          properties:
+            lat:
+              type: number
+            lon:
+              type: number
+        address:
+          type: string
+        rating:
+          type: number
+          minimum: 0
+          maximum: 5
+        review_count:
+          type: integer
+        tags:
+          type: object
+        sources:
+          type: array
+          items:
+            type: string
+        quality_score:
+          type: number
+          minimum: 0
+          maximum: 100
+        status:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+        updated_at:
+          type: string
+          format: date-time
+        layer:
+          type: string
+          enum: [bronze, silver, gold]
+
+    # POI List Response
+    POIListResponse:
+      type: object
+      properties:
+        items:
+          type: array
+          items:
+            $ref: '#/components/schemas/POIResponse'
+        total:
+          type: integer
+        page:
+          type: integer
+        page_size:
+          type: integer
+        pages:
+          type: integer
+
+    # Data Stats
+    DataStats:
+      type: object
+      properties:
+        total_pois:
+          type: integer
+        by_category:
+          type: object
+          additionalProperties:
+            type: integer
+        by_city:
+          type: object
+          additionalProperties:
+            type: integer
+        by_layer:
+          type: object
+          additionalProperties:
+            type: integer
+        by_source:
+          type: object
+          additionalProperties:
+            type: integer
+        last_updated:
+          type: string
+          format: date-time
+
+    # Layer Info
+    LayerInfo:
+      type: object
+      properties:
+        layer:
+          type: string
+        count:
+          type: integer
+        size_mb:
+          type: number
+        last_updated:
+          type: string
+          format: date-time
+        description:
+          type: string
+
+    # Pipeline Start Request
+    PipelineStartRequest:
+      type: object
+      properties:
+        pipeline_id:
+          type: string
+        config:
+          type: object
+        city:
+          type: string
+        category:
+          type: string
+        dry_run:
+          type: boolean
+          default: false
+
+    # Pipeline Start Response
+    PipelineStartResponse:
+      type: object
+      properties:
+        execution_id:
+          type: string
+        pipeline_id:
+          type: string
+        status:
+          type: string
+          enum: [pending, running]
+        message:
+          type: string
+        started_at:
+          type: string
+          format: date-time
+
+    # Pipeline Status Response
+    PipelineStatusResponse:
+      type: object
+      properties:
+        execution_id:
+          type: string
+        pipeline_id:
+          type: string
+        status:
+          type: string
+          enum: [pending, running, completed, failed, cancelled]
+        progress:
+          type: number
+          minimum: 0
+          maximum: 100
+        current_stage:
+          type: string
+        stages:
+          type: array
+          items:
+            type: object
+        metrics:
+          type: object
+        started_at:
+          type: string
+          format: date-time
+        completed_at:
+          type: string
+          format: date-time
+
+    # Dashboard Response
+    DashboardResponse:
+      type: object
+      properties:
+        summary:
+          type: object
+        pipelines:
+          type: object
+        data_quality:
+          type: object
+        recent_executions:
+          type: array
+          items:
+            type: object
+
+    # Metrics Response
+    MetricsResponse:
+      type: object
+      properties:
+        period:
+          type: string
+        executions:
+          type: object
+        throughput:
+          type: object
+        errors:
+          type: object
+
+    # Detailed Status
+    DetailedStatus:
+      type: object
+      properties:
+        health:
+          $ref: '#/components/schemas/HealthStatus'
+        version:
+          $ref: '#/components/schemas/VersionInfo'
+        metrics:
+          type: object
+        dependencies:
+          type: object
+        config:
+          type: object
+
+    # Version Info
+    VersionInfo:
+      type: object
+      properties:
+        version:
+          type: string
+        build:
+          type: string
+        environment:
+          type: string
+        python_version:
+          type: string
+        platform:
+          type: string
+
+# ============================================================================
+# EXTERNAL DOCS
+# ============================================================================
+externalDocs:
+  description: Tài liệu hướng dẫn chi tiết
+  url: /docs/README.md

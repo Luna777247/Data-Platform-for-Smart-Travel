@@ -1,0 +1,124 @@
+# Development Environment Configuration
+# ======================================
+# Cấu hình cho môi trường development
+# 
+# Usage: export ENVIRONMENT=development hoặc set trong .env
+
+# Application Settings
+app:
+  name: "Smart Tourism API"
+  version: "1.0.0"
+  environment: "development"
+  debug: true
+  
+  # Logging
+  log_level: "DEBUG"
+  log_format: "json"  # json hoặc text
+  
+  # Security
+  cors_origins:
+    - "http://localhost:3000"
+    - "http://localhost:8080"
+    - "http://127.0.0.1:3000"
+  
+  # Rate Limiting
+  rate_limit:
+    enabled: false  # Disabled trong development
+    requests_per_minute: 60
+
+# Database Settings
+database:
+  mongodb:
+    host: "localhost"
+    port: 27017
+    database: "smart_travel_dev"
+    username: "admin"
+    password: "${MONGODB_PASSWORD}"  # Từ env var
+    
+    # Connection Pool
+    max_pool_size: 10
+    min_pool_size: 1
+    
+    # Timeouts (giây)
+    connect_timeout: 5
+    server_selection_timeout: 5
+    socket_timeout: 10
+  
+  redis:
+    host: "localhost"
+    port: 6379
+    database: 0
+    password: "${REDIS_PASSWORD}"  # Optional
+    
+    # Connection Pool
+    pool_size: 10
+    
+    # Timeouts
+    socket_timeout: 5
+    socket_connect_timeout: 5
+
+# External APIs
+external:
+  osm:
+    overpass_url: "https://lz4.overpass-api.de/api/interpreter"
+    timeout: 60
+    rate_limit: 60  # requests per minute
+  
+  google_places:
+    api_key: "${GOOGLE_PLACES_API_KEY}"
+    timeout: 30
+
+# Pipeline Settings
+pipeline:
+  # Default cities
+  cities:
+    - "tokyo"
+    - "bangkok"
+    - "singapore"
+  
+  # Default categories
+  categories:
+    - "hotel"
+    - "restaurant"
+    - "attraction"
+  
+  # Concurrency
+  max_workers: 2  # Giảm trong development
+  
+  # Storage
+  bronze_path: "./storage/bronze"
+  silver_path: "./storage/silver"
+  gold_path: "./storage/gold"
+
+# Monitoring
+monitoring:
+  # Prometheus
+  prometheus:
+    enabled: true
+    port: 9090
+  
+  # Sentry
+  sentry:
+    enabled: false
+    dsn: "${SENTRY_DSN}"
+    environment: "development"
+  
+  # Health Checks
+  health:
+    enabled: true
+    detailed: true  # Nhiều thông tin hơn trong dev
+
+# Development Tools
+dev:
+  # Hot reload
+  reload: true
+  
+  # Debug toolbar (nếu có)
+  debug_toolbar: false
+  
+  # API documentation
+  swagger_ui: true
+  redoc: true
+  
+  # Test data
+  seed_data: true  # Tự động tạo sample data

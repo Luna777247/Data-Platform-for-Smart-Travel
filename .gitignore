@@ -1,49 +1,335 @@
-# See https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
-
-# compiled output
-dist
-tmp
-out-tsc
-*.tsbuildinfo
-.expo
-.expo-shared
-
-# dependencies
-node_modules
-
-# IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-
-# misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-yarn-error.log
-testem.log
-/typings
-
-# System Files
-.DS_Store
-Thumbs.db
-
-.cursor/rules/nx-rules.mdc
-.github/instructions/nx.instructions.md
-
-# Replit
-.cache/
-.local/
+# ============================================================================
+# SMART TOURISM DATA PLATFORM - Git Ignore Patterns
+# ============================================================================
+# File này chỉ định các files/directories Git sẽ ignore (không track)
+# 
+# RULES:
+# 1. Secrets & Credentials: NEVER commit .env, passwords, API keys
+# 2. Generated Files: Build outputs, compiled code, cache
+# 3. Environment: Virtual environments, local configs
+# 4. IDE/Editor: IDE settings, workspace files
+# 5. Data: Large data files, temporary storage
+# 6. OS: OS-specific files
+#
+# Documentation: https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+# ============================================================================
+# ============================================================================
+# SECTION 1: PYTHON
+# ============================================================================
+# Python bytecode - Compiled Python files
+# __pycache__: Directory chứa cached bytecode
+*.py[cod]                              # .pyc, .pyo, .pyd files
+*$py.class                              # Jython compiled classes
+__pycache__/                           # Cache directories
+# Distribution / packaging
+# Các files tạo ra khi build Python packages
+.Python                                # Virtual environment marker
+build/                                 # Build artifacts
+develop-eggs/                          # Development egg links
+dist/                                  # Distribution packages
+downloads/                             # Downloaded dependencies
+eggs/                                  # Egg packages
+.eggs/                                 # Hidden egg directory
+lib/                                   # Compiled libraries
+lib64/                                 # 64-bit libraries
+parts/                                 # Build parts
+sdist/                                 # Source distribution
+tarballs/                              # Archived packages
+wheels/                                # Wheel packages
+*.egg-info/                            # Egg metadata
+*.egg                                  # Egg packages
+MANIFEST                               # Package manifest
+# PyInstaller
+# Thường là 1 file trước PyInstaller, sau đó thành folder
+*.manifest                             # Manifest files
+*.spec                                 # PyInstaller spec
+# Unit test / coverage reports
+# Kết quả chạy tests và coverage
+htmlcov/                               # HTML coverage reports
+.tox/                                  # Tox environments
+.nox/                                  # Nox environments
+.coverage                              # Coverage data file
+.coverage.*                            # Coverage data fragments
+.cache                                 # pytest cache
+nosetests.xml                          # Nose test results
+coverage.xml                           # Coverage XML report
+*.cover                                # Coverage files
+*.py,cover                             # Python coverage
+.hypothesis/                           # Hypothesis test data
+.pytest_cache/                         # pytest cache directory
+pytestdebug.log                        # Debug logs
+# Virtual environments
+# Các môi trường ảo - KHÔNG được commit
+venv/                                  # Virtual environment
+venv3/                                 # Python 3 venv
+ENV/                                   # Environment directory
+env/                                   # Environment directory
+env.bak/                               # Backup environment
+venv.bak/                              # Backup venv
+.venv/                                 # Dot venv (modern)
+env3/                                  # Python 3 env
+# Spyder project settings
+.spyderproject                         # Spyder IDE
+.spyproject                            # Spyder project
+# Rope project settings
+.ropeproject                           # Rope IDE
+# mkdocs documentation
+/site                                  # MkDocs build
+# mypy
+# Type checker cache
+.mypy_cache/                           # mypy cache
+.dmypy.json                            # mypy daemon config
+dmypy.json                             # mypy daemon data
+# Pyre type checker
+.pyre/                                 # Pyre cache
+# pytype
+.pytype/                               # pytype cache
+# Cython debug symbols
+cython_debug/                          # Cython debug
+# ============================================================================
+# SECTION 2: ENVIRONMENT & SECRETS (QUAN TRỌNG!)
+# ============================================================================
+# Environment files - CHỨA SECRETS, KHÔNG BAO GIỜ COMMIT!
+.env                                   # Environment variables (main)
+.env.local                             # Local environment
+.env.development                       # Development env
+.env.test                              # Test environment
+.env.production                        # Production env (NHẠY CẢM NHẤT!)
+.env.staging                           # Staging env
+.env.*.local                           # All local env files
+!.env.example                          # NHƯNG giữ lại template
+!.env.template                         # Và template
+# Secrets và credentials
+secrets/                               # Secrets directory
+secrets.json                           # Secrets file
+secrets.yaml                           # Secrets YAML
+secrets.yml                            # Secrets YML
+credentials/                           # Credentials directory
+credentials.json                       # Credentials file
+*.pem                                  # PEM certificates
+*.key                                  # Private keys
+*.crt                                  # Certificates
+*.p12                                  # PKCS#12 files
+*.pfx                                  # PKCS#12 (Windows)
+# API Keys và Tokens (backup files)
+*api_key*                              # API key files
+*apikey*                               # API key variations
+*secret*                               # Secret files
+token*                                 # Token files
+*.token                                # Token files
+*password*                             # Password files
+*passwd*                               # Password variations
+# ============================================================================
+# SECTION 3: DATA & STORAGE
+# ============================================================================
+# Storage directories - Large data files
+# Bronze/Silver/Gold data có thể rất lớn
+storage/bronze/**/raw_*.json           # Raw bronze files (có thể rất lớn)
+storage/silver/**/processed_*.json      # Silver processed files
+storage/gold/**/enriched_*.json         # Gold enriched files
+storage/temp/                           # Temporary data
+storage/cache/                          # Cache data
+*.parquet                               # Parquet files (lớn)
+*.csv                                   # CSV exports (lớn)
+*.xlsx                                  # Excel files
+*.xls                                   # Excel (old format)
+# Data tạm thời
+*.tmp                                   # Temp files
+*.temp                                  # Temp files
+*.bak                                   # Backup files
+*.backup                                # Backup files
+*.old                                   # Old versions
+*.orig                                  # Original files (merge)
+# Logs
+logs/                                   # Log directory
+*.log                                   # Log files
+log/                                    # Log directory (singular)
+*.logs                                  # Log plural
+# ============================================================================
+# SECTION 4: IDE & EDITOR
+# ============================================================================
+# Visual Studio Code
+.vscode/*                               # VSCode settings
+!.vscode/settings.json                  # Giữ lại recommended settings
+!.vscode/tasks.json                     # Giữ lại tasks
+!.vscode/launch.json                    # Giữ lại debug config
+!.vscode/extensions.json                # Giữ lại extensions
+*.code-workspace                       # Workspace files
+# JetBrains IDEs (PyCharm, IntelliJ, etc.)
+.idea/                                  # IntelliJ IDEA
+*.iml                                   # Module files
+*.ipr                                   # Project files
+*.iws                                   # Workspace files
+.idea_modules/                         # Module directory
+out/                                    # Output directory
+# Sublime Text
+*.sublime-workspace                    # Workspace
+*.sublime-project                      # Project
+# Atom
+.atom/                                  # Atom config
+# Eclipse
+.project                               # Eclipse project
+.classpath                             # Eclipse classpath
+.settings/                             # Eclipse settings
+*.launch                               # Launch configs
+# NetBeans
+nbproject/                              # NetBeans project
+nbproject/private/                     # Private configs
+build/                                  # Build
+nbbuild/                                # NetBeans build
+dist/                                   # Distribution
+nbdist/                                 # NetBeans dist
+nbactions.xml                           # Actions
+nb-configuration.xml                    # Configuration
+# Vim/Neovim
+*.swp                                   # Swap files
+*.swo                                   # Swap files
+*.swn                                   # Swap files
+*~                                      # Backup files
+.netrwhist                             # Netrw history
+# Emacs
+*~                                      # Backup files
+\#*\#                                   # Auto-save files
+/.emacs.desktop                        # Desktop
+/.emacs.desktop.lock                   # Lock
+# ============================================================================
+# SECTION 5: OS-SPECIFIC FILES
+# ============================================================================
+# macOS
+.DS_Store                               # Desktop Services Store
+.AppleDouble                            # Resource forks
+.LSOverride                             # Finder settings
+._*                                     # Resource fork files
+.DocumentRevisions-V100                # Versions
+.fseventsd                              # File system events
+.Spotlight-V100                         # Spotlight
+.TemporaryItems                         # Temporary
+.Trashes                                # Trash
+.VolumeIcon.icns                       # Volume icon
+.com.apple.timemachine.donotpresent    # Time Machine
+.AppleDB                               # Database
+.AppleDesktop                           # Desktop
+Network Trash Folder                   # Trash
+Temporary Items                        # Temp
+.apdisk                                # Disk
+# Windows
+Thumbs.db                               # Thumbnail cache
+ehthumbs.db                             # Thumbnail cache (old)
+Desktop.ini                             # Folder settings
+$RECYCLE.BIN/                           # Recycle Bin
+*.cab                                   # Cabinet files
+*.msi                                   # Installers
+*.msm                                   # Merge modules
+*.msp                                   # Patches
+*.lnk                                   # Shortcuts
+# Linux
+*~                                      # Backup files
+.nfs*                                   # NFS temp files
+# ============================================================================
+# SECTION 6: NODE.JS / FRONTEND (nếu có)
+# ============================================================================
+# Dependencies
+node_modules/                           # Node modules
+package-lock.json                       # Lock file (optional)
+yarn.lock                               # Yarn lock (optional)
+pnpm-lock.yaml                          # PNPM lock
+# Build outputs
+dist/                                   # Distribution
+build/                                  # Build
+.next/                                  # Next.js
+.nuxt/                                  # Nuxt.js
+.cache/                                 # Cache
+.vuepress/dist                          # VuePress
+# Logs
+npm-debug.log*                          # NPM debug
+yarn-debug.log*                         # Yarn debug
+yarn-error.log*                         # Yarn error
+.pnpm-debug.log*                        # PNPM debug
+# ============================================================================
+# SECTION 7: DATABASES
+# ============================================================================
+# Local database files
+*.sqlite                                # SQLite
+*.sqlite3                               # SQLite3
+*.db                                    # Generic database
+*.db3                                   # SQLite3
+# MongoDB
+*.mongodb                               # MongoDB exports
+*.bson                                  # BSON files
+# Redis
+dump.rdb                                # Redis dump
+*.rdb                                   # RDB files
+appendonly.aof                          # AOF files
+*.aof                                   # AOF
+# ============================================================================
+# SECTION 8: DOCKER
+# ============================================================================
+# Docker
+.dockerignore                           # Docker ignore (giữ lại file)
+Dockerfile.*                            # Variants (nếu không cần)
+docker-compose.*.yml                    # Overrides (có thể chứa secrets)
+!docker-compose.yml                     # Nhưng giữ file chính
+!docker-compose.override.yml.example     # Và template
+.env.docker                             # Docker env
+# Docker volumes
+volumes/                                # Volume data
+# ============================================================================
+# SECTION 9: TESTING & COVERAGE
+# ============================================================================
+# Test outputs
+test-results/                           # Test results
+test_output/                            # Test output
+junit.xml                               # JUnit results
+test-reports/                           # Reports
+# Coverage
+coverage/                               # Coverage directory
+.coverage                               # Coverage file
+coverage-html/                          # HTML reports
+.coverage.*                             # Fragments
+# ============================================================================
+# SECTION 10: DOCUMENTATION BUILD
+# ============================================================================
+# MkDocs
+docs/_build/                            # MkDocs build
+site/                                   # Built site
+# Sphinx
+docs/_build/                            # Sphinx build
+_build/                                 # Build
+# ============================================================================
+# SECTION 11: PROJECT-SPECIFIC
+# ============================================================================
+# Backup directory (đã có code gốc trong backup/)
+.backup_*/                              # Backup directories theo ngày
+.backup_before_*/                       # Migration backups
+# Reports
+temp_reports/                           # Temporary reports
+*.report.json                          # Report files
+*.report.html                          # HTML reports
+# Generated configs
+generated/                              # Generated files
+auto_generated/                         # Auto-generated
+# ============================================================================
+# SECTION 12: LINTERS & TOOLS
+# ============================================================================
+# Pylint
+.pylint.d/                              # Pylint data
+# Flake8
+.flake8                                  # Config (nếu local)
+# Black
+.black                                   # Black cache
+# isort
+.isort.cfg                              # Config (nếu local)
+# Mypy
+.mypy_cache/                            # Cache (đã có ở trên)
+# Bandit (security)
+.bandit                                 # Bandit cache
+# ============================================================================
+# END OF GITIGNORE
+# ============================================================================
+# NOTES:
+# - File này cần được review định kỳ
+# - Thêm patterns nếu có tools/files mới
+# - Dùng `git check-ignore -v <file>` để debug
+# ============================================================================
+.backup_before_migration_20260509_051036/
+.backup_before_migration_20260509_051036/
