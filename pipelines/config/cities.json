@@ -1,0 +1,133 @@
+{
+  "_comment": "Danh sách các thành phố được hỗ trợ trong Smart Tourism Data Platform",
+  "version": "1.0.0",
+  "last_updated": "2026-01-01",
+  "cities": [
+    {
+      "id": "tokyo",
+      "name": "Tokyo",
+      "country": "Japan",
+      "country_code": "JP",
+      "region": "Kanto",
+      "population": 37740000,
+      "language": "Japanese",
+      "currency": "JPY",
+      "timezone": "Asia/Tokyo",
+      "coordinates": {
+        "lat": 35.6762,
+        "lon": 139.6503
+      },
+      "bounding_box": {
+        "min_lat": 35.5011,
+        "max_lat": 35.8115,
+        "min_lon": 139.5859,
+        "max_lon": 139.9229
+      },
+      "enabled": true,
+      "priority": 1,
+      "data_sources": ["osm", "google_places"]
+    },
+    {
+      "id": "bangkok",
+      "name": "Bangkok",
+      "country": "Thailand",
+      "country_code": "TH",
+      "region": "Central",
+      "population": 10800000,
+      "language": "Thai",
+      "currency": "THB",
+      "timezone": "Asia/Bangkok",
+      "coordinates": {
+        "lat": 13.7563,
+        "lon": 100.5018
+      },
+      "bounding_box": {
+        "min_lat": 13.4967,
+        "max_lat": 14.0294,
+        "min_lon": 100.3036,
+        "max_lon": 100.9757
+      },
+      "enabled": true,
+      "priority": 2,
+      "data_sources": ["osm", "google_places"]
+    },
+    {
+      "id": "singapore",
+      "name": "Singapore",
+      "country": "Singapore",
+      "country_code": "SG",
+      "region": "Central",
+      "population": 5850000,
+      "language": "English",
+      "currency": "SGD",
+      "timezone": "Asia/Singapore",
+      "coordinates": {
+        "lat": 1.3521,
+        "lon": 103.8198
+      },
+      "bounding_box": {
+        "min_lat": 1.2037,
+        "max_lat": 1.4485,
+        "min_lon": 103.6056,
+        "max_lon": 104.0851
+      },
+      "enabled": true,
+      "priority": 3,
+      "data_sources": ["osm", "google_places"]
+    },
+    {
+      "id": "ho-chi-minh-city",
+      "name": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "region": "South",
+      "population": 8993000,
+      "language": "Vietnamese",
+      "currency": "VND",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "coordinates": {
+        "lat": 10.8231,
+        "lon": 106.6297
+      },
+      "bounding_box": {
+        "min_lat": 10.3394,
+        "max_lat": 11.2087,
+        "min_lon": 106.3558,
+        "max_lon": 107.0297
+      },
+      "enabled": true,
+      "priority": 4,
+      "data_sources": ["osm", "google_places"]
+    },
+    {
+      "id": "hanoi",
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "country_code": "VN",
+      "region": "North",
+      "population": 8053000,
+      "language": "Vietnamese",
+      "currency": "VND",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "coordinates": {
+        "lat": 21.0285,
+        "lon": 105.8542
+      },
+      "bounding_box": {
+        "min_lat": 20.9959,
+        "max_lat": 21.1770,
+        "min_lon": 105.7559,
+        "max_lon": 106.0324
+      },
+      "enabled": true,
+      "priority": 5,
+      "data_sources": ["osm", "google_places"]
+    }
+  ],
+  "default_city": "tokyo",
+  "collection_frequency": {
+    "high_priority": "daily",
+    "medium_priority": "weekly",
+    "low_priority": "monthly"
+  }
+}

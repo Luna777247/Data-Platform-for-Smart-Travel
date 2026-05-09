@@ -1,49 +1,63 @@
 # Smart Tourism Data Platform 🌍
+# Nền Tảng Dữ Liệu Du Lịch Thông Minh
 
 > **Enterprise-grade data platform for smart tourism applications**
+> **Nền tảng dữ liệu cấp doanh nghiệp cho ứng dụng du lịch thông minh**
 > 
 > Built with FastAPI, MongoDB, Redis, and modern data engineering practices.
+> Xây dựng với FastAPI, MongoDB, Redis và các phương pháp kỹ thuật dữ liệu hiện đại.
 
+<!-- Các badge hiển thị thông tin công nghệ sử dụng -->
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-00a393.svg)](https://fastapi.tiangolo.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.0+-47a248.svg)](https://www.mongodb.com)
+[![Redis](https://img.shields.io/badge/Redis-7.0+-dc382d.svg)](https://redis.io)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ed.svg)](https://www.docker.com)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
 
 ## 📋 Table of Contents
+## 📋 Mục Lục
 
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [API Documentation](#api-documentation)
-- [Development](#development)
-- [Deployment](#deployment)
-- [Monitoring](#monitoring)
-- [Contributing](#contributing)
+<!-- Liên kết đến các phần chính của tài liệu -->
+- [Overview](#overview) - Tổng quan
+- [Architecture](#architecture) - Kiến trúc
+- [Features](#features) - Tính năng
+- [Quick Start](#quick-start) - Bắt đầu nhanh
+- [Installation](#installation) - Cài đặt
+- [Configuration](#configuration) - Cấu hình
+- [API Documentation](#api-documentation) - Tài liệu API
+- [Development](#development) - Phát triển
+- [Deployment](#deployment) - Triển khai
+- [Monitoring](#monitoring) - Giám sát
+- [Contributing](#contributing) - Đóng góp
 
 ---
 
 ## 🎯 Overview
+## 🎯 Tổng Quan
 
+<!-- Giới thiệu về dự án và mục tiêu -->
 Smart Tourism Data Platform là hệ thống data platform enterprise-grade được thiết kế để thu thập, xử lý và phục vụ dữ liệu du lịch thông minh. Hệ thống sử dụng kiến trúc **Data Lakehouse** với 3 layers: Bronze (raw), Silver (cleaned), Gold (enriched).
 
 ### Key Capabilities
+### Khả Năng Chính
 
-- 🗺️ **POI Data Collection**: Tự động thu thập điểm đến (POI) từ OpenStreetMap, Google Places
-- 🔄 **Data Pipeline**: ETL pipeline xử lý Bronze → Silver → Gold
-- 🚀 **REST API**: FastAPI endpoints cho real-time data serving
-- 📊 **Monitoring**: Prometheus + Grafana cho observability
-- 🔐 **Security**: JWT authentication, CORS, rate limiting
-- 🐳 **Cloud-Native**: Docker containers, Kubernetes ready
+<!-- Liệt kê các tính năng và khả năng cốt lõi của hệ thống -->
+- 🗺️ **POI Data Collection**: Tự động thu thập điểm đến (POI - Point of Interest) từ OpenStreetMap API và Google Places API
+- 🔄 **Data Pipeline**: ETL pipeline xử lý dữ liệu qua 3 lớp Bronze → Silver → Gold với data quality checks
+- 🚀 **REST API**: FastAPI endpoints cho real-time data serving với async/await support
+- 📊 **Monitoring**: Prometheus metrics + Grafana dashboards cho hệ thống observability
+- 🔐 **Security**: JWT authentication, role-based access control (RBAC), CORS, và rate limiting
+- 🐳 **Cloud-Native**: Docker containerization, Kubernetes ready, horizontal scaling support
+- 📝 **Structured Logging**: JSON format logs với correlation ID tracking
+- 🧪 **Testing**: Comprehensive unit tests và integration tests với pytest
 
 ---
 
 ## 🏗️ Architecture
+## 🏗️ Kiến Trúc Hệ Thống
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐

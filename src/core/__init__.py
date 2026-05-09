@@ -10,7 +10,7 @@ Modules:
 """
 
 from .config import settings, get_settings
-from .database import mongodb_manager, redis_manager, get_database, get_redis_pool
+from .database import mongodb_manager, redis_manager
 from .logging import setup_logging, get_logger, set_correlation_id
 
 __all__ = [
@@ -18,8 +18,6 @@ __all__ = [
     "get_settings",
     "mongodb_manager",
     "redis_manager",
-    "get_database",
-    "get_redis_pool",
     "setup_logging",
     "get_logger",
     "set_correlation_id",

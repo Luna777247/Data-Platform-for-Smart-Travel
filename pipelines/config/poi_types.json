@@ -1,0 +1,136 @@
+{
+  "_comment": "Danh sách các loại POI được hỗ trợ trong Smart Tourism Data Platform",
+  "version": "1.0.0",
+  "last_updated": "2026-01-01",
+  "categories": [
+    {
+      "id": "hotel",
+      "name": "Hotels & Accommodation",
+      "description": "Hotels, hostels, guest houses, resorts",
+      "icon": "hotel",
+      "color": "#4CAF50",
+      "osm_tags": ["tourism=hotel", "tourism=hostel", "tourism=guest_house", "tourism=resort"],
+      "google_type": "lodging",
+      "enabled": true,
+      "priority": 1,
+      "attributes": {
+        "required": ["name", "location"],
+        "optional": ["stars", "rooms", "price_range", "amenities", "website", "phone"]
+      }
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurants & Dining",
+      "description": "Restaurants, cafes, bars, food courts",
+      "icon": "restaurant",
+      "color": "#FF9800",
+      "osm_tags": ["amenity=restaurant", "amenity=cafe", "amenity=bar", "amenity=fast_food"],
+      "google_type": "restaurant",
+      "enabled": true,
+      "priority": 2,
+      "attributes": {
+        "required": ["name", "location"],
+        "optional": ["cuisine", "price_range", "rating", "opening_hours", "delivery"]
+      }
+    },
+    {
+      "id": "attraction",
+      "name": "Tourist Attractions",
+      "description": "Museums, landmarks, parks, monuments",
+      "icon": "attraction",
+      "color": "#2196F3",
+      "osm_tags": ["tourism=attraction", "tourism=museum", "tourism=viewpoint", "historic=monument"],
+      "google_type": "tourist_attraction",
+      "enabled": true,
+      "priority": 3,
+      "attributes": {
+        "required": ["name", "location"],
+        "optional": ["description", "entry_fee", "opening_hours", "duration", "rating"]
+      }
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping & Retail",
+      "description": "Malls, markets, shops, boutiques",
+      "icon": "shopping",
+      "color": "#9C27B0",
+      "osm_tags": ["shop=mall", "shop=department_store", "shop=supermarket", "amenity=marketplace"],
+      "google_type": "shopping_mall",
+      "enabled": true,
+      "priority": 4,
+      "attributes": {
+        "required": ["name", "location"],
+        "optional": ["opening_hours", "website", "phone", "brands"]
+      }
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment & Nightlife",
+      "description": "Cinemas, theaters, clubs, karaoke",
+      "icon": "entertainment",
+      "color": "#E91E63",
+      "osm_tags": ["amenity=cinema", "amenity=theatre", "amenity=nightclub", "amenity=casino"],
+      "google_type": "movie_theater",
+      "enabled": true,
+      "priority": 5,
+      "attributes": {
+        "required": ["name", "location"],
+        "optional": ["type", "opening_hours", "age_restriction", "price"]
+      }
+    },
+    {
+      "id": "transport",
+      "name": "Transportation",
+      "description": "Airports, stations, bus stops, terminals",
+      "icon": "transport",
+      "color": "#607D8B",
+      "osm_tags": ["aeroway=aerodrome", "railway=station", "amenity=bus_station", "amenity=ferry_terminal"],
+      "google_type": "transit_station",
+      "enabled": true,
+      "priority": 6,
+      "attributes": {
+        "required": ["name", "location", "type"],
+        "optional": ["code", "routes", "schedule", "facilities"]
+      }
+    }
+  ],
+  "default_category": "hotel",
+  "mapping_rules": {
+    "osm_to_internal": {
+      "tourism=hotel": "hotel",
+      "tourism=hostel": "hotel",
+      "tourism=guest_house": "hotel",
+      "tourism=resort": "hotel",
+      "amenity=restaurant": "restaurant",
+      "amenity=cafe": "restaurant",
+      "amenity=bar": "restaurant",
+      "amenity=fast_food": "restaurant",
+      "tourism=attraction": "attraction",
+      "tourism=museum": "attraction",
+      "tourism=viewpoint": "attraction",
+      "historic=monument": "attraction",
+      "shop=mall": "shopping",
+      "shop=department_store": "shopping",
+      "shop=supermarket": "shopping",
+      "amenity=marketplace": "shopping"
+    },
+    "google_to_internal": {
+      "lodging": "hotel",
+      "restaurant": "restaurant",
+      "cafe": "restaurant",
+      "bar": "restaurant",
+      "tourist_attraction": "attraction",
+      "museum": "attraction",
+      "shopping_mall": "shopping",
+      "department_store": "shopping",
+      "supermarket": "shopping",
+      "movie_theater": "entertainment",
+      "night_club": "entertainment",
+      "casino": "entertainment",
+      "transit_station": "transport",
+      "train_station": "transport",
+      "bus_station": "transport",
+      "airport": "transport"
+    }
+  }
+}
