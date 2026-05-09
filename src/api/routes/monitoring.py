@@ -39,7 +39,7 @@ from fastapi.responses import JSONResponse
 from fastapi.responses import Response
 
 # Import Pydantic BaseModel
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 # Import Field cho field validation
 from pydantic import Field
@@ -132,14 +132,15 @@ class HealthStatus(BaseModel):
     timestamp: str = Field(..., description="Current UTC timestamp (ISO format)")
     uptime_seconds: float = Field(..., ge=0, description="Application uptime in seconds")
     
-    class Config:
-        json_schema_extra = {
+    model_config = ConfigDict(
+        json_schema_extra={
             "example": {
                 "status": "healthy",
                 "timestamp": "2024-06-15T10:30:00.000Z",
                 "uptime_seconds": 86400.5
             }
         }
+    )
 
 
 class ReadinessStatus(BaseModel):
@@ -157,8 +158,8 @@ class ReadinessStatus(BaseModel):
     checks: Dict[str, Any] = Field(..., description="Individual dependency checks")
     timestamp: str = Field(..., description="Current UTC timestamp")
     
-    class Config:
-        json_schema_extra = {
+    model_config = ConfigDict(
+        json_schema_extra={
             "example": {
                 "status": "ready",
                 "checks": {
@@ -168,6 +169,7 @@ class ReadinessStatus(BaseModel):
                 "timestamp": "2024-06-15T10:30:00.000Z"
             }
         }
+    )
 
 
 class VersionInfo(BaseModel):
@@ -187,8 +189,8 @@ class VersionInfo(BaseModel):
     python_version: str = Field(..., description="Python version")
     platform: str = Field(..., description="OS platform")
     
-    class Config:
-        json_schema_extra = {
+    model_config = ConfigDict(
+        json_schema_extra={
             "example": {
                 "version": "1.0.0",
                 "build": "abc123d",
@@ -197,6 +199,7 @@ class VersionInfo(BaseModel):
                 "platform": "Linux-5.15-x86_64"
             }
         }
+    )
 
 
 class SystemMetrics(BaseModel):
@@ -434,7 +437,7 @@ async def readiness_check(
     if not all_ready:
         raise HTTPException(
             status_code=http_status.HTTP_503_SERVICE_UNAVAILABLE,
-            detail=response.dict()
+            detail=response.model_dump()
         )
     
     return response

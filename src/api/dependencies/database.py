@@ -67,14 +67,16 @@ async def get_redis_client() -> redis.Redis:
 # Aliases for compatibility with existing code
 async def get_database():
     """
-    Alias for get_mongo_client() - Get MongoDB client.
+    Get MongoDB database instance.
     
     Tương thích với code cũ sử dụng get_database().
     
     Returns:
-        AsyncIOMotorClient: MongoDB client singleton
+        AsyncIOMotorDatabase: MongoDB database singleton
     """
-    yield mongo_client
+    from motor.motor_asyncio import AsyncIOMotorDatabase
+    db = mongo_client[settings.mongodb_database]
+    yield db
 
 
 async def get_redis_pool():

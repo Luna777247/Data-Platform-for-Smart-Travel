@@ -48,6 +48,8 @@ class TestHealthEndpoints:
         # Có thể 200 hoặc 503 tùy thuộc vào trạng thái
         assert response.status_code in [200, 503]
         data = response.json()
+        if response.status_code == 503:
+            data = data.get("detail", data)
         assert "status" in data
         assert "checks" in data
 

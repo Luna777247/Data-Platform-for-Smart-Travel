@@ -58,7 +58,7 @@ from fastapi.responses import JSONResponse
 # get_current_user: Xác thực JWT token
 # get_mongo_client: Lấy MongoDB client
 # get_redis_client: Lấy Redis client
-from src.api.dependencies.auth import get_current_user
+from src.api.dependencies.auth import get_current_active_user
 from src.api.dependencies.database import get_mongo_client, get_redis_client
 
 # Import PipelineManagementService từ services
@@ -95,7 +95,7 @@ router = APIRouter(
 async def start_pipeline(
     request: PipelineExecutionRequest,
     background_tasks: BackgroundTasks,
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -121,7 +121,7 @@ async def start_pipeline(
             categories=request.categories or [],
             execution_type=request.execution_type,
             background_tasks=background_tasks,
-            user_id=current_user.get("id") if current_user else "system"
+            user_id=current_user
         )
         
         logger.info(f"🚀 Pipeline started: {execution_id}")
@@ -149,7 +149,7 @@ async def start_pipeline(
 @router.post("/stop/{execution_id}", response_model=Dict[str, Any])
 async def stop_pipeline(
     execution_id: str,
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -161,7 +161,7 @@ async def stop_pipeline(
         
         success = await pipeline_service.stop_pipeline(
             execution_id=execution_id,
-            user_id=current_user.get("id") if current_user else "system"
+            user_id=current_user
         )
         
         if not success:
@@ -192,7 +192,7 @@ async def stop_pipeline(
 @router.post("/pause/{execution_id}", response_model=Dict[str, Any])
 async def pause_pipeline(
     execution_id: str,
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -204,7 +204,7 @@ async def pause_pipeline(
         
         success = await pipeline_service.pause_pipeline(
             execution_id=execution_id,
-            user_id=current_user.get("id") if current_user else "system"
+            user_id=current_user
         )
         
         if not success:
@@ -235,7 +235,7 @@ async def pause_pipeline(
 @router.post("/resume/{execution_id}", response_model=Dict[str, Any])
 async def resume_pipeline(
     execution_id: str,
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -247,7 +247,7 @@ async def resume_pipeline(
         
         success = await pipeline_service.resume_pipeline(
             execution_id=execution_id,
-            user_id=current_user.get("id") if current_user else "system"
+            user_id=current_user
         )
         
         if not success:
@@ -279,7 +279,7 @@ async def resume_pipeline(
 async def restart_pipeline(
     execution_id: str,
     background_tasks: BackgroundTasks,
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -292,7 +292,7 @@ async def restart_pipeline(
         new_execution_id = await pipeline_service.restart_pipeline(
             execution_id=execution_id,
             background_tasks=background_tasks,
-            user_id=current_user.get("id") if current_user else "system"
+            user_id=current_user
         )
         
         if not new_execution_id:
@@ -325,7 +325,7 @@ async def restart_pipeline(
 @router.get("/status/{execution_id}", response_model=PipelineStatusResponse)
 async def get_pipeline_status(
     execution_id: str,
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -357,7 +357,7 @@ async def get_pipeline_status(
 
 @router.get("/active", response_model=List[PipelineStatusResponse])
 async def get_active_pipelines(
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -386,7 +386,7 @@ async def get_pipeline_history(
     city: Optional[str] = Query(None),
     category: Optional[str] = Query(None),
     status: Optional[str] = Query(None),
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -422,7 +422,7 @@ async def get_pipeline_history(
 
 @router.get("/dashboard", response_model=PipelineDashboardResponse)
 async def get_pipeline_dashboard(
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -447,7 +447,7 @@ async def get_pipeline_dashboard(
 @router.get("/metrics", response_model=PipelineMetricsResponse)
 async def get_pipeline_metrics(
     time_range: str = Query("24h", description="Time range: 1h, 6h, 24h, 7d, 30d"),
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -473,7 +473,7 @@ async def get_pipeline_metrics(
 async def get_pipeline_errors(
     limit: int = Query(50, ge=1, le=1000),
     severity: Optional[str] = Query(None, description="Error severity: critical, error, warning"),
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -501,7 +501,7 @@ async def get_pipeline_errors(
 @router.get("/data-quality", response_model=Dict[str, Any])
 async def get_data_quality_report(
     time_range: str = Query("24h", description="Time range: 1h, 6h, 24h, 7d, 30d"),
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -526,7 +526,7 @@ async def get_data_quality_report(
 @router.delete("/cleanup", response_model=Dict[str, Any])
 async def cleanup_pipeline_resources(
     older_than_days: int = Query(30, ge=1, le=365, description="Cleanup resources older than X days"),
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):
@@ -538,7 +538,7 @@ async def cleanup_pipeline_resources(
         
         cleanup_result = await pipeline_service.cleanup_resources(
             older_than_days=older_than_days,
-            user_id=current_user.get("id") if current_user else "system"
+            user_id=current_user
         )
         
         logger.info(f"🧹 Pipeline cleanup completed: {cleanup_result}")
@@ -559,7 +559,7 @@ async def cleanup_pipeline_resources(
 
 @router.get("/health", response_model=Dict[str, Any])
 async def get_pipeline_health(
-    current_user: Optional[Dict] = Depends(get_current_user),
+    current_user: str = Depends(get_current_active_user),
     mongo_client = Depends(get_mongo_client),
     redis_client = Depends(get_redis_client)
 ):

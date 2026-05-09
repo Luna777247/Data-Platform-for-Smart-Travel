@@ -49,7 +49,7 @@ from fastapi import status              # HTTP status codes
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
 # Import Pydantic BaseModel cho request/response schemas
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 # Import Field cho model field validation
 from pydantic import Field
@@ -145,11 +145,9 @@ class POIResponse(BaseModel):
     updated_at: datetime = Field(..., description="Last update timestamp")
     layer: str = Field(..., description="Data layer (bronze/silver/gold)")
     
-    class Config:
-        # Cho phép ORM mode để convert từ MongoDB documents
-        from_attributes = True
-        # JSON schema extra examples
-        json_schema_extra = {
+    model_config = ConfigDict(
+        from_attributes=True,
+        json_schema_extra={
             "example": {
                 "poi_id": "gold_bangkok_hotel_12345",
                 "name": "โรงแรมแกรนด์เซนเตอร์พอยต์",
@@ -171,6 +169,7 @@ class POIResponse(BaseModel):
                 "layer": "gold"
             }
         }
+    )
 
 
 class POIListResponse(BaseModel):
@@ -444,7 +443,7 @@ async def list_pois(
             poi_responses.append(POIResponse(**poi))
         
         logger.info(
-            f"Listed {len(poi_responses)} POIs for user {current_user.username} "
+            f"Listed {len(poi_responses)} POIs for user {current_user} "
             f"(page {page}/{pages}, total {total})"
         )
         
@@ -719,7 +718,7 @@ async def get_data_stats(
                         by_source[src] = 0
                     by_source[src] += 1
         
-        logger.info(f"Retrieved data stats for user {current_user.username}")
+        logger.info(f"Retrieved data stats for user {current_user}")
         
         return DataStats(
             total_pois=total_pois,
