@@ -38,6 +38,18 @@ from .poi import (
     POIListResponse,
     POINearbyRequest,
 )
+from .monitoring import (
+    SystemMetric,
+    HealthCheck,
+    LogEntry,
+    Alert,
+)
+from .quality import (
+    QualityDimensionScore,
+    QualityReport,
+    QualityRule,
+    QualityIssue,
+)
 
 __all__ = [
     # Pipeline models
@@ -64,4 +76,14 @@ __all__ = [
     "POICategoryInfo",
     "POIListResponse",
     "POINearbyRequest",
+    # Monitoring models
+    "SystemMetric",
+    "HealthCheck",
+    "LogEntry",
+    "Alert",
+    # Quality models
+    "QualityDimensionScore",
+    "QualityReport",
+    "QualityRule",
+    "QualityIssue",
 ]

@@ -51,7 +51,10 @@ import httpx
 from pathlib import Path
 
 # Import BronzePlace model từ pipelines (shared data contracts)
-from pipelines.shared.schemas import BronzeRecord
+try:
+    from src.pipelines.shared.schemas import BronzeRecord
+except ImportError:
+    from pipelines.shared.schemas import BronzeRecord
 
 # ============================================
 # LOGGER SETUP

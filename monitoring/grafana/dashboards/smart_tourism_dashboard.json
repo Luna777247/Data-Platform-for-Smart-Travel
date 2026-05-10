@@ -1,0 +1,89 @@
+{
+  "dashboard": {
+    "title": "Smart Tourism - Platform Overview",
+    "tags": ["smart-tourism", "overview"],
+    "timezone": "Asia/Ho_Chi_Minh",
+    "schemaVersion": 36,
+    "refresh": "30s",
+    "panels": [
+      {
+        "id": 1,
+        "title": "Total POIs by Layer",
+        "type": "stat",
+        "targets": [
+          {
+            "expr": "poi_count{layer=\"gold\"}",
+            "legendFormat": "Gold Layer"
+          },
+          {
+            "expr": "poi_count{layer=\"silver\"}",
+            "legendFormat": "Silver Layer"
+          },
+          {
+            "expr": "poi_count{layer=\"bronze\"}",
+            "legendFormat": "Bronze Layer"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 0}
+      },
+      {
+        "id": 2,
+        "title": "POIs by City",
+        "type": "piechart",
+        "targets": [
+          {
+            "expr": "sum by (city) (poi_count{layer=\"gold\"})"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 12, "x": 12, "y": 0}
+      },
+      {
+        "id": 3,
+        "title": "Pipeline Execution Time",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "pipeline_execution_duration_seconds",
+            "legendFormat": "{{stage}}"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 24, "x": 0, "y": 8}
+      },
+      {
+        "id": 4,
+        "title": "Data Quality Score",
+        "type": "gauge",
+        "targets": [
+          {
+            "expr": "avg(data_quality_score)"
+          }
+        ],
+        "fieldConfig": {
+          "defaults": {
+            "min": 0,
+            "max": 100,
+            "thresholds": {
+              "steps": [
+                {"color": "red", "value": 0},
+                {"color": "yellow", "value": 60},
+                {"color": "green", "value": 80}
+              ]
+            }
+          }
+        },
+        "gridPos": {"h": 8, "w": 8, "x": 0, "y": 16}
+      },
+      {
+        "id": 5,
+        "title": "API Request Rate",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "rate(api_requests_total[5m])"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 16, "x": 8, "y": 16}
+      }
+    ]
+  }
+}

@@ -56,6 +56,8 @@ from src.api.routes import data_query
 from src.api.routes import monitoring
 from src.api.routes import health
 from src.api.routes import admin
+# from src.api.routes import pipeline_v2  # Commented out due to celery import error
+from src.api.routes import auth
 
 # ============================================
 # LOGGING SETUP
@@ -334,9 +336,19 @@ async def add_correlation_id(request: Request, call_next):
 # Prefix: /api/v1/pipeline
 app.include_router(pipeline_management.router)
 
+# Đăng ký pipeline v2 routes (sử dụng PipelineOrchestrator)
+# Prefix: /api/v1/pipeline
+# app.include_router(pipeline_v2.router)  # Commented out due to import error
+
 # Đăng ký data query routes
 # Prefix: /api/v1/data
+print(f"DEBUG main.py: About to include data_query.router with id={id(data_query.router)}")
 app.include_router(data_query.router)
+print(f"DEBUG main.py: Included data_query.router, app routes count={len(app.routes)}")
+# Print all routes
+for i, route in enumerate(app.routes):
+    if hasattr(route, 'path'):
+        print(f"DEBUG: App route {i}: {route.path}")
 
 # Đăng ký monitoring routes (public health endpoints)
 # Routes: /health, /ready, /metrics
@@ -350,6 +362,11 @@ app.include_router(health.router)
 # Prefix: /api/v1/admin
 # Requires: Admin role
 app.include_router(admin.router)
+
+# Đăng ký auth routes
+# Prefix: /api/v1/auth
+# Routes: /login, /register, /refresh, /me
+app.include_router(auth.router)
 
 
 # ============================================

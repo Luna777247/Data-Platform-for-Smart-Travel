@@ -420,6 +420,28 @@ def verify_password(plain_password: str, hashed_password: str) -> bool:
     return pwd_context.verify(plain_password, hashed_password)
 
 
+def verify_token(token: str) -> Optional[str]:
+    """
+    Verify JWT token và trả về username.
+    
+    Args:
+        token: JWT token string
+        
+    Returns:
+        str: Username nếu token hợp lệ, None nếu không hợp lệ
+    """
+    try:
+        payload = jwt.decode(
+            token=token,
+            key=settings.jwt_secret,
+            algorithms=[settings.algorithm],
+            audience="smart-travel-users",
+        )
+        return payload.get("sub")
+    except JWTError:
+        return None
+
+
 # ============================================
 # MODULE IMPORTS
 # ============================================
@@ -436,6 +458,7 @@ __all__ = [
     "get_current_active_user",
     "get_current_admin_user",
     "create_access_token",
+    "verify_token",
     "get_password_hash",
     "verify_password",
     "User",

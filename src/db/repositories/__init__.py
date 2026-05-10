@@ -20,6 +20,14 @@ Example:
     count = await repo.count_by_category("hotel")
 """
 
+from src.db.repositories.poi_repository import POIRepository
+from src.db.repositories.pipeline_repository import PipelineRepository
+from src.db.repositories.monitoring_repository import MonitoringRepository
+from src.db.repositories.quality_repository import QualityRepository
+
 __all__ = [
-    # Repositories sẽ được thêm khi implement
+    "POIRepository",
+    "PipelineRepository",
+    "MonitoringRepository",
+    "QualityRepository",
 ]

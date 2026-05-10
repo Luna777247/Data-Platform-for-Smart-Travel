@@ -414,11 +414,14 @@ async def readiness_check(
     if mongo_status["status"] != "connected":
         all_ready = False
     
-    # Check Redis
-    redis_status = await check_redis_health()
-    checks["redis"] = redis_status
-    if redis_status["status"] != "connected":
-        all_ready = False
+    # Check Redis (optional - không bắt buộc)
+    try:
+        redis_status = await check_redis_health()
+        checks["redis"] = redis_status
+        # Redis là optional, không ảnh hưởng đến all_ready
+    except Exception as e:
+        checks["redis"] = {"status": "optional", "message": "Redis not configured"}
+        # Không đặt all_ready = False vì Redis là optional
     
     # Timestamp
     timestamp = datetime.now(timezone.utc).isoformat()
@@ -526,7 +529,7 @@ async def get_detailed_status(
     Returns:
         DetailedStatus với comprehensive system information
     """
-    logger.info(f"Detailed status requested by user: {current_user.username}")
+    logger.info(f"Detailed status requested by user: {current_user}")
     
     # Health status
     uptime = time.time() - START_TIME
@@ -597,7 +600,7 @@ async def get_version(
     Returns:
         VersionInfo với version, build, environment
     """
-    logger.info(f"Version info requested by user: {current_user.username}")
+    logger.info(f"Version info requested by user: {current_user}")
     
     # Lấy build info
     build = os.getenv("GIT_COMMIT", "unknown")
@@ -632,7 +635,7 @@ async def get_dependencies_status(
     Returns:
         Dict với status của từng dependency
     """
-    logger.info(f"Dependencies status requested by user: {current_user.username}")
+    logger.info(f"Dependencies status requested by user: {current_user}")
     
     return {
         "timestamp": datetime.now(timezone.utc).isoformat(),
@@ -641,6 +644,62 @@ async def get_dependencies_status(
             "redis": await check_redis_health()
         }
     }
+
+
+@router.get(
+    "/api/v1/monitoring/stats",
+    summary="Get monitoring statistics",
+    description="Lấy thống kê hệ thống monitoring.",
+)
+async def get_monitoring_stats(
+    db: AsyncIOMotorDatabase = Depends(get_database),
+    current_user: User = Depends(get_current_active_user)
+):
+    """Get monitoring statistics."""
+    try:
+        # Get collection counts
+        bronze_count = await db["bronze_records"].count_documents({})
+        silver_count = await db["silver_places"].count_documents({})
+        gold_count = await db["gold_master_pois"].count_documents({})
+        
+        return {
+            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "collections": {
+                "bronze": bronze_count,
+                "silver": silver_count,
+                "gold": gold_count
+            },
+            "total": bronze_count + silver_count + gold_count
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error getting stats: {str(e)}")
+
+
+@router.get(
+    "/api/v1/monitoring/layers",
+    summary="Get layer information",
+    description="Lấy thông tin về các data layers.",
+)
+async def get_monitoring_layers(
+    db: AsyncIOMotorDatabase = Depends(get_database),
+    current_user: User = Depends(get_current_active_user)
+):
+    """Get layer information."""
+    try:
+        bronze_count = await db["bronze_records"].count_documents({})
+        silver_count = await db["silver_places"].count_documents({})
+        gold_count = await db["gold_master_pois"].count_documents({})
+        
+        return {
+            "timestamp": datetime.now(timezone.utc).isoformat(),
+            "layers": [
+                {"name": "bronze", "count": bronze_count, "description": "Raw collected data"},
+                {"name": "silver", "count": silver_count, "description": "Normalized data"},
+                {"name": "gold", "count": gold_count, "description": "Master POIs"}
+            ]
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error getting layers: {str(e)}")
 
 
 # ============================================================================

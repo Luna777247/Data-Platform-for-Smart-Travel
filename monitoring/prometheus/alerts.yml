@@ -1,0 +1,65 @@
+# Smart Tourism Platform Alerts
+# ==============================
+
+groups:
+  - name: smart_tourism_alerts
+    rules:
+      # Pipeline Failure Alert
+      - alert: PipelineExecutionFailed
+        expr: pipeline_execution_status{status="failed"} > 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Pipeline execution failed"
+          description: "Pipeline {{ $labels.stage }} failed for city {{ $labels.city }}"
+
+      # Low Data Quality Alert
+      - alert: LowDataQualityScore
+        expr: avg(data_quality_score) < 70
+        for: 5m
+        labels:
+          severity: warning
+        annotations:
+          summary: "Data quality score is low"
+          description: "Average data quality score is {{ $value }}% (threshold: 70%)"
+
+      # API High Error Rate
+      - alert: APIHighErrorRate
+        expr: rate(api_requests_total{status=~"5.."}[5m]) / rate(api_requests_total[5m]) > 0.1
+        for: 2m
+        labels:
+          severity: warning
+        annotations:
+          summary: "API error rate is high"
+          description: "Error rate is {{ $value | humanizePercentage }}"
+
+      # Database Connection Alert
+      - alert: DatabaseConnectionFailed
+        expr: mongodb_connections{state="connected"} == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Database connection failed"
+          description: "MongoDB connection is down"
+
+      # Redis Connection Alert
+      - alert: RedisConnectionFailed
+        expr: redis_connected_clients == 0
+        for: 1m
+        labels:
+          severity: critical
+        annotations:
+          summary: "Redis connection failed"
+          description: "Redis connection is down"
+
+      # Low POI Count Alert
+      - alert: LowPOICount
+        expr: poi_count{layer="gold"} < 100
+        for: 10m
+        labels:
+          severity: info
+        annotations:
+          summary: "Low POI count in Gold layer"
+          description: "Only {{ $value }} POIs in Gold layer"

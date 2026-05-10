@@ -580,3 +580,40 @@ async def get_pipeline_health(
             "error": str(e),
             "timestamp": datetime.now(timezone.utc).isoformat()
         }
+
+
+@router.get("/status", summary="Get Pipeline System Status")
+async def get_pipeline_system_status(
+    current_user: str = Depends(get_current_active_user),
+    mongo_client = Depends(get_mongo_client)
+):
+    """
+    Lấy trạng thái tổng quan của pipeline system.
+    """
+    try:
+        # Lấy thống kê từ database
+        db = mongo_client.smart_travel
+        
+        # Đếm số executions
+        total_executions = await db.pipeline_executions.count_documents({})
+        active_executions = await db.pipeline_executions.count_documents({"status": "running"})
+        completed_executions = await db.pipeline_executions.count_documents({"status": "completed"})
+        failed_executions = await db.pipeline_executions.count_documents({"status": "failed"})
+        
+        return {
+            "status": "healthy",
+            "executions": {
+                "total": total_executions,
+                "active": active_executions,
+                "completed": completed_executions,
+                "failed": failed_executions
+            },
+            "timestamp": datetime.now(timezone.utc).isoformat()
+        }
+        
+    except Exception as e:
+        logger.error(f"❌ Error getting pipeline system status: {e}")
+        raise HTTPException(
+            status_code=500,
+            detail=f"Lỗi khi lấy trạng thái pipeline: {str(e)}"
+        )
