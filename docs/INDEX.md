@@ -1,8 +1,8 @@
 # Smart Tourism Platform - Documentation Index
 ## Danh Mục Tài Liệu Hệ Thống
 
-**Last Updated:** May 10, 2026  
-**Version:** 1.1
+**Last Updated:** May 11, 2026  
+**Version:** 1.3
 
 ---
 
@@ -149,11 +149,11 @@
 - 🔄 [INDEX.md](./INDEX.md) - Updated navigation
 - 🔄 Pipeline services - Unified MongoDB storage
 
-### Architecture Changes
-- ✅ **Simplified**: Chỉ MongoDB (bỏ MinIO)
-- ✅ **Consistent**: Cả 3 layers trong 1 database
-- ✅ **Easy Query**: MongoDB query cho mọi layer
-- ✅ **Easy Backup**: Backup 1 nơi
+### Architecture Changes (v1.3 - May 11, 2026)
+- ✅ **MinIO removed**: Xóa hoàn toàn MinIO khỏi códe và config
+- ✅ **MongoDB-only**: Cả 3 layers (Bronze/Silver/Gold) trong MongoDB
+- ✅ **pipeline_mongodb**: Route mới thay thế `pipeline_minio`
+- ✅ **Config cleanup**: Xóa `minio_*` fields khỏi `config.py` và `.env`
 - 8 API endpoints (`/api/v1/pipeline/*`)
 - Direct MongoDB access guide
 - Export data scripts
@@ -163,9 +163,9 @@
 ## 🔗 External Resources
 
 - **Swagger UI:** http://localhost:8000/docs
-- **MinIO Console:** http://localhost:9001 (minioadmin/minioadmin123)
 - **MongoDB Compass:** mongodb://localhost:27017
-- **Grafana:** http://localhost:3000
+- **Prometheus:** http://localhost:9090
+- **Grafana:** http://localhost:3001
 
 ---
 
@@ -175,7 +175,8 @@
 |------|---------|---------|
 | May 2026 | 1.0 | Initial documentation |
 | May 10, 2026 | 1.1 | Added MinIO + MongoDB architecture |
-| May 10, 2026 | 1.2 | **Simplified to MongoDB-only architecture** |
+| May 10, 2026 | 1.2 | Simplified to MongoDB-only architecture |
+| May 11, 2026 | 1.3 | **Removed MinIO completely from codebase** |
 
 ---
 

@@ -1,32 +1,34 @@
-﻿import pandas as pd
+﻿import json
 import psycopg2
 from psycopg2.extras import execute_values
-from minio import Minio
-from io import BytesIO
 import logging
+from pymongo import MongoClient
+from typing import Optional
 
 logger = logging.getLogger(__name__)
 
+
 class PostgresLoader:
-    def __init__(self, db_config: dict, minio_client: Minio):
+    def __init__(self, db_config: dict, mongo_uri: str, mongo_db: str = "smart_travel"):
         self.db_config = db_config
-        self.minio = minio_client
-        self.bucket = "lakehouse"
+        self.mongo_uri = mongo_uri
+        self.mongo_db = mongo_db
 
     def load_city(self, city: str):
         """
-        Nạp dữ liệu từ Silver Layer (Parquet) vào PostgreSQL + PostGIS.
+        Nạp dữ liệu từ Silver Layer (MongoDB silver_pois) vào PostgreSQL + PostGIS.
         Sử dụng cơ chế UPSERT để tránh trùng lặp u_key.
         """
         logger.info(f"Loading {city} data into Serving Layer (PostgreSQL)...")
-        
-        # 1. READ FROM SILVER
-        silver_path = f"silver/pois_cleaned/{city}/data.parquet"
+
+        # 1. READ FROM SILVER (MONGODB)
         try:
-            response = self.minio.get_object(self.bucket, silver_path)
-            df = pd.read_parquet(BytesIO(response.read()))
+            mongo_client = MongoClient(self.mongo_uri)
+            db = mongo_client[self.mongo_db]
+            docs = list(db["silver_pois"].find({"city": city}))
+            mongo_client.close()
         except Exception as e:
-            logger.error(f"Failed to read silver data for {city}: {e}")
+            logger.error(f"Failed to read silver data for {city} from MongoDB: {e}")
             return
 
         # 2. PREPARE FOR UPSERT
@@ -34,19 +36,20 @@ class PostgresLoader:
         # Tables: u_key, name, city, category, rating, review_count, geom, metadata
         
         records = []
-        for _, row in df.iterrows():
-            # Chuyển đổi tọa độ sang WKT (Well-Known Text) cho PostGIS
-            geom_wkt = f"SRID=4326;POINT({row['lon']} {row['lat']})" if pd.notnull(row['lat']) else None
-            
+        for row in docs:
+            lat = row.get('lat') or row.get('location', {}).get('lat')
+            lon = row.get('lon') or row.get('location', {}).get('lon')
+            geom_wkt = f"SRID=4326;POINT({lon} {lat})" if lat and lon else None
+            row.pop('_id', None)
             records.append((
-                row['u_key'],
-                row['name'],
+                row.get('u_key'),
+                row.get('name'),
                 city,
                 row.get('category'),
                 row.get('rating'),
                 row.get('reviews', 0),
                 geom_wkt,
-                json.dumps(row.to_dict()) # Toàn bộ data vào metadata cho GIN index search
+                json.dumps(row)
             ))
 
         # 3. EXECUTE BATCH UPSERT
@@ -76,7 +79,5 @@ class PostgresLoader:
             cur.close()
             conn.close()
 
-import json
 if __name__ == "__main__":
-    # Test connection logic here
     pass

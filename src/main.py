@@ -52,7 +52,7 @@ from src.core.database import connect_databases, disconnect_databases
 
 # Import API routes
 from src.api.routes import pipeline_management
-from src.api.routes import pipeline_minio  # MinIO + MongoDB pipeline
+from src.api.routes import pipeline_mongodb  # MongoDB pipeline (Bronze/Silver/Gold)
 from src.api.routes import data_query
 from src.api.routes import monitoring
 from src.api.routes import health
@@ -345,9 +345,9 @@ async def add_correlation_id(request: Request, call_next):
 # Prefix: /api/v1/pipeline
 app.include_router(pipeline_management.router)
 
-# Đăng ký pipeline MinIO routes (Bronze → MinIO, Silver/Gold → MongoDB)
+# Đăng ký pipeline MongoDB routes (Bronze/Silver/Gold → MongoDB)
 # Prefix: /api/v1/pipeline
-app.include_router(pipeline_minio.router)
+app.include_router(pipeline_mongodb.router)
 
 # Đăng ký pipeline v2 routes (sử dụng PipelineOrchestrator)
 # Prefix: /api/v1/pipeline

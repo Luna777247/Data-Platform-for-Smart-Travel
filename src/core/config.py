@@ -141,29 +141,6 @@ class Settings(BaseSettings):
     # Đăng ký tại: https://developers.google.com/maps/documentation/places/web-service
     google_places_api_key: str | None = Field(default=None, alias="GOOGLE_PLACES_API_KEY")
     
-    # MinIO access key cho object storage
-    # Dùng để lưu trữ files, images, và pipeline artifacts
-    # MinIO là S3-compatible object storage, có thể thay thế AWS S3
-    # Cần thiết cho lưu trữ Bronze/Silver/Gold layer data
-    minio_access_key: str | None = Field(default=None, alias="MINIO_ACCESS_KEY")
-    
-    # MinIO secret key - cặp với access key ở trên
-    # Dùng để authenticate với MinIO server
-    # KHÔNG được expose trong logs hoặc error messages
-    minio_secret_key: str | None = Field(default=None, alias="MINIO_SECRET_KEY")
-    
-    # MinIO server endpoint
-    # Default: "minio:9000" - tên service và port trong docker-compose
-    # Format: "host:port" hoặc "http://host:port" hoặc "https://host:port"
-    # Có thể trỏ đến AWS S3, Google Cloud Storage, hoặc Azure Blob
-    minio_endpoint: str = Field(default="minio:9000", alias="MINIO_ENDPOINT")
-    
-    # MinIO TLS/SSL enabled flag
-    # Default: False - không dùng TLS (phù hợp cho internal network)
-    # Set True nếu MinIO server yêu cầu HTTPS connection
-    # Lưu ý: Trong production, nên bật TLS để bảo mật
-    minio_secure: bool = Field(default=False, alias="MINIO_SECURE")
-
     # ============================================
     # APPLICATION SETTINGS
     # ============================================
@@ -392,12 +369,6 @@ class Settings(BaseSettings):
             if not self.google_places_api_key:
                 import warnings
                 warnings.warn("GOOGLE_PLACES_API_KEY not configured - Google Places features will be disabled")
-            
-            # MinIO credentials bắt buộc cho object storage
-            if not self.minio_access_key:
-                raise ValueError("MINIO_ACCESS_KEY must be configured in production")
-            if not self.minio_secret_key:
-                raise ValueError("MINIO_SECRET_KEY must be configured in production")
             
             # MongoDB URL không được trỏ đến localhost trong production
             # Production nên dùng managed MongoDB service (Atlas, etc.)

@@ -9,12 +9,12 @@ Bản cập nhật này giới thiệu kiến trúc **MongoDB-only 3-layers** - 
 
 | Layer | Storage Trước | Storage Mới | Lý Do Thay Đổi |
 |-------|---------------|-------------|----------------|
-| **Bronze** | Local Files (`storage/bronze/`) + MinIO | **MongoDB** (`bronze_records`) | Đơn giản, query dễ dàng, backup 1 nơi |
+| **Bronze** | Local Files (`storage/bronze/`) | **MongoDB** (`bronze_pois`) | Đơn giản, query dễ dàng, backup 1 nơi |
 | **Silver** | Local Files (`storage/silver/`) | **MongoDB** (`silver_pois`) | Query được, có index |
 | **Gold** | Local Files (`storage/gold/`) | **MongoDB** (`gold_master_pois`) | Production-ready, searchable |
 
 **Lợi ích chính:**
-- ✅ **Simple**: Chỉ 1 database (MongoDB) - bỏ MinIO
+- ✅ **Simple**: Chỉ 1 database (MongoDB) - không cần MinIO
 - ✅ **Consistent**: Cả 3 layers trong cùng 1 database
 - ✅ **Easy Query**: MongoDB queries cho mọi layer
 - ✅ **Easy Backup**: Backup 1 nơi duy nhất
@@ -92,10 +92,10 @@ Bản cập nhật này giới thiệu kiến trúc **MongoDB-only 3-layers** - 
 |------|----------|-----------|
 | **Bronze Pipeline** | Thu thập data → MongoDB | `src/services/bronze_pipeline.py` |
 | **Silver/Gold Pipeline** | Transform trong MongoDB | `src/services/silver_gold_pipeline.py` |
-| **Pipeline API** | REST endpoints cho pipeline | `src/api/routes/pipeline_minio.py` |
+| **Pipeline API** | REST endpoints cho pipeline | `src/api/routes/pipeline_mongodb.py` |
 | **MongoDB Documentation** | Hướng dẫn chi tiết | `docs/MONGODB_PIPELINE.md` |
 
-**Lưu ý:** `src/core/minio_client.py` và `docs/MINIO_MONGODB_PIPELINE.md` đã được thay thế bằng kiến trúc MongoDB-only đơn giản hơn.
+**Lưu ý:** MinIO đã bị xóa hoàn toàn. `src/api/routes/pipeline_mongodb.py` thay thế `pipeline_minio.py`.
 
 ---
 
@@ -108,11 +108,6 @@ Bản cập nhật này giới thiệu kiến trúc **MongoDB-only 3-layers** - 
 MONGODB_URI=mongodb://admin:admin123@localhost:27017/smart_travel?authSource=admin
 DB_NAME=smart_travel
 
-# Optional: MinIO (nếu vẫn muốn dùng cho backup)
-# MINIO_ENDPOINT=localhost:9000
-# MINIO_ACCESS_KEY=minioadmin
-# MINIO_SECRET_KEY=minioadmin123
-
 # MongoDB (đã có)
 MONGODB_URL=mongodb://localhost:27017
 DB_NAME=smart_travel
@@ -120,7 +115,7 @@ DB_NAME=smart_travel
 
 ### 2. Docker Compose (docker-compose.yml)
 
-**Lưu ý:** MinIO đã được loại bỏ. Chỉ cần MongoDB:
+**Lưu ý:** Chỉ cần MongoDB (MinIO đã bị xóa hoàn toàn):
 
 ```yaml
 services:
@@ -216,7 +211,7 @@ GET /api/v1/pipeline/layers/stats
 
 ---
 
-## 🔄 Migration Guide (Từ MinIO → MongoDB)
+## 🔄 Migration Guide
 
 ### Bước 1: Setup MongoDB
 
@@ -228,31 +223,18 @@ docker-compose up -d mongodb
 mongosh "mongodb://admin:admin123@localhost:27017/smart_travel?authSource=admin"
 ```
 
-### Bước 2: Migrate Data từ MinIO sang MongoDB (nếu cần)
+### Bước 2: Kiểm tra dữ liệu Bronze trong MongoDB
 
 ```python
-# migrate_minio_to_mongodb.py
 from pymongo import MongoClient
-from src.core.minio_client import get_bronze_storage
 
 client = MongoClient('mongodb://admin:admin123@localhost:27017/smart_travel?authSource=admin')
 db = client.smart_travel
-storage = get_bronze_storage()
 
-# Migrate from MinIO to MongoDB
-records = storage.list_bronze_records()
-for record_info in records:
-    data = storage.get_bronze_record(record_info["path"])
-    if data:
-        data["_layer"] = "bronze"
-        data["_source"] = record_info.get("source", "google")
-        db.bronze_records.insert_one(data)
-        print(f"Migrated: {record_info['path']}")
-
-print("✅ Migration complete")
+# Kiểm tra bronze_pois
+records = list(db['bronze_pois'].find().limit(5))
+print(f"Bronze records: {len(records)}")
 ```
-
-Hoặc từ local files:
 
 ```python
 # migrate_files_to_mongodb.py
@@ -361,27 +343,14 @@ curl -H "Authorization: Bearer <token>" \
 
 ## 🆘 Troubleshooting
 
-### MinIO không kết nối được
-
-```bash
-# Check if MinIO is running
-docker ps | grep minio
-
-# Check logs
-docker logs smart-travel-minio-1
-
-# Restart
-docker-compose restart minio
-```
-
 ### Pipeline API lỗi 500
 
 ```bash
 # Check backend logs
 tail -f logs/backend.log
 
-# Verify MinIO connection
-python -c "from src.core.minio_client import get_bronze_storage; print(get_bronze_storage().client)"
+# Verify MongoDB connection
+python -c "from pymongo import MongoClient; c=MongoClient('mongodb://localhost:27017'); print(c.admin.command('ping'))"
 ```
 
 ### Data không vào MongoDB
@@ -401,14 +370,13 @@ mongosh smart_travel --eval "db.silver_pois.countDocuments()"
 ### Version 1.1 (May 10, 2026)
 
 #### Added
-- ⭐ MinIO integration for Bronze layer storage
 - ⭐ New pipeline services: `BronzePipeline`, `SilverGoldPipeline`
-- ⭐ 8 new API endpoints for MinIO + MongoDB pipeline
-- ⭐ Documentation: `MINIO_MONGODB_PIPELINE.md`
+- ⭐ 8 new API endpoints (`/api/v1/pipeline/*`) - route `pipeline_mongodb`
+- ⭐ Documentation: `MONGODB_PIPELINE.md`
 
 #### Changed
-- 🔄 Bronze layer: Local files → MinIO object storage
-- 🔄 Silver/Gold layers: Local files → MongoDB collections
+- 🔄 Bronze/Silver/Gold layers: Local files → MongoDB collections
+- 🔄 MinIO removed completely from codebase
 - 🔄 Architecture documentation updated
 
 #### Migration
