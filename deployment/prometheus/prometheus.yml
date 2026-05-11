@@ -37,17 +37,9 @@ global:
 # ============================================================================
 alerting:
   alertmanagers:
-    # Cấu hình Alertmanager endpoints
+    # Alertmanager chưa được deploy - để trống
     - static_configs:
-        - targets:
-            # Alertmanager service (nếu có setup)
-            - 'alertmanager:9093'
-      
-      # Timeout cho alertmanager requests
-      timeout: 10s
-      
-      # API version
-      api_version: v2
+        - targets: []
 
 # ============================================================================
 # RULE FILES
@@ -113,81 +105,39 @@ scrape_configs:
         # Giữ lại các labels quan trọng
   
   # --------------------------------------------------------------------------
-  # MONGODB METRICS (nếu có MongoDB exporter)
+  # MONGODB METRICS - disabled (mongodb-exporter not deployed)
   # --------------------------------------------------------------------------
-  - job_name: 'mongodb'
-    
-    scrape_interval: 30s
-    
-    static_configs:
-      - targets:
-          - 'mongodb-exporter:9216'  # MongoDB exporter port
-        labels:
-          service: 'mongodb'
-          tier: 'database'
-    
-    # Metric relabeling để filter
-    metric_relabel_configs:
-      # Drop system và admin database metrics
-      - source_labels: [database]
-        regex: '(admin|config|local)'
-        action: drop
+  # - job_name: 'mongodb'
+  #   static_configs:
+  #     - targets: ['mongodb-exporter:9216']
   
   # --------------------------------------------------------------------------
-  # REDIS METRICS (nếu có Redis exporter)
+  # REDIS METRICS - disabled (redis-exporter not deployed)
   # --------------------------------------------------------------------------
-  - job_name: 'redis'
-    
-    scrape_interval: 30s
-    
-    static_configs:
-      - targets:
-          - 'redis-exporter:9121'  # Redis exporter port
-        labels:
-          service: 'redis'
-          tier: 'cache'
+  # - job_name: 'redis'
+  #   static_configs:
+  #     - targets: ['redis-exporter:9121']
   
   # --------------------------------------------------------------------------
-  # NODE EXPORTER (System metrics)
+  # NODE EXPORTER - disabled (node-exporter not deployed)
   # --------------------------------------------------------------------------
-  - job_name: 'node-exporter'
-    
-    scrape_interval: 15s
-    
-    static_configs:
-      - targets:
-          - 'node-exporter:9100'
-        labels:
-          service: 'node'
-          tier: 'infrastructure'
+  # - job_name: 'node-exporter'
+  #   static_configs:
+  #     - targets: ['node-exporter:9100']
   
   # --------------------------------------------------------------------------
-  # DOCKER DAEMON METRICS (nếu có Docker daemon metrics)
+  # DOCKER METRICS - disabled (docker-exporter not deployed)
   # --------------------------------------------------------------------------
-  - job_name: 'docker'
-    
-    scrape_interval: 30s
-    
-    static_configs:
-      - targets:
-          - 'docker-exporter:9323'
-        labels:
-          service: 'docker'
-          tier: 'infrastructure'
+  # - job_name: 'docker'
+  #   static_configs:
+  #     - targets: ['docker-exporter:9323']
   
   # --------------------------------------------------------------------------
-  # CELERY WORKERS METRICS (nếu có Celery exporter)
+  # CELERY METRICS - disabled (celery-exporter not deployed)
   # --------------------------------------------------------------------------
-  - job_name: 'celery'
-    
-    scrape_interval: 30s
-    
-    static_configs:
-      - targets:
-          - 'celery-exporter:9808'
-        labels:
-          service: 'celery'
-          tier: 'workers'
+  # - job_name: 'celery'
+  #   static_configs:
+  #     - targets: ['celery-exporter:9808']
 
 # ============================================================================
 # REMOTE WRITE (Optional - cho external storage)

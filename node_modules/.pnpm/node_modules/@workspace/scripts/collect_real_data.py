@@ -1,185 +1,202 @@
 """
-Collect Real OSM Data - Production Version
-==========================================
-
-Collect real POI data từ OpenStreetMap cho các thành phố chính.
-Xử lý rate limiting và có thể resume.
+Collect Real OSM Data → bronze_pois
+=====================================
+Thu thập OSM POI data cho các thành phố, lưu vào bronze_pois với osm_raw schema.
+Insert từng POI ngay lập tức, resume-safe (bỏ qua nếu u_key đã tồn tại).
+Multi-endpoint Overpass fallback + quota guard.
 """
 
 import os
 import sys
-import json
-from datetime import datetime
+import hashlib
+import time
+import requests
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
+from dotenv import load_dotenv
+load_dotenv(Path(__file__).parent.parent / '.env')
+
 from pymongo import MongoClient
-from pipelines.ingestion.osm_collector_real import OSMCollectorReal
 
 
-# Configuration
+MONGODB_URI = os.getenv(
+    "MONGODB_URI",
+    "mongodb+srv://nguyenanhilu9785_db_user:12345@cluster0.olqzq.mongodb.net/smart_travel_platform?appName=Cluster0"
+)
+
+OVERPASS_ENDPOINTS = [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+    "https://overpass.openstreetmap.fr/api/interpreter",
+]
+
 CITIES = {
-    "hanoi": {
-        "lat": 21.0278,
-        "lng": 105.8342,
-        "radius": 8000,  # ~8km radius
-        "categories": ["restaurant", "cafe", "hotel", "attraction", "bar", "pharmacy"]
-    },
-    "hcm": {
-        "lat": 10.8231,
-        "lng": 106.6297,
-        "radius": 8000,
-        "categories": ["restaurant", "cafe", "hotel", "attraction", "bar", "pharmacy"]
-    },
-    "danang": {
-        "lat": 16.0544,
-        "lng": 108.2022,
-        "radius": 6000,
-        "categories": ["restaurant", "cafe", "hotel", "attraction"]
-    }
+    "hanoi":  {"name": "Hà Nội",      "lat": 21.0278, "lon": 105.8342, "radius_m": 8000, "country": "Vietnam"},
+    "hcm":    {"name": "Hồ Chí Minh", "lat": 10.8231, "lon": 106.6297, "radius_m": 8000, "country": "Vietnam"},
+    "danang": {"name": "Đà Nẵng",     "lat": 16.0544, "lon": 108.2022, "radius_m": 6000, "country": "Vietnam"},
 }
 
-PROGRESS_FILE = Path(__file__).parent / "collection_progress.json"
+CATEGORIES = {
+    "restaurant": [("amenity", "restaurant"), ("amenity", "fast_food")],
+    "cafe":       [("amenity", "cafe")],
+    "hotel":      [("tourism", "hotel"), ("tourism", "guest_house"), ("tourism", "hostel")],
+    "attraction": [("tourism", "attraction"), ("tourism", "museum"), ("tourism", "viewpoint")],
+    "bar":        [("amenity", "bar"), ("amenity", "pub")],
+    "pharmacy":   [("amenity", "pharmacy")],
+}
 
 
-def load_progress():
-    """Load collection progress."""
-    if PROGRESS_FILE.exists():
-        with open(PROGRESS_FILE) as f:
-            return json.load(f)
-    return {}
+def _create_overpass_query(lat, lon, radius_m, tags):
+    parts = []
+    for key, value in tags:
+        parts += [
+            f'node["{key}"="{value}"](around:{radius_m},{lat},{lon});',
+            f'way["{key}"="{value}"](around:{radius_m},{lat},{lon});',
+        ]
+    body = "\n  ".join(parts)
+    return f"[out:json][timeout:180];\n(\n  {body}\n);\nout body center tags meta;"
 
 
-def save_progress(progress):
-    """Save collection progress."""
-    with open(PROGRESS_FILE, 'w') as f:
-        json.dump(progress, f, indent=2)
+def _try_overpass_query(query, timeout=180):
+    import random
+    headers = {"User-Agent": "SmartTravel-RealCollector/1.0", "Accept": "application/json"}
+    endpoints = OVERPASS_ENDPOINTS.copy()
+    random.shuffle(endpoints)
+    for endpoint in endpoints:
+        try:
+            resp = requests.get(endpoint, params={"data": query}, headers=headers, timeout=timeout)
+            if resp.status_code == 200:
+                return resp
+        except Exception:
+            continue
+    raise Exception("All Overpass endpoints failed")
+
+
+def _safe_location(element):
+    lat = element.get("lat")
+    lon = element.get("lon")
+    if lat and lon:
+        return lat, lon
+    c = element.get("center", {})
+    return c.get("lat"), c.get("lon")
 
 
 def collect_real_data():
-    """Main collection function."""
-    print("🚀 Collecting Real OSM Data - Production")
+    """Thu thập OSM data → bronze_pois, resume-safe."""
+    print("🚀 Collecting Real OSM Data → bronze_pois")
     print("=" * 60)
-    
-    # Connect to MongoDB
-    mongo_uri = os.getenv(
-        "MONGODB_URI",
-        "mongodb://admin:admin123@localhost:27017/smart_travel?authSource=admin"
-    )
-    client = MongoClient(mongo_uri)
-    db = client.smart_travel
-    
-    # Initialize collector
-    collector = OSMCollectorReal(max_retries=3)
-    
-    # Load progress
-    progress = load_progress()
-    
-    total_collected = 0
-    city_totals = {}
-    
-    for city_name, config in CITIES.items():
-        print(f"\n📍 Processing {city_name.upper()}")
-        print(f"   Center: ({config['lat']}, {config['lng']})")
-        print(f"   Radius: {config['radius']}m")
-        
-        city_records = []
-        
-        for category in config["categories"]:
-            # Check if already collected
-            progress_key = f"{city_name}_{category}"
-            if progress.get(progress_key):
-                print(f"   ⏭️  {category}: Already collected (skipped)")
-                continue
-            
-            print(f"   🔍 Collecting {category}...", end=" ", flush=True)
-            
+
+    client = MongoClient(MONGODB_URI)
+    bronze = client.smart_travel_platform.bronze_pois
+    print("✅ Connected to MongoDB Atlas")
+
+    total_inserted = 0
+    total_skipped = 0
+
+    for city_code, city_cfg in CITIES.items():
+        lat, lon = city_cfg["lat"], city_cfg["lon"]
+        radius_m = city_cfg["radius_m"]
+        print(f"\n📍 {city_cfg['name'].upper()} (radius {radius_m}m)")
+
+        city_inserted = city_skipped = 0
+        seen = set()
+
+        for category, tags in CATEGORIES.items():
+            print(f"   🔍 {category}...", end=" ", flush=True)
             try:
-                records = collector.collect(
-                    city=city_name,
-                    category=category,
-                    lat=config["lat"],
-                    lng=config["lng"],
-                    radius=config["radius"]
-                )
-                
-                if records:
-                    # Add metadata
-                    for record in records:
-                        record.update({
-                            "_ingestion_timestamp": datetime.utcnow().isoformat(),
-                            "_collection_batch": "real_v1"
-                        })
-                    
-                    city_records.extend(records)
-                    print(f"✅ {len(records)} records")
-                    
-                    # Mark as collected
-                    progress[progress_key] = {
-                        "timestamp": datetime.utcnow().isoformat(),
-                        "count": len(records)
+                query = _create_overpass_query(lat, lon, radius_m, tags)
+                resp = _try_overpass_query(query)
+                elements = resp.json().get("elements", [])
+                cat_inserted = 0
+
+                for element in elements:
+                    osm_id = element.get("id")
+                    osm_type = element.get("type")
+                    session_key = f"{city_code}_{osm_type}_{osm_id}"
+
+                    if session_key in seen:
+                        city_skipped += 1
+                        continue
+                    seen.add(session_key)
+
+                    u_key = hashlib.md5(session_key.encode()).hexdigest()[:16]
+                    if bronze.find_one({"u_key": u_key}, {"_id": 1}):
+                        city_skipped += 1
+                        continue
+
+                    item_lat, item_lon = _safe_location(element)
+                    if not item_lat or not item_lon:
+                        continue
+
+                    tags_data = element.get("tags", {})
+                    name = tags_data.get("name") or tags_data.get("name:en") or tags_data.get("official_name")
+                    if not name:
+                        continue
+
+                    doc = {
+                        "u_key": u_key,
+                        "poi_id": f"osm_{osm_type}_{osm_id}",
+                        "osm_raw": {
+                            "element": element,
+                            "endpoint": "overpass",
+                            "fetched_at": datetime.now(timezone.utc).isoformat()
+                        },
+                        "google_raw": None,
+                        "has_osm_data": True,
+                        "has_google_data": False,
+                        "data_sources": ["osm"],
+                        "name": name,
+                        "city": city_code,
+                        "city_name": city_cfg["name"],
+                        "country": city_cfg.get("country", "Vietnam"),
+                        "category": category,
+                        "location": {"lat": item_lat, "lon": item_lon},
+                        "osm_id": osm_id,
+                        "osm_type": osm_type,
+                        "google_place_id": None,
+                        "created_at": datetime.now(timezone.utc).isoformat(),
+                        "updated_at": datetime.now(timezone.utc).isoformat(),
+                        "_layer": "bronze",
+                        "_source": "collect_real_data"
                     }
-                    save_progress(progress)
-                else:
-                    print("⚠️  No records")
-                    
+
+                    try:
+                        bronze.insert_one(doc)
+                        cat_inserted += 1
+                        city_inserted += 1
+                    except Exception as ie:
+                        err = str(ie)
+                        if "quota" in err.lower() or "space" in err.lower():
+                            print(f"\n❌ MongoDB quota exceeded! Stopping.")
+                            client.close()
+                            return
+                        city_skipped += 1
+
+                print(f"✅ +{cat_inserted}")
+                time.sleep(1.5)
+
             except Exception as e:
-                print(f"❌ Error: {str(e)[:40]}")
+                print(f"❌ {str(e)[:50]}")
                 continue
-        
-        # Save to MongoDB
-        if city_records:
-            try:
-                # Clear old real data for this city
-                db.bronze_records.delete_many({
-                    "_city": city_name,
-                    "_source": "osm_real"
-                })
-                
-                # Insert new records
-                result = db.bronze_records.insert_many(city_records)
-                inserted_count = len(result.inserted_ids)
-                total_collected += inserted_count
-                city_totals[city_name] = inserted_count
-                
-                print(f"   💾 Saved {inserted_count} records to MongoDB")
-                
-            except Exception as e:
-                print(f"   ❌ MongoDB error: {e}")
-                city_totals[city_name] = 0
-        else:
-            city_totals[city_name] = 0
-    
-    # Summary
+
+        total_inserted += city_inserted
+        total_skipped += city_skipped
+        print(f"   💾 {city_cfg['name']}: inserted={city_inserted}, skipped={city_skipped}")
+
     print("\n" + "=" * 60)
-    print("📈 REAL OSM DATA COLLECTION COMPLETE")
-    print(f"   Total records collected: {total_collected}")
-    print()
-    print("   By City:")
-    for city, count in city_totals.items():
-        print(f"     - {city}: {count} POIs")
-    
-    # Verify in MongoDB
-    print("\n   Verification:")
-    for city in CITIES.keys():
-        count = db.bronze_records.count_documents({
-            "_city": city,
-            "_source": "osm_real"
-        })
-        print(f"     - {city}: {count} records in DB")
-    
+    print("📈 COLLECTION COMPLETE")
+    print(f"   Inserted this run : {total_inserted:,}")
+    print(f"   Skipped (exists)  : {total_skipped:,}")
+
+    for city_code in CITIES:
+        count = bronze.count_documents({"city": city_code, "has_osm_data": True})
+        print(f"   - {city_code}: {count:,} in bronze_pois")
+
     client.close()
-    
-    # Clean up progress file
-    if PROGRESS_FILE.exists():
-        PROGRESS_FILE.unlink()
-    
-    print("\n✅ Collection complete!")
-    print("\n📝 Next steps:")
-    print("   1. Run: python scripts/run_silver_processing.py")
-    print("   2. Run: python scripts/run_gold_processing.py")
-    print("   3. Test API with real data!")
+    print("\n✅ Done! Next: python enrich_google_raw.py")
 
 
 if __name__ == "__main__":

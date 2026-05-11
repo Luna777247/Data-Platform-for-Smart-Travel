@@ -74,10 +74,28 @@ CITIES = {
 }
 
 
-def search_nearby(lat, lon, radius=100, type_filter=None):
-    """Nearby Search qua RapidAPI Google Map Places"""
+def _call_rapidapi(url, params):
+    """Gọi RapidAPI với auto-rotate key khi gặp quota exceeded."""
     import requests
 
+    total_keys = len(RAPIDAPI_KEYS)
+    for attempt in range(total_keys):
+        resp = requests.get(url, headers=_rapidapi_headers(), params=params, timeout=30)
+        data = resp.json()
+
+        # Nếu là quota/rate limit → thử key tiếp
+        msg = data.get("message", "")
+        if "quota" in msg.lower() or "limit" in msg.lower() or "exceeded" in msg.lower():
+            continue  # _key_index đã tăng trong _rapidapi_headers()
+
+        return data
+
+    # Tất cả keys đều hết quota
+    return {"status": "QUOTA_EXCEEDED_ALL_KEYS", "message": "All RapidAPI keys exceeded daily quota"}
+
+
+def search_nearby(lat, lon, radius=100, type_filter=None):
+    """Nearby Search qua RapidAPI Google Map Places"""
     params = {
         "location": f"{lat},{lon}",
         "radius": radius,
@@ -86,32 +104,18 @@ def search_nearby(lat, lon, radius=100, type_filter=None):
     if type_filter:
         params["type"] = type_filter
 
-    response = requests.get(
-        NEARBY_SEARCH_URL,
-        headers=_rapidapi_headers(),
-        params=params,
-        timeout=30
-    )
-    return response.json()
+    return _call_rapidapi(NEARBY_SEARCH_URL, params)
 
 
 def get_place_details(place_id):
     """Place Details qua RapidAPI Google Map Places"""
-    import requests
-
     params = {
         "place_id": place_id,
         "fields": "all",
         "language": "vi"
     }
 
-    response = requests.get(
-        PLACE_DETAILS_URL,
-        headers=_rapidapi_headers(),
-        params=params,
-        timeout=30
-    )
-    return response.json()
+    return _call_rapidapi(PLACE_DETAILS_URL, params)
 
 
 def enrich_google_raw(limit=100, city=None):
@@ -153,7 +157,6 @@ def enrich_google_raw(limit=100, city=None):
     enriched = 0
     not_found = 0
     errors = 0
-
     for poi in pois_to_enrich:
         try:
             loc = poi["location"]
@@ -163,6 +166,11 @@ def enrich_google_raw(limit=100, city=None):
             # Search nearby (radius nhỏ để khớp đúng POI tại tọa độ đó)
             search_result = search_nearby(lat, lon, radius=100)
             status = search_result.get("status")
+
+            if status == "QUOTA_EXCEEDED_ALL_KEYS":
+                print(f"\n❌ All {len(RAPIDAPI_KEYS)} RapidAPI keys exceeded daily quota. Try again tomorrow.")
+                client.close()
+                return
 
             if status in ("REQUEST_DENIED", "INVALID_REQUEST"):
                 print(f"\n❌ RapidAPI error: {status}. Stopping.")

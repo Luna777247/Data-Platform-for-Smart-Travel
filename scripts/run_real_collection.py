@@ -1,320 +1,385 @@
 """
-Run Real Data Collection
-==========================
-
+Run Real Collection → bronze_pois
+====================================
 Thu thập dữ liệu thật từ:
-1. OSM (OpenStreetMap) - Overpass API
-2. Google Places API - RapidAPI
-
-Sử dụng 18 rotating keys để tránh rate limiting.
+  1. OSM (Overpass API) → osm_raw schema
+  2. Google Places (RapidAPI) → google_raw schema
+Lưu vào MongoDB bronze_pois, insert từng POI, resume-safe.
+Multi-endpoint Overpass fallback + RapidAPI quota guard.
 """
 
 import os
 import sys
 import json
 import time
+import hashlib
 import random
-from datetime import datetime
+import requests
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from pymongo import MongoClient
 from dotenv import load_dotenv
+load_dotenv(Path(__file__).parent.parent / '.env')
 
-# Load environment variables
-load_dotenv()
-
-
-def get_rapidapi_keys():
-    """Get RapidAPI keys from environment."""
-    keys_str = os.getenv("RAPID_API_KEYS", "")
-    if keys_str:
-        return [k.strip() for k in keys_str.split(",") if k.strip()]
-    return []
+from pymongo import MongoClient
 
 
-def collect_osm_data(city, lat, lng, radius=5000, categories=None):
-    """Collect data from OSM Overpass API và lưu vào bronze_pois với osm_raw."""
-    print(f"\n🗺️  Collecting OSM data for {city}...")
-    
-    # Use the fixed OSM collector
-    from pipelines.ingestion.osm_collector_real import OSMCollectorReal
-    collector = OSMCollectorReal(max_retries=2)
-    
-    if categories is None:
-        categories = ["restaurant", "cafe", "hotel", "attraction"]
-    
-    all_records = []
-    
-    for category in categories:
-        print(f"   🔍 {category}...", end=" ", flush=True)
-        
-        try:
-            # Use the fixed collector with correct parameters
-            api_response = collector.collect_with_raw(
-                city=city,
-                category=category,
-                lat=lat,
-                lng=lng,
-                radius=radius
-            )
-            
-            # api_response là dict chứa {records, query, endpoint, raw_response}
-            records = api_response.get("records", [])
-            query = api_response.get("query", "")
-            endpoint = api_response.get("endpoint", "")
-            raw_response = api_response.get("raw_response", {})
-            
-            if records:
-                # Build bronze_pois documents với osm_raw
-                for element in records:
-                    bronze_doc = {
-                        "u_key": f"{city}_{element.get('type')}_{element.get('id')}",
-                        "poi_id": f"osm_{element.get('type')}_{element.get('id')}",
-                        
-                        # RAW OSM DATA
-                        "osm_raw": {
-                            "element": element,
-                            "query": query,
-                            "api_response": raw_response,
-                            "endpoint": endpoint,
-                            "fetched_at": datetime.utcnow().isoformat()
-                        },
-                        "google_raw": None,
-                        
-                        # FLAGS
-                        "has_osm_data": True,
-                        "has_google_data": False,
-                        "data_sources": ["osm"],
-                        
-                        # BASIC INFO (extracted)
-                        "name": element.get("tags", {}).get("name") or element.get("tags", {}).get("name:en"),
-                        "city": city,
-                        "category": category,
-                        "location": {
-                            "lat": element.get("lat") or element.get("center", {}).get("lat"),
-                            "lon": element.get("lon") or element.get("center", {}).get("lon")
-                        },
-                        
-                        # OSM IDs
-                        "osm_id": element.get("id"),
-                        "osm_type": element.get("type"),
-                        
-                        # METADATA
-                        "created_at": datetime.utcnow().isoformat(),
-                        "updated_at": datetime.utcnow().isoformat(),
-                        "_layer": "bronze",
-                        "_source": "osm_real"
-                    }
-                    all_records.append(bronze_doc)
-                
-                print(f"✅ {len(records)}")
-            else:
-                print("⚠️  0")
-                
-        except Exception as e:
-            print(f"❌ Error: {str(e)[:50]}")
-    
-    return all_records
+# ==========================================
+# CONFIG
+# ==========================================
+
+MONGODB_URI = os.getenv(
+    "MONGODB_URI",
+    "mongodb+srv://nguyenanhilu9785_db_user:12345@cluster0.olqzq.mongodb.net/smart_travel_platform?appName=Cluster0"
+)
+
+OVERPASS_ENDPOINTS = [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+    "https://overpass.openstreetmap.fr/api/interpreter",
+]
+
+_RAPIDAPI_HOST = "google-map-places.p.rapidapi.com"
+_NEARBY_SEARCH_URL = f"https://{_RAPIDAPI_HOST}/maps/api/place/nearbysearch/json"
+_PLACE_DETAILS_URL = f"https://{_RAPIDAPI_HOST}/maps/api/place/details/json"
+
+_KEYS_FILE = Path(__file__).parent.parent / "storage" / "configs" / "rapidapi_keys.json"
+try:
+    with open(_KEYS_FILE, "r") as _f:
+        _RAPIDAPI_KEYS = json.load(_f)
+except Exception:
+    _RAPIDAPI_KEYS = []
+
+_key_index = 0
+
+CITIES = {
+    "hanoi":  {"name": "Hà Nội",      "lat": 21.0278, "lon": 105.8342, "radius_m": 5000, "country": "Vietnam"},
+    "hcm":    {"name": "Hồ Chí Minh", "lat": 10.8231, "lon": 106.6297, "radius_m": 5000, "country": "Vietnam"},
+    "danang": {"name": "Đà Nẵng",     "lat": 16.0544, "lon": 108.2022, "radius_m": 4000, "country": "Vietnam"},
+}
+
+OSM_CATEGORIES = {
+    "restaurant": [("amenity", "restaurant"), ("amenity", "fast_food")],
+    "cafe":       [("amenity", "cafe")],
+    "hotel":      [("tourism", "hotel"), ("tourism", "guest_house"), ("tourism", "hostel")],
+    "attraction": [("tourism", "attraction"), ("tourism", "museum"), ("tourism", "viewpoint")],
+    "bar":        [("amenity", "bar"), ("amenity", "pub")],
+}
+
+GOOGLE_CATEGORIES = ["restaurant", "cafe", "lodging", "tourist_attraction", "bar"]
 
 
-def collect_google_data(city, lat, lng, radius=2000, categories=None):
-    """Collect data from Google Places API via RapidAPI."""
-    keys = get_rapidapi_keys()
-    
-    if not keys:
-        print("⚠️  No RapidAPI keys found, skipping Google Places")
-        return []
-    
-    print(f"\n🔍 Collecting Google Places data for {city}...")
-    print(f"   Using {len(keys)} rotating API keys")
-    
-    # RapidAPI endpoints
-    host = "google-map-places.p.rapidapi.com"
-    nearby_url = f"https://{host}/maps/api/place/nearbysearch/json"
-    
-    import requests
-    
-    all_records = []
-    
-    if categories is None:
-        categories = ["restaurant", "cafe", "hotel", "tourist_attraction"]
-    
-    type_mapping = {
-        "restaurant": "restaurant",
-        "cafe": "cafe",
-        "hotel": "lodging",
-        "tourist_attraction": "tourist_attraction"
+# ==========================================
+# HELPERS
+# ==========================================
+
+def _get_next_key():
+    global _key_index
+    if not _RAPIDAPI_KEYS:
+        raise RuntimeError(f"No RapidAPI keys found in {_KEYS_FILE}")
+    key = _RAPIDAPI_KEYS[_key_index % len(_RAPIDAPI_KEYS)]
+    _key_index += 1
+    return key
+
+
+def _rapidapi_headers():
+    return {
+        "x-rapidapi-key": _get_next_key(),
+        "x-rapidapi-host": _RAPIDAPI_HOST,
+        "Content-Type": "application/json"
     }
-    
-    for category in categories:
-        print(f"   🔍 {category}...", end=" ", flush=True)
-        
-        # Rotate through keys
-        key_index = 0
-        success = False
-        
-        for attempt in range(min(3, len(keys))):
-            api_key = keys[key_index % len(keys)]
-            key_index += 1
-            
-            try:
-                params = {
-                    "location": f"{lat},{lng}",
-                    "radius": str(radius),
-                    "type": type_mapping.get(category, "establishment"),
-                    "language": "vi"
-                }
-                
-                headers = {
-                    "x-rapidapi-key": api_key,
-                    "x-rapidapi-host": host
-                }
-                
-                response = requests.get(nearby_url, headers=headers, params=params, timeout=30)
-                
-                if response.status_code == 200:
-                    data = response.json()
-                    results = data.get("results", [])
-                    
-                    for place in results:
-                        record = {
-                            "poi_id": f"google_{place.get('place_id', '')}",
-                            "name": place.get("name", ""),
-                            "category": category,
-                            "city": city,
-                            "country": "VN",
-                            "location": {
-                                "lat": place.get("geometry", {}).get("location", {}).get("lat"),
-                                "lng": place.get("geometry", {}).get("location", {}).get("lng")
-                            },
-                            "address": place.get("vicinity", ""),
-                            "rating": place.get("rating"),
-                            "review_count": place.get("user_ratings_total", 0),
-                            "google_place_id": place.get("place_id"),
-                            "types": place.get("types", []),
-                            "_source": "google_real",
-                            "_collected_at": datetime.utcnow().isoformat(),
-                            "_batch": "production_v1"
-                        }
-                        all_records.append(record)
-                    
-                    print(f"✅ {len(results)}")
-                    success = True
-                    break
-                    
-                elif response.status_code == 429:
-                    # Rate limited, try next key
+
+
+def _call_rapidapi(url, params):
+    """Gọi RapidAPI với auto-rotate key khi gặp quota exceeded."""
+    for _ in range(len(_RAPIDAPI_KEYS) or 1):
+        try:
+            resp = requests.get(url, headers=_rapidapi_headers(), params=params, timeout=30)
+            data = resp.json()
+            msg = data.get("message", "")
+            if "quota" in msg.lower() or "exceeded" in msg.lower() or "limit" in msg.lower():
+                continue
+            return data
+        except Exception:
+            continue
+    return {"status": "QUOTA_EXCEEDED_ALL_KEYS"}
+
+
+def _try_overpass(query, timeout=180):
+    headers = {"User-Agent": "SmartTravel-RealCollection/1.0", "Accept": "application/json"}
+    endpoints = OVERPASS_ENDPOINTS.copy()
+    random.shuffle(endpoints)
+    for endpoint in endpoints:
+        try:
+            resp = requests.get(endpoint, params={"data": query}, headers=headers, timeout=timeout)
+            if resp.status_code == 200:
+                return resp
+        except Exception:
+            continue
+    raise Exception("All Overpass endpoints failed")
+
+
+def _overpass_query(lat, lon, radius_m, tags):
+    parts = []
+    for key, value in tags:
+        parts += [
+            f'node["{key}"="{value}"](around:{radius_m},{lat},{lon});',
+            f'way["{key}"="{value}"](around:{radius_m},{lat},{lon});',
+        ]
+    body = "\n  ".join(parts)
+    return f"[out:json][timeout:180];\n(\n  {body}\n);\nout body center tags meta;"
+
+
+def _safe_loc(element):
+    lat = element.get("lat")
+    lon = element.get("lon")
+    if lat and lon:
+        return lat, lon
+    c = element.get("center", {})
+    return c.get("lat"), c.get("lon")
+
+
+# ==========================================
+# COLLECTORS
+# ==========================================
+
+def collect_osm_city(bronze, city_code, city_cfg):
+    """Thu thập OSM data cho 1 city → bronze_pois. Return (inserted, skipped)."""
+    lat, lon = city_cfg["lat"], city_cfg["lon"]
+    radius_m = city_cfg["radius_m"]
+    inserted = skipped = 0
+    seen = set()
+
+    for category, tags in OSM_CATEGORIES.items():
+        print(f"   [OSM] {category}...", end=" ", flush=True)
+        try:
+            query = _overpass_query(lat, lon, radius_m, tags)
+            resp = _try_overpass(query)
+            elements = resp.json().get("elements", [])
+            cat_count = 0
+
+            for element in elements:
+                osm_id = element.get("id")
+                osm_type = element.get("type")
+                key = f"{city_code}_{osm_type}_{osm_id}"
+                if key in seen:
+                    skipped += 1
                     continue
-                else:
-                    print(f"⚠️  HTTP {response.status_code}")
-                    break
-                    
-            except Exception as e:
-                if attempt == 2:  # Last attempt
-                    print(f"❌ Error: {str(e)[:40]}")
-        
-        if not success:
-            print("⚠️  Failed after retries")
-        
-        # Rate limiting between categories
-        time.sleep(2)
-    
-    return all_records
+                seen.add(key)
+
+                u_key = hashlib.md5(key.encode()).hexdigest()[:16]
+                if bronze.find_one({"u_key": u_key}, {"_id": 1}):
+                    skipped += 1
+                    continue
+
+                item_lat, item_lon = _safe_loc(element)
+                if not item_lat or not item_lon:
+                    continue
+
+                tags_data = element.get("tags", {})
+                name = (tags_data.get("name") or tags_data.get("name:en")
+                        or tags_data.get("official_name"))
+                if not name:
+                    continue
+
+                doc = {
+                    "u_key": u_key,
+                    "poi_id": f"osm_{osm_type}_{osm_id}",
+                    "osm_raw": {
+                        "element": element,
+                        "endpoint": "overpass",
+                        "fetched_at": datetime.now(timezone.utc).isoformat()
+                    },
+                    "google_raw": None,
+                    "has_osm_data": True,
+                    "has_google_data": False,
+                    "data_sources": ["osm"],
+                    "name": name,
+                    "city": city_code,
+                    "city_name": city_cfg["name"],
+                    "country": city_cfg.get("country", "Vietnam"),
+                    "category": category,
+                    "location": {"lat": item_lat, "lon": item_lon},
+                    "osm_id": osm_id,
+                    "osm_type": osm_type,
+                    "google_place_id": None,
+                    "created_at": datetime.now(timezone.utc).isoformat(),
+                    "updated_at": datetime.now(timezone.utc).isoformat(),
+                    "_layer": "bronze",
+                    "_source": "run_real_collection"
+                }
+
+                try:
+                    bronze.insert_one(doc)
+                    cat_count += 1
+                    inserted += 1
+                except Exception as ie:
+                    err = str(ie)
+                    if "quota" in err.lower() or "space" in err.lower():
+                        print(f"\n❌ MongoDB quota exceeded!")
+                        return inserted, skipped, True
+                    skipped += 1
+
+            print(f"✅ +{cat_count}")
+            time.sleep(1.5)
+
+        except Exception as e:
+            print(f"❌ {str(e)[:50]}")
+
+    return inserted, skipped, False
 
 
-def save_to_bronze_pois(records, db_name="smart_travel_platform"):
-    """Save records to MongoDB bronze_pois collection với osm_raw schema."""
-    if not records:
-        print("⚠️  No records to save")
-        return 0
-    
-    try:
-        mongo_uri = os.getenv(
-            "MONGODB_URI",
-            "mongodb+srv://nguyenanhilu9785_db_user:12345@cluster0.olqzq.mongodb.net/smart_travel_platform?appName=Cluster0"
-        )
-        client = MongoClient(mongo_uri)
-        db = client[db_name]
-        
-        # Insert records vào bronze_pois (với osm_raw, google_raw fields)
-        result = db.bronze_pois.insert_many(records, ordered=False)
-        print(f"💾 Saved {len(result.inserted_ids)} records to MongoDB bronze_pois")
-        
-        # Update stats
-        total = db.bronze_pois.count_documents({})
-        osm_count = db.bronze_pois.count_documents({"has_osm_data": True})
-        google_count = db.bronze_pois.count_documents({"has_google_data": True})
-        print(f"   📊 Total: {total} | OSM: {osm_count} | Google: {google_count}")
-        
-        client.close()
-        return len(result.inserted_ids)
-        
-    except Exception as e:
-        print(f"   ❌ MongoDB error: {e}")
-        return 0
+def collect_google_city(bronze, city_code, city_cfg):
+    """Thu thập Google Places data cho 1 city → bronze_pois. Return (inserted, skipped, quota_stopped)."""
+    if not _RAPIDAPI_KEYS:
+        print(f"   ⚠️  No RapidAPI keys – skipping Google")
+        return 0, 0, False
 
+    lat, lon = city_cfg["lat"], city_cfg["lon"]
+    radius_m = city_cfg["radius_m"]
+    inserted = skipped = 0
+
+    for category in GOOGLE_CATEGORIES:
+        print(f"   [Google] {category}...", end=" ", flush=True)
+
+        data = _call_rapidapi(_NEARBY_SEARCH_URL, {
+            "location": f"{lat},{lon}",
+            "radius": radius_m,
+            "type": category,
+            "language": "vi"
+        })
+
+        status = data.get("status")
+        if status == "QUOTA_EXCEEDED_ALL_KEYS":
+            print(f"\n❌ All {len(_RAPIDAPI_KEYS)} RapidAPI keys exceeded quota. Stopping Google collection.")
+            return inserted, skipped, True
+
+        places = data.get("results", [])
+        cat_count = 0
+
+        for place in places:
+            place_id = place.get("place_id")
+            if not place_id:
+                continue
+
+            if bronze.find_one({"google_place_id": place_id}, {"_id": 1}):
+                skipped += 1
+                continue
+
+            details = _call_rapidapi(_PLACE_DETAILS_URL, {
+                "place_id": place_id,
+                "fields": "all",
+                "language": "vi"
+            })
+            if details.get("status") == "QUOTA_EXCEEDED_ALL_KEYS":
+                return inserted, skipped, True
+
+            u_key = hashlib.md5(f"google_{place_id}".encode()).hexdigest()[:16]
+            geo = place.get("geometry", {}).get("location", {})
+
+            doc = {
+                "u_key": u_key,
+                "poi_id": f"google_{place_id}",
+                "osm_raw": None,
+                "google_raw": {
+                    "place": place,
+                    "place_details": details,
+                    "place_id": place_id,
+                    "fetched_at": datetime.now(timezone.utc).isoformat()
+                },
+                "has_osm_data": False,
+                "has_google_data": True,
+                "data_sources": ["google"],
+                "name": place.get("name", "Unknown"),
+                "city": city_code,
+                "city_name": city_cfg["name"],
+                "country": city_cfg.get("country", "Vietnam"),
+                "category": category,
+                "location": {"lat": geo.get("lat"), "lon": geo.get("lng")},
+                "osm_id": None,
+                "osm_type": None,
+                "google_place_id": place_id,
+                "created_at": datetime.now(timezone.utc).isoformat(),
+                "updated_at": datetime.now(timezone.utc).isoformat(),
+                "_layer": "bronze",
+                "_source": "run_real_collection"
+            }
+
+            try:
+                bronze.insert_one(doc)
+                cat_count += 1
+                inserted += 1
+            except Exception as ie:
+                err = str(ie)
+                if "quota" in err.lower() or "space" in err.lower():
+                    print(f"\n❌ MongoDB quota exceeded!")
+                    return inserted, skipped, True
+                skipped += 1
+
+            time.sleep(0.5)
+
+        print(f"✅ +{cat_count}")
+        time.sleep(1)
+
+    return inserted, skipped, False
+
+
+# ==========================================
+# MAIN
+# ==========================================
 
 def main():
-    """Main collection function."""
     print("=" * 60)
-    print("🚀 REAL DATA COLLECTION - OSM + Google Places")
+    print("🚀 REAL DATA COLLECTION → bronze_pois (OSM + Google)")
     print("=" * 60)
-    
-    # Cities to collect
-    cities = {
-        "hanoi": {"lat": 21.0278, "lng": 105.8342, "radius": 5000},
-        "hcm": {"lat": 10.8231, "lng": 106.6297, "radius": 5000},
-        "danang": {"lat": 16.0544, "lng": 108.2022, "radius": 4000}
-    }
-    
-    total_osm = 0
-    total_google = 0
-    
-    for city_name, coords in cities.items():
+    print(f"🔑 RapidAPI keys: {len(_RAPIDAPI_KEYS)}")
+    print(f"🏙️  Cities: {', '.join(CITIES.keys())}")
+
+    client = MongoClient(MONGODB_URI)
+    bronze = client.smart_travel_platform.bronze_pois
+    print("✅ Connected to MongoDB Atlas\n")
+
+    total_osm_ins = total_google_ins = 0
+
+    for city_code, city_cfg in CITIES.items():
         print(f"\n{'='*60}")
-        print(f"📍 PROCESSING: {city_name.upper()}")
+        print(f"📍 {city_cfg['name'].upper()}")
         print(f"{'='*60}")
-        
-        # Collect OSM (trả về bronze_pois structure)
-        osm_data = collect_osm_data(
-            city=city_name,
-            lat=coords["lat"],
-            lng=coords["lng"],
-            radius=coords["radius"]
-        )
-        total_osm += len(osm_data)
-        
-        # Collect Google (trả về bronze_pois structure với google_raw)
-        google_data = collect_google_data(
-            city=city_name,
-            lat=coords["lat"],
-            lng=coords["lng"],
-            radius=coords["radius"]
-        )
-        total_google += len(google_data)
-        
-        # Combine và save to bronze_pois
-        all_data = osm_data + google_data
-        if all_data:
-            save_to_bronze_pois(all_data)
-    
-    # Summary
+
+        # --- OSM ---
+        osm_ins, osm_skp, mongo_stopped = collect_osm_city(bronze, city_code, city_cfg)
+        total_osm_ins += osm_ins
+        print(f"   OSM: inserted={osm_ins}, skipped={osm_skp}")
+        if mongo_stopped:
+            break
+
+        # --- Google ---
+        g_ins, g_skp, quota_stopped = collect_google_city(bronze, city_code, city_cfg)
+        total_google_ins += g_ins
+        print(f"   Google: inserted={g_ins}, skipped={g_skp}")
+        if quota_stopped:
+            print("   ⚠️  Google collection stopped (quota). OSM continues tomorrow.")
+            break
+
     print("\n" + "=" * 60)
     print("📊 COLLECTION COMPLETE")
     print("=" * 60)
-    print(f"   OSM Total: {total_osm} records")
-    print(f"   Google Total: {total_google} records")
-    print(f"   Combined: {total_osm + total_google} real POIs")
-    print("\n✅ Real data collection finished!")
-    
-    if total_osm + total_google > 0:
-        print("\n📝 Next steps:")
-        print("   1. Check raw data: python check_raw_structure.py")
-        print("   2. Enrich Google: python enrich_google_raw.py")
-        print("   3. Bronze → Silver: python scripts/process_all_bronze_to_gold.py")
-        print("   4. Check API: curl http://localhost:8000/api/v1/data/pois")
+    print(f"   OSM inserted    : {total_osm_ins:,}")
+    print(f"   Google inserted : {total_google_ins:,}")
+
+    total = bronze.count_documents({})
+    osm_c = bronze.count_documents({"has_osm_data": True})
+    google_c = bronze.count_documents({"has_google_data": True})
+    both_c = bronze.count_documents({"has_osm_data": True, "has_google_data": True})
+    print(f"\n   bronze_pois total : {total:,}")
+    print(f"   OSM only          : {osm_c - both_c:,}")
+    print(f"   Google only       : {google_c - both_c:,}")
+    print(f"   Both sources      : {both_c:,}")
+
+    client.close()
+    print("\n✅ Done! Next: python enrich_google_raw.py")
 
 
 if __name__ == "__main__":

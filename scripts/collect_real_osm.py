@@ -393,213 +393,180 @@ def try_overpass_query(query, headers, timeout=300, max_retries=3):
 
 
 def collect_osm_data():
-    """Collect real OSM data for cities with enhanced coverage.
-    Lưu raw data đầy đủ vào bronze_records collection.
+    """Collect real OSM data và lưu vào bronze_pois với osm_raw schema.
+    Insert từng POI ngay lập tức, bỏ qua nếu u_key đã tồn tại (resume-safe).
     """
-    print("🚀 Collecting Real OSM Data (Enhanced with Raw Data)")
+    print("🚀 Collecting Real OSM Data → bronze_pois")
     print("=" * 70)
-    
-    # Connect to MongoDB Atlas
+
     mongo_uri = os.getenv("MONGODB_URI", "mongodb+srv://nguyenanhilu9785_db_user:12345@cluster0.olqzq.mongodb.net/smart_travel_platform?appName=Cluster0")
     client = MongoClient(mongo_uri)
     db = client.smart_travel_platform
-    
+    bronze = db.bronze_pois
+
     print("✅ Connected to MongoDB Atlas")
-    
-    GRID_SIZE = 3  # 3x3 grid per city (9 points) - for 20K POIs target
-    total_collected = 0
-    
+
+    GRID_SIZE = 3
+    total_inserted = 0
+    total_skipped = 0
+
     headers = {
         'User-Agent': 'SmartTravel-Collector/1.0 (Data Platform)',
         'Accept': 'application/json'
     }
-    
+
     for city_code, city_config in CITIES.items():
         print(f"\n📍 {city_config['name'].upper()}")
-        
+
         lat = city_config["lat"]
         lon = city_config["lon"]
         city_radius_km = city_config["radius_km"]
-        
-        # Generate grid points
+
         grid_points = generate_grid_points(lat, lon, city_radius_km, GRID_SIZE)
         grid_radius_km = city_radius_km / GRID_SIZE * 1.5
         grid_radius_m = int(grid_radius_km * 1000)
-        
+
         print(f"   Grid: {len(grid_points)} points, radius: {grid_radius_km:.1f}km")
-        
-        city_records = []
-        seen_ids = set()
-        
+
+        city_inserted = 0
+        city_skipped = 0
+        seen_ids = set()  # Dedup trong session hiện tại
+
         for point_idx, point in enumerate(grid_points):
             point_lat = point["lat"]
             point_lon = point["lon"]
-            
+
             for category, cat_config in CATEGORIES.items():
                 try:
-                    # Create query with all tags for this category
                     query = create_overpass_query(
                         lat=point_lat,
                         lon=point_lon,
                         radius_m=grid_radius_m,
                         tags=cat_config["osm_tags"]
                     )
-                    
-                    # API Call with multi-endpoint fallback
+
                     try:
                         response = try_overpass_query(query, headers, timeout=180)
                         data = response.json()
                     except Exception as e:
-                        print(f"   ⚠️ {category} error: {str(e)[:60]}...")
+                        print(f"   ⚠️ {category} query error: {str(e)[:60]}")
                         continue
+
                     elements = data.get("elements", [])
-                    
-                    if elements:
-                        print(f"   📦 {category}: {len(elements)} raw elements")
-                    
-                    # Process each element
+
                     for element in elements:
                         osm_id = element.get("id")
                         osm_type = element.get("type")
-                        
-                        # Skip if already seen
-                        unique_key = f"{city_code}_{osm_type}_{osm_id}"
-                        if unique_key in seen_ids:
+
+                        # Dedup trong session
+                        session_key = f"{city_code}_{osm_type}_{osm_id}"
+                        if session_key in seen_ids:
+                            city_skipped += 1
                             continue
-                        seen_ids.add(unique_key)
-                        
-                        # Get location
+                        seen_ids.add(session_key)
+
+                        # u_key để check trong MongoDB
+                        u_key = hashlib.md5(session_key.encode()).hexdigest()[:16]
+
+                        # Bỏ qua nếu đã có trong DB
+                        if bronze.find_one({"u_key": u_key}, {"_id": 1}):
+                            city_skipped += 1
+                            continue
+
                         item_lat, item_lon = safe_get_location(element)
                         if not item_lat or not item_lon:
                             continue
-                        
-                        # Calculate distance from city center
-                        distance_km = haversine(lat, lon, item_lat, item_lon)
-                        
-                        # Get tags
+
                         tags = element.get("tags", {})
                         name = tags.get("name") or tags.get("name:en") or tags.get("official_name")
                         if not name:
                             continue
-                        
-                        # Generate u_key
-                        u_key = hashlib.md5(unique_key.encode()).hexdigest()[:16]
-                        
-                        # Build Bronze record with RAW DATA
-                        record = {
-                            # IDs
+
+                        distance_km = haversine(lat, lon, item_lat, item_lon)
+
+                        doc = {
                             "u_key": u_key,
                             "poi_id": f"osm_{osm_type}_{osm_id}",
-                            
-                            # Basic info
+
+                            # === RAW DATA ===
+                            "osm_raw": {
+                                "element": element,
+                                "endpoint": "overpass",
+                                "fetched_at": datetime.now(timezone.utc).isoformat()
+                            },
+                            "google_raw": None,
+
+                            # === FLAGS ===
+                            "has_osm_data": True,
+                            "has_google_data": False,
+                            "data_sources": ["osm"],
+
+                            # === BASIC INFO ===
                             "name": name,
                             "city": city_code,
                             "city_name": city_config["name"],
-                            "country": city_config["country"],
+                            "country": city_config.get("country", "Vietnam"),
                             "category": category,
-                            
-                            # Location
                             "location": {
                                 "lat": item_lat,
                                 "lon": item_lon
                             },
                             "distance_km": round(distance_km, 2),
-                            
-                            # OSM specific
+
+                            # === IDS ===
                             "osm_id": osm_id,
                             "osm_type": osm_type,
-                            "osm_tags": tags,
-                            
-                            # Address & contact
-                            "address": tags.get("addr:street") or tags.get("addr:full"),
-                            "phone": tags.get("phone"),
-                            "website": tags.get("website"),
-                            "opening_hours": tags.get("opening_hours"),
-                            
-                            # Metadata
-                            "metadata": {
-                                "version": element.get("version"),
-                                "timestamp": element.get("timestamp"),
-                                "changeset": element.get("changeset"),
-                                "user": element.get("user"),
-                                "uid": element.get("uid")
-                            },
-                            
-                            # RAW DATA - Lưu toàn bộ
-                            "raw_osm_element": element,
-                            "raw_query": query,
-                            "raw_response_meta": {
-                                "grid_point": point_idx + 1,
-                                "total_grid_points": len(grid_points),
-                                "category": category,
-                                "api_call_timestamp": datetime.now(timezone.utc).isoformat()
-                            },
-                            
-                            # Layer info
-                            "_source": "osm_real",
+                            "google_place_id": None,
+
+                            # === METADATA ===
+                            "created_at": datetime.now(timezone.utc).isoformat(),
+                            "updated_at": datetime.now(timezone.utc).isoformat(),
                             "_layer": "bronze",
-                            "harvested_at": datetime.now(timezone.utc).isoformat(),
-                            "ingestion_at": datetime.now(timezone.utc).isoformat()
+                            "_source": "osm_real"
                         }
-                        
-                        city_records.append(record)
-                    
-                    # Rate limiting - wait between calls
+
+                        # Insert ngay từng POI
+                        try:
+                            bronze.insert_one(doc)
+                            city_inserted += 1
+                        except Exception as ie:
+                            err = str(ie)
+                            if "quota" in err.lower() or "space" in err.lower():
+                                print(f"\n❌ MongoDB quota exceeded! Stopping.")
+                                client.close()
+                                return
+                            city_skipped += 1
+
                     time.sleep(1.5)
-                    
+
                 except Exception as e:
                     print(f"   ⚠️ {category} error: {str(e)[:60]}")
                     continue
-            
-            # Progress update
-            if point_idx % 3 == 0 or point_idx == len(grid_points) - 1:
-                print(f"   📍 Grid {point_idx+1}/{len(grid_points)}: {len(city_records)} POIs so far")
-        
-        # Save city records to MongoDB
-        if city_records:
-            batch_size = 500
-            for i in range(0, len(city_records), batch_size):
-                batch = city_records[i:i+batch_size]
-                try:
-                    db.bronze_records.insert_many(batch, ordered=False)
-                except Exception as e:
-                    print(f"   ⚠️ Insert error: {e}")
-            
-            total_collected += len(city_records)
-            print(f"   💾 Saved {len(city_records)} records to bronze")
-            
-            # Show sample
-            if city_records:
-                sample = city_records[0]
-                print(f"   📌 Sample: {sample['name']} ({sample['category']})")
-    
+
+            if (point_idx + 1) % 3 == 0 or point_idx == len(grid_points) - 1:
+                print(f"   📍 Grid {point_idx+1}/{len(grid_points)}: +{city_inserted} inserted")
+
+        total_inserted += city_inserted
+        total_skipped += city_skipped
+        print(f"   💾 {city_config['name']}: inserted={city_inserted}, skipped={city_skipped}")
+
     # Final Summary
     print("\n" + "=" * 70)
     print("📈 OSM COLLECTION COMPLETE")
     print("=" * 70)
-    print(f"   Total collected: {total_collected:,} POIs")
-    
-    # Verify by city
+    print(f"   Inserted this run : {total_inserted:,}")
+    print(f"   Skipped (exists)  : {total_skipped:,}")
+
+    total_db = bronze.count_documents({"has_osm_data": True})
+    print(f"   Total in bronze_pois (OSM): {total_db:,}")
+
     print("\n   By city:")
     for city_code in CITIES.keys():
-        count = db.bronze_records.count_documents({
-            "city": city_code,
-            "_source": "osm_real"
-        })
+        count = bronze.count_documents({"city": city_code, "has_osm_data": True})
         print(f"      {city_code}: {count:,}")
-    
-    # Total in database
-    total_db = db.bronze_records.count_documents({"_source": "osm_real"})
-    print(f"\n   Total in database: {total_db:,} POIs")
-    
-    # Check raw data presence
-    sample = db.bronze_records.find_one({"_source": "osm_real"})
-    if sample:
-        has_raw = "raw_osm_element" in sample
-        print(f"   Raw data preserved: {has_raw}")
-    
+
     client.close()
-    print("\n✅ Real OSM data collection finished!")
+    print("\n✅ Done!")
 
 
 if __name__ == "__main__":

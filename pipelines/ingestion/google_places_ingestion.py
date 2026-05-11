@@ -1,93 +1,80 @@
 """
-Google Places Data Ingestion Engine - RapidAPI Implementation
-=============================================================
-Thu thập POI data từ Google Places API thông qua RapidAPI proxy
-
-RapidAPI Endpoint: google-map-places.p.rapidapi.com
-Sử dụng 18 API keys luân phiên để tránh rate limiting
-
-Features:
-- Find Place from Text: Tìm địa điểm từ text query
-- Nearby Search: Tìm địa điểm gần vị trí
-- Text Search: Tìm kiếm text nâng cao
-- Place Details: Chi tiết địa điểm đầy đủ
-
-Data Flow:
-  RapidAPI → Google Places Data → BronzeRecord → JSON File
+Google Places Data Ingestion Engine → bronze_pois
+==================================================
+Thu thập POI data từ Google Places API (RapidAPI) → lưu vào MongoDB bronze_pois.
+Schema: google_raw { place, place_details, place_id, fetched_at }
+Insert từng POI ngay lập tức, resume-safe (bỏ qua nếu google_place_id đã tồn tại).
+Quota guard: tự rotate key, dừng ngay nếu tất cả keys hết quota.
 
 Usage:
-    >>> from pipelines.ingestion.google_places_ingestion import GooglePlacesIngestionEngine
     >>> engine = GooglePlacesIngestionEngine()
-    >>> 
-    >>> # Ingest một thành phố
-    >>> result = await engine.ingest_city("tokyo", ["restaurant", "hotel", "tourist_attraction"])
-    >>> 
-    >>> # Batch ingest nhiều thành phố
-    >>> await engine.ingest_all(
-    ...     cities=["tokyo", "osaka", "bangkok"],
-    ...     categories=["restaurant", "hotel"],
-    ...     max_results_per_category=100
-    ... )
+    >>> result = await engine.ingest_city("hanoi", "hcm", ["restaurant", "hotel"])
+    >>> await engine.ingest_all(cities={...}, categories=[...])
 """
 
-# Import asyncio cho async operations
 import asyncio
-
-# Import logging cho structured logging
-import logging
-
-# Import json cho JSON serialization
 import json
-
-# Import os cho filesystem operations
 import os
-
-# Import datetime cho timestamps
+import hashlib
+import requests
+import time
 from datetime import datetime, timezone
-
-# Import typing cho type hints
+from pathlib import Path
 from typing import List, Dict, Any, Optional
 
-# Import pathlib cho cross-platform paths
-from pathlib import Path
-
-# Import aiohttp cho async HTTP requests
-import aiohttp
-
-# Import time cho rate limiting
-import time
-
-# Import random cho API key rotation
-import random
-
-# Import dataclass cho data structures
-from dataclasses import dataclass, asdict
-
-# Import GooglePlacesCollector từ collectors module
-from src.collectors.google_places_collector import (
-    GooglePlacesCollector,
-    PlaceResult,
-    PlaceDetails,
-    RAPID_API_KEYS,
-    RAPIDAPI_HOST,
-    FIND_PLACE_URL,
-    NEARBY_SEARCH_URL,
-    TEXT_SEARCH_URL,
-    PLACE_DETAILS_URL
-)
-
-# Import schemas từ pipelines.shared
-from pipelines.shared.schemas import BronzeRecord, BronzeMetadata, SourceType, POICategory
-
-# Import utility functions
-from pipelines.shared.utils import make_ukey, setup_logging, normalize_coordinates
-
-
-# =============================================================================
-# LOGGER SETUP
-# =============================================================================
+from pymongo import MongoClient
+from pipelines.shared.utils import setup_logging
 
 logger = setup_logging(__name__)
+
+# ==========================================
+# RapidAPI config
+# ==========================================
+_RAPIDAPI_HOST = "google-map-places.p.rapidapi.com"
+_NEARBY_SEARCH_URL = f"https://{_RAPIDAPI_HOST}/maps/api/place/nearbysearch/json"
+_PLACE_DETAILS_URL = f"https://{_RAPIDAPI_HOST}/maps/api/place/details/json"
+
+_KEYS_FILE = Path(__file__).parent.parent.parent / "storage" / "configs" / "rapidapi_keys.json"
+try:
+    with open(_KEYS_FILE, "r") as _f:
+        _RAPIDAPI_KEYS: List[str] = json.load(_f)
+except Exception:
+    _RAPIDAPI_KEYS = []
+
+_key_index = 0
+
+
+def _get_next_key() -> str:
+    global _key_index
+    if not _RAPIDAPI_KEYS:
+        raise RuntimeError(f"No RapidAPI keys found in {_KEYS_FILE}")
+    key = _RAPIDAPI_KEYS[_key_index % len(_RAPIDAPI_KEYS)]
+    _key_index += 1
+    return key
+
+
+def _rapidapi_headers() -> Dict[str, str]:
+    return {
+        "x-rapidapi-key": _get_next_key(),
+        "x-rapidapi-host": _RAPIDAPI_HOST,
+        "Content-Type": "application/json"
+    }
+
+
+def _call_rapidapi(url: str, params: Dict) -> Dict:
+    """Gọi RapidAPI với auto-rotate key khi gặp quota exceeded."""
+    for _ in range(len(_RAPIDAPI_KEYS) or 1):
+        try:
+            resp = requests.get(url, headers=_rapidapi_headers(), params=params, timeout=30)
+            data = resp.json()
+            msg = data.get("message", "")
+            if "quota" in msg.lower() or "exceeded" in msg.lower() or "limit" in msg.lower():
+                continue
+            return data
+        except Exception as e:
+            logger.warning(f"RapidAPI call error: {e}")
+            continue
+    return {"status": "QUOTA_EXCEEDED_ALL_KEYS"}
 
 
 # =============================================================================
@@ -96,441 +83,230 @@ logger = setup_logging(__name__)
 
 class GooglePlacesIngestionEngine:
     """
-    Engine để thu thập dữ liệu POI từ Google Places API qua RapidAPI.
-    
-    Features:
-    - Luân phiên 18 RapidAPI keys để tránh rate limiting
-    - Multi-city, multi-category batch ingestion
-    - Automatic retry với exponential backoff
-    - Bronze record creation và storage
-    
-    Data Sources:
-    - Text Search: Tìm kiếm bằng text query
-    - Nearby Search: Tìm địa điểm gần vị trí
-    - Place Details: Chi tiết đầy đủ về địa điểm
-    
-    Storage:
-    - Bronze layer: storage/bronze/google_places/{city}/{category}/
+    Engine thu thập Google Places data → lưu vào MongoDB bronze_pois.
+    Schema: google_raw { place, place_details, place_id, fetched_at }
+    Insert từng POI ngay lập tức, resume-safe (bỏ qua nếu google_place_id đã tồn tại).
+    Quota guard: dừng ngay nếu tất cả RapidAPI keys hết quota.
     """
-    
-    def __init__(
-        self,
-        bronze_dir: str = "storage/bronze",
-        config_path: str = "storage/configs",
-        max_concurrent_requests: int = 5
-    ):
-        """
-        Khởi tạo GooglePlacesIngestionEngine.
-        
-        Args:
-            bronze_dir: Thư mục lưu bronze records
-            config_path: Thư mục chứa config files
-            max_concurrent_requests: Số requests đồng thời tối đa
-        """
-        self.bronze_dir = Path(bronze_dir)
-        self.config_path = Path(config_path)
-        self.max_concurrent_requests = max_concurrent_requests
-        
-        # Khởi tạo collector
-        self.collector = GooglePlacesCollector(logger=logger)
-        
-        # Tạo thư mục nếu chưa tồn tại
-        self.bronze_dir.mkdir(parents=True, exist_ok=True)
-        
-        # Semaphore cho rate limiting
-        self._semaphore = asyncio.Semaphore(max_concurrent_requests)
-        
-        # Stats tracking
-        self._stats = {
-            "total_requests": 0,
-            "successful_requests": 0,
-            "failed_requests": 0,
-            "records_created": 0
-        }
-        
-        logger.info(
-            "GooglePlacesIngestionEngine initialized: "
-            f"bronze_dir={bronze_dir}, "
-            f"max_concurrent={max_concurrent_requests}"
+
+    DEFAULT_CITIES = {
+        "hanoi":    {"name": "Hà Nội",      "lat": 21.0278, "lon": 105.8342, "country": "Vietnam"},
+        "hcm":      {"name": "Hồ Chí Minh", "lat": 10.8231, "lon": 106.6297, "country": "Vietnam"},
+        "danang":   {"name": "Đà Nẵng",     "lat": 16.0544, "lon": 108.2022, "country": "Vietnam"},
+        "cantho":   {"name": "Cần Thơ",     "lat": 10.0282, "lon": 105.7851, "country": "Vietnam"},
+        "haiphong": {"name": "Hải Phòng",   "lat": 20.8449, "lon": 106.6881, "country": "Vietnam"},
+        "hue":      {"name": "Huế",         "lat": 16.4637, "lon": 107.5909, "country": "Vietnam"},
+        "nhatrang": {"name": "Nha Trang",   "lat": 12.2588, "lon": 109.1967, "country": "Vietnam"},
+        "dalat":    {"name": "Đà Lạt",      "lat": 11.9404, "lon": 108.4453, "country": "Vietnam"},
+        "vungtau":  {"name": "Vũng Tàu",    "lat": 10.2441, "lon": 107.0708, "country": "Vietnam"},
+    }
+
+    DEFAULT_CATEGORIES = [
+        "restaurant", "cafe", "bar", "lodging",
+        "tourist_attraction", "museum", "park", "shopping_mall"
+    ]
+
+    def __init__(self, mongo_uri: Optional[str] = None):
+        self.mongo_uri = mongo_uri or os.getenv(
+            "MONGODB_URI",
+            "mongodb+srv://nguyenanhilu9785_db_user:12345@cluster0.olqzq.mongodb.net/smart_travel_platform?appName=Cluster0"
         )
-    
-    async def _ingest_single_category(
+        self._client = MongoClient(self.mongo_uri)
+        self._bronze = self._client.smart_travel_platform.bronze_pois
+        logger.info(f"GooglePlacesIngestionEngine initialized with {len(_RAPIDAPI_KEYS)} RapidAPI keys")
+
+    async def ingest_city_category(
         self,
-        city: str,
+        city_code: str,
+        city_cfg: Dict[str, Any],
         category: str,
-        max_results: int = 100
-    ) -> List[Dict[str, Any]]:
+        radius: int = 3000
+    ) -> Dict[str, Any]:
         """
-        Ingest một category cho một thành phố.
-        
-        Args:
-            city: Tên thành phố
-            category: Loại POI (restaurant, hotel, etc.)
-            max_results: Số kết quả tối đa
-            
+        Ingest 1 city + 1 category → bronze_pois. Resume-safe.
+
         Returns:
-            List[Dict]: Bronze records
+            {"inserted": int, "skipped": int, "stopped": bool}
         """
-        logger.info(f"Ingesting {category} in {city}")
-        
-        # Tạo text query
-        query = f"{category} in {city}"
-        
-        async with self._semaphore:
-            try:
-                # Tìm kiếm địa điểm
-                places = await self.collector.text_search(
-                    query=query,
-                    type_filter=category if category in [
-                        "restaurant", "cafe", "bar", "lodging", "hotel",
-                        "tourist_attraction", "museum", "park", "shopping_mall"
-                    ] else None
-                )
-                
-                self._stats["total_requests"] += 1
-                
-                if not places:
-                    logger.warning(f"No results found for {category} in {city}")
-                    return []
-                
-                # Giới hạn số kết quả
-                places = places[:max_results]
-                
-                # Chuyển thành bronze records
-                bronze_records = []
-                
-                for place in places:
-                    bronze_record = await self._create_bronze_record(place, city, category)
-                    if bronze_record:
-                        bronze_records.append(bronze_record)
-                
-                self._stats["successful_requests"] += 1
-                self._stats["records_created"] += len(bronze_records)
-                
-                logger.info(
-                    f"Created {len(bronze_records)} bronze records "
-                    f"for {category} in {city}"
-                )
-                
-                return bronze_records
-                
-            except Exception as e:
-                self._stats["failed_requests"] += 1
-                logger.error(f"Error ingesting {category} in {city}: {str(e)}")
-                return []
-    
-    async def _create_bronze_record(
-        self,
-        place: PlaceResult,
-        city: str,
-        category: str
-    ) -> Optional[Dict[str, Any]]:
-        """
-        Tạo bronze record từ PlaceResult.
-        
-        Args:
-            place: PlaceResult object
-            city: Tên thành phố
-            category: Loại POI
-            
-        Returns:
-            Optional[Dict]: Bronze record hoặc None
-        """
-        try:
-            # Lấy thêm chi tiết nếu cần
-            details = None
-            if place.place_id:
-                try:
-                    details = await self.collector.get_place_details(place.place_id)
-                except Exception as e:
-                    logger.warning(f"Could not get details for {place.place_id}: {e}")
-            
-            # Tạo bronze record
-            timestamp = datetime.now(timezone.utc).isoformat()
-            
-            bronze_record = {
-                "_id": make_ukey(f"google:{place.place_id}"),
-                "source_id": f"google:{place.place_id}",
-                "source": "google_places",
-                "city": city.lower().replace(" ", "_"),
-                "category": category,
-                "raw_data": {
-                    "place_id": place.place_id,
-                    "name": place.name,
-                    "address": place.address or place.vicinity,
-                    "location": {
-                        "lat": place.lat,
-                        "lng": place.lng
-                    },
-                    "types": place.types,
-                    "rating": place.rating,
-                    "user_ratings_total": place.user_ratings_total,
-                    "phone": place.phone_number,
-                    "website": place.website,
-                    "photos": [
-                        {
-                            "photo_reference": p.get("photo_reference"),
-                            "width": p.get("width"),
-                            "height": p.get("height")
-                        }
-                        for p in (place.photos or [])
-                    ],
-                    "price_level": place.price_level,
-                    "vicinity": place.vicinity,
-                    "business_status": place.business_status,
-                    # Thêm chi tiết nếu có
-                    "details": asdict(details) if details else None
+        lat, lon = city_cfg["lat"], city_cfg["lon"]
+        logger.info(f"Ingesting {category} in {city_cfg['name']}")
+
+        search_result = _call_rapidapi(_NEARBY_SEARCH_URL, {
+            "location": f"{lat},{lon}",
+            "radius": radius,
+            "type": category,
+            "language": "vi"
+        })
+
+        status = search_result.get("status")
+
+        if status == "QUOTA_EXCEEDED_ALL_KEYS":
+            logger.error(f"All {len(_RAPIDAPI_KEYS)} RapidAPI keys exceeded daily quota. Stopping.")
+            return {"inserted": 0, "skipped": 0, "stopped": True}
+
+        if status in ("REQUEST_DENIED", "INVALID_REQUEST"):
+            logger.error(f"RapidAPI error: {status}")
+            return {"inserted": 0, "skipped": 0, "stopped": True}
+
+        places = search_result.get("results", [])
+        inserted = skipped = 0
+
+        for place in places:
+            place_id = place.get("place_id")
+            if not place_id:
+                continue
+
+            if self._bronze.find_one({"google_place_id": place_id}, {"_id": 1}):
+                skipped += 1
+                continue
+
+            details = _call_rapidapi(_PLACE_DETAILS_URL, {
+                "place_id": place_id,
+                "fields": "all",
+                "language": "vi"
+            })
+
+            u_key = hashlib.md5(f"google_{place_id}".encode()).hexdigest()[:16]
+            geo = place.get("geometry", {}).get("location", {})
+
+            doc = {
+                "u_key": u_key,
+                "poi_id": f"google_{place_id}",
+
+                # === RAW DATA ===
+                "osm_raw": None,
+                "google_raw": {
+                    "place": place,
+                    "place_details": details,
+                    "place_id": place_id,
+                    "fetched_at": datetime.now(timezone.utc).isoformat()
                 },
-                "ingestion_timestamp": timestamp,
-                "data_version": "1.0",
-                "metadata": {
-                    "collector": "google_places",
-                    "api_source": "rapidapi",
-                    "quality_score": self._calculate_quality_score(place, details)
-                }
+
+                # === FLAGS ===
+                "has_osm_data": False,
+                "has_google_data": True,
+                "data_sources": ["google"],
+
+                # === BASIC INFO ===
+                "name": place.get("name", "Unknown"),
+                "city": city_code,
+                "city_name": city_cfg.get("name", city_code),
+                "country": city_cfg.get("country", "Vietnam"),
+                "category": category,
+                "location": {
+                    "lat": geo.get("lat"),
+                    "lon": geo.get("lng")
+                },
+
+                # === IDS ===
+                "osm_id": None,
+                "osm_type": None,
+                "google_place_id": place_id,
+
+                # === METADATA ===
+                "created_at": datetime.now(timezone.utc).isoformat(),
+                "updated_at": datetime.now(timezone.utc).isoformat(),
+                "_layer": "bronze",
+                "_source": "google_places_ingestion"
             }
-            
-            return bronze_record
-            
-        except Exception as e:
-            logger.error(f"Error creating bronze record for {place.place_id}: {str(e)}")
-            return None
-    
-    def _calculate_quality_score(
-        self,
-        place: PlaceResult,
-        details: Optional[PlaceDetails]
-    ) -> float:
-        """
-        Tính quality score cho record.
-        
-        Args:
-            place: PlaceResult
-            details: PlaceDetails (optional)
-            
-        Returns:
-            float: Quality score (0.0 - 1.0)
-        """
-        score = 0.0
-        
-        # Có tọa độ
-        if place.lat and place.lng:
-            score += 0.3
-        
-        # Có địa chỉ
-        if place.address or place.vicinity:
-            score += 0.2
-        
-        # Có rating
-        if place.rating:
-            score += 0.2
-        
-        # Có số điện thoại
-        if place.phone_number:
-            score += 0.1
-        
-        # Có website
-        if place.website:
-            score += 0.1
-        
-        # Có chi tiết đầy đủ
-        if details:
-            score += 0.1
-        
-        return min(score, 1.0)
-    
-    def _save_bronze_records(
-        self,
-        records: List[Dict[str, Any]],
-        city: str,
-        category: str
-    ) -> str:
-        """
-        Lưu bronze records vào file.
-        
-        Args:
-            records: Danh sách bronze records
-            city: Tên thành phố
-            category: Loại POI
-            
-        Returns:
-            str: Path đến file đã lưu
-        """
-        # Tạo thư mục
-        save_dir = self.bronze_dir / "google_places" / city.lower().replace(" ", "_") / category
-        save_dir.mkdir(parents=True, exist_ok=True)
-        
-        # Tạo tên file với timestamp
-        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
-        filename = f"{city.lower().replace(' ', '_')}_{category}_{timestamp}.json"
-        filepath = save_dir / filename
-        
-        # Lưu file
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(records, f, ensure_ascii=False, indent=2)
-        
-        logger.info(f"Saved {len(records)} records to {filepath}")
-        
-        return str(filepath)
-    
+
+            try:
+                self._bronze.insert_one(doc)
+                inserted += 1
+            except Exception as ie:
+                err = str(ie)
+                if "quota" in err.lower() or "space" in err.lower():
+                    logger.error("MongoDB quota exceeded! Stopping.")
+                    return {"inserted": inserted, "skipped": skipped, "stopped": True}
+                skipped += 1
+
+            await asyncio.sleep(0.5)
+
+        logger.info(f"✅ {city_cfg['name']}/{category}: inserted={inserted}, skipped={skipped}")
+        return {"inserted": inserted, "skipped": skipped, "stopped": False}
+
     async def ingest_city(
         self,
-        city: str,
-        categories: List[str],
-        max_results_per_category: int = 100
+        city_code: str,
+        categories: Optional[List[str]] = None
     ) -> Dict[str, Any]:
         """
-        Ingest dữ liệu cho một thành phố.
-        
+        Ingest tất cả categories cho 1 city.
+
         Args:
-            city: Tên thành phố
-            categories: Danh sách loại POI cần ingest
-            max_results_per_category: Số kết quả tối đa mỗi category
-            
-        Returns:
-            Dict: Kết quả ingestion
+            city_code: Key trong DEFAULT_CITIES
+            categories: Danh sách category (mặc định: DEFAULT_CATEGORIES)
         """
-        logger.info(f"Starting ingestion for city: {city}")
-        start_time = time.time()
-        
-        results = {
-            "city": city,
-            "categories": {},
-            "total_records": 0,
-            "files_created": []
-        }
-        
-        for category in categories:
-            logger.info(f"Processing category: {category}")
-            
-            # Ingest category
-            records = await self._ingest_single_category(
-                city=city,
-                category=category,
-                max_results=max_results_per_category
-            )
-            
-            if records:
-                # Lưu file
-                filepath = self._save_bronze_records(records, city, category)
-                
-                results["categories"][category] = {
-                    "records_count": len(records),
-                    "file": filepath
-                }
-                results["total_records"] += len(records)
-                results["files_created"].append(filepath)
-            else:
-                results["categories"][category] = {
-                    "records_count": 0,
-                    "file": None,
-                    "error": "No records found"
-                }
-        
-        elapsed_time = time.time() - start_time
-        
-        results["elapsed_seconds"] = round(elapsed_time, 2)
-        results["status"] = "success" if results["total_records"] > 0 else "partial"
-        
-        logger.info(
-            f"City ingestion complete: {city}, "
-            f"{results['total_records']} records, "
-            f"{elapsed_time:.2f}s"
-        )
-        
-        return results
-    
+        city_cfg = self.DEFAULT_CITIES.get(city_code)
+        if not city_cfg:
+            logger.error(f"City '{city_code}' not found in DEFAULT_CITIES")
+            return {"inserted": 0, "skipped": 0, "stopped": False}
+
+        cats = categories or self.DEFAULT_CATEGORIES
+        total_inserted = total_skipped = 0
+
+        for cat in cats:
+            result = await self.ingest_city_category(city_code, city_cfg, cat)
+            total_inserted += result["inserted"]
+            total_skipped += result["skipped"]
+            if result.get("stopped"):
+                return {"city": city_code, "inserted": total_inserted, "skipped": total_skipped, "stopped": True}
+            await asyncio.sleep(1)
+
+        return {"city": city_code, "inserted": total_inserted, "skipped": total_skipped, "stopped": False}
+
     async def ingest_all(
         self,
-        cities: List[str],
-        categories: List[str] = None,
-        max_results_per_category: int = 100
+        cities: Optional[Dict[str, Any]] = None,
+        categories: Optional[List[str]] = None
     ) -> Dict[str, Any]:
         """
-        Batch ingest cho nhiều thành phố.
-        
+        Ingest tất cả cities × categories → bronze_pois.
+
         Args:
-            cities: Danh sách thành phố
-            categories: Danh sách loại POI (default: common types)
-            max_results_per_category: Số kết quả tối đa
-            
-        Returns:
-            Dict: Kết quả batch ingestion
+            cities: Dict city_code → config (mặc định: DEFAULT_CITIES)
+            categories: Danh sách category (mặc định: DEFAULT_CATEGORIES)
         """
-        # Default categories nếu không có
-        if categories is None:
-            categories = [
-                "restaurant",
-                "cafe",
-                "bar",
-                "lodging",
-                "tourist_attraction",
-                "museum",
-                "park",
-                "shopping_mall"
-            ]
-        
-        logger.info(f"Starting batch ingestion: {len(cities)} cities, {len(categories)} categories")
-        start_time = time.time()
-        
-        results = {
-            "cities": {},
-            "total_cities": len(cities),
-            "total_categories": len(categories),
-            "total_records": 0,
-            "failed_cities": []
+        target_cities = cities or self.DEFAULT_CITIES
+        cats = categories or self.DEFAULT_CATEGORIES
+
+        total_inserted = total_skipped = 0
+        results_by_city: Dict[str, Any] = {}
+
+        for city_code, city_cfg in target_cities.items():
+            logger.info(f"=== {city_cfg['name']} ===")
+            city_inserted = city_skipped = 0
+
+            for cat in cats:
+                result = await self.ingest_city_category(city_code, city_cfg, cat)
+                city_inserted += result["inserted"]
+                city_skipped += result["skipped"]
+                if result.get("stopped"):
+                    self._client.close()
+                    return {
+                        "total_inserted": total_inserted + city_inserted,
+                        "total_skipped": total_skipped + city_skipped,
+                        "by_city": results_by_city,
+                        "stopped": True
+                    }
+                await asyncio.sleep(1)
+
+            total_inserted += city_inserted
+            total_skipped += city_skipped
+            results_by_city[city_code] = {"inserted": city_inserted, "skipped": city_skipped}
+
+        self._client.close()
+        logger.info(f"🎉 Ingest complete: inserted={total_inserted}, skipped={total_skipped}")
+        return {
+            "total_inserted": total_inserted,
+            "total_skipped": total_skipped,
+            "by_city": results_by_city,
+            "cities_processed": len(target_cities),
+            "categories": cats
         }
-        
-        # Process từng city
-        for city in cities:
-            try:
-                city_result = await self.ingest_city(
-                    city=city,
-                    categories=categories,
-                    max_results_per_category=max_results_per_category
-                )
-                
-                results["cities"][city] = city_result
-                results["total_records"] += city_result["total_records"]
-                
-            except Exception as e:
-                logger.error(f"Failed to ingest city {city}: {str(e)}")
-                results["failed_cities"].append({
-                    "city": city,
-                    "error": str(e)
-                })
-        
-        elapsed_time = time.time() - start_time
-        
-        results["elapsed_seconds"] = round(elapsed_time, 2)
-        results["status"] = "success" if len(results["failed_cities"]) == 0 else "partial"
-        
-        # Thêm stats
-        results["stats"] = self._stats.copy()
-        
-        logger.info(
-            f"Batch ingestion complete: "
-            f"{results['total_records']} records, "
-            f"{len(results['failed_cities'])} failed cities, "
-            f"{elapsed_time:.2f}s"
-        )
-        
-        return results
-    
-    async def close(self):
-        """
-        Đóng collector và cleanup.
-        """
-        await self.collector.close()
-        logger.info("GooglePlacesIngestionEngine closed")
-    
-    async def __aenter__(self):
-        """Async context manager entry."""
-        return self
-    
-    async def __aexit__(self, exc_type, exc_val, exc_tb):
-        """Async context manager exit."""
-        await self.close()
+
+    def close(self):
+        self._client.close()
 
 
 # =============================================================================
@@ -538,32 +314,21 @@ class GooglePlacesIngestionEngine:
 # =============================================================================
 
 async def main():
-    """
-    CLI entry point cho testing.
-    """
     import sys
-    
-    # Parse arguments
-    if len(sys.argv) < 2:
-        print("Usage: python google_places_ingestion.py <city> [category1,category2,...]")
-        print("Example: python google_places_ingestion.py tokyo restaurant,hotel")
-        sys.exit(1)
-    
-    city = sys.argv[1]
-    categories = sys.argv[2].split(",") if len(sys.argv) > 2 else ["restaurant", "hotel"]
-    
-    print(f"Ingesting Google Places data for: {city}")
-    print(f"Categories: {categories}")
-    
-    async with GooglePlacesIngestionEngine() as engine:
-        result = await engine.ingest_city(city, categories, max_results_per_category=50)
-        
-        print(f"\n✅ Ingestion complete!")
-        print(f"Total records: {result['total_records']}")
-        print(f"Elapsed time: {result['elapsed_seconds']}s")
-        
-        for category, data in result['categories'].items():
-            print(f"  - {category}: {data['records_count']} records")
+    engine = GooglePlacesIngestionEngine()
+
+    if len(sys.argv) >= 2:
+        city_code = sys.argv[1]
+        cats = sys.argv[2].split(",") if len(sys.argv) > 2 else None
+        result = await engine.ingest_city(city_code, cats)
+    else:
+        result = await engine.ingest_all()
+
+    print(f"\n✅ Done!")
+    print(f"   Inserted : {result.get('total_inserted', result.get('inserted', 0)):,}")
+    print(f"   Skipped  : {result.get('total_skipped', result.get('skipped', 0)):,}")
+    if result.get("stopped"):
+        print("   ⚠️  Stopped early (quota exceeded)")
 
 
 if __name__ == "__main__":
