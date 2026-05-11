@@ -47,6 +47,9 @@ from pathlib import Path
 # Import type hints cho type checking
 from typing import List, Dict, Any, Optional
 
+# Import MongoDB
+from pymongo import MongoClient
+
 # Import data schemas từ pipelines.shared
 # BronzeRecord: Input format từ Bronze layer
 # SilverPlace: Output format cho Silver layer
@@ -80,63 +83,102 @@ logger = setup_logging(__name__)
 
 
 class BronzeOSMProcessor:
-    """Processor cho Bronze OSM data"""
+    """Processor cho Bronze OSM data từ MongoDB bronze_pois"""
     
-    def __init__(self, bronze_path: str = "storage/bronze"):
-        self.bronze_path = Path(bronze_path)
+    def __init__(self, mongo_uri: str = None):
+        # MongoDB connection
+        import os
+        self.mongo_uri = mongo_uri or os.getenv(
+            "MONGODB_URI", 
+            "mongodb+srv://nguyenanhilu9785_db_user:12345@cluster0.olqzq.mongodb.net/smart_travel_platform?appName=Cluster0"
+        )
+        self.client = MongoClient(self.mongo_uri)
+        self.db = self.client.smart_travel_platform
+        
+        # Output path for Silver (file backup)
         self.silver_path = Path("storage/silver/osm")
     
-    def get_bronze_files(self, city: str, category: POICategory) -> List[Path]:
-        """Get danh sách Bronze files cho city và category"""
-        bronze_dir = self.bronze_path / "osm" / city / category.value
-        if not bronze_dir.exists():
-            logger.warning(f"Bronze directory not found: {bronze_dir}")
-            return []
-        
-        # Get raw_*.json files
-        files = list(bronze_dir.glob("raw_*.json"))
-        return sorted(files, reverse=True)  # Latest first
-    
-    def load_bronze_record(self, file_path: Path) -> Optional[BronzeRecord]:
-        """Load Bronze record từ file"""
+    def get_bronze_records(self, city: str, category: POICategory) -> List[Dict[str, Any]]:
+        """Get bronze records từ MongoDB bronze_pois collection"""
         try:
-            data = load_json_file(file_path)
-            if not data:
-                return None
+            # Query bronze_pois collection với osm_raw data
+            query = {
+                "city": city,
+                "category": category.value,
+                "has_osm_data": True,
+                "osm_raw": {"$exists": True}
+            }
             
-            # Extract metadata và records
-            metadata = data.get("metadata", {})
-            records = data.get("records", [])
-            
-            if not records:
-                logger.warning(f"No records found in {file_path}")
-                return None
-            
-            # Return first record as BronzeRecord (for metadata extraction)
-            if records:
-                return BronzeRecord(**records[0])
+            records = list(self.db.bronze_pois.find(query))
+            logger.info(f"Found {len(records)} bronze records for {city}/{category.value}")
+            return records
             
         except Exception as e:
-            logger.error(f"Error loading Bronze record from {file_path}: {e}")
+            logger.error(f"Error querying bronze_pois: {e}")
+            return []
+    
+    def load_bronze_record(self, record: Dict[str, Any]) -> Optional[BronzeRecord]:
+        """Load Bronze record từ MongoDB document"""
+        try:
+            if not record or not record.get("osm_raw"):
+                return None
+            
+            # Extract from osm_raw.element
+            osm_raw = record.get("osm_raw", {})
+            element = osm_raw.get("element", {})
+            
+            if not element:
+                return None
+            
+            # Build BronzeRecord from MongoDB document
+            return BronzeRecord(
+                u_key=record.get("u_key"),
+                poi_id=record.get("poi_id"),
+                name=record.get("name"),
+                city=record.get("city"),
+                category=record.get("category"),
+                location=record.get("location"),
+                osm_id=record.get("osm_id"),
+                osm_type=record.get("osm_type"),
+                osm_tags=element.get("tags", {}),
+                raw_response=element,
+                metadata={
+                    "city": record.get("city"),
+                    "category": record.get("category"),
+                    "ingestion_at": record.get("created_at"),
+                    "has_google_data": record.get("has_google_data", False)
+                }
+            )
+            
+        except Exception as e:
+            logger.error(f"Error loading Bronze record: {e}")
             return None
     
-    def process_osm_element(self, raw_element: Dict[str, Any], metadata: Dict[str, Any]) -> Optional[SilverPlace]:
-        """Process single OSM element sang Silver schema"""
+    def process_osm_element(self, bronze_record: Dict[str, Any]) -> Optional[SilverPlace]:
+        """Process bronze record từ MongoDB sang Silver schema"""
         try:
+            # Extract from bronze_pois document
+            osm_raw = bronze_record.get("osm_raw", {})
+            element = osm_raw.get("element", {})
+            
+            if not element:
+                logger.warning("No osm_raw.element found in record")
+                return None
+            
             # Extract basic info
-            element_id = str(raw_element.get("id", ""))
-            element_type = raw_element.get("type", "node")
-            tags = raw_element.get("tags", {})
+            element_id = str(element.get("id", ""))
+            element_type = element.get("type", "node")
+            tags = element.get("tags", {})
             
             # Extract coordinates
             if element_type == "node":
-                lat = raw_element.get("lat")
-                lon = raw_element.get("lon")
+                lat = element.get("lat")
+                lon = element.get("lon")
             else:
                 # For way/relation, get center from bounds
-                bounds = raw_element.get("bounds", {})
-                lat = bounds.get("lat") or raw_element.get("center", {}).get("lat")
-                lon = bounds.get("lon") or raw_element.get("center", {}).get("lon")
+                bounds = element.get("bounds", {})
+                lat = bounds.get("lat") or element.get("center", {}).get("lat")
+                lon = bounds.get("lon") or element.get("center", {}).get("lon")
             
             coordinates = normalize_coordinates(lat, lon)
             if not coordinates:
@@ -158,9 +200,9 @@ class BronzeOSMProcessor:
             # Extract address
             address = clean_address(tags)
             
-            # Create unique key
-            city = metadata.get("city", "")
-            u_key = f"{city}_{element_id}_{category.value}"
+            # Get city từ bronze_record
+            city = bronze_record.get("city", "")
+            u_key = bronze_record.get("u_key") or f"{city}_{element_id}_{category.value}"
             
             # Create Silver place
             silver_place = SilverPlace(
@@ -171,15 +213,15 @@ class BronzeOSMProcessor:
                 category=category,
                 subcategory=tags.get("tourism") or tags.get("shop") or tags.get("amenity"),
                 city=city,
-                country=self._get_country_from_city(city),
+                country=bronze_record.get("country") or self._get_country_from_city(city),
                 address=address,
                 location=coordinates,
                 tags=tags,
                 source=SourceType.OSM,
                 language=self._detect_language(tags),
-                ingestion_at=datetime.fromisoformat(metadata.get("ingestion_at", datetime.now(timezone.utc).isoformat())),
+                ingestion_at=datetime.fromisoformat(bronze_record.get("created_at", datetime.now(timezone.utc).isoformat())),
                 processed_at=datetime.now(timezone.utc),
-                raw_file=metadata.get("filename", ""),
+                raw_file="bronze_pois",
                 status=ProcessingStatus.PROCESSED
             )
             
@@ -240,43 +282,31 @@ class BronzeOSMProcessor:
         
         return "en"  # Default
     
-    def process_bronze_file(self, bronze_file: Path) -> bool:
-        """Process single Bronze file sang Silver format"""
+    def process_bronze_batch(self, city: str, category: POICategory) -> bool:
+        """Process batch Bronze records từ MongoDB sang Silver"""
         try:
-            logger.info(f"🔄 Processing Bronze file: {bronze_file}")
+            logger.info(f"🔄 Processing Bronze batch: {city}/{category.value}")
             
-            # Load Bronze data
-            bronze_data = load_json_file(bronze_file)
-            if not bronze_data:
-                return False
+            # Get Bronze records từ MongoDB
+            bronze_records = self.get_bronze_records(city, category)
             
-            metadata = bronze_data.get("metadata", {})
-            records = bronze_data.get("records", [])
-            
-            if not records:
-                logger.warning(f"No records to process in {bronze_file}")
+            if not bronze_records:
+                logger.warning(f"No bronze records found for {city}/{category.value}")
                 return False
             
             # Process all records
             silver_places = []
-            for record_data in records:
-                raw_element = record_data.get("raw_response", {})
-                if not raw_element:
-                    continue
-                
-                silver_place = self.process_osm_element(raw_element, metadata)
+            for bronze_record in bronze_records:
+                silver_place = self.process_osm_element(bronze_record)
                 if silver_place:
                     silver_places.append(silver_place)
             
             if not silver_places:
-                logger.warning(f"No valid Silver places created from {bronze_file}")
+                logger.warning(f"No valid Silver places created for {city}/{category.value}")
                 return False
             
-            # Save to Silver layer
-            city = metadata.get("city", "")
-            category = metadata.get("category", "")
-            
-            silver_dir = self.silver_path / city / category
+            # Save to Silver layer (file backup)
+            silver_dir = self.silver_path / city / category.value
             silver_dir.mkdir(parents=True, exist_ok=True)
             
             timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
@@ -287,14 +317,14 @@ class BronzeOSMProcessor:
             output_data = {
                 "metadata": {
                     "city": city,
-                    "category": category,
+                    "category": category.value,
                     "source": SourceType.OSM.value,
                     "processed_at": datetime.now(timezone.utc).isoformat(),
                     "record_count": len(silver_places),
                     "quality_score": sum(calculate_quality_score(
                         p.name, p.address, p.location, p.tags, p.category
-                    ) for p in silver_places) / len(silver_places),
-                    "bronze_file": str(bronze_file.name)
+                    ) for p in silver_places) / len(silver_places) if silver_places else 0,
+                    "bronze_source": "bronze_pois"
                 },
                 "places": [place.dict() for place in silver_places]
             }
@@ -302,25 +332,49 @@ class BronzeOSMProcessor:
             success = save_json_file(output_data, output_file)
             if success:
                 logger.info(f"✅ Processed {len(silver_places)} places to {output_file}")
+                
+                # Also save to MongoDB silver_pois collection
+                self._save_to_silver_mongodb(silver_places, city, category.value)
+                
                 return True
             else:
                 logger.error(f"❌ Failed to save Silver data to {output_file}")
                 return False
                 
         except Exception as e:
-            logger.error(f"❌ Error processing Bronze file {bronze_file}: {e}")
+            logger.error(f"❌ Error processing Bronze batch {city}/{category.value}: {e}")
             return False
     
+    def _save_to_silver_mongodb(self, silver_places: List[SilverPlace], city: str, category: str):
+        """Save Silver places to MongoDB silver_pois collection"""
+        try:
+            silver_docs = []
+            for place in silver_places:
+                doc = {
+                    **place.dict(),
+                    "_layer": "silver",
+                    "_processed_at": datetime.now(timezone.utc).isoformat()
+                }
+                silver_docs.append(doc)
+            
+            if silver_docs:
+                # Use insert_many with ordered=False để skip duplicates
+                self.db.silver_pois.insert_many(silver_docs, ordered=False)
+                logger.info(f"💾 Saved {len(silver_docs)} to MongoDB silver_pois")
+        except Exception as e:
+            logger.warning(f"MongoDB silver insert: {e}")
+    
     def process_city_category(self, city: str, category: POICategory) -> Dict[str, Any]:
-        """Process tất cả Bronze files cho city và category"""
-        bronze_files = self.get_bronze_files(city, category)
+        """Process tất cả Bronze records cho city và category"""
+        # Get bronze records from MongoDB
+        bronze_records = self.get_bronze_records(city, category)
         
-        if not bronze_files:
+        if not bronze_records:
             return {
                 "city": city,
                 "category": category.value,
-                "total_files": 0,
-                "processed_files": 0,
+                "total_records": 0,
+                "processed_records": 0,
                 "total_places": 0,
                 "errors": []
             }
@@ -328,40 +382,43 @@ class BronzeOSMProcessor:
         results = {
             "city": city,
             "category": category.value,
-            "total_files": len(bronze_files),
-            "processed_files": 0,
+            "total_records": len(bronze_records),
+            "processed_records": 0,
             "total_places": 0,
             "errors": []
         }
         
-        for bronze_file in bronze_files:
-            success = self.process_bronze_file(bronze_file)
-            if success:
-                results["processed_files"] += 1
-                
-                # Count places in processed file
-                try:
-                    silver_data = load_json_file(bronze_file)
-                    if silver_data:
-                        results["total_places"] += len(silver_data.get("records", []))
-                except:
-                    pass
-            else:
-                results["errors"].append(str(bronze_file.name))
+        # Process batch
+        success = self.process_bronze_batch(city, category)
+        if success:
+            results["processed_records"] = len(bronze_records)
+            # Count actual silver places created
+            try:
+                silver_count = self.db.silver_pois.count_documents({
+                    "city": city,
+                    "category": category.value
+                })
+                results["total_places"] = silver_count
+            except:
+                pass
+        else:
+            results["errors"].append(f"{city}/{category.value}")
         
         return results
     
     def process_all(self, cities: Optional[List[str]] = None, categories: Optional[List[POICategory]] = None) -> Dict[str, Any]:
-        """Process tất cả Bronze data"""
+        """Process tất cả Bronze data từ MongoDB bronze_pois"""
         
-        # Get available cities and categories
-        available_cities = []
-        if self.bronze_path.exists():
-            for city_dir in (self.bronze_path / "osm").iterdir():
-                if city_dir.is_dir():
-                    available_cities.append(city_dir.name)
+        # Get available cities từ MongoDB bronze_pois collection
+        if cities:
+            target_cities = cities
+        else:
+            # Distinct cities from bronze_pois
+            target_cities = self.db.bronze_pois.distinct("city", {"has_osm_data": True})
+            if not target_cities:
+                # Fallback to common cities
+                target_cities = ["hanoi", "hcm", "danang", "cantho", "haiphong", "hue", "nhatrang", "dalat", "vungtau"]
         
-        target_cities = cities or available_cities
         target_categories = categories or [
             POICategory.TOURIST_ATTRACTION,
             POICategory.RESTAURANT,
@@ -374,6 +431,7 @@ class BronzeOSMProcessor:
         ]
         
         logger.info(f"🚀 Starting Bronze processing for {len(target_cities)} cities, {len(target_categories)} categories")
+        logger.info(f"   Source: MongoDB bronze_pois (osm_raw data)")
         
         summary = {
             "total_jobs": len(target_cities) * len(target_categories),
@@ -387,22 +445,22 @@ class BronzeOSMProcessor:
             city_summary = {
                 "categories": {},
                 "total_places": 0,
-                "processed_files": 0,
-                "failed_files": 0
+                "processed_records": 0,
+                "failed_batches": 0
             }
             
             for category in target_categories:
                 result = self.process_city_category(city, category)
                 
-                if result["processed_files"] > 0:
+                if result["processed_records"] > 0:
                     summary["processed_jobs"] += 1
                 else:
                     summary["failed_jobs"] += 1
                 
                 city_summary["categories"][category.value] = result
                 city_summary["total_places"] += result["total_places"]
-                city_summary["processed_files"] += result["processed_files"]
-                city_summary["failed_files"] += len(result["errors"])
+                city_summary["processed_records"] += result["processed_records"]
+                city_summary["failed_batches"] += len(result["errors"])
             
             summary["city_results"][city] = city_summary
             summary["total_places"] += city_summary["total_places"]
@@ -410,10 +468,12 @@ class BronzeOSMProcessor:
         logger.info("=" * 60)
         logger.info("📊 BRONZE PROCESSING SUMMARY")
         logger.info("=" * 60)
+        logger.info(f"Source: MongoDB bronze_pois")
         logger.info(f"Total jobs: {summary['total_jobs']}")
         logger.info(f"Processed: {summary['processed_jobs']}")
         logger.info(f"Failed: {summary['failed_jobs']}")
-        logger.info(f"Success rate: {summary['processed_jobs']/summary['total_jobs']*100:.1f}%")
+        if summary['total_jobs'] > 0:
+            logger.info(f"Success rate: {summary['processed_jobs']/summary['total_jobs']*100:.1f}%")
         logger.info(f"Total places: {summary['total_places']}")
         
         return summary

@@ -194,10 +194,13 @@ class Settings(BaseSettings):
     # Cấu hình cho cross-origin requests và rate limiting
     
     # Danh sách origins được phép truy cập API (CORS)
-    # Default: "http://localhost:3000" - frontend development server
-    # Format: comma-separated list, ví dụ: "http://localhost:3000,https://app.example.com"
+    # Default: Vite dev server ports + React default
+    # Format: comma-separated list, ví dụ: "http://localhost:5173,https://app.example.com"
     # "*" cho phép tất cả origins (KHÔNG RECOMMENDED trong production)
-    allowed_origins: str = Field(default="http://localhost:3000", alias="ALLOWED_ORIGINS")
+    allowed_origins: str = Field(
+        default="http://localhost:5173,http://localhost:5174,http://localhost:3000",
+        alias="ALLOWED_ORIGINS"
+    )
     
     # Rate limiting enabled flag
     # Default: True - bật giới hạn request rate

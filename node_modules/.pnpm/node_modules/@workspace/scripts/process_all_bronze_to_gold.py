@@ -22,8 +22,13 @@ from pymongo import MongoClient
 
 class BronzeToGoldProcessor:
     def __init__(self):
-        self.client = MongoClient('mongodb://admin:admin123@localhost:27017/smart_travel?authSource=admin')
-        self.db = self.client.smart_travel
+        import os
+        mongo_uri = os.getenv(
+            "MONGODB_URI",
+            "mongodb+srv://nguyenanhilu9785_db_user:12345@cluster0.olqzq.mongodb.net/smart_travel_platform?appName=Cluster0"
+        )
+        self.client = MongoClient(mongo_uri)
+        self.db = self.client.smart_travel_platform
         
         # Stats
         self.stats = {
@@ -36,13 +41,16 @@ class BronzeToGoldProcessor:
         }
     
     def process_bronze_to_silver(self):
-        """Process all bronze records to silver."""
+        """Process bronze_pois records to silver_pois."""
         print("=" * 70)
-        print("🚀 SILVER PROCESSING - ALL BRONZE RECORDS")
+        print("🚀 SILVER PROCESSING - FROM BRONZE_POIS (RAW DATA)")
         print("=" * 70)
         
-        # Get all bronze records
-        bronze_records = list(self.db.bronze_records.find({}))
+        # Get all bronze records with osm_raw data from bronze_pois
+        bronze_records = list(self.db.bronze_pois.find({
+            "has_osm_data": True,
+            "osm_raw": {"$exists": True}
+        }))
         self.stats['bronze_total'] = len(bronze_records)
         
         print(f"📊 Loaded {len(bronze_records):,} bronze records")
@@ -72,21 +80,47 @@ class BronzeToGoldProcessor:
                 self.stats['silver_invalid'] += 1
                 continue
             
+            # Extract data từ osm_raw.element
+            osm_raw = record.get('osm_raw', {})
+            element = osm_raw.get('element', {})
+            tags = element.get('tags', {})
+            
+            # Get location from element
+            location = record.get('location', {})
+            if not location and element:
+                if element.get('lat') and element.get('lon'):
+                    location = {'lat': element['lat'], 'lon': element['lon']}
+                elif element.get('center'):
+                    location = {'lat': element['center']['lat'], 'lon': element['center']['lon']}
+            
             # Normalize to silver format
             silver_record = {
+                'u_key': record.get('u_key'),
                 'poi_id': record.get('poi_id'),
-                'name': record.get('name', '').strip(),
+                'name': record.get('name', '').strip() or tags.get('name', 'Unknown'),
                 'category': record.get('category', 'unknown'),
                 'city': record.get('city', 'unknown'),
-                'country': record.get('country', 'VN'),
-                'location': record.get('location', {}),
-                'address': record.get('address', ''),
+                'city_name': record.get('city_name'),
+                'country': record.get('country', 'Vietnam'),
+                'location': location,
+                'address': record.get('address') or tags.get('addr:street') or tags.get('addr:full'),
+                'phone': record.get('phone') or tags.get('phone'),
+                'website': record.get('website') or tags.get('website'),
+                'opening_hours': tags.get('opening_hours'),
                 'rating': record.get('rating'),
                 'review_count': record.get('review_count', 0),
                 'google_place_id': record.get('google_place_id'),
-                'types': record.get('types', []),
-                '_sources': [record.get('_source', 'unknown')],
-                '_collected_at': record.get('_collected_at'),
+                'osm_id': record.get('osm_id'),
+                'osm_type': record.get('osm_type'),
+                'osm_tags': tags,
+                'has_google_data': record.get('has_google_data', False),
+                # Lưu reference đến raw data
+                '_raw_refs': {
+                    'osm_raw_element_id': str(element.get('id')) if element else None,
+                    'bronze_pois_u_key': record.get('u_key')
+                },
+                '_sources': record.get('data_sources', [record.get('_source', 'osm')]),
+                '_collected_at': record.get('created_at'),
                 '_processed_at': datetime.now().isoformat(),
                 '_layer': 'silver'
             }

@@ -1,18 +1,60 @@
 # SMART TOURISM DATA PLATFORM - RECOMMENDED DIRECTORY STRUCTURE
 
-**Version:** 1.0  
+**Version:** 2.0  
 **Created:** May 2026  
-**Based on:** Enterprise Data Platform Best Practices
+**Updated:** May 10, 2026  
+**Status:** ✅ Dynamic Plugin Architecture (Truly Extensible)
+
+---
+
+> **🎉 MAJOR UPDATE (May 10, 2026):** System transformed from **Hardcoded** → **Truly Dynamic Plugin Architecture**
+> 
+> **Key Achievement:** Add unlimited data sources via API without code changes!
+> 
+> - Before: Fixed 2 sources (OSM, Google) - Code required to add more
+> - After: Unlimited sources via Plugin System - Just API call!
+> 
+> **See:** `docs/PLUGIN_SYSTEM.md` for complete plugin documentation
 
 ---
 
 ## 🎯 OVERVIEW
 
-Đây là cấu trúc thư mục được đề xuất cho Smart Tourism Data Platform, được thiết kế theo chuẩn enterprise với focus vào:
-- **Scalability** - Hỗ trợ multi-source, multi-city scaling
-- **Maintainability** - Clear separation of concerns
-- **Observability** - Comprehensive monitoring và logging
-- **Production Readiness** - Deployment và operations ready
+Đây là cấu trúc thư mục được đề xuất cho Smart Tourism Data Platform, được thiết kế theo chuẩn enterprise với **Dynamic Plugin Architecture**:
+
+- **🔌 Dynamic Extensibility** - Thêm nguồn dữ liệu mới qua API, không cần code
+- **📦 Plugin-Based** - Base interfaces cho collectors và transformers
+- **⚡ Hot-Swappable** - Register/unregister plugins runtime
+- **🌍 Multi-Source** - Unlimited data sources (OSM, Google, TripAdvisor, Yelp, ...)
+- **🏗️ Scalability** - Hỗ trợ multi-source, multi-city scaling
+- **🔧 Maintainability** - Clear separation via plugin system
+- **📊 Observability** - Comprehensive monitoring và logging
+- **🚀 Production Ready** - Deployment và operations ready
+
+---
+
+## 🆚 Architecture Evolution
+
+### Before (Hardcoded) ❌
+```
+src/collectors/
+├── osm_collector.py          # Static
+├── google_places_collector.py # Static
+└── __init__.py               # __all__ = [2 sources only]
+```
+
+### After (Dynamic) ✅
+```
+src/plugins/                  # Dynamic plugin system
+├── base.py                   # Base interfaces
+├── registry.py               # Plugin registry (MongoDB-backed)
+├── loader.py                 # Dynamic loader
+└── collectors/               # Plugin implementations
+    ├── __init__.py
+    ├── tripadvisor_collector.py  # Example plugin
+    ├── yelp_collector.py        # Future plugin
+    └── custom/                  # User-defined plugins
+```
 
 ---
 
@@ -36,9 +78,14 @@ smart-tourism-platform/
 │   ├── SMART_TOURISM_SCHEMAS.json
 │   ├── SMART_TOURISM_CHEATSHEET.md
 │   ├── RECOMMENDED_STRUCTURE.md           # This file
+│   ├── PLUGIN_SYSTEM.md                   # ⭐ Plugin architecture guide
+│   ├── PLUGIN_IMPLEMENTATION_SUMMARY.md   # ⭐ Implementation details
 │   ├── api/                               # API documentation
 │   │   ├── openapi.yaml                   # OpenAPI spec
-│   │   └── postman_collection.json        # Postman collection
+│   │   ├── postman_collection.json        # Postman collection
+│   │   └── plugins/                       # ⭐ Plugin API docs
+│   │       ├── plugin_registration.md
+│   │       └── source_configuration.md
 │   └── deployment/                        # Deployment guides
 │       ├── docker.md                      # Docker deployment
 │       ├── kubernetes.md                  # K8s deployment
@@ -48,15 +95,43 @@ smart-tourism-platform/
 │   ├── __init__.py
 │   ├── main.py                            # Application entry point
 │   │
+│   ├── 📁 plugins/                        # 🔌 PLUGIN SYSTEM (⭐ NEW)
+│   │   ├── __init__.py                    # Package exports
+│   │   ├── base.py                        # Base interfaces
+│   │   │                                  #   - BasePlugin
+│   │   │                                  #   - BaseCollector
+│   │   │                                  #   - BaseTransformer
+│   │   │                                  #   - BaseEnricher
+│   │   ├── registry.py                    # PluginRegistry
+│   │   │                                  #   - In-memory storage
+│   │   │                                  #   - MongoDB persistence
+│   │   ├── loader.py                      # Dynamic loader
+│   │   │                                  #   - Load from modules
+│   │   │                                  #   - Load from files
+│   │   │                                  #   - Load from database
+│   │   └── collectors/                    # Collector plugins
+│   │       ├── __init__.py
+│   │       ├── tripadvisor_collector.py   # Example: TripAdvisor
+│   │       ├── yelp_collector.py          # Future: Yelp
+│   │       └── custom/                    # User plugins
+│   │           ├── README.md              # Custom plugin guide
+│   │           └── .gitkeep                 # Preserve directory
+│   │
 │   ├── 📁 api/                            # 🌐 API Layer
 │   │   ├── __init__.py
 │   │   ├── routes/                        # API endpoints
 │   │   │   ├── __init__.py
 │   │   │   ├── pipeline_management.py      # Pipeline control APIs
+│   │   │   ├── pipeline_minio.py          # ⭐ MinIO pipeline APIs
 │   │   │   ├── data_query.py              # Data query APIs
 │   │   │   ├── monitoring.py              # Monitoring APIs
 │   │   │   ├── health.py                  # Health check APIs
-│   │   │   └── admin.py                  # Admin APIs
+│   │   │   ├── admin.py                   # Admin APIs
+│   │   │   ├── auth.py                    # Authentication APIs
+│   │   │   └── plugins.py                 # ⭐ PLUGIN MANAGEMENT APIs
+│   │   │                                    #   - POST /plugins (register)
+│   │   │                                    #   - GET /plugins (list)
+│   │   │                                    #   - POST /plugins/sources (config)
 │   │   ├── schemas/                       # Pydantic models
 │   │   │   ├── __init__.py
 │   │   │   ├── pipeline.py                # Pipeline schemas
@@ -145,35 +220,41 @@ smart-tourism-platform/
 │   │   ├── pipeline_config.json          # Main pipeline config
 │   │   ├── cities.json                    # Cities configuration
 │   │   ├── poi_types.json                 # POI types configuration
-│   │   └── sources.json                   # Data sources configuration
+│   │   └── sources.json                   # ⭐ Dynamic source configs (via API)
+│   │                                        # Sources registered via plugin API
 │   │
-│   ├── 📁 ingestion/                     # 📥 Data Ingestion
+│   ├── 📁 ingestion/                     # 📥 Data Ingestion (DYNAMIC)
 │   │   ├── __init__.py
-│   │   ├── osm_ingestion.py               # OSM ingestion engine
-│   │   ├── google_ingestion.py            # Google ingestion engine
-│   │   ├── tripadvisor_ingestion.py       # TripAdvisor ingestion
-│   │   └── base_ingestion.py             # Base ingestion class
+│   │   ├── base_ingestion.py              # ⭐ Base ingestion (plugin-aware)
+│   │   ├── plugin_ingestion.py            # ⭐ Dynamic plugin ingestion
+│   │   ├── osm_ingestion.py               # OSM ingestion (uses plugin)
+│   │   └── google_ingestion.py            # Google ingestion (uses plugin)
+│   │                                        # New sources: NO CODE NEEDED
+│   │                                        # Just register plugin via API!
 │   │
-│   ├── 📁 bronze/                        # 🥉 Bronze Layer Processing
+│   ├── 📁 bronze/                        # 🥉 Bronze Layer (SOURCE-AGNOSTIC)
 │   │   ├── __init__.py
-│   │   ├── osm_processor.py               # OSM bronze processor
-│   │   ├── google_processor.py            # Google bronze processor
-│   │   ├── tripadvisor_processor.py       # TripAdvisor bronze processor
-│   │   └── base_processor.py             # Base processor class
+│   │   ├── base_processor.py              # ⭐ Source-agnostic processor
+│   │   ├── plugin_processor.py            # ⭐ Dynamic processor
+│   │   ├── osm_processor.py               # OSM via plugin
+│   │   └── google_processor.py            # Google via plugin
+│   │                                        # New source → auto-available
 │   │
-│   ├── 📁 silver/                        # 🥈 Silver Layer Processing
+│   ├── 📁 silver/                        # 🥈 Silver Layer (UNIVERSAL)
 │   │   ├── __init__.py
-│   │   ├── silver_processor.py            # Silver processor
-│   │   ├── deduplication.py              # Deduplication logic
-│   │   ├── normalization.py              # Data normalization
-│   │   └── validation.py                  # Data validation
+│   │   ├── silver_processor.py            # Universal silver processor
+│   │   ├── deduplication.py              # Source-agnostic dedup
+│   │   ├── normalization.py              # Universal normalization
+│   │   └── validation.py                  # Schema validation
+│   │                                        # Works with ANY plugin source
 │   │
-│   ├── 📁 gold/                          # 🥇 Gold Layer Processing
+│   ├── 📁 gold/                          # 🥇 Gold Layer (UNIFIED)
 │   │   ├── __init__.py
-│   │   ├── gold_processor.py              # Gold processor
-│   │   ├── enrichment.py                  # Data enrichment
-│   │   ├── aggregation.py                 # Data aggregation
-│   │   └── indexing.py                    # Index creation
+│   │   ├── gold_processor.py              # Universal gold processor
+│   │   ├── enrichment.py                  # Plugin-based enrichment
+│   │   ├── aggregation.py                 # Multi-source aggregation
+│   │   └── indexing.py                    # Search index creation
+│   │                                        # Merges ALL plugin sources
 │   │
 │   ├── 📁 shared/                        # 🔗 Shared Components
 │   │   ├── __init__.py
@@ -182,6 +263,13 @@ smart-tourism-platform/
 │   │   ├── config.py                      # Shared configuration
 │   │   └── constants.py                   # Constants
 │   │
+│   ├── 📁 collectors/                    # 📥 BUILT-IN COLLECTORS
+│   │   ├── __init__.py                    # Exports OSM + Google
+│   │   ├── osm_collector.py               # OSM (now plugin-compatible)
+│   │   ├── google_places_collector.py     # Google Places (plugin-compatible)
+│   │   └── base_collector.py              # Legacy base (deprecated)
+│   │                                        # → Use src/plugins/base.py instead
+│   │
 │   ├── 📁 validators/                     # ✅ Data Validation
 │   │   ├── __init__.py
 │   │   ├── data_validator.py              # Data validator
@@ -189,18 +277,21 @@ smart-tourism-platform/
 │   │   ├── quality_validator.py           # Quality validator
 │   │   └── geo_validator.py               # Geospatial validator
 │   │
-│   ├── 📁 enrichment/                     # 🎯 Data Enrichment
+│   ├── 📁 enrichment/                     # 🎯 Data Enrichment (PLUGIN-BASED)
 │   │   ├── __init__.py
+│   │   ├── base_enrichment.py             # ⭐ Base enricher interface
 │   │   ├── geospatial_enrichment.py       # Geospatial enrichment
 │   │   ├── rating_enrichment.py           # Rating enrichment
 │   │   ├── category_enrichment.py         # Category enrichment
-│   │   └── business_enrichment.py         # Business scoring
+│   │   ├── business_enrichment.py         # Business scoring
+│   │   └── custom/                        # ⭐ Custom enrichers
+│   │       └── .gitkeep
 │   │
 │   ├── 📁 orchestration/                  # 🎼 Pipeline Orchestration
 │   │   ├── __init__.py
-│   │   ├── pipeline_orchestrator.py       # Main orchestrator
+│   │   ├── pipeline_orchestrator.py       # Plugin-aware orchestrator
 │   │   ├── scheduler.py                   # Pipeline scheduler
-│   │   ├── executor.py                    # Pipeline executor
+│   │   ├── executor.py                    # Plugin-based executor
 │   │   └── monitoring.py                  # Pipeline monitoring
 │   │
 │   └── 📁 monitoring/                     # 📊 Pipeline Monitoring
@@ -211,24 +302,29 @@ smart-tourism-platform/
 │       └── alerting.py                    # Alert management
 │
 ├── 📁 storage/                           # 💾 Data Storage
-│   ├── 📁 bronze/                         # 🥉 Bronze Layer
-│   │   └── 📁 osm/                       # OSM raw data
-│   │       ├── 📁 {city}/                 # City-specific data
-│   │       │   └── 📁 {category}/         # Category-specific data
-│   │       │       └── raw_{timestamp}.json
-│   │       └── 📁 google/                 # Google raw data
-│   │           └── 📁 {city}/
-│   │               └── 📁 {category}/
+│   ├── 📁 bronze/                         # 🥉 Bronze Layer (SOURCE-AGNOSTIC)
+│   │   ├── 📁 {source}/                   # ⭐ Dynamic source folder
+│   │   │   ├── 📁 {city}/                 # City-specific
+│   │   │   │   └── 📁 {category}/         # Category-specific
+│   │   │   │       └── raw_{timestamp}.json
+│   │   │   └── 📁 metadata/              # Source metadata
+│   │   ├── 📁 osm/                       # OSM (example)
+│   │   ├── 📁 google/                    # Google (example)
+│   │   └── 📁 {new_source}/              # ⭐ NEW sources auto-created
+│   │                                        # Via plugin API registration
 │   │
-│   ├── 📁 silver/                         # 🥈 Silver Layer
-│   │   └── 📁 osm/                       # OSM processed data
-│   │       ├── 📁 {city}/
-│   │       │   └── 📁 {category}/
-│   │       │       └── processed_{timestamp}.parquet
-│   │       └── 📁 google/                 # Google processed data
+│   ├── 📁 silver/                         # 🥈 Silver Layer (UNIVERSAL)
+│   │   ├── 📁 {source}/                   # ⭐ Source subfolder
+│   │   │   └── 📁 {city}/
+│   │   │       └── processed_{timestamp}.parquet
+│   │   ├── 📁 osm/                       # OSM processed
+│   │   ├── 📁 google/                    # Google processed
+│   │   └── 📁 unified/                    # ⭐ Multi-source unified data
+│   │       └── 📁 {city}/
+│   │           └── all_sources_{date}.parquet
 │   │
-│   ├── 📁 gold/                           # 🥇 Gold Layer
-│   │   ├── 📁 master_poi/                 # Unified POI data
+│   ├── 📁 gold/                           # 🥇 Gold Layer (AGGREGATED)
+│   │   ├── 📁 master_poi/                 # Unified POI (all sources)
 │   │   │   └── 📁 {city}/
 │   │   │       └── master_poi_{date}.parquet
 │   │   ├── 📁 poi_reviews/               # Aggregated reviews
@@ -549,11 +645,191 @@ docker build -f deployment/docker/Dockerfile -t smart-tourism-platform .
 
 ---
 
-## 📚 DOCUMENTATION STRATEGY
+## � DYNAMIC PLUGIN SYSTEM (⭐ NEW in v2.0)
+
+### **Architecture Overview**
+
+Hệ thống giờ đây sử dụng **Plugin-Based Architecture**, cho phép mở rộng không giới hạn:
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                      PLUGIN REGISTRY                                 │
+│  ┌─────────────────────────────────────────────────────────────────┐ │
+│  │  Registered Sources (DYNAMIC via API)                          │ │
+│  │  ├─ osm (built-in)                                            │ │
+│  │  ├─ google_places (built-in)                                  │ │
+│  │  ├─ tripadvisor (registered via API) ⭐ NEW                   │ │
+│  │  ├─ yelp (registered via API) ⭐ NEW                         │ │
+│  │  └─ custom_source (user-defined) ⭐ NEW                       │ │
+│  └─────────────────────────────────────────────────────────────────┘ │
+└─────────────────────────────────────────────────────────────────────┘
+                                    │
+                                    │ Dynamic Loading
+                                    ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│                    UNIVERSAL PIPELINE                                │
+│  Source-Agnostic Processing (works with ANY registered source)      │
+│  ├─ Ingestion → Bronze → Silver → Gold                             │
+│  ├─ Deduplication (multi-source aware)                             │
+│  ├─ Enrichment (plugin-based transformers)                          │
+│  └─ Aggregation (unified master POI)                              │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### **Plugin System Structure**
+
+```
+src/plugins/                           # 🔌 Plugin System Root
+│
+├── base.py                            # ⭐ Base Interfaces
+│   ├── BasePlugin                     #   Abstract base
+│   ├── BaseCollector                  #   Data source interface
+│   ├── BaseTransformer                #   Data transform interface
+│   └── BaseEnricher                   #   Data enrich interface
+│
+├── registry.py                        # ⭐ Plugin Registry
+│   ├── PluginRegistry                 #   Central registry
+│   ├── register_collector()           #   Register new source
+│   ├── get_collector()                #   Load plugin instance
+│   └── initialize_plugins()           #   Startup initialization
+│
+├── loader.py                          # ⭐ Dynamic Loader
+│   ├── load_from_module()             #   Load from Python module
+│   ├── load_from_file()               #   Load from file
+│   └── load_from_database()           #   Load from MongoDB
+│
+└── collectors/                          # Plugin Implementations
+    ├── __init__.py
+    ├── tripadvisor_collector.py       #   Example: TripAdvisor
+    ├── yelp_collector.py              #   Future: Yelp
+    └── custom/                        #   ⭐ User plugins
+        ├── README.md                  #     How to create custom plugin
+        └── .gitkeep
+```
+
+### **API Endpoints (8 New Endpoints)**
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| `GET` | `/api/v1/plugins` | List all registered plugins |
+| `POST` | `/api/v1/plugins` | ⭐ **Register new plugin** |
+| `GET` | `/api/v1/plugins/{id}` | Get plugin details |
+| `DELETE` | `/api/v1/plugins/{id}` | Unregister plugin |
+| `POST` | `/api/v1/plugins/{id}/test` | Test plugin connection |
+| `GET` | `/api/v1/plugins/sources` | List configured sources |
+| `POST` | `/api/v1/plugins/sources` | ⭐ **Create source instance** |
+| `POST` | `/api/v1/plugins/sources/{id}/collect` | ⭐ **Trigger collection** |
+
+### **Adding New Source (No Code Required!)**
+
+**OLD WAY (Hardcoded):**
+```bash
+# 1. Write collector class
+# 2. Add to src/collectors/__init__.py
+# 3. Deploy and restart
+# 4. Total time: 2-4 hours
+```
+
+**NEW WAY (Dynamic via API):**
+```bash
+# 1. Register plugin via API (30 seconds)
+curl -X POST "http://localhost:8000/api/v1/plugins" \
+  -H "Authorization: Bearer $TOKEN" \
+  -d '{
+    "plugin_id": "tripadvisor",
+    "plugin_type": "source",
+    "name": "TripAdvisor Collector",
+    "class_path": "src.plugins.collectors.tripadvisor_collector.TripAdvisorCollector",
+    "config_schema": {
+      "api_key": {"type": "string", "required": true},
+      "rate_limit": {"type": "integer", "default": 100}
+    }
+  }'
+
+# 2. Create source instance
+curl -X POST "http://localhost:8000/api/v1/plugins/sources" \
+  -d '{
+    "source_id": "tripadvisor_hanoi",
+    "plugin_id": "tripadvisor",
+    "name": "TripAdvisor Hanoi",
+    "config": {"api_key": "YOUR_KEY"}
+  }'
+
+# 3. Start collecting!
+curl -X POST "http://localhost:8000/api/v1/plugins/sources/tripadvisor_hanoi/collect?city=hanoi&category=restaurant"
+
+# Total time: 2 minutes! ⚡
+```
+
+### **Creating Custom Plugin**
+
+**Step 1: Implement BaseCollector**
+```python
+# src/plugins/collectors/my_custom_collector.py
+from src.plugins.base import BaseCollector
+from typing import Dict, List, Any
+
+class MyCustomCollector(BaseCollector):
+    @property
+    def plugin_name(self) -> str:
+        return "my_custom_source"
+    
+    @property
+    def plugin_version(self) -> str:
+        return "1.0.0"
+    
+    async def validate_config(self, config: Dict) -> bool:
+        required = ["api_endpoint", "api_key"]
+        return all(k in config for k in required)
+    
+    async def collect(self, city: str, category: str, **kwargs) -> List[Dict]:
+        # Your collection logic
+        data = await self._fetch_from_api(city, category)
+        return data
+```
+
+**Step 2: Register via API**
+```bash
+curl -X POST "http://localhost:8000/api/v1/plugins" \
+  -d '{"plugin_id": "my_custom_source", ...}'
+```
+
+**Done!** 🎉 No deployment needed!
+
+### **Storage Structure (Source-Agnostic)**
+
+Storage folders are **auto-created** when new sources are registered:
+
+```
+storage/
+├── bronze/
+│   ├── osm/                    # Built-in
+│   ├── google/                 # Built-in
+│   └── {new_source}/           # ⭐ Auto-created on plugin registration!
+│       └── hanoi/
+│           └── restaurant/
+│               └── raw_20260510.json
+```
+
+### **Benefits of Dynamic Architecture**
+
+| Aspect | Before (Hardcoded) | After (Dynamic) |
+|--------|-------------------|-----------------|
+| **Add new source** | 2-4 hours (code+deploy) | 2 minutes (API call) |
+| **Source limit** | Fixed (2 sources) | Unlimited |
+| **Developer needed** | Yes | No (for configuration) |
+| **Hot-swap** | No (restart required) | Yes (runtime registration) |
+| **Testing** | Manual deploy | API test endpoint |
+| **Extensibility** | Low | High |
+
+---
+
+## �� DOCUMENTATION STRATEGY
 
 ### **Documentation Types**
 - **API Documentation** - OpenAPI specs in `docs/api/`
 - **Architecture Documentation** - Design documents in `docs/`
+- **Plugin Development Guide** - `docs/PLUGIN_SYSTEM.md` ⭐
 - **Deployment Guides** - Step-by-step guides in `docs/deployment/`
 - **Code Documentation** - Inline comments and docstrings
 
@@ -562,6 +838,7 @@ docker build -f deployment/docker/Dockerfile -t smart-tourism-platform .
 - **Version-controlled** documentation with Git
 - **Review process** for documentation changes
 - **Regular updates** to match code changes
+- **Plugin docs** auto-updated from plugin registry
 
 ---
 

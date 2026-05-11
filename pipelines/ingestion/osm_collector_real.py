@@ -107,6 +107,83 @@ class OSMCollectorReal:
         logger.info(f"Total collected: {len(records)} unique POIs for {city}/{category}")
         return records
     
+    def collect_with_raw(
+        self,
+        city: str,
+        category: str,
+        lat: float,
+        lng: float,
+        radius: int = 5000
+    ) -> Dict[str, Any]:
+        """
+        Collect real POIs from OSM và trả về kèm raw data.
+        
+        Returns:
+            Dict với keys: records, query, endpoint, raw_response
+        """
+        # Rate limiting
+        self._wait_for_rate_limit()
+        
+        # Map category to OSM tags
+        osm_tags = self._get_osm_tags(category)
+        
+        all_elements = []
+        all_queries = []
+        all_responses = []
+        
+        for tag_key, tag_values in osm_tags.items():
+            for tag_value in tag_values:
+                try:
+                    # Build Overpass query
+                    query = self._build_overpass_query(city, tag_key, tag_value)
+                    all_queries.append(query)
+                    
+                    # Execute query
+                    data = self._execute_query(query, city)
+                    
+                    if data and "elements" in data:
+                        all_elements.extend(data["elements"])
+                        all_responses.append(data)
+                        logger.info(f"Found {len(data['elements'])} {category} elements in {city}")
+                    
+                    # Rate limiting
+                    time.sleep(self.min_request_interval)
+                    
+                except Exception as e:
+                    logger.warning(f"Error collecting {tag_key}={tag_value}: {e}")
+                    continue
+        
+        # Remove duplicates
+        unique_elements = self._deduplicate_elements(all_elements)
+        
+        # Build combined raw response
+        combined_response = {
+            "version": 0.6,
+            "generator": "Overpass API",
+            "elements": unique_elements
+        }
+        
+        # Join all queries
+        combined_query = "\n".join(all_queries)
+        
+        return {
+            "records": unique_elements,
+            "query": combined_query,
+            "endpoint": self.overpass_url,
+            "raw_response": combined_response,
+            "city": city,
+            "category": category
+        }
+    
+    def _deduplicate_elements(self, elements: List[Dict]) -> List[Dict]:
+        """Remove duplicate elements by OSM ID."""
+        seen = {}
+        for element in elements:
+            key = f"{element.get('type')}_{element.get('id')}"
+            if key not in seen:
+                seen[key] = element
+        return list(seen.values())
+    
     def _wait_for_rate_limit(self):
         """Wait if needed to respect rate limits."""
         current_time = time.time()

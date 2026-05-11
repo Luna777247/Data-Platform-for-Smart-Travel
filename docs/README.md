@@ -87,6 +87,36 @@ This package contains comprehensive architecture and design documentation for th
      - Index commands
      - Troubleshooting checklist
 
+#### 6. **MONGODB_PIPELINE.md** (15 KB) ⭐⭐ NEW
+   - **Simplified MongoDB-only 3-layer architecture**
+   - All layers (Bronze/Silver/Gold) in MongoDB
+   - Direct MongoDB query access
+   - Easy backup and export
+   - API endpoints for pipeline operations
+   - **Best for:** Understanding simplified storage
+   - **Sections:**
+     - Architecture overview
+     - Schema definitions for each layer
+     - MongoDB query examples
+     - Export/import guide
+     - API usage examples
+
+#### 7. **PLUGIN_SYSTEM.md** (15 KB) ⭐⭐ NEW
+   - **Dynamic Plugin Architecture** for truly extensible system
+   - Plugin registration and management via API
+   - Base interfaces: BaseCollector, BaseTransformer
+   - Plugin Registry (MongoDB-backed)
+   - Dynamic loading and hot-swapping
+   - Example: TripAdvisor collector implementation
+   - **Best for:** Developers adding new data sources
+   - **Sections:**
+     - Plugin architecture overview
+     - Base class interfaces
+     - API endpoints for plugin management
+     - Source configuration guide
+     - Plugin development tutorial
+     - Migration from hardcoded to dynamic
+
 ---
 
 ## 🏗️ Architecture Overview
@@ -100,17 +130,51 @@ External Sources (OSM, Google Places, TripAdvisor)
            ↓
    Dynamic Orchestration Engine
            ↓
-   ┌─────────────────────────────────────┐
-   │  Bronze/Silver/Gold Lakehouse       │
-   │  ├─ Bronze: Raw JSON                │
-   │  ├─ Silver: Standardized Parquet    │
-   │  └─ Gold: Business-Ready Data       │
-   └─────────────────────────────────────┘
-           ↓
-   MongoDB Collections + Indexes
+   ┌─────────────────────────────────────────────────────┐
+   │      THREE-LAYER STORAGE (MongoDB Only)            │
+   │                                                     │
+   │  🥉 Bronze Layer (MongoDB Collection)               │
+   │     └─ Collection: bronze_records                  │
+   │     └─ Raw API responses                           │
+   │                                                     │
+   │  🥈 Silver Layer (MongoDB Collection)               │
+   │     └─ Collection: silver_pois                      │
+   │     └─ Cleaned & normalized data                   │
+   │                                                     │
+   │  🥇 Gold Layer (MongoDB Collection)                 │
+   │     └─ Collection: gold_master_pois                 │
+   │     └─ Enriched, production-ready                  │
+   └─────────────────────────────────────────────────────┘
            ↓
    REST APIs / Analytics / AI/ML Features
 ```
+
+### NEW: Simplified MongoDB Pipeline (May 2026)
+
+**Kiến trúc mới** - Tất cả layers trong MongoDB:
+- **Bronze**: `bronze_records` collection - Raw API responses
+- **Silver**: `silver_pois` collection - Cleaned & normalized
+- **Gold**: `gold_master_pois` collection - Production-ready
+
+| Layer | Collection | Format | Use Case |
+|-------|-----------|--------|----------|
+| **Bronze** | `bronze_records` | BSON documents | Raw API responses |
+| **Silver** | `silver_pois` | BSON documents | Cleaned, searchable data |
+| **Gold** | `gold_master_pois` | BSON documents | Production-ready master data |
+
+**Lợi ích:**
+- ✅ **Simple**: Chỉ 1 database (MongoDB)
+- ✅ **Easy Query**: MongoDB queries cho mọi layer
+- ✅ **Easy Backup**: Backup 1 nơi
+- ✅ **Fast Transform**: Không chuyển đổi storage systems
+
+**API Endpoints:**
+- `POST /api/v1/pipeline/bronze/collect` → Collect to MongoDB
+- `POST /api/v1/pipeline/bronze-to-silver` → Transform Bronze → Silver
+- `POST /api/v1/pipeline/silver-to-gold` → Transform Silver → Gold
+- `GET /api/v1/pipeline/layers/stats` → View all layers stats
+
+📖 **Chi tiết:** Xem [MONGODB_PIPELINE.md](./MONGODB_PIPELINE.md)
 
 ### Key Features
 
@@ -119,10 +183,10 @@ External Sources (OSM, Google Places, TripAdvisor)
 - Checkpoint-based recovery
 - Automatic retry with exponential backoff
 
-✅ **Three-Layer Data Lakehouse**
-- Bronze: Store raw API responses
-- Silver: Normalize and validate data
-- Gold: Unified, enriched, indexed data
+✅ **Three-Layer Data Lakehouse (MongoDB)**
+- Bronze: `bronze_records` - Store raw API responses
+- Silver: `silver_pois` - Normalize and validate data
+- Gold: `gold_master_pois` - Unified, enriched, indexed data
 
 ✅ **Multi-Source Data Unification**
 - Entity resolution and deduplication
@@ -143,21 +207,76 @@ External Sources (OSM, Google Places, TripAdvisor)
 
 ## 📊 Data Model Quick Reference
 
-### Master POI Document
+### Bronze Layer (MinIO) - Raw Data
+```json
+{
+  "u_key": "05b30c17164df56e",
+  "original_osm_name": "Quán Quốc Trung",
+  "city": "hanoi",
+  "category": "restaurant",
+  "harvested_at": "2026-05-10T15:18:37.324532",
+  "search_params": {
+    "lat": 21.0278,
+    "lng": 105.8342,
+    "radius": 2000,
+    "type": "restaurant"
+  },
+  "google_raw": {
+    "id": "ChIJ...",
+    "displayName": {"text": "Place Name"},
+    "location": {"latitude": 21.0, "longitude": 105.8},
+    "formattedAddress": "123 Street, Hanoi",
+    "rating": 4.5,
+    "userRatingCount": 1234,
+    "types": ["restaurant", "food"],
+    "photos": [...],
+    "priceLevel": "PRICE_LEVEL_MODERATE"
+  }
+}
+// Stored in MinIO: bronze/google/hanoi/restaurant/20260510_143022_a1b2c3.json
+```
+
+### Silver Layer (MongoDB) - Cleaned Data
 ```javascript
 {
-  poi_id: "poi_tokyo_001",
-  name: "Tokyo Tower",
-  city: "tokyo",
-  category: "tourist_attraction",
-  location: { type: "Point", coordinates: [139.7454, 35.6586] },
-  rating: { overall: 4.7, osm: 4.5, google: 4.8 },
-  review_count: 25000,
-  sources: ["osm", "google_places", "tripadvisor"],
-  business_score: 0.92,
-  search_keywords: ["tokyo tower", "japan landmark"],
-  tags: ["landmark", "photo_spot", "tourist"],
-  updated_at: ISODate("2026-05-08T10:00:00Z")
+  "_id": ObjectId("..."),
+  "place_id": "ChIJ...",
+  "u_key": "05b30c17164df56e",
+  "name": "Place Name",
+  "city": "hanoi",
+  "location": { "lat": 21.0, "lng": 105.8 },
+  "address": "123 Street, Hanoi",
+  "category": "restaurant",
+  "types": ["restaurant", "food"],
+  "rating": 4.5,
+  "user_rating_count": 1234,
+  "price_level": 2,
+  "photos": ["url1", "url2"],
+  "image_url": "main_photo_url",
+  "_source": "google_places",
+  "_bronze_path": "bronze/google/hanoi/restaurant/...",
+  "_collected_at": "2026-05-10T15:18:37",
+  "_transformed_at": "2026-05-10T16:00:00",
+  "layer": "silver"
+}
+```
+
+### Gold Layer (MongoDB) - Master Data
+```javascript
+{
+  "_id": ObjectId("..."),
+  "poi_id": "gold_ChIJ...",
+  "place_id": "ChIJ...",
+  // ... (all Silver fields)
+  "layer": "gold",
+  "quality_score": 0.85,
+  "data_completeness": 0.92,
+  "subcategory": "vietnamese_restaurant",
+  "review_count": 1234,
+  "is_active": true,
+  "verified": false,
+  "created_at": ISODate("2026-05-10T16:00:00Z"),
+  "updated_at": ISODate("2026-05-10T16:00:00Z")
 }
 ```
 
@@ -165,19 +284,19 @@ External Sources (OSM, Google Places, TripAdvisor)
 ```javascript
 {
   execution_id: "exec_20260508_120000",
-  pipeline_name: "osm_pipeline",
+  pipeline_name: "minio_pipeline",
   status: "COMPLETED",
   records: {
-    total_processed: 15000,
-    successfully_processed: 14968,
-    failed: 32,
-    error_rate: 0.21
+    bronze_collected: 4452,
+    silver_transformed: 3200,
+    gold_enriched: 3100,
+    error_rate: 0.03
   },
   duration_ms: 360000,
-  artifacts: {
-    bronze_location: "s3://bucket/bronze/osm/2026-05-08/",
-    silver_location: "s3://bucket/silver/osm/2026-05-08/",
-    gold_location: "s3://bucket/gold/2026-05-08/"
+  storage: {
+    bronze_bucket: "smart-travel-bronze",
+    silver_collection: "silver_pois",
+    gold_collection: "gold_master_pois"
   }
 }
 ```
@@ -329,15 +448,18 @@ db.pipeline_execution.find({ pipeline_name: "osm_pipeline" })
 
 ## 📚 Technology Stack
 
-- **Orchestration:** Apache Airflow
-- **Processing:** Apache Spark / Pandas
-- **Storage:** S3/GCS (Lakehouse) + MongoDB
-- **Formats:** JSON (Bronze), Parquet (Silver/Gold)
-- **APIs:** FastAPI / REST
-- **Search:** Elasticsearch (optional)
-- **Monitoring:** Prometheus + Grafana
-- **Logging:** ELK Stack
-- **Deployment:** Docker + Kubernetes
+| Component | Technology | Purpose |
+|-----------|------------|---------|
+| **Orchestration** | Apache Airflow | Pipeline scheduling |
+| **Processing** | Apache Spark / Pandas | Data transformation |
+| **Bronze Storage** | MinIO (S3-compatible) | Raw JSON files |
+| **Silver/Gold Storage** | MongoDB | Cleaned, indexed data |
+| **API Framework** | FastAPI | REST endpoints |
+| **Formats** | JSON (Bronze), BSON (Silver/Gold) | Data serialization |
+| **Search** | MongoDB Text/Geo | Full-text & geospatial |
+| **Monitoring** | Prometheus + Grafana | Metrics & dashboards |
+| **Logging** | ELK Stack | Centralized logging |
+| **Deployment** | Docker + Kubernetes | Container orchestration |
 
 ---
 
@@ -377,7 +499,17 @@ For questions or issues:
 
 | Date | Version | Status | Changes |
 |------|---------|--------|---------|
-| May 2026 | 1.0 | Final | Initial comprehensive documentation |
+| May 2026 | 1.0 | ✅ Final | Initial comprehensive documentation |
+| May 10, 2026 | 1.1 | ✅ Updated | Added MinIO + MongoDB hybrid architecture |
+
+### Version 1.1 Changes:
+- ⭐ **NEW:** MinIO object storage for Bronze layer
+- ⭐ **NEW:** API endpoints for pipeline operations (`/api/v1/pipeline/*`)
+- ⭐ **NEW:** Service classes: `BronzePipeline`, `SilverGoldPipeline`
+- 🔄 **Updated:** Architecture diagram (Bronze→MinIO, Silver/Gold→MongoDB)
+- 🔄 **Updated:** Data model documentation with 3-layer schemas
+- 🔄 **Updated:** Technology stack with MinIO
+- 📖 **NEW:** Document `MINIO_MONGODB_PIPELINE.md`
 
 ---
 

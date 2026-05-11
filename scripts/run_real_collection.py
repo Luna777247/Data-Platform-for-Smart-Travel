@@ -35,7 +35,7 @@ def get_rapidapi_keys():
 
 
 def collect_osm_data(city, lat, lng, radius=5000, categories=None):
-    """Collect data from OSM Overpass API using fixed collector."""
+    """Collect data from OSM Overpass API và lưu vào bronze_pois với osm_raw."""
     print(f"\n🗺️  Collecting OSM data for {city}...")
     
     # Use the fixed OSM collector
@@ -52,7 +52,7 @@ def collect_osm_data(city, lat, lng, radius=5000, categories=None):
         
         try:
             # Use the fixed collector with correct parameters
-            records = collector.collect(
+            api_response = collector.collect_with_raw(
                 city=city,
                 category=category,
                 lat=lat,
@@ -60,16 +60,55 @@ def collect_osm_data(city, lat, lng, radius=5000, categories=None):
                 radius=radius
             )
             
+            # api_response là dict chứa {records, query, endpoint, raw_response}
+            records = api_response.get("records", [])
+            query = api_response.get("query", "")
+            endpoint = api_response.get("endpoint", "")
+            raw_response = api_response.get("raw_response", {})
+            
             if records:
-                # Add metadata
-                for r in records:
-                    r.update({
-                        "_source": "osm_real",
-                        "_collected_at": datetime.utcnow().isoformat(),
-                        "_batch": "production_v1"
-                    })
+                # Build bronze_pois documents với osm_raw
+                for element in records:
+                    bronze_doc = {
+                        "u_key": f"{city}_{element.get('type')}_{element.get('id')}",
+                        "poi_id": f"osm_{element.get('type')}_{element.get('id')}",
+                        
+                        # RAW OSM DATA
+                        "osm_raw": {
+                            "element": element,
+                            "query": query,
+                            "api_response": raw_response,
+                            "endpoint": endpoint,
+                            "fetched_at": datetime.utcnow().isoformat()
+                        },
+                        "google_raw": None,
+                        
+                        # FLAGS
+                        "has_osm_data": True,
+                        "has_google_data": False,
+                        "data_sources": ["osm"],
+                        
+                        # BASIC INFO (extracted)
+                        "name": element.get("tags", {}).get("name") or element.get("tags", {}).get("name:en"),
+                        "city": city,
+                        "category": category,
+                        "location": {
+                            "lat": element.get("lat") or element.get("center", {}).get("lat"),
+                            "lon": element.get("lon") or element.get("center", {}).get("lon")
+                        },
+                        
+                        # OSM IDs
+                        "osm_id": element.get("id"),
+                        "osm_type": element.get("type"),
+                        
+                        # METADATA
+                        "created_at": datetime.utcnow().isoformat(),
+                        "updated_at": datetime.utcnow().isoformat(),
+                        "_layer": "bronze",
+                        "_source": "osm_real"
+                    }
+                    all_records.append(bronze_doc)
                 
-                all_records.extend(records)
                 print(f"✅ {len(records)}")
             else:
                 print("⚠️  0")
@@ -185,44 +224,36 @@ def collect_google_data(city, lat, lng, radius=2000, categories=None):
     return all_records
 
 
-def save_to_mongodb(osm_data, google_data, city):
-    """Save collected data to MongoDB."""
-    print(f"\n💾 Saving data for {city} to MongoDB...")
+def save_to_bronze_pois(records, db_name="smart_travel_platform"):
+    """Save records to MongoDB bronze_pois collection với osm_raw schema."""
+    if not records:
+        print("⚠️  No records to save")
+        return 0
     
     try:
         mongo_uri = os.getenv(
             "MONGODB_URI",
-            "mongodb://admin:admin123@localhost:27017/smart_travel?authSource=admin"
+            "mongodb+srv://nguyenanhilu9785_db_user:12345@cluster0.olqzq.mongodb.net/smart_travel_platform?appName=Cluster0"
         )
-        
         client = MongoClient(mongo_uri)
-        db = client.smart_travel
+        db = client[db_name]
         
-        # Save OSM data
-        if osm_data:
-            # Clear old data
-            db.bronze_records.delete_many({
-                "_city": city,
-                "_source": "osm_real"
-            })
-            
-            result = db.bronze_records.insert_many(osm_data)
-            print(f"   ✅ OSM: {len(result.inserted_ids)} records")
+        # Insert records vào bronze_pois (với osm_raw, google_raw fields)
+        result = db.bronze_pois.insert_many(records, ordered=False)
+        print(f"💾 Saved {len(result.inserted_ids)} records to MongoDB bronze_pois")
         
-        # Save Google data
-        if google_data:
-            db.bronze_records.delete_many({
-                "_city": city,
-                "_source": "google_real"
-            })
-            
-            result = db.bronze_records.insert_many(google_data)
-            print(f"   ✅ Google: {len(result.inserted_ids)} records")
+        # Update stats
+        total = db.bronze_pois.count_documents({})
+        osm_count = db.bronze_pois.count_documents({"has_osm_data": True})
+        google_count = db.bronze_pois.count_documents({"has_google_data": True})
+        print(f"   📊 Total: {total} | OSM: {osm_count} | Google: {google_count}")
         
         client.close()
+        return len(result.inserted_ids)
         
     except Exception as e:
         print(f"   ❌ MongoDB error: {e}")
+        return 0
 
 
 def main():
@@ -246,7 +277,7 @@ def main():
         print(f"📍 PROCESSING: {city_name.upper()}")
         print(f"{'='*60}")
         
-        # Collect OSM
+        # Collect OSM (trả về bronze_pois structure)
         osm_data = collect_osm_data(
             city=city_name,
             lat=coords["lat"],
@@ -255,7 +286,7 @@ def main():
         )
         total_osm += len(osm_data)
         
-        # Collect Google
+        # Collect Google (trả về bronze_pois structure với google_raw)
         google_data = collect_google_data(
             city=city_name,
             lat=coords["lat"],
@@ -264,8 +295,10 @@ def main():
         )
         total_google += len(google_data)
         
-        # Save to MongoDB
-        save_to_mongodb(osm_data, google_data, city_name)
+        # Combine và save to bronze_pois
+        all_data = osm_data + google_data
+        if all_data:
+            save_to_bronze_pois(all_data)
     
     # Summary
     print("\n" + "=" * 60)
@@ -278,9 +311,10 @@ def main():
     
     if total_osm + total_google > 0:
         print("\n📝 Next steps:")
-        print("   1. Run: python scripts/run_silver_processing.py")
-        print("   2. Run: python scripts/run_gold_processing.py")
-        print("   3. Check API: curl http://localhost:8000/api/v1/data/pois")
+        print("   1. Check raw data: python check_raw_structure.py")
+        print("   2. Enrich Google: python enrich_google_raw.py")
+        print("   3. Bronze → Silver: python scripts/process_all_bronze_to_gold.py")
+        print("   4. Check API: curl http://localhost:8000/api/v1/data/pois")
 
 
 if __name__ == "__main__":

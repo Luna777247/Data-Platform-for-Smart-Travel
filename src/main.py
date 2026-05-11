@@ -52,10 +52,12 @@ from src.core.database import connect_databases, disconnect_databases
 
 # Import API routes
 from src.api.routes import pipeline_management
+from src.api.routes import pipeline_minio  # MinIO + MongoDB pipeline
 from src.api.routes import data_query
 from src.api.routes import monitoring
 from src.api.routes import health
 from src.api.routes import admin
+from src.api.routes import plugins  # Plugin system - dynamic sources
 # from src.api.routes import pipeline_v2  # Commented out due to celery import error
 from src.api.routes import auth
 
@@ -128,6 +130,13 @@ async def lifespan(app: FastAPI):
         logger.info("Setting up database indexes...")
         await _setup_database_indexes()
         logger.info("✅ Database indexes ready")
+        
+        # Khởi tạo plugin system
+        # Dynamic plugin architecture cho data collectors
+        logger.info("🔌 Initializing plugin system...")
+        from src.plugins.registry import initialize_plugins
+        await initialize_plugins()
+        logger.info("✅ Plugin system ready")
         
         # Khởi tạo các background tasks nếu cần
         # Ví dụ: scheduled jobs, cleanup tasks
@@ -336,6 +345,10 @@ async def add_correlation_id(request: Request, call_next):
 # Prefix: /api/v1/pipeline
 app.include_router(pipeline_management.router)
 
+# Đăng ký pipeline MinIO routes (Bronze → MinIO, Silver/Gold → MongoDB)
+# Prefix: /api/v1/pipeline
+app.include_router(pipeline_minio.router)
+
 # Đăng ký pipeline v2 routes (sử dụng PipelineOrchestrator)
 # Prefix: /api/v1/pipeline
 # app.include_router(pipeline_v2.router)  # Commented out due to import error
@@ -367,6 +380,11 @@ app.include_router(admin.router)
 # Prefix: /api/v1/auth
 # Routes: /login, /register, /refresh, /me
 app.include_router(auth.router)
+
+# Đăng ký plugin management routes
+# Prefix: /api/v1/plugins
+# Routes: /plugins, /plugins/sources, /plugins/{id}/test
+app.include_router(plugins.router)
 
 
 # ============================================

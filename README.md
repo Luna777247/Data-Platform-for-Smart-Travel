@@ -39,7 +39,10 @@
 ## 🎯 Tổng Quan
 
 <!-- Giới thiệu về dự án và mục tiêu -->
-Smart Tourism Data Platform là hệ thống data platform enterprise-grade được thiết kế để thu thập, xử lý và phục vụ dữ liệu du lịch thông minh. Hệ thống sử dụng kiến trúc **Data Lakehouse** với 3 layers: Bronze (raw), Silver (cleaned), Gold (enriched).
+Smart Tourism Data Platform là hệ thống data platform enterprise-grade được thiết kế để thu thập, xử lý và phục vụ dữ liệu du lịch thông minh. Hệ thống sử dụng kiến trúc **Hybrid Storage** với:
+- **🥉 Bronze Layer**: MinIO Object Storage (raw JSON files)
+- **🥈 Silver Layer**: MongoDB (cleaned & normalized)  
+- **🥇 Gold Layer**: MongoDB (enriched & production-ready)
 
 ### Key Capabilities
 ### Khả Năng Chính
@@ -81,9 +84,14 @@ Smart Tourism Data Platform là hệ thống data platform enterprise-grade đư
 ┌─────────────────────────────────────────────────────────────────┐
 │                      Data Layer                                │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────────┐  │
-│  │   MongoDB   │  │    Redis    │  │    File Storage       │  │
-│  │   (Main)    │  │   (Cache)   │  │  (Bronze/Silver/Gold) │  │
+│  │   MongoDB   │  │    Redis    │  │    MinIO                │  │
+│  │   (Main)    │  │   (Cache)   │  │  (Bronze Storage)       │  │
 │  └─────────────┘  └─────────────┘  └─────────────────────────┘  │
+│                                                                  │
+│  MongoDB Collections:           MinIO Buckets:                  │
+│  • silver_pois                  • smart-travel-bronze           │
+│  • gold_master_pois                                             │
+│  • places, users, tours                                         │
 └─────────────────────────────────────────────────────────────────┘
                               │
                               ▼
@@ -91,7 +99,8 @@ Smart Tourism Data Platform là hệ thống data platform enterprise-grade đư
 │                    Data Pipeline Layer                         │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────────┐  │
 │  │   Bronze    │  │   Silver    │  │    Gold                 │  │
-│  │  (Raw OSM)  │  │  (Cleaned)  │  │  (Enriched)             │  │
+│  │   (MinIO)   │  │  (MongoDB)  │  │   (MongoDB)             │  │
+│  │  Raw JSON   │  │  Cleaned    │  │   Enriched              │  │
 │  └─────────────┘  └─────────────┘  └─────────────────────────┘  │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -242,6 +251,19 @@ curl http://localhost:8000/api/v1/pipeline/status \
 | GET | `/api/v1/pipeline/dashboard` | Dashboard data |
 | GET | `/api/v1/pipeline/metrics` | Performance metrics |
 | GET | `/api/v1/health` | Health check |
+
+#### NEW: MinIO + MongoDB Pipeline Endpoints (May 2026)
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST | `/api/v1/pipeline/bronze/collect` | Collect to MinIO (Bronze) |
+| POST | `/api/v1/pipeline/bronze/mass-collect` | Mass collection to MinIO |
+| GET | `/api/v1/pipeline/bronze/list` | List Bronze records |
+| GET | `/api/v1/pipeline/bronze/stats` | Bronze layer statistics |
+| POST | `/api/v1/pipeline/bronze-to-silver` | Transform → MongoDB |
+| POST | `/api/v1/pipeline/silver-to-gold` | Enrich → Gold layer |
+| POST | `/api/v1/pipeline/run-full-pipeline` | Bronze → Silver → Gold |
+| GET | `/api/v1/pipeline/layers/stats` | All layers statistics |
 
 ### API Documentation URLs
 
