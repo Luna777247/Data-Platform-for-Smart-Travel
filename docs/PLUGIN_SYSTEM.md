@@ -364,7 +364,6 @@ collector = registry.get_collector("tripadvisor_collector")
 
 ## 🔗 Related Documents
 
-- [MINIO_MONGODB_PIPELINE.md](./MINIO_MONGODB_PIPELINE.md) - Storage architecture
 - [SYSTEM_UPDATE_MAY2026.md](./SYSTEM_UPDATE_MAY2026.md) - Recent updates
 - [API_INTEGRATION_GUIDE.md](./API_INTEGRATION_GUIDE.md) - API patterns
 

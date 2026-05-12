@@ -221,19 +221,11 @@ External Sources (OSM, Google Places, TripAdvisor)
     "radius": 2000,
     "type": "restaurant"
   },
-  "google_raw": {
-    "id": "ChIJ...",
-    "displayName": {"text": "Place Name"},
-    "location": {"latitude": 21.0, "longitude": 105.8},
-    "formattedAddress": "123 Street, Hanoi",
-    "rating": 4.5,
-    "userRatingCount": 1234,
-    "types": ["restaurant", "food"],
-    "photos": [...],
-    "priceLevel": "PRICE_LEVEL_MODERATE"
-  }
+  "google_raw": {...},
+  "google_enriched": true,
+  "ingestion_at": "2026-05-10T14:30:22Z"
 }
-// Stored in MinIO: bronze/google/hanoi/restaurant/20260510_143022_a1b2c3.json
+// Stored in MongoDB collection: bronze_pois
 ```
 
 ### Silver Layer (MongoDB) - Cleaned Data
@@ -241,11 +233,11 @@ External Sources (OSM, Google Places, TripAdvisor)
 {
   "_id": ObjectId("..."),
   "place_id": "ChIJ...",
-  "u_key": "05b30c17164df56e",
-  "name": "Place Name",
+  "u_key": "pho_bat_dan_21.0285_105.8542",
+  "name": "Phở Bát Đàn",
   "city": "hanoi",
-  "location": { "lat": 21.0, "lng": 105.8 },
-  "address": "123 Street, Hanoi",
+  "location": { "lat": 21.0285, "lng": 105.8542 },
+  "address": "34 Bat Dan, Hoan Kiem, Hanoi",
   "category": "restaurant",
   "types": ["restaurant", "food"],
   "rating": 4.5,
@@ -255,8 +247,8 @@ External Sources (OSM, Google Places, TripAdvisor)
   "image_url": "main_photo_url",
   "_source": "google_places",
   "_bronze_path": "bronze/google/hanoi/restaurant/...",
-  "_collected_at": "2026-05-10T15:18:37",
-  "_transformed_at": "2026-05-10T16:00:00",
+  "_collected_at": "2026-05-10T14:30:22",
+  "_transformed_at": "2026-05-10T15:00:00",
   "layer": "silver"
 }
 ```
@@ -275,8 +267,8 @@ External Sources (OSM, Google Places, TripAdvisor)
   "review_count": 1234,
   "is_active": true,
   "verified": false,
-  "created_at": ISODate("2026-05-10T16:00:00Z"),
-  "updated_at": ISODate("2026-05-10T16:00:00Z")
+  "created_at": ISODate("2026-05-10T15:00:00Z"),
+  "updated_at": ISODate("2026-05-10T15:00:00Z")
 }
 ```
 
@@ -284,7 +276,7 @@ External Sources (OSM, Google Places, TripAdvisor)
 ```javascript
 {
   execution_id: "exec_20260508_120000",
-  pipeline_name: "minio_pipeline",
+  pipeline_name: "mongodb_pipeline",
   status: "COMPLETED",
   records: {
     bronze_collected: 4452,
@@ -294,7 +286,7 @@ External Sources (OSM, Google Places, TripAdvisor)
   },
   duration_ms: 360000,
   storage: {
-    bronze_bucket: "smart-travel-bronze",
+    bronze_collection: "bronze_pois",
     silver_collection: "silver_pois",
     gold_collection: "gold_master_pois"
   }
@@ -422,7 +414,7 @@ python register_pipeline.py --config pipeline_registry.json
 
 ### Trigger Pipeline Execution
 ```bash
-python execute.py --pipeline osm_pipeline --execution-id exec_20260508_120000
+python execute.py --pipeline mongodb_pipeline --execution-id exec_20260508_120000
 ```
 
 ### Monitor Execution
@@ -439,7 +431,7 @@ db.master_poi.find({ city: "tokyo", category: "restaurant" })
 
 ### View Execution History
 ```javascript
-db.pipeline_execution.find({ pipeline_name: "osm_pipeline" })
+db.pipeline_execution.find({ pipeline_name: "mongodb_pipeline" })
                     .sort({ started_at: -1 })
                     .limit(10)
 ```
@@ -452,8 +444,7 @@ db.pipeline_execution.find({ pipeline_name: "osm_pipeline" })
 |-----------|------------|---------|
 | **Orchestration** | Apache Airflow | Pipeline scheduling |
 | **Processing** | Apache Spark / Pandas | Data transformation |
-| **Bronze Storage** | MinIO (S3-compatible) | Raw JSON files |
-| **Silver/Gold Storage** | MongoDB | Cleaned, indexed data |
+| **Bronze/Silver/Gold Storage** | MongoDB | All layers in one database |
 | **API Framework** | FastAPI | REST endpoints |
 | **Formats** | JSON (Bronze), BSON (Silver/Gold) | Data serialization |
 | **Search** | MongoDB Text/Geo | Full-text & geospatial |
@@ -501,15 +492,15 @@ For questions or issues:
 |------|---------|--------|---------|
 | May 2026 | 1.0 | ✅ Final | Initial comprehensive documentation |
 | May 10, 2026 | 1.1 | ✅ Updated | Added MinIO + MongoDB hybrid architecture |
+| May 11, 2026 | 1.2 | ✅ Updated | **Removed MinIO, simplified to MongoDB-only** |
 
-### Version 1.1 Changes:
-- ⭐ **NEW:** MinIO object storage for Bronze layer
-- ⭐ **NEW:** API endpoints for pipeline operations (`/api/v1/pipeline/*`)
-- ⭐ **NEW:** Service classes: `BronzePipeline`, `SilverGoldPipeline`
-- 🔄 **Updated:** Architecture diagram (Bronze→MinIO, Silver/Gold→MongoDB)
-- 🔄 **Updated:** Data model documentation with 3-layer schemas
-- 🔄 **Updated:** Technology stack with MinIO
-- 📖 **NEW:** Document `MINIO_MONGODB_PIPELINE.md`
+### Version 1.2 Changes:
+- ✅ **Simplified:** MinIO removed, all layers in MongoDB
+- ✅ **Updated:** API endpoints (`/api/v1/pipeline/*`) use MongoDB only
+- ✅ **Updated:** Architecture diagram (Bronze/Silver/Gold → MongoDB)
+- ✅ **Updated:** Data model documentation with unified schema
+- ✅ **Updated:** Technology stack (MongoDB-only)
+- 📖 **NEW:** Document `MONGODB_PIPELINE.md`
 
 ---
 

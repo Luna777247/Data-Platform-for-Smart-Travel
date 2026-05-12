@@ -386,30 +386,26 @@ Kiến trúc mới cung cấp:
 - ✅ **Easy Backup**: Backup 1 nơi
 - ✅ **Faster Transform**: Không cần chuyển đổi giữa storage systems
 
-## Migration từ MinIO (nếu cần)
+## Migration từ Local Files (nếu cần)
 
-Nếu bạn đã có dữ liệu trong MinIO từ kiến trúc cũ:
+Nếu bạn đã có dữ liệu local files từ kiến trúc cũ:
 
 ```python
-# migrate_from_minio.py
+# migrate_from_files.py
 from pymongo import MongoClient
-from src.core.minio_client import get_bronze_storage
+import os, json
 
 client = MongoClient('mongodb://admin:admin123@localhost:27017/smart_travel?authSource=admin')
 db = client.smart_travel
-storage = get_bronze_storage()
 
-# Migrate from MinIO to MongoDB
-records = storage.list_bronze_records()
-for record_info in records:
-    data = storage.get_bronze_record(record_info["path"])
-    if data:
-        # Add metadata
-        data["_layer"] = "bronze"
-        data["_source"] = record_info.get("source", "google")
-        # Insert to MongoDB
-        db.bronze_records.insert_one(data)
-        print(f"Migrated: {record_info['path']}")
+# Migrate from local files
+for root, dirs, files in os.walk('storage/bronze'):
+    for file in files:
+        if file.endswith(".json"):
+            filepath = os.path.join(root, file)
+            with open(filepath, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                db.bronze_records.insert_one(data)
+                print(f"Migrated: {filepath}")
 
 print("✅ Migration complete")
-```

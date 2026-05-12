@@ -122,7 +122,7 @@ smart-tourism-platform/
 │   │   ├── routes/                        # API endpoints
 │   │   │   ├── __init__.py
 │   │   │   ├── pipeline_management.py      # Pipeline control APIs
-│   │   │   ├── pipeline_minio.py          # ⭐ MinIO pipeline APIs
+│   │   │   ├── pipeline_mongodb.py         # MongoDB pipeline APIs
 │   │   │   ├── data_query.py              # Data query APIs
 │   │   │   ├── monitoring.py              # Monitoring APIs
 │   │   │   ├── health.py                  # Health check APIs
