@@ -185,7 +185,9 @@ class PlaceDetails:
 # GOOGLE PLACES COLLECTOR CLASS
 # =============================================================================
 
-class GooglePlacesCollector:
+from src.plugins.base import BaseCollector
+
+class GooglePlacesCollector(BaseCollector):
     """
     Collector để lấy dữ liệu POI từ Google Places API qua RapidAPI.
     
@@ -201,13 +203,15 @@ class GooglePlacesCollector:
         details = await collector.get_place_details("ChIJ...")
     """
     
-    def __init__(self, logger: Optional[logging.Logger] = None):
+    def __init__(self, config: Dict[str, Any] = None, logger: Optional[logging.Logger] = None):
         """
         Khởi tạo GooglePlacesCollector.
         
         Args:
+            config: Plugin configuration
             logger: Logger instance (optional)
         """
+        super().__init__(config=config)
         # Khởi tạo logger
         self.logger = logger or logging.getLogger(__name__)
         
@@ -217,11 +221,14 @@ class GooglePlacesCollector:
         # Current API key index cho rotation
         self._current_key_index = 0
         
+        # Config values
+        self.api_keys = self.config.get("api_keys", RAPID_API_KEYS)
+        
         # Rate limiting tracking
         self._last_request_time = 0
-        self._request_count_per_key = {i: 0 for i in range(len(RAPID_API_KEYS))}
+        self._request_count_per_key = {i: 0 for i in range(len(self.api_keys))}
         
-        self.logger.info("GooglePlacesCollector initialized with %d API keys", len(RAPID_API_KEYS))
+        self.logger.info("GooglePlacesCollector initialized with %d API keys", len(self.api_keys))
     
     def _get_next_api_key(self) -> str:
         """
@@ -635,6 +642,44 @@ class GooglePlacesCollector:
         """
         await self.close()
 
+    async def collect(
+        self, 
+        city: str, 
+        category: str, 
+        **kwargs
+    ) -> List[Dict[str, Any]]:
+        """
+        Thu thập POI từ Google Places.
+        
+        Args:
+            city: Tên thành phố
+            category: Loại POI
+        """
+        self.logger.info(f"Collecting from Google Places: {city}/{category}")
+        results_map = await self.collect_city_pois(city, [category])
+        poi_list = results_map.get(category, [])
+        
+        return [convert_to_bronze_record(p, city) for p in poi_list]
+
+    async def validate_config(self, config: Dict[str, Any]) -> bool:
+        return True
+
+    async def health_check(self) -> Dict[str, Any]:
+        return {"status": "healthy", "service": "Google Places via RapidAPI"}
+
+    async def search_nearby(self, lat: float, lng: float, radius: int = 2000, **kwargs) -> List[Dict[str, Any]]:
+        places = await self.nearby_search(lat, lng, radius, **kwargs)
+        return [convert_to_bronze_record(p, "nearby").get("raw_data") for p in places]
+
+    @property
+    def plugin_name(self) -> str:
+        return "google_places"
+
+    @property
+    def plugin_version(self) -> str:
+        return "1.0.0"
+
+
 
 # =============================================================================
 # UTILITY FUNCTIONS
@@ -707,3 +752,4 @@ def convert_to_bronze_record(place: PlaceResult, city: str, source: str = "googl
         "ingestion_timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "data_version": "1.0"
     }
+

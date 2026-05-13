@@ -3,7 +3,7 @@ Bronze Pipeline Service
 =======================
 Thu thập Google Places data → lưu vào bronze_pois với google_raw schema.
 Insert từng POI ngay lập tức, resume-safe (bỏ qua nếu google_place_id đã tồn tại).
-Dùng RapidAPI keys từ storage/configs/rapidapi_keys.json với quota guard.
+Dùng RapidAPI keys từ .env với quota guard.
 """
 import asyncio
 import hashlib
@@ -27,12 +27,9 @@ _RAPIDAPI_HOST = "google-map-places.p.rapidapi.com"
 _NEARBY_SEARCH_URL = f"https://{_RAPIDAPI_HOST}/maps/api/place/nearbysearch/json"
 _PLACE_DETAILS_URL = f"https://{_RAPIDAPI_HOST}/maps/api/place/details/json"
 
-_KEYS_FILE = Path(__file__).parent.parent.parent / "storage" / "configs" / "rapidapi_keys.json"
-try:
-    with open(_KEYS_FILE, "r") as f:
-        _RAPIDAPI_KEYS = json.load(f)
-except Exception:
-    _RAPIDAPI_KEYS = []
+from src.core.config import settings
+
+_RAPIDAPI_KEYS = settings.rapid_api_keys
 
 _key_index = 0
 
@@ -40,7 +37,7 @@ _key_index = 0
 def _get_next_key() -> str:
     global _key_index
     if not _RAPIDAPI_KEYS:
-        raise RuntimeError(f"No RapidAPI keys found in {_KEYS_FILE}")
+        raise RuntimeError("No RapidAPI keys found in settings/env")
     key = _RAPIDAPI_KEYS[_key_index % len(_RAPIDAPI_KEYS)]
     _key_index += 1
     return key
@@ -80,8 +77,13 @@ class BronzePipeline:
     """
 
     def __init__(self):
-        self.db = get_database()
         self.collection_name = "bronze_pois"
+
+    @property
+    def db(self):
+        from src.api.dependencies.database import mongo_client
+        from src.core.config import settings
+        return mongo_client[settings.mongodb_database]
 
     async def collect_city_category(
         self,
@@ -103,7 +105,7 @@ class BronzePipeline:
         logger.info(f"Collecting {category} in {city}...")
 
         if not _RAPIDAPI_KEYS:
-            logger.error(f"No RapidAPI keys found in {_KEYS_FILE}")
+            logger.error("No RapidAPI keys found in settings/env")
             return {"inserted": 0, "skipped": 0, "stopped": True}
 
         collection = self.db[self.collection_name]

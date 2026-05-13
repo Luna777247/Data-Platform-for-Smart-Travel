@@ -7,8 +7,8 @@ from datetime import datetime
 from typing import Dict, Any, List, Optional
 import asyncio
 
-from src.db.client import get_database
 from src.core.logging import get_logger
+from src.core.config import settings
 
 logger = get_logger(__name__)
 
@@ -21,8 +21,12 @@ class SilverGoldPipeline:
     """
     
     def __init__(self):
-        self.db = get_database()
         self.bronze_collection = "bronze_pois"  # New collection with raw data
+
+    @property
+    def db(self):
+        from src.api.dependencies.database import mongo_client
+        return mongo_client[settings.mongodb_database]
     
     async def bronze_to_silver(
         self,

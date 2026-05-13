@@ -13,7 +13,8 @@ Classes:
 
 from dataclasses import dataclass, field
 from typing import Dict, Any, List, Optional
-from datetime import datetime
+from datetime import datetime, timezone
+
 
 
 @dataclass
@@ -35,11 +36,13 @@ class BronzeRecord:
     """
     place_id: str
     name: str
-    location: Dict[str, float]  # {"lat": float, "lng": float}
+    location: Dict[str, float]  # {"lat": float, "lon": float}
+
     category: str
     raw_data: Dict[str, Any]
     source: str
-    collected_at: str = field(default_factory=lambda: datetime.utcnow().isoformat())
+    collected_at: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
+
     
     # Optional fields
     address: Optional[str] = None
@@ -83,7 +86,8 @@ class BronzeRecord:
             category=data.get("category", ""),
             raw_data=data.get("raw_data", {}),
             source=data.get("source", ""),
-            collected_at=data.get("collected_at", datetime.utcnow().isoformat()),
+            collected_at=data.get("collected_at", datetime.now(timezone.utc).isoformat()),
+
             address=data.get("address"),
             phone=data.get("phone"),
             website=data.get("website"),
@@ -122,7 +126,8 @@ class SilverRecord:
     attributes: Dict[str, Any] = field(default_factory=dict)
     source: str = ""
     quality_score: float = 0.0
-    processed_at: str = field(default_factory=lambda: datetime.utcnow().isoformat())
+    processed_at: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
+
     
     # Enriched fields
     sub_categories: List[str] = field(default_factory=list)
@@ -186,7 +191,8 @@ class GoldRecord:
     district_stats: Dict[str, Any] = field(default_factory=dict)
     top_places: List[Dict[str, Any]] = field(default_factory=list)
     insights: Dict[str, Any] = field(default_factory=dict)
-    aggregated_at: str = field(default_factory=lambda: datetime.utcnow().isoformat())
+    aggregated_at: str = field(default_factory=lambda: datetime.now(timezone.utc).isoformat())
+
     
     # Quality metrics
     data_quality_score: float = 0.0

@@ -10,6 +10,7 @@ from fastapi import APIRouter, Depends, HTTPException, BackgroundTasks, Query
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
 from src.api.dependencies.database import get_database
+from src.api.dependencies.auth import get_current_active_user, User
 from src.core.logging import get_logger
 from src.services.bronze_pipeline import BronzePipeline
 from src.services.silver_gold_pipeline import SilverGoldPipeline
@@ -47,7 +48,7 @@ async def collect_bronze(
     try:
         pipeline = BronzePipeline()
         result = await pipeline.collect_city_category(
-            city=city, lat=lat, lng=lng, category=category, radius=radius
+            city=city, city_code=city, lat=lat, lng=lng, category=category, radius=radius
         )
         return {
             "status": "success",
@@ -78,7 +79,7 @@ async def mass_collect_bronze(
 
         pipeline = BronzePipeline()
         result = await pipeline.run_mass_collection(
-            cities=city_list, categories=categories, grid_points=grid_points
+            cities=city_list, categories=categories
         )
         return {
             "status": "success",
@@ -95,7 +96,10 @@ async def mass_collect_bronze(
 
 
 @router.get("/bronze/stats", summary="Bronze layer statistics")
-async def bronze_stats(db: AsyncIOMotorDatabase = Depends(get_database)):
+async def bronze_stats(
+    db: AsyncIOMotorDatabase = Depends(get_database),
+    current_user: User = Depends(get_current_active_user)
+):
     """Thống kê Bronze layer trong MongoDB"""
     try:
         total = await db["bronze_pois"].count_documents({})
@@ -183,7 +187,7 @@ async def run_full_pipeline(
         silver_gold_pipeline = SilverGoldPipeline()
 
         bronze_result = await bronze_pipeline.run_mass_collection(
-            cities=city_list, categories=categories, grid_points=grid_points
+            cities=city_list, categories=categories
         )
         silver_result = await silver_gold_pipeline.bronze_to_silver(
             batch_size=bronze_result.get("total_bronze_saved", 100)

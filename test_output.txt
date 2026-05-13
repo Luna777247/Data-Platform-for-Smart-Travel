@@ -1,0 +1,143 @@
+﻿=================================================================
+  Smart Tourism API — Detailed Multi-Case Test Suite
+  Target: http://localhost:8000
+=================================================================
+
+  🔑 Token acquired: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ...
+
+───────────────────────────────────────────────────────
+  HEALTH — Public Endpoints
+───────────────────────────────────────────────────────
+  ✅  [200] GET / → 200
+  ✅  [200] GET /health → 200
+  ✅  [200] GET /ready → 200
+  ✅  [200] GET /health/detailed → 200
+  ✅  [404] GET /api/v1/notexist → 404
+
+───────────────────────────────────────────────────────
+  AUTH — Login / Register / Token
+───────────────────────────────────────────────────────
+  ✅  [200] Login với credentials đúng → 200
+  ✅  [401] Login sai password → 401
+  ✅  [401] Login user không tồn tại → 401
+  ✅  [422] Login thiếu password → 422
+  ✅  [422] Login body rỗng → 422
+  ✅  [200] Register user mới → 200/201
+  ✅  [400] Register user đã tồn tại → 400
+  ✅  [422] Register thiếu email/password → 422
+  ✅  [200] GET /auth/me với token → 200
+  ✅  [401] GET /auth/me không có token → 401/403
+  ✅  [401] GET /auth/me token giả → 401/403
+  ✅  [200] Validate token hợp lệ → 200
+  ✅  [200] Refresh token → 200
+  ✅  [200] Logout → 200
+
+───────────────────────────────────────────────────────
+  MONITORING — Status / Version / Dependencies
+───────────────────────────────────────────────────────
+  ✅  [200] GET /metrics (public) → 200
+  ✅  [200] GET /monitoring/status (auth) → 200
+  ✅  [200] GET /monitoring/version → 200
+  ✅  [200] GET /monitoring/dependencies → 200
+  ✅  [200] GET /monitoring/stats → 200
+  ✅  [200] GET /monitoring/layers → 200
+  ✅  [401] GET /monitoring/status không có token → 401
+  ✅  [401] GET /monitoring/status token giả → 401
+
+───────────────────────────────────────────────────────
+  PIPELINE MANAGEMENT — Lifecycle & Status
+───────────────────────────────────────────────────────
+  ✅  [200] Start pipeline incremental_sync → 200
+  ✅  [200] Start pipeline full_sync (no cities) → 200
+  ✅  [422] Start pipeline thiếu execution_type → 422
+  ✅  [422] Start pipeline execution_type không hợp lệ → 422
+  ✅  [200] Get status pipeline pipeline_20260513_00... → 200
+  ✅  [404] Get status pipeline không tồn tại → 404
+  ✅  [404] Pause pipeline đã done → 404
+  ✅  [404] Stop pipeline đã done → 404
+  ✅  [404] Resume pipeline đã done → 404
+  ✅  [200] GET /pipeline/active → 200 (list)
+  ✅  [200] GET /pipeline/history?limit=5 → 200
+  ✅  [200] GET /pipeline/dashboard → 200
+  ✅  [200] GET /pipeline/metrics → 200
+  ✅  [200] GET /pipeline/errors → 200
+  ✅  [200] GET /pipeline/data-quality → 200
+  ✅  [200] GET /pipeline/health → 200
+  ✅  [200] DELETE /pipeline/cleanup → 200
+  ✅  [200] GET /pipeline/status → 200
+  ✅  [200] POST /pipeline/restart pipeline_20260513_00... → 200
+  ✅  [401] GET /pipeline/active không có token → 401
+
+───────────────────────────────────────────────────────
+  MONGODB PIPELINE — Bronze / Silver / Gold
+───────────────────────────────────────────────────────
+  ✅  [200] GET /bronze/stats → 200
+  ✅  [200] GET /layers/stats → 200
+  ✅  [200] POST /bronze/collect (hanoi/restaurant) → 200
+  ✅  [200] POST /bronze/collect (hcm/hotel) → 200
+  ✅  [422] POST /bronze/collect thiếu city → 422
+  ✅  [200] POST /bronze-to-silver batch_size=2 → 200
+  ✅  [200] POST /bronze-to-silver batch_size=100 → 200
+  ✅  [200] POST /silver-to-gold batch_size=5 → 200
+  ✅  [200] POST /bronze/mass-collect → 200
+  ✅  [200] POST /run-full-pipeline → 200
+  ✅  [401] GET /bronze/stats không có token → 401
+
+───────────────────────────────────────────────────────
+  DATA QUERY — POIs / Search / Nearby / Stats
+───────────────────────────────────────────────────────
+  ✅  [200] GET /data/pois (no params) → 200
+  ✅  [200] GET /data/pois?limit=3 → 200
+  ✅  [200] GET /data/pois?limit=5&skip=0 → 200
+  ✅  [200] GET /data/pois?city=hanoi → 200
+  ✅  [200] GET /data/pois?layer=gold → 200
+  ✅  [200] GET /pois/search?q=pho → 200
+  ✅  [200] GET /pois/search?q= (rỗng) → 200/422
+  ✅  [422] GET /pois/search không có q → 422
+  ✅  [200] GET /pois/nearby (Hà Nội) → 200
+  ✅  [200] GET /pois/nearby (HCM, radius=10km) → 200
+  ✅  [422] GET /pois/nearby thiếu lat/lon → 422
+  ⏭️  [SKIP] GET /pois/{id} 200 test — không tìm thấy POI mẫu
+  ✅  [404] GET /pois/{id} không tồn tại → 404
+  ✅  [200] GET /data/testpois → 200
+  ✅  [200] GET /data/testpublic (public) → 200
+  ✅  [200] GET /data/stats → 200
+  ✅  [200] GET /data/layers → 200
+  ✅  [200] GET /data/cities → 200 (list string)
+  ✅  [200] GET /data/categories → 200 (list string)
+  ✅  [401] GET /data/pois không có token → 401
+
+───────────────────────────────────────────────────────
+  ADMIN — Users / Stats / Logs
+───────────────────────────────────────────────────────
+  ✅  [200] GET /admin/users → 200
+  ✅  [200] GET /admin/stats → 200
+  ✅  [200] GET /admin/logs → 200
+  ✅  [201] POST /admin/users → 201
+  ✅  [204] DELETE /admin/users/{id} → 204
+  ✅  [200] POST /admin/maintenance (enable) → 200
+  ✅  [200] POST /admin/cleanup → 200
+  ✅  [401] GET /admin/users không có token → 401/403
+  ✅  [403] GET /admin/users với user thường → 403
+
+───────────────────────────────────────────────────────
+  PLUGINS
+───────────────────────────────────────────────────────
+  ✅  [200] GET /plugins/ → 200
+  ✅  [200] POST /plugins/ → 200
+  ✅  [200] GET /plugins/{id} → 200
+  ✅  [200] POST /plugins/{id}/test → 200
+  ✅  [200] GET /plugins/sources/ → 200
+  ✅  [200] POST /plugins/sources/ → 200
+  ✅  [200] POST /plugins/sources/{id}/collect → 200
+  ✅  [200] DELETE /plugins/{{id}} → 200
+
+=================================================================
+  DETAILED TEST RESULTS SUMMARY
+=================================================================
+  ✅ Pass  : 94
+  ❌ Fail  : 0
+  ⏭️  Skip  : 1
+  📊 Total : 95
+  📈 Score : 100.0%
+=================================================================

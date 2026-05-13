@@ -108,11 +108,11 @@ async def start_pipeline(
     try:
         pipeline_service = PipelineManagementService(mongo_client, redis_client)
         
-        # Validate request
-        if not request.cities and not request.categories:
+        # Validate request - only require cities/categories for incremental_sync
+        if request.execution_type == "incremental_sync" and not request.cities and not request.categories:
             raise HTTPException(
                 status_code=400,
-                detail="Phải cung cấp ít nhất một city hoặc category"
+                detail="Phải cung cấp ít nhất một city hoặc category cho incremental_sync"
             )
         
         # Start pipeline execution

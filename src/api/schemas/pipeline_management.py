@@ -74,6 +74,9 @@ class PipelineExecutionType(str, Enum):
     # Backfill dữ liệu lịch sử
     # Dùng để điền dữ liệu cho khoảng thời gian trong quá khứ
     BACKFILL = "backfill"
+    
+    # Khởi động lại pipeline thất bại
+    RESTART = "restart"
 
 
 # ============================================
@@ -121,7 +124,7 @@ class PipelineExecutionRequest(BaseModel):
     # Chỉ chấp nhận các giá trị trong PipelineExecutionType enum
     execution_type: PipelineExecutionType = Field(
         ...,  # Required field
-        description="Loại execution: full_sync, incremental_sync, specific_city, specific_category, backfill"
+        description="Loại execution: full_sync, incremental_sync, specific_city, specific_category, backfill, restart"
     )
     
     # Batch size cho data processing
@@ -266,7 +269,7 @@ class PipelineStatusResponse(BaseModel):
     status: str = Field(..., description="Trạng thái hiện tại")
     progress: float = Field(..., description="Tiến độ hoàn thành (%)")
     current_stage: str = Field(..., description="Stage hiện tại")
-    started_at: datetime = Field(..., description="Thời gian bắt đầu")
+    started_at: Optional[datetime] = Field(None, description="Thời gian bắt đầu")
     completed_at: Optional[datetime] = Field(None, description="Thời gian hoàn thành")
     stages: Dict[str, Any] = Field(..., description="Chi tiết các stages")
     metrics: Dict[str, Any] = Field(..., description="Metrics của execution")

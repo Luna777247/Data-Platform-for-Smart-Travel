@@ -48,34 +48,29 @@ class AuthService:
     
     def _init_default_users(self):
         """Initialize default users."""
-        try:
-            self._users["admin"] = {
-                "username": "admin",
-                "password_hash": get_password_hash("admin123"),
-                "role": "admin",
-                "is_active": True
+        # Luôn lưu plain text password cho fallback khi bcrypt lỗi
+        default_users = {
+            "admin": {"password": "admin123", "role": "admin"},
+            "testuser": {"password": "test123", "role": "user"},
+        }
+        
+        for uname, info in default_users.items():
+            pwd = info["password"]
+            try:
+                hashed = get_password_hash(pwd)
+            except Exception as e:
+                logger.warning(f"bcrypt hash failed for {uname}: {e}")
+                hashed = pwd  # fallback plain text
+            
+            self._users[uname] = {
+                "username": uname,
+                "password_hash": hashed,
+                "_password_plain": pwd,  # Backup for dev when bcrypt is broken
+                "role": info["role"],
+                "is_active": True,
             }
-            self._users["testuser"] = {
-                "username": "testuser",
-                "password_hash": get_password_hash("test123"),
-                "role": "user",
-                "is_active": True
-            }
-        except Exception as e:
-            logger.warning(f"Failed to init default users with bcrypt: {e}")
-            # Fallback without hashing for development
-            self._users["admin"] = {
-                "username": "admin",
-                "password_hash": "admin123",  # Plain text for dev
-                "role": "admin",
-                "is_active": True
-            }
-            self._users["testuser"] = {
-                "username": "testuser",
-                "password_hash": "test123",  # Plain text for dev
-                "role": "user",
-                "is_active": True
-            }
+        
+        logger.info(f"Initialized {len(self._users)} default users")
     
     async def authenticate_user(
         self,
@@ -88,15 +83,27 @@ class AuthService:
         if not user:
             return None
         
-        # Check password (support both hashed and plain text for dev)
+        # Check password – support cả bcrypt hash lẫn plain-text fallback
         stored_hash = user["password_hash"]
-        if stored_hash != password:
-            # Try bcrypt verify if not plain text match
+        password_ok = False
+        
+        # 1) Plain text match (dev fallback)
+        if stored_hash == password:
+            password_ok = True
+        
+        # 2) Backup plain text field match (khi hash là bcrypt nhưng verify lỗi)
+        if not password_ok and user.get("_password_plain") == password:
+            password_ok = True
+        
+        # 3) bcrypt verify (production)
+        if not password_ok:
             try:
-                if not verify_password(password, stored_hash):
-                    return None
+                password_ok = verify_password(password, stored_hash)
             except Exception:
-                return None
+                password_ok = False
+        
+        if not password_ok:
+            return None
         
         if not user["is_active"]:
             return None

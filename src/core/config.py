@@ -29,6 +29,10 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 _ALLOWED_JWT_ALGORITHMS = {"HS256", "HS384", "HS512"}
 
 
+import os
+print(f"DEBUG: os.environ.get('MONGODB_URI') = {os.environ.get('MONGODB_URI')}")
+print(f"DEBUG: os.environ.get('DB_NAME') = {os.environ.get('DB_NAME')}")
+
 class Settings(BaseSettings):
     """
     Settings class - Tập trung tất cả cấu hình ứng dụng
@@ -140,6 +144,10 @@ class Settings(BaseSettings):
     # Required: Có rate limit và billing, cần quản lý cẩn thận
     # Đăng ký tại: https://developers.google.com/maps/documentation/places/web-service
     google_places_api_key: str | None = Field(default=None, alias="GOOGLE_PLACES_API_KEY")
+    
+    # RapidAPI keys - danh sách nhiều keys để rotate
+    # Load từ RAPID_API_KEYS (comma-separated) trong .env
+    rapid_api_keys: str | list[str] = Field(default=[], alias="RAPID_API_KEYS")
     
     # ============================================
     # APPLICATION SETTINGS
@@ -282,6 +290,14 @@ class Settings(BaseSettings):
             )
         return normalized
 
+    @field_validator("rapid_api_keys", mode="before")
+    @classmethod
+    def split_rapid_api_keys(cls, value: str | list[str]) -> list[str]:
+        """Split comma-separated string into list if necessary"""
+        if isinstance(value, str):
+            return [k.strip() for k in value.split(",") if k.strip()]
+        return value
+
     @field_validator("allowed_origins")
     @classmethod
     def normalize_allowed_origins(cls, value: str) -> str:
@@ -301,7 +317,7 @@ class Settings(BaseSettings):
         # Tách chuỗi thành list dựa trên dấu phẩy
         # Strip whitespace cho mỗi origin
         # Bỏ qua các giá trị empty string
-        origins = [origin.strip() for origin in str(value).split(",") if origin.strip()]
+        origins = [origin.strip() for origin in value.split(",") if origin.strip()]
         
         # Validate có ít nhất một origin
         if not origins:

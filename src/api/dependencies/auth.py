@@ -379,7 +379,9 @@ async def get_current_admin_user(
         )
     
     return User(
+        id=username,
         username=username,
+        email=f"{username}@system.local",
         role="admin",
         is_active=True
     )

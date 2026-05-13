@@ -155,6 +155,7 @@ async def lifespan(app: FastAPI):
     # SHUTDOWN
     # ========================================
     logger.info("🛑 Shutting down Smart Tourism Data Platform...")
+    # Trigger reload at: 2024-05-20 12:00:00 
     
     try:
         # Đóng database connections
@@ -348,10 +349,7 @@ app.include_router(pipeline_management.router)
 # Đăng ký pipeline MongoDB routes (Bronze/Silver/Gold → MongoDB)
 # Prefix: /api/v1/pipeline
 app.include_router(pipeline_mongodb.router)
-
-# Đăng ký pipeline v2 routes (sử dụng PipelineOrchestrator)
-# Prefix: /api/v1/pipeline
-# app.include_router(pipeline_v2.router)  # Commented out due to import error
+app.include_router(pipeline_management.router)
 
 # Đăng ký data query routes
 # Prefix: /api/v1/data
@@ -401,7 +399,7 @@ async def root():
     """
     return {
         "name": "Smart Tourism Data Platform API",
-        "version": "1.0.0",
+        "version": "1.0.99-DEBUG",
         "documentation": "/docs",
         "health": "/health",
     }

@@ -40,12 +40,9 @@ RAPIDAPI_HOST = "google-map-places.p.rapidapi.com"
 NEARBY_SEARCH_URL = f"https://{RAPIDAPI_HOST}/maps/api/place/nearbysearch/json"
 PLACE_DETAILS_URL = f"https://{RAPIDAPI_HOST}/maps/api/place/details/json"
 
-_KEYS_FILE = Path(__file__).parent.parent / "storage" / "configs" / "rapidapi_keys.json"
-try:
-    with open(_KEYS_FILE, "r") as f:
-        RAPIDAPI_KEYS = json.load(f)
-except Exception:
-    RAPIDAPI_KEYS = []
+from src.core.config import settings
+
+RAPIDAPI_KEYS = settings.rapid_api_keys
 
 _key_index = 0
 
@@ -53,7 +50,7 @@ _key_index = 0
 def _get_next_key():
     global _key_index
     if not RAPIDAPI_KEYS:
-        raise RuntimeError(f"No RapidAPI keys found in {_KEYS_FILE}")
+        raise RuntimeError("No RapidAPI keys found in settings/env")
     key = RAPIDAPI_KEYS[_key_index % len(RAPIDAPI_KEYS)]
     _key_index += 1
     return key
@@ -99,7 +96,7 @@ def collect_google_only():
     print("=" * 70)
 
     if not RAPIDAPI_KEYS:
-        print(f"❌ No RapidAPI keys found in {_KEYS_FILE}")
+        print("❌ No RapidAPI keys found in settings/env")
         return
 
     print(f"🔑 Loaded {len(RAPIDAPI_KEYS)} RapidAPI keys")

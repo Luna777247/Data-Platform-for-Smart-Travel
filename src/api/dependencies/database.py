@@ -31,23 +31,8 @@ mongo_client = AsyncIOMotorClient(
 )
 
 
-async def get_mongo_client() -> AsyncIOMotorClient:
-    """
-    Get the MongoDB client singleton.
-    
-    PATTERN: Singleton client shared across all requests.
-    Do NOT create new clients. Motor handles pooling internally.
-    
-    Usage in route:
-    ```python
-    @router.get("/places")
-    async def list_places(mongo: AsyncIOMotorClient = Depends(get_mongo_client)):
-        db = mongo['dataplatform_db']
-        collection = db['places']
-        # Use collection...
-    ```
-    """
-    yield mongo_client
+async def get_mongo_client():
+    yield mongodb_manager.client
 
 
 # ──────────────────────────────────────────────────────────────────────────
@@ -65,18 +50,13 @@ async def get_redis_client() -> redis.Redis:
 
 
 # Aliases for compatibility with existing code
+from src.core.database import mongodb_manager
+
 async def get_database():
     """
-    Get MongoDB database instance.
-    
-    Tương thích với code cũ sử dụng get_database().
-    
-    Returns:
-        AsyncIOMotorDatabase: MongoDB database singleton
+    Get MongoDB database instance from centralized manager.
     """
-    from motor.motor_asyncio import AsyncIOMotorDatabase
-    db = mongo_client[settings.mongodb_database]
-    yield db
+    yield mongodb_manager.get_database()
 
 
 async def get_redis_pool():

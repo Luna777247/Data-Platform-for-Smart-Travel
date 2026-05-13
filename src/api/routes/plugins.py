@@ -22,6 +22,55 @@ from src.core.logging import get_logger
 
 logger = get_logger(__name__)
 
+async def ensure_plugin_loaded(plugin_id: str, mongo_client=None):
+    """Đảm bảo plugin được nạp vào registry (kiểm tra memory, fallback sang DB)"""
+    if plugin_registry.is_registered(plugin_id):
+        return True
+    
+    # Fallback 1: Try PluginLoader.load_from_database
+    try:
+        loader = PluginLoader()
+        info = await loader.load_from_database(plugin_id)
+        if info:
+            if info["plugin_type"] == "source":
+                plugin_registry.register_collector(
+                    name=plugin_id,
+                    collector_class=info["class"],
+                    config_schema=info.get("config_schema", {}),
+                    default_config=info.get("default_config", {}),
+                    description=info.get("name", ""),
+                    version=info.get("version", "1.0.0")
+                )
+                return True
+    except Exception as e:
+        logger.warning(f"PluginLoader.load_from_database failed for {plugin_id}: {e}")
+    
+    # Fallback 2: Try direct class load from DB class_path record
+    if mongo_client:
+        try:
+            db = mongo_client.smart_travel
+            plugin_doc = await db.plugin_registry.find_one({"plugin_id": plugin_id})
+            if plugin_doc and plugin_doc.get("class_path"):
+                loader = PluginLoader()
+                parts = plugin_doc["class_path"].rsplit(".", 1)
+                if len(parts) == 2:
+                    plugin_class = loader.load_from_module(parts[0], parts[1])
+                    if plugin_class:
+                        plugin_registry.register_collector(
+                            name=plugin_id,
+                            collector_class=plugin_class,
+                            config_schema=plugin_doc.get("config_schema", {}),
+                            default_config=plugin_doc.get("default_config", {}),
+                            description=plugin_doc.get("description", ""),
+                            version=plugin_doc.get("version", "1.0.0")
+                        )
+                        logger.info(f"✅ Loaded plugin '{plugin_id}' via direct class import")
+                        return True
+        except Exception as e:
+            logger.error(f"Direct class load failed for {plugin_id}: {e}")
+    
+    return False
+
 router = APIRouter(
     prefix="/api/v1/plugins",
     tags=["Plugin Management"]
@@ -118,15 +167,33 @@ async def list_plugins(
 @router.get("/{plugin_id}", response_model=Dict[str, Any])
 async def get_plugin(
     plugin_id: str,
-    current_user: str = Depends(get_current_active_user)
+    current_user: str = Depends(get_current_active_user),
+    mongo_client = Depends(get_mongo_client)
 ):
     """
     Get detailed information về một plugin.
     """
     try:
+        # Ensure plugin is loaded (with DB fallback)
+        await ensure_plugin_loaded(plugin_id, mongo_client)
+        
         info = plugin_registry.get_plugin_info(plugin_id)
         
         if not info:
+            # Final fallback: check DB directly for metadata
+            db = mongo_client.smart_travel
+            plugin_doc = await db.plugin_registry.find_one({"plugin_id": plugin_id})
+            if plugin_doc:
+                return {
+                    "plugin_id": plugin_id,
+                    "plugin_type": plugin_doc.get("plugin_type"),
+                    "name": plugin_doc.get("name"),
+                    "description": plugin_doc.get("description"),
+                    "version": plugin_doc.get("version"),
+                    "config_schema": plugin_doc.get("config_schema"),
+                    "default_config": plugin_doc.get("default_config"),
+                    "registered_at": plugin_doc.get("created_at")
+                }
             raise HTTPException(status_code=404, detail=f"Plugin '{plugin_id}' not found")
         
         return {
@@ -306,12 +373,16 @@ async def create_source(
     Configure một plugin cụ thể cho một city/use case.
     """
     try:
-        # Verify plugin exists
-        if not plugin_registry.is_registered(request.plugin_id):
-            raise HTTPException(
-                status_code=400, 
-                detail=f"Plugin '{request.plugin_id}' not registered"
-            )
+        # Verify plugin exists (ensuring it's loaded in memory, with DB fallback)
+        if not await ensure_plugin_loaded(request.plugin_id, mongo_client):
+            # Final check: plugin metadata may exist in DB even if class can't load
+            db = mongo_client.smart_travel
+            plugin_doc = await db.plugin_registry.find_one({"plugin_id": request.plugin_id})
+            if not plugin_doc:
+                raise HTTPException(
+                    status_code=400, 
+                    detail=f"Plugin '{request.plugin_id}' not registered"
+                )
         
         # Save to database
         db = mongo_client.smart_travel
@@ -374,7 +445,29 @@ async def collect_from_source(
         plugin_id = source["plugin_id"]
         config = source.get("config", {})
         
+        # Ensure plugin is loaded in memory registry
+        await ensure_plugin_loaded(plugin_id)
+        
         collector = plugin_registry.get_collector(plugin_id, config)
+        
+        # Fallback: nếu registry không instantiate được, 
+        # load trực tiếp từ class_path trong DB
+        if not collector:
+            logger.warning(f"⚠️ Registry failed for '{plugin_id}', trying direct load from DB...")
+            plugin_doc = await db.plugin_registry.find_one({"plugin_id": plugin_id})
+            if plugin_doc and plugin_doc.get("class_path"):
+                try:
+                    loader = PluginLoader()
+                    parts = plugin_doc["class_path"].rsplit(".", 1)
+                    if len(parts) == 2:
+                        plugin_class = loader.load_from_module(parts[0], parts[1])
+                        if plugin_class:
+                            try:
+                                collector = plugin_class(config=config)
+                            except TypeError:
+                                collector = plugin_class()
+                except Exception as e:
+                    logger.error(f"Direct load fallback failed: {e}")
         
         if not collector:
             raise HTTPException(
@@ -410,17 +503,19 @@ async def collect_from_source(
 async def test_plugin(
     plugin_id: str,
     config: Optional[Dict[str, Any]] = Body(default=None),
-    current_user: str = Depends(get_current_active_user)
+    current_user: str = Depends(get_current_active_user),
+    mongo_client = Depends(get_mongo_client)
 ):
     """
     Test plugin connection/configuration.
     """
     try:
+        # Ensure loaded and Try to instantiate
+        await ensure_plugin_loaded(plugin_id, mongo_client)
         info = plugin_registry.get_plugin_info(plugin_id)
         if not info:
             raise HTTPException(status_code=404, detail=f"Plugin '{plugin_id}' not found")
-        
-        # Try to instantiate
+            
         test_config = config or info.get("default_config", {})
         instance = plugin_registry.get_collector(plugin_id, test_config)
         

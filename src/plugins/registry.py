@@ -141,14 +141,14 @@ class PluginRegistry:
     def get_collector(self, name: str, config: Optional[Dict[str, Any]] = None) -> Optional[Any]:
         """
         Get a collector instance by name.
-        
+
         Args:
             name: Plugin name
             config: Optional configuration override
-            
+
         Returns:
             Collector instance or None if not found
-            
+
         Example:
             collector = registry.get_collector("google_places", config={"api_key": "xxx"})
             data = await collector.collect(city="hanoi", category="restaurant")
@@ -157,22 +157,30 @@ class PluginRegistry:
             if name not in self._collectors:
                 logger.error(f"❌ Collector '{name}' not found in registry")
                 return None
-            
+
             # Create instance
             plugin_info = self._collectors[name]
             collector_class = plugin_info["class"]
-            
+
             # Merge configs
             final_config = {**plugin_info.get("default_config", {}), **(config or {})}
-            
-            # Instantiate
-            instance = collector_class(config=final_config)
-            
+
+            # Instantiate - try with config kwarg first, fall back to no args
+            try:
+                instance = collector_class(config=final_config)
+            except TypeError:
+                # If class doesn't accept config kwarg, try without it
+                try:
+                    instance = collector_class()
+                except Exception as e2:
+                    logger.error(f"❌ Failed to instantiate {name} without config: {e2}")
+                    return None
+
             logger.debug(f"🔧 Created collector instance: {name}")
             return instance
-            
+
         except Exception as e:
-            logger.error(f"❌ Failed to create collector {name}: {e}")
+            logger.error(f"❌ Failed to create collector {name}: {str(e)}", exc_info=True)
             return None
     
     def get_transformer(self, name: str, config: Optional[Dict[str, Any]] = None) -> Optional[Any]:

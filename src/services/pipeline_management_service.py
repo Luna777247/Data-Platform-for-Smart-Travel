@@ -113,7 +113,7 @@ class PipelineManagementService:
         user_id: str = "system"
     ) -> str:
         """Khởi động pipeline execution"""
-        execution_id = f"pipeline_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S')}_{user_id}"
+        execution_id = f"pipeline_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S_%f')}_{user_id}"
         
         try:
             # Create execution record
@@ -318,9 +318,17 @@ class PipelineManagementService:
             if not original_execution:
                 logger.warning(f"⚠️ Original execution not found: {execution_id}")
                 return None
+
+            # Ensure execution_type exists and is valid
+            execution_type_str = original_execution.get("execution_type", "full_sync")
+            try:
+                execution_type = PipelineExecutionType(execution_type_str)
+            except ValueError:
+                logger.warning(f"⚠️ Invalid execution_type '{execution_type_str}', defaulting to full_sync")
+                execution_type = PipelineExecutionType.FULL_SYNC
             
             # Create new execution
-            new_execution_id = f"pipeline_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S')}_{user_id}"
+            new_execution_id = f"pipeline_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S_%f')}_{user_id}"
             
             new_execution = original_execution.copy()
             new_execution["_id"] = new_execution_id
@@ -353,9 +361,9 @@ class PipelineManagementService:
             background_tasks.add_task(
                 self._execute_pipeline_background,
                 new_execution_id,
-                original_execution["cities"],
-                original_execution["categories"],
-                PipelineExecutionType(original_execution["execution_type"]),
+                original_execution.get("cities", []),
+                original_execution.get("categories", []),
+                execution_type,
                 user_id
             )
             
@@ -373,21 +381,38 @@ class PipelineManagementService:
             # Try Redis first for real-time status
             cached_status = await self.redis_client.get(f"pipeline:{execution_id}")
             if cached_status:
-                return json.loads(cached_status)
+                data = json.loads(cached_status)
+                # Ensure all required fields are present with defaults
+                data.setdefault("execution_id", execution_id)
+                data.setdefault("pipeline_name", "unknown")
+                data.setdefault("started_at", None)
+                data.setdefault("stages", {})
+                data.setdefault("metrics", {})
+                data.setdefault("records_processed", 0)
+                data.setdefault("records_failed", 0)
+                return data
             
             # Fallback to MongoDB
             execution = await self.pipeline_collection.find_one(
-                {"_id": execution_id},
-                {"status": 1, "started_at": 1, "completed_at": 1, "current_stage": 1, "records_processed": 1, "records_failed": 1}
+                {"_id": execution_id}
             )
             
             if execution:
                 return {
-                    "status": execution["status"],
+                    "execution_id": execution_id,
+                    "pipeline_name": execution.get("pipeline_name", "unknown"),
+                    "status": execution.get("status", "unknown"),
                     "progress": self._calculate_progress(execution),
-                    "current_stage": execution["current_stage"],
-                    "stages": execution["stages"],
-                    "metrics": execution["metrics"]
+                    "current_stage": execution.get("current_stage", "unknown"),
+                    "started_at": execution.get("started_at"),
+                    "completed_at": execution.get("completed_at"),
+                    "stages": execution.get("stages", {}),
+                    "metrics": execution.get("metrics", {}),
+                    "records_processed": execution.get("records_processed", 0),
+                    "records_failed": execution.get("records_failed", 0),
+                    "error_message": execution.get("error_message"),
+                    "retry_count": execution.get("retry_count", 0),
+                    "last_retry_at": execution.get("last_retry_at"),
                 }
             
             return None

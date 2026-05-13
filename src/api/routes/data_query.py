@@ -58,7 +58,10 @@ from pydantic import BaseModel, ConfigDict
 from pydantic import Field
 
 # Import datetime cho timestamp handling
-from datetime import datetime
+from datetime import datetime, timezone
+
+# Import ObjectId cho MongoDB
+from bson import ObjectId
 
 # Import json cho JSON operations
 import json
@@ -147,8 +150,9 @@ class POIResponse(BaseModel):
     sources: List[str] = Field(default_factory=list, description="Data sources")
     quality_score: float = Field(0.0, ge=0, le=100, description="Quality score 0-100")
     status: str = Field("active", description="POI status")
-    created_at: datetime = Field(default_factory=datetime.utcnow)
-    updated_at: datetime = Field(default_factory=datetime.utcnow)
+    created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+    updated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+
     layer: str = Field(..., description="Data layer (bronze/silver/gold)")
     
     model_config = ConfigDict(
@@ -378,6 +382,7 @@ async def list_pois(
     # Pagination parameters
     page: int = Query(1, ge=1, description="Page number"),
     page_size: int = Query(20, ge=1, le=100, description="Items per page"),
+    limit: Optional[int] = Query(None, ge=1, le=100, description="Override page_size for compatibility"),
     # Sorting
     sort_by: str = Query("quality_score", description="Sort field"),
     sort_order: str = Query("desc", pattern="^(asc|desc)$", description="Sort order"),
@@ -389,6 +394,9 @@ async def list_pois(
         POIListResponse: Paginated list of POIs
     """
     try:
+        # Use limit parameter if provided, otherwise use page_size
+        actual_page_size = limit if limit is not None else page_size
+        
         # Xây dựng query từ filters
         query = build_poi_query(
             city=city,
@@ -411,58 +419,83 @@ async def list_pois(
         # Xác định collection để query
         collection_name = "gold_master_pois"  # Default là gold layer
         if layer == "bronze":
-            collection_name = "bronze_records"
+            collection_name = "bronze_pois"
         elif layer == "silver":
             collection_name = "silver_places"
         
         collection = db[collection_name]
+        logger.info(f"DEBUG: list_pois using database: {db.name}, collection: {collection_name}")
+
         
         # Đếm total (không phân trang)
         total = await collection.count_documents(query)
         
         # Tính số trang (ít nhất là 1)
-        pages = max(1, (total + page_size - 1) // page_size) if total > 0 else 1
+        pages = max(1, (total + actual_page_size - 1) // actual_page_size) if total > 0 else 1
         
         # Xây dựng sort
         sort_direction = -1 if sort_order == "desc" else 1
         
         # Thực hiện query với pagination
-        skip = (page - 1) * page_size
-        cursor = collection.find(query).skip(skip).limit(page_size).sort(sort_by, sort_direction)
+        skip = (page - 1) * actual_page_size
+        cursor = collection.find(query).skip(skip).limit(actual_page_size).sort(sort_by, sort_direction)
         
         # Lấy results
-        pois = await cursor.to_list(length=page_size)
+        pois = await cursor.to_list(length=actual_page_size)
         
         # Convert MongoDB documents to plain dicts (bypass Pydantic validation)
         poi_responses = []
         for poi in pois:
             # Convert _id to poi_id
             poi_data = dict(poi)
-            if "_id" in poi_data:
+            # Map _id to poi_id if poi_id doesn't exist
+            if "poi_id" not in poi_data and "_id" in poi_data:
                 poi_data["poi_id"] = str(poi_data.pop("_id"))
+            elif "_id" in poi_data:
+                # Keep original _id as mongo_id for reference
+                poi_data["mongo_id"] = str(poi_data.pop("_id"))
             
-            # Thêm layer nếu thiếu
-            if "layer" not in poi_data:
-                poi_data["layer"] = layer or "gold"
+            # Normalize location (ensure both lat/lon exist, handle lng alias)
+            if "location" in poi_data and isinstance(poi_data["location"], dict):
+                loc = poi_data["location"]
+                if "lat" in loc:
+                    poi_data["location"]["lat"] = float(loc["lat"])
+                if "lon" in loc:
+                    poi_data["location"]["lon"] = float(loc["lon"])
+                elif "lng" in loc:
+                    poi_data["location"]["lon"] = float(loc["lng"])
+            
+            # Normalize basic fields
+            if "name" not in poi_data:
+                poi_data["name"] = poi_data.get("title", "Unnamed POI")
+            if "category" not in poi_data:
+                poi_data["category"] = poi_data.get("type", "unknown")
+            if "city" not in poi_data:
+                poi_data["city"] = poi_data.get("_city", city or "unknown")
+            if "country" not in poi_data:
+                poi_data["country"] = poi_data.get("_country", "VN")
+            if "sources" not in poi_data:
+                poi_data["sources"] = [poi_data.get("source", "unknown")]
             
             # Map existing timestamp fields to created_at và updated_at
-            if '_enriched_at' in poi_data:
-                poi_data['created_at'] = poi_data['_enriched_at']
-            elif '_processed_at' in poi_data:
-                poi_data['created_at'] = poi_data['_processed_at']
-            elif '_collected_at' in poi_data:
-                poi_data['created_at'] = poi_data['_collected_at']
+            for ts_field in ['created_at', '_collected_at', '_processed_at', '_enriched_at', 'ingestion_timestamp']:
+
+                if ts_field in poi_data and poi_data[ts_field]:
+                    poi_data['created_at'] = poi_data[ts_field]
+                    break
             else:
-                poi_data['created_at'] = datetime.utcnow().isoformat()
+                poi_data['created_at'] = datetime.now(timezone.utc).isoformat()
             
-            if '_enriched_at' in poi_data:
-                poi_data['updated_at'] = poi_data['_enriched_at']
-            elif '_processed_at' in poi_data:
-                poi_data['updated_at'] = poi_data['_processed_at']
+            for ts_field in ['updated_at', '_enriched_at', '_processed_at', 'ingestion_timestamp']:
+                if ts_field in poi_data and poi_data[ts_field]:
+                    poi_data['updated_at'] = poi_data[ts_field]
+                    break
             else:
-                poi_data['updated_at'] = datetime.utcnow().isoformat()
+                poi_data['updated_at'] = datetime.now(timezone.utc).isoformat()
+
             
             poi_responses.append(poi_data)
+
         
         logger.info(
             f"Listed {len(poi_responses)} POIs for user {current_user} "
@@ -474,7 +507,7 @@ async def list_pois(
             "items": poi_responses,
             "total": total,
             "page": page,
-            "page_size": page_size,
+            "page_size": actual_page_size,
             "pages": pages
         }
         
@@ -497,7 +530,7 @@ async def list_pois(
     }
 )
 async def search_pois(
-    q: str = Query(..., min_length=1, description="Search query"),
+    q: str = Query(..., min_length=0, description="Search query"),
     city: Optional[str] = Query(None, description="Filter by city"),
     category: Optional[str] = Query(None, description="Filter by category"),
     limit: int = Query(20, ge=1, le=100),
@@ -517,6 +550,16 @@ async def search_pois(
         POIListResponse with matching POIs
     """
     try:
+        # Handle empty query - return empty results
+        if not q.strip():
+            return POIListResponse(
+                items=[],
+                total=0,
+                page=1,
+                page_size=limit,
+                pages=1
+            )
+        
         # Build search query using regex instead of $text (no index required)
         search_filter = {
             "$or": [
@@ -559,9 +602,10 @@ async def search_pois(
                         review_count=poi.get("review_count", 0),
                         quality_score=poi.get("quality_score", 0),
                         layer=layer,
-                        created_at=poi.get("created_at", datetime.utcnow()),
-                        updated_at=poi.get("updated_at", datetime.utcnow())
+                        created_at=poi.get("created_at") or poi.get("_collected_at") or datetime.now(timezone.utc),
+                        updated_at=poi.get("updated_at") or poi.get("_enriched_at") or datetime.now(timezone.utc)
                     ))
+
                 
                 if len(poi_list) >= limit:
                     break
@@ -592,91 +636,6 @@ async def search_pois(
 
 
 @router.get(
-    "/pois/{poi_id}",
-    response_model=POIResponse,
-    summary="Get POI details",
-    description="Lấy chi tiết thông tin của một POI cụ thể theo ID.",
-    responses={
-        200: {"description": "POI found"},
-        404: {"description": "POI not found"},
-    }
-)
-async def get_poi(
-    poi_id: str,
-    db: AsyncIOMotorDatabase = Depends(get_database),
-    current_user: User = Depends(get_current_active_user),
-    layer: Optional[str] = Query(None, pattern="^(bronze|silver|gold)$", description="Search in specific layer")
-):
-    """
-    Get chi tiết POI theo ID.
-    
-    Args:
-        poi_id: POI identifier
-        layer: Optional layer to search (default: search all layers)
-    
-    Returns:
-        POIResponse: POI details
-    """
-    try:
-        # Xác định layer để tìm
-        layers_to_search = ["gold", "silver", "bronze"] if not layer else [layer]
-        
-        # Tìm trong các layers
-        for search_layer in layers_to_search:
-            if search_layer == "bronze":
-                collection = db["bronze_records"]
-                # Bronze dùng record_id
-                doc = await collection.find_one({"record_id": poi_id})
-            elif search_layer == "silver":
-                collection = db["silver_places"]
-                # Silver dùng u_key
-                doc = await collection.find_one({"u_key": poi_id})
-            else:  # gold
-                collection = db["gold_master_pois"]
-                # Gold dùng poi_id hoặc _id
-                doc = await collection.find_one({
-                    "$or": [
-                        {"poi_id": poi_id},
-                        {"_id": poi_id}
-                    ]
-                })
-            
-            if doc:
-                # Chuyển _id thành poi_id nếu cần
-                if "_id" in doc and isinstance(doc["_id"], str):
-                    doc["poi_id"] = doc.pop("_id")
-                elif "_id" in doc and "poi_id" not in doc:
-                    doc["poi_id"] = str(doc.pop("_id"))
-                
-                # Thêm layer info
-                doc["layer"] = search_layer
-                
-                # Ensure created_at and updated_at have default values
-                if 'created_at' not in doc or doc.get('created_at') is None:
-                    doc['created_at'] = datetime.utcnow()
-                if 'updated_at' not in doc or doc.get('updated_at') is None:
-                    doc['updated_at'] = datetime.utcnow()
-                
-                logger.info(f"Retrieved POI {poi_id} from {search_layer} layer")
-                return POIResponse(**doc)
-        
-        # Không tìm thấy
-        raise HTTPException(
-            status_code=status.HTTP_404_NOT_FOUND,
-            detail=f"POI with ID '{poi_id}' not found"
-        )
-        
-    except HTTPException:
-        raise
-    except Exception as e:
-        logger.error(f"Error retrieving POI {poi_id}: {e}")
-        raise HTTPException(
-            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail=f"Error retrieving POI: {str(e)}"
-        )
-
-
-@router.get(
     "/pois/nearby",
     response_model=POIListResponse,
     summary="Find nearby POIs",
@@ -697,28 +656,28 @@ async def find_nearby_pois(
         # Gold collection có thể có geospatial index
         collection = db["gold_master_pois"]
         
-        # Xây dựng geospatial query
-        geo_query = {
-            "location": {
-                "$near": {
-                    "$geometry": {
-                        "type": "Point",
-                        "coordinates": [query.lon, query.lat]  # [lon, lat] format
-                    },
-                    "$maxDistance": query.radius
+        # Thử dùng $near nếu có 2dsphere index, fallback sang Haversine nếu không có
+        pois = []
+        try:
+            geo_query = {
+                "location": {
+                    "$near": {
+                        "$geometry": {
+                            "type": "Point",
+                            "coordinates": [query.lon, query.lat]
+                        },
+                        "$maxDistance": query.radius
+                    }
                 }
             }
-        }
-        
-        # Thêm category filter nếu có
-        if query.category:
-            geo_query["category"] = {"$regex": f"^{query.category}$", "$options": "i"}
-        
-        # Thực hiện query
-        cursor = collection.find(geo_query).limit(query.limit)
-        pois = await cursor.to_list(length=query.limit)
-        
-        # Nếu không có kết quả (có thể do thiếu index), fallback sang manual filter
+            if query.category:
+                geo_query["category"] = {"$regex": f"^{query.category}$", "$options": "i"}
+            cursor = collection.find(geo_query).limit(query.limit)
+            pois = await cursor.to_list(length=query.limit)
+        except Exception:
+            pass  # Fallback to Haversine below
+
+        # Fallback: Haversine manual filter khi thiếu geospatial index
         if not pois:
             # Lấy tất cả POIs trong bounding box gần đó
             lat_range = 0.5  # ~55km
@@ -761,11 +720,10 @@ async def find_nearby_pois(
             if "_id" in poi and "poi_id" not in poi:
                 poi["poi_id"] = str(poi.pop("_id"))
             poi["layer"] = "gold"
-            # Ensure created_at and updated_at have default values
             if 'created_at' not in poi or poi.get('created_at') is None:
-                poi['created_at'] = datetime.utcnow()
+                poi['created_at'] = datetime.now(timezone.utc)
             if 'updated_at' not in poi or poi.get('updated_at') is None:
-                poi['updated_at'] = datetime.utcnow()
+                poi['updated_at'] = datetime.now(timezone.utc)
             poi_responses.append(POIResponse(**poi))
         
         logger.info(
@@ -786,6 +744,137 @@ async def find_nearby_pois(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error finding nearby POIs: {str(e)}"
+        )
+
+
+@router.get(
+    "/pois/{poi_id}",
+    response_model=POIResponse,
+    summary="Get POI details",
+    description="Lấy chi tiết thông tin của một POI cụ thể theo ID.",
+    responses={
+        200: {"description": "POI found"},
+        404: {"description": "POI not found"},
+    }
+)
+async def get_poi(
+    poi_id: str,
+    db: AsyncIOMotorDatabase = Depends(get_database),
+    current_user: User = Depends(get_current_active_user),
+    layer: Optional[str] = Query(None, pattern="^(bronze|silver|gold)$", description="Search in specific layer")
+):
+    """
+    Get chi tiết POI theo ID.
+    
+    Args:
+        poi_id: POI identifier
+        layer: Optional layer to search (default: search all layers)
+    
+    Returns:
+        POIResponse: POI details
+    """
+    try:
+        # Xác định layer để tìm
+        layers_to_search = ["gold", "silver", "bronze"] if not layer else [layer]
+        
+        # Tìm trong các layers
+        # Prepare search filter once
+        search_filter: Dict[str, Any] = {
+            "$or": [
+                {"poi_id": poi_id},
+                {"u_key": poi_id},
+                {"record_id": poi_id}
+            ]
+        }
+        
+        # Try to add _id as ObjectId
+        try:
+            if len(poi_id) == 24: # Typical ObjectId length
+                search_filter["$or"].append({"_id": ObjectId(poi_id)})
+            else:
+                search_filter["$or"].append({"_id": poi_id})
+        except:
+            search_filter["$or"].append({"_id": poi_id})
+
+        # Tìm trong các layers
+        for search_layer in layers_to_search:
+            coll_name = "gold_master_pois"
+            if search_layer == "bronze":
+                coll_name = "bronze_pois"
+            elif search_layer == "silver":
+                coll_name = "silver_places"
+
+            collection = db[coll_name]
+            logger.info(f"DEBUG: get_poi searching in database: {db.name}, collection: {coll_name}, filter: {search_filter}")
+
+            doc = await collection.find_one(search_filter)
+            
+            if doc:
+                # Map to response model
+                res_data = dict(doc)
+                if "poi_id" not in res_data:
+                    res_data["poi_id"] = str(res_data.pop("_id"))
+                elif "_id" in res_data:
+                    res_data["mongo_id"] = str(res_data.pop("_id"))
+                
+                # Layer info
+                res_data["layer"] = search_layer
+                
+                # Location normalization
+                if "location" in res_data and isinstance(res_data["location"], dict):
+                    if "lng" in res_data["location"] and "lon" not in res_data["location"]:
+                        res_data["location"]["lon"] = res_data["location"].pop("lng")
+                
+                # Fields normalization
+                if "name" not in res_data:
+                    res_data["name"] = res_data.get("title", "Unnamed POI")
+                if "category" not in res_data:
+                    res_data["category"] = res_data.get("type", "unknown")
+                if "city" not in res_data:
+                    res_data["city"] = res_data.get("_city", "unknown")
+                if "country" not in res_data or not res_data["country"]:
+                    res_data["country"] = res_data.get("_country", "VN")
+                
+                # Force 2 chars for country (ISO 3166-1)
+                if isinstance(res_data["country"], str) and len(res_data["country"]) > 2:
+                    c_norm = res_data["country"].lower()
+                    if "vietnam" in c_norm or "viet nam" in c_norm:
+                        res_data["country"] = "VN"
+                    else:
+                        res_data["country"] = res_data["country"][:2].upper()
+                if "sources" not in res_data:
+                    res_data["sources"] = [res_data.get("source", "unknown")]
+                
+                # Timestamps
+                for ts_field in ['created_at', '_collected_at', '_processed_at', '_enriched_at']:
+
+                    if ts_field in res_data and res_data[ts_field]:
+                        res_data['created_at'] = res_data[ts_field]
+                        break
+                
+                if 'created_at' not in res_data:
+                    res_data['created_at'] = datetime.now(timezone.utc)
+                if 'updated_at' not in res_data:
+                    res_data['updated_at'] = datetime.now(timezone.utc)
+                
+                logger.info(f"Retrieved POI {poi_id} from {search_layer} layer ({coll_name})")
+                return POIResponse(**res_data)
+
+
+        
+        # Không tìm thấy
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail=f"POI with ID '{poi_id}' not found in database {db.name}. Checked: {layers_to_search}"
+        )
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"Error retrieving POI {poi_id}: {e}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Error retrieving POI: {str(e)}"
         )
 
 
@@ -865,7 +954,7 @@ async def get_data_stats(
             by_city=by_city,
             by_layer=by_layer,
             by_source=by_source,
-            last_updated=datetime.utcnow()
+            last_updated=datetime.now(timezone.utc)
         )
         
     except Exception as e:
@@ -901,7 +990,7 @@ async def get_layer_info(
             layer="bronze",
             count=bronze_count,
             size_mb=bronze_count * 0.01,  # Estimate ~10KB per record
-            last_updated=datetime.utcnow(),
+            last_updated=datetime.now(timezone.utc),
             description="Raw data from OSM and other sources"
         ))
         
@@ -911,7 +1000,7 @@ async def get_layer_info(
             layer="silver",
             count=silver_count,
             size_mb=silver_count * 0.005,  # Estimate ~5KB per record
-            last_updated=datetime.utcnow(),
+            last_updated=datetime.now(timezone.utc),
             description="Cleaned and normalized data"
         ))
         
@@ -921,7 +1010,7 @@ async def get_layer_info(
             layer="gold",
             count=gold_count,
             size_mb=gold_count * 0.008,  # Estimate ~8KB per record
-            last_updated=datetime.utcnow(),
+            last_updated=datetime.now(timezone.utc),
             description="Enriched and deduplicated master records"
         ))
         
@@ -1044,7 +1133,8 @@ async def list_categories(
 @router.get("/testpois", summary="Test endpoint")
 async def test_pois_endpoint(db: AsyncIOMotorDatabase = Depends(get_database)):
     """Simple test endpoint."""
-    return {"message": "Code reloaded successfully v5", "timestamp": datetime.utcnow().isoformat()}
+    return {"message": "Code reloaded successfully v5", "timestamp": datetime.now(timezone.utc).isoformat()}
+
 
 @router.get("/testpublic", summary="Public test endpoint")
 async def test_public_endpoint():

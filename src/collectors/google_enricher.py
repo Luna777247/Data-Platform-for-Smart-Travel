@@ -11,13 +11,9 @@ _RAPIDAPI_HOST = "google-map-places.p.rapidapi.com"
 _NEARBY_SEARCH_URL = "https://google-map-places.p.rapidapi.com/maps/api/place/nearbysearch/json"
 _PLACE_DETAILS_URL = "https://google-map-places.p.rapidapi.com/maps/api/place/details/json"
 
-# Load keys từ file
-_KEYS_FILE = Path(__file__).parent.parent.parent / "storage" / "configs" / "rapidapi_keys.json"
-try:
-    with open(_KEYS_FILE, "r") as f:
-        _RAPIDAPI_KEYS = json.load(f)
-except Exception:
-    _RAPIDAPI_KEYS = []
+from src.core.config import settings
+
+_RAPIDAPI_KEYS = settings.rapid_api_keys
 
 _key_index = 0
 
@@ -25,7 +21,7 @@ _key_index = 0
 def _get_rapidapi_headers() -> Dict[str, str]:
     global _key_index
     if not _RAPIDAPI_KEYS:
-        raise RuntimeError(f"No RapidAPI keys found in {_KEYS_FILE}")
+        raise RuntimeError("No RapidAPI keys found in settings/env")
     key = _RAPIDAPI_KEYS[_key_index % len(_RAPIDAPI_KEYS)]
     _key_index += 1
     return {

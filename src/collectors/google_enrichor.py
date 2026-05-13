@@ -4,7 +4,7 @@ GoogleEnrichor
 ==============
 Enrich bronze_pois (đã có osm_raw) với Google Places data.
 Update từng POI vào bronze_pois với google_raw schema.
-Dùng RapidAPI keys từ storage/configs/rapidapi_keys.json với quota guard.
+Dùng RapidAPI keys từ .env với quota guard.
 Resume-safe: bỏ qua POIs đã có has_google_data=True.
 """
 import json
@@ -27,12 +27,9 @@ _RAPIDAPI_HOST = "google-map-places.p.rapidapi.com"
 _NEARBY_SEARCH_URL = f"https://{_RAPIDAPI_HOST}/maps/api/place/nearbysearch/json"
 _PLACE_DETAILS_URL = f"https://{_RAPIDAPI_HOST}/maps/api/place/details/json"
 
-_KEYS_FILE = Path(__file__).parent.parent.parent / "storage" / "configs" / "rapidapi_keys.json"
-try:
-    with open(_KEYS_FILE, "r") as _f:
-        _RAPIDAPI_KEYS: List[str] = json.load(_f)
-except Exception:
-    _RAPIDAPI_KEYS = []
+from src.core.config import settings
+
+_RAPIDAPI_KEYS = settings.rapid_api_keys
 
 _key_index = 0
 
@@ -40,7 +37,7 @@ _key_index = 0
 def _get_next_key() -> str:
     global _key_index
     if not _RAPIDAPI_KEYS:
-        raise RuntimeError(f"No RapidAPI keys found in {_KEYS_FILE}")
+        raise RuntimeError("No RapidAPI keys found in settings/env")
     key = _RAPIDAPI_KEYS[_key_index % len(_RAPIDAPI_KEYS)]
     _key_index += 1
     return key
@@ -113,7 +110,7 @@ class GoogleEnrichor:
             {"enriched": int, "not_found": int, "errors": int, "stopped": bool}
         """
         if not _RAPIDAPI_KEYS:
-            logger.error(f"No RapidAPI keys found in {_KEYS_FILE}")
+            logger.error("No RapidAPI keys found in settings/env")
             return {"enriched": 0, "not_found": 0, "errors": 0, "stopped": True}
 
         query: Dict[str, Any] = {

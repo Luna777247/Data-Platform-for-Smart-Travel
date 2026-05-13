@@ -4,7 +4,7 @@ Enrich Google Raw Data
 ======================
 Thêm google_raw vào POIs đã có osm_raw trong bronze_pois.
 Hoặc tạo mới POI chỉ có google_raw (Google-only).
-Dùng RapidAPI với key rotation từ storage/configs/rapidapi_keys.json.
+Dùng RapidAPI với key rotation từ .env.
 
 Usage:
     python enrich_google_raw.py          # Enrich OSM POIs đã có
@@ -19,6 +19,7 @@ from pathlib import Path
 from datetime import datetime, timezone
 from pymongo import MongoClient
 from dotenv import load_dotenv
+# from src.core.config import settings
 
 load_dotenv()
 
@@ -32,13 +33,9 @@ RAPIDAPI_HOST = "google-map-places.p.rapidapi.com"
 NEARBY_SEARCH_URL = "https://google-map-places.p.rapidapi.com/maps/api/place/nearbysearch/json"
 PLACE_DETAILS_URL = "https://google-map-places.p.rapidapi.com/maps/api/place/details/json"
 
-# Load keys từ file
-_KEYS_FILE = Path(__file__).parent / "storage" / "configs" / "rapidapi_keys.json"
-try:
-    with open(_KEYS_FILE, "r") as f:
-        RAPIDAPI_KEYS = json.load(f)
-except Exception:
-    RAPIDAPI_KEYS = []
+from src.core.config import settings
+
+RAPIDAPI_KEYS = settings.rapid_api_keys
 
 _key_index = 0
 
@@ -47,7 +44,7 @@ def _get_next_key():
     """Round-robin key rotation"""
     global _key_index
     if not RAPIDAPI_KEYS:
-        raise RuntimeError(f"No RapidAPI keys found in {_KEYS_FILE}")
+        raise RuntimeError("No RapidAPI keys found in settings/env")
     key = RAPIDAPI_KEYS[_key_index % len(RAPIDAPI_KEYS)]
     _key_index += 1
     return key
@@ -129,7 +126,7 @@ def enrich_google_raw(limit=100, city=None):
     print("=" * 70)
 
     if not RAPIDAPI_KEYS:
-        print(f"❌ No RapidAPI keys found in {_KEYS_FILE}")
+        print("❌ No RapidAPI keys found in settings/env")
         return
     print(f"🔑 Loaded {len(RAPIDAPI_KEYS)} RapidAPI keys")
 
@@ -258,7 +255,7 @@ def collect_google_only(city_code, city_config, category="restaurant", limit=50)
     print(f"\n📍 Collecting Google-only: {city_config['name']} / {category}")
 
     if not RAPIDAPI_KEYS:
-        print(f"❌ No RapidAPI keys found in {_KEYS_FILE}")
+        print("❌ No RapidAPI keys found in settings/env")
         return
 
     client = MongoClient(MONGODB_URI)

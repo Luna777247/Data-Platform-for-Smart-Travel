@@ -144,6 +144,8 @@ class MongoDBManager:
             if not mongo_url:
                 raise ValueError("MONGODB_URL is not configured")
             
+            print(f"CRITICAL: Connecting to MongoDB with URL: {mongo_url}")
+            
             # Tạo Motor client với tối ưu cho production
             self._client = AsyncIOMotorClient(
                 mongo_url,
@@ -256,7 +258,7 @@ class MongoDBManager:
             >>> await collection.find_one({"city": "tokyo"})
         """
         # Kiểm tra đã kết nối chưa
-        if not self._is_connected or not self._database:
+        if not self._is_connected or self._database is None:
             raise ConnectionError(
                 "MongoDB not connected. Call connect() first."
             )

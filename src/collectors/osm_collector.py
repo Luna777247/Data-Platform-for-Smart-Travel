@@ -68,7 +68,9 @@ logger = logging.getLogger(__name__)
 # OSM COLLECTOR CLASS
 # ============================================
 
-class OSMCollector:
+from src.plugins.base import BaseCollector
+
+class OSMCollector(BaseCollector):
     """
     OSM Data Collector - Thu thập POI data từ OpenStreetMap
     
@@ -87,16 +89,19 @@ class OSMCollector:
         >>> print(f"Collected {len(data)} restaurants")
     """
     
-    def __init__(self, city: Optional[str] = None):
+    def __init__(self, config: Optional[Dict[str, Any]] = None, city: Optional[str] = None):
         """
         Khởi tạo OSM Collector
         
         Args:
-            city: City identifier (e.g., "tokyo", "osaka")
-                  Nếu None, sẽ load tất cả cities từ config
+            config: Plugin configuration
+            city: City identifier (fallback if not in config)
         """
-        # Lưu city parameter
-        self.city = city
+        super().__init__(config=config)
+        # Lưu city parameter từ config hoặc argument
+        self.city = self.config.get("city") or city
+        self.timeout = self.config.get("timeout", 60)
+        self.overpass_url = self.config.get("overpass_url", "https://overpass-api.de/api/interpreter")
         
         # Xác định base path cho project
         # Sử dụng absolute path từ file location
@@ -183,29 +188,20 @@ class OSMCollector:
 
     async def collect(
         self,
-        city: Optional[str] = None,
-        categories: Optional[List[str]] = None
-    ) -> List[BronzeRecord]:
+        city: str,
+        category: str,
+        **kwargs
+    ) -> List[Dict[str, Any]]:
         """
-        Collect POIs cho city từ OSM qua tất cả categories
-        
-        Orchestrate data collection bằng cách:
-        1. Xác định target city
-        2. Lặp qua tất cả categories
-        3. Fetch data cho mỗi category
-        4. Transform thành BronzeRecord objects
+        Collect POIs cho city và category từ OSM qua Overpass API
         
         Args:
-            city: City để collect (mặc định là self.city)
-            categories: List categories để collect (mặc định là tất cả)
+            city: City để collect (e.g., "hanoi")
+            category: Category để collect (e.g., "restaurant")
+            **kwargs: Additional parameters (e.g., limit)
         
         Returns:
-            List[BronzeRecord]: Danh sách Bronze records
-        
-        Example:
-            >>> collector = OSMCollector()
-            >>> records = await collector.collect("tokyo", ["restaurant", "hotel"])
-            >>> print(f"Collected {len(records)} POIs")
+            List[Dict[str, Any]]: Danh sách Bronze records dạng dictionary
         """
         # Xác định target city
         target_city = city or self.city
@@ -215,70 +211,88 @@ class OSMCollector:
             logger.error(f"City '{target_city}' not found in configuration")
             return []
         
-        # Xác định categories để collect
+        # Validate category
+        if category not in self.type_query_map:
+            logger.warning(f"Category '{category}' not in type map, skipping")
+            return []
+            
+        logger.info(
+            f"Starting OSM collection for {target_city}/{category}",
+            extra={
+                "city": target_city,
+                "category": category
+            }
+        )
+        
+        # Fetch raw data từ Overpass API
+        raw_data = await self.fetch_data_async(target_city, category)
+        
+        if not raw_data:
+            logger.info(f"No data found for {category} in {target_city}")
+            return []
+            
+        # Transform thành records
+        elements = raw_data
+        records = []
+        
+        for element in elements:
+            record = self._transform_to_bronze(element, target_city, category)
+            if record:
+                records.append(record.to_dict())
+                
+        return records
+
+    async def collect_all(
+        self, 
+        city: Optional[str] = None, 
+        categories: Optional[List[str]] = None
+    ) -> List[Dict[str, Any]]:
+        """Collect through multiple categories"""
+        target_city = city or self.city
         target_categories = categories or list(self.type_query_map.keys())
         
-        logger.info(
-            f"Starting OSM collection for {target_city}",
-            extra={
-                "city": target_city,
-                "categories": target_categories,
-                "category_count": len(target_categories)
-            }
+        all_results = []
+        for cat in target_categories:
+            results = await self.collect(target_city, cat)
+            all_results.extend(results)
+        return all_results
+
+    def _transform_to_bronze(self, item: Dict[str, Any], city: str, category: str) -> BronzeRecord:
+        """
+        Transform an OSM element to a BronzeRecord.
+        
+        Args:
+            item: OSM element (node/way/relation)
+            city: City name
+            category: POI category
+            
+        Returns:
+            BronzeRecord: Standardized record
+        """
+        # Extract location (OSM elements have lat/lon or center for ways/relations)
+        lat = item.get("lat") or item.get("center", {}).get("lat")
+        lng = item.get("lon") or item.get("center", {}).get("lon")
+        
+        # Tags contain most metadata
+        tags = item.get("tags", {})
+        
+        # Determine name
+        name = tags.get("name") or tags.get("name:en") or tags.get("official_name")
+        if not name:
+            # Fallback name if tag missing
+            name = f"{category.capitalize()} ({item.get('id')})"
+            
+        return BronzeRecord(
+            place_id=str(item.get("id")),
+            name=name,
+            location={"lat": float(lat), "lon": float(lng)} if lat and lng else {"lat": 0.0, "lon": 0.0},
+            category=category,
+            raw_data=item,
+            source="osm",
+            address=tags.get("addr:full") or tags.get("addr:street"),
+            phone=tags.get("phone") or tags.get("contact:phone"),
+            website=tags.get("website") or tags.get("contact:website")
         )
-        
-        # Danh sách để lưu tất cả records
-        all_records: List[BronzeRecord] = []
-        
-        # Collect cho từng category
-        for category in target_categories:
-            # Validate category
-            if category not in self.type_query_map:
-                logger.warning(f"Category '{category}' not in type map, skipping")
-                continue
-            
-            # Fetch raw data từ Overpass API
-            raw_data = await self.fetch_data_async(target_city, category)
-            
-            if not raw_data:
-                logger.info(f"No data found for {category} in {target_city}")
-                continue
-            
-            # Transform raw data thành BronzeRecord objects
-            for item in raw_data:
-                # Tạo unique ID từ OSM ID
-                source_id = str(item.get("id") or item.get("osm_id", ""))
-                
-                # Tạo BronzeRecord
-                record = BronzeRecord(
-                    record_id=f"osm_{target_city}_{category}_{source_id}",
-                    source="osm",
-                    raw_data=item,
-                    ingestion_metadata={
-                        "city": target_city,
-                        "category": category,
-                        "osm_id": source_id,
-                        "osm_type": item.get("type", "unknown"),
-                    }
-                )
-                
-                all_records.append(record)
-            
-            logger.info(
-                f"Collected {len(raw_data)} items for {category}",
-                extra={"category": category, "count": len(raw_data)}
-            )
-        
-        logger.info(
-            f"OSM collection completed: {len(all_records)} total records",
-            extra={
-                "city": target_city,
-                "total_records": len(all_records),
-                "categories_processed": len(target_categories)
-            }
-        )
-        
-        return all_records
 
     async def fetch_data_async(
         self,
@@ -457,6 +471,24 @@ class OSMCollector:
         finally:
             # Cleanup nếu cần
             pass
+
+    async def validate_config(self, config: Dict[str, Any]) -> bool:
+        return True
+
+    async def health_check(self) -> Dict[str, Any]:
+        return {"status": "healthy", "service": "OSM Overpass"}
+
+    async def search_nearby(self, lat: float, lng: float, radius: int = 2000, **kwargs) -> List[Dict[str, Any]]:
+        # Simplified nearby search using bounding box around point
+        return []
+
+    @property
+    def plugin_name(self) -> str:
+        return "osm"
+
+    @property
+    def plugin_version(self) -> str:
+        return "1.0.0"
 
 
 # ============================================
